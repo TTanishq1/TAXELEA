@@ -1,0 +1,363 @@
+{
+  "id": "cbf8992ec88a",
+  "provider": "Testbook",
+  "sourceFile": "CT 31_ Quadratic Equation and Polynomials.html",
+  "sourcePath": "Testbook/files/CT 31_ Quadratic Equation and Polynomials.html",
+  "title": "CT 31: Quadratic Equation and Polynomials",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "cbf8992ec88a-q1",
+      "number": 1,
+      "question": "If the equation x 2 + 2(2 + k)x + k 2 = 0 has equal roots, then what is the value of k?",
+      "questionHtml": "If the equation x<sup>2 </sup>+ 2(2 + k)x + k<sup>2 </sup>= 0 has equal roots, then what is the value of k?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "text": "-1",
+          "html": "-1"
+        },
+        {
+          "id": "D",
+          "text": "1/2",
+          "html": "1/2"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Equation x<sup>2 </sup>+ 2(2 + k)x + k<sup>2 </sup>= 0,</p>\n\n<p>For equal roots, D = 0 or b<sup>2</sup> &ndash; 4ac = 0</p>\n\n<p>&rArr; b<sup>2</sup> &ndash; 4ac = 4(2 + k)<sup>2</sup> &ndash; 4k<sup>2 </sup>= 0</p>\n\n<p>&rArr; 16 + 4k<sup>2 </sup>+ 16k &ndash; 4k<sup>2 </sup>= 0</p>\n\n<p>&rArr; 16 + 16k = 0</p>\n\n<p>&there4; k = -1</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "cbf8992ec88a-q2",
+      "number": 2,
+      "question": "If &lsquo;&alpha;&rsquo; and &lsquo;&beta;&rsquo; are roots of an equation 3x 2 &ndash; 20x + p = 0 and &alpha; &ndash; &beta; = 16/3, then find the value of &lsquo;p&rsquo;.",
+      "questionHtml": "<span lang=\"EN-IN\" style=\"  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">If &lsquo;&alpha;&rsquo; and &lsquo;&beta;&rsquo; are roots of an equation 3x<sup>2</sup> &ndash; 20x + p = 0 and &alpha; &ndash; &beta; = 16/3, then find the value of &lsquo;p&rsquo;.</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "15",
+          "html": "15"
+        },
+        {
+          "id": "B",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "C",
+          "text": "18",
+          "html": "18"
+        },
+        {
+          "id": "D",
+          "text": "12",
+          "html": "12"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p align=\"left\"><strong>GIVEN:</strong></p>\n\n<p align=\"left\">&alpha; &ndash; &beta; = 16/3</p>\n\n<p align=\"left\"><strong>CONCEPT:</strong></p>\n\n<p align=\"left\">Roots of the equation</p>\n\n<p align=\"left\"><strong>CALCULATION:</strong></p>\n\n<p align=\"left\">Since &lsquo;&alpha;&rsquo; and &lsquo;&beta;&rsquo; are roots of an equation 3x<sup>2</sup> &ndash; 20x + p = 0.</p>\n\n<p align=\"left\">&alpha; + &beta; = 20/3&nbsp; &nbsp; &nbsp;----(1)</p>\n\n<p align=\"left\">&alpha;&beta; = p/3&nbsp; &nbsp; &nbsp;----(2)</p>\n\n<p align=\"left\">&alpha; &ndash; &beta; = 16/3&nbsp; &nbsp; &nbsp;----(3)</p>\n\n<p align=\"left\">From (1) and (3):</p>\n\n<p align=\"left\">&rArr; &alpha; = 6</p>\n\n<p align=\"left\">&rArr; &beta; = 2/3</p>\n\n<p align=\"left\">From equation (2):</p>\n\n<p align=\"left\">&alpha;&beta; = p/3</p>\n\n<p align=\"left\">&rArr; 6 &times; (2/3) = p/3</p>\n\n<p align=\"left\">&rArr; p/3 = 4</p>\n\n<p align=\"left\">&rArr; p = 12</p>\n\n<p align=\"left\"><strong>&there4; The value of p is 12.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "cbf8992ec88a-q3",
+      "number": 3,
+      "question": "If x = 3 is a root of the polynomial, f(x) = 4x 3 + 2x 2 + 5x - a. Find the value of a.",
+      "questionHtml": "If x = 3 is a root of the polynomial, f(x) = 4x<sup>3</sup>&nbsp;+ 2x<sup>2&nbsp;</sup>+ 5x - a. Find the value of a.",
+      "options": [
+        {
+          "id": "A",
+          "text": "123",
+          "html": "123"
+        },
+        {
+          "id": "B",
+          "text": "141",
+          "html": "141"
+        },
+        {
+          "id": "C",
+          "text": "136",
+          "html": "136"
+        },
+        {
+          "id": "D",
+          "text": "189",
+          "html": "189"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given</strong></p>\n\n<p>&nbsp;f(x) = 4x<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span>&nbsp;+ 2x<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2&nbsp;</span>+ 5x - a</p>\n\n<p>and x = 3</p>\n\n<p><strong>Concept</strong></p>\n\n<p>when we put the value of root in the polynomial, then the value of polynomial is equal to zero.</p>\n\n<p><strong>Calculation</strong></p>\n\n<p>F(3) = 4(3)<sup>3</sup>&nbsp;+ 2(3)<sup>2</sup>&nbsp;+ 5(3) - a</p>\n\n<p>&rArr; 0 = 108 + 18 + 15 - a</p>\n\n<p>&rArr; 0 = 141 - a</p>\n\n<p>&rArr; a = 141</p>\n\n<p><strong>&there4; Value of a is 141</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "cbf8992ec88a-q4",
+      "number": 4,
+      "question": "For what values of k, the roots of 9x 2 + 8kx + 16 = 0 are real and equal?",
+      "questionHtml": "For what values of k, the roots of 9x<sup>2&nbsp;</sup>+ 8kx + 16 = 0 are real and equal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "B",
+          "text": "-2, 2",
+          "html": "-2, 2"
+        },
+        {
+          "id": "C",
+          "text": "-3,3",
+          "html": "-3,3"
+        },
+        {
+          "id": "D",
+          "text": "-4, 4",
+          "html": "-4, 4"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given: </strong></p>\n\n<p>The expressions 9x<sup>2&nbsp;</sup>+ 8kx + 16 = 0</p>\n\n<p><strong>Calculation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>\n\n<p>For real and equal roots D = 0</p>\n\n<p>We know that, b<sup>2</sup> &ndash; 4ac = 0</p>\n\n<p>Put the value, b = 8k, a = 9 and c = 16</p>\n\n<p>b<sup>2</sup> &ndash; 4ac = 0</p>\n\n<p>(8k)<sup>2</sup> &ndash; 4 &times; 16 &times; 9 = 0</p>\n\n<p>64k<sup>2</sup> &ndash; 576 = 0</p>\n\n<p>K<sup>2</sup> = 576/64 = 9</p>\n\n<p>K = -3, +3</p>\n\n<p>Hence, the value of k = -3, +3</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "cbf8992ec88a-q5",
+      "number": 5,
+      "question": "Which of the following quadratic equations satisfies that the roots are 3 and -2?",
+      "questionHtml": "Which of the following quadratic equations satisfies that the roots are 3 and -2?",
+      "options": [
+        {
+          "id": "A",
+          "text": "x 2 + x + 6 = 0",
+          "html": "<span style=\"\">x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">+ x + 6 = 0</span>"
+        },
+        {
+          "id": "B",
+          "text": "x 2 - x - 6 = 0",
+          "html": "<span style=\"\">x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">- x - 6 = 0</span>"
+        },
+        {
+          "id": "C",
+          "text": "x 2 - x + 6 = 0",
+          "html": "<span style=\"\">x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">- x + 6 = 0</span>"
+        },
+        {
+          "id": "D",
+          "text": "x 2 + x - 6 = 0",
+          "html": "<span style=\"\">x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">+ x - 6 = 0</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>(x-3)(x+2) = 0 ⇒  x<sup>2</sup> - 3x +2x - 6 = 0 <span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"\">x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\"> </span><span style=\"\">- x - 6 = 0</span>.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "cbf8992ec88a-q6",
+      "number": 6,
+      "question": "If the equation x 2 + 2(1 + k) x + k 2 = 0 has equal roots, then what is the value of k?",
+      "questionHtml": "If the equation x<sup>2</sup>&nbsp;+ 2(1 + k) x + k<sup>2</sup>&nbsp;= 0 has equal roots, then what is the value of k?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{2}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(-\\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(-\\frac{1}{2}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "D",
+          "text": "-1",
+          "html": "-1"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>For a quadratic equation to have <strong>equal roots</strong>, the discriminant <strong>D</strong> must be <strong>0</strong> (b<sup>2</sup> = 4ac).</p>\n<p>Applying the condition: [2(1 + k)]<sup>2</sup> = 4 × 1 × k<sup>2</sup></p>\n<p>4(1 + k)<sup>2</sup> = 4k<sup>2</sup> ⇒ (1 + k)<sup>2</sup> = k<sup>2</sup></p>\n<p>1 + 2k + k<sup>2</sup> = k<sup>2</sup> ⇒ 2k = −1</p>\n<p><strong>∴ The correct answer is −1/2.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>The quadratic equation is x<sup>2</sup> + 2(1 + k)x + k<sup>2</sup> = 0.</p>\n<p>Comparing with the standard form <strong>ax<sup>2</sup> + bx + c = 0</strong>:</p>\n<p>a = 1, b = 2(1 + k), c = k<sup>2</sup></p>\n<p><strong>Formula Used:</strong></p>\n<p>For <strong>equal roots</strong>, the discriminant (D) is zero: <strong>b<sup>2</sup> − 4ac = 0</strong></p>\n<p><strong>Calculations:</strong></p>\n<p>⇒ [2(1 + k)]<sup>2</sup> − 4 × 1 × k<sup>2</sup> = 0</p>\n<p>⇒ 4(1 + k)<sup>2</sup> − 4k<sup>2</sup> = 0</p>\n<p>⇒ 4(1 + 2k + k<sup>2</sup>) − 4k<sup>2</sup> = 0</p>\n<p>⇒ 4 + 8k + 4k<sup>2</sup> − 4k<sup>2</sup> = 0</p>\n<p>⇒ 4 + 8k = 0</p>\n<p>⇒ 8k = −4</p>\n<p>⇒ k = −4/8</p>\n<p>⇒ k = −1/2</p>\n<p>Thus, the value of k that satisfies the condition for equal roots is −1/2, which corresponds to <strong>Option (2)</strong>.</p>\n<p><strong>∴ The correct answer is −1/2.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Nature of Roots</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The discriminant <strong>D = b<sup>2</sup> − 4ac</strong> determines the nature: <strong>D > 0</strong> (Real and Distinct), <strong>D = 0</strong> (Real and Equal), <strong>D < 0</strong> (Imaginary/Complex).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Quadratic Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The roots of <strong>ax<sup>2</sup> + bx + c = 0</strong> are given by <strong>x = [−b ± √(b<sup>2</sup> − 4ac)] / 2a</strong>.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Sum and Product of Roots</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">For any quadratic equation, the <strong>Sum of roots = −b/a</strong> and the <strong>Product of roots = c/a</strong>.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "cbf8992ec88a-q7",
+      "number": 7,
+      "question": "If one root of the equation 4x 2 - 2x + k - 4 = 0 is reciprocal of the other, the value of k is:",
+      "questionHtml": "If one root of the equation 4x<sup>2</sup>&nbsp;- 2x + k - 4 = 0 is reciprocal of the other, the value of k is:&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "B",
+          "text": "-8",
+          "html": "-8"
+        },
+        {
+          "id": "C",
+          "text": "-4",
+          "html": "-4"
+        },
+        {
+          "id": "D",
+          "text": "8",
+          "html": "8"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"\">Product of roots = <span class=\"math-tex\">\\(a\\times\\large{1\\over a} = {k-4\\over 4}\\)</span> </span><span style=\"color: rgb(33, 37, 41);\">⇒</span><span style=\"\"> 1 × 4 = k - 4 </span><span style=\"color: rgb(33, 37, 41);\">⇒</span><span style=\"\"> k = 4 + 4 = 8</span>.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "cbf8992ec88a-q8",
+      "number": 8,
+      "question": "What is the value of k, if (x + 1) is a factor of x 8 + kx 3 - 2x + 1?",
+      "questionHtml": "What is the value of k, if (x + 1) is a factor of x<sup>8</sup> + kx<sup>3</sup> - 2x + 1?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "4"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Calculation:</strong></p>\n\n<p>x + 1 = 0&nbsp;</p>\n\n<p>&rArr; x = -1</p>\n\n<p><strong>If (x + 1) is a factor of (x<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">8</span>&nbsp;+ kx<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span>&nbsp;- 2x + 1), then, x = -1 will satisfy given polynomial.&nbsp;</strong></p>\n\n<p>&rArr; P(-1) = (x<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">8</span>&nbsp;+ kx<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">3</span>&nbsp;- 2x + 1) = 0</p>\n\n<p>&rArr; P(-1) = [(-1)<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">8</span>&nbsp;+ k(-1)<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">3</span>&nbsp;- 2(-1)&nbsp;+ 1] = 0</p>\n\n<p>&rArr; P(-1) = 1 - k + 2 + 1 = 0</p>\n\n<p><span style=\" line-height: 115%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&there4;&nbsp;</span>k = 4</p>\n\n<p>The correct option is 4&nbsp;i.e.&nbsp;4&nbsp; &nbsp; &nbsp; &nbsp;</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "cbf8992ec88a-q9",
+      "number": 9,
+      "question": "If &alpha; and &beta;, where &alpha; > &beta;, are the roots of the equation 5x 2 - 3x - 2 = 0, then what is the value of (&alpha; - 2&beta;)?",
+      "questionHtml": "If&nbsp;&alpha; and&nbsp;&beta;, where&nbsp;&alpha; &gt;&nbsp;&beta;, are the roots of the equation 5x<sup>2</sup> - 3x - 2 = 0, then what is the value of (&alpha; - 2&beta;)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{11}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{11}{5}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{9}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{9}{5}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{7}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{7}{5}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{1}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{5}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>5x<sup>2</sup> - 3x - 2 = 0  ⇒ 5x<sup>2</sup> - 5x + 2x - 2 = 0  ⇒ 5x ( x - 1) + 2 ( x - 1) = 0 </p>\n\n<p>⇒ ( 5x + 2) ( x - 1) = 0  ⇒ 5x + 2 = 0  and x -1 = 0  ⇒ x = -2/5 and x =1</p>\n\n<p>Two roots are - 2/5 and  1, <span class=\"math-tex\">\\(\\alpha\\)</span> = 1 and <span class=\"math-tex\">\\(\\beta\\)</span> = -2/5 </p>\n\n<p>( <span class=\"math-tex\">\\(\\alpha\\)</span> - 2 <span class=\"math-tex\">\\(\\beta\\)</span> ) =  1 - 2× ( -2/5)  ⇒ 1 + 4/5 = 9/5 </p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "cbf8992ec88a-q10",
+      "number": 10,
+      "question": "Determine the positive value of 'k' for which the equations x 2 + kx + 64 = 0 and x 2 - 8x + k = 0 will both have real roots.",
+      "questionHtml": "Determine the positive value of &#39;k&#39; for which the equations x<sup>2</sup>&nbsp;+ kx + 64 = 0 and x<sup>2</sup>&nbsp;- 8x + k = 0 will both have real roots.",
+      "options": [
+        {
+          "id": "A",
+          "text": "14",
+          "html": "<span style=\"\">14</span>"
+        },
+        {
+          "id": "B",
+          "text": "15",
+          "html": "<span style=\"\">15</span>"
+        },
+        {
+          "id": "C",
+          "text": "17",
+          "html": "<span style=\"\">17</span>"
+        },
+        {
+          "id": "D",
+          "text": "16",
+          "html": "<span style=\"\">16</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>For equations to have <strong>real roots</strong>, the <strong>Discriminant (D)</strong> must be <strong>D ≥ 0</strong>.</p>\n<p>From x<sup>2</sup> + kx + 64 = 0 ⇒ k<sup>2</sup> ≥ 256 ⇒ <strong>k ≥ 16</strong>.</p>\n<p>From x<sup>2</sup> − 8x + k = 0 ⇒ 64 − 4k ≥ 0 ⇒ <strong>k ≤ 16</strong>.</p>\n<p>Comparing both conditions, the only possible positive value for <strong>k</strong> is <strong>16</strong>.</p>\n<p><strong>∴ The correct answer is 16.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Equation 1: x<sup>2</sup> + kx + 64 = 0</p>\n<p>Equation 2: x<sup>2</sup> − 8x + k = 0</p>\n<p><strong>Formula Used:</strong></p>\n<p>For a quadratic equation ax<sup>2</sup> + bx + c = 0, the roots are <strong>real</strong> if the <strong>Discriminant (D) = b<sup>2</sup> − 4ac ≥ 0</strong>.</p>\n<p><strong>Calculations:</strong></p>\n<p>⇒ For equation x<sup>2</sup> + kx + 64 = 0 to have <strong>real roots</strong>:</p>\n<p>⇒ k<sup>2</sup> − 4 × 1 × 64 ≥ 0</p>\n<p>⇒ k<sup>2</sup> − 256 ≥ 0</p>\n<p>⇒ k<sup>2</sup> ≥ 256</p>\n<p>⇒ k ≥ 16 (considering positive value of k)</p>\n<p>⇒ For equation x<sup>2</sup> − 8x + k = 0 to have <strong>real roots</strong>:</p>\n<p>⇒ (−8)<sup>2</sup> − 4 × 1 × k ≥ 0</p>\n<p>⇒ 64 − 4k ≥ 0</p>\n<p>⇒ 4k ≤ 64</p>\n<p>⇒ k ≤ 16</p>\n<p>⇒ To satisfy both conditions <strong>k ≥ 16</strong> and <strong>k ≤ 16</strong> simultaneously, the value of k must be exactly 16.</p>\n<p><strong>∴ The correct answer is 16.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Nature of Roots based on Discriminant (D)</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If <strong>D > 0</strong>, roots are <strong>real and distinct</strong>. If <strong>D = 0</strong>, roots are <strong>real and equal</strong>. If <strong>D < 0</strong>, roots are <strong>imaginary</strong>.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Sum and Product of Roots</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">For ax<sup>2</sup> + bx + c = 0, the sum of roots (α + β) = <strong>−b/a</strong> and the product of roots (αβ) = <strong>c/a</strong>.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Quadratic Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The values of x are calculated as <strong>x = (−b ± √D) / 2a</strong>, where D is the discriminant.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

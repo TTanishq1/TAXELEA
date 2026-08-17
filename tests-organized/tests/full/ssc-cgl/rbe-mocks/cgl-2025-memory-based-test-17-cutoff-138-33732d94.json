@@ -1,0 +1,3415 @@
+{
+  "id": "33732d947ebc",
+  "provider": "RBE_Mocks",
+  "sourceFile": "CGL_2025_Memory_Based_Test-17_Cutoff-138_.html",
+  "sourcePath": "RBE_MOCKS/CGL_2025_Memory_Based_Test-17_Cutoff-138_.html",
+  "title": "CGL 2025 Memory Based Test-17 (Cutoff-138)",
+  "exam": null,
+  "year": 2025,
+  "tier": null,
+  "shift": null,
+  "duration": 100,
+  "questionCount": 100,
+  "questions": [
+    {
+      "id": "33732d947ebc-q1",
+      "number": 1,
+      "question": "Which letter in the word \"TREATMENT\" is equidistant from both ends?",
+      "questionHtml": "<p>Which letter in the word \"TREATMENT\" is equidistant from both ends?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A",
+          "html": "<p>A</p>"
+        },
+        {
+          "id": "B",
+          "text": "T",
+          "html": "<p>T</p>"
+        },
+        {
+          "id": "C",
+          "text": "E",
+          "html": "<p>E</p>"
+        },
+        {
+          "id": "D",
+          "text": "M",
+          "html": "<p>M</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The word is TREATMENT.</p><p>Letters with positions:</p><p>T R E A T M E N T<br/>1 2 3 4 5 6 7 8 9</p><p>There are 9 letters, so the middle letter is the 5th letter.</p><p>Answer: T</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q2",
+      "number": 2,
+      "question": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. PRT, OQS, NPR, ?",
+      "questionHtml": "<p>Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. </p><p>PRT, OQS, NPR, ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "GAS",
+          "html": "<p>GAS</p>"
+        },
+        {
+          "id": "B",
+          "text": "MJS",
+          "html": "<p>MJS</p>"
+        },
+        {
+          "id": "C",
+          "text": "GHA",
+          "html": "<p>GHA</p>"
+        },
+        {
+          "id": "D",
+          "text": "MOQ",
+          "html": "<p>MOQ</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Pattern: Each letter in the cluster decreases by 1 from the previous term.</p><p>PRT → OQS: P-1=O, R-1=Q, T-1=S ✓</p><p>OQS → NPR: O-1=N, Q-1=P, S-1=R ✓</p><p>NPR → ?: N-1=M, P-1=O, R-1=Q</p><p>Answer = MOQ</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q3",
+      "number": 3,
+      "question": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. XJL, YMK, ZPJ, ?",
+      "questionHtml": "<p>Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. </p><p>XJL, YMK, ZPJ, ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ASI",
+          "html": "<p>ASI</p>"
+        },
+        {
+          "id": "B",
+          "text": "ZOO",
+          "html": "<p>ZOO</p>"
+        },
+        {
+          "id": "C",
+          "text": "AAP",
+          "html": "<p>AAP</p>"
+        },
+        {
+          "id": "D",
+          "text": "ZMP",
+          "html": "<p>ZMP</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Analyze each position separately:</p><p>1st letters: X, Y, Z, ? → increasing by 1 → next = A (after Z, wrap around)</p><p>2nd letters: J, M, P, ? → increasing by 3 → next = S</p><p>3rd letters: L, K, J, ? → decreasing by 1 → next = I</p><p>Answer = ASI</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q4",
+      "number": 4,
+      "question": "Which one is different from the rest? Rose, Guava, Banana, Papaya",
+      "questionHtml": "<p>Which one is different from the rest? Rose, Guava, Banana, Papaya</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rose",
+          "html": "<p>Rose</p>"
+        },
+        {
+          "id": "B",
+          "text": "Guava",
+          "html": "<p>Guava</p>"
+        },
+        {
+          "id": "C",
+          "text": "Banana",
+          "html": "<p>Banana</p>"
+        },
+        {
+          "id": "D",
+          "text": "Papaya",
+          "html": "<p>Papaya</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Guava, Banana, Papaya — all are fruits.</p><p>Rose is a flower, not a fruit.</p><p>Rose does not belong to the group of fruits.</p><p>Answer: Rose</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q5",
+      "number": 5,
+      "question": "Complete the series: 24, 120, 720, 5040, 40320, ________?",
+      "questionHtml": "<p>Complete the series: 24, 120, 720, 5040, 40320, ________?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "461291",
+          "html": "<p>461291</p>"
+        },
+        {
+          "id": "B",
+          "text": "362880",
+          "html": "<p>362880</p>"
+        },
+        {
+          "id": "C",
+          "text": "242880",
+          "html": "<p>242880</p>"
+        },
+        {
+          "id": "D",
+          "text": "162770",
+          "html": "<p>162770</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>24 = 4! = 4×3×2×1</p><p>120 = 5! = 5×24</p><p>720 = 6! = 6×120</p><p>5040 = 7! = 7×720</p><p>40320 = 8! = 8×5040</p><p>Next = 9! = 9×40320 = 362880</p><p>Answer: 362880</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q6",
+      "number": 6,
+      "question": "What will come at the place of question mark? 1, 9, 31, 73, 141, ?",
+      "questionHtml": "<p>What will come at the place of question mark? 1, 9, 31, 73, 141, ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "241",
+          "html": "<p>241</p>"
+        },
+        {
+          "id": "B",
+          "text": "398",
+          "html": "<p>398</p>"
+        },
+        {
+          "id": "C",
+          "text": "49",
+          "html": "<p>49</p>"
+        },
+        {
+          "id": "D",
+          "text": "155",
+          "html": "<p>155</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Differences: 9-1=8, 31-9=22, 73-31=42, 141-73=68</p><p>Differences of differences: 22-8=14, 42-22=20, 68-42=26</p><p>2nd difference increases by 6 each time → next 2nd diff = 32</p><p>Next 1st difference = 68+32 = 100</p><p>Next term = 141+100 = 241</p><p>Answer: 241</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q7",
+      "number": 7,
+      "question": "Read the following statement carefully and identify the conclusion that follows. Statement: Smoking is prohibited in public places as per the new law. Conclusions: I. People can smoke in private spaces. II. Smoking harms public health.",
+      "questionHtml": "<p>Read the following statement carefully and identify the conclusion that follows.</p><p>Statement: Smoking is prohibited in public places as per the new law.</p><p>Conclusions:</p><p>I. People can smoke in private spaces.</p><p>II. Smoking harms public health.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only Conclusion I follows",
+          "html": "<p>Only Conclusion I follows</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only Conclusion II follows",
+          "html": "<p>Only Conclusion II follows</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both I and II follow",
+          "html": "<p>Both I and II follow</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither I nor II follows",
+          "html": "<p>Neither I nor II follows</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Statement: Smoking is prohibited in public places as per the new law.</p><p>Conclusion I: People can smoke in private spaces.</p><p>→ If smoking is banned only in public places, it is implied that smoking in private spaces is still permitted. This follows logically.</p><p>Conclusion II: Smoking harms public health.</p><p>→ This is a general health fact but is NOT directly stated or implied by the law statement alone. The statement is about a legal ban, not a health statement.</p><p>Only Conclusion I follows.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q8",
+      "number": 8,
+      "question": "Instruction: Identify the assumptions that must hold for the statement to be valid, then choose the correct option. Statement: The Himalayas act as a natural barrier that prevents the monsoon winds from reaching the northern plains, thereby creating a dry region in the rain shadow area. Assumptions: I. The Himalayas prevent monsoon winds from reaching certain areas. II. The rain shadow effect leads to dry conditions in specific regions. III. Monsoon winds are the sole cause of rainfall in the northern plains.",
+      "questionHtml": "<p>Instruction: Identify the assumptions that must hold for the statement to be valid, then choose the correct option.</p><p>Statement: The Himalayas act as a natural barrier that prevents the monsoon winds from reaching the northern plains, thereby creating a dry region in the rain shadow area.</p><p>Assumptions:</p><p>I. The Himalayas prevent monsoon winds from reaching certain areas.</p><p>II. The rain shadow effect leads to dry conditions in specific regions.</p><p>III. Monsoon winds are the sole cause of rainfall in the northern plains.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only I and II are implicit",
+          "html": "<p>Only I and II are implicit</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only II and III are implicit",
+          "html": "<p>Only II and III are implicit</p>"
+        },
+        {
+          "id": "C",
+          "text": "Only I is implicit",
+          "html": "<p>Only I is implicit</p>"
+        },
+        {
+          "id": "D",
+          "text": "All assumptions are implicit",
+          "html": "<p>All assumptions are implicit</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Assumption I: The Himalayas prevent monsoon winds from reaching certain areas — directly stated in the statement. IMPLICIT.</p><p>Assumption II: The rain shadow effect leads to dry conditions — also directly stated. IMPLICIT.</p><p>Assumption III: Monsoon winds are the SOLE cause of rainfall — this is too extreme. The statement does not say monsoon is the only source of rain. NOT IMPLICIT.</p><p>Answer: Only I and II are implicit.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q9",
+      "number": 9,
+      "question": "Each of the letters in the word LAPTOP is arranged in alphabetical order. How many letters are there in the English alphabetical series between the letter that is fourth from the left and the one that is first from the right in the new letter-cluster formed?",
+      "questionHtml": "<p>Each of the letters in the word LAPTOP is arranged in alphabetical order. How many letters are there in the English alphabetical series between the letter that is fourth from the left and the one that is first from the right in the new letter-cluster formed?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Two",
+          "html": "<p>Two</p>"
+        },
+        {
+          "id": "B",
+          "text": "Four",
+          "html": "<p>Four</p>"
+        },
+        {
+          "id": "C",
+          "text": "Three",
+          "html": "<p>Three</p>"
+        },
+        {
+          "id": "D",
+          "text": "One",
+          "html": "<p>One</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Word: LAPTOP → Letters: L, A, P, T, O, P</p><p>Arranged alphabetically: A, L, O, P, P, T</p><p>4th from left = P</p><p>1st from right = T</p><p>Letters between P and T in alphabet: Q, R, S → 3 letters</p><p>Answer: Three</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q10",
+      "number": 10,
+      "question": "Each of the letters in the word HARMONIOUS is arranged in alphabetical order. How many letters are there in the English alphabetical series between the letter that is first from the left and the one that is fourth from the right in the new letter-cluster formed?",
+      "questionHtml": "<p>Each of the letters in the word HARMONIOUS is arranged in alphabetical order. How many letters are there in the English alphabetical series between the letter that is first from the left and the one that is fourth from the right in the new letter-cluster formed?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "html": "<p>12</p>"
+        },
+        {
+          "id": "B",
+          "text": "13",
+          "html": "<p>13</p>"
+        },
+        {
+          "id": "C",
+          "text": "15",
+          "html": "<p>15</p>"
+        },
+        {
+          "id": "D",
+          "text": "11",
+          "html": "<p>11</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Word: HARMONIOUS → Letters: H, A, R, M, O, N, I, O, U, S</p><p>Arranged alphabetically: A, H, I, M, N, O, O, R, S, U</p><p>1st from left = A</p><p>4th from right = R (position 7 from left, or 4th from right: U, S, R, O → 4th from right = R)</p><p>Letters between A and R in alphabet: B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q → 16 letters... </p><p>Wait: count carefully. A=1, R=18. Between them: B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q = 16.</p><p>But answer key shows 13. Let us recheck 4th from right.</p><p>Alphabetical: A(1), H(2), I(3), M(4), N(5), O(6), O(7), R(8), S(9), U(10)</p><p>4th from right = position 10-4+1 = 7th from left = O</p><p>Letters between A and O: B,C,D,E,F,G,H,I,J,K,L,M,N = 13 letters</p><p>Answer: 13</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q11",
+      "number": 11,
+      "question": "Which of the following is/are identical to the address given: Priya Yadav B-22, Rosewood Heights, Sector 15, Gurgaon, 122002 1. Priya Yadav B-22, Rosewood Heights, Sector 15, Gurgaon, 122002 2. Priya Yadav B-22, Rosewood Heights, Sector 15, Gurugram, 122002 3. Priya Yadav B-22, Rosewood Heights, Sector 15, Gurgaon, 122003 4. Priya Yadav B-22, Rosewood Heights, Sector 15, Gurgaon, 122001",
+      "questionHtml": "<p>Which of the following is/are identical to the address given:</p><p>Priya Yadav B-22, Rosewood Heights, Sector 15, Gurgaon, 122002</p><p>1. Priya Yadav B-22, Rosewood Heights, Sector 15, Gurgaon, 122002</p><p>2. Priya Yadav B-22, Rosewood Heights, Sector 15, Gurugram, 122002</p><p>3. Priya Yadav B-22, Rosewood Heights, Sector 15, Gurgaon, 122003</p><p>4. Priya Yadav B-22, Rosewood Heights, Sector 15, Gurgaon, 122001</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 Only",
+          "html": "<p>2 Only</p>"
+        },
+        {
+          "id": "B",
+          "text": "1 Only",
+          "html": "<p>1 Only</p>"
+        },
+        {
+          "id": "C",
+          "text": "4 Only",
+          "html": "<p>4 Only</p>"
+        },
+        {
+          "id": "D",
+          "text": "3 Only",
+          "html": "<p>3 Only</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Original: Priya Yadav B-22, Rosewood Heights, Sector 15, Gurgaon, 122002</p><p>Option 1: Exact match — identical. ✓</p><p>Option 2: Gurugram instead of Gurgaon — different. ✗</p><p>Option 3: Pin 122003 instead of 122002 — different. ✗</p><p>Option 4: Pin 122001 instead of 122002 — different. ✗</p><p>Answer: 1 Only</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q12",
+      "number": 12,
+      "question": "Find the group of letters that best completes the analogy. Use alphabetical positions and reverse position logic where necessary. BEKQ : YVPJ :: CFGL : ?",
+      "questionHtml": "<p>Find the group of letters that best completes the analogy. Use alphabetical positions and reverse position logic where necessary. BEKQ : YVPJ :: CFGL : ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "XUOM",
+          "html": "<p>XUOM</p>"
+        },
+        {
+          "id": "B",
+          "text": "XUTO",
+          "html": "<p>XUTO</p>"
+        },
+        {
+          "id": "C",
+          "text": "XUPM",
+          "html": "<p>XUPM</p>"
+        },
+        {
+          "id": "D",
+          "text": "XVPL",
+          "html": "<p>XVPL</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Logic: Each letter is converted using reverse alphabet (A=Z, B=Y, C=X, ...)</p><p>B(2) → Y(25), E(5) → V(22), K(11) → P(16), Q(17) → J(10) ✓</p><p>Apply same logic to CFGL:</p><p>C(3) → X(24), F(6) → U(21), G(7) → T(20), L(12) → O(15)</p><p>Answer: XUTO</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q13",
+      "number": 13,
+      "question": "Choose the correct option to complete the series. Growth : Stagnation :: Success : ?",
+      "questionHtml": "<p>Choose the correct option to complete the series. Growth : Stagnation :: Success : ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Achievement",
+          "html": "<p>Achievement</p>"
+        },
+        {
+          "id": "B",
+          "text": "Failure",
+          "html": "<p>Failure</p>"
+        },
+        {
+          "id": "C",
+          "text": "Progress",
+          "html": "<p>Progress</p>"
+        },
+        {
+          "id": "D",
+          "text": "Gain",
+          "html": "<p>Gain</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Growth and Stagnation are opposites.</p><p>Similarly, Success and Failure are opposites.</p><p>Answer: Failure</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q14",
+      "number": 14,
+      "question": "Find the word that does not fit in the series: Silent, Muted, Tranquil, Clamorous, Calm",
+      "questionHtml": "<p>Find the word that does not fit in the series: Silent, Muted, Tranquil, Clamorous, Calm</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Silent",
+          "html": "<p>Silent</p>"
+        },
+        {
+          "id": "B",
+          "text": "Muted",
+          "html": "<p>Muted</p>"
+        },
+        {
+          "id": "C",
+          "text": "Tranquil",
+          "html": "<p>Tranquil</p>"
+        },
+        {
+          "id": "D",
+          "text": "Clamorous",
+          "html": "<p>Clamorous</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Silent, Muted, Tranquil, Calm — all mean quiet or peaceful.</p><p>Clamorous means noisy or loud — the opposite of the rest.</p><p>Answer: Clamorous</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q15",
+      "number": 15,
+      "question": "In each of the following questions, a word is transformed by rearranging its letters according to a specific pattern. Apply the same pattern to the third word and choose the correct answer. EXCUSE : CXEESU :: ERODES : ?",
+      "questionHtml": "<p>In each of the following questions, a word is transformed by rearranging its letters according to a specific pattern. Apply the same pattern to the third word and choose the correct answer. EXCUSE : CXEESU :: ERODES : ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "OREESD",
+          "html": "<p>OREESD</p>"
+        },
+        {
+          "id": "B",
+          "text": "ORESED",
+          "html": "<p>ORESED</p>"
+        },
+        {
+          "id": "C",
+          "text": "REOSDE",
+          "html": "<p>REOSDE</p>"
+        },
+        {
+          "id": "D",
+          "text": "ERODSE",
+          "html": "<p>ERODSE</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>EXCUSE → CXEESU</p><p>Original positions: E(1) X(2) C(3) U(4) S(5) E(6)</p><p>Result: C(3) X(2) E(6) E(1) S(5) U(4)</p><p>Pattern of positions: 3,2,6,1,5,4</p><p>Apply to ERODES: E(1) R(2) O(3) D(4) E(5) S(6)</p><p>Position 3=O, 2=R, 6=S, 1=E, 5=E, 4=D → ORESED</p><p>Answer: ORESED</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q16",
+      "number": 16,
+      "question": "A's father's wife's only daughter is B. How is A related to B? (Assuming A is a male member)",
+      "questionHtml": "<p>A's father's wife's only daughter is B. How is A related to B? (Assuming A is a male member)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sister",
+          "html": "<p>Sister</p>"
+        },
+        {
+          "id": "B",
+          "text": "Cousin",
+          "html": "<p>Cousin</p>"
+        },
+        {
+          "id": "C",
+          "text": "Brother",
+          "html": "<p>Brother</p>"
+        },
+        {
+          "id": "D",
+          "text": "Uncle",
+          "html": "<p>Uncle</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>A's father's wife = A's mother (assuming same family).</p><p>A's mother's only daughter = B.</p><p>If B is the only daughter of A's mother, and A is male, then B is A's sister.</p><p>But wait — if B is the ONLY daughter, and A is male, A and B share the same mother.</p><p>A is the brother of B.</p><p>Answer: Brother</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q17",
+      "number": 17,
+      "question": "Identify the odd number: 1, 8, 27, 64, 121, 216",
+      "questionHtml": "<p>Identify the odd number: 1, 8, 27, 64, 121, 216</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "64",
+          "html": "<p>64</p>"
+        },
+        {
+          "id": "B",
+          "text": "121",
+          "html": "<p>121</p>"
+        },
+        {
+          "id": "C",
+          "text": "216",
+          "html": "<p>216</p>"
+        },
+        {
+          "id": "D",
+          "text": "27",
+          "html": "<p>27</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>1 = 1³, 8 = 2³, 27 = 3³, 64 = 4³, 216 = 6³ — all are perfect cubes.</p><p>121 = 11² — it is a perfect square, NOT a perfect cube.</p><p>121 does not fit the pattern of cubes.</p><p>Answer: 121</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q18",
+      "number": 18,
+      "question": "P + Q means P is the husband of Q, P − Q means P is the sister of Q, P × Q means P is the mother of Q. Then what does A × B + C mean?",
+      "questionHtml": "<p>P + Q means P is the husband of Q, P − Q means P is the sister of Q, P × Q means P is the mother of Q. Then what does A × B + C mean?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A is mother-in-law of C",
+          "html": "<p>A is mother-in-law of C</p>"
+        },
+        {
+          "id": "B",
+          "text": "A is mother of C",
+          "html": "<p>A is mother of C</p>"
+        },
+        {
+          "id": "C",
+          "text": "A is sister-in-law of C",
+          "html": "<p>A is sister-in-law of C</p>"
+        },
+        {
+          "id": "D",
+          "text": "A is grandmother of C",
+          "html": "<p>A is grandmother of C</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>A × B → A is the mother of B.</p><p>B + C → B is the husband of C.</p><p>So A is the mother of B, and B is the husband of C.</p><p>A is the mother of C's husband → A is the mother-in-law of C.</p><p>Answer: A is mother-in-law of C</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q19",
+      "number": 19,
+      "question": "Choose the odd one out: (17, P, #), (13, J, !), (19, R, %), (23, V, @)",
+      "questionHtml": "<p>Choose the odd one out: (17, P, #), (13, J, !), (19, R, %), (23, V, @)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(17, P, #)",
+          "html": "<p>(17, P, #)</p>"
+        },
+        {
+          "id": "B",
+          "text": "(13, J, !)",
+          "html": "<p>(13, J, !)</p>"
+        },
+        {
+          "id": "C",
+          "text": "(19, R, %)",
+          "html": "<p>(19, R, %)</p>"
+        },
+        {
+          "id": "D",
+          "text": "(23, V, @)",
+          "html": "<p>(23, V, @)</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Check the relationship between the number and the letter:</p><p>17 → P is the 16th letter (A=1). 17-1=16=P ✓</p><p>13 → J is the 10th letter. 13-1=12 ≠ J(10). ✗</p><p>19 → R is the 18th letter. 19-1=18=R ✓</p><p>23 → V is the 22nd letter. 23-1=22=V ✓</p><p>(13, J, !) does not follow the pattern (number - 1 = letter position).</p><p>Answer: (13, J, !)</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q20",
+      "number": 20,
+      "question": "If 2 @ 3 = 25 and 3 @ 4 = 49, what is 4 @ 5?",
+      "questionHtml": "<p>If 2 @ 3 = 25 and 3 @ 4 = 49, what is 4 @ 5?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "81",
+          "html": "<p>81</p>"
+        },
+        {
+          "id": "B",
+          "text": "100",
+          "html": "<p>100</p>"
+        },
+        {
+          "id": "C",
+          "text": "121",
+          "html": "<p>121</p>"
+        },
+        {
+          "id": "D",
+          "text": "91",
+          "html": "<p>91</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>2 @ 3 = 25 = (2+3)² = 5² = 25 ✓</p><p>3 @ 4 = 49 = (3+4)² = 7² = 49 ✓</p><p>4 @ 5 = (4+5)² = 9² = 81</p><p>Answer: 81</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q21",
+      "number": 21,
+      "question": "If 'READ' is coded as 'SFBE', how is 'BOOK' coded?",
+      "questionHtml": "<p>If 'READ' is coded as 'SFBE', how is 'BOOK' coded?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "CPPL",
+          "html": "<p>CPPL</p>"
+        },
+        {
+          "id": "B",
+          "text": "DQQM",
+          "html": "<p>DQQM</p>"
+        },
+        {
+          "id": "C",
+          "text": "APPL",
+          "html": "<p>APPL</p>"
+        },
+        {
+          "id": "D",
+          "text": "AQQM",
+          "html": "<p>AQQM</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>R+1=S, E+1=F, A+1=B, D+1=E → SFBE ✓</p><p>Each letter is shifted forward by 1.</p><p>B+1=C, O+1=P, O+1=P, K+1=L → CPPL</p><p>Answer: CPPL</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q22",
+      "number": 22,
+      "question": "A sum becomes 2.5 times in 10 years under simple interest. Find the rate.",
+      "questionHtml": "<p>A sum becomes 2.5 times in 10 years under simple interest. Find the rate.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%",
+          "html": "<p>10%</p>"
+        },
+        {
+          "id": "B",
+          "text": "12.5%",
+          "html": "<p>12.5%</p>"
+        },
+        {
+          "id": "C",
+          "text": "15%",
+          "html": "<p>15%</p>"
+        },
+        {
+          "id": "D",
+          "text": "20%",
+          "html": "<p>20%</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let Principal = P</p><p>Amount = 2.5P, SI = 2.5P - P = 1.5P</p><p>SI = (P × R × T) / 100</p><p>1.5P = (P × R × 10) / 100</p><p>1.5 = 10R/100</p><p>R = 1.5 × 100 / 10 = 15%</p><p>Answer: 15%</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q23",
+      "number": 23,
+      "question": "X and Y are brothers. Z is the wife of Y. A is the father of X. B is the daughter of Z. How is B related to A?",
+      "questionHtml": "<p>X and Y are brothers. Z is the wife of Y. A is the father of X. B is the daughter of Z. How is B related to A?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Daughter",
+          "html": "<p>Daughter</p>"
+        },
+        {
+          "id": "B",
+          "text": "Granddaughter",
+          "html": "<p>Granddaughter</p>"
+        },
+        {
+          "id": "C",
+          "text": "Niece",
+          "html": "<p>Niece</p>"
+        },
+        {
+          "id": "D",
+          "text": "Sister",
+          "html": "<p>Sister</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>X and Y are brothers.</p><p>A is the father of X → A is also the father of Y.</p><p>Z is the wife of Y.</p><p>B is the daughter of Z → B is the daughter of Y and Z.</p><p>A is the father of Y, and B is Y's daughter.</p><p>So B is A's granddaughter.</p><p>Answer: Granddaughter</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q24",
+      "number": 24,
+      "question": "If a $ b = 2, where a $ b = a² - b, what is the value of a and b?",
+      "questionHtml": "<p>If a $ b = 2, where a $ b = a² - b, what is the value of a and b?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 2",
+          "html": "<p>2, 2</p>"
+        },
+        {
+          "id": "B",
+          "text": "8, 1",
+          "html": "<p>8, 1</p>"
+        },
+        {
+          "id": "C",
+          "text": "4, 5",
+          "html": "<p>4, 5</p>"
+        },
+        {
+          "id": "D",
+          "text": "9, 6",
+          "html": "<p>9, 6</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>a $ b = a² - b = 2</p><p>Check option 1: a=2, b=2 → 2²-2 = 4-2 = 2 ✓</p><p>Check option 2: a=8, b=1 → 64-1 = 63 ≠ 2 ✗</p><p>Check option 3: a=4, b=5 → 16-5 = 11 ≠ 2 ✗</p><p>Answer: a=2, b=2</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q25",
+      "number": 25,
+      "question": "If the sum of 42 and 42 is multiplied by 4, what is the result?",
+      "questionHtml": "<p>If the sum of 42 and 42 is multiplied by 4, what is the result?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "332",
+          "html": "<p>332</p>"
+        },
+        {
+          "id": "B",
+          "text": "336",
+          "html": "<p>336</p>"
+        },
+        {
+          "id": "C",
+          "text": "340",
+          "html": "<p>340</p>"
+        },
+        {
+          "id": "D",
+          "text": "348",
+          "html": "<p>348</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>42 + 42 = 84</p><p>84 × 4 = 336</p><p>Answer: 336</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q26",
+      "number": 26,
+      "question": "Given below are two statements: Statement I: The harmika of a stupa is the symbolic abode of the gods, located at the top. Statement II: The harmika is where relics of the Buddha were usually kept. Which of the following statements is/are correct?",
+      "questionHtml": "<p>Given below are two statements:</p><p>Statement I: The harmika of a stupa is the symbolic abode of the gods, located at the top.</p><p>Statement II: The harmika is where relics of the Buddha were usually kept.</p><p>Which of the following statements is/are correct?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both statements are true and Statement II is the correct explanation of Statement I",
+          "html": "<p>Both statements are true and Statement II is the correct explanation of Statement I</p>"
+        },
+        {
+          "id": "B",
+          "text": "Both statements are true but Statement II is not the correct explanation of Statement I",
+          "html": "<p>Both statements are true but Statement II is not the correct explanation of Statement I</p>"
+        },
+        {
+          "id": "C",
+          "text": "Statement I is true but Statement II is false",
+          "html": "<p>Statement I is true but Statement II is false</p>"
+        },
+        {
+          "id": "D",
+          "text": "Statement II is true but Statement I is false",
+          "html": "<p>Statement II is true but Statement I is false</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The harmika is a railing or balcony-like structure at the top of a stupa. It symbolizes the abode of the gods. Statement I is CORRECT.</p><p>Relics of the Buddha were kept in the anda (the dome/drum), NOT in the harmika. Statement II is INCORRECT.</p><p>Answer: Statement I is true but Statement II is false.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q27",
+      "number": 27,
+      "question": "Which Veda primarily contains ritual formulas and detailed procedures for performing sacrifices?",
+      "questionHtml": "<p>Which Veda primarily contains ritual formulas and detailed procedures for performing sacrifices?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Samaveda",
+          "html": "<p>Samaveda</p>"
+        },
+        {
+          "id": "B",
+          "text": "Yajurveda",
+          "html": "<p>Yajurveda</p>"
+        },
+        {
+          "id": "C",
+          "text": "Atharvaveda",
+          "html": "<p>Atharvaveda</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rigveda",
+          "html": "<p>Rigveda</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Rigveda — contains hymns (mantras) to gods.</p><p>Samaveda — contains melodies and chants.</p><p>Yajurveda — contains ritual formulas, prose mantras, and detailed procedures for performing yajnas (sacrifices). It is the Veda of rituals.</p><p>Atharvaveda — contains spells, charms, and philosophical texts.</p><p>Answer: Yajurveda</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q28",
+      "number": 28,
+      "question": "Which of the following statements best defines Ghana Vadya in the context of Indian traditional music?",
+      "questionHtml": "<p>Which of the following statements best defines Ghana Vadya in the context of Indian traditional music?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tuned melodic instruments played with strings and bow",
+          "html": "<p>Tuned melodic instruments played with strings and bow</p>"
+        },
+        {
+          "id": "B",
+          "text": "Percussion instruments requiring precise tuning before use",
+          "html": "<p>Percussion instruments requiring precise tuning before use</p>"
+        },
+        {
+          "id": "C",
+          "text": "Solid, non-tunable instruments primarily used for rhythm in folk music",
+          "html": "<p>Solid, non-tunable instruments primarily used for rhythm in folk music</p>"
+        },
+        {
+          "id": "D",
+          "text": "Wind instruments made of bamboo or reed used in classical traditions",
+          "html": "<p>Wind instruments made of bamboo or reed used in classical traditions</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Indian classical music classifies instruments into four categories: Tata (string), Avanaddha (percussion/membrane), Sushira (wind), and Ghana (solid/idiophone).</p><p>Ghana Vadya refers to solid, non-tunable percussion instruments like cymbals, bells, and gongs, used primarily for rhythm.</p><p>They do not require tuning like drums.</p><p>Answer: Solid, non-tunable instruments primarily used for rhythm in folk music</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q29",
+      "number": 29,
+      "question": "Which of the following statements about sculling in swimming is correct?",
+      "questionHtml": "<p>Which of the following statements about sculling in swimming is correct?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sculling is used only by beginners to prevent sinking",
+          "html": "<p>Sculling is used only by beginners to prevent sinking</p>"
+        },
+        {
+          "id": "B",
+          "text": "During sculling, the hands remain above the water surface",
+          "html": "<p>During sculling, the hands remain above the water surface</p>"
+        },
+        {
+          "id": "C",
+          "text": "In forward sculling, the arms stay straight and positioned in front",
+          "html": "<p>In forward sculling, the arms stay straight and positioned in front</p>"
+        },
+        {
+          "id": "D",
+          "text": "Sculling maintains balance by moving hands under water",
+          "html": "<p>Sculling maintains balance by moving hands under water</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Sculling is a swimming technique where the hands move in a figure-eight motion under the water surface.</p><p>It helps maintain balance, position, and propulsion in water.</p><p>Option 1: Sculling is not just for beginners. ✗</p><p>Option 2: Hands remain under the water surface, not above. ✗</p><p>Option 3: Arms are not necessarily straight in sculling. ✗</p><p>Option 4: Sculling maintains balance by moving hands under water. ✓</p><p>Answer: Sculling maintains balance by moving hands under water</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q30",
+      "number": 30,
+      "question": "Who became India's first Asian Games gold medallist by winning the 100m freestyle swimming event at New Delhi in 1951?",
+      "questionHtml": "<p>Who became India's first Asian Games gold medallist by winning the 100m freestyle swimming event at New Delhi in 1951?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Johnny Weissmuller",
+          "html": "<p>Johnny Weissmuller</p>"
+        },
+        {
+          "id": "B",
+          "text": "Arjun Singh",
+          "html": "<p>Arjun Singh</p>"
+        },
+        {
+          "id": "C",
+          "text": "Mihir Sen",
+          "html": "<p>Mihir Sen</p>"
+        },
+        {
+          "id": "D",
+          "text": "Sachin Nag",
+          "html": "<p>Sachin Nag</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The 1st Asian Games were held in New Delhi in 1951.</p><p>Sachin Nag won the gold medal in the 100m freestyle swimming event — India's first Asian Games gold medal.</p><p>Johnny Weissmuller was an American swimmer, not Indian.</p><p>Mihir Sen was famous for marathon swims, not Asian Games.</p><p>Answer: Sachin Nag</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q31",
+      "number": 31,
+      "question": "How did Raja Rammohan Roy contribute to the movement against the practice of Sati in early 19th-century Bengal?",
+      "questionHtml": "<p>How did Raja Rammohan Roy contribute to the movement against the practice of Sati in early 19th-century Bengal?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "He organized armed protests in Bengal villages",
+          "html": "<p>He organized armed protests in Bengal villages</p>"
+        },
+        {
+          "id": "B",
+          "text": "He issued government ordinances against orthodox leaders",
+          "html": "<p>He issued government ordinances against orthodox leaders</p>"
+        },
+        {
+          "id": "C",
+          "text": "He campaigned using newspapers and engaged in debates",
+          "html": "<p>He campaigned using newspapers and engaged in debates</p>"
+        },
+        {
+          "id": "D",
+          "text": "He formed alliances with British Christian missionaries",
+          "html": "<p>He formed alliances with British Christian missionaries</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Raja Rammohan Roy was a social reformer who campaigned strongly against Sati.</p><p>He used newspapers like Sambad Kaumudi and Mirat-ul-Akhbar to spread awareness.</p><p>He engaged in public debates and persuaded the British government to ban Sati in 1829 through the Bengal Sati Regulation Act.</p><p>He did NOT organize armed protests or issue ordinances.</p><p>Answer: He campaigned using newspapers and engaged in debates</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q32",
+      "number": 32,
+      "question": "Where was the 11th edition of the India-Bangladesh joint military exercise SAMPRITI-XI conducted in 2023?",
+      "questionHtml": "<p>Where was the 11th edition of the India-Bangladesh joint military exercise SAMPRITI-XI conducted in 2023?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jaisalmer, Rajasthan",
+          "html": "<p>Jaisalmer, Rajasthan</p>"
+        },
+        {
+          "id": "B",
+          "text": "Siliguri, West Bengal",
+          "html": "<p>Siliguri, West Bengal</p>"
+        },
+        {
+          "id": "C",
+          "text": "Umroi, Meghalaya",
+          "html": "<p>Umroi, Meghalaya</p>"
+        },
+        {
+          "id": "D",
+          "text": "Guwahati, Assam",
+          "html": "<p>Guwahati, Assam</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>SAMPRITI is a bilateral military exercise between India and Bangladesh.</p><p>SAMPRITI-XI (11th edition, 2023) was held at Umroi, Meghalaya.</p><p>The exercise focuses on counter-insurgency and counter-terrorism operations.</p><p>Answer: Umroi, Meghalaya</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q33",
+      "number": 33,
+      "question": "Which historical figure is the Santosh Trophy, launched in 1941, named after?",
+      "questionHtml": "<p>Which historical figure is the Santosh Trophy, launched in 1941, named after?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sir Manmatha Nath Roy Chowdhury",
+          "html": "<p>Sir Manmatha Nath Roy Chowdhury</p>"
+        },
+        {
+          "id": "B",
+          "text": "Sir Henry Mortimer Durand",
+          "html": "<p>Sir Henry Mortimer Durand</p>"
+        },
+        {
+          "id": "C",
+          "text": "Syed Abdul Rahim",
+          "html": "<p>Syed Abdul Rahim</p>"
+        },
+        {
+          "id": "D",
+          "text": "Sailen Manna",
+          "html": "<p>Sailen Manna</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The Santosh Trophy is India's national football championship for state teams.</p><p>It was started in 1941 and is named after Sir Manmatha Nath Roy Chowdhury, who was the President of the Indian Football Association (IFA) and also known as the Maharaja of Santosh.</p><p>Syed Abdul Rahim — legendary Indian football coach, not the namesake.</p><p>Sailen Manna — famous Indian football captain.</p><p>Answer: Sir Manmatha Nath Roy Chowdhury</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q34",
+      "number": 34,
+      "question": "Read the below statements marked as Assertion (A) and Reason (R). Mark the correct options: Assertion (A): The Moor's Last Sigh is acclaimed for its intricate narrative that blends historical events with magical realism to explore Indian identity and politics. Reason (R): The novel won the Booker Prize for its innovative storytelling and profound cultural insights.",
+      "questionHtml": "<p>Read the below statements marked as Assertion (A) and Reason (R). Mark the correct options:</p><p>Assertion (A): The Moor's Last Sigh is acclaimed for its intricate narrative that blends historical events with magical realism to explore Indian identity and politics.</p><p>Reason (R): The novel won the Booker Prize for its innovative storytelling and profound cultural insights.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true, and R is the correct explanation of A",
+          "html": "<p>Both A and R are true, and R is the correct explanation of A</p>"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true, but R is not the correct explanation of A",
+          "html": "<p>Both A and R are true, but R is not the correct explanation of A</p>"
+        },
+        {
+          "id": "C",
+          "text": "A is true, but R is false",
+          "html": "<p>A is true, but R is false</p>"
+        },
+        {
+          "id": "D",
+          "text": "A is false, but R is true",
+          "html": "<p>A is false, but R is true</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Assertion A: The Moor's Last Sigh by Salman Rushdie does blend historical events with magical realism to explore Indian identity. A is TRUE.</p><p>Reason R: The Moor's Last Sigh did NOT win the Booker Prize. Rushdie's 'Midnight's Children' won the Booker Prize. R is FALSE.</p><p>Answer: A is true, but R is false.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q35",
+      "number": 35,
+      "question": "Who launched the Bharatpol portal?",
+      "questionHtml": "<p>Who launched the Bharatpol portal?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amit Shah",
+          "html": "<p>Amit Shah</p>"
+        },
+        {
+          "id": "B",
+          "text": "Narendra Modi",
+          "html": "<p>Narendra Modi</p>"
+        },
+        {
+          "id": "C",
+          "text": "Droupadi Murmu",
+          "html": "<p>Droupadi Murmu</p>"
+        },
+        {
+          "id": "D",
+          "text": "Ashwini Vaishnaw",
+          "html": "<p>Ashwini Vaishnaw</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Solution<br/>The Bharatpol portal was launched by Union Home Minister Amit Shah. It was developed by the Central Bureau of Investigation (CBI) to improve coordination with international law enforcement agencies.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q36",
+      "number": 36,
+      "question": "What is the primary cause of convectional rainfall?",
+      "questionHtml": "<p>What is the primary cause of convectional rainfall?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cold fronts meeting warm air",
+          "html": "<p>Cold fronts meeting warm air</p>"
+        },
+        {
+          "id": "B",
+          "text": "Mountains forcing air to rise",
+          "html": "<p>Mountains forcing air to rise</p>"
+        },
+        {
+          "id": "C",
+          "text": "Heating of air that rises and cools",
+          "html": "<p>Heating of air that rises and cools</p>"
+        },
+        {
+          "id": "D",
+          "text": "Moist air from polar regions",
+          "html": "<p>Moist air from polar regions</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Convectional rainfall occurs when the ground surface heats up due to solar radiation.</p><p>The heated air rises, expands, and cools to form clouds.</p><p>When the clouds reach the dew point, rainfall occurs.</p><p>This is common in tropical regions, especially in afternoons.</p><p>Option 2 describes orographic/relief rainfall. Option 1 describes frontal rainfall.</p><p>Answer: Heating of air that rises and cools</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q37",
+      "number": 37,
+      "question": "Which of the following best explains how mineral deposits influence population distribution?",
+      "questionHtml": "<p>Which of the following best explains how mineral deposits influence population distribution?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "They improve soil fertility",
+          "html": "<p>They improve soil fertility</p>"
+        },
+        {
+          "id": "B",
+          "text": "They reduce need for employment",
+          "html": "<p>They reduce need for employment</p>"
+        },
+        {
+          "id": "C",
+          "text": "They attract industries and create jobs",
+          "html": "<p>They attract industries and create jobs</p>"
+        },
+        {
+          "id": "D",
+          "text": "They lead to deforestation only",
+          "html": "<p>They lead to deforestation only</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Mineral deposits attract mining industries, processing plants, and related businesses.</p><p>This creates employment opportunities, which draws population to those regions.</p><p>Examples: Jharkhand (coal/iron ore), Chhattisgarh (minerals) — dense industrial populations.</p><p>They do not directly improve soil fertility.</p><p>Answer: They attract industries and create jobs</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q38",
+      "number": 38,
+      "question": "Which of the following statement accurately reflects the relationship between demographic transition and replacement level?",
+      "questionHtml": "<p>Which of the following statement accurately reflects the relationship between demographic transition and replacement level?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "In the third stage, fertility begins to approach replacement level",
+          "html": "<p>In the third stage, fertility begins to approach replacement level</p>"
+        },
+        {
+          "id": "B",
+          "text": "Population stabilization occurs when fertility rate drops below replacement level",
+          "html": "<p>Population stabilization occurs when fertility rate drops below replacement level</p>"
+        },
+        {
+          "id": "C",
+          "text": "The transition from high growth to low growth aligns with reaching replacement level",
+          "html": "<p>The transition from high growth to low growth aligns with reaching replacement level</p>"
+        },
+        {
+          "id": "D",
+          "text": "Replacement level is unrelated to demographic transition",
+          "html": "<p>Replacement level is unrelated to demographic transition</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The Demographic Transition Model (DTM) has stages from high birth/death rates to low birth/death rates.</p><p>In Stage 3 (late expanding), fertility rates start declining and approach replacement level (2.1 children per woman).</p><p>When fertility reaches replacement level, population growth stabilizes.</p><p>The transition from high growth to low growth corresponds with reaching replacement level.</p><p>Answer: The transition from high growth to low growth aligns with reaching replacement level</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q39",
+      "number": 39,
+      "question": "Why is the NISAR (NASA-ISRO Synthetic Aperture Radar) mission designed to revisit the same location every 12 days?",
+      "questionHtml": "<p>Why is the NISAR (NASA-ISRO Synthetic Aperture Radar) mission designed to revisit the same location every 12 days?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "To support low-earth orbit operations at reduced altitude",
+          "html": "<p>To support low-earth orbit operations at reduced altitude</p>"
+        },
+        {
+          "id": "B",
+          "text": "To enable cost-efficient satellite passes through optimized fuel consumption",
+          "html": "<p>To enable cost-efficient satellite passes through optimized fuel consumption</p>"
+        },
+        {
+          "id": "C",
+          "text": "To ensure consistent caching of data before transmission to ground stations",
+          "html": "<p>To ensure consistent caching of data before transmission to ground stations</p>"
+        },
+        {
+          "id": "D",
+          "text": "To achieve temporal resolution for global coverage and land deformation monitoring",
+          "html": "<p>To achieve temporal resolution for global coverage and land deformation monitoring</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>NISAR (NASA-ISRO Synthetic Aperture Radar) is a joint Earth-observation satellite mission.</p><p>It revisits the same location every 12 days to track changes over time (temporal resolution).</p><p>This allows monitoring of land surface deformation, ice sheet changes, ecosystem disturbances, and natural hazards.</p><p>12-day revisit cycle ensures global coverage with sufficient temporal resolution.</p><p>Answer: To achieve temporal resolution for global coverage and land deformation monitoring</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q40",
+      "number": 40,
+      "question": "Which biomolecule acts as the primary energy storage in animals?",
+      "questionHtml": "<p>Which biomolecule acts as the primary energy storage in animals?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Glycogen",
+          "html": "<p>Glycogen</p>"
+        },
+        {
+          "id": "B",
+          "text": "Starch",
+          "html": "<p>Starch</p>"
+        },
+        {
+          "id": "C",
+          "text": "Cellulose",
+          "html": "<p>Cellulose</p>"
+        },
+        {
+          "id": "D",
+          "text": "Sucrose",
+          "html": "<p>Sucrose</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Glycogen is the primary energy storage carbohydrate in animals, stored mainly in the liver and muscles.</p><p>Starch is the primary energy storage in plants.</p><p>Cellulose is a structural carbohydrate in plant cell walls — not for energy storage.</p><p>Sucrose is a transport sugar in plants.</p><p>Answer: Glycogen</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q41",
+      "number": 41,
+      "question": "Under Article 262 of the Indian Constitution, which of the following interpretations most accurately reflects Parliament's authority regarding inter-State water disputes?",
+      "questionHtml": "<p>Under Article 262 of the Indian Constitution, which of the following interpretations most accurately reflects Parliament's authority regarding inter-State water disputes?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Legislate on river navigation but not bar SC jurisdiction",
+          "html": "<p>Legislate on river navigation but not bar SC jurisdiction</p>"
+        },
+        {
+          "id": "B",
+          "text": "Set up tribunals for water disputes and bar SC review",
+          "html": "<p>Set up tribunals for water disputes and bar SC review</p>"
+        },
+        {
+          "id": "C",
+          "text": "Abolish State-level water bodies permanently",
+          "html": "<p>Abolish State-level water bodies permanently</p>"
+        },
+        {
+          "id": "D",
+          "text": "Mandate ISC mediation before court action",
+          "html": "<p>Mandate ISC mediation before court action</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Article 262 of the Indian Constitution deals with adjudication of disputes relating to waters of inter-State rivers.</p><p>Parliament may by law provide for the adjudication of any dispute relating to use, distribution or control of waters of any inter-State river.</p><p>Parliament may also by law bar the jurisdiction of the Supreme Court or any other court in respect of such disputes.</p><p>Inter-State Water Disputes Act, 1956 was enacted under this article.</p><p>Answer: Set up tribunals for water disputes and bar SC review</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q42",
+      "number": 42,
+      "question": "A person standing on a railway platform notices that the sound of an approaching train's whistle changes in pitch (frequency) as the train passes by. This phenomenon is best explained by:",
+      "questionHtml": "<p>A person standing on a railway platform notices that the sound of an approaching train's whistle changes in pitch (frequency) as the train passes by. This phenomenon is best explained by:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Refraction of sound",
+          "html": "<p>Refraction of sound</p>"
+        },
+        {
+          "id": "B",
+          "text": "Diffraction of sound",
+          "html": "<p>Diffraction of sound</p>"
+        },
+        {
+          "id": "C",
+          "text": "Doppler effect",
+          "html": "<p>Doppler effect</p>"
+        },
+        {
+          "id": "D",
+          "text": "Resonance",
+          "html": "<p>Resonance</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>When a source of sound moves relative to an observer, the observed frequency changes.</p><p>When the train approaches: frequency (pitch) appears higher.</p><p>When the train moves away: frequency appears lower.</p><p>This change in observed frequency due to relative motion between source and observer is called the Doppler Effect.</p><p>Answer: Doppler effect</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q43",
+      "number": 43,
+      "question": "The Bharatiya Nyaya Samhita (BNS) now explicitly defines and criminalizes 'organized crime' and 'petty organized crime'. Which of the following is an example of an offense that might fall under 'petty organized crime' under Bharatiya Nyaya Samhita (BNS)?",
+      "questionHtml": "<p>The Bharatiya Nyaya Samhita (BNS) now explicitly defines and criminalizes 'organized crime' and 'petty organized crime'. Which of the following is an example of an offense that might fall under 'petty organized crime' under Bharatiya Nyaya Samhita (BNS)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Terrorist Act",
+          "html": "<p>Terrorist Act</p>"
+        },
+        {
+          "id": "B",
+          "text": "Large-scale Drug Trafficking",
+          "html": "<p>Large-scale Drug Trafficking</p>"
+        },
+        {
+          "id": "C",
+          "text": "Theft committed by a gang",
+          "html": "<p>Theft committed by a gang</p>"
+        },
+        {
+          "id": "D",
+          "text": "Murder for hire",
+          "html": "<p>Murder for hire</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Under BNS (which replaced IPC), 'organized crime' covers large-scale criminal enterprises.</p><p>'Petty organized crime' covers smaller-scale crimes committed by groups/gangs, such as theft by a gang, pick-pocketing groups, etc.</p><p>Terrorist acts and large-scale drug trafficking fall under 'organized crime', not petty.</p><p>Murder for hire is also 'organized crime'.</p><p>Theft committed by a gang is an example of 'petty organized crime'.</p><p>Answer: Theft committed by a gang</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q44",
+      "number": 44,
+      "question": "Which of these schemes is implemented to promote organic farming?",
+      "questionHtml": "<p>Which of these schemes is implemented to promote organic farming?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "PM-KMY (Pradhan Mantri Kisan Maandhan Yojana)",
+          "html": "<p>PM-KMY (Pradhan Mantri Kisan Maandhan Yojana)</p>"
+        },
+        {
+          "id": "B",
+          "text": "PKVY (Paramparagat Krishi Vikas Yojana)",
+          "html": "<p>PKVY (Paramparagat Krishi Vikas Yojana)</p>"
+        },
+        {
+          "id": "C",
+          "text": "SHC (Soil Health Card Scheme)",
+          "html": "<p>SHC (Soil Health Card Scheme)</p>"
+        },
+        {
+          "id": "D",
+          "text": "ATMA (Agricultural Technology Management Agency)",
+          "html": "<p>ATMA (Agricultural Technology Management Agency)</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>PKVY — Paramparagat Krishi Vikas Yojana — is specifically designed to promote organic farming in India.</p><p>It supports cluster-based organic farming and certification.</p><p>PM-KMY provides pension to small farmers.</p><p>SHC provides soil health cards to farmers — not specifically for organic farming.</p><p>ATMA is for agricultural extension — technology dissemination.</p><p>Answer: PKVY (Paramparagat Krishi Vikas Yojana)</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q45",
+      "number": 45,
+      "question": "Read the below statements marked as Assertion (A) and Reason (R). Mark the correct options: Assertion (A): The National Single Window System (NSWS) supports investor clearances. Reason (R): It works as a separate ministry.",
+      "questionHtml": "<p>Read the below statements marked as Assertion (A) and Reason (R). Mark the correct options:</p><p>Assertion (A): The National Single Window System (NSWS) supports investor clearances.</p><p>Reason (R): It works as a separate ministry.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true, and R is the correct explanation of A",
+          "html": "<p>Both A and R are true, and R is the correct explanation of A</p>"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true, but R is not the correct explanation of A",
+          "html": "<p>Both A and R are true, but R is not the correct explanation of A</p>"
+        },
+        {
+          "id": "C",
+          "text": "A is true, but R is false",
+          "html": "<p>A is true, but R is false</p>"
+        },
+        {
+          "id": "D",
+          "text": "A is false, but R is true",
+          "html": "<p>A is false, but R is true</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Assertion A: NSWS (National Single Window System) is a platform that helps investors obtain approvals and clearances easily. A is TRUE.</p><p>Reason R: NSWS is NOT a separate ministry. It is a portal run under the DPIIT (Dept for Promotion of Industry and Internal Trade). R is FALSE.</p><p>Answer: A is true, but R is false.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q46",
+      "number": 46,
+      "question": "Based on the 2024 Travel and Tourism Development Index (TTDI), which of the following best describes global trends in tourism development conditions?",
+      "questionHtml": "<p>Based on the 2024 Travel and Tourism Development Index (TTDI), which of the following best describes global trends in tourism development conditions?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low-income countries dominate the top 30 scorers",
+          "html": "<p>Low-income countries dominate the top 30 scorers</p>"
+        },
+        {
+          "id": "B",
+          "text": "Most of the top 30 TTDI scorers are high-income economies from Europe and Asia-Pacific",
+          "html": "<p>Most of the top 30 TTDI scorers are high-income economies from Europe and Asia-Pacific</p>"
+        },
+        {
+          "id": "C",
+          "text": "The Americas and MENA account for more than half of the top 30 rankings",
+          "html": "<p>The Americas and MENA account for more than half of the top 30 rankings</p>"
+        },
+        {
+          "id": "D",
+          "text": "Developing economies have surpassed high-income countries in tourism infrastructure",
+          "html": "<p>Developing economies have surpassed high-income countries in tourism infrastructure</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The 2024 TTDI (World Economic Forum) shows that high-income economies, particularly from Europe (Switzerland, France, Spain) and Asia-Pacific (Japan, Australia), dominate the top rankings.</p><p>Low-income countries do not dominate the top 30.</p><p>Developing economies have not surpassed high-income countries in tourism infrastructure.</p><p>Answer: Most of the top 30 TTDI scorers are high-income economies from Europe and Asia-Pacific</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q47",
+      "number": 47,
+      "question": "The Aravalli Green Wall Project launched in 2023 aims to achieve which of the following?",
+      "questionHtml": "<p>The Aravalli Green Wall Project launched in 2023 aims to achieve which of the following?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Afforestation in Himalayan states",
+          "html": "<p>Afforestation in Himalayan states</p>"
+        },
+        {
+          "id": "B",
+          "text": "Building forest corridors across Indo-Gangetic plains",
+          "html": "<p>Building forest corridors across Indo-Gangetic plains</p>"
+        },
+        {
+          "id": "C",
+          "text": "Restoration of degraded forest patches in Aravalli range",
+          "html": "<p>Restoration of degraded forest patches in Aravalli range</p>"
+        },
+        {
+          "id": "D",
+          "text": "Soil carbon sequestration in desert zones",
+          "html": "<p>Soil carbon sequestration in desert zones</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The Aravalli Green Wall Project (2023) aims to create a green corridor across the Aravalli range spanning Haryana, Rajasthan, Delhi, and Gujarat.</p><p>It focuses on restoring degraded land, afforestation, and preventing desertification in the Aravalli hills.</p><p>It is NOT about Himalayan states or Indo-Gangetic plains specifically.</p><p>Answer: Restoration of degraded forest patches in Aravalli range</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q48",
+      "number": 48,
+      "question": "Which of the following statements best defines joint sector industries?",
+      "questionHtml": "<p>Which of the following statements best defines joint sector industries?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are jointly owned by the public and private sectors",
+          "html": "<p>They are jointly owned by the public and private sectors</p>"
+        },
+        {
+          "id": "B",
+          "text": "They are run by village panchayats and municipalities",
+          "html": "<p>They are run by village panchayats and municipalities</p>"
+        },
+        {
+          "id": "C",
+          "text": "They are fully financed by foreign companies",
+          "html": "<p>They are fully financed by foreign companies</p>"
+        },
+        {
+          "id": "D",
+          "text": "They are operated only by self-help groups",
+          "html": "<p>They are operated only by self-help groups</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Joint sector industries are enterprises that are jointly owned and operated by both the public sector (government) and private sector companies.</p><p>This combines government resources with private sector efficiency.</p><p>They are not run by panchayats or self-help groups alone.</p><p>Answer: They are jointly owned by the public and private sectors</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q49",
+      "number": 49,
+      "question": "Which authority decides whether a Bill is a Money Bill?",
+      "questionHtml": "<p>Which authority decides whether a Bill is a Money Bill?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Finance Minister",
+          "html": "<p>Finance Minister</p>"
+        },
+        {
+          "id": "B",
+          "text": "President",
+          "html": "<p>President</p>"
+        },
+        {
+          "id": "C",
+          "text": "Speaker of Lok Sabha",
+          "html": "<p>Speaker of Lok Sabha</p>"
+        },
+        {
+          "id": "D",
+          "text": "Comptroller & Auditor General",
+          "html": "<p>Comptroller &amp; Auditor General</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Under Article 110 of the Indian Constitution, the Speaker of Lok Sabha has the power to certify whether a Bill is a Money Bill.</p><p>The Speaker's decision is final and cannot be questioned in any court.</p><p>The Finance Minister drafts financial legislation but does not certify it as a Money Bill.</p><p>The President gives assent but does not decide whether it is a Money Bill.</p><p>Answer: Speaker of Lok Sabha</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q50",
+      "number": 50,
+      "question": "What astronomical observation is most severely hampered by increasing levels of urban light pollution?",
+      "questionHtml": "<p>What astronomical observation is most severely hampered by increasing levels of urban light pollution?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sunspots",
+          "html": "<p>Sunspots</p>"
+        },
+        {
+          "id": "B",
+          "text": "Planetary transit",
+          "html": "<p>Planetary transit</p>"
+        },
+        {
+          "id": "C",
+          "text": "Deep-sky objects",
+          "html": "<p>Deep-sky objects</p>"
+        },
+        {
+          "id": "D",
+          "text": "Lunar phases",
+          "html": "<p>Lunar phases</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Urban light pollution scatters artificial light into the night sky, making faint objects difficult to observe.</p><p>Deep-sky objects (galaxies, nebulae, star clusters) are very faint and require dark skies — most severely affected.</p><p>Sunspots are observed during daytime — not affected by night-time light pollution.</p><p>Lunar phases — the Moon is bright enough that light pollution does not significantly hamper observation.</p><p>Planetary transits involve bright planets — less affected.</p><p>Answer: Deep-sky objects</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q51",
+      "number": 51,
+      "question": "If a = √7 − √3, and b = √5 − √2, then which of the following is true?",
+      "questionHtml": "<p>If a = √7 − √3, and b = √5 − √2, then which of the following is true?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "a = b",
+          "html": "<p>a = b</p>"
+        },
+        {
+          "id": "B",
+          "text": "a < b",
+          "html": "<p>a &lt; b</p>"
+        },
+        {
+          "id": "C",
+          "text": "a > b",
+          "html": "<p>a &gt; b</p>"
+        },
+        {
+          "id": "D",
+          "text": "Cannot be determined",
+          "html": "<p>Cannot be determined</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>a = √7 − √3 ≈ 2.646 − 1.732 = 0.914</p><p>b = √5 − √2 ≈ 2.236 − 1.414 = 0.822</p><p>0.914 &gt; 0.822, so a &gt; b</p><p>Answer: a &gt; b</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q52",
+      "number": 52,
+      "question": "Evaluate the expression: (1/4 ÷ 1/2) ÷ (1/15 + 1 − 9/10)",
+      "questionHtml": "<p>Evaluate the expression: (1/4 ÷ 1/2) ÷ (1/15 + 1 − 9/10)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "<p>5</p>"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "<p>6</p>"
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "html": "<p>3</p>"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "<p>2</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>(1/4 ÷ 1/2) ÷ (1/15 + 1 − 9/10)</p><p>= (1/4 × 2/1) ÷ (1/15 + 1 − 9/10)</p><p>= 1/2 ÷ (1/15 + 1 − 9/10)</p><p>= 1/2 ÷ (2/30 + 30/30 − 27/30)</p><p>= 1/2 ÷ 5/30</p><p>= 1/2 ÷ 1/6</p><p>= 1/2 × 6/1</p><p>= 3</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q53",
+      "number": 53,
+      "question": "The number of red, blue, and green marbles in a bag is in the ratio 3 : 4 : 6. If 20 red marbles, 15 blue marbles, and an unknown number of green marbles are added to the bag, the ratio of red, blue, and green marbles becomes 4 : 5 : 7. Determine the number of green marbles added.",
+      "questionHtml": "<p>The number of red, blue, and green marbles in a bag is in the ratio 3 : 4 : 6. If 20 red marbles, 15 blue marbles, and an unknown number of green marbles are added to the bag, the ratio of red, blue, and green marbles becomes 4 : 5 : 7. Determine the number of green marbles added.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "<p>3</p>"
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "html": "<p>5</p>"
+        },
+        {
+          "id": "C",
+          "text": "7",
+          "html": "<p>7</p>"
+        },
+        {
+          "id": "D",
+          "text": "9",
+          "html": "<p>9</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Original ratio = 3 : 4 : 6</p><p>After adding:</p><p>3x + 20 : 4x + 15 : 6x + y = 4 : 5 : 7</p><p>Compare red and blue:</p><p>(3x + 20)/(4x + 15) = 4/5</p><p>15x + 100 = 16x + 60</p><p>x = 40</p><p>Original green = 6x = 240</p><p>New red = 3x + 20 = 140</p><p>4 parts = 140, so 1 part = 35</p><p>New green = 7 parts = 245</p><p>Green added = 245 − 240 = 5</p><p>Answer: 5 green marbles</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q54",
+      "number": 54,
+      "question": "A invests ₹25,000 for 12 months, B invests ₹50,000 for 6 months. What is A's share of ₹30,000 profit?",
+      "questionHtml": "<p>A invests ₹25,000 for 12 months, B invests ₹50,000 for 6 months. What is A's share of ₹30,000 profit?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹10,000",
+          "html": "<p>₹10,000</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹12,000",
+          "html": "<p>₹12,000</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹15,000",
+          "html": "<p>₹15,000</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹18,000",
+          "html": "<p>₹18,000</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>A's capital × time = 25000 × 12 = 300000</p><p>B's capital × time = 50000 × 6 = 300000</p><p>Ratio = 300000 : 300000 = 1 : 1</p><p>A's share = 1/2 × 30000 = ₹15,000</p><p>Answer: ₹15,000</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q55",
+      "number": 55,
+      "question": "A and B start a business with capitals in the ratio 5:3. After 6 months, A withdraws ₹10,000 and B doubles his investment. If the initial investment of A was ₹50,000, and the total profit after 1 year is ₹84,000, find the profit share of A.",
+      "questionHtml": "<p>A and B start a business with capitals in the ratio 5:3. After 6 months, A withdraws ₹10,000 and B doubles his investment. If the initial investment of A was ₹50,000, and the total profit after 1 year is ₹84,000, find the profit share of A.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹42,000",
+          "html": "<p>₹42,000</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹50,000",
+          "html": "<p>₹50,000</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹60,000",
+          "html": "<p>₹60,000</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹45,000",
+          "html": "<p>₹45,000</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>A's initial investment = ₹50,000, B's initial = ₹30,000 (ratio 5:3)</p><p>A's investment: 50000×6 + 40000×6 = 300000 + 240000 = 540000</p><p>B's investment: 30000×6 + 60000×6 = 180000 + 360000 = 540000</p><p>Ratio = 540000 : 540000 = 1 : 1</p><p>A's profit = 1/2 × 84000 = ₹42,000</p><p>Answer: ₹42,000</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q56",
+      "number": 56,
+      "question": "What is the average of all three-digit numbers divisible by 23?",
+      "questionHtml": "<p>What is the average of all three-digit numbers divisible by 23?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "752",
+          "html": "<p>752</p>"
+        },
+        {
+          "id": "B",
+          "text": "552",
+          "html": "<p>552</p>"
+        },
+        {
+          "id": "C",
+          "text": "652",
+          "html": "<p>652</p>"
+        },
+        {
+          "id": "D",
+          "text": "452",
+          "html": "<p>452</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>First 3-digit number divisible by 23: 23×5 = 115</p><p>Last 3-digit number divisible by 23: 23×43 = 989</p><p>Average = (First + Last)/2 = (115 + 989)/2 = 1104/2 = 552</p><p>Answer: 552</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q57",
+      "number": 57,
+      "question": "Two containers of the same volume are 40% and 50% full of water, respectively. They are then filled completely with milk. If the contents of both containers are mixed in a larger vessel, what is the percentage of milk in the final mixture?",
+      "questionHtml": "<p>Two containers of the same volume are 40% and 50% full of water, respectively. They are then filled completely with milk. If the contents of both containers are mixed in a larger vessel, what is the percentage of milk in the final mixture?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "45%",
+          "html": "<p>45%</p>"
+        },
+        {
+          "id": "B",
+          "text": "50%",
+          "html": "<p>50%</p>"
+        },
+        {
+          "id": "C",
+          "text": "55%",
+          "html": "<p>55%</p>"
+        },
+        {
+          "id": "D",
+          "text": "60%",
+          "html": "<p>60%</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let volume of each container = 100 units</p><p>Container 1: Water = 40, Milk = 60</p><p>Container 2: Water = 50, Milk = 50</p><p>Total mixture = 200 units</p><p>Total milk = 60 + 50 = 110</p><p>% of milk = 110/200 × 100 = 55%</p><p>Answer: 55%</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q58",
+      "number": 58,
+      "question": "A stationery shop ordered 6 dozen red pens and some additional dozen blue pens. The price of the red pens per dozen was three times that of the blue ones. When the order was delivered, it was found that the number of dozens of the two colours had been interchanged. This increased the bill by 40%. Find the ratio of the number of dozens of red pens to the number of dozens of blue pens in the original order.",
+      "questionHtml": "<p>A stationery shop ordered 6 dozen red pens and some additional dozen blue pens. The price of the red pens per dozen was three times that of the blue ones. When the order was delivered, it was found that the number of dozens of the two colours had been interchanged. This increased the bill by 40%. Find the ratio of the number of dozens of red pens to the number of dozens of blue pens in the original order.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1:1",
+          "html": "<p>1:1</p>"
+        },
+        {
+          "id": "B",
+          "text": "1:2",
+          "html": "<p>1:2</p>"
+        },
+        {
+          "id": "C",
+          "text": "2:3",
+          "html": "<p>2:3</p>"
+        },
+        {
+          "id": "D",
+          "text": "3:4",
+          "html": "<p>3:4</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let blue pens = b dozen, price per dozen blue = p, price per dozen red = 3p</p><p>Original bill = 6×3p + b×p = 18p + bp</p><p>After interchange: 6 dozen blue + b dozen red</p><p>New bill = 6×p + b×3p = 6p + 3bp</p><p>New/Original = 1.4</p><p>(6p + 3bp) = 1.4(18p + bp)</p><p>6 + 3b = 25.2 + 1.4b</p><p>1.6b = 19.2</p><p>b = 12</p><p>Ratio red:blue = 6:12 = 1:2</p><p>Answer: 1:2</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q59",
+      "number": 59,
+      "question": "A flower vendor bought 200 flowers for ₹800. 20 flowers withered and became unsellable. At what price per flower should he sell the remaining flowers to earn a profit of 30% on his total cost?",
+      "questionHtml": "<p>A flower vendor bought 200 flowers for ₹800. 20 flowers withered and became unsellable. At what price per flower should he sell the remaining flowers to earn a profit of 30% on his total cost?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹7.85",
+          "html": "<p>₹7.85</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹6.54",
+          "html": "<p>₹6.54</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹5.78",
+          "html": "<p>₹5.78</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹3.82",
+          "html": "<p>₹3.82</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Cost = ₹800</p><p>Required profit = 30%</p><p>Required revenue = 800 × 1.3 = ₹1040</p><p>Sellable flowers = 200 − 20 = 180</p><p>Price per flower = 1040/180 = ₹5.78 (approx)</p><p>Answer: ₹5.78</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q60",
+      "number": 60,
+      "question": "A furniture store sells a dining table for ₹Z, making a 25% profit. During a festive season, they increase the marked price of the same table to ₹1.6Z. They then offer a special discount of 20% on this increased marked price. What will be the percentage profit made by the store during the festive season?",
+      "questionHtml": "<p>A furniture store sells a dining table for ₹Z, making a 25% profit. During a festive season, they increase the marked price of the same table to ₹1.6Z. They then offer a special discount of 20% on this increased marked price. What will be the percentage profit made by the store during the festive season?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "26%",
+          "html": "<p>26%</p>"
+        },
+        {
+          "id": "B",
+          "text": "56%",
+          "html": "<p>56%</p>"
+        },
+        {
+          "id": "C",
+          "text": "62%",
+          "html": "<p>62%</p>"
+        },
+        {
+          "id": "D",
+          "text": "60%",
+          "html": "<p>60%</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Selling price normally = Z (with 25% profit)</p><p>Cost price = Z/1.25 = 0.8Z</p><p>New marked price = 1.6Z</p><p>After 20% discount: SP = 1.6Z × 0.8 = 1.28Z</p><p>Profit = 1.28Z − 0.8Z = 0.48Z</p><p>Profit% = (0.48Z / 0.8Z) × 100 = 60%</p><p>Answer: 60%</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q61",
+      "number": 61,
+      "question": "A solution consists acid and water in the ratio 5:3. If 4 litres of water is added, the new ratio becomes 5:4. What is the original quantity of acid in the solution?",
+      "questionHtml": "<p>A solution consists acid and water in the ratio 5:3. If 4 litres of water is added, the new ratio becomes 5:4. What is the original quantity of acid in the solution?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20 litres",
+          "html": "<p>20 litres</p>"
+        },
+        {
+          "id": "B",
+          "text": "25 litres",
+          "html": "<p>25 litres</p>"
+        },
+        {
+          "id": "C",
+          "text": "30 litres",
+          "html": "<p>30 litres</p>"
+        },
+        {
+          "id": "D",
+          "text": "35 litres",
+          "html": "<p>35 litres</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let acid = 5x, water = 3x</p><p>After adding 4 litres water: 5x/(3x+4) = 5/4</p><p>20x = 15x + 20</p><p>5x = 20</p><p>x = 4</p><p>Acid = 5×4 = 20 litres</p><p>Answer: 20 litres</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q62",
+      "number": 62,
+      "question": "A alone can complete a job in 12 days and B alone in 18 days. A and B agree to do the work for ₹7,200. With C's help they finish it in 5 days. How much should C be paid?",
+      "questionHtml": "<p>A alone can complete a job in 12 days and B alone in 18 days. A and B agree to do the work for ₹7,200. With C's help they finish it in 5 days. How much should C be paid?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹2,200",
+          "html": "<p>₹2,200</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹2,400",
+          "html": "<p>₹2,400</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹2,600",
+          "html": "<p>₹2,600</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹2,800",
+          "html": "<p>₹2,800</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>LCM of 12 and 18 = 36 units</p><p>A’s efficiency = 36/12 = 3 units/day<br/>B’s efficiency = 36/18 = 2 units/day</p><p>A + B = 5 units/day</p><p>In 5 days, A + B do = 5 × 5 = 25 units</p><p>C’s work = 36 − 25 = 11 units</p><p>Total money = ₹7200</p><p>C’s share = 7200 × 11/36 = ₹2200</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q63",
+      "number": 63,
+      "question": "A tank has a mixture of solutions A, B, and C in the respective ratio of 7:8:5. 40 litres of this mixture is drained out, and subsequently, 15 litres of solution A and 5 litres of solution C are added to the tank. If the resultant quantity of solution A is 25 litres less than the resultant quantity of solution B, what was the initial quantity of mixture in the tank (in litres)?",
+      "questionHtml": "<p>A tank has a mixture of solutions A, B, and C in the respective ratio of 7:8:5. 40 litres of this mixture is drained out, and subsequently, 15 litres of solution A and 5 litres of solution C are added to the tank. If the resultant quantity of solution A is 25 litres less than the resultant quantity of solution B, what was the initial quantity of mixture in the tank (in litres)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "840",
+          "html": "<p>840</p>"
+        },
+        {
+          "id": "B",
+          "text": "240",
+          "html": "<p>240</p>"
+        },
+        {
+          "id": "C",
+          "text": "890",
+          "html": "<p>890</p>"
+        },
+        {
+          "id": "D",
+          "text": "320",
+          "html": "<p>320</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Initial ratio A : B : C = 7 : 8 : 5</p><p>Total parts = 20</p><p>Let total mixture = 20x</p><p>A = 7x, B = 8x, C = 5x</p><p>40 litres drained = 40/20 = 2 litres from each part</p><p>So, drained A = 7 × 2 = 14<br/>Drained B = 8 × 2 = 16</p><p>After changes:</p><p>A = 7x − 14 + 15 = 7x + 1<br/>B = 8x − 16</p><p>Given:</p><p>B − A = 25</p><p>(8x − 16) − (7x + 1) = 25</p><p>x − 17 = 25</p><p>x = 42</p><p>Initial mixture = 20x = 20 × 42 = 840 litres</p><p>Answer: 840 litres</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q64",
+      "number": 64,
+      "question": "The ratio of the time taken by A and B to complete a task is 3 : 2. If B can complete the task alone in 18 hours, how many hours will they take to complete the task if they work together?",
+      "questionHtml": "<p>The ratio of the time taken by A and B to complete a task is 3 : 2. If B can complete the task alone in 18 hours, how many hours will they take to complete the task if they work together?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 hours",
+          "html": "<p>12 hours</p>"
+        },
+        {
+          "id": "B",
+          "text": "10.8 hours",
+          "html": "<p>10.8 hours</p>"
+        },
+        {
+          "id": "C",
+          "text": "9.8 hours",
+          "html": "<p>9.8 hours</p>"
+        },
+        {
+          "id": "D",
+          "text": "10 hours",
+          "html": "<p>10 hours</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Time ratio A:B = 3:2</p><p>B takes 18 hours → A takes (3/2)×18 = 27 hours</p><p>Together: 1/27 + 1/18 = 2/54 + 3/54 = 5/54</p><p>Time = 54/5 = 10.8 hours</p><p>Answer: 10.8 hours</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q65",
+      "number": 65,
+      "question": "Three friends, X, Y, and Z, are cycling on a circular track with a circumference of 2 km. They all start from the same point at 9:00 a.m. and travel in the same direction with speeds of 10 km/h, 12 km/h, and 15 km/h respectively. How many times will all three of them meet at the starting point if they continue cycling until 1:00 p.m.?",
+      "questionHtml": "<p>Three friends, X, Y, and Z, are cycling on a circular track with a circumference of 2 km. They all start from the same point at 9:00 a.m. and travel in the same direction with speeds of 10 km/h, 12 km/h, and 15 km/h respectively. How many times will all three of them meet at the starting point if they continue cycling until 1:00 p.m.?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 time",
+          "html": "<p>1 time</p>"
+        },
+        {
+          "id": "B",
+          "text": "2 times",
+          "html": "<p>2 times</p>"
+        },
+        {
+          "id": "C",
+          "text": "3 times",
+          "html": "<p>3 times</p>"
+        },
+        {
+          "id": "D",
+          "text": "4 times",
+          "html": "<p>4 times</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Track circumference = 2 km</p><p>Time taken by X for 1 round = 2/10 hour = 1/5 hour = 12 min</p><p>Time taken by Y for 1 round = 2/12 hour = 1/6 hour = 10 min</p><p>Time taken by Z for 1 round = 2/15 hour = 2/15 hour = 8 min</p><p>They will meet at the starting point together after:</p><p>LCM of 12, 10, 8 = 120 minutes = 2 hours</p><p>From 9:00 a.m. to 1:00 p.m. = 4 hours = 240 minutes</p><p>They meet together at the starting point at:</p><p>9:00 a.m., 11:00 a.m., 1:00 p.m.</p><p>Answer: 3 times</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q66",
+      "number": 66,
+      "question": "A circular path of 3 m width runs around a circular park with radius 8 m. What is the area of the path?",
+      "questionHtml": "<p>A circular path of 3 m width runs around a circular park with radius 8 m. What is the area of the path?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "179.07 m²",
+          "html": "<p>179.07 m²</p>"
+        },
+        {
+          "id": "B",
+          "text": "131.09 m²",
+          "html": "<p>131.09 m²</p>"
+        },
+        {
+          "id": "C",
+          "text": "138.02 m²",
+          "html": "<p>138.02 m²</p>"
+        },
+        {
+          "id": "D",
+          "text": "144.05 m²",
+          "html": "<p>144.05 m²</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Inner radius r = 8 m, Path width = 3 m</p><p>Outer radius R = 8 + 3 = 11 m</p><p>Area of path = π(R² − r²) = π(121 − 64) = 57π</p><p>= 57 × 3.14159 = 179.07 m²</p><p>Answer: 179.07 m²</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q67",
+      "number": 67,
+      "question": "Find the slope of the line perpendicular to y = (1/4)x + 7",
+      "questionHtml": "<p>Find the slope of the line perpendicular to y = (1/4)x + 7</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "-4",
+          "html": "<p>-4</p>"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "<p>4</p>"
+        },
+        {
+          "id": "C",
+          "text": "-1/4",
+          "html": "<p>-1/4</p>"
+        },
+        {
+          "id": "D",
+          "text": "1/4",
+          "html": "<p>1/4</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Given line: y = (1/4)x + 7</p><p>Slope of given line (m₁) = 1/4</p><p>For perpendicular lines: m₁ × m₂ = -1</p><p>m₂ = -1 ÷ (1/4) = -4</p><p>Answer: -4</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q68",
+      "number": 68,
+      "question": "Convert 2.5 radians to degrees.",
+      "questionHtml": "<p>Convert 2.5 radians to degrees.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "130°",
+          "html": "<p>130°</p>"
+        },
+        {
+          "id": "B",
+          "text": "143.24°",
+          "html": "<p>143.24°</p>"
+        },
+        {
+          "id": "C",
+          "text": "180°",
+          "html": "<p>180°</p>"
+        },
+        {
+          "id": "D",
+          "text": "200.56°",
+          "html": "<p>200.56°</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>1 radian = 180°/π</p><p>2.5 radians = 2.5 × (180/π) = 2.5 × 57.2958 = 143.24°</p><p>Answer: 143.24°</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q69",
+      "number": 69,
+      "question": "A sector of a circle having a radius of 10 cm and has a central angle of π/6 radians. What is the area of the sector?",
+      "questionHtml": "<p>A sector of a circle having a radius of 10 cm and has a central angle of π/6 radians. What is the area of the sector?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "26.18 cm²",
+          "html": "<p>26.18 cm²</p>"
+        },
+        {
+          "id": "B",
+          "text": "8.33 cm²",
+          "html": "<p>8.33 cm²</p>"
+        },
+        {
+          "id": "C",
+          "text": "10.47 cm²",
+          "html": "<p>10.47 cm²</p>"
+        },
+        {
+          "id": "D",
+          "text": "12.5 cm²",
+          "html": "<p>12.5 cm²</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Area of sector = (1/2) × r² × θ</p><p>= (1/2) × 10² × (π/6)</p><p>= (1/2) × 100 × 0.5236</p><p>= 50 × 0.5236</p><p>= 26.18 cm²</p><p>Answer: 26.18 cm²</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q70",
+      "number": 70,
+      "question": "If tan A = cot(2A − 30°), then what is the value of A?",
+      "questionHtml": "<p>If tan A = cot(2A − 30°), then what is the value of A?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "30°",
+          "html": "<p>30°</p>"
+        },
+        {
+          "id": "B",
+          "text": "25°",
+          "html": "<p>25°</p>"
+        },
+        {
+          "id": "C",
+          "text": "18°",
+          "html": "<p>18°</p>"
+        },
+        {
+          "id": "D",
+          "text": "40°",
+          "html": "<p>40°</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>tan A = cot(2A − 30°)</p><p>cot θ = tan(90° − θ)</p><p>tan A = tan(90° − (2A − 30°))</p><p>tan A = tan(120° − 2A)</p><p>A = 120° − 2A</p><p>3A = 120°</p><p>A = 40°</p><p>Answer: 40°</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q71",
+      "number": 71,
+      "question": "In similar triangles, the ratio of corresponding altitudes is 2:5. What is the ratio of their areas?",
+      "questionHtml": "<p>In similar triangles, the ratio of corresponding altitudes is 2:5. What is the ratio of their areas?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2:5",
+          "html": "<p>2:5</p>"
+        },
+        {
+          "id": "B",
+          "text": "4:25",
+          "html": "<p>4:25</p>"
+        },
+        {
+          "id": "C",
+          "text": "2:25",
+          "html": "<p>2:25</p>"
+        },
+        {
+          "id": "D",
+          "text": "5:2",
+          "html": "<p>5:2</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>For similar triangles: ratio of areas = (ratio of corresponding sides)²</p><p>Ratio of altitudes = 2:5 (same as ratio of sides for similar triangles)</p><p>Ratio of areas = (2/5)² = 4/25 = 4:25</p><p>Answer: 4:25</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q72",
+      "number": 72,
+      "question": "Given, a = √5, what is (a + 1)² + (a − 1)²?",
+      "questionHtml": "<p>Given, a = √5, what is (a + 1)² + (a − 1)²?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "13",
+          "html": "<p>13</p>"
+        },
+        {
+          "id": "B",
+          "text": "12",
+          "html": "<p>12</p>"
+        },
+        {
+          "id": "C",
+          "text": "14",
+          "html": "<p>14</p>"
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "html": "<p>15</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>(a+1)² + (a-1)² = a² + 2a + 1 + a² − 2a + 1 = 2a² + 2</p><p>a = √5, so a² = 5</p><p>= 2×5 + 2 = 10 + 2 = 12</p><p>Answer: 12</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q73",
+      "number": 73,
+      "question": "Simplify: √50 + √18 − √8",
+      "questionHtml": "<p>Simplify: √50 + √18 − √8</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "7√2",
+          "html": "<p>7√2</p>"
+        },
+        {
+          "id": "B",
+          "text": "6√2",
+          "html": "<p>6√2</p>"
+        },
+        {
+          "id": "C",
+          "text": "5√2",
+          "html": "<p>5√2</p>"
+        },
+        {
+          "id": "D",
+          "text": "8√2",
+          "html": "<p>8√2</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>√50 = √(25×2) = 5√2</p><p>√18 = √(9×2) = 3√2</p><p>√8 = √(4×2) = 2√2</p><p>5√2 + 3√2 − 2√2 = 6√2</p><p>Answer: 6√2</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q74",
+      "number": 74,
+      "question": "The diameter of a circle measures 25 cm. What is the maximum length of a chord in this circle?",
+      "questionHtml": "<p>The diameter of a circle measures 25 cm. What is the maximum length of a chord in this circle?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 cm",
+          "html": "<p>12 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "25 cm",
+          "html": "<p>25 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "50 cm",
+          "html": "<p>50 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "100 cm",
+          "html": "<p>100 cm</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The maximum chord length in a circle is the diameter.</p><p>Diameter = 25 cm</p><p>Answer: 25 cm</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q75",
+      "number": 75,
+      "question": "If sin A + cos A = √2 sin A, then what is the value of tan A?",
+      "questionHtml": "<p>If sin A + cos A = √2 sin A, then what is the value of tan A?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "√2",
+          "html": "<p>√2</p>"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "<p>1</p>"
+        },
+        {
+          "id": "C",
+          "text": "√2 + 1",
+          "html": "<p>√2 + 1</p>"
+        },
+        {
+          "id": "D",
+          "text": "√2 − 1",
+          "html": "<p>√2 − 1</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>sin A + cos A = √2 sin A</p><p>cos A = √2 sin A − sin A</p><p>cos A = sin A(√2 − 1)</p><p>Now divide both sides by cos A:</p><p>1 = tan A(√2 − 1)</p><p>tan A = 1/(√2 − 1)</p><p>Rationalise:</p><p>tan A = (√2 + 1)</p><p>Answer: √2 + 1</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q76",
+      "number": 76,
+      "question": "Select the most appropriate synonym of the given word: APOGEE",
+      "questionHtml": "<p>Select the most appropriate synonym of the given word: APOGEE</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Start",
+          "html": "<p>Start</p>"
+        },
+        {
+          "id": "B",
+          "text": "Peak",
+          "html": "<p>Peak</p>"
+        },
+        {
+          "id": "C",
+          "text": "Nadir",
+          "html": "<p>Nadir</p>"
+        },
+        {
+          "id": "D",
+          "text": "Base",
+          "html": "<p>Base</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Apogee means the highest point or peak, especially in orbit or achievement.</p><p>Peak — highest point. CORRECT synonym.</p><p>Nadir — the lowest point (opposite/antonym of apogee).</p><p>Start and Base — unrelated meanings.</p><p>Answer: Peak</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q77",
+      "number": 77,
+      "question": "Choose the correct meaning of idiom: 'Throw cold water on'",
+      "questionHtml": "<p>Choose the correct meaning of idiom: 'Throw cold water on'</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "To make something popular",
+          "html": "<p>To make something popular</p>"
+        },
+        {
+          "id": "B",
+          "text": "To oppose or discourage",
+          "html": "<p>To oppose or discourage</p>"
+        },
+        {
+          "id": "C",
+          "text": "To wash away concerns",
+          "html": "<p>To wash away concerns</p>"
+        },
+        {
+          "id": "D",
+          "text": "To encourage enthusiastically",
+          "html": "<p>To encourage enthusiastically</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>'Throw cold water on' means to discourage or dampen enthusiasm for something.</p><p>Example: His boss threw cold water on his new idea.</p><p>Answer: To oppose or discourage</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q78",
+      "number": 78,
+      "question": "Select the most appropriate antonym of the given word: Mendacious",
+      "questionHtml": "<p>Select the most appropriate antonym of the given word: Mendacious</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dishonest",
+          "html": "<p>Dishonest</p>"
+        },
+        {
+          "id": "B",
+          "text": "Fraudulent",
+          "html": "<p>Fraudulent</p>"
+        },
+        {
+          "id": "C",
+          "text": "Truthful",
+          "html": "<p>Truthful</p>"
+        },
+        {
+          "id": "D",
+          "text": "Deceitful",
+          "html": "<p>Deceitful</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Mendacious means lying or untruthful.</p><p>Antonym = Truthful (honest, not lying).</p><p>Dishonest, Fraudulent, Deceitful — all are synonyms of mendacious, not antonyms.</p><p>Answer: Truthful</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q79",
+      "number": 79,
+      "question": "Identify the misspelt word: Antediluvian, Infinitesimal, Persiflage, Obfescate",
+      "questionHtml": "<p>Identify the misspelt word: Antediluvian, Infinitesimal, Persiflage, Obfescate</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antediluvian",
+          "html": "<p>Antediluvian</p>"
+        },
+        {
+          "id": "B",
+          "text": "Infinitesimal",
+          "html": "<p>Infinitesimal</p>"
+        },
+        {
+          "id": "C",
+          "text": "Persiflage",
+          "html": "<p>Persiflage</p>"
+        },
+        {
+          "id": "D",
+          "text": "Obfescate",
+          "html": "<p>Obfescate</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Antediluvian — correct spelling (relating to before the biblical flood).</p><p>Infinitesimal — correct spelling (infinitely small).</p><p>Persiflage — correct spelling (light banter/mockery).</p><p>Obfescate — INCORRECT. The correct spelling is 'Obfuscate' (to make unclear).</p><p>Answer: Obfescate</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q80",
+      "number": 80,
+      "question": "Spot the correct spelling of a microchip printing method.",
+      "questionHtml": "<p>Spot the correct spelling of a microchip printing method.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Photolithography",
+          "html": "<p>Photolithography</p>"
+        },
+        {
+          "id": "B",
+          "text": "Photolithographe",
+          "html": "<p>Photolithographe</p>"
+        },
+        {
+          "id": "C",
+          "text": "Photolitography",
+          "html": "<p>Photolitography</p>"
+        },
+        {
+          "id": "D",
+          "text": "Potolithography",
+          "html": "<p>Potolithography</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Photolithography — correct spelling. It is a process used in microchip/semiconductor manufacturing to transfer patterns onto a substrate using light.</p><p>Photolithographe — incorrect (extra 'e').</p><p>Photolitography — incorrect (missing 'h' in litho-).</p><p>Potolithography — incorrect (wrong prefix).</p><p>Answer: Photolithography</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q81",
+      "number": 81,
+      "question": "Choose the correct one-word substitute for: 'A speech or piece of writing that praises someone highly'.",
+      "questionHtml": "<p>Choose the correct one-word substitute for: 'A speech or piece of writing that praises someone highly'.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Elegy",
+          "html": "<p>Elegy</p>"
+        },
+        {
+          "id": "B",
+          "text": "Encomium",
+          "html": "<p>Encomium</p>"
+        },
+        {
+          "id": "C",
+          "text": "Sermon",
+          "html": "<p>Sermon</p>"
+        },
+        {
+          "id": "D",
+          "text": "Soliloquy",
+          "html": "<p>Soliloquy</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Encomium — a formal expression of high praise; a speech or piece of writing that praises someone highly.</p><p>Elegy — a mournful poem or song for the dead.</p><p>Sermon — a religious talk or moral lecture.</p><p>Soliloquy — the act of talking to oneself (used in drama).</p><p>Answer: Encomium</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q82",
+      "number": 82,
+      "question": "Select the correct option: The journalist refused to ___ her sources despite repeated legal threats.",
+      "questionHtml": "<p>Select the correct option: The journalist refused to ___ her sources despite repeated legal threats.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "give out",
+          "html": "<p>give out</p>"
+        },
+        {
+          "id": "B",
+          "text": "give over",
+          "html": "<p>give over</p>"
+        },
+        {
+          "id": "C",
+          "text": "give away",
+          "html": "<p>give away</p>"
+        },
+        {
+          "id": "D",
+          "text": "give up",
+          "html": "<p>give up</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The correct option is give up.</p><p>Here is why:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q83",
+      "number": 83,
+      "question": "Select the correct option: The memorandum clarified that employees must comply ___ the revised code of ethics.",
+      "questionHtml": "<p>Select the correct option: The memorandum clarified that employees must comply ___ the revised code of ethics.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "to",
+          "html": "<p>to</p>"
+        },
+        {
+          "id": "B",
+          "text": "with",
+          "html": "<p>with</p>"
+        },
+        {
+          "id": "C",
+          "text": "by",
+          "html": "<p>by</p>"
+        },
+        {
+          "id": "D",
+          "text": "in",
+          "html": "<p>in</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>'Comply' is followed by the preposition 'with'.</p><p>Correct usage: comply with (a rule/regulation/standard).</p><p>Comply to, comply by, comply in — all are grammatically incorrect.</p><p>Answer: with</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q84",
+      "number": 84,
+      "question": "Select the correct option: The scientist's hypothesis was not only radical but also diametrically ___ to the foundational assumptions of her discipline.",
+      "questionHtml": "<p>Select the correct option: The scientist's hypothesis was not only radical but also diametrically ___ to the foundational assumptions of her discipline.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "opposed",
+          "html": "<p>opposed</p>"
+        },
+        {
+          "id": "B",
+          "text": "opposing",
+          "html": "<p>opposing</p>"
+        },
+        {
+          "id": "C",
+          "text": "opposite",
+          "html": "<p>opposite</p>"
+        },
+        {
+          "id": "D",
+          "text": "averse",
+          "html": "<p>averse</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>'Diametrically opposed' is a fixed collocation meaning completely contrary.</p><p>Example: Their views were diametrically opposed.</p><p>Opposing — present participle, used before a noun.</p><p>Opposite — used as adjective/noun but 'diametrically opposite to' is less standard here.</p><p>Averse — meaning reluctant, does not fit contextually.</p><p>Answer: opposed</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q85",
+      "number": 85,
+      "question": "Find the part of the sentence that contains an error: The investigation's findings, alarming in both scope and content, (1)/ prompted responses not just from the agencies concerned (2)/ but also from the auditors who report they (3)/ were never granted access to critical records. (4)",
+      "questionHtml": "<p>Find the part of the sentence that contains an error:</p><p>The investigation's findings, alarming in both scope and content, (1)/ prompted responses not just from the agencies concerned (2)/ but also from the auditors who report they (3)/ were never granted access to critical records. (4)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(1)",
+          "html": "<p>(1)</p>"
+        },
+        {
+          "id": "B",
+          "text": "(2)",
+          "html": "<p>(2)</p>"
+        },
+        {
+          "id": "C",
+          "text": "(3)",
+          "html": "<p>(3)</p>"
+        },
+        {
+          "id": "D",
+          "text": "(4)",
+          "html": "<p>(4)</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The error is in part (3): 'who report they'.</p><p>The correct form should be 'who reported that they' — past tense is needed to maintain tense consistency (since the investigation's findings 'prompted' responses).</p><p>'who report they' uses present tense — incorrect in the context of past narrative.</p><p>Answer: (3)</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q86",
+      "number": 86,
+      "question": "Find the part of the sentence that contains an error: That certain state governments have invoked archaic laws (1)/ to suppress dissent does not only reflect legal opportunism (2)/ but also undermines the constitutional ethos (3)/ that such provisions were meant to uphold. (4)",
+      "questionHtml": "<p>Find the part of the sentence that contains an error:</p><p>That certain state governments have invoked archaic laws (1)/ to suppress dissent does not only reflect legal opportunism (2)/ but also undermines the constitutional ethos (3)/ that such provisions were meant to uphold. (4)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(1)",
+          "html": "<p>(1)</p>"
+        },
+        {
+          "id": "B",
+          "text": "(2)",
+          "html": "<p>(2)</p>"
+        },
+        {
+          "id": "C",
+          "text": "(3)",
+          "html": "<p>(3)</p>"
+        },
+        {
+          "id": "D",
+          "text": "(4)",
+          "html": "<p>(4)</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The error is in part (2): 'does not only reflect'.</p><p>The correct correlative conjunction is 'not only...but also'. The structure requires 'not only' without 'does' before it, or alternatively 'does not only reflect' must match grammatically.</p><p>Correct form: '...not only reflects legal opportunism (2) / but also undermines...'</p><p>The use of 'does not only' is awkward; it should be 'not only'.</p><p>Answer: (2)</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q87",
+      "number": 87,
+      "question": "Change the following from active to passive: 'The jury has delivered a unanimous verdict.'",
+      "questionHtml": "<p>Change the following from active to passive: 'The jury has delivered a unanimous verdict.'</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A unanimous verdict has been delivered by the jury.",
+          "html": "<p>A unanimous verdict has been delivered by the jury.</p>"
+        },
+        {
+          "id": "B",
+          "text": "A unanimous verdict was being delivered by the jury.",
+          "html": "<p>A unanimous verdict was being delivered by the jury.</p>"
+        },
+        {
+          "id": "C",
+          "text": "A unanimous verdict had been delivered by the jury.",
+          "html": "<p>A unanimous verdict had been delivered by the jury.</p>"
+        },
+        {
+          "id": "D",
+          "text": "A unanimous verdict is delivered by the jury.",
+          "html": "<p>A unanimous verdict is delivered by the jury.</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Active: The jury HAS DELIVERED a unanimous verdict. (Present Perfect Tense)</p><p>Passive Rule for Present Perfect: Object + has/have + been + V3 + by + Subject</p><p>Passive: A unanimous verdict has been delivered by the jury.</p><p>'Was being delivered' — Past Continuous Passive. Incorrect.</p><p>'Had been delivered' — Past Perfect Passive. Incorrect.</p><p>'Is delivered' — Simple Present Passive. Incorrect.</p><p>Answer: A unanimous verdict has been delivered by the jury.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q88",
+      "number": 88,
+      "question": "Select the sentence containing the homonym of the highlighted word: The treatise critiqued the rheme in the syntactical arrangement of propositions. (rheme = information in a sentence that is NOT the topic)",
+      "questionHtml": "<p>Select the sentence containing the homonym of the highlighted word:</p><p>The treatise critiqued the rheme in the syntactical arrangement of propositions.</p><p>(rheme = information in a sentence that is NOT the topic)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The linguist isolated the rheme in the sentence structure.",
+          "html": "<p>The linguist isolated the rheme in the sentence structure.</p>"
+        },
+        {
+          "id": "B",
+          "text": "The rheme was pronounced with unique intonation in Tagalog.",
+          "html": "<p>The rheme was pronounced with unique intonation in Tagalog.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The rheme swam rapidly into the estuarine current.",
+          "html": "<p>The rheme swam rapidly into the estuarine current.</p>"
+        },
+        {
+          "id": "D",
+          "text": "The poet emphasized the rheme for metrical impact.",
+          "html": "<p>The poet emphasized the rheme for metrical impact.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The word 'rheme' in the original sentence is a linguistic term (comment part of a sentence).</p><p>A homonym is a word that sounds the same but has a different meaning.</p><p>'The rheme swam rapidly into the estuarine current' — here 'rheme' is used as if it were 'bream' (a type of fish that swims in estuaries), representing a homophonous/homonymic usage.</p><p>Options 1, 2, 4 — all use 'rheme' in a linguistic sense, same meaning as original.</p><p>Answer: The rheme swam rapidly into the estuarine current.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q89",
+      "number": 89,
+      "question": "Convert the sentence provided below from its passive voice structure to an active voice structure: 'The construction is alleged to have been halted due to environmental violations.'",
+      "questionHtml": "<p>Convert the sentence provided below from its passive voice structure to an active voice structure: 'The construction is alleged to have been halted due to environmental violations.'</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is alleged that the authorities halted the construction.",
+          "html": "<p>It is alleged that the authorities halted the construction.</p>"
+        },
+        {
+          "id": "B",
+          "text": "Authorities allegedly halted the construction.",
+          "html": "<p>Authorities allegedly halted the construction.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The authorities are alleged to have halted the construction.",
+          "html": "<p>The authorities are alleged to have halted the construction.</p>"
+        },
+        {
+          "id": "D",
+          "text": "The violation allegedly halted the construction.",
+          "html": "<p>The violation allegedly halted the construction.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Original (Passive): The construction is alleged to have been halted...</p><p>The structure 'is alleged to have been halted' (passive infinitive perfect) becomes 'is alleged to have halted' (active infinitive perfect).</p><p>Subject change: 'The construction' (object of halting) becomes the object, 'The authorities' becomes the subject.</p><p>Active: The authorities are alleged to have halted the construction.</p><p>Option 1: 'It is alleged that...' — impersonal construction, not a direct active voice conversion.</p><p>Option 2: Changes meaning (drops 'alleged').</p><p>Option 4: Subject changed to 'violation' — incorrect.</p><p>Answer: The authorities are alleged to have halted the construction.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q90",
+      "number": 90,
+      "question": "Read the following passage and answer the questions based on the passage: India's digital transformation over the last decade has been nothing short of revolutionary. What began as a modest attempt to expand internet access has now evolved into one of the largest digital ecosystems in the world. Spearheaded by government initiatives such as Digital India, the country has witnessed an unprecedented surge in internet penetration, digital payments, and online governance. A pivotal moment in this journey was the launch of Aadhaar, a biometric-based identification system that enabled secure and streamlined access to various public services. Coupled with the rise of Unified Payments Interface (UPI), India has leapfrogged traditional banking hurdles and facilitated real-time, low-cost transactions across urban and rural regions alike. Significantly, the pandemic acted as an unexpected catalyst. As lockdowns forced physical distancing, citizens turned to digital alternatives—telemedicine, online education, and remote work became not just accessible but essential. This sudden shift forced both public and private sectors to rethink infrastructure and embrace scalable tech solutions. However, the digital journey hasn't been without obstacles. A persistent digital divide remains, particularly between urban and rural populations. While metros enjoy high-speed broadband, many villages struggle with basic connectivity. Moreover, concerns around data privacy, cybersecurity, and misinformation have emerged as pressing issues in this digital age. Nonetheless, India's digital growth story remains a testament to its adaptability and ambition. With over 850 million internet users and counting, the nation stands at a crucial intersection—where robust digital policy, inclusive access, and responsible innovation will determine the trajectory of its digital future. Question: What major government initiative catalyzed India's digital ecosystem?",
+      "questionHtml": "<p>Read the following passage and answer the questions based on the passage:</p><p>India's digital transformation over the last decade has been nothing short of revolutionary. What began as a modest attempt to expand internet access has now evolved into one of the largest digital ecosystems in the world. Spearheaded by government initiatives such as Digital India, the country has witnessed an unprecedented surge in internet penetration, digital payments, and online governance. A pivotal moment in this journey was the launch of Aadhaar, a biometric-based identification system that enabled secure and streamlined access to various public services. Coupled with the rise of Unified Payments Interface (UPI), India has leapfrogged traditional banking hurdles and facilitated real-time, low-cost transactions across urban and rural regions alike. Significantly, the pandemic acted as an unexpected catalyst. As lockdowns forced physical distancing, citizens turned to digital alternatives—telemedicine, online education, and remote work became not just accessible but essential. This sudden shift forced both public and private sectors to rethink infrastructure and embrace scalable tech solutions. However, the digital journey hasn't been without obstacles. A persistent digital divide remains, particularly between urban and rural populations. While metros enjoy high-speed broadband, many villages struggle with basic connectivity. Moreover, concerns around data privacy, cybersecurity, and misinformation have emerged as pressing issues in this digital age. Nonetheless, India's digital growth story remains a testament to its adaptability and ambition. With over 850 million internet users and counting, the nation stands at a crucial intersection—where robust digital policy, inclusive access, and responsible innovation will determine the trajectory of its digital future.</p><p>Question: What major government initiative catalyzed India's digital ecosystem?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "BharatNet",
+          "html": "<p>BharatNet</p>"
+        },
+        {
+          "id": "B",
+          "text": "Digital Bharat",
+          "html": "<p>Digital Bharat</p>"
+        },
+        {
+          "id": "C",
+          "text": "Digital India",
+          "html": "<p>Digital India</p>"
+        },
+        {
+          "id": "D",
+          "text": "India Connect",
+          "html": "<p>India Connect</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The passage states: 'Spearheaded by government initiatives such as Digital India, the country has witnessed an unprecedented surge in internet penetration...'</p><p>Digital India is clearly identified as the major government initiative.</p><p>BharatNet is a broadband connectivity project but not mentioned as the primary catalyst here.</p><p>Digital Bharat and India Connect are not mentioned in the passage.</p><p>Answer: Digital India</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q91",
+      "number": 91,
+      "question": "Read the following passage and answer the questions based on the passage: India's digital transformation over the last decade has been nothing short of revolutionary. What began as a modest attempt to expand internet access has now evolved into one of the largest digital ecosystems in the world. Spearheaded by government initiatives such as Digital India, the country has witnessed an unprecedented surge in internet penetration, digital payments, and online governance. A pivotal moment in this journey was the launch of Aadhaar, a biometric-based identification system that enabled secure and streamlined access to various public services. Coupled with the rise of Unified Payments Interface (UPI), India has leapfrogged traditional banking hurdles and facilitated real-time, low-cost transactions across urban and rural regions alike. Significantly, the pandemic acted as an unexpected catalyst. As lockdowns forced physical distancing, citizens turned to digital alternatives—telemedicine, online education, and remote work became not just accessible but essential. This sudden shift forced both public and private sectors to rethink infrastructure and embrace scalable tech solutions. However, the digital journey hasn't been without obstacles. A persistent digital divide remains, particularly between urban and rural populations. While metros enjoy high-speed broadband, many villages struggle with basic connectivity. Moreover, concerns around data privacy, cybersecurity, and misinformation have emerged as pressing issues in this digital age. Nonetheless, India's digital growth story remains a testament to its adaptability and ambition. With over 850 million internet users and counting, the nation stands at a crucial intersection—where robust digital policy, inclusive access, and responsible innovation will determine the trajectory of its digital future. Question: What role did Aadhaar play in digital growth?",
+      "questionHtml": "<p>Read the following passage and answer the questions based on the passage:</p><p>India's digital transformation over the last decade has been nothing short of revolutionary. What began as a modest attempt to expand internet access has now evolved into one of the largest digital ecosystems in the world. Spearheaded by government initiatives such as Digital India, the country has witnessed an unprecedented surge in internet penetration, digital payments, and online governance. A pivotal moment in this journey was the launch of Aadhaar, a biometric-based identification system that enabled secure and streamlined access to various public services. Coupled with the rise of Unified Payments Interface (UPI), India has leapfrogged traditional banking hurdles and facilitated real-time, low-cost transactions across urban and rural regions alike. Significantly, the pandemic acted as an unexpected catalyst. As lockdowns forced physical distancing, citizens turned to digital alternatives—telemedicine, online education, and remote work became not just accessible but essential. This sudden shift forced both public and private sectors to rethink infrastructure and embrace scalable tech solutions. However, the digital journey hasn't been without obstacles. A persistent digital divide remains, particularly between urban and rural populations. While metros enjoy high-speed broadband, many villages struggle with basic connectivity. Moreover, concerns around data privacy, cybersecurity, and misinformation have emerged as pressing issues in this digital age. Nonetheless, India's digital growth story remains a testament to its adaptability and ambition. With over 850 million internet users and counting, the nation stands at a crucial intersection—where robust digital policy, inclusive access, and responsible innovation will determine the trajectory of its digital future.</p><p>Question: What role did Aadhaar play in digital growth?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Promoted telecom infrastructure",
+          "html": "<p>Promoted telecom infrastructure</p>"
+        },
+        {
+          "id": "B",
+          "text": "Enabled biometric voting",
+          "html": "<p>Enabled biometric voting</p>"
+        },
+        {
+          "id": "C",
+          "text": "Offered unified payments",
+          "html": "<p>Offered unified payments</p>"
+        },
+        {
+          "id": "D",
+          "text": "Enabled access to public services",
+          "html": "<p>Enabled access to public services</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The passage states: 'The launch of Aadhaar, a biometric-based identification system that enabled secure and streamlined access to various public services.'</p><p>Aadhaar enabled access to public services — not telecom, voting, or payments.</p><p>UPI provided unified payments, not Aadhaar.</p><p>Answer: Enabled access to public services</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q92",
+      "number": 92,
+      "question": "Read the following passage and answer the questions based on the passage: India's digital transformation over the last decade has been nothing short of revolutionary. What began as a modest attempt to expand internet access has now evolved into one of the largest digital ecosystems in the world. Spearheaded by government initiatives such as Digital India, the country has witnessed an unprecedented surge in internet penetration, digital payments, and online governance. A pivotal moment in this journey was the launch of Aadhaar, a biometric-based identification system that enabled secure and streamlined access to various public services. Coupled with the rise of Unified Payments Interface (UPI), India has leapfrogged traditional banking hurdles and facilitated real-time, low-cost transactions across urban and rural regions alike. Significantly, the pandemic acted as an unexpected catalyst. As lockdowns forced physical distancing, citizens turned to digital alternatives—telemedicine, online education, and remote work became not just accessible but essential. This sudden shift forced both public and private sectors to rethink infrastructure and embrace scalable tech solutions. However, the digital journey hasn't been without obstacles. A persistent digital divide remains, particularly between urban and rural populations. While metros enjoy high-speed broadband, many villages struggle with basic connectivity. Moreover, concerns around data privacy, cybersecurity, and misinformation have emerged as pressing issues in this digital age. Nonetheless, India's digital growth story remains a testament to its adaptability and ambition. With over 850 million internet users and counting, the nation stands at a crucial intersection—where robust digital policy, inclusive access, and responsible innovation will determine the trajectory of its digital future. Question: Which factor unexpectedly accelerated India's digital adoption?",
+      "questionHtml": "<p>Read the following passage and answer the questions based on the passage:</p><p>India's digital transformation over the last decade has been nothing short of revolutionary. What began as a modest attempt to expand internet access has now evolved into one of the largest digital ecosystems in the world. Spearheaded by government initiatives such as Digital India, the country has witnessed an unprecedented surge in internet penetration, digital payments, and online governance. A pivotal moment in this journey was the launch of Aadhaar, a biometric-based identification system that enabled secure and streamlined access to various public services. Coupled with the rise of Unified Payments Interface (UPI), India has leapfrogged traditional banking hurdles and facilitated real-time, low-cost transactions across urban and rural regions alike. Significantly, the pandemic acted as an unexpected catalyst. As lockdowns forced physical distancing, citizens turned to digital alternatives—telemedicine, online education, and remote work became not just accessible but essential. This sudden shift forced both public and private sectors to rethink infrastructure and embrace scalable tech solutions. However, the digital journey hasn't been without obstacles. A persistent digital divide remains, particularly between urban and rural populations. While metros enjoy high-speed broadband, many villages struggle with basic connectivity. Moreover, concerns around data privacy, cybersecurity, and misinformation have emerged as pressing issues in this digital age. Nonetheless, India's digital growth story remains a testament to its adaptability and ambition. With over 850 million internet users and counting, the nation stands at a crucial intersection—where robust digital policy, inclusive access, and responsible innovation will determine the trajectory of its digital future.</p><p>Question: Which factor unexpectedly accelerated India's digital adoption?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Demonetisation",
+          "html": "<p>Demonetisation</p>"
+        },
+        {
+          "id": "B",
+          "text": "GST Implementation",
+          "html": "<p>GST Implementation</p>"
+        },
+        {
+          "id": "C",
+          "text": "COVID-19 pandemic",
+          "html": "<p>COVID-19 pandemic</p>"
+        },
+        {
+          "id": "D",
+          "text": "Global recession",
+          "html": "<p>Global recession</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The passage states: 'the pandemic acted as an unexpected catalyst'.</p><p>COVID-19 pandemic forced people to adopt digital tools for work, education, and healthcare.</p><p>Demonetisation (2016) did boost digital payments but is not mentioned in the passage as the unexpected catalyst.</p><p>Answer: COVID-19 pandemic</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q93",
+      "number": 93,
+      "question": "Read the following passage and answer the questions based on the passage: India's digital transformation over the last decade has been nothing short of revolutionary. What began as a modest attempt to expand internet access has now evolved into one of the largest digital ecosystems in the world. Spearheaded by government initiatives such as Digital India, the country has witnessed an unprecedented surge in internet penetration, digital payments, and online governance. A pivotal moment in this journey was the launch of Aadhaar, a biometric-based identification system that enabled secure and streamlined access to various public services. Coupled with the rise of Unified Payments Interface (UPI), India has leapfrogged traditional banking hurdles and facilitated real-time, low-cost transactions across urban and rural regions alike. Significantly, the pandemic acted as an unexpected catalyst. As lockdowns forced physical distancing, citizens turned to digital alternatives—telemedicine, online education, and remote work became not just accessible but essential. This sudden shift forced both public and private sectors to rethink infrastructure and embrace scalable tech solutions. However, the digital journey hasn't been without obstacles. A persistent digital divide remains, particularly between urban and rural populations. While metros enjoy high-speed broadband, many villages struggle with basic connectivity. Moreover, concerns around data privacy, cybersecurity, and misinformation have emerged as pressing issues in this digital age. Nonetheless, India's digital growth story remains a testament to its adaptability and ambition. With over 850 million internet users and counting, the nation stands at a crucial intersection—where robust digital policy, inclusive access, and responsible innovation will determine the trajectory of its digital future. Question: What is a current challenge in India's digital development?",
+      "questionHtml": "<p>Read the following passage and answer the questions based on the passage:</p><p>India's digital transformation over the last decade has been nothing short of revolutionary. What began as a modest attempt to expand internet access has now evolved into one of the largest digital ecosystems in the world. Spearheaded by government initiatives such as Digital India, the country has witnessed an unprecedented surge in internet penetration, digital payments, and online governance. A pivotal moment in this journey was the launch of Aadhaar, a biometric-based identification system that enabled secure and streamlined access to various public services. Coupled with the rise of Unified Payments Interface (UPI), India has leapfrogged traditional banking hurdles and facilitated real-time, low-cost transactions across urban and rural regions alike. Significantly, the pandemic acted as an unexpected catalyst. As lockdowns forced physical distancing, citizens turned to digital alternatives—telemedicine, online education, and remote work became not just accessible but essential. This sudden shift forced both public and private sectors to rethink infrastructure and embrace scalable tech solutions. However, the digital journey hasn't been without obstacles. A persistent digital divide remains, particularly between urban and rural populations. While metros enjoy high-speed broadband, many villages struggle with basic connectivity. Moreover, concerns around data privacy, cybersecurity, and misinformation have emerged as pressing issues in this digital age. Nonetheless, India's digital growth story remains a testament to its adaptability and ambition. With over 850 million internet users and counting, the nation stands at a crucial intersection—where robust digital policy, inclusive access, and responsible innovation will determine the trajectory of its digital future.</p><p>Question: What is a current challenge in India's digital development?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Internet monopoly by private ISPs",
+          "html": "<p>Internet monopoly by private ISPs</p>"
+        },
+        {
+          "id": "B",
+          "text": "Lack of mobile phone production",
+          "html": "<p>Lack of mobile phone production</p>"
+        },
+        {
+          "id": "C",
+          "text": "Digital divide and data privacy",
+          "html": "<p>Digital divide and data privacy</p>"
+        },
+        {
+          "id": "D",
+          "text": "Excess of international investors",
+          "html": "<p>Excess of international investors</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The passage mentions: 'A persistent digital divide remains, particularly between urban and rural populations' and 'concerns around data privacy, cybersecurity, and misinformation'.</p><p>Both digital divide and data privacy are clearly stated as current challenges.</p><p>Internet monopoly, mobile phone production, and international investors are not mentioned.</p><p>Answer: Digital divide and data privacy</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q94",
+      "number": 94,
+      "question": "Read the following passage and answer the questions based on the passage: India's digital transformation over the last decade has been nothing short of revolutionary. What began as a modest attempt to expand internet access has now evolved into one of the largest digital ecosystems in the world. Spearheaded by government initiatives such as Digital India, the country has witnessed an unprecedented surge in internet penetration, digital payments, and online governance. A pivotal moment in this journey was the launch of Aadhaar, a biometric-based identification system that enabled secure and streamlined access to various public services. Coupled with the rise of Unified Payments Interface (UPI), India has leapfrogged traditional banking hurdles and facilitated real-time, low-cost transactions across urban and rural regions alike. Significantly, the pandemic acted as an unexpected catalyst. As lockdowns forced physical distancing, citizens turned to digital alternatives—telemedicine, online education, and remote work became not just accessible but essential. This sudden shift forced both public and private sectors to rethink infrastructure and embrace scalable tech solutions. However, the digital journey hasn't been without obstacles. A persistent digital divide remains, particularly between urban and rural populations. While metros enjoy high-speed broadband, many villages struggle with basic connectivity. Moreover, concerns around data privacy, cybersecurity, and misinformation have emerged as pressing issues in this digital age. Nonetheless, India's digital growth story remains a testament to its adaptability and ambition. With over 850 million internet users and counting, the nation stands at a crucial intersection—where robust digital policy, inclusive access, and responsible innovation will determine the trajectory of its digital future. Question: What does the passage suggest is key to India's digital future?",
+      "questionHtml": "<p>Read the following passage and answer the questions based on the passage:</p><p>India's digital transformation over the last decade has been nothing short of revolutionary. What began as a modest attempt to expand internet access has now evolved into one of the largest digital ecosystems in the world. Spearheaded by government initiatives such as Digital India, the country has witnessed an unprecedented surge in internet penetration, digital payments, and online governance. A pivotal moment in this journey was the launch of Aadhaar, a biometric-based identification system that enabled secure and streamlined access to various public services. Coupled with the rise of Unified Payments Interface (UPI), India has leapfrogged traditional banking hurdles and facilitated real-time, low-cost transactions across urban and rural regions alike. Significantly, the pandemic acted as an unexpected catalyst. As lockdowns forced physical distancing, citizens turned to digital alternatives—telemedicine, online education, and remote work became not just accessible but essential. This sudden shift forced both public and private sectors to rethink infrastructure and embrace scalable tech solutions. However, the digital journey hasn't been without obstacles. A persistent digital divide remains, particularly between urban and rural populations. While metros enjoy high-speed broadband, many villages struggle with basic connectivity. Moreover, concerns around data privacy, cybersecurity, and misinformation have emerged as pressing issues in this digital age. Nonetheless, India's digital growth story remains a testament to its adaptability and ambition. With over 850 million internet users and counting, the nation stands at a crucial intersection—where robust digital policy, inclusive access, and responsible innovation will determine the trajectory of its digital future.</p><p>Question: What does the passage suggest is key to India's digital future?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "More mobile apps",
+          "html": "<p>More mobile apps</p>"
+        },
+        {
+          "id": "B",
+          "text": "Higher tax rates on digital goods",
+          "html": "<p>Higher tax rates on digital goods</p>"
+        },
+        {
+          "id": "C",
+          "text": "Stricter censorship laws",
+          "html": "<p>Stricter censorship laws</p>"
+        },
+        {
+          "id": "D",
+          "text": "Inclusive access and responsible tech",
+          "html": "<p>Inclusive access and responsible tech</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The passage concludes: '...robust digital policy, inclusive access, and responsible innovation will determine the trajectory of its digital future.'</p><p>Inclusive access and responsible innovation (responsible tech) are clearly identified as key factors.</p><p>More mobile apps, higher taxes, and censorship laws are not mentioned.</p><p>Answer: Inclusive access and responsible tech</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q95",
+      "number": 95,
+      "question": "Choose the most suitable option to replace the highlighted part of the sentence: I am confident to pass the examination.",
+      "questionHtml": "<p>Choose the most suitable option to replace the highlighted part of the sentence: I am confident to pass the examination.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "in passing the exam",
+          "html": "<p>in passing the exam</p>"
+        },
+        {
+          "id": "B",
+          "text": "to passing the exam",
+          "html": "<p>to passing the exam</p>"
+        },
+        {
+          "id": "C",
+          "text": "of passing the examination",
+          "html": "<p>of passing the examination</p>"
+        },
+        {
+          "id": "D",
+          "text": "for passing examination",
+          "html": "<p>for passing examination</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>'Confident' is followed by the preposition 'of' when used with a gerund (verb+ing).</p><p>Correct: 'I am confident of passing the examination.'</p><p>'Confident to pass' — incorrect; 'confident' does not take an infinitive.</p><p>'Confident in passing' — less standard but used for 'confident in one's ability'.</p><p>'Confident for' — incorrect preposition.</p><p>Answer: of passing the examination</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q96",
+      "number": 96,
+      "question": "Choose the most suitable option to replace the highlighted part of the sentence: You must adapt with the situation.",
+      "questionHtml": "<p>Choose the most suitable option to replace the highlighted part of the sentence: You must adapt with the situation.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "to the situation",
+          "html": "<p>to the situation</p>"
+        },
+        {
+          "id": "B",
+          "text": "the situation",
+          "html": "<p>the situation</p>"
+        },
+        {
+          "id": "C",
+          "text": "adapt to the situation",
+          "html": "<p>adapt to the situation</p>"
+        },
+        {
+          "id": "D",
+          "text": "by the situation",
+          "html": "<p>by the situation</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct option is adapt to the situation.</p><p>Explanation: The verb adapt uses the preposition \"to\" when it means modifying your behavior to suit new conditions or environments (e.g., \"adapt to the climate,\" \"adapt to the changes\"). The phrase \"adapt with\" is grammatically incorrect in this context.</p><p>Since the original sentence is \"You must adapt with the situation,\" replacing the highlighted part (\"adapt with the situation\") completely yields \"adapt to the situation\" to make the sentence grammatically accurate: \"You must adapt to the situation.\"</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q97",
+      "number": 97,
+      "question": "A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech. She said, \"I had completed the report.\"",
+      "questionHtml": "<p>A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech. She said, \"I had completed the report.\"</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "She said that she completed the report.",
+          "html": "<p>She said that she completed the report.</p>"
+        },
+        {
+          "id": "B",
+          "text": "She said that she has completed the report.",
+          "html": "<p>She said that she has completed the report.</p>"
+        },
+        {
+          "id": "C",
+          "text": "She said that she had completed the report.",
+          "html": "<p>She said that she had completed the report.</p>"
+        },
+        {
+          "id": "D",
+          "text": "She said she had been completing the report.",
+          "html": "<p>She said she had been completing the report.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Direct speech: 'I had completed the report.' — Past Perfect tense.</p><p>Rule: When reporting speech with past reporting verb ('said'), Past Perfect remains as Past Perfect.</p><p>Past Perfect (had completed) → stays as Past Perfect (had completed) in indirect speech.</p><p>Indirect: She said that she had completed the report.</p><p>'She completed' — Simple Past, not correct here.</p><p>'She has completed' — Present Perfect, incorrect tense shift.</p><p>'Had been completing' — Past Perfect Continuous, changes meaning.</p><p>Answer: She said that she had completed the report.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q98",
+      "number": 98,
+      "question": "A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech. The scientist stated that water boiled at 100 degrees Celsius.",
+      "questionHtml": "<p>A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech. The scientist stated that water boiled at 100 degrees Celsius.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "\"Water will boil at 100 degrees Celsius,\" said the scientist.",
+          "html": "<p>\"Water will boil at 100 degrees Celsius,\" said the scientist.</p>"
+        },
+        {
+          "id": "B",
+          "text": "\"Water boils at 100 degrees Celsius,\" the scientist stated.",
+          "html": "<p>\"Water boils at 100 degrees Celsius,\" the scientist stated.</p>"
+        },
+        {
+          "id": "C",
+          "text": "\"Water had boiled at 100 degrees Celsius,\" said the scientist.",
+          "html": "<p>\"Water had boiled at 100 degrees Celsius,\" said the scientist.</p>"
+        },
+        {
+          "id": "D",
+          "text": "\"Water is boiling at 100 degrees Celsius,\" said the scientist.",
+          "html": "<p>\"Water is boiling at 100 degrees Celsius,\" said the scientist.</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Indirect: 'water boiled at 100 degrees Celsius' — this is a universal/scientific truth.</p><p>Rule: Universal truths are not changed in tense when converting to direct speech.</p><p>The direct speech should reflect the universal truth in Simple Present: 'Water boils at 100 degrees Celsius.'</p><p>Answer: \"Water boils at 100 degrees Celsius,\" the scientist stated.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q99",
+      "number": 99,
+      "question": "Rearrange the following sentences to form a coherent paragraph: 1. This allows a programmer to specify the structure and behavior of an object-oriented program. 2. Object-Oriented Programming (OOP) is a programming paradigm based on the concept of 'objects,' which can contain data and code. 3. A central tenet of OOP is the concept of a 'class,' which acts as a blueprint for creating objects. 4. The key advantage of this approach is that it models real-world entities, making complex systems easier to manage and debug.",
+      "questionHtml": "<p>Rearrange the following sentences to form a coherent paragraph:</p><p>1. This allows a programmer to specify the structure and behavior of an object-oriented program.</p><p>2. Object-Oriented Programming (OOP) is a programming paradigm based on the concept of 'objects,' which can contain data and code.</p><p>3. A central tenet of OOP is the concept of a 'class,' which acts as a blueprint for creating objects.</p><p>4. The key advantage of this approach is that it models real-world entities, making complex systems easier to manage and debug.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 3, 1, 4",
+          "html": "<p>2, 3, 1, 4</p>"
+        },
+        {
+          "id": "B",
+          "text": "4, 3, 2, 1",
+          "html": "<p>4, 3, 2, 1</p>"
+        },
+        {
+          "id": "C",
+          "text": "3, 1, 4, 2",
+          "html": "<p>3, 1, 4, 2</p>"
+        },
+        {
+          "id": "D",
+          "text": "1, 2, 3, 4",
+          "html": "<p>1, 2, 3, 4</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Sentence 2 introduces OOP — logical starting point.</p><p>Sentence 3 introduces 'class' as a central tenet — follows the introduction.</p><p>Sentence 1 explains what 'class' allows a programmer to do — follows naturally from 3.</p><p>Sentence 4 gives the key advantage — conclusion.</p><p>Correct order: 2, 3, 1, 4</p><p>Answer: 2, 3, 1, 4</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "33732d947ebc-q100",
+      "number": 100,
+      "question": "Rearrange the following sentences to form a coherent paragraph: 1. This process, a cornerstone of evolution, ensures that only individuals best suited to their environment survive to reproduce. 2. The diversity of life on Earth is the result of a gradual process of change over vast spans of time. 3. This leads to the gradual accumulation of favorable traits within a population. 4. It begins with inherited variation among individuals, where some possess characteristics that give them an advantage over others.",
+      "questionHtml": "<p>Rearrange the following sentences to form a coherent paragraph:</p><p>1. This process, a cornerstone of evolution, ensures that only individuals best suited to their environment survive to reproduce.</p><p>2. The diversity of life on Earth is the result of a gradual process of change over vast spans of time.</p><p>3. This leads to the gradual accumulation of favorable traits within a population.</p><p>4. It begins with inherited variation among individuals, where some possess characteristics that give them an advantage over others.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 1, 4, 3",
+          "html": "<p>2, 1, 4, 3</p>"
+        },
+        {
+          "id": "B",
+          "text": "4, 3, 1, 2",
+          "html": "<p>4, 3, 1, 2</p>"
+        },
+        {
+          "id": "C",
+          "text": "2, 4, 3, 1",
+          "html": "<p>2, 4, 3, 1</p>"
+        },
+        {
+          "id": "D",
+          "text": "1, 2, 4, 3",
+          "html": "<p>1, 2, 4, 3</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Sentence 2 introduces the broad idea — diversity of life through gradual change.</p><p>Sentence 4 explains how it begins — inherited variation.</p><p>Sentence 3 explains the result — accumulation of favorable traits.</p><p>Sentence 1 names the process — natural selection (cornerstone of evolution).</p><p>Correct order: 2, 4, 3, 1</p><p>Answer: 2, 4, 3, 1</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

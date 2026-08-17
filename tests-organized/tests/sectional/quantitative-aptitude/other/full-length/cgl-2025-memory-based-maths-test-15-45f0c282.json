@@ -1,0 +1,865 @@
+{
+  "id": "45f0c282cbba",
+  "provider": "RBE_Mocks",
+  "sourceFile": "CGL_2025_Memory_Based_Maths_Test-15.html",
+  "sourcePath": "RBE_MOCKS/CGL_2025_Memory_Based_Maths_Test-15.html",
+  "title": "CGL 2025 Memory Based Maths Test-15",
+  "exam": null,
+  "year": 2025,
+  "tier": null,
+  "shift": null,
+  "duration": 24,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "45f0c282cbba-q1",
+      "number": 1,
+      "question": "Simplify the expression: √(9 + 4√5)",
+      "questionHtml": "<p>Simplify the expression: √(9 + 4√5)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "√5 + 2",
+          "html": "<p>√5 + 2</p>"
+        },
+        {
+          "id": "B",
+          "text": "3 + √5",
+          "html": "<p>3 + √5</p>"
+        },
+        {
+          "id": "C",
+          "text": "2 + √6",
+          "html": "<p>2 + √6</p>"
+        },
+        {
+          "id": "D",
+          "text": "3 + √4",
+          "html": "<p>3 + √4</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Try (√5 + 2)² = 5 + 4√5 + 4 = 9 + 4√5.</p><p>Hence √(9 + 4√5) = √5 + 2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q2",
+      "number": 2,
+      "question": "If 25% of A = 20% of B = 10% of C, find A : B : C.",
+      "questionHtml": "<p>If 25% of A = 20% of B = 10% of C, find A : B : C.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 : 5 : 10",
+          "html": "<p>4 : 5 : 10</p>"
+        },
+        {
+          "id": "B",
+          "text": "10 : 5 : 4",
+          "html": "<p>10 : 5 : 4</p>"
+        },
+        {
+          "id": "C",
+          "text": "5 : 4 : 10",
+          "html": "<p>5 : 4 : 10</p>"
+        },
+        {
+          "id": "D",
+          "text": "2 : 3 : 5",
+          "html": "<p>2 : 3 : 5</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let 25% A = 20% B = 10% C = k.</p><p>A = 4k, B = 5k, C = 10k.</p><p>Hence A : B : C = 4 : 5 : 10.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q3",
+      "number": 3,
+      "question": "Which of the following is correct? (i) √7 + √2 > √6 + √3 (ii) √7 + √2 < √6 + √3 (iii) √7 + √2 = √6 + √3",
+      "questionHtml": "<p>Which of the following is correct?</p><p>(i) √7 + √2 &gt; √6 + √3</p><p>(ii) √7 + √2 &lt; √6 + √3</p><p>(iii) √7 + √2 = √6 + √3</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(i)",
+          "html": "<p>(i)</p>"
+        },
+        {
+          "id": "B",
+          "text": "(ii)",
+          "html": "<p>(ii)</p>"
+        },
+        {
+          "id": "C",
+          "text": "(iii)",
+          "html": "<p>(iii)</p>"
+        },
+        {
+          "id": "D",
+          "text": "(i), (ii) and (iii)",
+          "html": "<p>(i), (ii) and (iii)</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Square both: (√7 + √2)² = 9 + 2√14 ≈ 16.48.</p><p>(√6 + √3)² = 9 + 2√18 ≈ 17.49.</p><p>So √7 + √2 &lt; √6 + √3.</p><p>Hence option (ii) is correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q4",
+      "number": 4,
+      "question": "A laptop is priced at ₹40,000. A customer gets a discount of ₹4,000 on it. After the discount, the customer buys a mouse for ₹1,500 at a 20% discount. What is the total amount the customer spends on both items?",
+      "questionHtml": "<p>A laptop is priced at ₹40,000. A customer gets a discount of ₹4,000 on it. After the discount, the customer buys a mouse for ₹1,500 at a 20% discount. What is the total amount the customer spends on both items?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹35,500",
+          "html": "<p>₹35,500</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹36,500",
+          "html": "<p>₹36,500</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹37,200",
+          "html": "<p>₹37,200</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹38,600",
+          "html": "<p>₹38,600</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Laptop SP = 40000 − 4000 = ₹36,000.</p><p>Mouse SP = 1500 − 20% of 1500 = 1500 − 300 = ₹1,200.</p><p>Total = 36,000 + 1,200 = ₹37,200.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q5",
+      "number": 5,
+      "question": "Two pipes A and B can fill a tank in 18 and 24 minutes respectively. After both are opened together for 6 minutes, the rate of pipe A becomes half, and pipe B becomes double its original. In how many more minutes will the tank be full?",
+      "questionHtml": "<p>Two pipes A and B can fill a tank in 18 and 24 minutes respectively. After both are opened together for 6 minutes, the rate of pipe A becomes half, and pipe B becomes double its original. In how many more minutes will the tank be full?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 min 45 sec",
+          "html": "<p>3 min 45 sec</p>"
+        },
+        {
+          "id": "B",
+          "text": "2 min 8 sec",
+          "html": "<p>2 min 8 sec</p>"
+        },
+        {
+          "id": "C",
+          "text": "5 min 42 sec",
+          "html": "<p>5 min 42 sec</p>"
+        },
+        {
+          "id": "D",
+          "text": "6 min 50 sec",
+          "html": "<p>6 min 50 sec</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Combined rate of A &amp; B = 1/18 + 1/24 = 7/72 per minute.</p><p>Work done in first 6 minutes = 6 × 7/72 = 7/12. Remaining = 5/12.</p><p>New rates: A = 1/36, B = 1/12. Combined = 1/36 + 3/36 = 4/36 = 1/9 per minute.</p><p>Time required = (5/12) ÷ (1/9) = 45/12 = 3.75 minutes = 3 min 45 sec.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q6",
+      "number": 6,
+      "question": "If x + 1/x = −1, then compute: x⁴ + 1/x⁴ + 2x² + 2/x².",
+      "questionHtml": "<p>If x + 1/x = −1, then compute: x⁴ + 1/x⁴ + 2x² + 2/x².</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "−3",
+          "html": "<p>−3</p>"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "<p>3</p>"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "<p>4</p>"
+        },
+        {
+          "id": "D",
+          "text": "−4",
+          "html": "<p>−4</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>x² + 1/x² = (x + 1/x)² − 2 = 1 − 2 = −1.</p><p>x⁴ + 1/x⁴ = (x² + 1/x²)² − 2 = 1 − 2 = −1.</p><p>Expression = (x⁴ + 1/x⁴) + 2(x² + 1/x²) = −1 + 2(−1) = −3.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q7",
+      "number": 7,
+      "question": "Sarah lent ₹12,000 to John on 10 January 2024 at a simple interest rate of 6% per annum. John plans to pay back the entire amount on 10 July 2024. What is the total amount John needs to return?",
+      "questionHtml": "<p>Sarah lent ₹12,000 to John on 10 January 2024 at a simple interest rate of 6% per annum. John plans to pay back the entire amount on 10 July 2024. What is the total amount John needs to return?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹12,300",
+          "html": "<p>₹12,300</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹12,360",
+          "html": "<p>₹12,360</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹12,400",
+          "html": "<p>₹12,400</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹12,420",
+          "html": "<p>₹12,420</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Time = 10 Jan to 10 July = 6 months = 1/2 year.</p><p>SI = (12000 × 6 × 1/2)/100 = 360.</p><p>Total = 12000 + 360 = ₹12,360.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q8",
+      "number": 8,
+      "question": "If A, B, and C are three amounts of money such that B is the simple interest on A, and C is the simple interest on B, all for the same time and at the same rate of interest, then which of the following is true?",
+      "questionHtml": "<p>If A, B, and C are three amounts of money such that B is the simple interest on A, and C is the simple interest on B, all for the same time and at the same rate of interest, then which of the following is true?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A² = BC",
+          "html": "<p>A² = BC</p>"
+        },
+        {
+          "id": "B",
+          "text": "B² = AC",
+          "html": "<p>B² = AC</p>"
+        },
+        {
+          "id": "C",
+          "text": "C² = AB",
+          "html": "<p>C² = AB</p>"
+        },
+        {
+          "id": "D",
+          "text": "A + B = C",
+          "html": "<p>A + B = C</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let r = (rate × time)/100. </p><p>Then B = A·r and C = B·r.</p><p>So, B² = (A·r)² = A·(A·r²) = A·(B·r) = A·C.</p><p>Hence B² = AC.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q9",
+      "number": 9,
+      "question": "A tower is 20 meters tall. What is the length of the shadow cast by the tower when the sun's elevation is 45°?",
+      "questionHtml": "<p>A tower is 20 meters tall. What is the length of the shadow cast by the tower when the sun's elevation is 45°?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 m",
+          "html": "<p>10 m</p>"
+        },
+        {
+          "id": "B",
+          "text": "20 m",
+          "html": "<p>20 m</p>"
+        },
+        {
+          "id": "C",
+          "text": "20√3 m",
+          "html": "<p>20√3 m</p>"
+        },
+        {
+          "id": "D",
+          "text": "10√3 m",
+          "html": "<p>10√3 m</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>tan 45° = height / shadow.</p><p>1 = 20 / shadow.</p><p>Hence shadow = 20 m.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q10",
+      "number": 10,
+      "question": "A hemisphere of radius 5 cm is carved from a sphere. What is the volume of the hemisphere?",
+      "questionHtml": "<p>A hemisphere of radius 5 cm is carved from a sphere. What is the volume of the hemisphere?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "65π/6 cm³",
+          "html": "<p>65π/6 cm³</p>"
+        },
+        {
+          "id": "B",
+          "text": "125π/6 cm³",
+          "html": "<p>125π/6 cm³</p>"
+        },
+        {
+          "id": "C",
+          "text": "250π/3 cm³",
+          "html": "<p>250π/3 cm³</p>"
+        },
+        {
+          "id": "D",
+          "text": "375π/6 cm³",
+          "html": "<p>375π/6 cm³</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Volume of hemisphere = (2/3) π r³.</p><p>= (2/3) π (5)³ = (2/3) π × 125 = 250π/3 cm³.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q11",
+      "number": 11,
+      "question": "A solid sphere is placed inside a cube such that it touches all six faces. What percentage of the cube's volume is NOT occupied by the sphere?",
+      "questionHtml": "<p>A solid sphere is placed inside a cube such that it touches all six faces. What percentage of the cube's volume is NOT occupied by the sphere?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "47.67%",
+          "html": "<p>47.67%</p>"
+        },
+        {
+          "id": "B",
+          "text": "48.56%",
+          "html": "<p>48.56%</p>"
+        },
+        {
+          "id": "C",
+          "text": "49.28%",
+          "html": "<p>49.28%</p>"
+        },
+        {
+          "id": "D",
+          "text": "42.54%",
+          "html": "<p>42.54%</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let cube side = 2r.</p><p>Cube volume = 8r³; </p><p>sphere volume = (4/3)π r³.</p><p>Sphere fraction = (4π/3)/8 = π/6 ≈ 0.5236 ≈ 52.36%.</p><p>Not occupied = 100 − 52.36 ≈ 47.64% ≈ 47.67%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q12",
+      "number": 12,
+      "question": "The sides of a rectangular prism are in the ratio 4 : 5 : 6. If the volume of the prism is 960 cm³, what is the length of its longest side?",
+      "questionHtml": "<p>The sides of a rectangular prism are in the ratio 4 : 5 : 6. If the volume of the prism is 960 cm³, what is the length of its longest side?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 cm",
+          "html": "<p>12 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "10 cm",
+          "html": "<p>10 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "8 cm",
+          "html": "<p>8 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "16 cm",
+          "html": "<p>16 cm</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Sides = 4x, 5x, 6x. Volume = 4x · 5x · 6x = 120x³.</p><p>120x³ = 960 → x³ = 8 → x = 2.</p><p>Longest side = 6x = 12 cm.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q13",
+      "number": 13,
+      "question": "A conical bucket is cut at one-third its height from the top. What is the ratio of the volumes of the two parts (top part to bottom part)?",
+      "questionHtml": "<p>A conical bucket is cut at one-third its height from the top. What is the ratio of the volumes of the two parts (top part to bottom part)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 8",
+          "html": "<p>1 : 8</p>"
+        },
+        {
+          "id": "B",
+          "text": "1 : 26",
+          "html": "<p>1 : 26</p>"
+        },
+        {
+          "id": "C",
+          "text": "1 : 27",
+          "html": "<p>1 : 27</p>"
+        },
+        {
+          "id": "D",
+          "text": "1 : 7",
+          "html": "<p>1 : 7</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Top is a smaller similar cone of height h/3 of the full cone.</p><p>Volume ratio (small : full) = (1/3)³ = 1 : 27.</p><p>Hence top : bottom = 1 : (27 − 1) = 1 : 26.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q14",
+      "number": 14,
+      "question": "If tan A + cot A = 2 and A ∈ (0, π/2), then what is sin A + cos A?",
+      "questionHtml": "<p>If tan A + cot A = 2 and A ∈ (0, π/2), then what is sin A + cos A?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "<p>1</p>"
+        },
+        {
+          "id": "B",
+          "text": "√2",
+          "html": "<p>√2</p>"
+        },
+        {
+          "id": "C",
+          "text": "1/√2",
+          "html": "<p>1/√2</p>"
+        },
+        {
+          "id": "D",
+          "text": "Cannot be determined",
+          "html": "<p>Cannot be determined</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let t = tan A. t + 1/t = 2 → (t − 1)² = 0 → t = 1.</p><p>So A = π/4, and sin A = cos A = 1/√2.</p><p>sin A + cos A = 2 · (1/√2) = √2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q15",
+      "number": 15,
+      "question": "What is the value of sin 20° cos 10° + cos 20° sin 10°?",
+      "questionHtml": "<p>What is the value of sin 20° cos 10° + cos 20° sin 10°?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/2",
+          "html": "<p>1/2</p>"
+        },
+        {
+          "id": "B",
+          "text": "3/4",
+          "html": "<p>3/4</p>"
+        },
+        {
+          "id": "C",
+          "text": "5/4",
+          "html": "<p>5/4</p>"
+        },
+        {
+          "id": "D",
+          "text": "7/8",
+          "html": "<p>7/8</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Use sin(A + B) = sin A cos B + cos A sin B.</p><p>sin 20° cos 10° + cos 20° sin 10° = sin(20° + 10°) = sin 30°.</p><p>= 1/2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q16",
+      "number": 16,
+      "question": "The graph of y = 4x − 5 passes through which point?",
+      "questionHtml": "<p>The graph of y = 4x − 5 passes through which point?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(1, -1)",
+          "html": "<p>(1, -1)</p>"
+        },
+        {
+          "id": "B",
+          "text": "(0, -5)",
+          "html": "<p>(0, -5)</p>"
+        },
+        {
+          "id": "C",
+          "text": "(2, 3)",
+          "html": "<p>(2, 3)</p>"
+        },
+        {
+          "id": "D",
+          "text": "All the above",
+          "html": "<p>All the above</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Check (1, -1): 4(1) − 5 = -1 ✓.</p><p>Check (0, -5): 4(0) − 5 = -5 ✓.</p><p>Check (2, 3): 4(2) − 5 = 3 ✓.</p><p>All three points satisfy the equation, so the answer is All the above.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q17",
+      "number": 17,
+      "question": "A sector of a circle has a central angle of 60° and a radius of 9 cm. Another sector of the same circle has a central angle of π/3 radians. What is the ratio of the area of the first sector to the area of the second sector?",
+      "questionHtml": "<p>A sector of a circle has a central angle of 60° and a radius of 9 cm. Another sector of the same circle has a central angle of π/3 radians. What is the ratio of the area of the first sector to the area of the second sector?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1:1",
+          "html": "<p>1:1</p>"
+        },
+        {
+          "id": "B",
+          "text": "2:3",
+          "html": "<p>2:3</p>"
+        },
+        {
+          "id": "C",
+          "text": "3:5",
+          "html": "<p>3:5</p>"
+        },
+        {
+          "id": "D",
+          "text": "5:6",
+          "html": "<p>5:6</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>π/3 radians = 180°/3 = 60°.</p><p>Both sectors have the same angle (60°) and same radius (9 cm).</p><p>Hence the ratio of their areas is 1 : 1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q18",
+      "number": 18,
+      "question": "A parallelogram is a quadrilateral in which:",
+      "questionHtml": "<p>A parallelogram is a quadrilateral in which:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only one pair of opposite sides is parallel.",
+          "html": "<p>Only one pair of opposite sides is parallel.</p>"
+        },
+        {
+          "id": "B",
+          "text": "All four interior angles are 90°.",
+          "html": "<p>All four interior angles are 90°.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Opposite sides are parallel and of equal length.",
+          "html": "<p>Opposite sides are parallel and of equal length.</p>"
+        },
+        {
+          "id": "D",
+          "text": "The diagonals are perpendicular.",
+          "html": "<p>The diagonals are perpendicular.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>By definition, in a parallelogram both pairs of opposite sides are parallel and equal in length.</p><p>Right-angle and perpendicular-diagonal conditions apply to special cases (rectangle, rhombus).</p><p>Hence option 3 is correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q19",
+      "number": 19,
+      "question": "A right-angled triangle has a hypotenuse of 13 cm and one leg of 5 cm. A second right-angled triangle is similar to the first, and its hypotenuse is 39 cm. What is the area of the second triangle?",
+      "questionHtml": "<p>A right-angled triangle has a hypotenuse of 13 cm and one leg of 5 cm. A second right-angled triangle is similar to the first, and its hypotenuse is 39 cm. What is the area of the second triangle?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "30 cm²",
+          "html": "<p>30 cm²</p>"
+        },
+        {
+          "id": "B",
+          "text": "90 cm²",
+          "html": "<p>90 cm²</p>"
+        },
+        {
+          "id": "C",
+          "text": "160 cm²",
+          "html": "<p>160 cm²</p>"
+        },
+        {
+          "id": "D",
+          "text": "270 cm²",
+          "html": "<p>270 cm²</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Other leg of first triangle = √(13² − 5²) = √144 = 12.</p><p>Area of first triangle = (1/2) × 5 × 12 = 30 cm².</p><p>Similarity ratio = 39/13 = 3, so area ratio = 3² = 9.</p><p>Area of second triangle = 30 × 9 = 270 cm².</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q20",
+      "number": 20,
+      "question": "In a quadrilateral ABCD, a line segment BD is a diagonal such that AB = CD and ∠ABD = ∠CDB. Are the triangles ABD and CDB congruent? If so, by what rule?",
+      "questionHtml": "<p>In a quadrilateral ABCD, a line segment BD is a diagonal such that AB = CD and ∠ABD = ∠CDB. Are the triangles ABD and CDB congruent? If so, by what rule?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, by SSS",
+          "html": "<p>Yes, by SSS</p>"
+        },
+        {
+          "id": "B",
+          "text": "Yes, by SAS",
+          "html": "<p>Yes, by SAS</p>"
+        },
+        {
+          "id": "C",
+          "text": "Yes, by ASA",
+          "html": "<p>Yes, by ASA</p>"
+        },
+        {
+          "id": "D",
+          "text": "No, they are not congruent",
+          "html": "<p>No, they are not congruent</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>In △ABD and △CDB: AB = CD (given).</p><p>∠ABD = ∠CDB (given).</p><p>BD = DB (common side).</p><p>Hence by SAS rule, △ABD ≅ △CDB.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q21",
+      "number": 21,
+      "question": "27³ + 10³ − 29³ + 246 is equal to:",
+      "questionHtml": "<p>27³ + 10³ − 29³ + 246 is equal to:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "<p>0</p>"
+        },
+        {
+          "id": "B",
+          "text": "−3460",
+          "html": "<p>−3460</p>"
+        },
+        {
+          "id": "C",
+          "text": "−2860",
+          "html": "<p>−2860</p>"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "<p>1</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>27³ = 19683; </p><p>10³ = 1000; </p><p>29³ = 24389.</p><p>Sum = 19683 + 1000 − 24389 + 246.</p><p>= 20929 − 24389 = −3460.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q22",
+      "number": 22,
+      "question": "If sin x = 3/5 and x ∈ (0, π/2), then find (1 + tan x) / (1 − tan x).",
+      "questionHtml": "<p>If sin x = 3/5 and x ∈ (0, π/2), then find (1 + tan x) / (1 − tan x).</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "6",
+          "html": "<p>6</p>"
+        },
+        {
+          "id": "B",
+          "text": "7",
+          "html": "<p>7</p>"
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "html": "<p>8</p>"
+        },
+        {
+          "id": "D",
+          "text": "9",
+          "html": "<p>9</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>sin x = 3/5, cos x = 4/5 (since x is in first quadrant).</p><p>tan x = 3/4.</p><p>(1 + tan x)/(1 − tan x) = (1 + 3/4)/(1 − 3/4) = (7/4)/(1/4) = 7.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q23",
+      "number": 23,
+      "question": "The length of each of two tangents drawn from an external point to a circle is 10 cm. What is the approximate distance from the external point to the center of the circle, if the radius is 6 cm?",
+      "questionHtml": "<p>The length of each of two tangents drawn from an external point to a circle is 10 cm. What is the approximate distance from the external point to the center of the circle, if the radius is 6 cm?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 cm",
+          "html": "<p>4 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "10 cm",
+          "html": "<p>10 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "12 cm",
+          "html": "<p>12 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "16 cm",
+          "html": "<p>16 cm</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Tangent ⟂ radius, so distance² = tangent² + radius².</p><p>= 10² + 6² = 100 + 36 = 136.</p><p>Distance = √136 ≈ 11.66 ≈ 12 cm.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q24",
+      "number": 24,
+      "question": "A circle is inscribed in a right triangle with legs of length 5 and 12. What is the radius of the circle?",
+      "questionHtml": "<p>A circle is inscribed in a right triangle with legs of length 5 and 12. What is the radius of the circle?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "<p>2</p>"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "<p>3</p>"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "<p>4</p>"
+        },
+        {
+          "id": "D",
+          "text": "5",
+          "html": "<p>5</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Hypotenuse = √(5² + 12²) = 13.</p><p>For a right triangle: r = (a + b − c)/2 where c is hypotenuse.</p><p>r = (5 + 12 − 13)/2 = 4/2 = 2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "45f0c282cbba-q25",
+      "number": 25,
+      "question": "What is the result of (0.5³ + 0.1³ − 0.6³) ÷ (3 × 0.5 × 0.1 × 0.6)?",
+      "questionHtml": "<p>What is the result of (0.5³ + 0.1³ − 0.6³) ÷ (3 × 0.5 × 0.1 × 0.6)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "−1",
+          "html": "<p>−1</p>"
+        },
+        {
+          "id": "B",
+          "text": "0",
+          "html": "<p>0</p>"
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "html": "<p>1</p>"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "<p>2</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Note 0.5 + 0.1 = 0.6. So with a = 0.5, b = 0.1, c = 0.6 we have a + b = c.</p><p>Identity: a³ + b³ − c³ = −3abc when a + b = c.</p><p>So, numerator = −3(0.5)(0.1)(0.6); denominator = 3(0.5)(0.1)(0.6).</p><p>Ratio = −1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

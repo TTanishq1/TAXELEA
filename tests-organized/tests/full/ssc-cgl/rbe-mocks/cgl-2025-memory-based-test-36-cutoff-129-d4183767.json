@@ -1,0 +1,3415 @@
+{
+  "id": "d41837675848",
+  "provider": "RBE_Mocks",
+  "sourceFile": "CGL_2025_Memory_Based_Test-36_Cutoff-129_.html",
+  "sourcePath": "RBE_MOCKS/CGL_2025_Memory_Based_Test-36_Cutoff-129_.html",
+  "title": "CGL 2025 Memory Based Test-36 (Cutoff-129)",
+  "exam": null,
+  "year": 2025,
+  "tier": null,
+  "shift": null,
+  "duration": 16,
+  "questionCount": 100,
+  "questions": [
+    {
+      "id": "d41837675848-q1",
+      "number": 1,
+      "question": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. GHZ, HIY, IJX, JKW, ?",
+      "questionHtml": "<p>Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.</p><p>GHZ, HIY, IJX, JKW, ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "JHG",
+          "html": "<p>JHG</p>"
+        },
+        {
+          "id": "B",
+          "text": "KLV",
+          "html": "<p>KLV</p>"
+        },
+        {
+          "id": "C",
+          "text": "KMN",
+          "html": "<p>KMN</p>"
+        },
+        {
+          "id": "D",
+          "text": "HGK",
+          "html": "<p>HGK</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Examine letter-wise:</p><p>1st letters: G, H, I, J, K (each +1)</p><p>2nd letters: H, I, J, K, L (each +1)</p><p>3rd letters: Z, Y, X, W, V (each −1)</p><p>So the next cluster is K-L-V = KLV.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q2",
+      "number": 2,
+      "question": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. RXD RUJ RRP ROV ?",
+      "questionHtml": "<p>Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.</p><p>RXD RUJ RRP ROV ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "RLC",
+          "html": "<p>RLC</p>"
+        },
+        {
+          "id": "B",
+          "text": "RDA RDF",
+          "html": "<p>RDA RDF</p>"
+        },
+        {
+          "id": "C",
+          "text": "RLB",
+          "html": "<p>RLB</p>"
+        },
+        {
+          "id": "D",
+          "text": "RDF",
+          "html": "<p>RDF</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Examine letter-wise:</p><p>1st letters: R, R, R, R, R (constant)</p><p>2nd letters: X, U, R, O, L (each −3)</p><p>3rd letters: D, J, P, V, B (each +6, wrapping the alphabet)</p><p>So the next cluster is R-L-B = RLB.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q3",
+      "number": 3,
+      "question": "If '÷' means '+', '-' means '×', '+' means '-' and, '×' means '÷', then which of the following equations is CORRECT?",
+      "questionHtml": "<p>If '÷' means '+', '-' means '×', '+' means '-' and, '×' means '÷', then which of the following equations is CORRECT?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "42 × 28 - 30 ÷ 48 + 45 = 45",
+          "html": "<p>42 × 28 - 30 ÷ 48 + 45 = 45</p>"
+        },
+        {
+          "id": "B",
+          "text": "42 × 28 - 30 ÷ 48 + 45 = 40",
+          "html": "<p>42 × 28 - 30 ÷ 48 + 45 = 40</p>"
+        },
+        {
+          "id": "C",
+          "text": "42 × 28 - 30 ÷ 48 + 45 = 50",
+          "html": "<p>42 × 28 - 30 ÷ 48 + 45 = 50</p>"
+        },
+        {
+          "id": "D",
+          "text": "42 × 28 - 30 ÷ 48 + 45 = 48",
+          "html": "<p>42 × 28 - 30 ÷ 48 + 45 = 48</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Replace symbols: × → ÷, − → ×, ÷ → +, + → −</p><p>Expression becomes: 42 ÷ 28 × 30 + 48 − 45</p><p>= (42 ÷ 28) × 30 + 48 − 45</p><p>= 1.5 × 30 + 48 − 45</p><p>= 45 + 48 − 45</p><p>= 48</p><p>Hence option 4 is correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q4",
+      "number": 4,
+      "question": "What comes next? 3, 8, 18, 35, 61, ?",
+      "questionHtml": "<p>What comes next? 3, 8, 18, 35, 61, ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "88",
+          "html": "<p>88</p>"
+        },
+        {
+          "id": "B",
+          "text": "98",
+          "html": "<p>98</p>"
+        },
+        {
+          "id": "C",
+          "text": "97",
+          "html": "<p>97</p>"
+        },
+        {
+          "id": "D",
+          "text": "100",
+          "html": "<p>100</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Check differences:</p><p>8 − 3 = 5</p><p>18 − 8 = 10</p><p>35 − 18 = 17</p><p>61 − 35 = 26</p><p>Second differences: 5, 7, 9, 11 (consecutive odd numbers)</p><p>Next difference: 26 + 11 = 37</p><p>Next term: 61 + 37 = 98.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q5",
+      "number": 5,
+      "question": "Instruction: Identify the assumptions that must hold for the statement to be valid, then choose the correct option. Statement: The rapid advancement of automation and artificial intelligence could lead to significant job displacement, but it also presents an opportunity to create new jobs in emerging industries. Assumptions: I. Automation and AI could cause job losses in some sectors. II. New industries will emerge as a result of automation and AI. III. The displacement caused by automation is temporary and will be reversed by new industries.",
+      "questionHtml": "<p>Instruction: Identify the assumptions that must hold for the statement to be valid, then choose the correct option.</p><p>Statement: The rapid advancement of automation and artificial intelligence could lead to significant job displacement, but it also presents an opportunity to create new jobs in emerging industries.</p><p>Assumptions:</p><p>I. Automation and AI could cause job losses in some sectors.</p><p>II. New industries will emerge as a result of automation and AI.</p><p>III. The displacement caused by automation is temporary and will be reversed by new industries.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only I and II are implicit",
+          "html": "<p>Only I and II are implicit</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only II and III are implicit",
+          "html": "<p>Only II and III are implicit</p>"
+        },
+        {
+          "id": "C",
+          "text": "All are implicit",
+          "html": "<p>All are implicit</p>"
+        },
+        {
+          "id": "D",
+          "text": "Only I is implicit",
+          "html": "<p>Only I is implicit</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Assumption I — Implicit. The statement directly says automation could cause job displacement.</p><p>Assumption II — Implicit. The statement says new jobs in emerging industries will be created.</p><p>Assumption III — Not implicit. The statement does not claim that displacement is temporary or fully reversed.</p><p>Hence only I and II are implicit.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q6",
+      "number": 6,
+      "question": "The position of how many letters will remain unchanged if each of the letters in the word FRIEND is arranged in alphabetical order?",
+      "questionHtml": "<p>The position of how many letters will remain unchanged if each of the letters in the word FRIEND is arranged in alphabetical order?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "One",
+          "html": "<p>One</p>"
+        },
+        {
+          "id": "B",
+          "text": "Four",
+          "html": "<p>Four</p>"
+        },
+        {
+          "id": "C",
+          "text": "Three",
+          "html": "<p>Three</p>"
+        },
+        {
+          "id": "D",
+          "text": "Five",
+          "html": "<p>Five</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Original: F R I E N D</p><p>Alphabetical: D E F I N R</p><p>Compare position-wise:</p><p>1: F vs D — different</p><p>2: R vs E — different</p><p>3: I vs F — different</p><p>4: E vs I — different</p><p>5: N vs N — same ✓</p><p>6: D vs R — different</p><p>Only one letter (N) remains in the same position.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q7",
+      "number": 7,
+      "question": "Identify the similar address: Shruti Bansal E-55, Palm Greens, Faridabad, 121002",
+      "questionHtml": "<p>Identify the similar address: Shruti Bansal E-55, Palm Greens, Faridabad, 121002</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shruti Bansal E-55, Palm Green, Faridabad, 121002",
+          "html": "<p>Shruti Bansal E-55, Palm Green, Faridabad, 121002</p>"
+        },
+        {
+          "id": "B",
+          "text": "Shruti Bansal E-55, Palm Greens, Faridabad, 121002",
+          "html": "<p>Shruti Bansal E-55, Palm Greens, Faridabad, 121002</p>"
+        },
+        {
+          "id": "C",
+          "text": "Shruti Bansal E-55, Palm Greens, Faridabad, 121200",
+          "html": "<p>Shruti Bansal E-55, Palm Greens, Faridabad, 121200</p>"
+        },
+        {
+          "id": "D",
+          "text": "Shruti Bansel E-55, Palm Greens, Faridabad, 121002",
+          "html": "<p>Shruti Bansel E-55, Palm Greens, Faridabad, 121002</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Compare each option with the given address word-by-word:</p><p>Option 1: 'Palm Green' (missing 's') — different</p><p>Option 2: Exactly matches every detail ✓</p><p>Option 3: PIN 121200 instead of 121002 — different</p><p>Option 4: 'Bansel' instead of 'Bansal' — different</p><p>Hence option 2 is identical.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q8",
+      "number": 8,
+      "question": "Each of the letters in the word UNIVERSAL is arranged in alphabetical order. How many letters are there in the English alphabetical series between the letter that is second from the left and the one that is fifth from the right in the new letter-cluster formed?",
+      "questionHtml": "<p>Each of the letters in the word UNIVERSAL is arranged in alphabetical order. How many letters are there in the English alphabetical series between the letter that is second from the left and the one that is fifth from the right in the new letter-cluster formed?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "7",
+          "html": "<p>7</p>"
+        },
+        {
+          "id": "B",
+          "text": "8",
+          "html": "<p>8</p>"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "<p>6</p>"
+        },
+        {
+          "id": "D",
+          "text": "9",
+          "html": "<p>9</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>UNIVERSAL has letters: U, N, I, V, E, R, S, A, L</p><p>Alphabetical order: A, E, I, L, N, R, S, U, V (9 letters)</p><p>Second from left = E</p><p>Fifth from right (in a 9-letter cluster) = 9 − 5 + 1 = 5th position = N</p><p>Between E and N in the alphabet: F, G, H, I, J, K, L, M = 8 letters.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q9",
+      "number": 9,
+      "question": "Find the odd one out from the given alternatives.",
+      "questionHtml": "<p>Find the odd one out from the given alternatives.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Photoshop",
+          "html": "<p>Photoshop</p>"
+        },
+        {
+          "id": "B",
+          "text": "Illustrator",
+          "html": "<p>Illustrator</p>"
+        },
+        {
+          "id": "C",
+          "text": "CorelDRAW",
+          "html": "<p>CorelDRAW</p>"
+        },
+        {
+          "id": "D",
+          "text": "Linux",
+          "html": "<p>Linux</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Photoshop, Illustrator, and CorelDRAW are graphic design software.</p><p>Linux is an operating system, not a design software.</p><p>Hence Linux is the odd one out.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q10",
+      "number": 10,
+      "question": "In each of the following questions, a specific pattern of alphabetic transformation has been applied to the first word to produce the second. Identify that pattern and apply it to the third word to determine the correct option. DEVIL : ABSFI :: OTHER : ?",
+      "questionHtml": "<p>In each of the following questions, a specific pattern of alphabetic transformation has been applied to the first word to produce the second. Identify that pattern and apply it to the third word to determine the correct option. DEVIL : ABSFI :: OTHER : ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "MRFCP",
+          "html": "<p>MRFCP</p>"
+        },
+        {
+          "id": "B",
+          "text": "RWKHU",
+          "html": "<p>RWKHU</p>"
+        },
+        {
+          "id": "C",
+          "text": "LQEBO",
+          "html": "<p>LQEBO</p>"
+        },
+        {
+          "id": "D",
+          "text": "LRECO",
+          "html": "<p>LRECO</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>DEVIL → ABSFI</p><p>D − 3 = A, E − 3 = B, V − 3 = S, I − 3 = F, L − 3 = I</p><p>Each letter shifts back by 3 positions.</p><p>Apply to OTHER:</p><p>O − 3 = L, T − 3 = Q, H − 3 = E, E − 3 = B, R − 3 = O</p><p>Result: LQEBO.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q11",
+      "number": 11,
+      "question": "In each of the following questions, the second word is derived from the first word by applying a specific letter-coding pattern, such as shifting letters forward or backward in the alphabet. Identify the pattern and apply it to the third word to choose the correct answer from the options given. MASTER : OCUVGT :: LABOUR : ?",
+      "questionHtml": "<p>In each of the following questions, the second word is derived from the first word by applying a specific letter-coding pattern, such as shifting letters forward or backward in the alphabet. Identify the pattern and apply it to the third word to choose the correct answer from the options given. MASTER : OCUVGT :: LABOUR : ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "NCDQWT",
+          "html": "<p>NCDQWT</p>"
+        },
+        {
+          "id": "B",
+          "text": "NDERWT",
+          "html": "<p>NDERWT</p>"
+        },
+        {
+          "id": "C",
+          "text": "NBCRWT",
+          "html": "<p>NBCRWT</p>"
+        },
+        {
+          "id": "D",
+          "text": "NEDRWT",
+          "html": "<p>NEDRWT</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>MASTER → OCUVGT</p><p>M + 2 = O, A + 2 = C, S + 2 = U, T + 2 = V, E + 2 = G, R + 2 = T</p><p>Each letter shifts forward by 2 positions.</p><p>Apply to LABOUR:</p><p>L + 2 = N, A + 2 = C, B + 2 = D, O + 2 = Q, U + 2 = W, R + 2 = T</p><p>Result: NCDQWT.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q12",
+      "number": 12,
+      "question": "Complete the series. 11, 13, 17, 19, ?",
+      "questionHtml": "<p>Complete the series.</p><p>11, 13, 17, 19, ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "21",
+          "html": "<p>21</p>"
+        },
+        {
+          "id": "B",
+          "text": "23",
+          "html": "<p>23</p>"
+        },
+        {
+          "id": "C",
+          "text": "25",
+          "html": "<p>25</p>"
+        },
+        {
+          "id": "D",
+          "text": "27",
+          "html": "<p>27</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The given series consists of consecutive prime numbers.</p><p>11, 13, 17, 19 are all primes.</p><p>The next prime after 19 is 23.</p><p>(21 = 3 × 7, 25 = 5², 27 = 3³ — not prime)</p><p>Hence the answer is 23.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q13",
+      "number": 13,
+      "question": "In each of the following questions, a group of three numbers/symbols is given in each option. Identify the group that does NOT follow the same pattern as the others.",
+      "questionHtml": "<p>In each of the following questions, a group of three numbers/symbols is given in each option. Identify the group that does NOT follow the same pattern as the others.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A1@ : C3# : E5$",
+          "html": "<p>A1@ : C3# : E5$</p>"
+        },
+        {
+          "id": "B",
+          "text": "B2% : D4^ : F6&",
+          "html": "<p>B2% : D4^ : F6&amp;</p>"
+        },
+        {
+          "id": "C",
+          "text": "C3* : E5( : G7)",
+          "html": "<p>C3* : E5( : G7)</p>"
+        },
+        {
+          "id": "D",
+          "text": "D4_ : F6@ : I9&",
+          "html": "<p>D4_ : F6@ : I9&amp;</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>In options 1, 2, 3: letters increase by 2 (A→C→E, B→D→F, C→E→G); numbers increase by 2; symbols are consecutive on the keyboard.</p><p>In option 4: D → F is +2, but F → I is +3 (not +2). Numbers: 4, 6, 9 (not in +2 pattern).</p><p>Hence D4_ : F6@ : I9&amp; does not follow the same pattern.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q14",
+      "number": 14,
+      "question": "A box has 5 red, 3 blue, 2 green balls. Probability of drawing a non-green ball?",
+      "questionHtml": "<p>A box has 5 red, 3 blue, 2 green balls. Probability of drawing a non-green ball?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5",
+          "html": "<p>0.5</p>"
+        },
+        {
+          "id": "B",
+          "text": "0.8",
+          "html": "<p>0.8</p>"
+        },
+        {
+          "id": "C",
+          "text": "0.6",
+          "html": "<p>0.6</p>"
+        },
+        {
+          "id": "D",
+          "text": "0.7",
+          "html": "<p>0.7</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Total balls = 5 + 3 + 2 = 10</p><p>Non-green balls = 5 + 3 = 8</p><p>P(non-green) = 8/10 = 0.8.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q15",
+      "number": 15,
+      "question": "If 9 @ 3 = 36 and 6 @ 2 = 16, then 8 @ 2 = ?",
+      "questionHtml": "<p>If 9 @ 3 = 36 and 6 @ 2 = 16, then 8 @ 2 = ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20",
+          "html": "<p>20</p>"
+        },
+        {
+          "id": "B",
+          "text": "18",
+          "html": "<p>18</p>"
+        },
+        {
+          "id": "C",
+          "text": "19",
+          "html": "<p>19</p>"
+        },
+        {
+          "id": "D",
+          "text": "17",
+          "html": "<p>17</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Pattern: a @ b = (a + b) × b</p><p>9 @ 3 = (9 + 3) × 3 = 12 × 3 = 36 ✓</p><p>6 @ 2 = (6 + 2) × 2 = 8 × 2 = 16 ✓</p><p>8 @ 2 = (8 + 2) × 2 = 10 × 2 = 20.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q16",
+      "number": 16,
+      "question": "Instruction: In a code language, \"The music sounds sweet\" is coded as \"la ma na ta\", \"The music sounds loud\" is coded as \"la ma pa ta\", \"The song sounds sweet\" is coded as \"ka ma na ta\". Question: What is the code for \"The song sounds loud\"?",
+      "questionHtml": "<p>Instruction: In a code language, \"The music sounds sweet\" is coded as \"la ma na ta\", \"The music sounds loud\" is coded as \"la ma pa ta\", \"The song sounds sweet\" is coded as \"ka ma na ta\".</p><p>Question: What is the code for \"The song sounds loud\"?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "pa na ka ta",
+          "html": "<p>pa na ka ta</p>"
+        },
+        {
+          "id": "B",
+          "text": "ma na ra ka",
+          "html": "<p>ma na ra ka</p>"
+        },
+        {
+          "id": "C",
+          "text": "la na ya ka",
+          "html": "<p>la na ya ka</p>"
+        },
+        {
+          "id": "D",
+          "text": "ka ma ta pa",
+          "html": "<p>ka ma ta pa</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Compare statement 1 and 2 (differ by sweet ↔ loud): sweet = na, loud = pa.</p><p>Compare statement 1 and 3 (differ by music ↔ song): music = la, song = ka.</p><p>Common to all three: 'The' and 'sounds' map to ma and ta (in some order).</p><p>For \"The song sounds loud\" = ka + (ma/ta) + (ma/ta) + pa = {ka, ma, ta, pa}.</p><p>The matching option is ka ma ta pa.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q17",
+      "number": 17,
+      "question": "If 'ABCDE' is coded as 'EDCBA', 'FGHIJ' is coded as 'JIHGF', and 'KLMNO' is coded as 'ONMLK', then how is 'PQRST' coded?",
+      "questionHtml": "<p>If 'ABCDE' is coded as 'EDCBA', 'FGHIJ' is coded as 'JIHGF', and 'KLMNO' is coded as 'ONMLK', then how is 'PQRST' coded?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "TSRQP",
+          "html": "<p>TSRQP</p>"
+        },
+        {
+          "id": "B",
+          "text": "TSRQQ",
+          "html": "<p>TSRQQ</p>"
+        },
+        {
+          "id": "C",
+          "text": "TSSQP",
+          "html": "<p>TSSQP</p>"
+        },
+        {
+          "id": "D",
+          "text": "TSRRP",
+          "html": "<p>TSRRP</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Pattern: each group of 5 letters is reversed.</p><p>ABCDE → EDCBA</p><p>FGHIJ → JIHGF</p><p>KLMNO → ONMLK</p><p>Apply to PQRST: reverse → TSRQP.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q18",
+      "number": 18,
+      "question": "If 9 $ 3 = 18, 8 $ 2 = 12, then what is 6 $ 4?",
+      "questionHtml": "<p>If 9 $ 3 = 18, 8 $ 2 = 12, then what is 6 $ 4?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "html": "<p>8</p>"
+        },
+        {
+          "id": "B",
+          "text": "10",
+          "html": "<p>10</p>"
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "html": "<p>12</p>"
+        },
+        {
+          "id": "D",
+          "text": "14",
+          "html": "<p>14</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Pattern: a $ b = (a − b) × b</p><p>9 $ 3 = (9 − 3) × 3 = 6 × 3 = 18 ✓</p><p>8 $ 2 = (8 − 2) × 2 = 6 × 2 = 12 ✓</p><p>6 $ 4 = (6 − 4) × 4 = 2 × 4 = 8.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q19",
+      "number": 19,
+      "question": "A 25 L solution has sugar : water = 3 : 2. How much water to make sugar : water = 1 : 1?",
+      "questionHtml": "<p>A 25 L solution has sugar : water = 3 : 2. How much water to make sugar : water = 1 : 1?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.5 L",
+          "html": "<p>2.5 L</p>"
+        },
+        {
+          "id": "B",
+          "text": "5 L",
+          "html": "<p>5 L</p>"
+        },
+        {
+          "id": "C",
+          "text": "7.5 L",
+          "html": "<p>7.5 L</p>"
+        },
+        {
+          "id": "D",
+          "text": "10 L",
+          "html": "<p>10 L</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Sugar in 25 L = (3/5) × 25 = 15 L</p><p>Water in 25 L = (2/5) × 25 = 10 L</p><p>For sugar : water = 1 : 1, water must equal sugar = 15 L.</p><p>Water to add = 15 − 10 = 5 L.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q20",
+      "number": 20,
+      "question": "Ravi is married to Rekha. Rekha's brother is Ramesh. Ramesh's wife is Rina. Rina's son is Raj. How is Raj related to Ravi?",
+      "questionHtml": "<p>Ravi is married to Rekha. Rekha's brother is Ramesh. Ramesh's wife is Rina. Rina's son is Raj. How is Raj related to Ravi?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nephew",
+          "html": "<p>Nephew</p>"
+        },
+        {
+          "id": "B",
+          "text": "Son",
+          "html": "<p>Son</p>"
+        },
+        {
+          "id": "C",
+          "text": "Cousin",
+          "html": "<p>Cousin</p>"
+        },
+        {
+          "id": "D",
+          "text": "Brother-in-law",
+          "html": "<p>Brother-in-law</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Ramesh is Rekha's brother → Ramesh is Ravi's brother-in-law.</p><p>Raj is Ramesh's son.</p><p>So Raj is the son of Ravi's brother-in-law → Raj is Ravi's nephew.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q21",
+      "number": 21,
+      "question": "Pointing to a man, Seema said, 'His mother is the only daughter of my mother's father.' How is the man related to Seema?",
+      "questionHtml": "<p>Pointing to a man, Seema said, 'His mother is the only daughter of my mother's father.' How is the man related to Seema?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cousin",
+          "html": "<p>Cousin</p>"
+        },
+        {
+          "id": "B",
+          "text": "Nephew",
+          "html": "<p>Nephew</p>"
+        },
+        {
+          "id": "C",
+          "text": "Brother",
+          "html": "<p>Brother</p>"
+        },
+        {
+          "id": "D",
+          "text": "Son",
+          "html": "<p>Son</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Seema's mother's father = Seema's maternal grandfather.</p><p>The only daughter of Seema's maternal grandfather = Seema's own mother.</p><p>So 'his mother' is Seema's mother.</p><p>The man and Seema share the same mother → the man is Seema's brother.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q22",
+      "number": 22,
+      "question": "After interchanging + & × and 15 & 30, which of the following equations will hold true?",
+      "questionHtml": "<p>After interchanging + &amp; × and 15 &amp; 30, which of the following equations will hold true?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(15+2)×30=60",
+          "html": "<p>(15+2)×30=60</p>"
+        },
+        {
+          "id": "B",
+          "text": "(30+3)×15=40",
+          "html": "<p>(30+3)×15=40</p>"
+        },
+        {
+          "id": "C",
+          "text": "(15+4)×30=135",
+          "html": "<p>(15+4)×30=135</p>"
+        },
+        {
+          "id": "D",
+          "text": "(30+1)×15=40",
+          "html": "<p>(30+1)×15=40</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Interchange + ↔ × and 15 ↔ 30 in each option, then check.</p><p>Option 3: (15+4)×30=135 → after swap: (30×4)+15 = 120 + 15 = 135 ✓</p><p>Option 1: (15+2)×30=60 → (30×2)+15 = 75 ≠ 60</p><p>Option 2: (30+3)×15=40 → (15×3)+30 = 75 ≠ 40</p><p>Option 4: (30+1)×15=40 → (15×1)+30 = 45 ≠ 40</p><p>Hence option 3 is correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q23",
+      "number": 23,
+      "question": "In the following questions, the symbols @, #, $, © and % are used with the following meaning as illustrated below: P @ Q ⇒ P ≥ Q P # Q ⇒ P ≤ Q P $ Q ⇒ P < Q P © Q ⇒ P > Q P % Q ⇒ P = Q Statements: M © N N # O Conclusions: I. M © O II. M @ O",
+      "questionHtml": "<p>In the following questions, the symbols @, #, $, © and % are used with the following meaning as illustrated below:</p><p>P @ Q ⇒ P ≥ Q</p><p>P # Q ⇒ P ≤ Q</p><p>P $ Q ⇒ P &lt; Q</p><p>P © Q ⇒ P &gt; Q</p><p>P % Q ⇒ P = Q</p><p>Statements:</p><p>M © N</p><p>N # O</p><p>Conclusions:</p><p>I. M © O</p><p>II. M @ O</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "If only conclusion I is true.",
+          "html": "<p>If only conclusion I is true.</p>"
+        },
+        {
+          "id": "B",
+          "text": "If only conclusion II is true.",
+          "html": "<p>If only conclusion II is true.</p>"
+        },
+        {
+          "id": "C",
+          "text": "If only conclusion III is true.",
+          "html": "<p>If only conclusion III is true.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither I nor II is true",
+          "html": "<p>Neither I nor II is true</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>From statements: M &gt; N and N ≤ O, i.e., M &gt; N ≤ O.</p><p>The relation between M and O cannot be determined — M could be greater than, less than, or equal to O.</p><p>Conclusion I (M &gt; O) — not certain.</p><p>Conclusion II (M ≥ O) — not certain.</p><p>Hence neither I nor II is true.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q24",
+      "number": 24,
+      "question": "If '+' means '×', '×' means '−', '-' means '÷', then 20 + 5 × 2 − 10 = ?",
+      "questionHtml": "<p>If '+' means '×', '×' means '−', '-' means '÷', then 20 + 5 × 2 − 10 = ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "89",
+          "html": "<p>89</p>"
+        },
+        {
+          "id": "B",
+          "text": "67",
+          "html": "<p>67</p>"
+        },
+        {
+          "id": "C",
+          "text": "78.89",
+          "html": "<p>78.89</p>"
+        },
+        {
+          "id": "D",
+          "text": "99.8",
+          "html": "<p>99.8</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Replace symbols: + → ×, × → −, − → ÷</p><p>Expression becomes: 20 × 5 − 2 ÷ 10</p><p>Apply BODMAS:</p><p>20 × 5 = 100</p><p>2 ÷ 10 = 0.2</p><p>100 − 0.2 = 99.8.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q25",
+      "number": 25,
+      "question": "A two-digit number is 4 times the sum of its digits. If the digits are reversed, the new number is 18 more than the original. What is the number?",
+      "questionHtml": "<p>A two-digit number is 4 times the sum of its digits. If the digits are reversed, the new number is 18 more than the original. What is the number?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "24",
+          "html": "<p>24</p>"
+        },
+        {
+          "id": "B",
+          "text": "30",
+          "html": "<p>30</p>"
+        },
+        {
+          "id": "C",
+          "text": "36",
+          "html": "<p>36</p>"
+        },
+        {
+          "id": "D",
+          "text": "32",
+          "html": "<p>32</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let the number = 10a + b (a = tens, b = units).</p><p>Condition 1: 10a + b = 4(a + b) ⇒ 6a = 3b ⇒ b = 2a.</p><p>Condition 2: 10b + a = (10a + b) + 18 ⇒ 9b − 9a = 18 ⇒ b − a = 2.</p><p>From b = 2a and b − a = 2 ⇒ a = 2, b = 4.</p><p>Number = 24.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q26",
+      "number": 26,
+      "question": "Which of the following best describes the cultural significance of \"Mim\" in the \"Mim Kut festival\"?",
+      "questionHtml": "<p>Which of the following best describes the cultural significance of \"Mim\" in the \"Mim Kut festival\"?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A rare millet stored for famine",
+          "html": "<p>A rare millet stored for famine</p>"
+        },
+        {
+          "id": "B",
+          "text": "The sacred herb for tribal healing",
+          "html": "<p>The sacred herb for tribal healing</p>"
+        },
+        {
+          "id": "C",
+          "text": "The last harvest representing survival and love",
+          "html": "<p>The last harvest representing survival and love</p>"
+        },
+        {
+          "id": "D",
+          "text": "A mythological offering for spirits only",
+          "html": "<p>A mythological offering for spirits only</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Mim Kut is a post-harvest festival celebrated by the Mizo and Kuki tribes. 'Mim' refers to maize/millet — specifically the last harvest of the season — which symbolizes survival, remembrance of the departed, and love.</p><p>Option 1 — incorrect: Mim is not specifically a famine-stored grain.</p><p>Option 2 — incorrect: it is a harvest, not a healing herb.</p><p>Option 4 — incorrect: while spirits are remembered, the festival is centred on the harvest itself.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q27",
+      "number": 27,
+      "question": "The Kharchi Puja of Tripura is associated with worship of how many deities?",
+      "questionHtml": "<p>The Kharchi Puja of Tripura is associated with worship of how many deities?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "html": "<p>12</p>"
+        },
+        {
+          "id": "B",
+          "text": "14",
+          "html": "<p>14</p>"
+        },
+        {
+          "id": "C",
+          "text": "15",
+          "html": "<p>15</p>"
+        },
+        {
+          "id": "D",
+          "text": "16",
+          "html": "<p>16</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Kharchi Puja is a traditional Hindu festival of Tripura celebrated in July at Agartala. It honours the 14 deities (Chaturdasha Devata) — the family deities of the erstwhile royal family.</p><p>Options 12, 15, 16 are incorrect numbers.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q28",
+      "number": 28,
+      "question": "Consider the following statements about Mughal architecture: 1. Mughal architecture is known for blending Persian, Islamic, Turkish, and Indian styles to create a unique Indo-Islamic aesthetic. 2. Red sandstone and white marble were the two most commonly used materials in Mughal construction.",
+      "questionHtml": "<p>Consider the following statements about Mughal architecture:</p><p>1. Mughal architecture is known for blending Persian, Islamic, Turkish, and Indian styles to create a unique Indo-Islamic aesthetic.</p><p>2. Red sandstone and white marble were the two most commonly used materials in Mughal construction.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only 1 is correct",
+          "html": "<p>Only 1 is correct</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only 2 is correct",
+          "html": "<p>Only 2 is correct</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both 1 and 2 are correct",
+          "html": "<p>Both 1 and 2 are correct</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 nor 2 is correct",
+          "html": "<p>Neither 1 nor 2 is correct</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Statement 1 — correct: Mughal architecture is a recognized blend of Persian, Islamic, Turkish, and Indian styles, producing the Indo-Islamic style seen in Taj Mahal, Red Fort, etc.</p><p>Statement 2 — correct: red sandstone (Fatehpur Sikri, Red Fort) and white marble (Taj Mahal) are the two signature materials.</p><p>Hence both statements are correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q29",
+      "number": 29,
+      "question": "Which of the following is a correct statement regarding violations in basketball?",
+      "questionHtml": "<p>Which of the following is a correct statement regarding violations in basketball?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A player may stay in the restricted area for 5 seconds.",
+          "html": "<p>A player may stay in the restricted area for 5 seconds.</p>"
+        },
+        {
+          "id": "B",
+          "text": "A team must shoot the ball within 8 seconds of play.",
+          "html": "<p>A team must shoot the ball within 8 seconds of play.</p>"
+        },
+        {
+          "id": "C",
+          "text": "A dribble ends when both hands touch the ball once.",
+          "html": "<p>A dribble ends when both hands touch the ball once.</p>"
+        },
+        {
+          "id": "D",
+          "text": "A player remains in play while standing on sideline.",
+          "html": "<p>A player remains in play while standing on sideline.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>By rule, a dribble ends the moment both hands touch the ball simultaneously (or the ball comes to rest in one hand). Continuing to dribble after this is a 'double dribble' violation.</p><p>Option 1 — wrong: the restricted-area limit is 3 seconds, not 5.</p><p>Option 2 — wrong: the shot clock is 24 seconds; 8 seconds is the time to cross the half-court line.</p><p>Option 4 — wrong: a player standing on the sideline is out of bounds.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q30",
+      "number": 30,
+      "question": "Which sports player won the bronze medal in the Mixed Team Compound Open Archery event at the Paris 2024 Paralympics?",
+      "questionHtml": "<p>Which sports player won the bronze medal in the Mixed Team Compound Open Archery event at the Paris 2024 Paralympics?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Harvinder Singh and Jyoti Baliyan",
+          "html": "<p>Harvinder Singh and Jyoti Baliyan</p>"
+        },
+        {
+          "id": "B",
+          "text": "Sheetal Devi and Rakesh Kumar",
+          "html": "<p>Sheetal Devi and Rakesh Kumar</p>"
+        },
+        {
+          "id": "C",
+          "text": "Sheetal Devi and Harvinder Singh",
+          "html": "<p>Sheetal Devi and Harvinder Singh</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rakesh Kumar and Vivek Chikara",
+          "html": "<p>Rakesh Kumar and Vivek Chikara</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>At the Paris 2024 Paralympics, the Indian pair Sheetal Devi and Rakesh Kumar won the bronze medal in the Mixed Team Compound Open Archery event, defeating Italy.</p><p>Harvinder Singh won gold in Men's Individual Recurve (a different event).</p><p>Other pairings listed did not represent India in this final.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q31",
+      "number": 31,
+      "question": "Where was the Americas Regional Office of the New Development Bank (NDB) announced to be established during the BRICS Foreign Ministers' Meeting in 2018?",
+      "questionHtml": "<p>Where was the Americas Regional Office of the New Development Bank (NDB) announced to be established during the BRICS Foreign Ministers' Meeting in 2018?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mexico City",
+          "html": "<p>Mexico City</p>"
+        },
+        {
+          "id": "B",
+          "text": "Buenos Aires",
+          "html": "<p>Buenos Aires</p>"
+        },
+        {
+          "id": "C",
+          "text": "São Paulo",
+          "html": "<p>São Paulo</p>"
+        },
+        {
+          "id": "D",
+          "text": "Lima",
+          "html": "<p>Lima</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The NDB's Americas Regional Office was announced to be set up in São Paulo, Brazil, during the 2018 BRICS Foreign Ministers' Meeting. This complements its headquarters in Shanghai.</p><p>Mexico City, Buenos Aires, and Lima were not selected for this office.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q32",
+      "number": 32,
+      "question": "Which of the following statements best captures the essence of the book Because Words Matter?",
+      "questionHtml": "<p>Which of the following statements best captures the essence of the book Because Words Matter?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Language's role in social justice",
+          "html": "<p>Language's role in social justice</p>"
+        },
+        {
+          "id": "B",
+          "text": "Ancient Sanskrit grammar",
+          "html": "<p>Ancient Sanskrit grammar</p>"
+        },
+        {
+          "id": "C",
+          "text": "Novel on colonial India",
+          "html": "<p>Novel on colonial India</p>"
+        },
+        {
+          "id": "D",
+          "text": "Linguist's critique of post-colonial English",
+          "html": "<p>Linguist's critique of post-colonial English</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>'Because Words Matter' explores how language shapes thought, identity, and ultimately social justice, examining how the words we choose can perpetuate or challenge inequality.</p><p>It is neither a Sanskrit-grammar work, a colonial-era novel, nor a critique limited to post-colonial English.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q33",
+      "number": 33,
+      "question": "Which of the following statements about rockslide is correct?",
+      "questionHtml": "<p>Which of the following statements about rockslide is correct?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "It affects only the outermost layer of the rock face",
+          "html": "<p>It affects only the outermost layer of the rock face</p>"
+        },
+        {
+          "id": "B",
+          "text": "It is slower than rock fall",
+          "html": "<p>It is slower than rock fall</p>"
+        },
+        {
+          "id": "C",
+          "text": "It involves backward rotation of debris",
+          "html": "<p>It involves backward rotation of debris</p>"
+        },
+        {
+          "id": "D",
+          "text": "It affects material to considerable depth",
+          "html": "<p>It affects material to considerable depth</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>A rockslide is a mass movement in which a large block of rock detaches and slides down a slope along a plane of weakness. It typically affects material at considerable depth, not just the surface.</p><p>Option 1 — wrong: it goes deeper than the outer face.</p><p>Option 2 — wrong: rockslides are generally faster than weathering processes, comparable to rock fall.</p><p>Option 3 — wrong: backward rotation describes a 'slump', not a rockslide.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q34",
+      "number": 34,
+      "question": "What correctly describes Neeraj Chopra's performance at the Paris Diamond League 2025?",
+      "questionHtml": "<p>What correctly describes Neeraj Chopra's performance at the Paris Diamond League 2025?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "He secured victory with his third throw measuring 88.16m at Stade de France.",
+          "html": "<p>He secured victory with his third throw measuring 88.16m at Stade de France.</p>"
+        },
+        {
+          "id": "B",
+          "text": "His only valid attempt, 88.16m, came in the final round.",
+          "html": "<p>His only valid attempt, 88.16m, came in the final round.</p>"
+        },
+        {
+          "id": "C",
+          "text": "He won with his opening throw of 88.16m at Stade Sébastien Charléty.",
+          "html": "<p>He won with his opening throw of 88.16m at Stade Sébastien Charléty.</p>"
+        },
+        {
+          "id": "D",
+          "text": "He placed second with a best throw of 88.16m.",
+          "html": "<p>He placed second with a best throw of 88.16m.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>At the Paris Diamond League 2025, held at Stade Sébastien Charléty, Neeraj Chopra won the javelin event with his opening throw of 88.16m.</p><p>The venue was not Stade de France, and the 88.16m came in the first round (not the third or the final round). He finished first, not second.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q35",
+      "number": 35,
+      "question": "Following a significant change in leadership at India's premier space agency, which distinguished scientist was appointed as the new Chairman of ISRO and Secretary of the Department of Space in January 2025, succeeding S. Somanath?",
+      "questionHtml": "<p>Following a significant change in leadership at India's premier space agency, which distinguished scientist was appointed as the new Chairman of ISRO and Secretary of the Department of Space in January 2025, succeeding S. Somanath?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "K Radhakrishnan",
+          "html": "<p>K Radhakrishnan</p>"
+        },
+        {
+          "id": "B",
+          "text": "K. Sivan",
+          "html": "<p>K. Sivan</p>"
+        },
+        {
+          "id": "C",
+          "text": "V. Narayanan",
+          "html": "<p>V. Narayanan</p>"
+        },
+        {
+          "id": "D",
+          "text": "S. Sashidhar Sinha",
+          "html": "<p>S. Sashidhar Sinha</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>V. Narayanan took over as Chairman of ISRO and Secretary, Department of Space in January 2025, succeeding S. Somanath.</p><p>K. Radhakrishnan and K. Sivan are former chairmen who served earlier. S. Sashidhar Sinha is not the chairman.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q36",
+      "number": 36,
+      "question": "Which of the following statements about dams is/are correct? 1. A dam always refers to a concrete or structural wall built to block water. 2. Spillways in dams help in regulating water flow, either intermittently or continuously. 3. Dams can be classified based on structure, purpose, and height.",
+      "questionHtml": "<p>Which of the following statements about dams is/are correct?</p><p>1. A dam always refers to a concrete or structural wall built to block water.</p><p>2. Spillways in dams help in regulating water flow, either intermittently or continuously.</p><p>3. Dams can be classified based on structure, purpose, and height.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both 1 and 2",
+          "html": "<p>Both 1 and 2</p>"
+        },
+        {
+          "id": "B",
+          "text": "Both 2 and 3",
+          "html": "<p>Both 2 and 3</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both 1 and 3",
+          "html": "<p>Both 1 and 3</p>"
+        },
+        {
+          "id": "D",
+          "text": "1, 2 and 3 all are correct",
+          "html": "<p>1, 2 and 3 all are correct</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Statement 1 — wrong: a dam is not always concrete; it can be earthen, rock-fill, masonry, or composite. The 'always concrete' generalization is incorrect.</p><p>Statement 2 — correct: spillways are the structures that release surplus water in a regulated manner.</p><p>Statement 3 — correct: dams are commonly classified by structure (gravity, arch, buttress, embankment), purpose (storage, diversion, detention), and height (low, medium, high, major).</p><p>Hence only 2 and 3 are correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q37",
+      "number": 37,
+      "question": "Aditya-L1 spacecraft primarily studies which part of the Sun?",
+      "questionHtml": "<p>Aditya-L1 spacecraft primarily studies which part of the Sun?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Regolith",
+          "html": "<p>Regolith</p>"
+        },
+        {
+          "id": "B",
+          "text": "Corona",
+          "html": "<p>Corona</p>"
+        },
+        {
+          "id": "C",
+          "text": "Craters",
+          "html": "<p>Craters</p>"
+        },
+        {
+          "id": "D",
+          "text": "Magnetosphere",
+          "html": "<p>Magnetosphere</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Aditya-L1 is India's first solar mission, positioned at the L1 Lagrange point. Its primary objective is to study the Sun's corona (the outermost atmospheric layer), along with the photosphere, chromosphere, and solar wind.</p><p>Regolith and craters refer to lunar/planetary surfaces. Magnetosphere is a planetary feature, not a layer of the Sun.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q38",
+      "number": 38,
+      "question": "Which group consists of non-ferrous metallic minerals that are scarce in India?",
+      "questionHtml": "<p>Which group consists of non-ferrous metallic minerals that are scarce in India?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Iron, Coal, Bauxite",
+          "html": "<p>Iron, Coal, Bauxite</p>"
+        },
+        {
+          "id": "B",
+          "text": "Copper, Zinc, Lead",
+          "html": "<p>Copper, Zinc, Lead</p>"
+        },
+        {
+          "id": "C",
+          "text": "Manganese, Bauxite, Limestone",
+          "html": "<p>Manganese, Bauxite, Limestone</p>"
+        },
+        {
+          "id": "D",
+          "text": "Mica, Dolomite, Felspar",
+          "html": "<p>Mica, Dolomite, Felspar</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Non-ferrous metallic minerals do not contain iron. Copper, zinc, and lead are all non-ferrous and India has limited reserves of these, making them scarce.</p><p>Option 1 — Iron is ferrous; Coal is not a metallic mineral.</p><p>Option 3 — Manganese is ferrous; Limestone is non-metallic.</p><p>Option 4 — Mica, Dolomite, Felspar are all non-metallic minerals.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q39",
+      "number": 39,
+      "question": "Fill in the blanks: Zonal Councils were created by the _____ Act, 1956.",
+      "questionHtml": "<p>Fill in the blanks:</p><p>Zonal Councils were created by the _____ Act, 1956.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "States Reorganisation",
+          "html": "<p>States Reorganisation</p>"
+        },
+        {
+          "id": "B",
+          "text": "Finance Commission",
+          "html": "<p>Finance Commission</p>"
+        },
+        {
+          "id": "C",
+          "text": "Panchayati Raj",
+          "html": "<p>Panchayati Raj</p>"
+        },
+        {
+          "id": "D",
+          "text": "Representation of People",
+          "html": "<p>Representation of People</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The five Zonal Councils (Northern, Central, Eastern, Western, Southern) were created under Part III of the States Reorganisation Act, 1956, to promote inter-state cooperation after the linguistic reorganisation of states.</p><p>The Finance Commission, Panchayati Raj, and Representation of People Acts deal with different subjects (finance, local self-government, and elections respectively).</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q40",
+      "number": 40,
+      "question": "Which of the following statements regarding the distribution of legislative powers between the Union and State legislatures is correct?",
+      "questionHtml": "<p>Which of the following statements regarding the distribution of legislative powers between the Union and State legislatures is correct?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The State legislature can legislate on matters enumerated in the Union List",
+          "html": "<p>The State legislature can legislate on matters enumerated in the Union List</p>"
+        },
+        {
+          "id": "B",
+          "text": "The Union legislature can legislate on matters in the Concurrent List only with State approval",
+          "html": "<p>The Union legislature can legislate on matters in the Concurrent List only with State approval</p>"
+        },
+        {
+          "id": "C",
+          "text": "The Union Government can issue directions to the States under Article 256",
+          "html": "<p>The Union Government can issue directions to the States under Article 256</p>"
+        },
+        {
+          "id": "D",
+          "text": "The Union and States have equal powers on matters in the Union List",
+          "html": "<p>The Union and States have equal powers on matters in the Union List</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Article 256 empowers the Union Government to issue directions to States to ensure compliance with laws made by Parliament.</p><p>Option 1 — wrong: only Parliament can legislate on the Union List (Article 246).</p><p>Option 2 — wrong: Parliament can legislate on Concurrent List subjects without State approval; in case of conflict, Union law prevails.</p><p>Option 4 — wrong: Union List subjects are exclusively in the Union's domain.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q41",
+      "number": 41,
+      "question": "Read the following statements marked as Assertion and Reason (R). Choose the correct option: Assertion (A): The PSLV-C59 mission, launched in October 2024, achieved a notable milestone for international space cooperation. Reason (R): This mission successfully deployed the Proba-3 satellites, marking the first dedicated satellite launch for ESA's unique formation-flying experiment.",
+      "questionHtml": "<p>Read the following statements marked as Assertion and Reason (R). Choose the correct option:</p><p>Assertion (A): The PSLV-C59 mission, launched in October 2024, achieved a notable milestone for international space cooperation.</p><p>Reason (R): This mission successfully deployed the Proba-3 satellites, marking the first dedicated satellite launch for ESA's unique formation-flying experiment.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true, and R is the correct explanation of A",
+          "html": "<p>Both A and R are true, and R is the correct explanation of A</p>"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true, but R is not the correct explanation of A",
+          "html": "<p>Both A and R are true, but R is not the correct explanation of A</p>"
+        },
+        {
+          "id": "C",
+          "text": "A is true, but R is false",
+          "html": "<p>A is true, but R is false</p>"
+        },
+        {
+          "id": "D",
+          "text": "A is false, but R is true",
+          "html": "<p>A is false, but R is true</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Assertion is true: PSLV-C59 was a milestone in international space cooperation as ISRO launched the European Space Agency's Proba-3 mission.</p><p>Reason is also true: the mission deployed ESA's Proba-3 formation-flying satellites — the first dedicated satellite pair for precise formation-flying experiments.</p><p>R correctly explains why A is a milestone.</p><p>Hence both A and R are true, and R is the correct explanation of A.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q42",
+      "number": 42,
+      "question": "Bharatiya Nagarik suraksha Samhita (BNSS) ensures access to FIR through which portal?",
+      "questionHtml": "<p>Bharatiya Nagarik suraksha Samhita (BNSS) ensures access to FIR through which portal?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "National Crime Portal",
+          "html": "<p>National Crime Portal</p>"
+        },
+        {
+          "id": "B",
+          "text": "CCTNS",
+          "html": "<p>CCTNS</p>"
+        },
+        {
+          "id": "C",
+          "text": "BHAVISHYA",
+          "html": "<p>BHAVISHYA</p>"
+        },
+        {
+          "id": "D",
+          "text": "DIGI-FIR",
+          "html": "<p>DIGI-FIR</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Under BNSS, FIR access is facilitated through CCTNS (Crime and Criminal Tracking Network and Systems), which is the integrated platform for police-related records across States.</p><p>BHAVISHYA is a pension portal. National Crime Portal and DIGI-FIR are not the official portals for this purpose.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q43",
+      "number": 43,
+      "question": "Which of the following pairs of Government Scheme and its associated Nodal Ministry/Department is correctly matched? 1. PM-AASHA – Ministry of Consumer Affairs, Food & Public Distribution 2. e-NAM – Ministry of Agriculture & Farmers Welfare 3. PMKSY – Ministry of Water Resources, River Development & Ganga Rejuvenation 4. RODTEP – Ministry of Finance",
+      "questionHtml": "<p>Which of the following pairs of Government Scheme and its associated Nodal Ministry/Department is correctly matched?</p><p>1. PM-AASHA – Ministry of Consumer Affairs, Food &amp; Public Distribution</p><p>2. e-NAM – Ministry of Agriculture &amp; Farmers Welfare</p><p>3. PMKSY – Ministry of Water Resources, River Development &amp; Ganga Rejuvenation</p><p>4. RODTEP – Ministry of Finance</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 and 2 only",
+          "html": "<p>1 and 2 only</p>"
+        },
+        {
+          "id": "B",
+          "text": "2 and 3 only",
+          "html": "<p>2 and 3 only</p>"
+        },
+        {
+          "id": "C",
+          "text": "2 only",
+          "html": "<p>2 only</p>"
+        },
+        {
+          "id": "D",
+          "text": "1, 2 and 4",
+          "html": "<p>1, 2 and 4</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>1 — Wrong. PM-AASHA is under the Ministry of Agriculture &amp; Farmers Welfare (not Consumer Affairs).</p><p>2 — Correct. e-NAM is under the Ministry of Agriculture &amp; Farmers Welfare.</p><p>3 — Wrong. PMKSY is now under the Ministry of Jal Shakti (Department of Water Resources, River Development &amp; Ganga Rejuvenation was merged into Jal Shakti in 2019).</p><p>4 — Wrong. RODTEP is administered by the Ministry of Commerce &amp; Industry, not Finance.</p><p>Hence only 2 is correctly matched.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q44",
+      "number": 44,
+      "question": "Fill in the Blank: Panthi dance is linked to the followers of _____ in Chhattisgarh.",
+      "questionHtml": "<p>Fill in the Blank:</p><p>Panthi dance is linked to the followers of _____ in Chhattisgarh.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Guru Ghasidas",
+          "html": "<p>Guru Ghasidas</p>"
+        },
+        {
+          "id": "B",
+          "text": "Kabir",
+          "html": "<p>Kabir</p>"
+        },
+        {
+          "id": "C",
+          "text": "Kabuli",
+          "html": "<p>Kabuli</p>"
+        },
+        {
+          "id": "D",
+          "text": "Nanak",
+          "html": "<p>Nanak</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Panthi is a traditional folk dance of Chhattisgarh performed by the Satnami community, the followers of Guru Ghasidas. It is performed mainly on Maghi Purnima, the birth anniversary of Guru Ghasidas.</p><p>Kabir, Nanak, and Kabuli are not associated with this specific dance form in Chhattisgarh.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q45",
+      "number": 45,
+      "question": "According to the 2024 Corruption Perceptions Index (CPI) findings, how does corruption most directly undermine global climate action?",
+      "questionHtml": "<p>According to the 2024 Corruption Perceptions Index (CPI) findings, how does corruption most directly undermine global climate action?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "By weakening financial markets in developing countries",
+          "html": "<p>By weakening financial markets in developing countries</p>"
+        },
+        {
+          "id": "B",
+          "text": "By discouraging public participation in environmental protests",
+          "html": "<p>By discouraging public participation in environmental protests</p>"
+        },
+        {
+          "id": "C",
+          "text": "By diverting climate funds and allowing undue influence over environmental policies",
+          "html": "<p>By diverting climate funds and allowing undue influence over environmental policies</p>"
+        },
+        {
+          "id": "D",
+          "text": "By increasing competition among fossil fuel companies",
+          "html": "<p>By increasing competition among fossil fuel companies</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The 2024 CPI by Transparency International highlighted that corruption hampers global climate action mainly by allowing the diversion of climate finance and enabling undue influence over environmental policy-making.</p><p>Weakening financial markets, discouraging protests, and increased fossil-fuel competition are not the direct mechanisms cited in the 2024 CPI findings.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q46",
+      "number": 46,
+      "question": "Objective of India's new Eco-Tourism Policy in protected areas?",
+      "questionHtml": "<p>Objective of India's new Eco-Tourism Policy in protected areas?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ban human activity",
+          "html": "<p>Ban human activity</p>"
+        },
+        {
+          "id": "B",
+          "text": "Maximize profit w/o community",
+          "html": "<p>Maximize profit w/o community</p>"
+        },
+        {
+          "id": "C",
+          "text": "Balance conservation and livelihoods",
+          "html": "<p>Balance conservation and livelihoods</p>"
+        },
+        {
+          "id": "D",
+          "text": "Turn areas into resorts",
+          "html": "<p>Turn areas into resorts</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>India's Eco-Tourism Policy aims at sustainable tourism that balances biodiversity conservation with the livelihood needs of local communities in and around protected areas.</p><p>A complete ban on human activity, profit-maximization without community benefit, and converting protected areas into resorts are explicitly contrary to the policy's objectives.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q47",
+      "number": 47,
+      "question": "Which of the following statements about the sugar industry is/are correct? 1. Sugarcane's sucrose content decreases during transportation. 2. Sugar industry is seasonal in nature. 3. The industry is unsuitable for cooperative management. 4. Major sugar-producing states include Maharashtra and Tamil Nadu.",
+      "questionHtml": "<p>Which of the following statements about the sugar industry is/are correct?</p><p>1. Sugarcane's sucrose content decreases during transportation.</p><p>2. Sugar industry is seasonal in nature.</p><p>3. The industry is unsuitable for cooperative management.</p><p>4. Major sugar-producing states include Maharashtra and Tamil Nadu.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only 1 and 3",
+          "html": "<p>Only 1 and 3</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only 1, 2 and 4",
+          "html": "<p>Only 1, 2 and 4</p>"
+        },
+        {
+          "id": "C",
+          "text": "Only 2, 3 and 4",
+          "html": "<p>Only 2, 3 and 4</p>"
+        },
+        {
+          "id": "D",
+          "text": "Only 1 and 4",
+          "html": "<p>Only 1 and 4</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>1 — Correct. Sucrose content of sugarcane falls during transit, which is why mills are located close to cane fields.</p><p>2 — Correct. The sugar industry is seasonal, depending on the cane crushing season (typically October to May).</p><p>3 — Wrong. The sugar industry has, in fact, been very successfully managed under the cooperative model (especially in Maharashtra).</p><p>4 — Correct. Maharashtra and Uttar Pradesh lead, with Tamil Nadu being a major southern producer.</p><p>Hence statements 1, 2, and 4 are correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q48",
+      "number": 48,
+      "question": "Which of the following statements correctly describe the MISHTI initiative launched in India? 1. The MISHTI programme is designed to increase mangrove forest cover and enhance livelihood opportunities in coastal areas. 2. It is a project initiated under the Ministry of Rural Development. 3. The program is financed with a mix of fundings coming from the CAMPA (Compensatory Afforestation Fund Management and Planning Authority) Fund and the MGNREGS (Mahatma Gandhi National Rural Employment Guarantee Scheme).",
+      "questionHtml": "<p>Which of the following statements correctly describe the MISHTI initiative launched in India?</p><p>1. The MISHTI programme is designed to increase mangrove forest cover and enhance livelihood opportunities in coastal areas.</p><p>2. It is a project initiated under the Ministry of Rural Development.</p><p>3. The program is financed with a mix of fundings coming from the CAMPA (Compensatory Afforestation Fund Management and Planning Authority) Fund and the MGNREGS (Mahatma Gandhi National Rural Employment Guarantee Scheme).</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 and 2",
+          "html": "<p>1 and 2</p>"
+        },
+        {
+          "id": "B",
+          "text": "1 and 3",
+          "html": "<p>1 and 3</p>"
+        },
+        {
+          "id": "C",
+          "text": "2 and 3",
+          "html": "<p>2 and 3</p>"
+        },
+        {
+          "id": "D",
+          "text": "1, 2, and 3 all",
+          "html": "<p>1, 2, and 3 all</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>MISHTI = Mangrove Initiative for Shoreline Habitats &amp; Tangible Incomes (announced in Budget 2023-24).</p><p>Statement 1 — Correct: it aims at expanding mangrove cover and supporting coastal livelihoods.</p><p>Statement 2 — Wrong: it is implemented by the Ministry of Environment, Forest and Climate Change (MoEFCC), not Rural Development.</p><p>Statement 3 — Correct: it is financed through a convergence of CAMPA Fund and MGNREGS along with other sources.</p><p>Hence statements 1 and 3 are correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q49",
+      "number": 49,
+      "question": "Which of the following statements are correct? 1. Kalbelia performers rarely document their art due to its oral nomadic heritage. 2. Costumes avoid stitched elements in honor of serpent rituals. 3. The community's art was included in UNESCO ICH list without any written application process.",
+      "questionHtml": "<p>Which of the following statements are correct?</p><p>1. Kalbelia performers rarely document their art due to its oral nomadic heritage.</p><p>2. Costumes avoid stitched elements in honor of serpent rituals.</p><p>3. The community's art was included in UNESCO ICH list without any written application process.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only 1",
+          "html": "<p>Only 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only 2 & 3",
+          "html": "<p>Only 2 &amp; 3</p>"
+        },
+        {
+          "id": "C",
+          "text": "All 1, 2 & 3",
+          "html": "<p>All 1, 2 &amp; 3</p>"
+        },
+        {
+          "id": "D",
+          "text": "Only 1 & 3",
+          "html": "<p>Only 1 &amp; 3</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Statement 1 — Correct. The Kalbelia community of Rajasthan is nomadic and their art (song and dance) has been transmitted orally, so very little is documented in writing.</p><p>Statement 2 — Wrong. Kalbelia costumes do use stitched elements; they are known for the rich black ghagras adorned with embroidery.</p><p>Statement 3 — Wrong. The Kalbelia dance was inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity in 2010 through a formal written nomination process.</p><p>Hence only statement 1 is correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q50",
+      "number": 50,
+      "question": "Consider the following statements: 1. Every Money Bill is a Financial Bill. 2. Every Financial Bill is a Money Bill. Which of the above statements is/are correct?",
+      "questionHtml": "<p>Consider the following statements:</p><p>1. Every Money Bill is a Financial Bill.</p><p>2. Every Financial Bill is a Money Bill.</p><p>Which of the above statements is/are correct?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only 1",
+          "html": "<p>Only 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only 2",
+          "html": "<p>Only 2</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both 1 and 2",
+          "html": "<p>Both 1 and 2</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 nor 2",
+          "html": "<p>Neither 1 nor 2</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>A Money Bill (Article 110) deals exclusively with matters listed in Article 110(1) — taxation, borrowing, Consolidated Fund, etc.</p><p>A Financial Bill is a broader category — any bill that has financial implications.</p><p>Statement 1 — Correct: every Money Bill is also a Financial Bill.</p><p>Statement 2 — Wrong: every Financial Bill is NOT a Money Bill; only those certified by the Speaker as containing only Article 110 matters qualify.</p><p>Hence only statement 1 is correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q51",
+      "number": 51,
+      "question": "If M : N = 4 : 5, N : O = 6 : 7, and O : P = 9 : 11, then find N : P.",
+      "questionHtml": "<p>If M : N = 4 : 5, N : O = 6 : 7, and O : P = 9 : 11, then find N : P.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "54 : 77",
+          "html": "<p>54 : 77</p>"
+        },
+        {
+          "id": "B",
+          "text": "45 : 77",
+          "html": "<p>45 : 77</p>"
+        },
+        {
+          "id": "C",
+          "text": "42 : 55",
+          "html": "<p>42 : 55</p>"
+        },
+        {
+          "id": "D",
+          "text": "36 : 63",
+          "html": "<p>36 : 63</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Make O common in N : O and O : P.</p><p>N : O = 6 : 7</p><p>O : P = 9 : 11</p><p>LCM of 7 and 9 = 63</p><p>N : O = 6×9 : 7×9 = 54 : 63</p><p>O : P = 9×7 : 11×7 = 63 : 77</p><p>So N : O : P = 54 : 63 : 77</p><p>N : P = 54 : 77.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q52",
+      "number": 52,
+      "question": "What is the result of 2¼ ÷ 0.5?",
+      "questionHtml": "<p>What is the result of 2¼ ÷ 0.5?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4.25",
+          "html": "<p>4.25</p>"
+        },
+        {
+          "id": "B",
+          "text": "4.5",
+          "html": "<p>4.5</p>"
+        },
+        {
+          "id": "C",
+          "text": "4.75",
+          "html": "<p>4.75</p>"
+        },
+        {
+          "id": "D",
+          "text": "5.25",
+          "html": "<p>5.25</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>2¼ = 9/4</p><p>0.5 = 1/2</p><p>9/4 ÷ 1/2 = 9/4 × 2/1 = 18/4 = 4.5</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q53",
+      "number": 53,
+      "question": "What should be subtracted from 10, 12, 13, 16 so that the remaining numbers may be proportional?",
+      "questionHtml": "<p>What should be subtracted from 10, 12, 13, 16 so that the remaining numbers may be proportional?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "<p>3</p>"
+        },
+        {
+          "id": "B",
+          "text": "9",
+          "html": "<p>9</p>"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "<p>4</p>"
+        },
+        {
+          "id": "D",
+          "text": "12",
+          "html": "<p>12</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let x be subtracted. Then (10 − x), (12 − x), (13 − x), (16 − x) must be in proportion.</p><p>(10 − x) / (12 − x) = (13 − x) / (16 − x)</p><p>Cross multiply: (10 − x)(16 − x) = (12 − x)(13 − x)</p><p>160 − 26x + x² = 156 − 25x + x²</p><p>160 − 26x = 156 − 25x</p><p>4 = x</p><p>Hence 4 must be subtracted.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q54",
+      "number": 54,
+      "question": "If 45% of a number is 0.9 more than 30% of it, what is the number?",
+      "questionHtml": "<p>If 45% of a number is 0.9 more than 30% of it, what is the number?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "6",
+          "html": "<p>6</p>"
+        },
+        {
+          "id": "B",
+          "text": "7",
+          "html": "<p>7</p>"
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "html": "<p>8</p>"
+        },
+        {
+          "id": "D",
+          "text": "9",
+          "html": "<p>9</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let the number = x.</p><p>0.45x − 0.30x = 0.9</p><p>0.15x = 0.9</p><p>x = 0.9 / 0.15 = 6.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q55",
+      "number": 55,
+      "question": "Sohan started a business with ₹90,000. After 5 months, Rohan joined with ₹1,50,000. After another 3 months, Sohan withdrew ₹30,000. What is the ratio of their profits at the end of the year?",
+      "questionHtml": "<p>Sohan started a business with ₹90,000. After 5 months, Rohan joined with ₹1,50,000. After another 3 months, Sohan withdrew ₹30,000. What is the ratio of their profits at the end of the year?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "32 : 35",
+          "html": "<p>32 : 35</p>"
+        },
+        {
+          "id": "B",
+          "text": "15 : 16",
+          "html": "<p>15 : 16</p>"
+        },
+        {
+          "id": "C",
+          "text": "12 : 15",
+          "html": "<p>12 : 15</p>"
+        },
+        {
+          "id": "D",
+          "text": "11 : 12",
+          "html": "<p>11 : 12</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Sohan: ₹90,000 for first 8 months, then ₹60,000 for remaining 4 months.</p><p>Sohan's capital-months = 90,000 × 8 + 60,000 × 4 = 7,20,000 + 2,40,000 = 9,60,000.</p><p>Rohan joined after 5 months ⇒ stayed for 7 months at ₹1,50,000.</p><p>Rohan's capital-months = 1,50,000 × 7 = 10,50,000.</p><p>Ratio = 9,60,000 : 10,50,000 = 96 : 105 = 32 : 35.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q56",
+      "number": 56,
+      "question": "Two individuals, A and B, rent a pasture together. A has 18 horses that they graze for 4 months. B grazes 24 cows for 6 months and 36 sheep for 4 months. The following relationships are given: - 3 horses are equivalent to 6 cows, - 4 cows are equivalent to 8 sheep. What amount of rent should A pay?",
+      "questionHtml": "<p>Two individuals, A and B, rent a pasture together. A has 18 horses that they graze for 4 months. B grazes 24 cows for 6 months and 36 sheep for 4 months.</p><p>The following relationships are given:</p><p>- 3 horses are equivalent to 6 cows,</p><p>- 4 cows are equivalent to 8 sheep.</p><p>What amount of rent should A pay?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2/5",
+          "html": "<p>2/5</p>"
+        },
+        {
+          "id": "B",
+          "text": "3/5",
+          "html": "<p>3/5</p>"
+        },
+        {
+          "id": "C",
+          "text": "4/5",
+          "html": "<p>4/5</p>"
+        },
+        {
+          "id": "D",
+          "text": "1/5",
+          "html": "<p>1/5</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Convert everything to 'cow-months'.</p><p>3 horses = 6 cows ⇒ 1 horse = 2 cows.</p><p>4 cows = 8 sheep ⇒ 1 cow = 2 sheep ⇒ 1 sheep = 1/2 cow.</p><p>A: 18 horses × 4 months = 18 × 2 cows × 4 = 144 cow-months.</p><p>B: 24 cows × 6 + 36 sheep × 4 = 144 + (36 × 1/2) × 4 = 144 + 72 = 216 cow-months.</p><p>Total = 144 + 216 = 360 cow-months.</p><p>A's share = 144 / 360 = 2/5.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q57",
+      "number": 57,
+      "question": "X, Y, and Z started a business with capitals in the ratio 2 : 3 : 5. After 3 months, Z withdrew 40% of his capital. After another 3 months, Y withdrew half of his capital. The business continued for a total of 18 months. If total profit is ₹3,24,000, find the ratio of profit shares of X : Y : Z.",
+      "questionHtml": "<p>X, Y, and Z started a business with capitals in the ratio 2 : 3 : 5. After 3 months, Z withdrew 40% of his capital. After another 3 months, Y withdrew half of his capital. The business continued for a total of 18 months. If total profit is ₹3,24,000, find the ratio of profit shares of X : Y : Z.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 : 3 : 5",
+          "html": "<p>3 : 3 : 5</p>"
+        },
+        {
+          "id": "B",
+          "text": "3 : 3 : 4",
+          "html": "<p>3 : 3 : 4</p>"
+        },
+        {
+          "id": "C",
+          "text": "1 : 2 : 2",
+          "html": "<p>1 : 2 : 2</p>"
+        },
+        {
+          "id": "D",
+          "text": "1 : 3 : 1",
+          "html": "<p>1 : 3 : 1</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let capitals be 2k, 3k, 5k.</p><p>X: 2k for full 18 months → 2k × 18 = 36k.</p><p>Y: 3k for first 6 months, then 1.5k for remaining 12 months → 3k × 6 + 1.5k × 12 = 18k + 18k = 36k.</p><p>Z: 5k for first 3 months, then 60% of 5k = 3k for remaining 15 months → 5k × 3 + 3k × 15 = 15k + 45k = 60k.</p><p>Ratio X : Y : Z = 36k : 36k : 60k = 3 : 3 : 5.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q58",
+      "number": 58,
+      "question": "The average age of 40 students in a class is 16 years. When a new student is admitted, the average increases by 0.2 years. What is the age of the new student?",
+      "questionHtml": "<p>The average age of 40 students in a class is 16 years. When a new student is admitted, the average increases by 0.2 years. What is the age of the new student?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "24.2",
+          "html": "<p>24.2</p>"
+        },
+        {
+          "id": "B",
+          "text": "20.2",
+          "html": "<p>20.2</p>"
+        },
+        {
+          "id": "C",
+          "text": "19.2",
+          "html": "<p>19.2</p>"
+        },
+        {
+          "id": "D",
+          "text": "16.2",
+          "html": "<p>16.2</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Total age of 40 students = 40 × 16 = 640.</p><p>New average = 16.2, total students = 41.</p><p>New total = 41 × 16.2 = 664.2.</p><p>Age of new student = 664.2 − 640 = 24.2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q59",
+      "number": 59,
+      "question": "The monthly average salary for 8 employees plus one supervisor is ₹15,000. If the supervisor earns ₹25,000, what is the average salary of the 8 employees?",
+      "questionHtml": "<p>The monthly average salary for 8 employees plus one supervisor is ₹15,000. If the supervisor earns ₹25,000, what is the average salary of the 8 employees?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹14,750",
+          "html": "<p>₹14,750</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹13,000",
+          "html": "<p>₹13,000</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹13,750",
+          "html": "<p>₹13,750</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹13,500",
+          "html": "<p>₹13,500</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Total salary of 9 people = 9 × 15,000 = ₹1,35,000.</p><p>Supervisor's salary = ₹25,000.</p><p>Total of 8 employees = 1,35,000 − 25,000 = ₹1,10,000.</p><p>Average = 1,10,000 / 8 = ₹13,750.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q60",
+      "number": 60,
+      "question": "A company has 80 employees, of whom 35% are women. The average monthly salary of the women is ₹72,000, while that of the men is ₹68,000. What is the overall average monthly salary (in ₹000) of the whole workforce?",
+      "questionHtml": "<p>A company has 80 employees, of whom 35% are women. The average monthly salary of the women is ₹72,000, while that of the men is ₹68,000. What is the overall average monthly salary (in ₹000) of the whole workforce?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "70.8",
+          "html": "<p>70.8</p>"
+        },
+        {
+          "id": "B",
+          "text": "699.4",
+          "html": "<p>699.4</p>"
+        },
+        {
+          "id": "C",
+          "text": "245.4",
+          "html": "<p>245.4</p>"
+        },
+        {
+          "id": "D",
+          "text": "69.4",
+          "html": "<p>69.4</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Women = 35% of 80 = 28; Men = 80 − 28 = 52.</p><p>Total salary = 28 × 72,000 + 52 × 68,000</p><p>= 20,16,000 + 35,36,000</p><p>= 55,52,000.</p><p>Average = 55,52,000 / 80 = ₹69,400 = 69.4 (in ₹'000).</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q61",
+      "number": 61,
+      "question": "A dress is marked at ₹3,500. A discount offer changes from 10% to 15%. How much extra discount does a customer get?",
+      "questionHtml": "<p>A dress is marked at ₹3,500. A discount offer changes from 10% to 15%. How much extra discount does a customer get?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹175",
+          "html": "<p>₹175</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹185",
+          "html": "<p>₹185</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹195",
+          "html": "<p>₹195</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹200",
+          "html": "<p>₹200</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Extra discount % = 15% − 10% = 5%.</p><p>Extra amount = 5% of 3,500 = (5/100) × 3,500 = ₹175.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q62",
+      "number": 62,
+      "question": "Rohan ordered 5 kg of premium coffee and some additional kilograms of ordinary coffee. The price of the premium coffee per kg was three times that of the ordinary coffee. When the order was delivered, it was found that the quantities of premium and ordinary coffee had been swapped. This change increased his bill by 40%. Find the ratio of the original quantity of premium coffee to the original quantity of ordinary coffee.",
+      "questionHtml": "<p>Rohan ordered 5 kg of premium coffee and some additional kilograms of ordinary coffee. The price of the premium coffee per kg was three times that of the ordinary coffee. When the order was delivered, it was found that the quantities of premium and ordinary coffee had been swapped. This change increased his bill by 40%. Find the ratio of the original quantity of premium coffee to the original quantity of ordinary coffee.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 : 1",
+          "html": "<p>2 : 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "1 : 3",
+          "html": "<p>1 : 3</p>"
+        },
+        {
+          "id": "C",
+          "text": "1 : 2",
+          "html": "<p>1 : 2</p>"
+        },
+        {
+          "id": "D",
+          "text": "3 : 1",
+          "html": "<p>3 : 1</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let ordinary price = p per kg, then premium = 3p per kg.</p><p>Let ordinary quantity = x kg.</p><p>Original bill = 5 × 3p + x × p = 15p + xp.</p><p>After swap: premium = x kg, ordinary = 5 kg → New bill = 3p × x + p × 5 = 3xp + 5p.</p><p>New = 1.4 × Original:</p><p>3xp + 5p = 1.4(15p + xp)</p><p>3x + 5 = 21 + 1.4x</p><p>1.6x = 16</p><p>x = 10.</p><p>Premium : Ordinary = 5 : 10 = 1 : 2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q63",
+      "number": 63,
+      "question": "A certain amount grows to ₹6400 in 2 years and ₹7040 in 3 years. Determine the interest rate.",
+      "questionHtml": "<p>A certain amount grows to ₹6400 in 2 years and ₹7040 in 3 years. Determine the interest rate.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%",
+          "html": "<p>10%</p>"
+        },
+        {
+          "id": "B",
+          "text": "9%",
+          "html": "<p>9%</p>"
+        },
+        {
+          "id": "C",
+          "text": "8%",
+          "html": "<p>8%</p>"
+        },
+        {
+          "id": "D",
+          "text": "11%",
+          "html": "<p>11%</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Since the difference is not equal each year, this is compound interest.</p><p>Amount after 3rd year / Amount after 2nd year = (1 + r)</p><p>7040 / 6400 = 1.1</p><p>So (1 + r) = 1.1, giving r = 0.1 = 10%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q64",
+      "number": 64,
+      "question": "A bookseller sells 10 pens for ₹300, but in doing so, he incurs a loss equal to the cost price of 4 pens. The loss percent is:",
+      "questionHtml": "<p>A bookseller sells 10 pens for ₹300, but in doing so, he incurs a loss equal to the cost price of 4 pens. The loss percent is:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "40%",
+          "html": "<p>40%</p>"
+        },
+        {
+          "id": "B",
+          "text": "70%",
+          "html": "<p>70%</p>"
+        },
+        {
+          "id": "C",
+          "text": "60%",
+          "html": "<p>60%</p>"
+        },
+        {
+          "id": "D",
+          "text": "50%",
+          "html": "<p>50%</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let CP of 1 pen = ₹c.</p><p>CP of 10 pens = 10c. SP of 10 pens = 300.</p><p>Loss = 10c − 300 = CP of 4 pens = 4c</p><p>10c − 300 = 4c</p><p>6c = 300</p><p>c = 50, so CP of 10 = 500.</p><p>Loss = 500 − 300 = 200.</p><p>Loss % = (200 / 500) × 100 = 40%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q65",
+      "number": 65,
+      "question": "A fruit seller buys three varieties of mangoes. The first variety is bought at 4 for ₹10, the second at 5 for ₹12, and the third at 2 for ₹5. He mixes them in the ratio 2 : 3 : 1 respectively. If he sells all the mangoes at 3 for ₹7, what is his approximate gain or loss percentage?",
+      "questionHtml": "<p>A fruit seller buys three varieties of mangoes. The first variety is bought at 4 for ₹10, the second at 5 for ₹12, and the third at 2 for ₹5. He mixes them in the ratio 2 : 3 : 1 respectively. If he sells all the mangoes at 3 for ₹7, what is his approximate gain or loss percentage?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Profit of 4.76%",
+          "html": "<p>Profit of 4.76%</p>"
+        },
+        {
+          "id": "B",
+          "text": "Loss of 4.76%",
+          "html": "<p>Loss of 4.76%</p>"
+        },
+        {
+          "id": "C",
+          "text": "Loss of 6%",
+          "html": "<p>Loss of 6%</p>"
+        },
+        {
+          "id": "D",
+          "text": "Profit of 6%",
+          "html": "<p>Profit of 6%</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>CP per mango: 1st = 10/4 = ₹2.50; 2nd = 12/5 = ₹2.40; 3rd = 5/2 = ₹2.50.</p><p>Mixing ratio 2 : 3 : 1, total = 6 parts.</p><p>Average CP = (2 × 2.50 + 3 × 2.40 + 1 × 2.50) / 6</p><p>= (5.00 + 7.20 + 2.50) / 6</p><p>= 14.70 / 6</p><p>= ₹2.45.</p><p>SP per mango = 7/3 ≈ ₹2.333.</p><p>Loss per mango = 2.45 − 2.333 = ₹0.117.</p><p>Loss % = (0.117 / 2.45) × 100 ≈ 4.76%.</p><p>Hence loss of 4.76%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q66",
+      "number": 66,
+      "question": "A dealer sets the marked price of a television 20% higher than its cost price. If he gives a discount of 15% and makes a profit of ₹300, what is the cost price of the television?",
+      "questionHtml": "<p>A dealer sets the marked price of a television 20% higher than its cost price. If he gives a discount of 15% and makes a profit of ₹300, what is the cost price of the television?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹10,000",
+          "html": "<p>₹10,000</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹12,500",
+          "html": "<p>₹12,500</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹15,000",
+          "html": "<p>₹15,000</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹18,000",
+          "html": "<p>₹18,000</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let CP = x.</p><p>MP = 1.20x.</p><p>SP = MP × (1 − 0.15) = 1.20x × 0.85 = 1.02x.</p><p>Profit = SP − CP = 1.02x − x = 0.02x.</p><p>Given: 0.02x = 300 ⇒ x = 15,000.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q67",
+      "number": 67,
+      "question": "A merchant marked an article such that its price was 25% above its cost price. He offered two consecutive discounts of 10% and 20% to a buyer. If he incurred a loss of ₹400, what was the marked price of the article?",
+      "questionHtml": "<p>A merchant marked an article such that its price was 25% above its cost price. He offered two consecutive discounts of 10% and 20% to a buyer. If he incurred a loss of ₹400, what was the marked price of the article?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹5000",
+          "html": "<p>₹5000</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹2000",
+          "html": "<p>₹2000</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹2500",
+          "html": "<p>₹2500</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹1080",
+          "html": "<p>₹1080</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let CP = x.</p><p>MP = 1.25x.</p><p>SP = MP × 0.9 × 0.8 = 1.25x × 0.72 = 0.9x.</p><p>Loss = CP − SP = x − 0.9x = 0.1x.</p><p>Given 0.1x = 400 ⇒ x = 4000.</p><p>MP = 1.25 × 4000 = ₹5000.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q68",
+      "number": 68,
+      "question": "A drum contains a blend of three chemicals: P, Q, and R, in the ratio 3 : 5 : 2. 30 litres of this blend are removed, and then 12 litres of chemical P and 8 litres of chemical Q are poured into the drum. If the resultant quantity of chemical Q is 20 litres more than the resultant quantity of chemical P, what was the initial total quantity of the mixture in the drum (in litres)?",
+      "questionHtml": "<p>A drum contains a blend of three chemicals: P, Q, and R, in the ratio 3 : 5 : 2. 30 litres of this blend are removed, and then 12 litres of chemical P and 8 litres of chemical Q are poured into the drum. If the resultant quantity of chemical Q is 20 litres more than the resultant quantity of chemical P, what was the initial total quantity of the mixture in the drum (in litres)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "100",
+          "html": "<p>100</p>"
+        },
+        {
+          "id": "B",
+          "text": "120",
+          "html": "<p>120</p>"
+        },
+        {
+          "id": "C",
+          "text": "150",
+          "html": "<p>150</p>"
+        },
+        {
+          "id": "D",
+          "text": "180",
+          "html": "<p>180</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let initial total = M litres.</p><p>P = 3M/10, Q = 5M/10, R = 2M/10.</p><p>From 30 L removed (same ratio): P removed = 9, Q removed = 15, R removed = 6.</p><p>After removal:</p><p>P = 3M/10 − 9; Q = 5M/10 − 15.</p><p>Add 12 L P and 8 L Q:</p><p>P_new = 3M/10 − 9 + 12 = 3M/10 + 3.</p><p>Q_new = 5M/10 − 15 + 8 = 5M/10 − 7.</p><p>Given: Q_new − P_new = 20</p><p>(5M/10 − 7) − (3M/10 + 3) = 20</p><p>2M/10 − 10 = 20</p><p>M/5 = 30</p><p>M = 150.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q69",
+      "number": 69,
+      "question": "Rahul borrowed a sum of money at simple interest of 5% per annum for the first 3 years, 7% per annum for the next 5 years, and 9% per annum for the period beyond 8 years. If he pays a total of ₹6800 as interest only at the end of 10 years, how much money did he borrow?",
+      "questionHtml": "<p>Rahul borrowed a sum of money at simple interest of 5% per annum for the first 3 years, 7% per annum for the next 5 years, and 9% per annum for the period beyond 8 years. If he pays a total of ₹6800 as interest only at the end of 10 years, how much money did he borrow?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹8000",
+          "html": "<p>₹8000</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹9000",
+          "html": "<p>₹9000</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹10000",
+          "html": "<p>₹10000</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹12000",
+          "html": "<p>₹12000</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let principal = P.</p><p>Total SI = SI for 3 yrs at 5% + SI for 5 yrs at 7% + SI for 2 yrs (years 9 and 10) at 9%.</p><p>= (P × 5 × 3)/100 + (P × 7 × 5)/100 + (P × 9 × 2)/100</p><p>= (15P + 35P + 18P) / 100</p><p>= 68P/100 = 0.68P.</p><p>Given: 0.68P = 6800 ⇒ P = 10000.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q70",
+      "number": 70,
+      "question": "A cone is such that the area of its base equals its lateral surface area. If radius is r, find the slant height l.",
+      "questionHtml": "<p>A cone is such that the area of its base equals its lateral surface area. If radius is r, find the slant height l.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "r",
+          "html": "<p>r</p>"
+        },
+        {
+          "id": "B",
+          "text": "2r",
+          "html": "<p>2r</p>"
+        },
+        {
+          "id": "C",
+          "text": "3r",
+          "html": "<p>3r</p>"
+        },
+        {
+          "id": "D",
+          "text": "4r",
+          "html": "<p>4r</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Base area = πr².</p><p>Lateral surface area = πrl.</p><p>Given: πr² = πrl</p><p>Divide both sides by πr: r = l.</p><p>Hence l = r.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q71",
+      "number": 71,
+      "question": "A square field of side 28 m has a circular pond in the center. If the area of the pond is 616 m², what is the area of the remaining field?",
+      "questionHtml": "<p>A square field of side 28 m has a circular pond in the center. If the area of the pond is 616 m², what is the area of the remaining field?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "148 m²",
+          "html": "<p>148 m²</p>"
+        },
+        {
+          "id": "B",
+          "text": "168 m²",
+          "html": "<p>168 m²</p>"
+        },
+        {
+          "id": "C",
+          "text": "678 m²",
+          "html": "<p>678 m²</p>"
+        },
+        {
+          "id": "D",
+          "text": "682 m²",
+          "html": "<p>682 m²</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Area of square = 28 × 28 = 784 m².</p><p>Area of pond = 616 m² (given).</p><p>Remaining area = 784 − 616 = 168 m².</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q72",
+      "number": 72,
+      "question": "If the height of a right prism is increased by 50% and base area remains the same, what is the percentage increase in volume?",
+      "questionHtml": "<p>If the height of a right prism is increased by 50% and base area remains the same, what is the percentage increase in volume?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "25%",
+          "html": "<p>25%</p>"
+        },
+        {
+          "id": "B",
+          "text": "50%",
+          "html": "<p>50%</p>"
+        },
+        {
+          "id": "C",
+          "text": "75%",
+          "html": "<p>75%</p>"
+        },
+        {
+          "id": "D",
+          "text": "100%",
+          "html": "<p>100%</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Volume of a prism = Base area × Height.</p><p>If base area is constant and height increases by 50%, the volume also increases by 50%.</p><p>Hence percentage increase in volume = 50%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q73",
+      "number": 73,
+      "question": "A circular decorative wall clock with a radius of 20 cm has a design where a chord connects two points on the circumference. This chord, along with two radii, forms an equilateral triangle at the center of the clock face. The smaller segment created by this chord is painted in a contrasting color. What percentage of the clock's total area does this smaller painted segment represent? (Use π≈3.14, √3≈1.732)",
+      "questionHtml": "<p>A circular decorative wall clock with a radius of 20 cm has a design where a chord connects two points on the circumference. This chord, along with two radii, forms an equilateral triangle at the center of the clock face. The smaller segment created by this chord is painted in a contrasting color. What percentage of the clock's total area does this smaller painted segment represent? (Use π≈3.14, √3≈1.732)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.88%",
+          "html": "<p>2.88%</p>"
+        },
+        {
+          "id": "B",
+          "text": "5.6%",
+          "html": "<p>5.6%</p>"
+        },
+        {
+          "id": "C",
+          "text": "9.08%",
+          "html": "<p>9.08%</p>"
+        },
+        {
+          "id": "D",
+          "text": "12.5%",
+          "html": "<p>12.5%</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Equilateral triangle is formed by two radii (20 cm each) and the chord, so chord = 20 cm and central angle = 60°.</p><p>Area of sector (60°) = (60/360) × π × r² = (1/6) × 3.14 × 400 = 209.33 cm².</p><p>Area of equilateral triangle = (√3/4) × 20² = (1.732/4) × 400 = 173.2 cm².</p><p>Smaller (minor) segment = Sector − Triangle = 209.33 − 173.2 = 36.13 cm².</p><p>Total area of clock = π × r² = 3.14 × 400 = 1256 cm².</p><p>Percentage = (36.13 / 1256) × 100 ≈ 2.88%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q74",
+      "number": 74,
+      "question": "A cylinder (r = 4 cm, h = 10 cm) is bored through by a hole (r = 2 cm, full height). What percentage of original volume is removed?",
+      "questionHtml": "<p>A cylinder (r = 4 cm, h = 10 cm) is bored through by a hole (r = 2 cm, full height). What percentage of original volume is removed?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "25%",
+          "html": "<p>25%</p>"
+        },
+        {
+          "id": "B",
+          "text": "50%",
+          "html": "<p>50%</p>"
+        },
+        {
+          "id": "C",
+          "text": "75%",
+          "html": "<p>75%</p>"
+        },
+        {
+          "id": "D",
+          "text": "37.5%",
+          "html": "<p>37.5%</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Original volume = π × 4² × 10 = 160π cm³.</p><p>Hole volume = π × 2² × 10 = 40π cm³.</p><p>Percentage removed = (40π / 160π) × 100 = 25%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q75",
+      "number": 75,
+      "question": "A sector of a circle with a radius of 15 cm has a central angle of 45°. Another sector of the same circle has a central angle of π/4 radians. What is the ratio of the area of the first sector to the area of the second sector?",
+      "questionHtml": "<p>A sector of a circle with a radius of 15 cm has a central angle of 45°. Another sector of the same circle has a central angle of π/4 radians. What is the ratio of the area of the first sector to the area of the second sector?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 2",
+          "html": "<p>1 : 2</p>"
+        },
+        {
+          "id": "B",
+          "text": "2 : 3",
+          "html": "<p>2 : 3</p>"
+        },
+        {
+          "id": "C",
+          "text": "1 : 1",
+          "html": "<p>1 : 1</p>"
+        },
+        {
+          "id": "D",
+          "text": "3 : 4",
+          "html": "<p>3 : 4</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Convert 45° into radians: 45° = π/4 radians.</p><p>Both sectors have the same central angle (π/4 rad) and the same radius (15 cm).</p><p>Hence their areas are equal.</p><p>Ratio = 1 : 1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q76",
+      "number": 76,
+      "question": "Select the most appropriate synonym of the given word: CALLOW",
+      "questionHtml": "<p>Select the most appropriate synonym of the given word: CALLOW</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inexperienced",
+          "html": "<p>Inexperienced</p>"
+        },
+        {
+          "id": "B",
+          "text": "Experienced",
+          "html": "<p>Experienced</p>"
+        },
+        {
+          "id": "C",
+          "text": "Wise",
+          "html": "<p>Wise</p>"
+        },
+        {
+          "id": "D",
+          "text": "Mature",
+          "html": "<p>Mature</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>'Callow' means immature, inexperienced, or unsophisticated (especially used for a young person).</p><p>Inexperienced ✓ — same meaning.</p><p>Experienced, Wise, Mature are opposites of callow.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q77",
+      "number": 77,
+      "question": "Select the most appropriate antonym of the given word. Placatory",
+      "questionHtml": "<p>Select the most appropriate antonym of the given word. Placatory</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pacifying",
+          "html": "<p>Pacifying</p>"
+        },
+        {
+          "id": "B",
+          "text": "Soothing",
+          "html": "<p>Soothing</p>"
+        },
+        {
+          "id": "C",
+          "text": "Aggravating",
+          "html": "<p>Aggravating</p>"
+        },
+        {
+          "id": "D",
+          "text": "Conciliatory",
+          "html": "<p>Conciliatory</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>'Placatory' means intended to calm or pacify someone.</p><p>Aggravating ✓ — opposite meaning (making something worse, provoking).</p><p>Pacifying, Soothing, Conciliatory are all synonyms of placatory.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q78",
+      "number": 78,
+      "question": "Choose the correct meaning of idiom: Blow hot and cold",
+      "questionHtml": "<p>Choose the correct meaning of idiom:</p><p>Blow hot and cold</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "To change one's mood or opinion frequently",
+          "html": "<p>To change one's mood or opinion frequently</p>"
+        },
+        {
+          "id": "B",
+          "text": "To talk boastfully",
+          "html": "<p>To talk boastfully</p>"
+        },
+        {
+          "id": "C",
+          "text": "To enjoy both success and failure",
+          "html": "<p>To enjoy both success and failure</p>"
+        },
+        {
+          "id": "D",
+          "text": "To remain consistent in behavior",
+          "html": "<p>To remain consistent in behavior</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The idiom 'Blow hot and cold' means to keep changing one's attitude, opinion, or feelings about something — being inconsistent.</p><p>Option 2 (boasting), option 3 (mixed outcomes), and option 4 (consistency — actually the opposite) do not match the meaning.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q79",
+      "number": 79,
+      "question": "Select the most appropriate antonym of the given word. Fulsome",
+      "questionHtml": "<p>Select the most appropriate antonym of the given word. Fulsome</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Overdone",
+          "html": "<p>Overdone</p>"
+        },
+        {
+          "id": "B",
+          "text": "Sincere",
+          "html": "<p>Sincere</p>"
+        },
+        {
+          "id": "C",
+          "text": "Excessive",
+          "html": "<p>Excessive</p>"
+        },
+        {
+          "id": "D",
+          "text": "Lavish",
+          "html": "<p>Lavish</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>'Fulsome' means excessive, overdone praise or flattery — often insincere.</p><p>Sincere ✓ — opposite (genuine, honest).</p><p>Overdone, Excessive, and Lavish are synonyms of fulsome.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q80",
+      "number": 80,
+      "question": "Spot the correct spelling of body-position sense.",
+      "questionHtml": "<p>Spot the correct spelling of body-position sense.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Propriozeption",
+          "html": "<p>Propriozeption</p>"
+        },
+        {
+          "id": "B",
+          "text": "Propioception",
+          "html": "<p>Propioception</p>"
+        },
+        {
+          "id": "C",
+          "text": "Proprioception",
+          "html": "<p>Proprioception</p>"
+        },
+        {
+          "id": "D",
+          "text": "Proprioseption",
+          "html": "<p>Proprioseption</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct spelling is 'Proprioception' — the sense of the relative position of one's own body parts and the effort employed in movement.</p><p>Others (Propriozeption, Propioception, Proprioseption) are misspellings.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q81",
+      "number": 81,
+      "question": "Choose the correct one-word substitute for: 'A statement that appears self-contradictory yet may be true'.",
+      "questionHtml": "<p>Choose the correct one-word substitute for: 'A statement that appears self-contradictory yet may be true'.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Axiom",
+          "html": "<p>Axiom</p>"
+        },
+        {
+          "id": "B",
+          "text": "Maxim",
+          "html": "<p>Maxim</p>"
+        },
+        {
+          "id": "C",
+          "text": "Paradox",
+          "html": "<p>Paradox</p>"
+        },
+        {
+          "id": "D",
+          "text": "Irony",
+          "html": "<p>Irony</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Paradox ✓ — a self-contradictory statement that may nonetheless be true.</p><p>Axiom = a self-evident truth.</p><p>Maxim = a short saying expressing a general truth.</p><p>Irony = saying the opposite of what is meant.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q82",
+      "number": 82,
+      "question": "Select the correct option: Scarcely had the satellite deployed ___ it transmitted its first data packet.",
+      "questionHtml": "<p>Select the correct option:</p><p>Scarcely had the satellite deployed ___ it transmitted its first data packet.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "than",
+          "html": "<p>than</p>"
+        },
+        {
+          "id": "B",
+          "text": "when",
+          "html": "<p>when</p>"
+        },
+        {
+          "id": "C",
+          "text": "before",
+          "html": "<p>before</p>"
+        },
+        {
+          "id": "D",
+          "text": "until",
+          "html": "<p>until</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Rule: 'Scarcely / Hardly … when' and 'No sooner … than' are correlative pairs.</p><p>So 'Scarcely had the satellite deployed when it transmitted its first data packet' is correct.</p><p>'Than' pairs with 'no sooner', not 'scarcely'. 'Before' and 'until' do not form correlative pairs with 'scarcely'.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q83",
+      "number": 83,
+      "question": "Select the correct option: ___ having completed the feasibility study, the team requested additional funding.",
+      "questionHtml": "<p>Select the correct option:</p><p>___ having completed the feasibility study, the team requested additional funding.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Having",
+          "html": "<p>Having</p>"
+        },
+        {
+          "id": "B",
+          "text": "On",
+          "html": "<p>On</p>"
+        },
+        {
+          "id": "C",
+          "text": "Upon",
+          "html": "<p>Upon</p>"
+        },
+        {
+          "id": "D",
+          "text": "Despite",
+          "html": "<p>Despite</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>'Upon having completed …' means immediately after completing — the natural participial construction.</p><p>'Having' would be redundant (Having having completed). 'On' is possible but less common with 'having + V3'. 'Despite' implies contrast and changes the meaning.</p><p>Hence 'Upon' fits best.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q84",
+      "number": 84,
+      "question": "Select the correct option: It was imperative that the document ___ signed before the close of business.",
+      "questionHtml": "<p>Select the correct option:</p><p>It was imperative that the document ___ signed before the close of business.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "will be",
+          "html": "<p>will be</p>"
+        },
+        {
+          "id": "B",
+          "text": "was",
+          "html": "<p>was</p>"
+        },
+        {
+          "id": "C",
+          "text": "be",
+          "html": "<p>be</p>"
+        },
+        {
+          "id": "D",
+          "text": "had been",
+          "html": "<p>had been</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>After expressions of necessity such as 'It is/was imperative that …', the subjunctive mood is used: subject + base form of the verb.</p><p>So: 'imperative that the document be signed …' is correct.</p><p>'Will be', 'was', and 'had been' do not follow the subjunctive rule.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q85",
+      "number": 85,
+      "question": "Find the part of the sentence that contains an error: The perception that the guidelines are optional (1)/ rather than compulsory have led (2)/ to widespread inconsistencies in compliance (3)/ across state-level implementations. (4)",
+      "questionHtml": "<p>Find the part of the sentence that contains an error:</p><p>The perception that the guidelines are optional (1)/ rather than compulsory have led (2)/ to widespread inconsistencies in compliance (3)/ across state-level implementations. (4)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(1)",
+          "html": "<p>(1)</p>"
+        },
+        {
+          "id": "B",
+          "text": "(2)",
+          "html": "<p>(2)</p>"
+        },
+        {
+          "id": "C",
+          "text": "(3)",
+          "html": "<p>(3)</p>"
+        },
+        {
+          "id": "D",
+          "text": "(4)",
+          "html": "<p>(4)</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The subject of the sentence is 'The perception' (singular), so the verb must be 'has led', not 'have led'.</p><p>Error is in part (2): 'have led' should be 'has led'.</p><p>Parts (1), (3), and (4) are grammatically correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q86",
+      "number": 86,
+      "question": "Change the following from active to passive: Historians may well reinterpret the artifact after new evidence emerges.",
+      "questionHtml": "<p>Change the following from active to passive:</p><p>Historians may well reinterpret the artifact after new evidence emerges.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The artifact may well be reinterpreted by historians after new evidence emerges.",
+          "html": "<p>The artifact may well be reinterpreted by historians after new evidence emerges.</p>"
+        },
+        {
+          "id": "B",
+          "text": "The artifact may have been reinterpreted by historians after new evidence emerges.",
+          "html": "<p>The artifact may have been reinterpreted by historians after new evidence emerges.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The artifact will be reinterpreted well by historians after new evidence emerges.",
+          "html": "<p>The artifact will be reinterpreted well by historians after new evidence emerges.</p>"
+        },
+        {
+          "id": "D",
+          "text": "The artifact could well be reinterpreting by historians after new evidence emerges.",
+          "html": "<p>The artifact could well be reinterpreting by historians after new evidence emerges.</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Active: Subject (Historians) + may + V1 (reinterpret) + Object (the artifact).</p><p>Passive: Object becomes subject; modal + be + V3.</p><p>So: 'The artifact may well be reinterpreted by historians …' is correct.</p><p>Option 2 changes tense ('may have been'). Option 3 changes modal and word order. Option 4 uses 'reinterpreting' (V-ing), which is incorrect for passive.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q87",
+      "number": 87,
+      "question": "Find the part of the sentence that contains an error: The fact that dissenting opinions are stifled (1)/ without due institutional safeguards (2)/ reflect a worrying trend in democratic regression (3)/ observed across multiple levels of governance. (4)",
+      "questionHtml": "<p>Find the part of the sentence that contains an error:</p><p>The fact that dissenting opinions are stifled (1)/ without due institutional safeguards (2)/ reflect a worrying trend in democratic regression (3)/ observed across multiple levels of governance. (4)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(1)",
+          "html": "<p>(1)</p>"
+        },
+        {
+          "id": "B",
+          "text": "(2)",
+          "html": "<p>(2)</p>"
+        },
+        {
+          "id": "C",
+          "text": "(3)",
+          "html": "<p>(3)</p>"
+        },
+        {
+          "id": "D",
+          "text": "(4)",
+          "html": "<p>(4)</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The subject of the main clause is 'The fact' (singular), so the verb must be 'reflects', not 'reflect'.</p><p>Error is in part (3): 'reflect' should be 'reflects'.</p><p>Parts (1), (2), and (4) are grammatically correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q88",
+      "number": 88,
+      "question": "Select the sentence containing the homonym of the highlighted word: The tripos system at Cambridge remains a model of academic rigor.",
+      "questionHtml": "<p>Select the sentence containing the homonym of the highlighted word:</p><p>The tripos system at Cambridge remains a model of academic rigor.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The tripos involved oral defense and written examination modules.",
+          "html": "<p>The tripos involved oral defense and written examination modules.</p>"
+        },
+        {
+          "id": "B",
+          "text": "He broke his tripos into discrete phases of analysis.",
+          "html": "<p>He broke his tripos into discrete phases of analysis.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The ceremonial tripos stool toppled during the investiture.",
+          "html": "<p>The ceremonial tripos stool toppled during the investiture.</p>"
+        },
+        {
+          "id": "D",
+          "text": "She passed the natural sciences tripos with distinction.",
+          "html": "<p>She passed the natural sciences tripos with distinction.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>'Tripos' in the given sentence refers to the Cambridge honours examination system.</p><p>The homonym 'tripos' also means a three-legged stool (used historically by examiners at Cambridge).</p><p>Option 3 uses 'tripos' in this stool sense — making it the homonym.</p><p>Options 1, 2, and 4 use 'tripos' in the same exam/system sense as the original.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q89",
+      "number": 89,
+      "question": "Convert the sentence provided below from its passive voice structure to an active voice structure: The land is believed to have been acquired illegally by the company through forged documents.",
+      "questionHtml": "<p>Convert the sentence provided below from its passive voice structure to an active voice structure:</p><p>The land is believed to have been acquired illegally by the company through forged documents.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The company is believed to have acquired the land illegally.",
+          "html": "<p>The company is believed to have acquired the land illegally.</p>"
+        },
+        {
+          "id": "B",
+          "text": "The company acquired the land illegally, as believed.",
+          "html": "<p>The company acquired the land illegally, as believed.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Someone believed the company acquired land illegally.",
+          "html": "<p>Someone believed the company acquired land illegally.</p>"
+        },
+        {
+          "id": "D",
+          "text": "The company had acquired land using forged documents.",
+          "html": "<p>The company had acquired land using forged documents.</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Passive: 'X is believed to have been done by Y' → Active: 'Y is believed to have done X'.</p><p>Thus: 'The company is believed to have acquired the land illegally' is the correct active form.</p><p>Option 2 changes the tense and structure. Option 3 uses 'Someone believed' (no longer passive-to-active conversion of given sentence). Option 4 removes 'is believed' which alters meaning.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q90",
+      "number": 90,
+      "question": "Read the following passage and answer the question based on the passage: Cricket, as a sport, has continually evolved in response to changing audience preferences and technological advancements. Among its many formats, Test cricket and One Day Internationals (ODIs) represent two contrasting philosophies—one rooted in endurance and strategy, the other in dynamism and entertainment. Test cricket, often regarded as the pinnacle of the sport, is a format that unfolds over five days, demanding exceptional levels of patience, technique, and mental resilience. It offers players the opportunity to exhibit classical skills and tactical acumen, where the fluctuating tempo mirrors the rhythm of real life—unpredictable, slow-burning, and layered. For purists, Test cricket is an art form, rewarding not merely flamboyance but consistency and grit. In contrast, ODIs compress the drama into a single day. With limited overs, this format prioritizes aggressive batting, innovative bowling variations, and strategic field placements. The adrenaline-infused pace of ODIs appeals to a broader demographic, especially in an era of dwindling attention spans and time constraints. For broadcasters and advertisers, the shorter format offers commercial viability, making it a lucrative spectacle. However, critics argue that the commercialization of ODIs has come at the expense of depth and nuance. In pursuit of viewership, substance often gives way to spectacle. Conversely, defenders of Test cricket lament its declining audience, attributing it to an increasingly entertainment-driven sports culture. Yet, occasional high-stakes encounters—like the Ashes or India-Australia series—still manage to ignite global interest. The ongoing debate between formats is not merely about preference, but about the identity of the sport itself. While both formats have their merits, the challenge lies in preserving the sanctity of Test cricket without undermining the accessibility of ODIs—a delicate balance that cricketing authorities must negotiate in the years ahead. Which of the following best captures the essence of Test cricket, as described in the passage?",
+      "questionHtml": "<p>Read the following passage and answer the question based on the passage:</p><p>Cricket, as a sport, has continually evolved in response to changing audience preferences and technological advancements. Among its many formats, Test cricket and One Day Internationals (ODIs) represent two contrasting philosophies—one rooted in endurance and strategy, the other in dynamism and entertainment. Test cricket, often regarded as the pinnacle of the sport, is a format that unfolds over five days, demanding exceptional levels of patience, technique, and mental resilience. It offers players the opportunity to exhibit classical skills and tactical acumen, where the fluctuating tempo mirrors the rhythm of real life—unpredictable, slow-burning, and layered. For purists, Test cricket is an art form, rewarding not merely flamboyance but consistency and grit. In contrast, ODIs compress the drama into a single day. With limited overs, this format prioritizes aggressive batting, innovative bowling variations, and strategic field placements. The adrenaline-infused pace of ODIs appeals to a broader demographic, especially in an era of dwindling attention spans and time constraints. For broadcasters and advertisers, the shorter format offers commercial viability, making it a lucrative spectacle. However, critics argue that the commercialization of ODIs has come at the expense of depth and nuance. In pursuit of viewership, substance often gives way to spectacle. Conversely, defenders of Test cricket lament its declining audience, attributing it to an increasingly entertainment-driven sports culture. Yet, occasional high-stakes encounters—like the Ashes or India-Australia series—still manage to ignite global interest. The ongoing debate between formats is not merely about preference, but about the identity of the sport itself. While both formats have their merits, the challenge lies in preserving the sanctity of Test cricket without undermining the accessibility of ODIs—a delicate balance that cricketing authorities must negotiate in the years ahead.</p><p>Which of the following best captures the essence of Test cricket, as described in the passage?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is long and often boring",
+          "html": "<p>It is long and often boring</p>"
+        },
+        {
+          "id": "B",
+          "text": "It reflects complexity and unpredictability",
+          "html": "<p>It reflects complexity and unpredictability</p>"
+        },
+        {
+          "id": "C",
+          "text": "It includes domestic and emotional elements",
+          "html": "<p>It includes domestic and emotional elements</p>"
+        },
+        {
+          "id": "D",
+          "text": "It is nostalgic and traditional",
+          "html": "<p>It is nostalgic and traditional</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The passage calls Test cricket 'unpredictable, slow-burning, and layered' and a rhythm that 'mirrors real life', rewarding 'consistency and grit'. This captures the idea of complexity and unpredictability.</p><p>Option 1 is a negative oversimplification not implied by the passage.</p><p>Option 3 (domestic/emotional) and Option 4 (nostalgic/traditional) are not the essence highlighted in the passage.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q91",
+      "number": 91,
+      "question": "Read the following passage and answer the question based on the passage: Cricket, as a sport, has continually evolved in response to changing audience preferences and technological advancements. Among its many formats, Test cricket and One Day Internationals (ODIs) represent two contrasting philosophies—one rooted in endurance and strategy, the other in dynamism and entertainment. Test cricket, often regarded as the pinnacle of the sport, is a format that unfolds over five days, demanding exceptional levels of patience, technique, and mental resilience. It offers players the opportunity to exhibit classical skills and tactical acumen, where the fluctuating tempo mirrors the rhythm of real life—unpredictable, slow-burning, and layered. For purists, Test cricket is an art form, rewarding not merely flamboyance but consistency and grit. In contrast, ODIs compress the drama into a single day. With limited overs, this format prioritizes aggressive batting, innovative bowling variations, and strategic field placements. The adrenaline-infused pace of ODIs appeals to a broader demographic, especially in an era of dwindling attention spans and time constraints. For broadcasters and advertisers, the shorter format offers commercial viability, making it a lucrative spectacle. However, critics argue that the commercialization of ODIs has come at the expense of depth and nuance. In pursuit of viewership, substance often gives way to spectacle. Conversely, defenders of Test cricket lament its declining audience, attributing it to an increasingly entertainment-driven sports culture. Yet, occasional high-stakes encounters—like the Ashes or India-Australia series—still manage to ignite global interest. The ongoing debate between formats is not merely about preference, but about the identity of the sport itself. While both formats have their merits, the challenge lies in preserving the sanctity of Test cricket without undermining the accessibility of ODIs—a delicate balance that cricketing authorities must negotiate in the years ahead. Which of the following is a criticism of ODIs mentioned in the passage?",
+      "questionHtml": "<p>Read the following passage and answer the question based on the passage:</p><p>Cricket, as a sport, has continually evolved in response to changing audience preferences and technological advancements. Among its many formats, Test cricket and One Day Internationals (ODIs) represent two contrasting philosophies—one rooted in endurance and strategy, the other in dynamism and entertainment. Test cricket, often regarded as the pinnacle of the sport, is a format that unfolds over five days, demanding exceptional levels of patience, technique, and mental resilience. It offers players the opportunity to exhibit classical skills and tactical acumen, where the fluctuating tempo mirrors the rhythm of real life—unpredictable, slow-burning, and layered. For purists, Test cricket is an art form, rewarding not merely flamboyance but consistency and grit. In contrast, ODIs compress the drama into a single day. With limited overs, this format prioritizes aggressive batting, innovative bowling variations, and strategic field placements. The adrenaline-infused pace of ODIs appeals to a broader demographic, especially in an era of dwindling attention spans and time constraints. For broadcasters and advertisers, the shorter format offers commercial viability, making it a lucrative spectacle. However, critics argue that the commercialization of ODIs has come at the expense of depth and nuance. In pursuit of viewership, substance often gives way to spectacle. Conversely, defenders of Test cricket lament its declining audience, attributing it to an increasingly entertainment-driven sports culture. Yet, occasional high-stakes encounters—like the Ashes or India-Australia series—still manage to ignite global interest. The ongoing debate between formats is not merely about preference, but about the identity of the sport itself. While both formats have their merits, the challenge lies in preserving the sanctity of Test cricket without undermining the accessibility of ODIs—a delicate balance that cricketing authorities must negotiate in the years ahead.</p><p>Which of the following is a criticism of ODIs mentioned in the passage?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Too long for modern viewers",
+          "html": "<p>Too long for modern viewers</p>"
+        },
+        {
+          "id": "B",
+          "text": "Lack of competitiveness",
+          "html": "<p>Lack of competitiveness</p>"
+        },
+        {
+          "id": "C",
+          "text": "Loss of depth due to over-commercialization",
+          "html": "<p>Loss of depth due to over-commercialization</p>"
+        },
+        {
+          "id": "D",
+          "text": "Fewer international tournaments",
+          "html": "<p>Fewer international tournaments</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The passage states: 'critics argue that the commercialization of ODIs has come at the expense of depth and nuance. In pursuit of viewership, substance often gives way to spectacle'.</p><p>This directly matches 'Loss of depth due to over-commercialization'.</p><p>Other options are not mentioned in the passage.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q92",
+      "number": 92,
+      "question": "Read the following passage and answer the question based on the passage: Cricket, as a sport, has continually evolved in response to changing audience preferences and technological advancements. Among its many formats, Test cricket and One Day Internationals (ODIs) represent two contrasting philosophies—one rooted in endurance and strategy, the other in dynamism and entertainment. Test cricket, often regarded as the pinnacle of the sport, is a format that unfolds over five days, demanding exceptional levels of patience, technique, and mental resilience. It offers players the opportunity to exhibit classical skills and tactical acumen, where the fluctuating tempo mirrors the rhythm of real life—unpredictable, slow-burning, and layered. For purists, Test cricket is an art form, rewarding not merely flamboyance but consistency and grit. In contrast, ODIs compress the drama into a single day. With limited overs, this format prioritizes aggressive batting, innovative bowling variations, and strategic field placements. The adrenaline-infused pace of ODIs appeals to a broader demographic, especially in an era of dwindling attention spans and time constraints. For broadcasters and advertisers, the shorter format offers commercial viability, making it a lucrative spectacle. However, critics argue that the commercialization of ODIs has come at the expense of depth and nuance. In pursuit of viewership, substance often gives way to spectacle. Conversely, defenders of Test cricket lament its declining audience, attributing it to an increasingly entertainment-driven sports culture. Yet, occasional high-stakes encounters—like the Ashes or India-Australia series—still manage to ignite global interest. The ongoing debate between formats is not merely about preference, but about the identity of the sport itself. While both formats have their merits, the challenge lies in preserving the sanctity of Test cricket without undermining the accessibility of ODIs—a delicate balance that cricketing authorities must negotiate in the years ahead. How are Test cricket and ODIs contrasted in terms of viewer appeal?",
+      "questionHtml": "<p>Read the following passage and answer the question based on the passage:</p><p>Cricket, as a sport, has continually evolved in response to changing audience preferences and technological advancements. Among its many formats, Test cricket and One Day Internationals (ODIs) represent two contrasting philosophies—one rooted in endurance and strategy, the other in dynamism and entertainment. Test cricket, often regarded as the pinnacle of the sport, is a format that unfolds over five days, demanding exceptional levels of patience, technique, and mental resilience. It offers players the opportunity to exhibit classical skills and tactical acumen, where the fluctuating tempo mirrors the rhythm of real life—unpredictable, slow-burning, and layered. For purists, Test cricket is an art form, rewarding not merely flamboyance but consistency and grit. In contrast, ODIs compress the drama into a single day. With limited overs, this format prioritizes aggressive batting, innovative bowling variations, and strategic field placements. The adrenaline-infused pace of ODIs appeals to a broader demographic, especially in an era of dwindling attention spans and time constraints. For broadcasters and advertisers, the shorter format offers commercial viability, making it a lucrative spectacle. However, critics argue that the commercialization of ODIs has come at the expense of depth and nuance. In pursuit of viewership, substance often gives way to spectacle. Conversely, defenders of Test cricket lament its declining audience, attributing it to an increasingly entertainment-driven sports culture. Yet, occasional high-stakes encounters—like the Ashes or India-Australia series—still manage to ignite global interest. The ongoing debate between formats is not merely about preference, but about the identity of the sport itself. While both formats have their merits, the challenge lies in preserving the sanctity of Test cricket without undermining the accessibility of ODIs—a delicate balance that cricketing authorities must negotiate in the years ahead.</p><p>How are Test cricket and ODIs contrasted in terms of viewer appeal?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tests are faster and more entertaining",
+          "html": "<p>Tests are faster and more entertaining</p>"
+        },
+        {
+          "id": "B",
+          "text": "ODIs are only popular among senior fans",
+          "html": "<p>ODIs are only popular among senior fans</p>"
+        },
+        {
+          "id": "C",
+          "text": "Tests reward showmanship over skills",
+          "html": "<p>Tests reward showmanship over skills</p>"
+        },
+        {
+          "id": "D",
+          "text": "ODIs cater to shorter attention spans",
+          "html": "<p>ODIs cater to shorter attention spans</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The passage states that the 'adrenaline-infused pace of ODIs appeals to a broader demographic, especially in an era of dwindling attention spans and time constraints'.</p><p>This matches: 'ODIs cater to shorter attention spans'.</p><p>The other options either reverse the actual contrast or are not stated.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q93",
+      "number": 93,
+      "question": "Read the following passage and answer the question based on the passage: Cricket, as a sport, has continually evolved in response to changing audience preferences and technological advancements. Among its many formats, Test cricket and One Day Internationals (ODIs) represent two contrasting philosophies—one rooted in endurance and strategy, the other in dynamism and entertainment. Test cricket, often regarded as the pinnacle of the sport, is a format that unfolds over five days, demanding exceptional levels of patience, technique, and mental resilience. It offers players the opportunity to exhibit classical skills and tactical acumen, where the fluctuating tempo mirrors the rhythm of real life—unpredictable, slow-burning, and layered. For purists, Test cricket is an art form, rewarding not merely flamboyance but consistency and grit. In contrast, ODIs compress the drama into a single day. With limited overs, this format prioritizes aggressive batting, innovative bowling variations, and strategic field placements. The adrenaline-infused pace of ODIs appeals to a broader demographic, especially in an era of dwindling attention spans and time constraints. For broadcasters and advertisers, the shorter format offers commercial viability, making it a lucrative spectacle. However, critics argue that the commercialization of ODIs has come at the expense of depth and nuance. In pursuit of viewership, substance often gives way to spectacle. Conversely, defenders of Test cricket lament its declining audience, attributing it to an increasingly entertainment-driven sports culture. Yet, occasional high-stakes encounters—like the Ashes or India-Australia series—still manage to ignite global interest. The ongoing debate between formats is not merely about preference, but about the identity of the sport itself. While both formats have their merits, the challenge lies in preserving the sanctity of Test cricket without undermining the accessibility of ODIs—a delicate balance that cricketing authorities must negotiate in the years ahead. What tone does the author adopt toward the preservation of Test cricket?",
+      "questionHtml": "<p>Read the following passage and answer the question based on the passage:</p><p>Cricket, as a sport, has continually evolved in response to changing audience preferences and technological advancements. Among its many formats, Test cricket and One Day Internationals (ODIs) represent two contrasting philosophies—one rooted in endurance and strategy, the other in dynamism and entertainment. Test cricket, often regarded as the pinnacle of the sport, is a format that unfolds over five days, demanding exceptional levels of patience, technique, and mental resilience. It offers players the opportunity to exhibit classical skills and tactical acumen, where the fluctuating tempo mirrors the rhythm of real life—unpredictable, slow-burning, and layered. For purists, Test cricket is an art form, rewarding not merely flamboyance but consistency and grit. In contrast, ODIs compress the drama into a single day. With limited overs, this format prioritizes aggressive batting, innovative bowling variations, and strategic field placements. The adrenaline-infused pace of ODIs appeals to a broader demographic, especially in an era of dwindling attention spans and time constraints. For broadcasters and advertisers, the shorter format offers commercial viability, making it a lucrative spectacle. However, critics argue that the commercialization of ODIs has come at the expense of depth and nuance. In pursuit of viewership, substance often gives way to spectacle. Conversely, defenders of Test cricket lament its declining audience, attributing it to an increasingly entertainment-driven sports culture. Yet, occasional high-stakes encounters—like the Ashes or India-Australia series—still manage to ignite global interest. The ongoing debate between formats is not merely about preference, but about the identity of the sport itself. While both formats have their merits, the challenge lies in preserving the sanctity of Test cricket without undermining the accessibility of ODIs—a delicate balance that cricketing authorities must negotiate in the years ahead.</p><p>What tone does the author adopt toward the preservation of Test cricket?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indifferent",
+          "html": "<p>Indifferent</p>"
+        },
+        {
+          "id": "B",
+          "text": "Hopeful and critical",
+          "html": "<p>Hopeful and critical</p>"
+        },
+        {
+          "id": "C",
+          "text": "Mocking and dismissive",
+          "html": "<p>Mocking and dismissive</p>"
+        },
+        {
+          "id": "D",
+          "text": "Casual and informal",
+          "html": "<p>Casual and informal</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The author calls Test cricket 'an art form' (hopeful, valuing it) but acknowledges its 'declining audience' and the need to preserve it without harming ODIs — a balanced, critical reflection.</p><p>The tone is hopeful (about preserving Test cricket) and critical (about over-commercialization).</p><p>It is neither indifferent, mocking, nor casual.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q94",
+      "number": 94,
+      "question": "Read the following passage and answer the question based on the passage: Cricket, as a sport, has continually evolved in response to changing audience preferences and technological advancements. Among its many formats, Test cricket and One Day Internationals (ODIs) represent two contrasting philosophies—one rooted in endurance and strategy, the other in dynamism and entertainment. Test cricket, often regarded as the pinnacle of the sport, is a format that unfolds over five days, demanding exceptional levels of patience, technique, and mental resilience. It offers players the opportunity to exhibit classical skills and tactical acumen, where the fluctuating tempo mirrors the rhythm of real life—unpredictable, slow-burning, and layered. For purists, Test cricket is an art form, rewarding not merely flamboyance but consistency and grit. In contrast, ODIs compress the drama into a single day. With limited overs, this format prioritizes aggressive batting, innovative bowling variations, and strategic field placements. The adrenaline-infused pace of ODIs appeals to a broader demographic, especially in an era of dwindling attention spans and time constraints. For broadcasters and advertisers, the shorter format offers commercial viability, making it a lucrative spectacle. However, critics argue that the commercialization of ODIs has come at the expense of depth and nuance. In pursuit of viewership, substance often gives way to spectacle. Conversely, defenders of Test cricket lament its declining audience, attributing it to an increasingly entertainment-driven sports culture. Yet, occasional high-stakes encounters—like the Ashes or India-Australia series—still manage to ignite global interest. The ongoing debate between formats is not merely about preference, but about the identity of the sport itself. While both formats have their merits, the challenge lies in preserving the sanctity of Test cricket without undermining the accessibility of ODIs—a delicate balance that cricketing authorities must negotiate in the years ahead. What is the central concern raised in the passage?",
+      "questionHtml": "<p>Read the following passage and answer the question based on the passage:</p><p>Cricket, as a sport, has continually evolved in response to changing audience preferences and technological advancements. Among its many formats, Test cricket and One Day Internationals (ODIs) represent two contrasting philosophies—one rooted in endurance and strategy, the other in dynamism and entertainment. Test cricket, often regarded as the pinnacle of the sport, is a format that unfolds over five days, demanding exceptional levels of patience, technique, and mental resilience. It offers players the opportunity to exhibit classical skills and tactical acumen, where the fluctuating tempo mirrors the rhythm of real life—unpredictable, slow-burning, and layered. For purists, Test cricket is an art form, rewarding not merely flamboyance but consistency and grit. In contrast, ODIs compress the drama into a single day. With limited overs, this format prioritizes aggressive batting, innovative bowling variations, and strategic field placements. The adrenaline-infused pace of ODIs appeals to a broader demographic, especially in an era of dwindling attention spans and time constraints. For broadcasters and advertisers, the shorter format offers commercial viability, making it a lucrative spectacle. However, critics argue that the commercialization of ODIs has come at the expense of depth and nuance. In pursuit of viewership, substance often gives way to spectacle. Conversely, defenders of Test cricket lament its declining audience, attributing it to an increasingly entertainment-driven sports culture. Yet, occasional high-stakes encounters—like the Ashes or India-Australia series—still manage to ignite global interest. The ongoing debate between formats is not merely about preference, but about the identity of the sport itself. While both formats have their merits, the challenge lies in preserving the sanctity of Test cricket without undermining the accessibility of ODIs—a delicate balance that cricketing authorities must negotiate in the years ahead.</p><p>What is the central concern raised in the passage?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lack of good players for both formats",
+          "html": "<p>Lack of good players for both formats</p>"
+        },
+        {
+          "id": "B",
+          "text": "Scheduling difficulties between formats",
+          "html": "<p>Scheduling difficulties between formats</p>"
+        },
+        {
+          "id": "C",
+          "text": "Balancing tradition with commercial interests",
+          "html": "<p>Balancing tradition with commercial interests</p>"
+        },
+        {
+          "id": "D",
+          "text": "Reducing cricket formats to two only",
+          "html": "<p>Reducing cricket formats to two only</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The passage concludes that the 'challenge lies in preserving the sanctity of Test cricket without undermining the accessibility of ODIs — a delicate balance that cricketing authorities must negotiate'.</p><p>This is the central concern — balancing tradition (Test cricket) with commercial interests (ODIs).</p><p>The other options are not the main concern of the passage.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q95",
+      "number": 95,
+      "question": "Choose the most suitable option to replace the highlighted part of the sentence: I was discussing about the issue with him.",
+      "questionHtml": "<p>Choose the most suitable option to replace the highlighted part of the sentence:</p><p>I was discussing about the issue with him.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "discussed regarding the issue",
+          "html": "<p>discussed regarding the issue</p>"
+        },
+        {
+          "id": "B",
+          "text": "had discussion on issue",
+          "html": "<p>had discussion on issue</p>"
+        },
+        {
+          "id": "C",
+          "text": "discussing the issue with him",
+          "html": "<p>discussing the issue with him</p>"
+        },
+        {
+          "id": "D",
+          "text": "had been discussing about issue",
+          "html": "<p>had been discussing about issue</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The verb 'discuss' is transitive and is not followed by the preposition 'about'. The correct form is 'discuss + object'.</p><p>So: 'I was discussing the issue with him.' is correct.</p><p>Options 1, 2, and 4 either keep the wrong 'about', use awkward constructions, or change the tense unnecessarily.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q96",
+      "number": 96,
+      "question": "Choose the most suitable option to replace the highlighted part of the sentence: You must prevent your brother to do such things.",
+      "questionHtml": "<p>Choose the most suitable option to replace the highlighted part of the sentence:</p><p>You must prevent your brother to do such things.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "from doing such things",
+          "html": "<p>from doing such things</p>"
+        },
+        {
+          "id": "B",
+          "text": "of doing such things",
+          "html": "<p>of doing such things</p>"
+        },
+        {
+          "id": "C",
+          "text": "not to do such things",
+          "html": "<p>not to do such things</p>"
+        },
+        {
+          "id": "D",
+          "text": "doing such things",
+          "html": "<p>doing such things</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Rule: 'prevent' is followed by 'from + V-ing' — 'prevent someone from doing something'.</p><p>Correct: 'You must prevent your brother from doing such things.'</p><p>Option 2 ('of doing') is used with words like 'accuse'. Options 3 ('not to do') and 4 ('doing such things' without preposition) are grammatically incorrect with 'prevent'.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q97",
+      "number": 97,
+      "question": "A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech. She said to me, \"Open the window.\"",
+      "questionHtml": "<p>A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech.</p><p>She said to me, \"Open the window.\"</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "She told me open the window.",
+          "html": "<p>She told me open the window.</p>"
+        },
+        {
+          "id": "B",
+          "text": "She told me to open the window.",
+          "html": "<p>She told me to open the window.</p>"
+        },
+        {
+          "id": "C",
+          "text": "She told me opening the window.",
+          "html": "<p>She told me opening the window.</p>"
+        },
+        {
+          "id": "D",
+          "text": "She said me to open the window.",
+          "html": "<p>She said me to open the window.</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Rule for imperatives in indirect speech: Subject + told/ordered/asked + object + to + V1.</p><p>Direct 'Open the window' → Indirect: 'to open the window'.</p><p>Reporting verb 'said to' changes to 'told'.</p><p>Hence: 'She told me to open the window.'</p><p>Option 1 omits 'to'. Option 3 uses gerund 'opening' (wrong). Option 4 uses 'said me' (wrong; 'said to me' or 'told me').</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q98",
+      "number": 98,
+      "question": "A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech. She said that they had already left before she arrived.",
+      "questionHtml": "<p>A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech.</p><p>She said that they had already left before she arrived.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "\"They have already left before I arrived,\" she said.",
+          "html": "<p>\"They have already left before I arrived,\" she said.</p>"
+        },
+        {
+          "id": "B",
+          "text": "\"They already left before I arrived,\" she said.",
+          "html": "<p>\"They already left before I arrived,\" she said.</p>"
+        },
+        {
+          "id": "C",
+          "text": "\"They had already left before I arrived,\" she said.",
+          "html": "<p>\"They had already left before I arrived,\" she said.</p>"
+        },
+        {
+          "id": "D",
+          "text": "\"They left before I had arrived,\" she said.",
+          "html": "<p>\"They left before I had arrived,\" she said.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Both events ('had already left' and 'arrived') are completed past actions, with one happening before the other. The past perfect ('had already left') is retained in direct speech to clearly mark the earlier action.</p><p>Pronoun: 'she' (referring to the speaker) → 'I' in direct speech.</p><p>Hence direct: 'They had already left before I arrived,' she said.</p><p>Options 1 and 2 alter the tense and lose the time sequence. Option 4 reverses the order of events.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q99",
+      "number": 99,
+      "question": "Rearrange the following sentences to form a coherent paragraph: 1. This process, known as photosynthesis, is fundamental to life on Earth as it forms the base of most food webs. 2. Plants, algae, and some bacteria possess a unique ability to convert light energy into chemical energy. 3. The captured light energy is then used to synthesize glucose molecules from water and carbon dioxide. 4. It begins with the absorption of photons by chlorophyll pigments within the plant cells.",
+      "questionHtml": "<p>Rearrange the following sentences to form a coherent paragraph:</p><p>1. This process, known as photosynthesis, is fundamental to life on Earth as it forms the base of most food webs.</p><p>2. Plants, algae, and some bacteria possess a unique ability to convert light energy into chemical energy.</p><p>3. The captured light energy is then used to synthesize glucose molecules from water and carbon dioxide.</p><p>4. It begins with the absorption of photons by chlorophyll pigments within the plant cells.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 4, 3, 2",
+          "html": "<p>1, 4, 3, 2</p>"
+        },
+        {
+          "id": "B",
+          "text": "2, 1, 4, 3",
+          "html": "<p>2, 1, 4, 3</p>"
+        },
+        {
+          "id": "C",
+          "text": "4, 3, 2, 1",
+          "html": "<p>4, 3, 2, 1</p>"
+        },
+        {
+          "id": "D",
+          "text": "3, 2, 1, 4",
+          "html": "<p>3, 2, 1, 4</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Sentence 2 introduces the topic (plants/algae/bacteria converting light to chemical energy).</p><p>Sentence 1 names this process (photosynthesis) and gives its importance.</p><p>Sentence 4 begins explaining how it works (absorption of photons).</p><p>Sentence 3 continues the process (using captured energy to make glucose).</p><p>Order: 2 → 1 → 4 → 3.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d41837675848-q100",
+      "number": 100,
+      "question": "Rearrange the following sentences to form a coherent paragraph: 1. This process, a crucial part of the plant's life cycle, is vital for the continued existence of many plant species. 2. Pollination is the transfer of pollen from the male part of a flower to the female part. 3. The transfer can be carried out by various agents, including insects, birds, and wind. 4. Successful pollination leads to fertilization and the subsequent production of seeds and fruits.",
+      "questionHtml": "<p>Rearrange the following sentences to form a coherent paragraph:</p><p>1. This process, a crucial part of the plant's life cycle, is vital for the continued existence of many plant species.</p><p>2. Pollination is the transfer of pollen from the male part of a flower to the female part.</p><p>3. The transfer can be carried out by various agents, including insects, birds, and wind.</p><p>4. Successful pollination leads to fertilization and the subsequent production of seeds and fruits.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 3, 4, 1",
+          "html": "<p>2, 3, 4, 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "3, 4, 1, 2",
+          "html": "<p>3, 4, 1, 2</p>"
+        },
+        {
+          "id": "C",
+          "text": "1, 2, 3, 4",
+          "html": "<p>1, 2, 3, 4</p>"
+        },
+        {
+          "id": "D",
+          "text": "4, 3, 2, 1",
+          "html": "<p>4, 3, 2, 1</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Sentence 2 introduces and defines pollination (topic sentence).</p><p>Sentence 3 describes how the transfer occurs (agents of pollination).</p><p>Sentence 4 describes the result of successful pollination (fertilization, seeds, fruits).</p><p>Sentence 1 concludes with the importance of this process for plant survival.</p><p>Order: 2 → 3 → 4 → 1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

@@ -1,0 +1,934 @@
+{
+  "id": "41de68850593",
+  "provider": "Testbook",
+  "sourceFile": "Average.html",
+  "sourcePath": "Testbook/files/Average.html",
+  "title": "Average",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 212,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "41de68850593-q1",
+      "number": 1,
+      "question": "The marks of a student were entered as 88 instead of 68. Due to this, the average marks of the class increased by 0.5. What is the number of students in the class?",
+      "questionHtml": "The marks of a student were entered as 88 instead of 68. Due to this, the average marks of the class increased by 0.5. What is the number of students in the class?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10",
+          "html": "10"
+        },
+        {
+          "id": "B",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "C",
+          "text": "30",
+          "html": "30"
+        },
+        {
+          "id": "D",
+          "text": "40",
+          "html": "40"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Net increase in total marks = 88 − 68 = 20</p>\n<p>Increase in average marks per student = 0.5</p>\n<p>Number of students = Net increase in total marks ÷ Increase in average marks</p>\n<p>Number of students = 20 ÷ 0.5 = 40</p>\n<p><strong>∴ The correct answer is 40.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Incorrect marks entered = 88</p>\n<p>Correct marks = 68</p>\n<p>Overall increase in average marks = 0.5</p>\n<img src=\"https://cdn.testbook.com/temp_da7283f94c744016b41d25b2bb5b3db9.png/1777705552.png\" style=\"max-width: 450px;\" />\n<p><strong>Formula Used:</strong></p>\n<p>Average = Sum of all observations ÷ Total number of observations</p>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Let the number of students in the class be n and the original average be A.</p>\n<p>⇒ Original total marks = n × A</p>\n<p>⇒ The new total marks = n × A + (88 − 68) = n × A + 20</p>\n<p>⇒ The new average = (n × A + 20) ÷ n</p>\n<p>⇒ Since the average increased by 0.5, New average = A + 0.5</p>\n<p>⇒ A + 20/n = A + 0.5</p>\n<p>⇒ 20/n = 0.5</p>\n<p>⇒ n = 20 ÷ 0.5</p>\n<p>⇒ n = 40</p>\n<p><strong>∴ The correct answer is 40.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Average Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Average = Sum of all items ÷ Total number of items. This implies that Sum = Average × Total items.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Change in Average (Net Deviation)</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If a single value is changed, Change in Average = (New Value − Old Value) ÷ Total number of items. This avoids having to compute the entire sum.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Combined Average</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Combined Average = (n<sub>1</sub>A<sub>1</sub> + n<sub>2</sub>A<sub>2</sub>) ÷ (n<sub>1</sub> + n<sub>2</sub>), useful for finding the aggregate average of multiple distinct groups.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_da7283f94c744016b41d25b2bb5b3db9.png/1777705552.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q2",
+      "number": 2,
+      "question": "The average of 10 numbers is 46. Later it was found that a number 46 was wrongly taken as 53. Find the correct average of the numbers.",
+      "questionHtml": "<span lang=\"EN-IN\" style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">The average of 10 numbers is 46. Later it was found that a number 46 was wrongly taken as 53. Find the correct average of the numbers.</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "45",
+          "html": "45"
+        },
+        {
+          "id": "B",
+          "text": "46",
+          "html": "46"
+        },
+        {
+          "id": "C",
+          "text": "45.3",
+          "html": "45.3"
+        },
+        {
+          "id": "D",
+          "text": "44.9",
+          "html": "44.9"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Net deviation = Correct value − Incorrect value = 46 − 53 = −7</p>\n<p>Correction in average = Net deviation ÷ Number of items = −7 ÷ 10 = −0.7</p>\n<p>Correct Average = Old Average + Correction = 46 − 0.7 = 45.3</p>\n<p><strong>∴ The correct answer is 45.3.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Number of observations (n) = 10</p>\n<p>Incorrect Average = 46</p>\n<p>Incorrect value recorded = 53</p>\n<p>Correct value to be recorded = 46</p>\n<p><strong>Formula Used:</strong></p>\n<p>Average = Sum of observations ÷ Total number of observations</p>\n<svg width=\"420\" height=\"200\" viewBox=\"0 0 420 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <rect x=\"40\" y=\"60\" width=\"340\" height=\"40\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"2\" />\n  <text x=\"50\" y=\"85\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\">Incorrect Sum (10 × 46) = 460</text>\n  <line x1=\"310\" y1=\"50\" x2=\"310\" y2=\"110\" stroke=\"#cc0000\" stroke-width=\"2\" stroke-dasharray=\"5,3\" />\n  <rect x=\"310\" y=\"60\" width=\"70\" height=\"40\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"1.5\" />\n  <text x=\"315\" y=\"130\" fill=\"#cc5500\" font-family=\"sans-serif\" font-size=\"12\">Wrong: 53</text>\n  <text x=\"315\" y=\"150\" fill=\"#007700\" font-family=\"sans-serif\" font-size=\"12\">Correct: 46</text>\n  <path d=\"M 330 30 L 360 30\" stroke=\"#cc0000\" stroke-width=\"2\" fill=\"none\" marker-end=\"url(#arrow)\" />\n  <text x=\"230\" y=\"35\" fill=\"#cc0000\" font-family=\"sans-serif\" font-size=\"12\">Difference = −7</text>\n  <text x=\"40\" y=\"180\" fill=\"#2255cc\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\">Correct Sum = 460 − 7 = 453</text>\n</svg>\n<p>⇒ Incorrect Sum = 10 × 46 = 460</p>\n<p>⇒ Correct Sum = Incorrect Sum − Incorrect Value + Correct Value</p>\n<p>⇒ Correct Sum = 460 − 53 + 46 = 453</p>\n<p>⇒ Correct Average = Correct Sum ÷ n</p>\n<p>⇒ Correct Average = 453 ÷ 10 = 45.3</p>\n<p><strong>∴ The correct answer is 45.3.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Correction of Average</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Correct Average = Incorrect Average + [(Sum of Correct values − Sum of Incorrect values) ÷ n].</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Change in Observations</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If every observation is increased or decreased by a constant 'k', the new average also increases or decreases by 'k'.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Weighted Average</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When two groups with averages A<sub>1</sub> and A<sub>2</sub> and sizes n<sub>1</sub> and n<sub>2</sub> are combined, the new average = (n<sub>1</sub>A<sub>1</sub> + n<sub>2</sub>A<sub>2</sub>) ÷ (n<sub>1</sub> + n<sub>2</sub>).</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q3",
+      "number": 3,
+      "question": "The average of 15 numbers is 30, while the average of 13 of these numbers is 32. If the remaining two numbers are equal, then what is each of the two numbers?",
+      "questionHtml": "The average of 15 numbers is 30, while the average of 13 of these numbers is 32. If the remaining two numbers are equal, then what is each of the two numbers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "17",
+          "html": "17"
+        },
+        {
+          "id": "B",
+          "text": "31",
+          "html": "31"
+        },
+        {
+          "id": "C",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "D",
+          "text": "34",
+          "html": "34"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Net deviation of 13 numbers from the overall average 30 = 13 × (32 − 30) = +26.</p>\n<p>To balance the total average, the deviation of the remaining 2 numbers must be −26.</p>\n<p>Individual deviation for each of the 2 numbers = −26 ÷ 2 = −13.</p>\n<p>Value of each number = Overall Average + Individual Deviation = 30 − 13 = 17.</p>\n<p><strong>∴ The correct answer is 17.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Average of 15 numbers = 30</p>\n<p>Average of 13 numbers = 32</p>\n<p>Remaining 2 numbers are equal (Let each be x).</p>\n<p><strong>Formula Used:</strong></p>\n<p>Sum of observations = Average × Number of observations</p>\n<svg width=\"420\" height=\"200\" viewBox=\"0 0 420 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <rect x=\"40\" y=\"60\" width=\"260\" height=\"50\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"2\" />\n  <rect x=\"300\" y=\"60\" width=\"80\" height=\"50\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"2\" />\n  <text x=\"170\" y=\"50\" text-anchor=\"middle\" fill=\"#222222\" font-size=\"13\" font-weight=\"bold\">13 Numbers</text>\n  <text x=\"170\" y=\"90\" text-anchor=\"middle\" fill=\"#2255cc\" font-size=\"13\">Avg = 32</text>\n  <text x=\"340\" y=\"50\" text-anchor=\"middle\" fill=\"#222222\" font-size=\"13\" font-weight=\"bold\">2 Numbers</text>\n  <text x=\"340\" y=\"90\" text-anchor=\"middle\" fill=\"#cc5500\" font-size=\"13\">Avg = x</text>\n  <line x1=\"40\" y1=\"150\" x2=\"380\" y2=\"150\" stroke=\"#2255cc\" stroke-width=\"2\" />\n  <circle cx=\"40\" cy=\"150\" r=\"3\" fill=\"#2255cc\" />\n  <circle cx=\"380\" cy=\"150\" r=\"3\" fill=\"#2255cc\" />\n  <text x=\"210\" y=\"175\" text-anchor=\"middle\" fill=\"#222222\" font-size=\"14\" font-weight=\"bold\">Total 15 Numbers (Average = 30)</text>\n</svg>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Total sum of 15 numbers = 15 × 30 = 450</p>\n<p>⇒ Sum of 13 numbers = 13 × 32 = 416</p>\n<p>⇒ Sum of remaining 2 numbers = Total sum − Sum of 13 numbers</p>\n<p>⇒ x + x = 450 − 416</p>\n<p>⇒ 2x = 34</p>\n<p>⇒ x = 34 ÷ 2 = 17</p>\n<p><strong>∴ The correct answer is 17.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Weighted Average Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The overall average of two groups is given by: Avg<sub>total</sub> = (n<sub>1</sub> × A<sub>1</sub> + n<sub>2</sub> × A<sub>2</sub>) ÷ (n<sub>1</sub> + n<sub>2</sub>).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Net Deviation Rule</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The sum of deviations of all the observations from their arithmetic mean is always zero (∑(x<sub>i</sub> − mean) = 0).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Inclusion/Exclusion in Average</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Value of new observation = New Average + (Number of old observations × Change in Average).</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q4",
+      "number": 4,
+      "question": "The average age of 30 girls is 13 years. The average age of the first 18 girls is 15 years. Find out the average of the remaining 12 girls.",
+      "questionHtml": "The average age of 30 girls is 13 years. The average age of the first 18 girls is 15 years. Find out the average of the remaining 12 girls.",
+      "options": [
+        {
+          "id": "A",
+          "text": "15",
+          "html": "15"
+        },
+        {
+          "id": "B",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "C",
+          "text": "10",
+          "html": "10"
+        },
+        {
+          "id": "D",
+          "text": "12.5",
+          "html": "12.5"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Assumed average of 30 girls = 13 years.</p>\n<p>Deviation for 18 girls = (15 − 13) = +2 years each.</p>\n<p>Total surplus age = 18 × 2 = +36 years.</p>\n<p>This surplus must be balanced by the remaining 12 girls: −36 ÷ 12 = −3 years per girl.</p>\n<p>Average age of 12 girls = 13 − 3 = 10 years.</p>\n<p><strong>∴ The correct answer is 10 years.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p>Given:</p>\n<p>Total girls (n<sub>total</sub>) = 30, Total Average (A<sub>total</sub>) = 13</p>\n<p>Group 1 (n<sub>1</sub>) = 18, Average 1 (A<sub>1</sub>) = 15</p>\n<p>Remaining (n<sub>2</sub>) = 30 − 18 = 12</p>\n<p>Formula Used: Total Sum = Number of girls × Average age</p>\n<svg width='420' height='200' viewBox='0 0 420 200' xmlns='http://www.w3.org/2000/svg' style='display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;'>\n  <rect x='40' y='60' width='340' height='40' fill='#ddeeff' stroke='#2255cc' stroke-width='2' />\n  <line x1='244' y1='60' x2='244' y2='100' stroke='#cc0000' stroke-width='2' stroke-dasharray='5,3' />\n  <text x='142' y='85' fill='#222222' font-family='sans-serif' font-size='13' text-anchor='middle'>18 Girls (15 yrs)</text>\n  <text x='314' y='85' fill='#222222' font-family='sans-serif' font-size='13' text-anchor='middle'>12 Girls (?)</text>\n  <line x1='40' y1='130' x2='380' y2='130' stroke='#2255cc' stroke-width='1.5' />\n  <line x1='40' y1='125' x2='40' y2='135' stroke='#2255cc' stroke-width='1.5' />\n  <line x1='380' y1='125' x2='380' y2='135' stroke='#2255cc' stroke-width='1.5' />\n  <text x='210' y='150' fill='#2255cc' font-family='sans-serif' font-size='13' font-weight='bold' text-anchor='middle'>Total: 30 Girls (Avg = 13 yrs)</text>\n  <text x='210' y='180' fill='#cc5500' font-family='sans-serif' font-size='13' font-weight='bold' text-anchor='middle'>Sum = 30 × 13 = 390 years</text>\n</svg>\n<p>⇒ Total age of 30 girls = 30 × 13 = 390 years</p>\n<p>⇒ Total age of 18 girls = 18 × 15 = 270 years</p>\n<p>⇒ Total age of remaining 12 girls = 390 − 270 = 120 years</p>\n<p>⇒ Average age of remaining 12 girls = 120 ÷ 12 = 10 years</p>\n<p><strong>∴ The correct answer is 10 years.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Weighted Average Formula</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When a group is divided into two parts, the combined average is given by A = (n<sub>1</sub>A<sub>1</sub> + n<sub>2</sub>A<sub>2</sub>) ÷ (n<sub>1</sub> + n<sub>2</sub>).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Net Deviation Rule</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The sum of deviations of all observations from their arithmetic mean is always zero. This is used for faster balancing in grouping problems.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Effect of Change in Values</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If each observation is increased, decreased, multiplied, or divided by a constant 'k', the average also changes by the same operation 'k'.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q5",
+      "number": 5,
+      "question": "The average age of a class of 40 students and a teacher reduces by 0.5 years, if we exclude the teacher. If the initial average age is 18 years, then what is the age of the teacher?",
+      "questionHtml": "<span style=\"\">The average age of a class of 40 students and a&nbsp;</span><span style=\"\">teacher reduces by 0.5 years, if we exclude the&nbsp;</span><span style=\"\">teacher. If the initial average age is 18 years,&nbsp;</span><span style=\"\">then what is the age of the teacher?</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "41 years",
+          "html": "<span style=\"\">41 years</span>"
+        },
+        {
+          "id": "B",
+          "text": "38 years",
+          "html": "<span style=\"\">38 years</span>"
+        },
+        {
+          "id": "C",
+          "text": "40 years",
+          "html": "<span style=\"\">40 years</span>"
+        },
+        {
+          "id": "D",
+          "text": "39 years",
+          "html": "<span style=\"\">39 years</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span></p>\n\n<p>Age of excluded person = Initial Average + (Remaining members &times; Drop in average)</p>\n\n<p>&rArr; Age of teacher = 18 + (40 &times; 0.5)</p>\n\n<p>&rArr; Age of teacher = 18 + 20</p>\n\n<p>&rArr; Age of teacher = 38 years</p>\n\n<p><strong>&there4; The correct answer is 38 years.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<p><strong>Given:</strong></p>\n\n<p>Number of students = 40</p>\n\n<p>Total persons initially (40 students + 1 teacher) = 41</p>\n\n<p>Initial average age = 18 years</p>\n\n<p>New average age (teacher excluded) = 18 &minus; 0.5 = 17.5 years</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>Total Age = Average Age &times; Number of Persons</p>\n\n<p>Age of Teacher = (Total age of 41 persons) &minus; (Total age of 40 students)</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>&rArr; Total age initially = 41 &times; 18 = 738 years</p>\n\n<p>&rArr; Total age after excluding teacher = 40 &times; 17.5 = 700 years</p>\n\n<p>&rArr; Age of teacher = 738 &minus; 700</p>\n\n<p>&rArr; Age of teacher = 38 years</p>\n\n<p><strong>&there4; The correct answer is 38 years.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Weighted Average</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">When two or more groups with different averages are combined, the combined average is calculated as (n<sub>1</sub>A<sub>1</sub> + n<sub>2</sub>A<sub>2</sub>) &divide; (n<sub>1</sub> + n<sub>2</sub>).</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Concept of Replacement</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">When a person is replaced by a new person, the change in total value is: New Value &minus; Old Value = Total Members &times; Change in Average.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Concept of Inclusion</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">When a new person joins a group, their value = Old Average + (New Total Members &times; Increase in Average).</p>\n\n<p>&nbsp;</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q6",
+      "number": 6,
+      "question": "The average weight of 14 persons is 76.5 kg. If 3 more persons of weight 82 kg, 75 kg and x kg join them, then the average weight of all the persons increases by 0.5 kg. What is the value of x?",
+      "questionHtml": "The average weight of 14 persons is 76.5 kg. If 3 more persons of weight 82 kg, 75 kg and x kg join them, then the average weight of all the persons increases by 0.5 kg. What is the value of x?",
+      "options": [
+        {
+          "id": "A",
+          "text": "80.5",
+          "html": "80.5"
+        },
+        {
+          "id": "B",
+          "text": "79.5",
+          "html": "79.5"
+        },
+        {
+          "id": "C",
+          "text": "81",
+          "html": "81"
+        },
+        {
+          "id": "D",
+          "text": "85",
+          "html": "85"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Total weight of the persons = 14 × 76.5 = 1071 kg</p><p>Total increased weight = 82 + 75 + x = (157 + x) kg  </p><p>New total weight of the persons = 17 × 77 = 1309 kg</p><p>According to the question-</p><p>⇒ 1071 + 157 + x = 1309  ⇒ x = 1309 - (1071 + 157)</p><p>⇒ x = 81 kg</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q7",
+      "number": 7,
+      "question": "A school conducts 6 terminals. Average marks scored by a student in first 2 terminal exams is 80 and average marks scored by a student in rest of the terminal exams is 140. Find the average of all exams.",
+      "questionHtml": "A school conducts 6 terminals. Average marks scored by a student in first 2 terminal exams is 80 and average marks scored by a student in rest of the terminal exams is 140. Find the average of all exams.",
+      "options": [
+        {
+          "id": "A",
+          "text": "100",
+          "html": "100"
+        },
+        {
+          "id": "B",
+          "text": "140",
+          "html": "140"
+        },
+        {
+          "id": "C",
+          "text": "120",
+          "html": "120"
+        },
+        {
+          "id": "D",
+          "text": "230",
+          "html": "230"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"\">Average of marks = Total marks in all the terminals / No. of terminals </span></p>\n\n<p><span style=\"\">Total marks in all the terminals =(2 x 80) + (4 x 140) = 720</span></p>\n\n<p><span style=\"\">Average marks = 720/6 = 120</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q8",
+      "number": 8,
+      "question": "What is the difference between the average of first 148 even positive numbers and the average of first 129 odd positive numbers ?",
+      "questionHtml": "What is the difference between the average of first 148 even positive numbers and the average of first 129 odd positive numbers ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "21",
+          "html": "21"
+        },
+        {
+          "id": "B",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "C",
+          "text": "23",
+          "html": "23"
+        },
+        {
+          "id": "D",
+          "text": "19",
+          "html": "19"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Average of first n even positive numbers = n + 1</p>\n<p>Average of first n odd positive numbers = n</p>\n<p>Average of first 148 even numbers = 148 + 1 = 149</p>\n<p>Average of first 129 odd numbers = 129</p>\n<p>Required difference = 149 − 129 = 20</p>\n<p><strong>∴ The correct answer is 20.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Number of even numbers (n<sub>1</sub>) = 148</p>\n<p>Number of odd numbers (n<sub>2</sub>) = 129</p>\n<p><strong>Formula Used:</strong></p>\n<p>Sum of first n even numbers = n(n + 1)</p>\n<p>Sum of first n odd numbers = n<sup>2</sup></p>\n<p>Average = Sum ÷ Count</p>\n<img src=\"https://cdn.testbook.com/temp_bccaba4e353f43c390390cc1f3f2eb50.png/1780118333.png\" style=\"max-width: 450px;\" />\n<p><strong>Calculations:</strong></p>\n<p>⇒ Average of first 148 even numbers = [148 × (148 + 1)] ÷ 148 = 149</p>\n<p>⇒ Average of first 129 odd numbers = (129 × 129) ÷ 129 = 129</p>\n<p>⇒ Difference = 149 − 129</p>\n<p>⇒ Difference = 20</p>\n<p><strong>∴ The correct answer is 20.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Sum of first n natural numbers</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The sum is calculated as S = n(n + 1) ÷ 2, and the average is (n + 1) ÷ 2.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Sum of squares of first n natural numbers</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The sum of squares is given by n(n + 1)(2n + 1) ÷ 6.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Sum of cubes of first n natural numbers</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The sum of cubes is [n(n + 1) ÷ 2]<sup>2</sup>, which is the square of the sum of first n natural numbers.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_bccaba4e353f43c390390cc1f3f2eb50.png/1780118333.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q9",
+      "number": 9,
+      "question": "The average of seven consecutive even numbers is 36. What is the difference between the highest and lowest numbers?",
+      "questionHtml": "The average of seven consecutive even numbers is 36. What is the difference between the highest and lowest numbers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "html": "15"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>For n consecutive even or odd numbers, the difference between the largest and smallest number is 2 × (n − 1).</p>\n<p>Number of terms (n) = 7</p>\n<p>Difference = 2 × (7 − 1)</p>\n<p>Difference = 2 × 6 = 12</p>\n<p><strong>∴ The correct answer is 12.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Average of 7 consecutive even numbers = 36</p>\n<p><strong>Formula Used:</strong> Average of consecutive terms in Arithmetic Progression (AP) = Middle Term (if n is odd)</p>\n<svg width=\"420\" height=\"200\" viewBox=\"0 0 420 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <rect x=\"25\" y=\"80\" width=\"45\" height=\"40\" fill=\"none\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"47\" y=\"105\" text-anchor=\"middle\" fill=\"#2255cc\" font-size=\"13\">30</text>\n  <rect x=\"80\" y=\"80\" width=\"45\" height=\"40\" fill=\"none\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"102\" y=\"105\" text-anchor=\"middle\" fill=\"#2255cc\" font-size=\"13\">32</text>\n  <rect x=\"135\" y=\"80\" width=\"45\" height=\"40\" fill=\"none\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"157\" y=\"105\" text-anchor=\"middle\" fill=\"#2255cc\" font-size=\"13\">34</text>\n  <rect x=\"190\" y=\"80\" width=\"45\" height=\"40\" fill=\"none\" stroke=\"#cc5500\" stroke-width=\"2\" />\n  <text x=\"212\" y=\"105\" text-anchor=\"middle\" fill=\"#cc5500\" font-weight=\"bold\" font-size=\"13\">36</text>\n  <text x=\"212\" y=\"70\" text-anchor=\"middle\" fill=\"#cc5500\" font-size=\"11\">Average</text>\n  <rect x=\"245\" y=\"80\" width=\"45\" height=\"40\" fill=\"none\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"267\" y=\"105\" text-anchor=\"middle\" fill=\"#2255cc\" font-size=\"13\">38</text>\n  <rect x=\"300\" y=\"80\" width=\"45\" height=\"40\" fill=\"none\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"322\" y=\"105\" text-anchor=\"middle\" fill=\"#2255cc\" font-size=\"13\">40</text>\n  <rect x=\"355\" y=\"80\" width=\"45\" height=\"40\" fill=\"none\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"377\" y=\"105\" text-anchor=\"middle\" fill=\"#2255cc\" font-size=\"13\">42</text>\n  <path d=\"M 47 130 L 47 155 L 377 155 L 377 130\" fill=\"none\" stroke=\"#cc0000\" stroke-dasharray=\"5,3\" stroke-width=\"1.5\" />\n  <text x=\"212\" y=\"175\" text-anchor=\"middle\" fill=\"#2255cc\" font-weight=\"bold\" font-size=\"13\">Difference = 42 − 30 = 12</text>\n</svg>\n<p>⇒ Let the seven consecutive even numbers be n<sub>1</sub>, n<sub>2</sub>, n<sub>3</sub>, n<sub>4</sub>, n<sub>5</sub>, n<sub>6</sub>, n<sub>7</sub>.</p>\n<p>⇒ Since there are 7 terms (odd), the middle term n<sub>4</sub> is the average.</p>\n<p>⇒ n<sub>4</sub> = 36</p>\n<p>⇒ Consecutive even numbers have a common difference of 2.</p>\n<p>⇒ Lowest number (n<sub>1</sub>) = n<sub>4</sub> − (3 × 2) = 36 − 6 = 30</p>\n<p>⇒ Highest number (n<sub>7</sub>) = n<sub>4</sub> + (3 × 2) = 36 + 6 = 42</p>\n<p>⇒ Difference = 42 − 30 = 12</p>\n<p><strong>∴ The correct answer is 12.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Average of AP</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">For any arithmetic progression, Average = (First Term + Last Term) ÷ 2.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Sum of Consecutive Even Numbers</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The sum of first n even numbers is given by n × (n + 1).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">General Difference Property</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">In any AP with n terms and common difference d, the difference between the n<sup>th</sup> term and the 1<sup>st</sup> term is always (n − 1) × d.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q10",
+      "number": 10,
+      "question": "The average marks of 60 students in a class are 62. The average marks of boys and girls in that subject are 60 and 65, respectively. The number of boys in the class is :",
+      "questionHtml": "The average marks of 60 students in a class are 62. The average marks of boys and girls in that subject are 60 and 65, respectively. The number of boys in the class is :",
+      "options": [
+        {
+          "id": "A",
+          "text": "36",
+          "html": "36"
+        },
+        {
+          "id": "B",
+          "text": "25",
+          "html": "25"
+        },
+        {
+          "id": "C",
+          "text": "41",
+          "html": "41"
+        },
+        {
+          "id": "D",
+          "text": "31",
+          "html": "31"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/qImage649925778a4a4ff726cda6f4.png\" /></p>\n\n<p style=\"color: rgb(33, 37, 41);\">Here, (3 + 2) = 5 unit → 60 students then, 3 unit → 60/5 × 3 = 36 students (Boys)</p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/qImage649925778a4a4ff726cda6f4.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q11",
+      "number": 11,
+      "question": "The average temperature of a city for the first sixteen days of January is 22&ordm;C, and the average temperature for the last sixteen days of the same month is 26&ordm;C. If the average temperature for the entire month is 24&ordm;C, what is the temperature on the sixteenth day?",
+      "questionHtml": "The average temperature of a city for the first sixteen days of January is 22&ordm;C, and the average temperature for the last sixteen days of the same month is 26&ordm;C. If the average temperature for the entire month is 24&ordm;C, what is the temperature on the sixteenth day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "24&ordm;C",
+          "html": "24&ordm;C"
+        },
+        {
+          "id": "B",
+          "text": "25&ordm;C",
+          "html": "25&ordm;C"
+        },
+        {
+          "id": "C",
+          "text": "23&ordm;C",
+          "html": "23&ordm;C"
+        },
+        {
+          "id": "D",
+          "text": "22&ordm;C",
+          "html": "22&ordm;C"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Total (1st 16 days) = 22 × 16 = 352ºC</p>\n\n<p>Total (last 16 days) = 26 × 16 = 416ºC</p>\n\n<p>Total (31 days) = 24 × 31 = 744ºC</p>\n\n<p>For 16th day temp (T):</p>\n\n<p>352 + 416 - T = 744,</p>\n\n<p>T = 768 - 744,</p>\n\n<p><strong>T = 24ºC</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q12",
+      "number": 12,
+      "question": "The average weight of all the students of a class is 43 kg. Four more students whose weights are 43 kg, 36.5 kg, 39.5 kg and 42 kg join the class. Now their average weight becomes 500 grams less than before. Initially the number of students is:",
+      "questionHtml": "The average weight of all the students of a class is 43 kg. Four more students whose weights are 43 kg, 36.5 kg, 39.5 kg and 42 kg join the class. Now their average weight becomes 500 grams less than before. Initially the number of students is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "18",
+          "html": "18"
+        },
+        {
+          "id": "B",
+          "text": "22",
+          "html": "<span style=\"\">22</span>"
+        },
+        {
+          "id": "C",
+          "text": "24",
+          "html": "<span style=\"\">24</span>"
+        },
+        {
+          "id": "D",
+          "text": "28",
+          "html": "<span style=\"\">28</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Using Net Deviation: sum of deviations of new students from the initial 43 kg average is:</p>\n<p>(43 − 43) + (36.5 − 43) + (39.5 − 43) + (42 − 43) = 0 − 6.5 − 3.5 − 1 = −11 kg.</p>\n<p>This total deviation of −11 kg reduces the overall class average by 0.5 kg per student.</p>\n<p>Total number of students = Absolute Total Deviation ÷ Decrease in Average = 11 ÷ 0.5 = 22.</p>\n<p>Initial number of students = 22 (total) − 4 (new) = 18.</p>\n<p><strong>∴ The correct answer is 18 students.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>⇒ Initial average weight = 43 kg</p>\n<p>⇒ Total weight of 4 new students = 43 + 36.5 + 39.5 + 42 = 161 kg</p>\n<p>⇒ Decrease in average = 500 g = 0.5 kg</p>\n<p><strong>Formula Used:</strong></p>\n<p>Quantity Ratio = (Combined Avg − Avg 2) : (Avg 1 − Combined Avg)</p>\n<svg width=\"420\" height=\"240\" viewBox=\"0 0 420 240\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <text x=\"210\" y=\"25\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"14\" fill=\"#222222\">Alligation Method</text>\n  <text x=\"100\" y=\"55\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#2255cc\">Initial Avg</text>\n  <text x=\"320\" y=\"55\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#cc5500\">New Avg</text>\n  <text x=\"210\" y=\"100\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#007700\">Combined</text>\n  <line x1=\"120\" y1=\"95\" x2=\"185\" y2=\"125\" stroke=\"#2255cc\" stroke-width=\"1.5\" stroke-dasharray=\"5,3\"/>\n  <line x1=\"300\" y1=\"95\" x2=\"235\" y2=\"125\" stroke=\"#cc5500\" stroke-width=\"1.5\" stroke-dasharray=\"5,3\"/>\n  <line x1=\"185\" y1=\"155\" x2=\"110\" y2=\"180\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <line x1=\"235\" y1=\"155\" x2=\"310\" y2=\"180\" stroke=\"#cc5500\" stroke-width=\"1.5\" />\n  <circle cx=\"100\" cy=\"85\" r=\"28\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\"/>\n  <circle cx=\"320\" cy=\"85\" r=\"28\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"1.5\"/>\n  <circle cx=\"210\" cy=\"140\" r=\"32\" fill=\"#ccffcc\" stroke=\"#007700\" stroke-width=\"1.5\"/>\n  <text x=\"100\" y=\"90\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"14\" fill=\"#222222\">43</text>\n  <text x=\"320\" y=\"90\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"14\" fill=\"#222222\">40.25</text>\n  <text x=\"210\" y=\"145\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"14\" fill=\"#222222\">42.5</text>\n  <rect x=\"70\" y=\"180\" width=\"60\" height=\"26\" rx=\"6\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\"/>\n  <rect x=\"290\" y=\"180\" width=\"60\" height=\"26\" rx=\"6\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"1.5\"/>\n  <text x=\"100\" y=\"198\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#222222\">2.25</text>\n  <text x=\"320\" y=\"198\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#222222\">0.5</text>\n  <text x=\"210\" y=\"198\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"14\" fill=\"#222222\">← Ratio →</text>\n  <text x=\"100\" y=\"225\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"13\" fill=\"#2255cc\">n = 18</text>\n  <text x=\"320\" y=\"225\" text-anchor=\"middle\" font-weight=\"bold\" font-size=\"13\" fill=\"#cc5500\">4 students</text>\n</svg>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Average weight of 4 new students = 161 ÷ 4 = 40.25 kg</p>\n<p>⇒ Combined average of the class = 43 − 0.5 = 42.5 kg</p>\n<p>⇒ Applying Alligation (as shown in the diagram):</p>\n<p>⇒ Ratio of Initial Students to New Students = (42.5 − 40.25) : (43 − 42.5)</p>\n<p>⇒ Ratio = 2.25 : 0.5 = 22.5 : 5 = 9 : 2</p>\n<p>⇒ We know the new group has 4 students.</p>\n<p>⇒ 2 units = 4 students ⇒ 1 unit = 2 students</p>\n<p>⇒ Initial number of students = 9 units = 9 × 2 = 18</p>\n<p><strong>∴ The correct answer is 18 students.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Net Deviation Method</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If new items join a group, the change in the average is equal to the sum of deviations of the new items from the old average, divided by the total number of items in the final combined group.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Alligation Rule</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When two groups with averages A<sub>1</sub> and A<sub>2</sub> are mixed to form a combined average A<sub>w</sub>, the ratio of their quantities is n<sub>1</sub> : n<sub>2</sub> = (A<sub>2</sub> − A<sub>w</sub>) : (A<sub>w</sub> − A<sub>1</sub>).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Weighted Average Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The overall average of multiple groups can also be verified using the standard formula A<sub>w</sub> = (n<sub>1</sub>A<sub>1</sub> + n<sub>2</sub>A<sub>2</sub>) ÷ (n<sub>1</sub> + n<sub>2</sub>).</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q13",
+      "number": 13,
+      "question": "The average weight of 10 persons increases by 7.9 kg when a new person replaces one of them weighing 20 kg. What is the weight of the new person?",
+      "questionHtml": "The average weight of 10 persons increases by 7.9 kg when a new person replaces one of them weighing 20 kg. What is the weight of the new person?",
+      "options": [
+        {
+          "id": "A",
+          "text": "170 kg",
+          "html": "170&nbsp;<span style=\"\">kg</span>"
+        },
+        {
+          "id": "B",
+          "text": "86 kg",
+          "html": "86&nbsp;<span style=\"\">kg</span>"
+        },
+        {
+          "id": "C",
+          "text": "99 kg",
+          "html": "99&nbsp;<span style=\"\">kg</span>"
+        },
+        {
+          "id": "D",
+          "text": "72 kg",
+          "html": "72&nbsp;<span style=\"\">kg</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Total weight increase = Total persons × Average increase</p>\n<p>Total increase = 10 × 7.9 = 79 kg</p>\n<p>New person's weight = Replaced person's weight + Total increase</p>\n<p>New person's weight = 20 + 79 = 99 kg</p>\n<p><strong>∴ The correct answer is 99 kg.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<img src=\"https://cdn.testbook.com/temp_a73c906dde4d4dee94ef1769d408e091.png/1777700019.png\" style=\"max-width: 450px;\" />\n\n<p><strong>Given:</strong></p>\n<p>Number of persons = 10</p>\n<p>Weight of replaced person = 20 kg</p>\n<p>Increase in average weight = 7.9 kg</p>\n\n<p><strong>Formula Used:</strong></p>\n<p>Weight of new person = Weight of replaced person + (Total members × Increase in average)</p>\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ Total weight increase of the group = 10 × 7.9</p>\n<p>⇒ Total increase = 79 kg</p>\n<p>⇒ Weight of the new person = 20 + 79</p>\n<p>⇒ Weight of the new person = 99 kg</p>\n<p><strong>∴ The correct answer is 99 kg.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Replacement in Averages</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When a new item replaces an old item, causing the average to increase, the value of the new item is calculated as: New Value = Old Value + (Total Items × Increase in Average).</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Decrease in Average on Replacement</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If the replacement causes the average to drop, it means the new item is smaller. The formula is: New Value = Old Value − (Total Items × Decrease in Average).</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Addition of a New Member</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When a completely new member joins the group (without replacing anyone) and changes the average: New Member's Value = Old Average + (New Total Members × Change in Average).</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_a73c906dde4d4dee94ef1769d408e091.png/1777700019.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q14",
+      "number": 14,
+      "question": "The average height of 10 students in a class is 78 cm. If the heights of 4 more students are included, then the average height increases to 80 cm. Find the sum of the heights of the new students.",
+      "questionHtml": "<p>The average height of 10 students in a class is 78 cm. If the heights of 4 more students are included, then the average height increases&nbsp;to 80 cm. Find the sum of the heights of the new students.</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "240 cm",
+          "html": "240 cm"
+        },
+        {
+          "id": "B",
+          "text": "120 cm",
+          "html": "120 cm"
+        },
+        {
+          "id": "C",
+          "text": "340 cm",
+          "html": "340 cm"
+        },
+        {
+          "id": "D",
+          "text": "560 cm",
+          "html": "560 cm"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Sum of heights of 10 students = 780</p>\n\n<p>Sum of heights of 14 students = 1120</p>\n\n<p>Sum of heights of 4 students = 1120 – 780 = 340</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q15",
+      "number": 15,
+      "question": "The mean expenditure of 35 person reduced by Rs.1 when 7 new person join the group and the total expenditure is increased by Rs.42 find the new expenditure.",
+      "questionHtml": "The mean expenditure of 35 person reduced by Rs.1 when 7 new person join the group and the total expenditure is increased by Rs.42 find the new expenditure.&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "350",
+          "html": "350"
+        },
+        {
+          "id": "B",
+          "text": "490",
+          "html": "490"
+        },
+        {
+          "id": "C",
+          "text": "420",
+          "html": "420"
+        },
+        {
+          "id": "D",
+          "text": "462",
+          "html": "462"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span></p>\n\n<p>Total change in expenditure = (New persons &times; New average) + (Old persons &times; Change in average)</p>\n\n<p>&rArr; 42 = 7 &times; New Average + 35 &times; (&minus;1)</p>\n\n<p>&rArr; 42 + 35 = 7 &times; New Average &rArr; 77 = 7 &times; New Average</p>\n\n<p>&rArr; New Average = 11</p>\n\n<p>&rArr; New Total Expenditure = Total persons &times; New Average = 42 &times; 11 = 462</p>\n\n<p><strong>&there4; The correct answer is ₹462.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<p><strong>Given:</strong></p>\n\n<p>Initial number of persons = 35</p>\n\n<p>Number of new persons joined = 7</p>\n\n<p>Total number of persons = 35 + 7 = 42</p>\n\n<p>Reduction in mean expenditure = ₹1</p>\n\n<p>Increase in total expenditure = ₹42</p>\n<svg height=\"200\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\" viewbox=\"0 0 420 200\" width=\"420\" xmlns=\"http://www.w3.org/2000/svg\"> <rect fill=\"#ddeeff\" height=\"40\" rx=\"6\" stroke=\"#2255cc\" stroke-width=\"2\" width=\"220\" x=\"30\" y=\"30\"></rect> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" text-anchor=\"middle\" x=\"140\" y=\"55\">Old Total = 35 &times; x</text> <rect fill=\"#fff0cc\" height=\"40\" rx=\"6\" stroke=\"#cc5500\" stroke-width=\"2\" width=\"280\" x=\"30\" y=\"110\"></rect> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" text-anchor=\"middle\" x=\"170\" y=\"135\">New Total = 42 &times; (x &minus; 1)</text> <path d=\"M 250 50 L 310 50 L 310 102\" fill=\"none\" stroke=\"#007700\" stroke-width=\"2\"></path> <polygon fill=\"#007700\" points=\"306,102 314,102 310,110\"></polygon> <text fill=\"#007700\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\" x=\"355\" y=\"80\">Increase = 42</text> <text fill=\"#2255cc\" font-family=\"sans-serif\" font-size=\"15\" font-weight=\"bold\" text-anchor=\"middle\" x=\"210\" y=\"180\">42(x &minus; 1) &minus; 35x = 42</text> </svg>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Let the initial mean expenditure be x.</p>\n\n<p>&rArr; Initial total expenditure = 35 &times; x = 35x</p>\n\n<p>New mean expenditure = (x &minus; 1)</p>\n\n<p>&rArr; New total expenditure = 42 &times; (x &minus; 1)</p>\n\n<p>Since the total expenditure is increased by ₹42:</p>\n\n<p>&rArr; 42(x &minus; 1) &minus; 35x = 42</p>\n\n<p>&rArr; 42x &minus; 42 &minus; 35x = 42</p>\n\n<p>&rArr; 7x &minus; 42 = 42</p>\n\n<p>&rArr; 7x = 84</p>\n\n<p>&rArr; x = 12</p>\n\n<p>Therefore, initial mean expenditure = ₹12</p>\n\n<p>&rArr; New total expenditure = 42 &times; (12 &minus; 1)</p>\n\n<p>&rArr; New total expenditure = 42 &times; 11 = 462</p>\n\n<p><strong>&there4; The correct answer is ₹462.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Average Formula</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">Average = Sum of all observations &divide; Total number of observations.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Combined Average</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">When two groups of sizes n<sub>1</sub> and n<sub>2</sub> have averages A<sub>1</sub> and A<sub>2</sub> respectively, their Combined Average = (n<sub>1</sub>A<sub>1</sub> + n<sub>2</sub>A<sub>2</sub>) &divide; (n<sub>1</sub> + n<sub>2</sub>).</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Effect of Change on Average</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">If every observation in a dataset is increased or decreased by a constant value &#39;k&#39;, the new average will also increase or decrease by the same value &#39;k&#39;.</p>\n\n<p>&nbsp;</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q16",
+      "number": 16,
+      "question": "The total weight of 30 students of a class is 360 kg. When the weight of their class teacher is added, the average weight of the group is seen to be 14 kg. What is the class teacher's weight in kg?",
+      "questionHtml": "The total weight of 30 students of a class is 360 kg. When the weight of their class teacher is added, the average weight of the group is seen to be 14 kg. What is the class teacher&#39;s weight in kg?",
+      "options": [
+        {
+          "id": "A",
+          "text": "61 kg",
+          "html": "61 kg"
+        },
+        {
+          "id": "B",
+          "text": "74 kg",
+          "html": "74 kg"
+        },
+        {
+          "id": "C",
+          "text": "60 kg",
+          "html": "60 kg"
+        },
+        {
+          "id": "D",
+          "text": "59 kg",
+          "html": "59 kg"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Old average of 30 students = 360 ÷ 30 = 12 kg.</p>\n<p>New average of 31 persons = 14 kg (an increase of 2 kg).</p>\n<p>Teacher's weight = New Average + (Number of students × Increase in average)</p>\n<p>⇒ Teacher's weight = 14 + (30 × 2) = 14 + 60 = 74 kg.</p>\n<p><strong>∴ The correct answer is 74 kg.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Total weight of 30 students = 360 kg</p>\n<p>Average weight of 31 persons (30 students + 1 teacher) = 14 kg</p>\n<p><strong>Formula Used:</strong></p>\n<p>Total Weight = Average × Number of persons</p>\n<svg width=\"420\" height=\"200\" viewBox=\"0 0 420 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <rect x=\"40\" y=\"70\" width=\"280\" height=\"40\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"2\" />\n  <text x=\"180\" y=\"95\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#222222\" text-anchor=\"middle\">30 Students</text>\n  <rect x=\"320\" y=\"70\" width=\"60\" height=\"40\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"2\" />\n  <text x=\"350\" y=\"95\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#222222\" text-anchor=\"middle\">Teacher</text>\n  <line x1=\"40\" y1=\"60\" x2=\"40\" y2=\"50\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <line x1=\"320\" y1=\"60\" x2=\"320\" y2=\"50\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <line x1=\"40\" y1=\"50\" x2=\"320\" y2=\"50\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"180\" y=\"42\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#2255cc\" text-anchor=\"middle\">Total Weight = 360 kg</text>\n  <line x1=\"350\" y1=\"60\" x2=\"350\" y2=\"50\" stroke=\"#cc5500\" stroke-width=\"1.5\" />\n  <text x=\"350\" y=\"42\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#cc5500\" text-anchor=\"middle\">? kg</text>\n  <line x1=\"40\" y1=\"120\" x2=\"40\" y2=\"130\" stroke=\"#007700\" stroke-width=\"1.5\" />\n  <line x1=\"380\" y1=\"120\" x2=\"380\" y2=\"130\" stroke=\"#007700\" stroke-width=\"1.5\" />\n  <line x1=\"40\" y1=\"130\" x2=\"380\" y2=\"130\" stroke=\"#007700\" stroke-width=\"1.5\" />\n  <text x=\"210\" y=\"150\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#007700\" text-anchor=\"middle\">31 Persons × 14 kg = 434 kg Total</text>\n</svg>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Total weight of 31 persons = 31 × 14 = 434 kg</p>\n<p>⇒ Weight of the class teacher = Total weight of 31 persons − Total weight of 30 students</p>\n<p>⇒ Weight of the class teacher = 434 − 360 = 74 kg</p>\n<p><strong>∴ The correct answer is 74 kg.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Average Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Average = Sum of all observations ÷ Total number of observations.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Net Change Method for Addition</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Value of new entity = New Average + Old Number of Entities × Change in Average.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Replacement Method</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Value of New Entity = Value of Old Entity + Total Number of Entities × Change in Average.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q17",
+      "number": 17,
+      "question": "College P has 180 students scoring average marks of 88 and college Q has 320 students scoring average marks of 72. Find the average marks of both the colleges together.",
+      "questionHtml": "College P has 180 students scoring average marks of 88 and college Q has 320 students scoring average marks of 72. Find the average marks of both the colleges together.",
+      "options": [
+        {
+          "id": "A",
+          "text": "82.00",
+          "html": "82.00"
+        },
+        {
+          "id": "B",
+          "text": "75.25",
+          "html": "75.25"
+        },
+        {
+          "id": "C",
+          "text": "77.76",
+          "html": "77.76"
+        },
+        {
+          "id": "D",
+          "text": "80.00",
+          "html": "80.00"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Total marks of college P is 180 × 88 = 15840</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Total marks of college Q is 320 × 72 = 23040</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Totla number of students is 320 + 180 = 500</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Average will be , <span class=\"math-tex\">\\(23040+15840\\over500\\)</span></span> = 77.76</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q18",
+      "number": 18,
+      "question": "The average amount of money that 15 girls have is ₹50. When 3 more girls join the average increases by ₹3. Then the average amount of 3 new girls is :",
+      "questionHtml": "<span style=\"\">The average amount of money that 15 girls have is ₹50. When 3 more girls join the average increases by ₹3. Then the average amount of 3 new girls is :</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹68",
+          "html": "<span style=\"\">₹68</span>"
+        },
+        {
+          "id": "B",
+          "text": "₹65",
+          "html": "<span style=\"\">₹65</span>"
+        },
+        {
+          "id": "C",
+          "text": "₹60",
+          "html": "<span style=\"\">₹60</span>"
+        },
+        {
+          "id": "D",
+          "text": "₹70",
+          "html": "<span style=\"\">₹70</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Average = 15 × 50 = 750</p>\n\n<p style=\"color: rgb(33, 37, 41);\">New Average = 18 × 53 = 954</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Sum of Amount of 3 girls = 954 - 750 = 204</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average of Amount = 204/3 = <strong>68</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q19",
+      "number": 19,
+      "question": "The average marks obtained in a subject by 60 students in a class is 82. The average marks of boys and girls in that subject are 75 and 85 respectively. The number of boys in the class is:",
+      "questionHtml": "The average marks obtained in a subject by 60 students in a class is 82. The average marks of boys and girls in that subject are 75 and 85 respectively. The number of boys in the class is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "26",
+          "html": "26"
+        },
+        {
+          "id": "B",
+          "text": "32",
+          "html": "32"
+        },
+        {
+          "id": "C",
+          "text": "18",
+          "html": "18"
+        },
+        {
+          "id": "D",
+          "text": "30",
+          "html": "30"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Using the rule of Alligation on the average marks:</p>\n<p>Ratio of Boys to Girls = (Girls Average − Overall Average) : (Overall Average − Boys Average)</p>\n<p>Ratio of Boys to Girls = (85 − 82) : (82 − 75) = 3 : 7</p>\n<p>Total parts = 3 + 7 = 10 parts</p>\n<p>10 parts = 60 students ⇒ 1 part = 6 students</p>\n<p>Number of boys = 3 parts × 6 = 18</p>\n<p><strong>∴ The correct answer is 18 boys.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Total number of students = 60</p>\n<p>Average marks of all students = 82</p>\n<p>Average marks of boys = 75</p>\n<p>Average marks of girls = 85</p>\n\n<svg width=\"420\" height=\"200\" viewBox=\"0 0 420 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <line x1=\"120\" y1=\"60\" x2=\"190\" y2=\"85\" stroke=\"#2255cc\" stroke-width=\"2\"/>\n  <line x1=\"300\" y1=\"60\" x2=\"230\" y2=\"85\" stroke=\"#2255cc\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"115\" x2=\"120\" y2=\"140\" stroke=\"#2255cc\" stroke-width=\"2\"/>\n  <line x1=\"230\" y1=\"115\" x2=\"300\" y2=\"140\" stroke=\"#2255cc\" stroke-width=\"2\"/>\n  \n  <text x=\"100\" y=\"30\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#222222\" text-anchor=\"middle\">Boys</text>\n  <text x=\"320\" y=\"30\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#222222\" text-anchor=\"middle\">Girls</text>\n  \n  <circle cx=\"100\" cy=\"50\" r=\"18\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\"/>\n  <text x=\"100\" y=\"55\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#2255cc\" text-anchor=\"middle\">75</text>\n  \n  <circle cx=\"320\" cy=\"50\" r=\"18\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\"/>\n  <text x=\"320\" y=\"55\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#2255cc\" text-anchor=\"middle\">85</text>\n  \n  <circle cx=\"210\" cy=\"100\" r=\"20\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"2\"/>\n  <text x=\"210\" y=\"105\" font-family=\"sans-serif\" font-size=\"15\" font-weight=\"bold\" fill=\"#cc5500\" text-anchor=\"middle\">82</text>\n  \n  <text x=\"100\" y=\"155\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#007700\" text-anchor=\"middle\">85 − 82 = 3</text>\n  <text x=\"320\" y=\"155\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#007700\" text-anchor=\"middle\">82 − 75 = 7</text>\n  \n  <text x=\"210\" y=\"185\" font-family=\"sans-serif\" font-size=\"15\" font-weight=\"bold\" fill=\"#2255cc\" text-anchor=\"middle\">Ratio = 3 : 7</text>\n</svg>\n\n<p><strong>Formula Used:</strong></p>\n<p>Total Marks = Average Marks × Total Students</p>\n\n<p><strong>Calculations:</strong></p>\n<p>Let the number of boys in the class be x.</p>\n<p>⇒ Number of girls = 60 − x</p>\n<p>⇒ Total marks of all students = 60 × 82 = 4920</p>\n<p>⇒ Total marks of boys = 75 × x = 75x</p>\n<p>⇒ Total marks of girls = 85 × (60 − x) = 5100 − 85x</p>\n<p>⇒ Total Marks = Marks of Boys + Marks of Girls</p>\n<p>⇒ 4920 = 75x + 5100 − 85x</p>\n<p>⇒ 4920 = 5100 − 10x</p>\n<p>⇒ 10x = 5100 − 4920</p>\n<p>⇒ 10x = 180</p>\n<p>⇒ x = 18</p>\n<p><strong>∴ The correct answer is 18 boys.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Rule of Alligation</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">It allows us to easily find the ratio in which two groups or ingredients are mixed to form a combined group. The formula is: Ratio of Group 1 : Group 2 = (Average 2 − Mean Average) : (Mean Average − Average 1).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Weighted Average</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When different groups have different sizes or weights, their combined average is computed using the weighted average formula: Combined Average = (n<sub>1</sub>x<sub>1</sub> + n<sub>2</sub>x<sub>2</sub>) ÷ (n<sub>1</sub> + n<sub>2</sub>).</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q20",
+      "number": 20,
+      "question": "The average weight of 100 students in a class is 46 kg . The average weights of boys and girls are 50 kg and 40 kg respectively. What is the difference between the number of boys and girls?",
+      "questionHtml": "The average weight of 100 students in a class is 46 <span style=\"\">kg</span>. The average weights of boys and girls are 50 <span style=\"\">kg</span> and 40 <span style=\"\">kg&nbsp;</span>respectively. What is the difference between the number of boys and girls?",
+      "options": [
+        {
+          "id": "A",
+          "text": "30",
+          "html": "<span style=\"\">30</span>"
+        },
+        {
+          "id": "B",
+          "text": "25",
+          "html": "<span style=\"\">25</span>"
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "html": "<span style=\"\">20</span>"
+        },
+        {
+          "id": "D",
+          "text": "10",
+          "html": "<span style=\"\">10</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Using the rule of alligation for the two groups (Boys and Girls):</p>\n<p>Ratio of Boys to Girls = (Overall Avg − Girls Avg) : (Boys Avg − Overall Avg)</p>\n<p>⇒ Ratio = (46 − 40) : (50 − 46) = 6 : 4 = 3 : 2</p>\n<p>Total parts = 3 + 2 = 5 parts = 100 students ⇒ 1 part = 20 students</p>\n<p>Difference in ratio parts = 3 − 2 = 1 part ⇒ 20</p>\n<p><strong>∴ The correct answer is 20.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Total number of students = 100</p>\n<p>Overall average weight = 46 kg</p>\n<p>Boys' average weight = 50 kg</p>\n<p>Girls' average weight = 40 kg</p>\n<p><strong>Method Used:</strong></p>\n<p>We can solve this visually using the Alligation rule or mathematically using linear equations.</p>\n<svg width=\"420\" height=\"200\" viewBox=\"0 0 420 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <text x=\"100\" y=\"30\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">Boys</text>\n  <rect x=\"70\" y=\"40\" width=\"60\" height=\"30\" rx=\"5\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"100\" y=\"60\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" text-anchor=\"middle\">50</text>\n  \n  <text x=\"320\" y=\"30\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">Girls</text>\n  <rect x=\"290\" y=\"40\" width=\"60\" height=\"30\" rx=\"5\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"1.5\" />\n  <text x=\"320\" y=\"60\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" text-anchor=\"middle\">40</text>\n  \n  <text x=\"210\" y=\"90\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\">Overall Average</text>\n  <rect x=\"180\" y=\"95\" width=\"60\" height=\"30\" rx=\"5\" fill=\"#ccffcc\" stroke=\"#007700\" stroke-width=\"1.5\" />\n  <text x=\"210\" y=\"115\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">46</text>\n  \n  <line x1=\"100\" y1=\"70\" x2=\"180\" y2=\"105\" stroke=\"#888888\" stroke-width=\"1.5\" stroke-dasharray=\"5,3\" />\n  <line x1=\"320\" y1=\"70\" x2=\"240\" y2=\"105\" stroke=\"#888888\" stroke-width=\"1.5\" stroke-dasharray=\"5,3\" />\n  <line x1=\"180\" y1=\"115\" x2=\"100\" y2=\"150\" stroke=\"#888888\" stroke-width=\"1.5\" stroke-dasharray=\"5,3\" />\n  <line x1=\"240\" y1=\"115\" x2=\"320\" y2=\"150\" stroke=\"#888888\" stroke-width=\"1.5\" stroke-dasharray=\"5,3\" />\n  \n  <rect x=\"70\" y=\"150\" width=\"60\" height=\"30\" rx=\"5\" fill=\"#ffffff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"100\" y=\"170\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">6</text>\n  <text x=\"100\" y=\"195\" fill=\"#2255cc\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">(46 − 40)</text>\n\n  <rect x=\"290\" y=\"150\" width=\"60\" height=\"30\" rx=\"5\" fill=\"#ffffff\" stroke=\"#cc5500\" stroke-width=\"1.5\" />\n  <text x=\"320\" y=\"170\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">4</text>\n  <text x=\"320\" y=\"195\" fill=\"#cc5500\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\">(50 − 46)</text>\n  \n  <text x=\"210\" y=\"170\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"18\" font-weight=\"bold\" text-anchor=\"middle\">Ratio = 6 : 4</text>\n</svg>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Let the number of boys be x and girls be y.</p>\n<p>⇒ Total students: x + y = 100</p>\n<p>⇒ Total weight of all students = 100 × 46 = 4600 kg</p>\n<p>⇒ Weight of boys + Weight of girls = Total class weight</p>\n<p>⇒ 50x + 40y = 4600</p>\n<p>⇒ Dividing the equation by 10: 5x + 4y = 460</p>\n<p>⇒ Multiply the first equation by 4: 4x + 4y = 400</p>\n<p>⇒ Subtracting equations: (5x + 4y) − (4x + 4y) = 460 − 400</p>\n<p>⇒ x = 60 (Number of boys)</p>\n<p>⇒ Number of girls (y) = 100 − 60 = 40</p>\n<p>⇒ Difference = 60 − 40 = 20</p>\n<p><strong>∴ The correct answer is 20.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Rule of Alligation</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">It is used to find the ratio in which two groups of different averages must be mixed to produce a combined average. Ratio = (Cheaper Quantity) : (Dearer Quantity) = (D − M) : (M − C), calculated crosswise.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Weighted Average</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When combining two groups with different averages, the overall average is given by: A = (n<sub>1</sub>A<sub>1</sub> + n<sub>2</sub>A<sub>2</sub>) ÷ (n<sub>1</sub> + n<sub>2</sub>).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Basic Average Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Average = Sum of all observations ÷ Total number of observations. Consequently, the sum of observations is always Average × Count.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q21",
+      "number": 21,
+      "question": "The average weight of 14 students in a class is 30 kg. Two more students with weights 20 kg and 24 kg respectively join the class. Now what is the average weight of the class?",
+      "questionHtml": "The average weight of 14 students in a class is 30 kg. Two more students with weights 20 kg and 24 kg respectively join the class. Now what is the average weight of the class?",
+      "options": [
+        {
+          "id": "A",
+          "text": "29 kg",
+          "html": "29 kg"
+        },
+        {
+          "id": "B",
+          "text": "45 kg",
+          "html": "45 kg"
+        },
+        {
+          "id": "C",
+          "text": "38 kg",
+          "html": "38 kg"
+        },
+        {
+          "id": "D",
+          "text": "50 kg",
+          "html": "50 kg"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Net deviation of new students from the original average = (20 − 30) + (24 − 30) = −10 − 6 = −16 kg.</p>\n<p>Total number of students now = 14 + 2 = 16.</p>\n<p>Change in average = −16 ÷ 16 = −1 kg.</p>\n<p>New average weight = 30 − 1 = 29 kg.</p>\n<p><strong>∴ The correct answer is 29 kg.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Number of initial students = 14</p>\n<p>Initial average weight = 30 kg</p>\n<p>Weights of new students = 20 kg and 24 kg</p>\n<p><strong>Formula Used:</strong></p>\n<p>Average = Total Sum ÷ Total Number of Items</p>\n<svg width=\"420\" height=\"220\" viewBox=\"0 0 420 220\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <rect x=\"30\" y=\"30\" width=\"150\" height=\"70\" rx=\"8\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"2\"/>\n  <text x=\"105\" y=\"55\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#222222\" text-anchor=\"middle\">14 Students</text>\n  <text x=\"105\" y=\"80\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#2255cc\" text-anchor=\"middle\">Avg = 30 kg</text>\n  \n  <text x=\"210\" y=\"72\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\" fill=\"#222222\" text-anchor=\"middle\">+</text>\n\n  <rect x=\"240\" y=\"30\" width=\"150\" height=\"70\" rx=\"8\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"2\"/>\n  <text x=\"315\" y=\"55\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#222222\" text-anchor=\"middle\">2 Students</text>\n  <text x=\"315\" y=\"80\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#cc5500\" text-anchor=\"middle\">20 kg, 24 kg</text>\n\n  <path d=\"M 105 100 L 105 125 L 210 125 L 210 142\" fill=\"none\" stroke=\"#888888\" stroke-width=\"2\"/>\n  <path d=\"M 315 100 L 315 125 L 210 125\" fill=\"none\" stroke=\"#888888\" stroke-width=\"2\"/>\n  <polygon points=\"210,150 205,140 215,140\" fill=\"#888888\"/>\n\n  <rect x=\"110\" y=\"150\" width=\"200\" height=\"50\" rx=\"8\" fill=\"#ccffcc\" stroke=\"#007700\" stroke-width=\"2\"/>\n  <text x=\"210\" y=\"172\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#222222\" text-anchor=\"middle\">16 Students</text>\n  <text x=\"210\" y=\"190\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#007700\" text-anchor=\"middle\">New Avg = ?</text>\n</svg>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Total weight of initial 14 students = 14 × 30 = 420 kg</p>\n<p>⇒ Total weight of the 2 new students = 20 + 24 = 44 kg</p>\n<p>⇒ New total weight of the class = 420 + 44 = 464 kg</p>\n<p>⇒ Total number of students in the class = 14 + 2 = 16</p>\n<p>⇒ New average weight = 464 ÷ 16</p>\n<p>⇒ New average weight = 29 kg</p>\n<p><strong>∴ The correct answer is 29 kg.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Weighted Average</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When combining two or more groups, the overall combined average is calculated using the formula: A<sub>w</sub> = (n<sub>1</sub>A<sub>1</sub> + n<sub>2</sub>A<sub>2</sub>) ÷ (n<sub>1</sub> + n<sub>2</sub>).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Net Deviation Method</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When new items are added to a group, the change in the average is simply the sum of the deviations of the new items from the old average, divided by the new total number of items.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Properties of Average</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If every observation in a set is increased or decreased by a constant value 'k', the new average of the set also strictly increases or decreases by that exact value 'k'.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q22",
+      "number": 22,
+      "question": "A student's marks were incorrectly entered as 94 instead of 69. Due to this error, the average marks of the class got increased by 1.25. What is the number of students in the class?",
+      "questionHtml": "<span style=\"\">A student&#39;s marks were incorrectly entered as 94 instead of 69. Due to this error, the average marks of the class got increased by 1.25. What is the number of students in the class?</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "15",
+          "html": "<span style=\"\">15</span>"
+        },
+        {
+          "id": "B",
+          "text": "25",
+          "html": "<span style=\"\">25</span>"
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "html": "<span style=\"\">20</span>"
+        },
+        {
+          "id": "D",
+          "text": "22",
+          "html": "<span style=\"\">22</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">The sum of marks obtained by the students increased by ⇒ 94 – 69 = 25</p>\n\n<p style=\"color: rgb(33, 37, 41);\"> Average marks increased = <span class=\"math-tex\">\\(\\frac{25}{x}=1.25\\)</span>  ⇒ x = 20</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q23",
+      "number": 23,
+      "question": "The average salary of the entire staff in an office is Rs. 130 per month. The average salary of officers is Rs. 450 and that of non-officers is Rs. 120. If the number of officers is 15, then find the number of non-officers in the office?",
+      "questionHtml": "The average salary of the entire staff in an office is Rs. 130 per month. The average salary of officers is Rs. 450 and that of non-officers is Rs. 120. If the number of officers is 15, then find the number of non-officers in the office?",
+      "options": [
+        {
+          "id": "A",
+          "text": "450",
+          "html": "450"
+        },
+        {
+          "id": "B",
+          "text": "460",
+          "html": "460"
+        },
+        {
+          "id": "C",
+          "text": "470",
+          "html": "470"
+        },
+        {
+          "id": "D",
+          "text": "480",
+          "html": "480"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Using the method of Alligation:</p>\n<p>Ratio of Officers to Non-officers = (130 − 120) : (450 − 130)</p>\n<p>Ratio = 10 : 320 = 1 : 32</p>\n<p>Given 1 ratio unit = 15 officers, then 32 ratio units = 15 × 32 = 480 non-officers.</p>\n<p><strong>∴ The correct answer is 480 non-officers.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Average salary of overall staff = Rs. 130</p>\n<p>Average salary of officers = Rs. 450</p>\n<p>Average salary of non-officers = Rs. 120</p>\n<p>Number of officers = 15</p>\n<p><strong>Formula Used:</strong></p>\n<p>Overall Average = (Total salary of all staff) ÷ (Total number of staff)</p>\n<svg width=\"420\" height=\"200\" viewBox=\"0 0 420 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <rect x=\"70\" y=\"20\" width=\"100\" height=\"30\" rx=\"5\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"120\" y=\"40\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#222222\" font-weight=\"bold\" text-anchor=\"middle\">Officers: 450</text>\n  \n  <rect x=\"250\" y=\"20\" width=\"110\" height=\"30\" rx=\"5\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"1.5\" />\n  <text x=\"305\" y=\"40\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#222222\" font-weight=\"bold\" text-anchor=\"middle\">Non-Off: 120</text>\n\n  <circle cx=\"210\" cy=\"95\" r=\"24\" fill=\"#ccffcc\" stroke=\"#007700\" stroke-width=\"1.5\" />\n  <text x=\"210\" y=\"99\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#222222\" font-weight=\"bold\" text-anchor=\"middle\">130</text>\n\n  <line x1=\"130\" y1=\"50\" x2=\"190\" y2=\"78\" stroke=\"#888888\" stroke-width=\"1.5\" stroke-dasharray=\"4,2\"/>\n  <line x1=\"230\" y1=\"112\" x2=\"290\" y2=\"140\" stroke=\"#888888\" stroke-width=\"1.5\" stroke-dasharray=\"4,2\"/>\n\n  <line x1=\"290\" y1=\"50\" x2=\"230\" y2=\"78\" stroke=\"#888888\" stroke-width=\"1.5\" stroke-dasharray=\"4,2\"/>\n  <line x1=\"190\" y1=\"112\" x2=\"130\" y2=\"140\" stroke=\"#888888\" stroke-width=\"1.5\" stroke-dasharray=\"4,2\"/>\n\n  <rect x=\"70\" y=\"140\" width=\"100\" height=\"30\" rx=\"5\" fill=\"#ffffff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"120\" y=\"160\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#2255cc\" font-weight=\"bold\" text-anchor=\"middle\">130 − 120 = 10</text>\n\n  <rect x=\"250\" y=\"140\" width=\"110\" height=\"30\" rx=\"5\" fill=\"#ffffff\" stroke=\"#cc5500\" stroke-width=\"1.5\" />\n  <text x=\"305\" y=\"160\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#cc5500\" font-weight=\"bold\" text-anchor=\"middle\">450 − 130 = 320</text>\n\n  <text x=\"210\" y=\"190\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#2255cc\" font-weight=\"bold\" text-anchor=\"middle\">Ratio → 10 : 320 = 1 : 32</text>\n</svg>\n<p><strong>Calculations:</strong></p>\n<p>Let the number of non-officers be x.</p>\n<p>⇒ Total salary of officers = 450 × 15 = 6750</p>\n<p>⇒ Total salary of non-officers = 120 × x = 120x</p>\n<p>⇒ Total staff members = 15 + x</p>\n<p>⇒ Overall Average = (6750 + 120x) ÷ (15 + x)</p>\n<p>⇒ 130 = (6750 + 120x) ÷ (15 + x)</p>\n<p>⇒ 130 × (15 + x) = 6750 + 120x</p>\n<p>⇒ 1950 + 130x = 6750 + 120x</p>\n<p>⇒ 130x − 120x = 6750 − 1950</p>\n<p>⇒ 10x = 4800</p>\n<p>⇒ x = 480</p>\n<p><strong>∴ The correct answer is 480 non-officers.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Weighted Average</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Used when calculating the combined average of groups with different sizes. Formula: A<sub>w</sub> = (n<sub>1</sub>A<sub>1</sub> + n<sub>2</sub>A<sub>2</sub>) ÷ (n<sub>1</sub> + n<sub>2</sub>).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Rule of Alligation</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">A rapid visual method to find the ratio in which two groups with different averages are mixed to yield a desired overall combined average.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Average & Net Deviation</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The sum of the net deviations of all individual values from their mean is always equal to zero, which is a useful property to solve unknown value problems quickly.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q24",
+      "number": 24,
+      "question": "The average weight of 8 men is increased by 2 kg when one of them, whose weight is 90 kg, is replaced by another man. What is the weight of the new man?",
+      "questionHtml": "The average weight of 8 men is increased by 2 kg when one of them, whose weight is 90 kg, is replaced by another man. What is the weight of the new man?",
+      "options": [
+        {
+          "id": "A",
+          "text": "74 kg",
+          "html": "74 kg"
+        },
+        {
+          "id": "B",
+          "text": "116 kg",
+          "html": "116 kg"
+        },
+        {
+          "id": "C",
+          "text": "92 kg",
+          "html": "92 kg"
+        },
+        {
+          "id": "D",
+          "text": "106 kg",
+          "html": "106 kg"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">The average weight of 8 men is x and the sum is 8x. So, new average = x+2 and sum of new weights=8(x+2)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">According to the question 90 kg is replaced by another let it be G. So, 8x - 90 + G = 8(x + 2) ⇒ G = 106kg</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "41de68850593-q25",
+      "number": 25,
+      "question": "A batsman scored 135 runs in his 12th match. The average run scored by the batsman in 11 matches is x. If the average run scored by a batsman is increased by 5 runs, then find the new average after his 12th match.",
+      "questionHtml": "A batsman scored 135 runs in his 12th match. The average run scored by the batsman in 11 matches is x. If the average run scored by a batsman is increased by 5 runs, then find the new average after his 12th match.",
+      "options": [
+        {
+          "id": "A",
+          "text": "95",
+          "html": "95"
+        },
+        {
+          "id": "B",
+          "text": "80",
+          "html": "80"
+        },
+        {
+          "id": "C",
+          "text": "85",
+          "html": "85"
+        },
+        {
+          "id": "D",
+          "text": "90",
+          "html": "90"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>New Average = Runs scored in current match − (Previous number of matches × Increase in average)</p>\n<p>New Average = 135 − (11 × 5)</p>\n<p>New Average = 135 − 55</p>\n<p>New Average = 80</p>\n<p><strong>∴ The correct answer is 80 runs.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Runs scored in the 12th match = 135</p>\n<p>Average runs of 11 matches = x</p>\n<p>New average after 12 matches = x + 5</p>\n<p><strong>Formula Used:</strong></p>\n<p>Average = Sum of all observations ÷ Total number of observations</p>\n<svg width=\"420\" height=\"200\" viewBox=\"0 0 420 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <rect x=\"30\" y=\"40\" width=\"240\" height=\"40\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"150\" y=\"65\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" text-anchor=\"middle\">11 Matches [ Total = 11x ]</text>\n  \n  <rect x=\"270\" y=\"40\" width=\"120\" height=\"40\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"1.5\" />\n  <text x=\"330\" y=\"65\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" text-anchor=\"middle\">12th Match (135)</text>\n\n  <line x1=\"210\" y1=\"90\" x2=\"210\" y2=\"120\" stroke=\"#888888\" stroke-width=\"2\" />\n  <polygon points=\"205,115 215,115 210,125\" fill=\"#888888\" />\n\n  <rect x=\"30\" y=\"130\" width=\"360\" height=\"40\" fill=\"#ccffcc\" stroke=\"#007700\" stroke-width=\"1.5\" />\n  <text x=\"210\" y=\"155\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" text-anchor=\"middle\">12 Matches [ Total = 12(x + 5) ]</text>\n</svg>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Total runs in 11 matches = 11 × x = 11x</p>\n<p>⇒ Total runs in 12 matches = 11x + 135</p>\n<p>⇒ New average = (Total runs in 12 matches) ÷ 12</p>\n<p>⇒ x + 5 = (11x + 135) ÷ 12</p>\n<p>⇒ 12 × (x + 5) = 11x + 135</p>\n<p>⇒ 12x + 60 = 11x + 135</p>\n<p>⇒ 12x − 11x = 135 − 60</p>\n<p>⇒ x = 75</p>\n<p>⇒ The new average after 12 matches = x + 5 = 75 + 5 = 80</p>\n<p><strong>∴ The correct answer is 80 runs.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Batting Average</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The batting average is calculated by dividing the total number of runs scored by the total number of matches or innings played.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Net Change in Average</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When the average of 'n' quantities increases by 'd', the total increase in the sum of those quantities is n × d.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">New Observation Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">New value added = Old Average + (Total number of new observations × Increase in Average).</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

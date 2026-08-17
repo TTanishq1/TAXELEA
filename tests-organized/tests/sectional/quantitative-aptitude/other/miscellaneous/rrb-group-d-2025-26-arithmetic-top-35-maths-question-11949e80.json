@@ -1,0 +1,1205 @@
+{
+  "id": "11949e80cd87",
+  "provider": "RBE_Mocks",
+  "sourceFile": "RRB_Group_D_2025-26_Arithmetic_Top_35_Maths_Question.html",
+  "sourcePath": "RBE_MOCKS/RRB_Group_D_2025-26_Arithmetic_Top_35_Maths_Question.html",
+  "title": "RRB Group D 2025-26 Arithmetic Top 35 Maths Question",
+  "exam": "RRB",
+  "year": 2025,
+  "tier": null,
+  "shift": null,
+  "duration": 12,
+  "questionCount": 35,
+  "questions": [
+    {
+      "id": "11949e80cd87-q1",
+      "number": 1,
+      "question": "Find the number of all possible distinct pairs of two coprime integers such that their product is 180. ऐसे सभी संभव भिन्न युग्मों की संख्या ज्ञात कीजिए, जिनमें दो परस्पर सहभाज्य पूर्णांक हों और उनका गुणनफल 180 हो।",
+      "questionHtml": "<p> Find the number of all possible distinct pairs of two coprime integers such that their product is 180.</p><p>ऐसे सभी संभव भिन्न युग्मों की संख्या ज्ञात कीजिए, जिनमें दो परस्पर सहभाज्य पूर्णांक हों और उनका गुणनफल 180 हो।</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "html": "<p> 4</p>"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "<p> 3</p>"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "<p> 5</p>"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "<p> 2</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>180 = 2² × 3² × 5</p><p>→ Each prime power must go entirely to one side.</p><p>Distribute primes</p><p>Case 1: All to b → (1, 180)</p><p>Case 2: 2² to a → (4, 45)</p><p>Case 3: 3² to a → (9, 20)</p><p>Case 4: 5 to a → (5, 36)</p><p>Total = 4 pairs</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q2",
+      "number": 2,
+      "question": "What is the number of ordered pairs (x, y) where x, y are positive integers such that the eight digit number 74x8935y is divisible by 11? कितने क्रमित युग्म (x, y) हैं, जहाँ x और y धनात्मक पूर्णांक हैं, ताकि आठ अंकों की संख्या 74x8935y, 11 से विभाज्य हो?",
+      "questionHtml": "<p> What is the number of ordered pairs (x, y) where x, y are positive integers such that the eight digit number 74x8935y is divisible by 11?</p><p>कितने क्रमित युग्म (x, y) हैं, जहाँ x और y धनात्मक पूर्णांक हैं, ताकि आठ अंकों की संख्या 74x8935y, 11 से विभाज्य हो?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "6",
+          "html": "<p> 6</p>"
+        },
+        {
+          "id": "B",
+          "text": "9",
+          "html": "<p> 9</p>"
+        },
+        {
+          "id": "C",
+          "text": "10",
+          "html": "<p> 10</p>"
+        },
+        {
+          "id": "D",
+          "text": "7",
+          "html": "<p> 7 </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Number = 74x8935y</p><p>Apply divisibility rule of 11, </p><p>Odd-position sum = 7 + x + 9 + 5 = x + 21</p><p>Even-position sum = 4 + 8 + 3 + y = y + 15</p><p>Condition: (x + 21) − (y + 15) = 0/11</p><p>⇒ x − y = -6 and x − y = 5</p><p>Possible digit differences</p><p>x − y = 5 → (5,0), (6,1), (7,2), (8,3), (9,4) → 5 pairs</p><p>x − y = -6 → (0,6), (1,7), (2,8), (3,9) → 4 pairs</p><p>Total = 5 + 4 = 9 ordered pairs</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q3",
+      "number": 3,
+      "question": "A 6-digit number 648XYZ is divisible by 4, 9 and 10. Find the value of X + Z - Y, where Y is the smallest possible number. एक 6-अंकीय संख्या 648XYZ, 4, 9 और 10 से विभाज्य है। X + Z - Y का मान ज्ञात कीजिए, जहाँ Y सबसे छोटी संभव संख्या है।",
+      "questionHtml": "<p> A 6-digit number 648XYZ is divisible by 4, 9 and 10. Find the value of X + Z - Y, where Y is the smallest possible number.</p><p>एक 6-अंकीय संख्या 648XYZ, 4, 9 और 10 से विभाज्य है। X + Z - Y का मान ज्ञात कीजिए, जहाँ Y सबसे छोटी संभव संख्या है।</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "7",
+          "html": "<p> 7 </p>"
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "html": "<p> 5 </p>"
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "html": "<p> 0 </p>"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "<p> 2</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Divisible by 10 ⇒ Z = 0</p><p>Divisible by 4 ⇒ last two digits Y0 divisible by 4</p><p>Possible Y = 0, 2, 4, 6, 8</p><p>Smallest Y = 0</p><p>Divisible by 9 ⇒ digit sum divisible by 9</p><p>6 + 4 + 8 + X + 0 + 0 = 18 + X</p><p>Smallest X = 0</p><p>Thus number = 648000</p><p>So,</p><p>X + Z − Y = 0 + 0 − 0 = 0</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q4",
+      "number": 4,
+      "question": "What is the number of natural numbers less than or equal to 1000 and divisible by 5 or 7? 1000 या उससे कम प्राकृतिक संख्याओं में कितनी संख्याएँ 5 या 7 से विभाज्य हैं?",
+      "questionHtml": "<p> What is the number of natural numbers less than or equal to 1000 and divisible by 5 or 7?</p><p>1000 या उससे कम प्राकृतिक संख्याओं में कितनी संख्याएँ 5 या 7 से विभाज्य हैं?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "314",
+          "html": "<p> 314</p>"
+        },
+        {
+          "id": "B",
+          "text": "370",
+          "html": "<p> 370</p>"
+        },
+        {
+          "id": "C",
+          "text": "328",
+          "html": "<p> 328</p>"
+        },
+        {
+          "id": "D",
+          "text": "342",
+          "html": "<p> 342</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Count multiples of 5 ≤ 1000</p><p>⌊1000 ÷ 5⌋ = 200</p><p>Count multiples of 7 ≤ 1000</p><p>⌊1000 ÷ 7⌋ = 142</p><p>Subtract overlap (multiples of LCM(5,7)=35)</p><p>⌊1000 ÷ 35⌋ = 28</p><p>Total = 200 + 142 − 28 = 314</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q5",
+      "number": 5,
+      "question": "Let a, b, α and β be prime numbers. n is the number of ordered pairs of a and b where 2 < a < b < 50 and b - a = 2. Also, α and β are the least and the greatest prime numbers less than 50. What is the value of n(α + β)? मान लीजिए a, b, α और β अभाज्य संख्याएँ (prime numbers) हैं। n, a और b के क्रमित युग्मों (ordered pairs) की संख्या है जहाँ 2 < a < b < 50 और b - a = 2 है। साथ ही, α और β, 50 से कम सबसे छोटी और सबसे बड़ी अभाज्य संख्याएँ हैं। n(α + β) का मान क्या है?",
+      "questionHtml": "<p> Let a, b, α and β be prime numbers. n is the number of ordered pairs of a and b where 2 &lt; a &lt; b &lt; 50 and b - a = 2. Also, α and β are the least and the greatest prime numbers less than 50. What is the value of n(α + β)?</p><p>मान लीजिए a, b, α और β अभाज्य संख्याएँ (prime numbers) हैं। n, a और b के क्रमित युग्मों (ordered pairs) की संख्या है जहाँ 2 &lt; a &lt; b &lt; 50 और b - a = 2 है। साथ ही, α और β, 50 से कम सबसे छोटी और सबसे बड़ी अभाज्य संख्याएँ हैं। n(α + β) का मान क्या है?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "294",
+          "html": "<p> 294 </p>"
+        },
+        {
+          "id": "B",
+          "text": "598",
+          "html": "<p> 598 </p>"
+        },
+        {
+          "id": "C",
+          "text": "354",
+          "html": "<p> 354 </p>"
+        },
+        {
+          "id": "D",
+          "text": "493",
+          "html": "<p> 493</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Primes less than 50:</p><p>3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47</p><p>Twin primes (b − a = 2, 2 &lt; a &lt; b &lt; 50):</p><p>(3,5), (5,7), (11,13), (17,19), (29,31), (41,43)</p><p>So, n = 6</p><p>Least prime less than 50 ⇒ α = 2</p><p>Greatest prime less than 50 ⇒ β = 47</p><p>α + β = 2 + 47 = 49</p><p>Therefore, n(α + β) = 6 × 49 = 294</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q6",
+      "number": 6,
+      "question": "The number of prime numbers between 472 and 486 is: 472 और 486 के बीच अभाज्य संख्याओं की संख्या कितनी है?",
+      "questionHtml": "<p> The number of prime numbers between 472 and 486 is:</p><p>472 और 486 के बीच अभाज्य संख्याओं की संख्या कितनी है?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "<p> 3</p>"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "<p> 4</p>"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "<p> 2</p>"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "<p> 1</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Prime numbers between 472 and 486 = {479}</p><p>Number of primes = 1</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q7",
+      "number": 7,
+      "question": "Find the total prime numbers between 146 and 196. 146 और 196 के बीच कुल अभाज्य संख्याएँ ज्ञात कीजिए।",
+      "questionHtml": "<p> Find the total prime numbers between 146 and 196.</p><p>146 और 196 के बीच कुल अभाज्य संख्याएँ ज्ञात कीजिए।</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "html": "<p> 12</p>"
+        },
+        {
+          "id": "B",
+          "text": "11",
+          "html": "<p> 11</p>"
+        },
+        {
+          "id": "C",
+          "text": "10",
+          "html": "<p> 10</p>"
+        },
+        {
+          "id": "D",
+          "text": "13",
+          "html": "<p> 13</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Between 146 and 196, the prime numbers are:</p><p>149, 151, 157, 163, 167, 173, 179, 181, 191, 193</p><p>Number of primes = 10</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q8",
+      "number": 8,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image001.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image001.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "3/2",
+          "html": "<p> 3/2</p>"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "<p> 1</p>"
+        },
+        {
+          "id": "C",
+          "text": "5/2",
+          "html": "<p> 5/2</p>"
+        },
+        {
+          "id": "D",
+          "text": "1/2",
+          "html": "<p> 1/2</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image002.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q9",
+      "number": 9,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image014.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image014.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "3abc",
+          "html": "<p> 3abc</p>"
+        },
+        {
+          "id": "B",
+          "text": "2(a-b)(b-c)(c-a)",
+          "html": "<p> 2(a-b)(b-c)(c-a)</p>"
+        },
+        {
+          "id": "C",
+          "text": "(a+b)(b+c)(c+a)",
+          "html": "<p> (a+b)(b+c)(c+a)</p>"
+        },
+        {
+          "id": "D",
+          "text": "(a-b)(b-c)(c-a)",
+          "html": "<p> (a-b)(b-c)(c-a)</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image016.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q10",
+      "number": 10,
+      "question": "If 5.12 × 50625 × 0.5488 = 2ᵃ 3ᵇ 5ᶜ 7ᵈ, then find the value of a + b + c + d. यदि 5.12 × 50625 × 0.5488 = 2ᵃ 3ᵇ 5ᶜ 7ᵈ है, तो a + b + c + d का मान ज्ञात कीजिए।",
+      "questionHtml": "<p> If 5.12 × 50625 × 0.5488 = 2ᵃ 3ᵇ 5ᶜ 7ᵈ, then find the value of a + b + c + d.</p><p>यदि 5.12 × 50625 × 0.5488 = 2ᵃ 3ᵇ 5ᶜ 7ᵈ है, तो a + b + c + d का मान ज्ञात कीजिए।</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "23",
+          "html": "<p> 23</p>"
+        },
+        {
+          "id": "B",
+          "text": "14",
+          "html": "<p> 14</p>"
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "html": "<p> 12</p>"
+        },
+        {
+          "id": "D",
+          "text": "10",
+          "html": "<p> 10</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>5.12 = 2⁷ × 5⁻²</p><p>50625 = 3⁴ × 5⁴</p><p>0.5488 = 7³ × 5⁻⁴</p><p>Multiply:</p><p>= 2⁷ × 3⁴ × 5⁻² × 7³</p><p>So a = 7, b = 4, c = -2, d = 3</p><p>a + b + c + d = 12</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q11",
+      "number": 11,
+      "question": "The income of Raman is ₹68,800. He saves 18.5% of his income. If his income increases by 17% and expenditure increases by 25%, then his savings will: रमन की आय ₹68,800 है। वह अपनी आय का 18.5% बचाता है। यदि उसकी आय में 17% की वृद्धि होती है और व्यय (expenditure) में 25% की वृद्धि होती है, तो उसकी बचत:",
+      "questionHtml": "<p> The income of Raman is ₹68,800. He saves 18.5% of his income. If his income increases by 17% and expenditure increases by 25%, then his savings will:</p><p>रमन की आय ₹68,800 है। वह अपनी आय का 18.5% बचाता है। यदि उसकी आय में 17% की वृद्धि होती है और व्यय (expenditure) में 25% की वृद्धि होती है, तो उसकी बचत:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "decrease by ₹2,322 / ₹2,322 कम हो जाएगी",
+          "html": "<p> decrease by ₹2,322 / ₹2,322 कम हो जाएगी </p>"
+        },
+        {
+          "id": "B",
+          "text": "increase by ₹2,319 / ₹2,319 बढ़ जाएगी",
+          "html": "<p> increase by ₹2,319 / ₹2,319 बढ़ जाएगी </p>"
+        },
+        {
+          "id": "C",
+          "text": "increase by ₹2,325 / ₹2,325 बढ़ जाएगी",
+          "html": "<p> increase by ₹2,325 / ₹2,325 बढ़ जाएगी </p>"
+        },
+        {
+          "id": "D",
+          "text": "decrease by ₹2,325 / ₹2,325 कम हो जाएगी",
+          "html": "<p> decrease by ₹2,325 / ₹2,325 कम हो जाएगी</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Income = ₹68,800</p><p>Savings = 18.5% of 68,800 = 12,728</p><p>Expenditure = 68,800 − 12,728 = 56,072</p><p>New income = 68,800 × 1.17 = 80,496</p><p>New expenditure = 56,072 × 1.25 = 70,090</p><p>New savings = 80,496 − 70,090 = 10,406</p><p>Change in savings = 10,406 − 12,728 = −2,322</p><p>Option (a) decrease by ₹2,322 is the correct answer.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q12",
+      "number": 12,
+      "question": "The income of Raman is ₹50,400. He saves 7.5% of his income. If his income increases by 26% and expenditure increases by 45%, then his savings will: रमन की आय ₹50,400 है। वह अपनी आय का 7.5% बचाता है। यदि उसकी आय में 26% की वृद्धि होती है और व्यय (expenditure) में 45% की वृद्धि होती है, तो उसकी बचत:",
+      "questionHtml": "<p> The income of Raman is ₹50,400. He saves 7.5% of his income. If his income increases by 26% and expenditure increases by 45%, then his savings will:</p><p>रमन की आय ₹50,400 है। वह अपनी आय का 7.5% बचाता है। यदि उसकी आय में 26% की वृद्धि होती है और व्यय (expenditure) में 45% की वृद्धि होती है, तो उसकी बचत:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "increase by ₹7,878 / ₹7,878 बढ़ जाएगी",
+          "html": "<p> increase by ₹7,878 / ₹7,878 बढ़ जाएगी </p>"
+        },
+        {
+          "id": "B",
+          "text": "decrease by ₹7,880 / ₹7,880 कम हो जाएगी",
+          "html": "<p> decrease by ₹7,880 / ₹7,880 कम हो जाएगी </p>"
+        },
+        {
+          "id": "C",
+          "text": "increase by ₹7,872 / ₹7,872 बढ़ जाएगी",
+          "html": "<p> increase by ₹7,872 / ₹7,872 बढ़ जाएगी </p>"
+        },
+        {
+          "id": "D",
+          "text": "decrease by ₹7,875 / ₹7,875 कम हो जाएगी",
+          "html": "<p> decrease by ₹7,875 / ₹7,875 कम हो जाएगी</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Income = ₹50,400</p><p>Savings = 7.5% of 50,400 = 3,780</p><p>Expenditure = 50,400 − 3,780 = 46,620</p><p>New income = 50,400 × 1.26 = 63,504</p><p>New expenditure = 46,620 × 1.45 = 67,599</p><p>New savings = 63,504 − 67,599 = −4,095 (negative, i.e. deficit)</p><p>Change in savings = −4,095 − 3,780 = −7,875</p><p>Option (d) decrease by ₹7,875 is the correct answer.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q13",
+      "number": 13,
+      "question": "The insect population in a building was 9580 in 2015. It increased by 12% in 2016, decreased by 8% in 2017, and again increased by 8% in 2018. Find the insect population in 2018, rounded off to the nearest integer. एक इमारत में कीड़ों की आबादी 2015 में 9580 थी। 2016 में इसमें 12% की वृद्धि हुई, 2017 में 8% की कमी आई और 2018 में फिर से 8% की वृद्धि हुई। 2018 में कीड़ों की आबादी ज्ञात कीजिए, निकटतम पूर्णांक (nearest integer) तक।",
+      "questionHtml": "<p> The insect population in a building was 9580 in 2015. It increased by 12% in 2016, decreased by 8% in 2017, and again increased by 8% in 2018. Find the insect population in 2018, rounded off to the nearest integer.</p><p>एक इमारत में कीड़ों की आबादी 2015 में 9580 थी। 2016 में इसमें 12% की वृद्धि हुई, 2017 में 8% की कमी आई और 2018 में फिर से 8% की वृद्धि हुई। 2018 में कीड़ों की आबादी ज्ञात कीजिए, निकटतम पूर्णांक (nearest integer) तक।</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10,661",
+          "html": "<p> 10,661 </p>"
+        },
+        {
+          "id": "B",
+          "text": "10,665",
+          "html": "<p> 10,665 </p>"
+        },
+        {
+          "id": "C",
+          "text": "11,661",
+          "html": "<p> 11,661 </p>"
+        },
+        {
+          "id": "D",
+          "text": "11,665",
+          "html": "<p> 11,665</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image019.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q14",
+      "number": 14,
+      "question": "₹10,415 is divided among P, Q, and R in such a way that if ₹62, ₹17, and ₹79 are deducted from their respective shares, they have money in the ratio 15:10:14. Find the difference between the original shares of Q and R. ₹10,415 को P, Q और R के बीच इस तरह विभाजित किया गया है कि यदि उनके संबंधित शेयरों से ₹62, ₹17 और ₹79 काट लिए जाते हैं, तो उनके पास 15:10:14 के अनुपात में धन होता है। Q और R के मूल शेयरों के बीच का अंतर ज्ञात कीजिए।",
+      "questionHtml": "<p> ₹10,415 is divided among P, Q, and R in such a way that if ₹62, ₹17, and ₹79 are deducted from their respective shares, they have money in the ratio 15:10:14. Find the difference between the original shares of Q and R.</p><p>₹10,415 को P, Q और R के बीच इस तरह विभाजित किया गया है कि यदि उनके संबंधित शेयरों से ₹62, ₹17 और ₹79 काट लिए जाते हैं, तो उनके पास 15:10:14 के अनुपात में धन होता है। Q और R के मूल शेयरों के बीच का अंतर ज्ञात कीजिए।</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹1,114",
+          "html": "<p> ₹1,114 </p>"
+        },
+        {
+          "id": "B",
+          "text": "₹1,202",
+          "html": "<p> ₹1,202 </p>"
+        },
+        {
+          "id": "C",
+          "text": "₹1,152",
+          "html": "<p> ₹1,152 </p>"
+        },
+        {
+          "id": "D",
+          "text": "₹902",
+          "html": "<p> ₹902</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Total = ₹10,415</p><p>Let shares be P, Q, R.</p><p>After deductions: </p><p>(P − 62), (Q − 17), (R − 79) in ratio 15 : 10 : 14.</p><p>P − 62 = 15k</p><p>Q − 17 = 10k</p><p>R − 79 = 14k</p><p>P = 15k + 62, Q = 10k + 17, R = 14k + 79</p><p>Sum: P + Q + R = 10,415</p><p>= (15k + 62) + (10k + 17) + (14k + 79) = 39k + 158</p><p>39k + 158 = 10,415</p><p>⇒ 39k = 10,257 ⇒ k = 263</p><p>Q = 10(263) + 17 = 2,647</p><p>R = 14(263) + 79 = 3,761</p><p>Difference = R − Q = 3,761 − 2,647 = 1,114</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q15",
+      "number": 15,
+      "question": "When x is added to each of 10, 14, 38 and 28, then the numbers so obtained, in this order, are in proportion. Then, if 3x : y :: y : (5x - 6), and y > 0, what is the value of y? जब 10, 14, 38 और 28 में से प्रत्येक में x जोड़ा जाता है, तो इस क्रम में प्राप्त संख्याएँ समानुपात में होती हैं। फिर, यदि 3x : y :: y : (5x - 6), और y > 0 है, तो y का मान क्या है?",
+      "questionHtml": "<p> When x is added to each of 10, 14, 38 and 28, then the numbers so obtained, in this order, are in proportion. Then, if 3x : y :: y : (5x - 6), and y &gt; 0, what is the value of y?</p><p>जब 10, 14, 38 और 28 में से प्रत्येक में x जोड़ा जाता है, तो इस क्रम में प्राप्त संख्याएँ समानुपात में होती हैं। फिर, यदि 3x : y :: y : (5x - 6), और y &gt; 0 है, तो y का मान क्या है?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "78",
+          "html": "<p> 78 </p>"
+        },
+        {
+          "id": "B",
+          "text": "72",
+          "html": "<p> 72 </p>"
+        },
+        {
+          "id": "C",
+          "text": "65",
+          "html": "<p> 65 </p>"
+        },
+        {
+          "id": "D",
+          "text": "79",
+          "html": "<p> 79</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image025.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q16",
+      "number": 16,
+      "question": "A hole can empty a full tank in 1 hour. To maintain the level of water in the tank, 3 filling pipes of equal efficiency are required. How many more such filling pipes are required so that an empty tank gets filled in 3 hours? एक छेद एक भरे हुए टैंक को 1 घंटे में खाली कर सकता है। टैंक में पानी के स्तर को बनाए रखने के लिए, समान दक्षता वाले 3 भरने वाले पाइपों की आवश्यकता होती है। ऐसे कितने और भरने वाले पाइपों की आवश्यकता है ताकि एक खाली टैंक 3 घंटे में भर जाए?",
+      "questionHtml": "<p> A hole can empty a full tank in 1 hour. To maintain the level of water in the tank, 3 filling pipes of equal efficiency are required. How many more such filling pipes are required so that an empty tank gets filled in 3 hours?</p><p>एक छेद एक भरे हुए टैंक को 1 घंटे में खाली कर सकता है। टैंक में पानी के स्तर को बनाए रखने के लिए, समान दक्षता वाले 3 भरने वाले पाइपों की आवश्यकता होती है। ऐसे कितने और भरने वाले पाइपों की आवश्यकता है ताकि एक खाली टैंक 3 घंटे में भर जाए?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "<p> 0 </p>"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "<p> 3 </p>"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "<p> 2 </p>"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "<p> 1</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image026.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q17",
+      "number": 17,
+      "question": "20 men can reap a field in 18 days. If the goal is to finish reaping the field in 30 days, after how many days should 9 men stop working? 20 पुरुष 18 दिनों में एक खेत की कटाई कर सकते हैं। यदि लक्ष्य खेत की कटाई 30 दिनों में पूरी करने का है, तो 9 पुरुषों को कितने दिनों के बाद काम बंद कर देना चाहिए?",
+      "questionHtml": "<p> 20 men can reap a field in 18 days. If the goal is to finish reaping the field in 30 days, after how many days should 9 men stop working?</p><p>20 पुरुष 18 दिनों में एक खेत की कटाई कर सकते हैं। यदि लक्ष्य खेत की कटाई 30 दिनों में पूरी करने का है, तो 9 पुरुषों को कितने दिनों के बाद काम बंद कर देना चाहिए?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1(1/2) days",
+          "html": "<p> 1(1/2) days</p>"
+        },
+        {
+          "id": "B",
+          "text": "2 (1/2) days",
+          "html": "<p> 2 (1/2) days </p>"
+        },
+        {
+          "id": "C",
+          "text": "4 (1/2) days",
+          "html": "<p> 4 (1/2) days</p>"
+        },
+        {
+          "id": "D",
+          "text": "3 (1/3) days",
+          "html": "<p> 3 (1/3) days</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image029.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q18",
+      "number": 18,
+      "question": "Mahi would need twice as much time as Neha and Asha combined, while Asha would require three times as much time as Neha and Mahi combined to complete a certain task. If all three friends work together, they can finish the task in 20 days. How many days would Neha take to complete the same task on her own? माही को किसी कार्य को पूरा करने में नेहा और आशा की तुलना में दोगुना समय लगेगा, जबकि आशा को उसी कार्य को पूरा करने में नेहा और माही की तुलना में तीन गुना समय लगेगा। यदि तीनों मित्र एक साथ मिलकर कार्य करते हैं, तो वे कार्य को 20 दिनों में पूरा कर सकते हैं। नेहा अकेले उसी कार्य को पूरा करने में कितने दिन लेगी?",
+      "questionHtml": "<p> Mahi would need twice as much time as Neha and Asha combined, while Asha would require three times as much time as Neha and Mahi combined to complete a certain task. If all three friends work together, they can finish the task in 20 days. How many days would Neha take to complete the same task on her own?</p><p>माही को किसी कार्य को पूरा करने में नेहा और आशा की तुलना में दोगुना समय लगेगा, जबकि आशा को उसी कार्य को पूरा करने में नेहा और माही की तुलना में तीन गुना समय लगेगा। यदि तीनों मित्र एक साथ मिलकर कार्य करते हैं, तो वे कार्य को 20 दिनों में पूरा कर सकते हैं। नेहा अकेले उसी कार्य को पूरा करने में कितने दिन लेगी?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "48 days",
+          "html": "<p> 48 days </p>"
+        },
+        {
+          "id": "B",
+          "text": "42 days",
+          "html": "<p> 42 days </p>"
+        },
+        {
+          "id": "C",
+          "text": "24 days",
+          "html": "<p> 24 days </p>"
+        },
+        {
+          "id": "D",
+          "text": "36 days",
+          "html": "<p> 36 days</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image031.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q19",
+      "number": 19,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image040.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image040.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "18",
+          "html": "<p> 18</p>"
+        },
+        {
+          "id": "B",
+          "text": "21",
+          "html": "<p> 21</p>"
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "html": "<p> 12</p>"
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "html": "<p> 15</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image041.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q20",
+      "number": 20,
+      "question": "Two pipes can fill a tank in 10 and 12 minutes respectively and a waste pipe can empty 6 gallons per minute. All the three pipes working together can fill the tank in 30 minutes. Find the capacity of the tank. दो पाइप एक टैंक को क्रमशः 10 और 12 मिनट में भर सकते हैं और एक अपशिष्ट पाइप (waste pipe) 6 गैलन प्रति मिनट खाली कर सकता है। तीनों पाइप एक साथ काम करते हुए टैंक को 30 मिनट में भर सकते हैं। टैंक की क्षमता ज्ञात कीजिए।",
+      "questionHtml": "<p> Two pipes can fill a tank in 10 and 12 minutes respectively and a waste pipe can empty 6 gallons per minute. All the three pipes working together can fill the tank in 30 minutes. Find the capacity of the tank.</p><p>दो पाइप एक टैंक को क्रमशः 10 और 12 मिनट में भर सकते हैं और एक अपशिष्ट पाइप (waste pipe) 6 गैलन प्रति मिनट खाली कर सकता है। तीनों पाइप एक साथ काम करते हुए टैंक को 30 मिनट में भर सकते हैं। टैंक की क्षमता ज्ञात कीजिए।</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "45 gallons",
+          "html": "<p> 45 gallons </p>"
+        },
+        {
+          "id": "B",
+          "text": "25 gallons",
+          "html": "<p> 25 gallons </p>"
+        },
+        {
+          "id": "C",
+          "text": "30 gallons",
+          "html": "<p> 30 gallons </p>"
+        },
+        {
+          "id": "D",
+          "text": "40 gallons",
+          "html": "<p> 40 gallons</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image047.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q21",
+      "number": 21,
+      "question": "A seasoned marathoner, known for his steady pace, usually runs the first half of a race at 8 km/hr and the second half at 6 km/hr. However, due to fatigue and other factors, his overall speed drops by 30%. How long will it take him to complete a 120 km marathon under these reduced-speed conditions? एक अनुभवी मैराथन धावक, जो अपनी स्थिर गति के लिए जाना जाता है, आमतौर पर दौड़ का पहला आधा हिस्सा 8 किमी/घंटा और दूसरा आधा हिस्सा 6 किमी/घंटा की गति से दौड़ता है। हालाँकि, थकान और अन्य कारकों के कारण, उसकी कुल गति 30% कम हो जाती है। इन कम गति वाली परिस्थितियों में उसे 120 किमी की मैराथन पूरी करने में कितना समय लगेगा?",
+      "questionHtml": "<p> A seasoned marathoner, known for his steady pace, usually runs the first half of a race at 8 km/hr and the second half at 6 km/hr. However, due to fatigue and other factors, his overall speed drops by 30%. How long will it take him to complete a 120 km marathon under these reduced-speed conditions?</p><p>एक अनुभवी मैराथन धावक, जो अपनी स्थिर गति के लिए जाना जाता है, आमतौर पर दौड़ का पहला आधा हिस्सा 8 किमी/घंटा और दूसरा आधा हिस्सा 6 किमी/घंटा की गति से दौड़ता है। हालाँकि, थकान और अन्य कारकों के कारण, उसकी कुल गति 30% कम हो जाती है। इन कम गति वाली परिस्थितियों में उसे 120 किमी की मैराथन पूरी करने में कितना समय लगेगा?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12.5 hours",
+          "html": "<p> 12.5 hours</p>"
+        },
+        {
+          "id": "B",
+          "text": "25 hours",
+          "html": "<p> 25 hours</p>"
+        },
+        {
+          "id": "C",
+          "text": "15 hours",
+          "html": "<p> 15 hours</p>"
+        },
+        {
+          "id": "D",
+          "text": "17.5 hours",
+          "html": "<p> 17.5 hours</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image050.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q22",
+      "number": 22,
+      "question": "A motorist travels 30 km in 50 minutes. He drives at a speed of x km/hr for the first 12 minutes, then at 2x km/hr for the next 22 minutes and finally at x km/hr for the remainder of the journey. Determine the value of x. एक मोटर चालक 50 मिनट में 30 किमी की यात्रा करता है। वह पहले 12 मिनट के लिए x किमी/घंटा की गति से गाड़ी चलाता है, फिर अगले 22 मिनट के लिए 2x किमी/घंटा की गति से और अंत में शेष यात्रा के लिए x किमी/घंटा की गति से गाड़ी चलाता है। x का मान ज्ञात कीजिए।",
+      "questionHtml": "<p> A motorist travels 30 km in 50 minutes. He drives at a speed of x km/hr for the first 12 minutes, then at 2x km/hr for the next 22 minutes and finally at x km/hr for the remainder of the journey. Determine the value of x.</p><p>एक मोटर चालक 50 मिनट में 30 किमी की यात्रा करता है। वह पहले 12 मिनट के लिए x किमी/घंटा की गति से गाड़ी चलाता है, फिर अगले 22 मिनट के लिए 2x किमी/घंटा की गति से और अंत में शेष यात्रा के लिए x किमी/घंटा की गति से गाड़ी चलाता है। x का मान ज्ञात कीजिए।</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "30",
+          "html": "<p> 30 </p>"
+        },
+        {
+          "id": "B",
+          "text": "28",
+          "html": "<p> 28 </p>"
+        },
+        {
+          "id": "C",
+          "text": "25",
+          "html": "<p> 25 </p>"
+        },
+        {
+          "id": "D",
+          "text": "22",
+          "html": "<p> 22</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image060.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q23",
+      "number": 23,
+      "question": "Train P, going at the speed of 51 km/hr, completely passes Train Q of length 225 m, going in the same direction on parallel tracks, at 22 km/hr, in 7.5 minutes. How much time (in seconds) will P take to completely cross Train R of length 420 m, going at 21 km/hr in the opposite direction? ट्रेन P, जो 51 किमी/घंटा की गति से चल रही है, समान दिशा में समानांतर पटरियों पर 22 किमी/घंटा की गति से चल रही 225 मीटर लंबी ट्रेन Q को 7.5 मिनट में पूरी तरह से पार कर लेती है। ट्रेन P, विपरीत दिशा में 21 किमी/घंटा की गति से चल रही 420 मीटर लंबी ट्रेन R को पूरी तरह से पार करने में कितना समय (सेकंड में) लेगी?",
+      "questionHtml": "<p> Train P, going at the speed of 51 km/hr, completely passes Train Q of length 225 m, going in the same direction on parallel tracks, at 22 km/hr, in 7.5 minutes. How much time (in seconds) will P take to completely cross Train R of length 420 m, going at 21 km/hr in the opposite direction?</p><p>ट्रेन P, जो 51 किमी/घंटा की गति से चल रही है, समान दिशा में समानांतर पटरियों पर 22 किमी/घंटा की गति से चल रही 225 मीटर लंबी ट्रेन Q को 7.5 मिनट में पूरी तरह से पार कर लेती है। ट्रेन P, विपरीत दिशा में 21 किमी/घंटा की गति से चल रही 420 मीटर लंबी ट्रेन R को पूरी तरह से पार करने में कितना समय (सेकंड में) लेगी?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "193",
+          "html": "<p> 193 </p>"
+        },
+        {
+          "id": "B",
+          "text": "191",
+          "html": "<p> 191 </p>"
+        },
+        {
+          "id": "C",
+          "text": "196",
+          "html": "<p> 196 </p>"
+        },
+        {
+          "id": "D",
+          "text": "181",
+          "html": "<p> 181</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image076.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q24",
+      "number": 24,
+      "question": "A train overtakes two people walking along a railway track. The first person walks at 7.2 km/hr, and the second person walks at 14.4 km/hr. The train takes 29.9 seconds to pass the first person and 43.7 seconds to pass the second person. What is the speed of the train if both are walking in the same direction as the train? एक ट्रेन रेलवे ट्रैक पर चल रहे दो व्यक्तियों को ओवरटेक करती है। पहला व्यक्ति 7.2 किमी/घंटा की गति से चलता है और दूसरा व्यक्ति 14.4 किमी/घंटा की गति से चलता है। ट्रेन पहले व्यक्ति को पार करने में 29.9 सेकंड और दूसरे व्यक्ति को पार करने में 43.7 सेकंड लेती है। यदि दोनों ट्रेन की ही दिशा में चल रहे हों, तो ट्रेन की गति क्या है?",
+      "questionHtml": "<p> A train overtakes two people walking along a railway track. The first person walks at 7.2 km/hr, and the second person walks at 14.4 km/hr. The train takes 29.9 seconds to pass the first person and 43.7 seconds to pass the second person. What is the speed of the train if both are walking in the same direction as the train?</p><p>एक ट्रेन रेलवे ट्रैक पर चल रहे दो व्यक्तियों को ओवरटेक करती है। पहला व्यक्ति 7.2 किमी/घंटा की गति से चलता है और दूसरा व्यक्ति 14.4 किमी/घंटा की गति से चलता है। ट्रेन पहले व्यक्ति को पार करने में 29.9 सेकंड और दूसरे व्यक्ति को पार करने में 43.7 सेकंड लेती है। यदि दोनों ट्रेन की ही दिशा में चल रहे हों, तो ट्रेन की गति क्या है?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "36 km/hr",
+          "html": "<p> 36 km/hr</p>"
+        },
+        {
+          "id": "B",
+          "text": "38 km/hr",
+          "html": "<p> 38 km/hr </p>"
+        },
+        {
+          "id": "C",
+          "text": "27 km/hr",
+          "html": "<p> 27 km/hr</p>"
+        },
+        {
+          "id": "D",
+          "text": "30 km/hr",
+          "html": "<p> 30 km/hr</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image078.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q25",
+      "number": 25,
+      "question": "A train can travel 60% faster than a car. Both start from point A at the same time and reach point B, which is 60 km away, simultaneously. However, the train loses 20 minutes due to stops at stations. What is the speed of the car? एक ट्रेन कार से 60% अधिक गति से चल सकती है। दोनों बिंदु A से एक ही समय पर चलकर बिंदु B (जो 60 किमी दूर है) पर एक साथ पहुँचते हैं। परंतु ट्रेन स्टेशनों पर रुकने के कारण 20 मिनट खो देती है। कार की गति क्या है?",
+      "questionHtml": "<p> A train can travel 60% faster than a car. Both start from point A at the same time and reach point B, which is 60 km away, simultaneously. However, the train loses 20 minutes due to stops at stations. What is the speed of the car?</p><p>एक ट्रेन कार से 60% अधिक गति से चल सकती है। दोनों बिंदु A से एक ही समय पर चलकर बिंदु B (जो 60 किमी दूर है) पर एक साथ पहुँचते हैं। परंतु ट्रेन स्टेशनों पर रुकने के कारण 20 मिनट खो देती है। कार की गति क्या है?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "52.5 km/h",
+          "html": "<p> 52.5 km/h</p>"
+        },
+        {
+          "id": "B",
+          "text": "57.5 km/h",
+          "html": "<p> 57.5 km/h </p>"
+        },
+        {
+          "id": "C",
+          "text": "62.5 km/h",
+          "html": "<p> 62.5 km/h</p>"
+        },
+        {
+          "id": "D",
+          "text": "67.5 km/h",
+          "html": "<p> 67.5 km/h</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image084.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q26",
+      "number": 26,
+      "question": "A and B started moving at the same time towards each other from points X and Y, respectively. After meeting on the way, A and B took 90.9 hours and p hours, respectively, to reach Y and X, respectively. If the speed of B is 50% more than that of A, then what is the value of p? A और B ने क्रमशः बिंदुओं X और Y से एक ही समय में चलना शुरू किया। रास्ते में मिलने के बाद, A और B को क्रमशः Y और X तक पहुँचने में क्रमशः 90.9 घंटे और p घंटे लगे। यदि B की गति A की तुलना में 50% अधिक है, तो p का मान क्या है?",
+      "questionHtml": "<p> A and B started moving at the same time towards each other from points X and Y, respectively. After meeting on the way, A and B took 90.9 hours and p hours, respectively, to reach Y and X, respectively. If the speed of B is 50% more than that of A, then what is the value of p?</p><p>A और B ने क्रमशः बिंदुओं X और Y से एक ही समय में चलना शुरू किया। रास्ते में मिलने के बाद, A और B को क्रमशः Y और X तक पहुँचने में क्रमशः 90.9 घंटे और p घंटे लगे। यदि B की गति A की तुलना में 50% अधिक है, तो p का मान क्या है?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "40.4",
+          "html": "<p> 40.4 </p>"
+        },
+        {
+          "id": "B",
+          "text": "42.4",
+          "html": "<p> 42.4 </p>"
+        },
+        {
+          "id": "C",
+          "text": "38.9",
+          "html": "<p> 38.9 </p>"
+        },
+        {
+          "id": "D",
+          "text": "39.7",
+          "html": "<p> 39.7</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image085.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q27",
+      "number": 27,
+      "question": "A and B started moving at the same time towards each other from points X and Y, respectively. After meeting on the way, A and B took 95.4 hours and p hours, respectively, to reach Y and X, respectively. If the speed of B is 50% more than that of A, then what is the value of p? A और B ने क्रमशः बिंदुओं X और Y से एक-दूसरे की ओर एक ही समय में चलना शुरू किया। रास्ते में मिलने के बाद, A और B को क्रमशः Y और X तक पहुँचने में क्रमशः 95.4 घंटे और p घंटे लगे। यदि B की गति A की तुलना में 50% अधिक है, तो p का मान क्या है?",
+      "questionHtml": "<p> A and B started moving at the same time towards each other from points X and Y, respectively. After meeting on the way, A and B took 95.4 hours and p hours, respectively, to reach Y and X, respectively. If the speed of B is 50% more than that of A, then what is the value of p?</p><p>A और B ने क्रमशः बिंदुओं X और Y से एक-दूसरे की ओर एक ही समय में चलना शुरू किया। रास्ते में मिलने के बाद, A और B को क्रमशः Y और X तक पहुँचने में क्रमशः 95.4 घंटे और p घंटे लगे। यदि B की गति A की तुलना में 50% अधिक है, तो p का मान क्या है?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "43.8",
+          "html": "<p> 43.8 </p>"
+        },
+        {
+          "id": "B",
+          "text": "40.4",
+          "html": "<p> 40.4 </p>"
+        },
+        {
+          "id": "C",
+          "text": "42.4",
+          "html": "<p> 42.4 </p>"
+        },
+        {
+          "id": "D",
+          "text": "44.5",
+          "html": "<p> 44.5</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image089.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q28",
+      "number": 28,
+      "question": "A man has to cover a distance of 168 km in 18 hours. If he covers two-thirds of this distance in 4/6th of the time, then what should be his speed (in km/hr, rounded off to one decimal place) to cover the remaining distance in the time left? एक व्यक्ति को 18 घंटे में 168 किमी की दूरी तय करनी है। यदि वह इस दूरी के दो-तिहाई भाग को कुल समय के 4/6 भाग में तय कर लेता है, तो शेष दूरी को बचे हुए समय में तय करने के लिए उसकी गति (किमी/घंटा में, एक दशमलव स्थान तक पूर्णांकित) क्या होनी चाहिए?",
+      "questionHtml": "<p> A man has to cover a distance of 168 km in 18 hours. If he covers two-thirds of this distance in 4/6th of the time, then what should be his speed (in km/hr, rounded off to one decimal place) to cover the remaining distance in the time left?</p><p>एक व्यक्ति को 18 घंटे में 168 किमी की दूरी तय करनी है। यदि वह इस दूरी के दो-तिहाई भाग को कुल समय के 4/6 भाग में तय कर लेता है, तो शेष दूरी को बचे हुए समय में तय करने के लिए उसकी गति (किमी/घंटा में, एक दशमलव स्थान तक पूर्णांकित) क्या होनी चाहिए?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4.7",
+          "html": "<p> 4.7</p>"
+        },
+        {
+          "id": "B",
+          "text": "8.8",
+          "html": "<p> 8.8</p>"
+        },
+        {
+          "id": "C",
+          "text": "4.6",
+          "html": "<p> 4.6</p>"
+        },
+        {
+          "id": "D",
+          "text": "9.3",
+          "html": "<p> 9.3</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image092.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q29",
+      "number": 29,
+      "question": "The product of mean and mode is 24 and the product of median and mean is 32. If the square root of the sum of squares of mean, 3 times median and mode is a×√(b×11), find √(a+b). माध्य और बहुलक का गुणनफल 24 है तथा माध्यिका और माध्य का गुणनफल 32 है। यदि माध्य, 3 गुना माध्यिका तथा बहुलक के वर्गों के योग का वर्गमूल a×√(b×11) है, तो √(a+b) ज्ञात कीजिए।",
+      "questionHtml": "<p> The product of mean and mode is 24 and the product of median and mean is 32. If the square root of the sum of squares of mean, 3 times median and mode is a×√(b×11), find √(a+b).</p><p>माध्य और बहुलक का गुणनफल 24 है तथा माध्यिका और माध्य का गुणनफल 32 है। यदि माध्य, 3 गुना माध्यिका तथा बहुलक के वर्गों के योग का वर्गमूल a×√(b×11) है, तो √(a+b) ज्ञात कीजिए।</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "<p> 3</p>"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "<p> 6</p>"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "<p> 5</p>"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "<p> 4</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image097.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q30",
+      "number": 30,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image111.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image111.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image112.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image112.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image113.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image113.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image114.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image114.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image115.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image115.png"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image116.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q31",
+      "number": 31,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image123.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image123.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "html": "<p> 12</p>"
+        },
+        {
+          "id": "B",
+          "text": "11",
+          "html": "<p> 11</p>"
+        },
+        {
+          "id": "C",
+          "text": "10",
+          "html": "<p> 10</p>"
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "html": "<p> 15</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image125.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q32",
+      "number": 32,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image133.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image133.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "36.25",
+          "html": "<p> 36.25</p>"
+        },
+        {
+          "id": "B",
+          "text": "24.25",
+          "html": "<p> 24.25</p>"
+        },
+        {
+          "id": "C",
+          "text": "21.64",
+          "html": "<p> 21.64</p>"
+        },
+        {
+          "id": "D",
+          "text": "32.25",
+          "html": "<p> 32.25</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image134.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q33",
+      "number": 33,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image137.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image137.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "28",
+          "html": "<p> 28</p>"
+        },
+        {
+          "id": "B",
+          "text": "42",
+          "html": "<p> 42</p>"
+        },
+        {
+          "id": "C",
+          "text": "36",
+          "html": "<p> 36</p>"
+        },
+        {
+          "id": "D",
+          "text": "50",
+          "html": "<p> 50</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image138.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q34",
+      "number": 34,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image142.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image142.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "9.23",
+          "html": "<p> 9.23</p>"
+        },
+        {
+          "id": "B",
+          "text": "7.05",
+          "html": "<p> 7.05</p>"
+        },
+        {
+          "id": "C",
+          "text": "8.15",
+          "html": "<p> 8.15</p>"
+        },
+        {
+          "id": "D",
+          "text": "6.03",
+          "html": "<p> 6.03</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image143.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "11949e80cd87-q35",
+      "number": 35,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image145.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image145.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "<p> 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "<p> 3</p>"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "<p> 2</p>"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "<p> 4</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772695012104_image146.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

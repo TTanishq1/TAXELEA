@@ -1,0 +1,379 @@
+{
+  "id": "7a3327db23e8",
+  "provider": "Testbook",
+  "sourceFile": "CT 13_ Compound Interest.html",
+  "sourcePath": "Testbook/files/CT 13_ Compound Interest.html",
+  "title": "CT 13: Compound Interest",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "7a3327db23e8-q1",
+      "number": 1,
+      "question": "A sum of Rs. 10500 becomes Rs. 17745 in 2 years at the rate of compound interest. If the interest is compounded annually, then what will be the rate of interest?",
+      "questionHtml": "A sum of Rs. 10500 becomes Rs. 17745 in 2 years at the rate of compound interest. If the interest is compounded annually, then what will be the rate of interest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "40%",
+          "html": "40%"
+        },
+        {
+          "id": "B",
+          "text": "30%",
+          "html": "30%"
+        },
+        {
+          "id": "C",
+          "text": "25%",
+          "html": "25%"
+        },
+        {
+          "id": "D",
+          "text": "20%",
+          "html": "20%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"\">Amount = Principal × [1 + r/100]<sup style=\"\">n</sup></p>\n\n<p style=\"\">17745 = 10500 × [1 + r/100]<sup style=\"\">2</sup><sup style=\"\"> </sup></p>\n\n<p style=\"\">⇒ 17745/10500 = [1 + r/100]<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span></p>\n\n<div>\n<p>⇒ 169/100 = [1 + r/100]<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size: 10.5px;\">2</span></p>\n\n<p>Taking square root on both sides, we get,</p>\n\n<div>⇒ 13/10 = 1 + r/100</div>\n\n<div>⇒ 13/10 = (100 + r)/100</div>\n\n<div>⇒ 13 = (100 + r)10</div>\n\n<div>⇒ 130 = 100 + r</div>\n\n<div>⇒ r = 130 –100</div>\n\n<div>⇒ r = 30</div>\n</div>\n\n<p style=\"\"><strong>∴ Rate = 0.30 × 100 = 30%</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a3327db23e8-q2",
+      "number": 2,
+      "question": "A person invests Rs. 8192 at 15% compounded after every 5 months for \\(1{{1} \\over 4}\\) years. Then find the compound interest.",
+      "questionHtml": "A person invests Rs. 8192 at 15% compounded after every 5 months for <span class=\"math-tex\">\\(1{{1} \\over 4}\\)</span>&nbsp;years. Then find the compound interest.&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 1544",
+          "html": "Rs. 1544"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 1764",
+          "html": "Rs. 1764"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 1634",
+          "html": "Rs. 1634"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 1884",
+          "html": "Rs. 1884"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given&nbsp;</strong></p>\n\n<p>A person invests = Rs. 8192&nbsp;</p>\n\n<p>Rate of Interest = 15% = (15/12) &times; 5 = 6.25%</p>\n\n<p>Time = 5/4 years = 15 months&nbsp;</p>\n\n<p><b>Formula Used&nbsp;</b></p>\n\n<p>Amount&nbsp;= Principal(1 + R/100)<sup>t</sup>&nbsp;(where t = no. of times)</p>\n\n<p><strong>Calculation&nbsp;</strong></p>\n\n<p>No. of times = 15/5 = 3</p>\n\n<p>Amount = 8192(1 + 6.25/100)<sup>3</sup></p>\n\n<p>&rArr; 9826</p>\n\n<p>Compound Interest = Amount - Principal = 9,826 - 8192 = Rs. 1,634</p>\n\n<p><strong>&there4; The required answer is Rs. 1634</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a3327db23e8-q3",
+      "number": 3,
+      "question": "A sum of money becomes Rs. 32490 in 2 years when kept at compound interest (compounded annually). If the rate of interest is 14 percent per annum, then what is the sum of money?",
+      "questionHtml": "A sum of money becomes Rs. 32490 in 2 years when kept at compound interest (compounded annually). If the rate of interest is 14 percent per annum, then what is the sum of money?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs 27000",
+          "html": "Rs 27000"
+        },
+        {
+          "id": "B",
+          "text": "Rs 28000",
+          "html": "Rs 28000"
+        },
+        {
+          "id": "C",
+          "text": "Rs 24000",
+          "html": "Rs 24000"
+        },
+        {
+          "id": "D",
+          "text": "Rs 25000",
+          "html": "Rs 25000"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p><strong>Rate</strong> 14% = 7/50. Compounding factor = 57/50.</p>\n<p>For 2 years, the ratio of <strong>Principal (P)</strong> to <strong>Amount (A)</strong> is (50)<sup>2</sup> : (57)<sup>2</sup> = 2500 : 3249.</p>\n<p>Given <strong>Amount</strong> = 3249 units = ₹32490.</p>\n<p>→ 1 unit = ₹10.</p>\n<p><strong>Principal (Sum)</strong> = 2500 units × 10 = ₹25000.</p>\n<p><strong>∴ The correct answer is ₹25000.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_6370e0f9.png/1784620961.png\" style=\"max-width: 100%; height: auto; width: 420px; max-height: 220px;\"></div>\n<p><strong>Given:</strong></p>\n<p><strong>Total Amount (A)</strong> = ₹32490</p>\n<p><strong>Rate of interest (R)</strong> = 14% p.a.</p>\n<p><strong>Time period (n)</strong> = 2 years</p>\n<p><strong>Formula Used:</strong></p>\n<p>The formula for <strong>Compound Interest</strong> is: A = P(1 + R/100)<sup>n</sup></p>\n<p><strong>Calculations:</strong></p>\n<p>⇒ 32490 = P(1 + 14/100)<sup>2</sup></p>\n<p>⇒ 32490 = P(114/100)<sup>2</sup></p>\n<p>⇒ 32490 = P(57/50)<sup>2</sup></p>\n<p>⇒ 32490 = P × (3249 / 2500)</p>\n<p>⇒ P = (32490 × 2500) / 3249</p>\n<p>⇒ P = 10 × 2500</p>\n<p>⇒ P = 25000</p>\n<p><strong>∴ The correct answer is ₹25000.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Effective Interest Rate</p>\n<p style='margin:0 0 8px 0;color:#444444;'>For two years at <strong>R%</strong>, the effective <strong>Compound Interest</strong> rate is R + R + (R×R)/100. In this case: 14 + 14 + 1.96 = 29.96%.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>CI and SI Difference</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The difference between <strong>CI and SI</strong> for 2 years is calculated as: D = P × (R/100)<sup>2</sup>.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Compounding Frequency</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If <strong>compounded half-yearly</strong>, the rate is halved (R/2) and the time is doubled (2n) in the formula.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_6370e0f9.png/1784620961.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a3327db23e8-q4",
+      "number": 4,
+      "question": "Narender borrowed Rs.25,000 for one year at 20% per annum, interest being compounded half-yearly, then find the interest paid by Narender.",
+      "questionHtml": "Narender borrowed Rs.25,000 for one year at 20% per annum, interest being compounded half-yearly, then find the interest&nbsp;paid by Narender.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs.5350",
+          "html": "Rs.5350"
+        },
+        {
+          "id": "B",
+          "text": "Rs.6550",
+          "html": "Rs.6550"
+        },
+        {
+          "id": "C",
+          "text": "Rs.5250",
+          "html": "Rs.5250"
+        },
+        {
+          "id": "D",
+          "text": "Rs.6350",
+          "html": "Rs.6350"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"\"><strong>Given:</strong></p>\n\n<p style=\"\">Principal = Rs.25,000</p>\n\n<p style=\"\">Time = 1 year</p>\n\n<p style=\"\">Rate = 20%</p>\n\n<p style=\"\">Condition = half yearly</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Concept used:</span></p>\n\n<p style=\"\">If the&nbsp;interest is calculated half yearly, then</p>\n\n<p style=\"\">New rate = Rate/2</p>\n\n<p style=\"\">New time = Time &times; 2</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Formulae used:</span></p>\n\n<p style=\"\">Compound interest = P &times; (1 + R/100)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;\">T</span>&nbsp;&ndash; P</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculations:</span></p>\n\n<p style=\"\">If the&nbsp;interest is calculated half yearly, then</p>\n\n<p style=\"\">New rate = Rate/2 = 20/2 = 10%</p>\n\n<p style=\"\">New time = Time &times; 2 = 1 &times; 2 = 2</p>\n\n<p style=\"\">Compound interest = P &times; (1 + R/100)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;\">T</span>&nbsp;&ndash; P</p>\n\n<p style=\"\">&rArr; 25,000 &times; (1 + 10/100)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;\">2</span>&nbsp;&ndash; 25,000</p>\n\n<p style=\"\">&rArr; 25,000 &times; (110/100)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;\">2</span>&nbsp;&ndash; 25,000</p>\n\n<p style=\"\">&rArr; 25,000 &times; {(11/10) &times; (11/10) &ndash; 1}</p>\n\n<p style=\"\">&rArr; 25,000 &times; (121 &ndash; 100)/100</p>\n\n<p style=\"\">&rArr; 25,0 &times; 21 = 5250</p>\n\n<p style=\"\"><strong><span style=\"font-weight: 700;\">&there4;</span>&nbsp;The interest paid by Narender&nbsp;is</strong><span style=\"font-weight: 700;\"><strong> </strong>Rs.5250.</span></p>\n\n<p style=\"\"><u><span style=\"font-weight: 700;\">Smart Trick</span></u></p>\n\n<p style=\"\">Rate = 20/2 = 10%</p>\n\n<p style=\"\">Effective rate = 10 + 10 + (10&nbsp;&times; 10)/100 = 21%</p>\n\n<p style=\"\">Compound interest = 21% of 25000 = 5250</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">&there4;&nbsp;The interest paid by Narender&nbsp;is</span><span style=\"font-weight: 700;\">&nbsp;Rs.5250.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a3327db23e8-q5",
+      "number": 5,
+      "question": "A certain sum becomes 1.96 times in two years at CI then what will be the rate of interest?",
+      "questionHtml": "A certain sum becomes 1.96 times in two years at CI then what will be the rate of interest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%",
+          "html": "10%"
+        },
+        {
+          "id": "B",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "C",
+          "text": "30%",
+          "html": "30%"
+        },
+        {
+          "id": "D",
+          "text": "40%",
+          "html": "40%"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Ratio of <strong>Amount (A)</strong> to <strong>Principal (P)</strong> for 2 years = 1.96 : 1 = 196 : 100.</p>\n<p>For 1 year, take the square root: √196 : √100 = 14 : 10.</p>\n<p><strong>Interest earned</strong> in 1 year = 14 − 10 = 4 units on a base of 10.</p>\n<p><strong>Rate of Interest</strong> = (4 ÷ 10) × 100 = 40%.</p>\n<p><strong>∴ The correct answer is 40%.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p><strong>Time (n)</strong> = 2 years</p>\n<p><strong>Amount (A)</strong> = 1.96 × Principal (P)</p>\n<p><strong>Formula Used:</strong></p>\n<p>A = P(1 + R/100)<sup>n</sup></p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_8de52705.png/1784030370.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p><strong>Calculations:</strong></p>\n<p>⇒ 1.96P = P(1 + R/100)<sup>2</sup></p>\n<p>⇒ 1.96 = (1 + R/100)<sup>2</sup></p>\n<p>⇒ √1.96 = 1 + R/100</p>\n<p>⇒ 1.4 = 1 + R/100</p>\n<p>⇒ R/100 = 1.4 − 1</p>\n<p>⇒ R/100 = 0.4</p>\n<p>⇒ R = 0.4 × 100</p>\n<p>⇒ R = 40%</p>\n<p><strong>∴ The correct answer is 40%.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Effective Rate of Compound Interest</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">For a period of 2 years at R%, the net effective rate is calculated as (R + R + (R × R)/100)%.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Difference between CI and SI</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The difference between <strong>Compound Interest</strong> and <strong>Simple Interest</strong> for 2 years is P(R/100)<sup>2</sup>.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Compound Interest Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The total amount A after n years is given by A = P(1 + r/k)<sup>nk</sup>, where k is the number of times interest is compounded per year.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_8de52705.png/1784030370.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a3327db23e8-q6",
+      "number": 6,
+      "question": "A sum becomes 27 times in 3 years, compounded annually at a certain rate of interest. Calculate annual interest rate.",
+      "questionHtml": "A sum becomes 27 times in 3 years, compounded annually at a certain rate of interest. Calculate annual interest rate.",
+      "options": [
+        {
+          "id": "A",
+          "text": "150%",
+          "html": "150%"
+        },
+        {
+          "id": "B",
+          "text": "100%",
+          "html": "<span style=\"\">100%</span>"
+        },
+        {
+          "id": "C",
+          "text": "300%",
+          "html": "<span style=\"\">300%</span>"
+        },
+        {
+          "id": "D",
+          "text": "200%",
+          "html": "<span style=\"\">200%</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>For <strong>compounded annually</strong> growth, use the root of the times-factor based on the <strong>time period</strong>.</p>\n<p>Growth factor for 3 years = 27 times.</p>\n<p>Annual growth factor = <sup>3</sup>√27 = 3.</p>\n<p>Rate (R) = (Annual Factor − 1) × 100% = (3 − 1) × 100% = 200%.</p>\n<p><strong>∴ The correct answer is 200%.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p><strong>Principal (P)</strong> = P</p>\n<p><strong>Amount (A)</strong> = 27P</p>\n<p><strong>Time (t)</strong> = 3 years</p>\n<p><strong>Formula Used:</strong></p>\n<p>A = P(1 + R/100)<sup>t</sup></p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_80117343.png/1784620882.png\" style=\"max-width: 100%; height: auto; width: 420px; max-height: 200px;\"></div>\n<p>⇒ 27P = P(1 + R/100)<sup>3</sup></p>\n<p>⇒ 27 = (1 + R/100)<sup>3</sup></p>\n<p>⇒ (3)<sup>3</sup> = (1 + R/100)<sup>3</sup></p>\n<p>⇒ 3 = 1 + R/100</p>\n<p>⇒ R/100 = 3 − 1</p>\n<p>⇒ R/100 = 2</p>\n<p>⇒ R = 200%</p>\n<p><strong>∴ The correct answer is 200%.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Effective Interest Rate</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When interest is compounded more than once a year, the actual rate earned is R<sub>eff</sub> = [1 + (r/n)]<sup>n</sup> − 1, where 'n' is the number of compounding periods.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Difference between CI and SI</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">For 2 years, the difference between Compound Interest and Simple Interest is CI − SI = P(R/100)<sup>2</sup>.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Rule of 72</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">A quick shortcut to estimate the doubling time of an investment: Time ≈ 72 ÷ Rate of Interest.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_80117343.png/1784620882.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a3327db23e8-q7",
+      "number": 7,
+      "question": "A sum of money invested on compound interest for 2 years at 20% interest per annum would fetch Rs. 482 more as interest if the interest is compounded half-yearly than yearly. What is the sum invested?",
+      "questionHtml": "A sum of money invested on compound interest for 2 years at 20% interest per annum would fetch Rs. 482 more as interest if the interest is compounded half-yearly than yearly. What is the sum invested?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 20,000",
+          "html": "Rs. 20,000"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 22,210",
+          "html": "Rs. 22,210"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 19,120",
+          "html": "Rs. 19,120"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 24,100",
+          "html": "Rs. 24,100"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "P(1 + 10/100)<sup>4</sup> - P(1 + 20/100)<sup>2</sup> = 482, P(1.1)<sup>4</sup> - P(1.2)<sup>2</sup> = 482\n\n<p> </p>\nP(1.4641 - 1.44) = 482, P × 0.0241 = 482 → P = 482/0.0241 = Rs. 20,000",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a3327db23e8-q8",
+      "number": 8,
+      "question": "A sum of amount to Rs. 3,025 in 3 year and to Rs. 4,225 in 5 year at a certain rate percent per annum, when the interest is compound yearly. find the rate of interest.",
+      "questionHtml": "A sum of amount to Rs. 3,025 in 3 year and to Rs. 4,225 in 5 year at a certain rate percent per annum, when the interest is compound yearly. find the rate of interest.",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(18\\frac{2}{11}\\) %",
+          "html": "<span class=\"math-tex\">\\(18\\frac{2}{11}\\)</span>&nbsp;%"
+        },
+        {
+          "id": "B",
+          "text": "15 %",
+          "html": "15 %"
+        },
+        {
+          "id": "C",
+          "text": "\\(15\\frac{2}{11}\\) %",
+          "html": "<span class=\"math-tex\">\\(15\\frac{2}{11}\\)</span>&nbsp;%"
+        },
+        {
+          "id": "D",
+          "text": "16 %",
+          "html": "16 %"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Sum of amount in 3 year = Rs. 3,025</p>\n\n<p>Sum of amount in 5 year = Rs. 4,225</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Amount at CI = P(1 + r/100)<sup>t</sup></p>\n\n<p>where P = Principle, r = rate per annum, and t = time</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>For 3 year,</p>\n\n<p>3025 = P(1 + r/100)<sup>3</sup>&nbsp; &nbsp; &nbsp; ------- (1)</p>\n\n<p>For 5 year,</p>\n\n<p>4225 = P(1 + r/100)<sup>5</sup>&nbsp; &nbsp; &nbsp; ------- (2)</p>\n\n<p>Dividing&nbsp;equation (2) from equation (1)</p>\n\n<p>4225/3025 = <span style=\"\">P(1 + r/100)</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">5</span><span style=\"\">&nbsp;&divide; P(1 + r/100)</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">3</span><span style=\"\">&nbsp;</span></p>\n\n<p><span style=\"\">&rArr; 169/121 = (1 + r/100)<sup>2</sup></span></p>\n\n<p><span style=\"\">&rArr; 1 + r/100 =&nbsp;<span class=\"math-tex\">\\(\\sqrt{\\frac{169}{121}}\\)</span></span></p>\n\n<p><span style=\"\">&rArr; r/100 = 13/11 - 1</span></p>\n\n<p><span style=\"\">&rArr; r/100 = 2/11</span></p>\n\n<p><span style=\"\">&rArr; r = 200/11</span></p>\n\n<p><span style=\"\">&rArr; r = 18<span class=\"math-tex\">\\(2 \\over 11\\)</span>%</span></p>\n\n<p><span style=\"\"><strong>&there4; Rate of interest is&nbsp;18</strong></span><strong><span class=\"math-tex\">\\(2 \\over 11\\)</span></strong><span style=\"\"><strong>%.</strong></span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a3327db23e8-q9",
+      "number": 9,
+      "question": "What is the difference between the compound interests on Rs. 25000 for 1 year at 6% per annum compounded yearly and half-yearly? (In Rs.)",
+      "questionHtml": "What is the difference between the compound interests on Rs. 25000 for 1 year at 6% per annum compounded yearly and half-yearly? (In Rs.)",
+      "options": [
+        {
+          "id": "A",
+          "text": "16.5",
+          "html": "<span style=\"\">16.5</span>"
+        },
+        {
+          "id": "B",
+          "text": "20.5",
+          "html": "<span style=\"\">20.5</span>"
+        },
+        {
+          "id": "C",
+          "text": "18.5",
+          "html": "<span style=\"\">18.5</span>"
+        },
+        {
+          "id": "D",
+          "text": "22.5",
+          "html": "<span style=\"\">22.5</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Principal(P) = Rs. 25000</p>\n\n<p>Time period(T) = 1 yr</p>\n\n<p>Rate of interest(R) = 6%</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>C.I<sub>1</sub> =&nbsp;<span class=\"math-tex\">\\(P× \\bigg(1+\\dfrac{R}{200} \\bigg)^{2t}\\)</span>- P&nbsp;(for compounded half-yearly)</p>\n\n<p>C.I<sub>2</sub> =&nbsp;<span class=\"math-tex\">\\(P× \\bigg(1+\\dfrac{R}{100} \\bigg)^t\\)</span>- P&nbsp;(for compounded yearly)</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>C.I<sub>1</sub> =&nbsp;<span class=\"math-tex\">\\(25000× \\bigg(1+ \\dfrac{6}{200} \\bigg)^2 - 25000 \\)</span>&nbsp;</p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(25000× \\bigg(\\dfrac{103}{100} \\bigg)^2 - 25000\\)</span>&nbsp;</p>\n\n<p>&rArr; 26522.5 - 25000 = Rs. 1522.5</p>\n\n<p>C.I<sub>2</sub>&nbsp;=&nbsp;<span class=\"math-tex\">\\(25000× \\bigg(1+ \\dfrac{6}{100} \\bigg)\\)</span>&nbsp;- 25000</p>\n\n<p>&rArr; 25000&nbsp;&times;&nbsp;<span class=\"math-tex\">\\(106\\over100\\)</span>&nbsp;- 25000</p>\n\n<p>&rArr; 26500 - 25000 = Rs. 1500&nbsp;</p>\n\n<p>Difference between compound interests compounded half-yearly and yearly = 1522.5 - 1500 = Rs. 22.5.</p>\n\n<p><strong>&there4; The answer is Rs. 22.5.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span></strong>Rate = 6%&nbsp;when compounded yearly,&nbsp;</p>\n\n<p><span style=\"\">At this rate time = 1</span></p>\n\n<p>Rate = 6/2 = 3% when compounded half-yearly,&nbsp;</p>\n\n<p>At this rate time = 2</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Using the tree method,</p>\n\n<p>For yearly,</p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/12/F2_Savita_SSC_19-12-22_D2.png\" style=\"height: 111px; width: 98px;\" /></p>\n\n<p>&rArr; CI for 1 year is 1500 when compounded yearly,</p>\n\n<p>For half-yearly,&nbsp;</p>\n\n<p>&nbsp;<img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/12/F2_Savita_SSC_19-12-22_D3.png\" style=\"height: 143px; width: 143px;\" /></p>\n\n<p>&rArr; CI for 1 year = 750 + 750 + 22.5 = 1522.5 when compounded half-yearly,</p>\n\n<p>Now the difference,&nbsp;</p>\n\n<p>&rArr; 1522.5 - 1500 = 22.5</p>\n\n<p><span style=\"font-weight: 700; \">&there4; The answer is Rs. 22.5.</span></p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "https://storage.googleapis.com/tb-img/production/22/12/F2_Savita_SSC_19-12-22_D2.png",
+        "https://storage.googleapis.com/tb-img/production/22/12/F2_Savita_SSC_19-12-22_D3.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a3327db23e8-q10",
+      "number": 10,
+      "question": "What is the compound interest on Rs. 5000 in 3 years, if the rate of interest is 4% for the first year, 3% for the second year and 2% for the third year?",
+      "questionHtml": "What is the compound interest on Rs. 5000 in 3 years, if the rate of interest is 4% for the first year, 3% for the second year and 2% for the third year?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 435.21",
+          "html": "Rs. 435.21"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 453 .12",
+          "html": "Rs. 453 .12"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 436.12",
+          "html": "Rs. 436.12"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 463.12",
+          "html": "Rs. 463.12"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Apply <strong>Successive Percentage</strong> increase on the <strong>Principal</strong> of ₹5000.</p>\n<p>Year 1: 5000 + 4% of 5000 = 5000 + 200 = ₹5200</p>\n<p>Year 2: 5200 + 3% of 5200 = 5200 + 156 = ₹5356</p>\n<p>Year 3: 5356 + 2% of 5356 = 5356 + 107.12 = ₹5463.12</p>\n<p><strong>Compound Interest</strong> = Final Amount − Initial Principal = 5463.12 − 5000 = ₹463.12</p>\n<p><strong>∴ The correct answer is ₹463.12.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Principal (P) = ₹5000</p>\n<p>Rates of Interest: R<sub>1</sub> = 4%, R<sub>2</sub> = 3%, R<sub>3</sub> = 2%</p>\n<p>Time (n) = 3 years</p>\n<p><strong>Formula Used:</strong></p>\n<p>Amount (A) = P × (1 + R<sub>1</sub>/100) × (1 + R<sub>2</sub>/100) × (1 + R<sub>3</sub>/100)</p>\n<p>Compound Interest (CI) = A − P</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_e342f496.png/1784621564.png\" style=\"max-width: 100%; height: auto; width: 420px; max-height: 200px;\"></div>\n<p><strong>Calculations:</strong></p>\n<p>⇒ A = 5000 × (1 + 4/100) × (1 + 3/100) × (1 + 2/100)</p>\n<p>⇒ A = 5000 × (104/100) × (103/100) × (102/100)</p>\n<p>⇒ A = 5000 × 1.04 × 1.03 × 1.02</p>\n<p>⇒ A = 5200 × 1.03 × 1.02</p>\n<p>⇒ A = 5356 × 1.02</p>\n<p>⇒ A = ₹5463.12</p>\n<p>⇒ CI = 5463.12 − 5000</p>\n<p>⇒ CI = ₹463.12</p>\n<p><strong>∴ The correct answer is ₹463.12.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Effective Rate of Interest</p>\n<p style='margin:0 0 8px 0;color:#444444;'>For two years with different rates a and b, the effective rate is [a + b + (a × b)/100]%.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>CI vs SI Difference (2 Years)</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The difference between Compound Interest and Simple Interest for 2 years is P × (R/100)<sup>2</sup>.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Compounding Frequency</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If interest is compounded half-yearly, the rate is halved (R/2) and the time is doubled (2n).</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_e342f496.png/1784621564.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

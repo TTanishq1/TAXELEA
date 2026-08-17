@@ -1,0 +1,1732 @@
+{
+  "id": "80fd794b1450",
+  "provider": "Testbook",
+  "sourceFile": "Number System - Divisibility and Remainder - 05.html",
+  "sourcePath": "Testbook/files/Number System - Divisibility and Remainder - 05.html",
+  "title": "Number System - Divisibility and Remainder - 05",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "80fd794b1450-q1",
+      "number": 1,
+      "question": "If the seven digit number 3x6349y is divisible by 88, then what will be the value of (2x + 3y)?",
+      "questionHtml": "If the seven digit number 3x6349y is divisible by 88, then what will be the value of (2x + 3y)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "32",
+          "html": "32"
+        },
+        {
+          "id": "B",
+          "text": "30",
+          "html": "30"
+        },
+        {
+          "id": "C",
+          "text": "35",
+          "html": "35"
+        },
+        {
+          "id": "D",
+          "text": "28",
+          "html": "28"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Divisibility law of 8 &rArr; A number divisible by 8 if its last three digit is divisible by 8 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n<p>Divisibility law of 11∶ If the difference of the alternating sum of digits of&nbsp;the number&nbsp;is a multiple of 11 (e.g. 2343 is divisible by 11 because 2 - 3 + 4 - 3 = 0, which is a multiple of 11).</p>\n\n<p>&rArr; 7 digit number 3x6349y is divisible by 88 means number divisible by 8 and 11 both.</p>\n\n<p>&rArr; Last three digit 49y should be divisible by 8 then we put y = 0, 1, 2, 3&hellip;&hellip; When we put y = 6 then number become 496 which is divisible by 8.</p>\n\n<p>&rArr; 3x63496 should be divisible by 11, then the divisibility rule by 11</p>\n\n<p>&rArr; 3 - x + 6 - 3 + 4 - 9 + 6 = 0</p>\n\n<p>&rArr; x = 7</p>\n\n<p>&rArr; (2x + 3y)</p>\n\n<p>&rArr; (2 &times; 7 + 3 &times; 6)</p>\n\n<p>&rArr; 14 + 18</p>\n&rArr; 32",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q2",
+      "number": 2,
+      "question": "How many numbers between 10 and 65 are divisible by 2, 3 and 4?",
+      "questionHtml": "How many numbers between 10 and 65 are divisible by 2, 3 and 4?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "B",
+          "text": "7",
+          "html": "7"
+        },
+        {
+          "id": "C",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "html": "3"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>LCM(2, 3, 4) = 12</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Numbers between 10 and 65 divisible by 12</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">12, 24, 36, 48, 60</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">∴ 5 numbers</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q3",
+      "number": 3,
+      "question": "A number when divided by 7 leaves remainder of 4. If the square of the same number is divided by 7, then what is the remainder?",
+      "questionHtml": "A number when divided by 7 leaves remainder of 4. If the square of the same number is divided by 7, then what is the remainder?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Let the number and quotient be N and D respectively.</span></p>\n\n<p><span style=\"\">N = 7D + 4 ⇒ N<sup>2</sup> = (7D + 4)<sup>2</sup> ⇒ N<sup>2</sup> = 49D<sup>2</sup> + 56D + 16 ⇒ N<sup>2</sup> = 7(7D<sup>2</sup> + 8D + 2) + 2</span></p>\n\n<p><span style=\"\">So, 7(7D</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\"> + 8D + 2) is completely divisible by 7. then, the remainder is 2.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q4",
+      "number": 4,
+      "question": "Find the greatest 3-digit number which, when divided by 3, 4, 5 and 8, leaves remainder 2 in each case.",
+      "questionHtml": "Find the greatest 3-digit number which, when divided by 3, 4, 5 and 8, leaves remainder 2 in each case.",
+      "options": [
+        {
+          "id": "A",
+          "text": "962",
+          "html": "962"
+        },
+        {
+          "id": "B",
+          "text": "122",
+          "html": "122"
+        },
+        {
+          "id": "C",
+          "text": "958",
+          "html": "958"
+        },
+        {
+          "id": "D",
+          "text": "482",
+          "html": "482"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Concept:</strong></p>\n\n<p>We need to find a common multiple for a set of numbers i.e., LCM of the numbers. This is followed by division with the largest three-digit number and addition of the remainder.&nbsp;</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>LCM of 3, 4, 5, and&nbsp; 8 = 120</p>\n\n<p>Greatest three-digit number = 999</p>\n\n<p>Largest three-digit number that is exactly divisible by 120 = 960 (120&nbsp;&times; 8 = 960)</p>\n\n<p>Greatest three-digit number that would leave remainder 2 when divided by 120 = 960 + 2 = 962</p>\n\n<p><strong>&there4; The largest three-digit number&nbsp;<span style=\"\">that would leave remainder 2 when divided by&nbsp;3, 4, 5, and&nbsp;8&nbsp;</span>is 962.</strong>&nbsp;</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q5",
+      "number": 5,
+      "question": "If the seven digit number 56x34y4 is divisible by 72, then what is the least value of (x + y)?",
+      "questionHtml": "If the seven digit number 56x34y4 is divisible by 72, then what is the least value of (x + y)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "B",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "D",
+          "text": "14",
+          "html": "14"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Factors of 72 = 8 &times; 9</p>\n\n<p>The seven digit number = 56x34y4</p>\n\n<p>As number should be divisible by 72 means should be divisible by 8 and 9.</p>\n\n<p>It is divisible by 8 as its last 3 digits should be divisible by 8.</p>\n\n<p>&rArr; 4y4 = 424 is divisible by 8</p>\n\n<p>For divisible by 9, it&rsquo;s sum should be divisible by 9.</p>\n\n<p>Then,</p>\n\n<p>&rArr; Sum = 5 + 6 + x + 3 + 4 + y + 4</p>\n\n<p>= 22 + x + y</p>\n\n<p>&rArr; 22 + x + 2 = 24 + x</p>\n\n<p>&rArr; 24 + 3 = 27 is divisible by 9</p>\nLeast value of (x + y) = 3 + 2 = 5",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q6",
+      "number": 6,
+      "question": "The largest number of four digits that is exactly divisible by 15, 21 and 30 is∶",
+      "questionHtml": "The largest number of four digits that is exactly divisible by 15, 21 and 30 is∶",
+      "options": [
+        {
+          "id": "A",
+          "text": "9840",
+          "html": "9840"
+        },
+        {
+          "id": "B",
+          "text": "9910",
+          "html": "9910"
+        },
+        {
+          "id": "C",
+          "text": "9830",
+          "html": "9830"
+        },
+        {
+          "id": "D",
+          "text": "9870",
+          "html": "9870"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>L.C.M. of 15, 21 and 30 is 210.&nbsp;&nbsp;</p>\n\n<p>Largest four digit number is 9999.</p>\n\n<p>To find the largest four digit number divisible by 15, 21 and 30 we have to divide the 9999 by 210 and subtract the remainder from 9999.</p>\n\n<p>When we divide the 9999 by 210, we get the remainder 129.</p>\n&there4; Required number = 9999 &ndash; 129 = 9870",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q7",
+      "number": 7,
+      "question": "The largest 5 - digit number exactly divisible by 88 is:",
+      "questionHtml": "The largest 5 - digit number exactly divisible by 88 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "99990",
+          "html": "99990"
+        },
+        {
+          "id": "B",
+          "text": "99984",
+          "html": "99984"
+        },
+        {
+          "id": "C",
+          "text": "99978",
+          "html": "99978"
+        },
+        {
+          "id": "D",
+          "text": "99968",
+          "html": "99968"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Dividend = (divisor × quotient) + remainder</p>\n\n<p style=\"color: rgb(33, 37, 41);\">99999 = (88 × 1136) + 31</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So the largest number which is divisible by 88 = (99999 - 31) = 99968</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q8",
+      "number": 8,
+      "question": "If 1433 &times; 1433 &times; 1422 &times; 1425 is divided by 10, what is the remainder ?",
+      "questionHtml": "If 1433 &times; 1433&nbsp;&times; 1422&nbsp;&times; 1425 is divided by 10, what is the remainder ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "B",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "D",
+          "text": "0",
+          "html": "0"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><img height=\"31px\" src=\"//cdn.testbook.com/images/production/quesImage5.png\" width=\"147px\" />&nbsp;</p>\n\n<p>Given,1433 &times; 1433&nbsp;&times; 1422&nbsp;&times; 1425</p>\n\n<p>Looking at the unit digits of the terms, the last two terms contain digits 2 and 5 respectively.</p>\n\n<p>So, when&nbsp;we multiply all the terms, the last digit will be zero, as 2&nbsp;&times; 5 = 10.</p>\n\n<p>The product will be completely divisible by 10. Thus, the remainder will be 0.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<p><span style=\"font-weight: 700;\">Given:</span></p>\n\n<p>1433 &times; 1433&nbsp;&times; 1422&nbsp;&times; 1425</p>\n\n<p><span style=\"font-weight: 700;\">Concept used:</span></p>\n\n<p>Divide individually to get a smaller number than 10.</p>\n\n<p><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p>(1433 &times; 1433&nbsp;&times; 1422&nbsp;&times; 1425)&nbsp;&divide;&nbsp;10</p>\n\n<p>&rArr; (1433/10)&nbsp;&times; (1433/10)&nbsp;&times; (1422/10)&nbsp;&times; (1425/10)</p>\n\n<p>&rArr; (3&nbsp;&times; 3&nbsp;&times; 2&nbsp;&times; 5)/10</p>\n\n<p>&rArr; (9/10)&nbsp;&times; (10/10)&nbsp;</p>\n\n<p>The remainder of the above terms are&nbsp;9 and 0. Then,</p>\n\n<p>&rArr; 9&nbsp;&times; 0</p>\n\n<p>&rArr; 0</p>\n\n<p><span style=\"font-weight: 700;\">&there4; The remainder is 0.</span></p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImage5.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q9",
+      "number": 9,
+      "question": "If a nine-digit number 785x3678y is divisible by 72, then the value of (x + y) is:",
+      "questionHtml": "If a nine-digit number 785x3678y is divisible by 72, then the value of (x + y) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "B",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "C",
+          "text": "10",
+          "html": "10"
+        },
+        {
+          "id": "D",
+          "text": "20",
+          "html": "20"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Nine digit number =&nbsp;785x3678y</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>The Law of Divisibility by 8 is the last three digits must be divisible by 8.</p>\n\n<p>The Sum of digits should be divisible by 9.</p>\n\n<p><b>Calculation:</b></p>\n\n<p>785x3678y</p>\n\n<p>If the number is divisible by 72 (8 &times; 9) then it must be divisible by 8 and 9.</p>\n\n<p>Divisible by 8</p>\n\n<p>Law of Divisibility by 8 is last three digits must be divisible by 8</p>\n\n<p>&rArr; 78y = 780 + y</p>\n\n<p>&rArr; 97 &times; 8 + ( 4 + y ) is divisible by 8</p>\n\n<p>So value of 4 + y = 8</p>\n\n<p>&rArr; y = 4</p>\n\n<p>Divisible by 9</p>\n\n<p>Sum of digits should be divisible by 9</p>\n\n<p>&rArr; 7 + 8 + 5 + x + 3 + 6 + 7 + 8 + 4</p>\n\n<p>&rArr; 48 + x</p>\n\n<p>&rArr; x = 6</p>\n\n<p>x + y</p>\n\n<p>&rArr; 6 + 4</p>\n\n<p>&rArr; 10</p>\n\n<p><strong>&there4;</strong><strong> The value of (x + y) is 10.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q10",
+      "number": 10,
+      "question": "Which of the following numbers is divisible by 36?",
+      "questionHtml": "Which of the following numbers is divisible by 36?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1542",
+          "html": "1542"
+        },
+        {
+          "id": "B",
+          "text": "96272",
+          "html": "96272"
+        },
+        {
+          "id": "C",
+          "text": "55512",
+          "html": "55512"
+        },
+        {
+          "id": "D",
+          "text": "8840",
+          "html": "8840"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Option 3: 55512, Last two digits: 12 (12 ÷ <strong>4 </strong>= 3)</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\"> ⇒ </span>Sum of digits: 5 + 5 + 5 + 1 + 2 = 18 (18 ÷ <strong>9 </strong>= 2)<span style=\"color: rgb(33, 37, 41);\"> ⇒ </span>Divisible by 36</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q11",
+      "number": 11,
+      "question": "If 31 47 + 43 47 is divided by 37, the remainder is:",
+      "questionHtml": "If 31<sup>47</sup> + 43<sup>47</sup> is divided by 37, the remainder is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><b>Formula used:</b></p>\n\n<p>Divisibility rule of (a<sup>n</sup>&nbsp;+ b<sup>n</sup>)</p>\n\n<p>If n is an odd number, then&nbsp;<span style=\"\">(a</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">n</span><span style=\"\">&nbsp;+ b</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">n</span><span style=\"\">)</span> is divisible by (a + b)</p>\n\n<p><b>Calculation:</b></p>\n\n<p>So,&nbsp;<span style=\"\">31</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">47</span><span style=\"\">&nbsp;+ 43</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">47</span><span style=\"\">&nbsp;is divisible by&nbsp;(43 + 31) = 74</span></p>\n\n<p><span style=\"\">and 37 is multiple of 74, so&nbsp;31</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">47</span><span style=\"\">&nbsp;+ 43</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">47</span><span style=\"\">&nbsp;is divisible by 37 also.</span></p>\n\n<p><span style=\"\">&there4;&nbsp;If 31</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">47</span><span style=\"\">&nbsp;+ 43</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">47</span><span style=\"\">&nbsp;is divided by 37, the remainder is 0.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q12",
+      "number": 12,
+      "question": "If the number 62783 xy is divisible by both 8 and 5, then the smallest possible value of x and y is:",
+      "questionHtml": "If the number 62783 xy is divisible by both 8 and 5, then the smallest possible value of x and y is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "x = 2, y = 2",
+          "html": "x = 2, y = 2"
+        },
+        {
+          "id": "B",
+          "text": "x = 6, y = 0",
+          "html": "x = 6, y = 0"
+        },
+        {
+          "id": "C",
+          "text": "x = 2, y = 0",
+          "html": "x = 2, y = 0"
+        },
+        {
+          "id": "D",
+          "text": "x = 2, y = 5",
+          "html": "x = 2, y = 5"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>For <strong>divisibility by 5</strong>, the last digit <strong>y</strong> must be either 0 or 5.</p>\n<p>Since the number is also <strong>divisible by 8</strong>, it must be <strong>even</strong>, which eliminates <strong>y = 5</strong>; therefore, <strong>y = 0</strong>.</p>\n<p>For <strong>divisibility by 8</strong>, the last three digits <strong>3x0</strong> must be divisible by 8.</p>\n<p>Testing the smallest values: <strong>300</strong> ÷ 8 (No), <strong>310</strong> ÷ 8 (No), <strong>320</strong> ÷ 8 = 40 (Yes).</p>\n<p>Smallest pair is <strong>x = 2</strong> and <strong>y = 0</strong>.</p>\n<p><strong>∴ The correct answer is x = 2, y = 0.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> The number <strong>62783xy</strong> is divisible by both <strong>8</strong> and <strong>5</strong>.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_b70cbf28.png/1784054193.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p><strong>Condition for Divisibility by 5:</strong></p>\n<p>⇒ The last digit <strong>y</strong> must be <strong>0</strong> or <strong>5</strong>.</p>\n<p><strong>Condition for Divisibility by 8:</strong></p>\n<p>⇒ The last three digits <strong>3xy</strong> must be divisible by <strong>8</strong>.</p>\n<p>⇒ If <strong>y = 5</strong>, the number <strong>3x5</strong> is odd. An odd number is never divisible by 8.</p>\n<p>⇒ Thus, <strong>y = 0</strong> is the only possibility.</p>\n<p><strong>Finding the smallest x for 3x0:</strong></p>\n<p>⇒ If <strong>x = 0</strong>, 300 ÷ 8 = 37.5 (Not divisible)</p>\n<p>⇒ If <strong>x = 1</strong>, 310 ÷ 8 = 38.75 (Not divisible)</p>\n<p>⇒ If <strong>x = 2</strong>, 320 ÷ 8 = 40 (<strong>Divisible</strong>)</p>\n<p>⇒ Comparing values, the smallest values are <strong>x = 2</strong> and <strong>y = 0</strong>.</p>\n<p><strong>∴ The correct answer is x = 2, y = 0.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Divisibility Rule of 8</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">A number is divisible by 8 if the number formed by its <strong>last three digits</strong> is divisible by 8 or if the last three digits are 000.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Divisibility Rule of 5</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">A number is divisible by 5 if its <strong>units digit</strong> is either 0 or 5.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Divisibility by 40</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Since 40 = 5 × 8 (and they are co-prime), any number divisible by both 5 and 8 is also <strong>divisible by 40</strong>.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Parity Rule for Divisibility</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Any number divisible by an <strong>even number</strong> (like 2, 4, 6, 8, etc.) must itself be an <strong>even number</strong>.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_b70cbf28.png/1784054193.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q13",
+      "number": 13,
+      "question": "Find the remainder when 8 8 + 6 is divided by 7.",
+      "questionHtml": "Find the remainder when 8<sup>8</sup>&nbsp;+ 6 is divided by 7.",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"> <span class=\"math-tex\">\\({8^8 + 6}\\over7\\)</span> <span style=\"color: rgb(33, 37, 41);\">⇒ {(1)</span><span style=\"color: rgb(33, 37, 41); position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">8</span><span style=\"color: rgb(33, 37, 41);\"> + 6}/7 = 7/7</span> <span style=\"color: rgb(33, 37, 41);\">⇒ </span>Remainder = 0</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q14",
+      "number": 14,
+      "question": "7 15 + 7 16 + 7 17 is divisible by which of the following given numbers?",
+      "questionHtml": "7<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">15</span>&nbsp;+ 7<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">16</span>&nbsp;+ 7<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">17</span>&nbsp;is divisible by which of the following given numbers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "4"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>7<sup>15</sup> + 7<sup>16</sup> + 7<sup>17</sup> = 7<sup>15</sup>(1 + 7 + 7<sup>2</sup>)</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">1 + 7 + 49 = 57</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">7</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">15</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> × 57 = 7</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">15</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> × 3 × 19</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">The expression is d</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">ivisible by 3, 7, 19</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q15",
+      "number": 15,
+      "question": "The largest five-digit number which when divided by 7, 9 and 11, leaves the same remainder as 3 in each case, is :",
+      "questionHtml": "The largest five-digit number which when divided by 7, 9 and 11, leaves the same remainder as 3 in each case, is :",
+      "options": [
+        {
+          "id": "A",
+          "text": "95840",
+          "html": "95840"
+        },
+        {
+          "id": "B",
+          "text": "98685",
+          "html": "98685"
+        },
+        {
+          "id": "C",
+          "text": "96720",
+          "html": "96720"
+        },
+        {
+          "id": "D",
+          "text": "99795",
+          "html": "99795"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>LCM(7, 9, 11) = 693 and argest<span style=\"\"> five-digit number = 99999</span></p>\n\n<p><span style=\"\">When 99999 is divided by 693 quotient is 144</span></p>\n\n<p><span style=\"\">The largest five-digit number that is divisible by 7, 9, and 11 = 144 × 693 = 99792</span></p>\n\n<p><span style=\"\">Now, the required number = 99792 + 3 = 99795</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q16",
+      "number": 16,
+      "question": "If a nine-digit number 489x6378y is divisible by 72, then the value of \\(\\sqrt{8x+6y}\\) will be:",
+      "questionHtml": "If a nine-digit number 489x6378y is divisible by 72, then the value of&nbsp;<span class=\"math-tex\">\\(\\sqrt{8x+6y}\\)</span> will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "D",
+          "text": "10",
+          "html": "10"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"\">489x6378y is divisible by 72 than it should be divisible by 9 and 8 </span></p>\n\n<p>For Divisibility by 9 sums of the digits is divisible by 9.</p>\n\n<p style=\"\">489x63784 is divisible by 9</p>\n\n<p style=\"\">So, <span style=\"\">4 + 8 + 9 + x + 6 + 3 + 7 + 8 + 4 = 49 + x ⇒ x = 5</span></p>\n\n<p style=\"\">For Divisibility by 8: Last three digits must be divisible by 8</p>\n\n<p style=\"\">72 = 8 × 9</p>\n\n<p style=\"\">78y should be divisible by 8 ⇒ <span style=\"\"> y = 4</span></p>\n\n<p style=\"\">So, √(8x + 6y) = 8</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q17",
+      "number": 17,
+      "question": "Which of the following numbers is NOT divisible by 75?",
+      "questionHtml": "Which of the following numbers is NOT divisible by 75?",
+      "options": [
+        {
+          "id": "A",
+          "text": "117975",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">117975</font></font>"
+        },
+        {
+          "id": "B",
+          "text": "275475",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">275475</font></font>"
+        },
+        {
+          "id": "C",
+          "text": "163750",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">163750</font></font>"
+        },
+        {
+          "id": "D",
+          "text": "666600",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">666600</font></font>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Four numbers are given.</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>A given number is divisible by a number when the remainder is zero.</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><span style=\"\">117975 &divide; 75 = 1573&nbsp;&times;&nbsp;75&nbsp;</span></p>\n\n<p><span style=\"\">275475 &divide; 75 = 3673 &times;&nbsp;75&nbsp;</span></p>\n\n<p><span style=\"\">163750&nbsp;</span>&divide; 75 = 2183 &times;&nbsp;75 +&nbsp;25, here the remainder is 25</p>\n\n<p><span style=\"\">666600&nbsp;</span>&divide; 75 = 8888&times;&nbsp;75&nbsp;</p>\n\n<p><strong>&there4;&nbsp;<span style=\"\">163750 is not divisible by 75.</span></strong></p>\n\n<p><strong><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span></span></strong>Just go and check in which option sum of the digit is not divisible by 3 because in 5 case all no is divisible by 5.So only go to check divisibility of 3</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q18",
+      "number": 18,
+      "question": "Find the remainder when 11 7 + 9 is divided by 10.",
+      "questionHtml": "Find the remainder when 11<sup>7</sup> + 9 is divided by 10.&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "B",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Calculation:</strong></p>\n\n<p>For unit digit of 11<sup>7</sup> will be 1 and when we will add 9 in 1 then</p>\n\n<p>⇒ 1 + 9 = 10</p>\n\n<p>Now unit digit become 0 so when  we divide the number  then it gives us zero remainder</p>\n\n<p><strong>∴ The required result will be 0. </strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q19",
+      "number": 19,
+      "question": "What least number must be subtracted from 2001 to get a number exactly divisible by 17?",
+      "questionHtml": "What least number must be subtracted from 2001 to get a number exactly divisible by 17?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "B",
+          "text": "13",
+          "html": "13"
+        },
+        {
+          "id": "C",
+          "text": "11",
+          "html": "11"
+        },
+        {
+          "id": "D",
+          "text": "14",
+          "html": "14"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Remainder = 2001 ÷ 17</p>\n\n<p>Remainder = 2001 - (17 × 117)<span style=\"color: rgb(33, 37, 41);\"> ⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Remainder = 2001 - 1989 = 12</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q20",
+      "number": 20,
+      "question": "If a 10-digit number 54726x79y6 is divisible by 72, then what is the value of 5x - 3y, for the least value of y?",
+      "questionHtml": "If a 10-digit number 54726x79y6 is divisible by 72, then what is the value of 5x - 3y, for the least value of y?",
+      "options": [
+        {
+          "id": "A",
+          "text": "23",
+          "html": "23"
+        },
+        {
+          "id": "B",
+          "text": "17",
+          "html": "17"
+        },
+        {
+          "id": "C",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "D",
+          "text": "19",
+          "html": "19"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"\"><span style=\"font-weight: 700;\">Concept used:</span></p>\n\n<p style=\"\">If the sum of digits of the number is divisible by 9, then the number itself is divisible by 9.</p>\n\n<p style=\"\">If the last three digits of a number are divisible by 8, then the number is completely divisible by 8.</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\">72 = 8&nbsp;&times; 9</p>\n\n<p style=\"\">So, the number should be divisible by 8 and 9 both</p>\n\n<p style=\"\">78y should be divisible by 8</p>\n\n<p style=\"\">Now,</p>\n\n<p style=\"\"><span style=\"\">9y6 is divisible by 8 and y is the least possible value</span></p>\n\n<p style=\"\">So, the least possible value of y = 3</p>\n\n<p style=\"\">Now,</p>\n\n<p style=\"\">5 + 4 + 7 + 2 + 6 + x + 7 + 9 + 3&nbsp;+ 6 = 49 + x is divisible by 9</p>\n\n<p style=\"\">So, x = 5</p>\n\n<p style=\"\">Now,</p>\n\n<p style=\"\"><span style=\"\">5x - 3y = (5 &times; 5 - 3 &times; 3)</span></p>\n\n<p style=\"\"><span style=\"\">&rArr; 25 - 9</span></p>\n\n<p style=\"\"><span style=\"\">&rArr; 16</span></p>\n\n<p style=\"\"><strong><span style=\"\">&there4; The value of&nbsp;5x - 3y is 16.</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q21",
+      "number": 21,
+      "question": "Which of the following numbers is divisible by 11?",
+      "questionHtml": "Which of the following numbers is divisible by 11?",
+      "options": [
+        {
+          "id": "A",
+          "text": "958749",
+          "html": "958749"
+        },
+        {
+          "id": "B",
+          "text": "294621",
+          "html": "294621"
+        },
+        {
+          "id": "C",
+          "text": "258913",
+          "html": "258913"
+        },
+        {
+          "id": "D",
+          "text": "956127",
+          "html": "956127"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>958749: (9 + 8 + 4) - (5 + 7 + 9) = 21 - 21 = 0 (multiple of 11)</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q22",
+      "number": 22,
+      "question": "If the number 556743A57B is divisible by 8 and 9, then find 2A - B.",
+      "questionHtml": "If the number 556743A57B is divisible by 8 and 9, then find 2A - B.",
+      "options": [
+        {
+          "id": "A",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "B",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "html": "3"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"\"><span style=\"font-weight: 700;\">Concept:</span></p>\n\n<p style=\"\">The divisibility rule of 8 states that for a number to be divisible by 8, its last three-digit should be perfectly divisible by 8.</p>\n\n<p style=\"\">The divisibility test for 9&nbsp;states that for a number to be divisible by 9, its sum of the digits should be divisible by 9.</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\">The number&nbsp;<span style=\"\">&nbsp;556743A57B</span>&nbsp;will be divisible by 8&nbsp;if 57B&nbsp;is divisible by 8.</p>\n\n<p style=\"\">&rArr; 57B is divisible by 8 if B is 6. (&there4; B = 6)</p>\n\n<p style=\"\">The number&nbsp;<span style=\"\">&nbsp;556743A57B</span> would be divisible by 9, if the sum of the digits is divisible by 9.</p>\n\n<p style=\"\">&rArr; sum of digits = 5&nbsp;+ 5 + 6&nbsp;+ 7&nbsp;+ 4&nbsp;+ 3&nbsp;+ A&nbsp;+ 5 + 7 + 6&nbsp;= 48&nbsp;+ A&nbsp;</p>\n\n<p style=\"\">&rArr; If A&nbsp;= 6, sum of digits is divisible by 9. (&there4; A = 6)</p>\n\n<p style=\"\">Value of expression 2A - B = (2 &times; 6) - 6 = 6</p>\n\n<p style=\"\">&there4;&nbsp;<span style=\"font-weight: 700;\">The value of expression is 6.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q23",
+      "number": 23,
+      "question": "If the nine-digit number 9m2365n48 is completely divisible by 88, what is the value of (m 2 &times; n 2 ), for the smallest value of n, where m and n are natural numbers?",
+      "questionHtml": "If the nine-digit number 9m2365n48 is completely divisible by 88, what is the value of (m<sup>2</sup>&nbsp;&times; n<sup>2</sup>), for the smallest value of n, where m and n are natural numbers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "64",
+          "html": "64"
+        },
+        {
+          "id": "B",
+          "text": "32",
+          "html": "32"
+        },
+        {
+          "id": "C",
+          "text": "36",
+          "html": "36"
+        },
+        {
+          "id": "D",
+          "text": "20",
+          "html": "20"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">9m2365n48 is divisible by 88, which means 9m2365n48 is divisible by 8 and 11</p>\n\n<p style=\"color: rgb(33, 37, 41);\">n48 should be divisible by 8, Put n = 2, 248 is divisible by 8, n = 2</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Now, 9m2365248 should be divisible by 11,</p>\n\n<p style=\"color: rgb(33, 37, 41);\">so ⇒ (9 + 2 + 6 + 2 + 8) - (m + 3 + 5 + 4) should be divisible by 11</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ 27 - (m + 12) <span style=\"color: rgb(33, 37, 41);\">⇒</span> 11 ⇒ 15 - m </p>\n\n<p style=\"color: rgb(33, 37, 41);\">Put m = 4 then, 15 - 4 = 11 which is divisible by 11, so, m = 4</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Then, (m<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> × n<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>) = (4<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> × 2<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>) = 16 × 4 = 64</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q24",
+      "number": 24,
+      "question": "If the number 1005x4 is completely divisible by 8, then the smallest integer in place of x will be:",
+      "questionHtml": "If the number 1005x4 is completely divisible by 8, then the smallest integer in place of x will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Divisibility rule&nbsp;of 8 = A number divisible by 8 if its last three digits&nbsp;are divisible by 8</p>\n\n<p>If the number 1005x4 is divisible by 8, then its last digit 5x4 also divisible by 8</p>\n\n<p>504 is divisible by 8 so the number 100504 is also divisible by 8.</p>\nHence, 0 will be the correct answer.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q25",
+      "number": 25,
+      "question": "What is the sum of the digits of the least number, which when divided by 15, 18 and 27 leaves the same reminder 9 in each case and is also completely divisible by 11?",
+      "questionHtml": "What is the sum of the digits of the least number, which when divided by 15, 18 and 27 leaves the same reminder 9 in each case and is also completely divisible by 11?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "B",
+          "text": "17",
+          "html": "17"
+        },
+        {
+          "id": "C",
+          "text": "18",
+          "html": "18"
+        },
+        {
+          "id": "D",
+          "text": "19",
+          "html": "19"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>LCM of numbers</p>\n\n<p>15 = 3 &times; 5</p>\n\n<p>18 = 2 &times; 3 &times; 3</p>\n\n<p>27 = 3 &times; 3 &times; 3</p>\n\n<p>LCM = 3 &times; 3 &times; 5 &times; 2 &times; 3 = 270</p>\n\n<p>The required number which is completely divisible by 11</p>\n\n<p>= 270 &times; 4 + 9 = 1089</p>\nSum of digits = 1 + 8 + 9 = 18",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q26",
+      "number": 26,
+      "question": "If a positive integer N is divided by 7, the remainder is 3. Which of the following numbers yields a remainder of 0 when it is divided by 7?",
+      "questionHtml": "If a positive integer N is divided by 7, the remainder is 3. Which of the following numbers yields a remainder of 0 when it is divided by 7?",
+      "options": [
+        {
+          "id": "A",
+          "text": "N + 5",
+          "html": "N + 5"
+        },
+        {
+          "id": "B",
+          "text": "N + 2",
+          "html": "N + 2"
+        },
+        {
+          "id": "C",
+          "text": "N + 4",
+          "html": "N + 4"
+        },
+        {
+          "id": "D",
+          "text": "N + 3",
+          "html": "N + 3"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">We know, Dividend = Divisor x Quotient + Remainder </p>\n\n<p style=\"color: rgb(33, 37, 41);\">Let the quotient be q, Divisor = 7, Remainder = 3</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Dividend = Divisor x Quotient + Remainder ⇒ N = 7q + 3 ⇒ N + 4 = 7q + 7 which is divisible by 7</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">∴ n + 4 yields remainder 0.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q27",
+      "number": 27,
+      "question": "Which of the following numbers is divisible by 44?",
+      "questionHtml": "Which of the following numbers is divisible by 44?",
+      "options": [
+        {
+          "id": "A",
+          "text": "32802",
+          "html": "32802"
+        },
+        {
+          "id": "B",
+          "text": "54736",
+          "html": "54736"
+        },
+        {
+          "id": "C",
+          "text": "93472",
+          "html": "93472"
+        },
+        {
+          "id": "D",
+          "text": "27048",
+          "html": "27048"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Number = 54736. Last two digits = 36. 36 is divisible by 4. So the number is divisible by 4.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The sum of digits at odd places = 5 + 7 + 6 = 18. The sum of digits at even places = 4 + 3 = 7 </p>\n\n<p style=\"color: rgb(33, 37, 41);\">Difference between the sum of odd places and even = (18 - 7) = 11. 11 is divisible by 11. So the number is divisible by 11.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The number is divisible by 11 and 4. So the number is divisible by 44.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q28",
+      "number": 28,
+      "question": "If the 6-digit number 5x423y is divisible by 88. then what is the value of (5x - 8y)?",
+      "questionHtml": "If the 6-digit number 5x423y is divisible by 88. then what is the value of (5x - 8y)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "28",
+          "html": "28"
+        },
+        {
+          "id": "B",
+          "text": "14",
+          "html": "14"
+        },
+        {
+          "id": "C",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "D",
+          "text": "24",
+          "html": "24"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Calculation:</strong></p>\n\n<p>To check the divisibility by 88, it should be divisible by 11</p>\n\n<p>Difference of sum of alternative terms should be 0</p>\n\n<p>&rArr; 5 + 4 + 3 = x + 2 + y</p>\n\n<p>&rArr; x + y = 10</p>\n\n<p>To check the divisibility by 88, it should be divisible by 8</p>\n\n<p>Last three digit should be divisible by 8</p>\n\n<p>23y should be divisible by 8</p>\n\n<p>For least value of y = 2, 23y is divisible by 8</p>\n\n<p>For y = 2 and x = 8</p>\n\n<p>the value of (5x&nbsp;<span style=\" line-height: 115%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&ndash;&nbsp;</span>8y) = (5&nbsp;&times; 8&nbsp;<span style=\" line-height: 115%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&ndash;&nbsp;</span>8&nbsp;&times; 2)</p>\n\n<p>&rArr; 40&nbsp;<span style=\" line-height: 115%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&ndash;&nbsp;</span>16 = 24</p>\n\n<p><strong>&there4; The value of (5x&nbsp;<span style=\" line-height: 115%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&ndash;&nbsp;</span>8y) is 24</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q29",
+      "number": 29,
+      "question": "In a division problem, the divisor is 4 times the quotient and 2 times the remainder. If the remainder is 32, then find the dividend.",
+      "questionHtml": "In a division problem, the divisor is 4 times the quotient and 2 times the remainder. If the remainder is 32, then find the dividend.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1056",
+          "html": "1056"
+        },
+        {
+          "id": "B",
+          "text": "1650",
+          "html": "1650"
+        },
+        {
+          "id": "C",
+          "text": "3240",
+          "html": "3240"
+        },
+        {
+          "id": "D",
+          "text": "1065",
+          "html": "1065"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Divisor = 2 × 32 = 64</span></p>\n\n<p>64 = 4 × Quotient</p>\n\n<p>Quotient = 64 / 4 = 16</p>\n\n<p><strong><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Dividend = 64 × 16 + 32 = 1024 + 32 = 1056</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q30",
+      "number": 30,
+      "question": "Mohan divides 14817 by a certain number. If the quotient and the remainder he gets are 98 and 117, respectively, then the divisor is:",
+      "questionHtml": "Mohan divides 14817 by a certain number. If the quotient and the remainder he gets are 98 and 117, respectively, then the divisor is:&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "150",
+          "html": "150"
+        },
+        {
+          "id": "B",
+          "text": "145",
+          "html": "145"
+        },
+        {
+          "id": "C",
+          "text": "155",
+          "html": "155"
+        },
+        {
+          "id": "D",
+          "text": "140",
+          "html": "140"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style=\"color: rgb(33, 37, 41);\">Divisor = (14817 - 117)/98 = 14700/98 = 150</span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q31",
+      "number": 31,
+      "question": "If a positive integer 'n' is divided by 7, the remainder is 4. What is the remainder if '5n' is divided by 7?",
+      "questionHtml": "If a positive integer &#39;n&#39; is divided by 7, the remainder is 4. What is the remainder if &#39;5n&#39; is divided by 7?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "4"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Let the quotient be ‘a’</p>\n\n<p>⇒ n = (7 × a) + 4</p>\n\n<p>Multiply both sides by 5 </p>\n\n<p>⇒ 5n = 5[(7 × a) + 4] ⇒ 5n = 35a + 14 + 6 ⇒ 5n = 7(5a + 2) + 6</p>\n\n<p>On comparing with (Dividend = (Divisor × Quotient) + Remainder)</p>\n\n<p>Remainder = 6</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q32",
+      "number": 32,
+      "question": "The least number of five digits which is exactly divisible by 9, 12, 15, 25 and 27 is:",
+      "questionHtml": "The least number of five digits which is exactly divisible by 9, 12, 15, 25 and 27 is:&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "10800",
+          "html": "10800&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "10250",
+          "html": "10250&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "10700",
+          "html": "10700&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "10600",
+          "html": "10600&nbsp;"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">LCM is calculated by prime factorization.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">9 = 3<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>, 12 = 2<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2 </span>× 3, 15 = 3 × 5, 25 = 5<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>, 27 = 3<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">Combine highest powers of prime factors: LCM = 2<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> × 3<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span> × 5<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ LCM = 4 × 27 × 25 ⇒ LCM = 108 × 25 ⇒ LCM = 2700</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Least 4 digit number is 10000.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">To reach the next multiple: ⇒ 2700 × 4 = 10800</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q33",
+      "number": 33,
+      "question": "In a question on division,the divisor is 6 times the quotient and 3 times the remainder. If the remainder is 40, then find the dividend.",
+      "questionHtml": "In a question on division,the divisor is 6 times the quotient and 3 times the remainder. If the remainder is 40, then find the dividend.",
+      "options": [
+        {
+          "id": "A",
+          "text": "2445",
+          "html": "2445"
+        },
+        {
+          "id": "B",
+          "text": "2440",
+          "html": "2440"
+        },
+        {
+          "id": "C",
+          "text": "2455",
+          "html": "2455"
+        },
+        {
+          "id": "D",
+          "text": "2450",
+          "html": "2450"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><b>Given:</b></p>\n\n<p>The divisor is 6 times the quotient and 3 times the reminder</p>\n\n<p>The reminder = 40</p>\n\n<p><b>Formula used:</b></p>\n\n<p>Dividend = (Divisor&nbsp;&times; Quotient) + Reminder</p>\n\n<p><b>Calculation:</b></p>\n\n<p>Divisor = 3&nbsp;&times;&nbsp;Reminder&nbsp;</p>\n\n<p>&rArr; Divisor = 3&nbsp;&times; 40 = 120</p>\n\n<p>Quotient = (1/6)&nbsp;&times; Divisor</p>\n\n<p>&rArr; Quotient = (1/6)&nbsp;&times; 120 = 20</p>\n\n<p>Dividend = (Divisor&nbsp;&times; Quotient) + Reminder</p>\n\n<p>&rArr; 120&nbsp;&times;&nbsp; 20 + 40</p>\n\n<p>&rArr; 2400 + 40</p>\n\n<p>&rArr; 2440</p>\n\n<p><strong>&there4; The dividend is 2440.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q34",
+      "number": 34,
+      "question": "A six-digit number Is divisible by 33. If 54 Is added to the number, then the new number formed will also be divisible by:",
+      "questionHtml": "A six-digit number Is divisible by 33. If 54 Is added to the number, then the new number formed will also be divisible by:&nbsp;&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "D",
+          "text": "7",
+          "html": "7"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">Dividend = 33 × q + 0 = 33q</span></p>\n\n<p><span data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">New number = 33q + 54 ⇒ 3 × (11q + 18)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q35",
+      "number": 35,
+      "question": "If the number 556743A57B is divisible by 8 and 9, then find the value of A - B.",
+      "questionHtml": "If the number 556743A57B is divisible by 8 and 9, then find the value of A - B.",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given: </strong></p>\n\n<p>556743A57B is divisible by 8 and 9</p>\n\n<p><strong>Concept used: </strong></p>\n\n<p>Divisibility Rule of 8 = If the last three digits of a number are divisible by 8, then the number is completely divisible by 8.</p>\n\n<p>Divisibility Rule of 9 = If the sum of digits of the number is divisible by 9, then the number itself is divisible by 9.</p>\n\n<p><strong>Calculation: </strong></p>\n\n<p>According to the divisibility rule of 8 , we have 57B should be divisible by 8. We try to get all the multiples of 8 between 560 and 600, and then obtain the least number having 57 as their starting two digits and is divisible by 8. Hence, we have</p>\n\n<p>8 &times; 70 = 560</p>\n\n<p>8 &times; 71 = 568</p>\n\n<p>8 &times; 72 = 576</p>\n\n<p>We got the number, whose first 2 digits are 57 and is also divisible by 8</p>\n\n<p>&rArr; Value of B = 6</p>\n\n<p>&rArr; Updated number = 556743A576</p>\n\n<p>According to the divisibility rule of 9, sum of digits of the number should be divisible by 9</p>\n\n<p>&rArr; Sum of digits = 5 + 5 + 6 + 7 + 4 + 3 + A + 5 + 7 + 6</p>\n\n<p>&rArr; Sum of digits = 48 + A</p>\n\n<p>To make the number divisible, let us check the value of A</p>\n\n<p>48 + 1 = 49 (not divisible by 9)</p>\n\n<p>48 + 2 = 50 (not divisible by 9)</p>\n\n<p>48 + 3 = 51 (not divisible by 9)</p>\n\n<p>48 + 4 = 52 (not divisible by 9)</p>\n\n<p>48 + 5 = 53 (not divisible by 9)</p>\n\n<p>48 + 6 = 54 (divisible by 9)</p>\n\n<p>&rArr; Value of A = 6</p>\n\n<p>According to the question,</p>\n\n<p>&rArr; A &ndash; B = 6 &ndash; 6</p>\n\n<p>&rArr; A &ndash; B = 0</p>\n\n<p><strong>&there4;</strong><strong> &nbsp;The value of A &ndash; B is 0.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q36",
+      "number": 36,
+      "question": "If a nine-digit number 7698x138y is divisible by 72, then the value of \\(\\sqrt{4x+y}\\) is:",
+      "questionHtml": "If a nine-digit number 7698x138y is divisible by 72, then the value of&nbsp;<span class=\"math-tex\">\\(\\sqrt{4x+y}\\)</span>&nbsp;is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "D",
+          "text": "9",
+          "html": "9"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"\"><span style=\"font-weight: 700;\">Given:</span></p>\n\n<p style=\"\"><span style=\"\">9 digit number 7698x138y is divisible by 72</span></p>\n\n<p style=\"\"><span class=\"math-tex\">\\(√{4x+y}\\)</span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Concept used:</span></p>\n\n<p>A number is divisible by 8 when the number formed by&nbsp;the last three digits of the number is divisible by 8.</p>\n\n<p>A number is divisible by 9 when the last sum of its digits is divisible by 9.</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p><span style=\"\">7698x138y</span>&nbsp;is divisible by 72 when it is divisible by 8 as well as 9.</p>\n\n<p>So, it must be divisible by 8 as well as 9.</p>\n\n<p>By divisibility rule of 8, we can clearly say that y is equal to 4. Since in the range of 380 to 389, there is only one number that is divisible by 8, and that is 384.</p>\n\n<p>So, the given number becomes&nbsp;<span style=\"\">7698x1384.</span></p>\n\n<p><span style=\"\">Now,</span>&nbsp;the sum of digits of&nbsp;<span style=\"\">7698x1384 = 46&nbsp;+ x</span></p>\n\n<p><span style=\"\">So, in order to be divisible by 9, x has to be (54 - 46) = 8 (∵The nearest multiple of 9 to 46 is 54)</span></p>\n\n<p><span style=\"\">Now,</span></p>\n\n<p><span style=\"\">&radic;(4x + y)</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;&radic;36</span></p>\n\n<p><span style=\"\">&rArr; 6</span></p>\n\n<p><strong><span style=\"\">&there4; The required value of&nbsp;<span class=\"math-tex\">\\(√{4x+y}\\)</span>&nbsp;is 6.</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q37",
+      "number": 37,
+      "question": "What will be the remainder when 7 42 is divided by 48?",
+      "questionHtml": "What will be the remainder when 7<sup>42</sup>&nbsp;is divided by 48?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "D",
+          "text": "0",
+          "html": "0"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">If (n + 1)<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">a</span> is divided by n then, the remainder is 1</p>\n\n<p><span style=\"\">7</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">42 </span>= (<span style=\"\">7<sup>2</sup></span>)<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">21</span> ⇒ <span style=\"\">(49</span><span style=\"\">)</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">21 </span><span style=\"\">⇒ (48 + 1</span><span style=\"\">)</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">21</span> so, the remainder is 1</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q38",
+      "number": 38,
+      "question": "If the nine-digit number 87605x31y is divisible by 72, then the value of 2x - 3y is:",
+      "questionHtml": "If the nine-digit number 87605x31y is divisible by 72, then the value of 2x - 3y is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-1",
+          "html": "-1"
+        },
+        {
+          "id": "B",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:&nbsp;</strong></p>\n\n<p>985x3678y is divisible by 72,</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p><span style=\"\">A number will be divisible by 8 if the last 3 digit of a number is divisible by 8.</span></p>\n\n<p><span style=\"\">A number will be divisible by 9 if the sum of the digits is divisible by 9.</span></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>A number will be divisible by 8 if the last 3 digit of a number is divisible by 8.</p>\n\n<p>&rArr; 31y will be divisible by 8 if and only if y = 2</p>\n\n<p>So, the number becomes&nbsp;<span style=\"\">87605x312</span></p>\n\n<p><span style=\"\">Now, The sum of digits is (32 + x)</span></p>\n\n<p>The number will be divisible by 9 if the sum of the digits is divisible by 9.</p>\n\n<p>For this x must be 4&nbsp; &nbsp; &nbsp;[x is a digit, x can&#39;t be 13]</p>\n\n<p>&rArr; x = 4</p>\n\n<p>Now, We have to find the value of&nbsp;2x &ndash; 3y</p>\n\n<p><span style=\"\">&rArr;</span> 2 &times; 4 &ndash; 3 &times; 2 = 2</p>\n\n<p><strong>&there4; Required answer is 2</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q39",
+      "number": 39,
+      "question": "If 1421 &times; 1423 &times; 1425 is divided by 12, then what will be the remainder?",
+      "questionHtml": "If 1421&nbsp;&times; 1423&nbsp;&times; 1425 is divided by 12, then what will be the remainder?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "D",
+          "text": "0",
+          "html": "0"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>\n\n<p>If 1421&nbsp;&times; 1423&nbsp;&times; 1425 is divided by 12</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Dividend&nbsp;=&nbsp;Divisor x Quotient&nbsp;+ Remainder</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>1421 = 118 &times; 12 + 5 = 12k + 5, where k = 118.</p>\n\n<p>1423 = 12k + 7</p>\n\n<p>1425 = 12k + 9</p>\n\n<p>N = (12k + 5)(12 k + 7)(12k + 9)</p>\n\n<p>When N is divided by 12, the remainder is same as the remainder,</p>\n\n<p>When 5 &times; &nbsp;7 &times; 9 = 315 is divided by 12.</p>\n\n<p>5 &times; 7 &times; 9 = 35 &times; 9 = 315&nbsp;</p>\n\n<p>315 = 312 + 3 = 12 &times; 26 + 3&nbsp;</p>\n\n<p><strong>&there4; The remainder is 3.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q40",
+      "number": 40,
+      "question": "If 321y72 is a multiple of 6, where y is a digit, what is the least value of y?",
+      "questionHtml": "If 321y72 is a multiple of 6, where y is a digit, what is the least value of y?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "B",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "C",
+          "text": "7",
+          "html": "7"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Number: 321y72</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Divisibility by 2: Last digit is 2 (even)</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Sum of digits: 3 + 2 + 1 + y + 7 + 2 = 15 + y</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Divisibility by 3: 15 + y must be divisible by 3</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Check options: y = 3, 0, 7, 2</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">15 + 3 = 18 (divisible)</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">15 + 0 = 15 (divisible)</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">15 + 7 = 22 (not divisible)</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">15 + 2 = 17 (not divisible)</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Least y: 0</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q41",
+      "number": 41,
+      "question": "2 25 + 2 26 + 2 27 is divisible by:",
+      "questionHtml": "2<sup>25</sup> + 2<sup>26</sup> + 2<sup>27</sup> is divisible by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "D",
+          "text": "7",
+          "html": "7"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p> </p>\n\n<p>⇒ 2<sup>25</sup> + 2<sup>26</sup> + 2<sup>27</sup> =<span style=\"\"> 2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">25</span><span style=\"\">(1 + 2 + 4) = 2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">25</span><span style=\"\">(7)</span></p>\n\n<p>Hence, it is divisible by 7 because 7 is one of the factor/multiple of this expression.</p>\n\n<p><strong>∴ 2<sup>25</sup> + 2<sup>26</sup> + 2<sup>27</sup> is divisible by 7.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q42",
+      "number": 42,
+      "question": "If the number 645A2879B8 is divisible by both 8 and 9, then the smallest possible values of A and B will be:",
+      "questionHtml": "If the number 645A2879B8 is divisible by both 8 and 9, then the smallest possible values of A and B will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A = 4, B = 3",
+          "html": "A = 4, B = 3"
+        },
+        {
+          "id": "B",
+          "text": "A = 3, B = 4",
+          "html": "A = 3, B = 4"
+        },
+        {
+          "id": "C",
+          "text": "A = 3, B = 2",
+          "html": "A = 3, B = 2"
+        },
+        {
+          "id": "D",
+          "text": "A = 2, B = 3",
+          "html": "A = 2, B = 3"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">The number 645A2879B8 is divisible by both 8 and 9</span></p>\n\n<p><strong><span style=\"\">Concept used:</span></strong></p>\n\n<p><span style=\"\"><strong>Divisibility rule of 8 -</strong>&nbsp;</span>If the last three digits of a number are divisible by 8, then the number is completely divisible by 8</p>\n\n<p><strong>Divisibility rule of 9 -</strong>&nbsp;&nbsp;If the sum of digits of the number is divisible by 9, then the number itself is divisible by 9</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>According to the divisibility rule of 8, we have 9B8 should be divisible by 8</p>\n\n<p>So, by option we saw that&nbsp;the smallest possible values of B is 2</p>\n\n<p>So, B = 928, which is completely divisible by 8.</p>\n\n<p>Now,</p>\n\n<p>Updated number = 645A287928</p>\n\n<p>According to divisibility rule of 9, sum of digits of the number should be divisible by 9.</p>\n\n<p>Sum of digits = 6 + 4 + 5 + A + 2 + 8 + 7 + 9 + 2 + 8</p>\n\n<p>&rArr; Sum of digits = 51 + A</p>\n\n<p>To make the number divisible, let us put the value of A</p>\n\n<p>&rArr; 51 + 3 = 54&nbsp;(divisible by 9)</p>\n\n<p>So, The smallest possible values of A and B will be A = 3 and B = 2.</p>\n\n<p><strong>&there4; The required value is&nbsp;<span style=\"\">A = 3, B = 2</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q43",
+      "number": 43,
+      "question": "Mohan divides 18935 by a certain number. If the quotient and the remainder he gets are 102 and 65, respectively, then the divisor is:",
+      "questionHtml": "Mohan divides 18935 by a certain number. If the quotient and the remainder he gets are 102 and 65, respectively, then the divisor is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "155",
+          "html": "155"
+        },
+        {
+          "id": "B",
+          "text": "165",
+          "html": "165"
+        },
+        {
+          "id": "C",
+          "text": "175",
+          "html": "175"
+        },
+        {
+          "id": "D",
+          "text": "185",
+          "html": "185"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style=\"color: rgb(33, 37, 41);\">Divisor = (Dividend - Remainder)/quotient = (18935 - 65)/102 = 18870/102 = 185 </span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q44",
+      "number": 44,
+      "question": "If a 9-digit number 389x6378y is divisible by 72, then the value of 6x + 7y is:",
+      "questionHtml": "<!-- x-tinymce/html -->If a 9-digit number 389x6378y is divisible by 72, then the value of 6x + 7y is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "64",
+          "html": "64"
+        },
+        {
+          "id": "B",
+          "text": "32",
+          "html": "32"
+        },
+        {
+          "id": "C",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "D",
+          "text": "28",
+          "html": "28"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Number <strong>389x6378y</strong> is divisible by <strong>72</strong>, so it must be divisible by <strong>8</strong> and <strong>9</strong>.</p>\n<p>For <strong>8</strong>: Last 3 digits <strong>78y</strong> ÷ 8 → 784 is divisible, so <strong>y = 4</strong>.</p>\n<p>For <strong>9</strong>: Sum of digits (3+8+9+x+6+3+7+8+4) = <strong>48 + x</strong> must be divisible by 9 → <strong>x = 6</strong>.</p>\n<p>Value of <strong>6x + 7y</strong> = 6(6) + 7(4) = 36 + 28 = <strong>64</strong>.</p>\n<p><strong>∴ The correct answer is 64.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Number = <strong>389x6378y</strong>, Divisor = <strong>72</strong>.</p>\n<p><strong>Condition:</strong> 72 = 8 × 9 (where 8 and 9 are <strong>co-prime</strong>).</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_e1adb1f0.png/1784699757.png\" style=\"max-width: 100%; height: auto; width: 420px; max-height: 200px;\"></div>\n<p>⇒ <strong>Divisibility by 8:</strong> Last three digits <strong>78y</strong> must be divisible by 8.</p>\n<p>⇒ 78y ÷ 8 ⇒ 8 × 9 = 72, remainder 6. For 6y to be divisible by 8, <strong>y must be 4</strong> (since 8 × 8 = 64).</p>\n<p>⇒ <strong>Divisibility by 9:</strong> Sum of digits (3+8+9+x+6+3+7+8+4) must be divisible by 9.</p>\n<p>⇒ 48 + x = Multiple of 9. The nearest multiple of 9 after 48 is 54.</p>\n<p>⇒ 48 + x = 54 ⇒ <strong>x = 6</strong>.</p>\n<p>⇒ <strong>Calculation:</strong> 6x + 7y = 6(6) + 7(4)</p>\n<p>⇒ 36 + 28 = 64.</p>\n<p><strong>∴ The correct answer is 64.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Divisibility Rule of 8</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">A number is divisible by 8 if its <strong>last three digits</strong> are divisible by 8 or if the last three digits are <strong>000</strong>.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Divisibility Rule of 9</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">A number is divisible by 9 if the <strong>sum of its digits</strong> is divisible by 9.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Composite Divisibility</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If a number is divisible by two <strong>co-prime</strong> numbers a and b, then it is also divisible by their product (a × b).</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_e1adb1f0.png/1784699757.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q45",
+      "number": 45,
+      "question": "The number 1563241234351 is:",
+      "questionHtml": "The number 1563241234351 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "divisible by both 3 and 11",
+          "html": "divisible by both 3 and 11"
+        },
+        {
+          "id": "B",
+          "text": "divisible by 11 but not by 3",
+          "html": "divisible by 11 but not by 3"
+        },
+        {
+          "id": "C",
+          "text": "neither divisible by 3 nor by 11",
+          "html": "neither divisible by 3 nor by 11"
+        },
+        {
+          "id": "D",
+          "text": "divisible by 3 but not by 11",
+          "html": "divisible by 3 but not by 11"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Divisibility law of 3 &rArr; A number is divisible by 3 if the sum of its digit is divisible by 3.</p>\n\n<p>Divisibility law of 11: If the difference of the alternating sum of digits of&nbsp;the number&nbsp;is a multiple of 11 (e.g. 2343 is divisible by 11 because (2 + 4) &ndash; (3 + 3) = 0, which is a multiple of 11).</p>\n\n<p>Sum of the digit of the number 1563241234351 is</p>\n\n<p>1 + 5 + 6 + 3 + 2 + 4 + 1 + 2 + 3 + 4 + 3 + 5 + 1</p>\n\n<p>= 40</p>\n\n<p>As we know, 40 not divisible by 3 so the number is not divisible by 3.</p>\n\n<p>Now check divisibility rule 11</p>\n\n<p>(5 + 3 + 4 + 2 + 4 + 5) &ndash; (1 + 6 + 2 + 1 + 3 + 3 + 1)</p>\n\n<p>23 &ndash; 17</p>\n\n<p>6</p>\nAs we know, 6 is not multiple of 11 so the number is not divisible by 11.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q46",
+      "number": 46,
+      "question": "The largest six-digit number exactly divisible by 243 is:",
+      "questionHtml": "The largest six-digit number exactly divisible by 243 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "999945",
+          "html": "999945"
+        },
+        {
+          "id": "B",
+          "text": "999943",
+          "html": "999943"
+        },
+        {
+          "id": "C",
+          "text": "999947",
+          "html": "999947"
+        },
+        {
+          "id": "D",
+          "text": "999949",
+          "html": "999949"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">The largest six-digit number exactly divisible by 243</span></p>\n\n<p><strong><span style=\"\">Formula used:</span></strong></p>\n\n<p>Required largest n-digit no. = [(Largest n-digit no.) &ndash;&nbsp;(Remainder left when the largest n-digit no. is divided by the provided divisor)].</p>\n\n<p><strong><span style=\"\">Calculation:</span></strong></p>\n\n<p><span style=\"\">The largest six digit number = 999999</span></p>\n\n<p><span style=\"\">Now,</span></p>\n\n<p>The largest six digit number divisible by 243&nbsp;</p>\n\n<p>&rArr; (999999/243)</p>\n\n<p>Then, we get remainder = 54</p>\n\n<p>Now,</p>\n\n<p><span style=\"\">Required largest n-digit no. = [</span><span style=\"\">(</span><span style=\"\">Largest n-digit no.</span><span style=\"\">)&nbsp;</span><span style=\"\">&ndash;&nbsp;</span><span style=\"\">(</span><span style=\"\">Remainder left when the largest n-digit no. is divided by the provided divisor</span><span style=\"\">)</span><span style=\"\">].</span></p>\n\n<p><span style=\"\">&rArr; (999999&nbsp;&ndash; 54)</span></p>\n\n<p><span style=\"\">&rArr; 999945</span></p>\n\n<p><strong><span style=\"\">&there4; The largest six-digit number exactly divisible by 243 is 999945</span></strong></p>\n\n<p><strong><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span>Calculation:</span></strong></p>\n\n<p>Factors of 243 = 81&nbsp;&times;&nbsp;3</p>\n\n<p>If any number divided by 9 and 3, that is divisible by 243.</p>\n\n<p>So if we take first option&nbsp;</p>\n\n<p><span style=\"\">Sum of digit of 999945 = 9 + 9 + 9 + 9 + 4 + 5 = 45</span></p>\n\n<p><span style=\"\">45 is divisible&nbsp;by 9 and 3. So 999945 is divided by 243.</span></p>\n\n<p>So if we take the second&nbsp;option,&nbsp;</p>\n\n<p style=\"\">Sum of digit of 999943&nbsp;= 9 + 9 + 9 + 9 + 4 + 3&nbsp;= 43</p>\n\n<p style=\"\">43&nbsp;is not divisible&nbsp;by 9 and 3. So 999943&nbsp;is not divided by 243.</p>\n\n<p style=\"\">So if we take the third&nbsp;option&nbsp;</p>\n\n<p style=\"\">Sum of digit of 999947&nbsp;= 9 + 9 + 9 + 9 + 4 + 7&nbsp;= 47</p>\n\n<p style=\"\">47&nbsp;is divisible&nbsp;by 9 and 3. So 999947&nbsp;is divided by 243.</p>\n\n<p style=\"\">So if we take the fourth option,&nbsp;</p>\n\n<p style=\"\">Sum of digit of 999949&nbsp;= 9 + 9 + 9 + 9 + 4 + 9&nbsp;= 49</p>\n\n<p style=\"\">49&nbsp;is not divisible&nbsp;by 9 and 3. So 999949&nbsp;is not divided by 243.</p>\n\n<p style=\"\"><strong>&there4; The correct option is 1.</strong></p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q47",
+      "number": 47,
+      "question": "If the number 34k56k is divisible by 6, then what will be the largest value of k?",
+      "questionHtml": "If the number 34k56k is divisible by 6, then what will be the largest value of k?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "B",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "D",
+          "text": "9",
+          "html": "9"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Since k is a digit, the maximum possible value of (K + K) = 18</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Now, the sum of the digits of the number = 3 + 4 + k + 5 + 6 + k = 18 + 2k</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Here, 34k56k would be divisible by 6, if 2k is divisible by 6.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Now, possible values of 2k are multiples of 6 i.e. 6,12,18.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, in order to be divisible by 2, the number must have an even number in the unit place.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Hence, the maximum value of 2k = 12 & k = 6</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q48",
+      "number": 48,
+      "question": "The number 611611611611 is: (a)divisible by both 6 and 11 (b)neither divisible by 6 nor by 11 (c)divisible by 6 only (d)divisible by 11 only",
+      "questionHtml": "The number 611611611611 is: (a)divisible by both 6 and 11 (b)neither divisible by 6 nor by 11 (c)divisible by 6 only (d)divisible by 11 only",
+      "options": [
+        {
+          "id": "A",
+          "text": "(b)",
+          "html": "(b)"
+        },
+        {
+          "id": "B",
+          "text": "(a)",
+          "html": "(a)"
+        },
+        {
+          "id": "C",
+          "text": "(d)",
+          "html": "(d)"
+        },
+        {
+          "id": "D",
+          "text": "(c)",
+          "html": "(c)"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>The number is 611611611611.</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Divisibility Rules:</p>\n\n<p>1. A number is divisible by 6 if it is divisible by both 2 and 3.</p>\n\n<p>2. A number is divisible by 11 if the difference between the sum of the digits in the odd positions and the sum of the digits in the even positions is either 0 or a multiple of 11.</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Check for divisibility by 6:</p>\n\n<p>1. Divisibility by 2: The last digit is 1, which is not even. Hence, 611611611611 is not divisible by 2.</p>\n\n<p>2. Divisibility by 3: Sum of the digits = 6 + 1 + 1 + 6 + 1 + 1 + 6 + 1 + 1 + 6 + 1 + 1 = 32. Since 32 is not divisible by 3, 611611611611 is not divisible by 3.</p>\n\n<p>Since the number is not divisible by both 2 and 3, it is not divisible by 6.</p>\n\n<p>Check for divisibility by 11:</p>\n\n<p>Sum of digits in odd positions = 6 + 1 + 1 + 6 + 1 + 1 = 16</p>\n\n<p>Sum of digits in even positions = 1 + 6 + 1 + 1 + 6 + 1 = 16</p>\n\n<p>Difference = 16 - 16 = 0</p>\n\n<p>Since the difference is 0, 611611611611 is divisible by 11.</p>\n\n<p>&rArr; 611611611611 is divisible by 11 only.</p>\n\n<p><strong>&there4; The correct answer is option (3).</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q49",
+      "number": 49,
+      "question": "Which is the smallest natural number that is exactly divisible by each of 96, 108 and 144?",
+      "questionHtml": "Which is the smallest natural number that is exactly divisible by each of 96, 108 and 144?",
+      "options": [
+        {
+          "id": "A",
+          "text": "864",
+          "html": "864"
+        },
+        {
+          "id": "B",
+          "text": "2592",
+          "html": "2592"
+        },
+        {
+          "id": "C",
+          "text": "1296",
+          "html": "1296"
+        },
+        {
+          "id": "D",
+          "text": "1728",
+          "html": "1728"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">96 = 2<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">5</span> × 3, 108 = 2<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> × 3<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">3</span>, 144 = 2<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">4</span> × 3<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">LCM = Highest power of all prime factors found in given numbers = 2<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">5</span> × 3<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span> = 32 × 27 = 864</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "80fd794b1450-q50",
+      "number": 50,
+      "question": "The least number which should be added to 3627 so that the sum is exactly divisible by 4, 5, 6 and 8 is:",
+      "questionHtml": "The least number which should be added to 3627 so that the sum is exactly divisible by 4, 5, 6 and 8 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "72",
+          "html": "72"
+        },
+        {
+          "id": "B",
+          "text": "27",
+          "html": "27"
+        },
+        {
+          "id": "C",
+          "text": "93",
+          "html": "93"
+        },
+        {
+          "id": "D",
+          "text": "39",
+          "html": "39"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>The number are 4, 5, 6 and 8</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>The least number which is exactly divisible by a, b and c is the L.C.M of a, b and c</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>LCM of 4, 5, 6 and 8 is 120</p>\n\n<p>Now,</p>\n\n<p>By dividing 120 from 3627 we get 27 as the remainder</p>\n\n<p>So,</p>\n\n<p>Required number which should be added to the next multiple of 120 = 120 - 27</p>\n\n<p>&rArr; 93</p>\n\n<p><strong>&there4; The required number is 93.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

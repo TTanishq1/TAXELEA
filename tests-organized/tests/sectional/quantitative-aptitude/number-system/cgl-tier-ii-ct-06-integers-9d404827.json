@@ -1,0 +1,365 @@
+{
+  "id": "9d4048271a97",
+  "provider": "Testbook",
+  "sourceFile": "CGL Tier II CT 06_ Integers.html",
+  "sourcePath": "Testbook/files/CGL Tier II CT 06_ Integers.html",
+  "title": "CGL Tier II CT 06: Integers",
+  "exam": null,
+  "year": null,
+  "tier": "Tier I",
+  "shift": null,
+  "duration": null,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "9d4048271a97-q1",
+      "number": 1,
+      "question": "Which one of the following statements is true about integer?",
+      "questionHtml": "Which one of the following statements is true about integer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "On multiplying any integer with 0 , we get 1.",
+          "html": "<span style=\"\">On multiplying any integer with 0 , we get 1.</span>"
+        },
+        {
+          "id": "B",
+          "text": "On multiplying any integer with its multiplicative identity, we get 1.",
+          "html": "<span style=\"\">On multiplying any integer with its multiplicative identity, we get 1.&nbsp;</span>"
+        },
+        {
+          "id": "C",
+          "text": "For every integer, 0 is the additive inverse.",
+          "html": "<span style=\"\">For every integer, 0 is the additive inverse.</span>"
+        },
+        {
+          "id": "D",
+          "text": "On dividing any integer except 0 by its additive inverse, we get -1.",
+          "html": "<span style=\"\">On dividing any integer except 0 by its additive inverse, we get -1.</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"\">On dividing any integer except 0 by its additive inverse, we get -1.This is true,</span></p>\n\n<p><span style=\"\">For example, 2 is an integer, and its additive inverse = -2</span></p>\n\n<p>On dividing an integer with additive inverse = 2/-2 = -1</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "9d4048271a97-q2",
+      "number": 2,
+      "question": "Determine the integer n such that \\(n\\over160\\) is less than \\(1\\over16\\) but more than \\(1\\over20\\) .",
+      "questionHtml": "Determine the integer n such that&nbsp;<span class=\"math-tex\">\\(n\\over160\\)</span>&nbsp;is less than&nbsp;<span class=\"math-tex\">\\(1\\over16\\)</span>&nbsp;but more than&nbsp;<span class=\"math-tex\">\\(1\\over20\\)</span>.",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "C",
+          "text": "7",
+          "html": "7"
+        },
+        {
+          "id": "D",
+          "text": "8",
+          "html": "8"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span class=\"math-tex\">\\(\\frac{n}{160}\\)</span> is less than&nbsp;<span class=\"math-tex\">\\(1\\over16\\)</span>&nbsp; but more than <span class=\"math-tex\">\\(1\\over20\\)</span> .</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p><span class=\"math-tex\">\\(\\frac{n}{160}\\)</span> &lt; <span class=\"math-tex\">\\(1\\over16\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\frac{n}{160}\\)</span> &gt; <span class=\"math-tex\">\\(1\\over20\\)</span></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><span class=\"math-tex\">\\(\\frac{n}{160}\\)</span> &lt; <span class=\"math-tex\">\\(1\\over16\\)</span></p>\n\n<p>&rArr; n &lt; 160 &times; <span class=\"math-tex\">\\(1\\over16\\)</span></p>\n\n<p>&rArr; n &lt; 10</p>\n\n<p><span class=\"math-tex\">\\(\\frac{n}{160}\\)</span> &gt; <span class=\"math-tex\">\\(1\\over20\\)</span></p>\n\n<p>&rArr; n &gt; 160 &times; <span class=\"math-tex\">\\(1\\over20\\)</span></p>\n\n<p>&rArr; n &gt; 8</p>\n\n<p>Combining both conditions:</p>\n\n<p>8 &lt; n &lt; 10</p>\n\n<p>Therefore, the integer n is 9.</p>\n\n<p><strong>The correct answer is option 1.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "9d4048271a97-q3",
+      "number": 3,
+      "question": "There are some hens and goats in a field. The sum of all the heads is 77 and the sum of the legs is 248. The number of hens in the farm is?",
+      "questionHtml": "There are some hens and goats in a field. The sum of all the heads is 77 and the sum of the legs is 248. The number of hens in the farm is?",
+      "options": [
+        {
+          "id": "A",
+          "text": "25",
+          "html": "25"
+        },
+        {
+          "id": "B",
+          "text": "30",
+          "html": "30"
+        },
+        {
+          "id": "C",
+          "text": "40",
+          "html": "40"
+        },
+        {
+          "id": "D",
+          "text": "47",
+          "html": "47"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p> </p>\n\n<p>Let x be hens and y be goats.</p>\n\n<p>From x + y = 77 and 2x + 4y = 248,</p>\n\n<p>multiplying x + y = 77 by 2 gives 2x + 2y = 154.</p>\n\n<p>Subtracting this from 2x + 4y = 248 results in 2y = 94, so y = 47. Substituting in x + 47 = 77 gives x = 30.</p>\n\n<p>The number of hens is 30.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "9d4048271a97-q4",
+      "number": 4,
+      "question": "0 is a____________.",
+      "questionHtml": "0 is a____________.",
+      "options": [
+        {
+          "id": "A",
+          "text": "even natural number",
+          "html": "even natural number"
+        },
+        {
+          "id": "B",
+          "text": "natural number",
+          "html": "natural number"
+        },
+        {
+          "id": "C",
+          "text": "rational number",
+          "html": "rational number"
+        },
+        {
+          "id": "D",
+          "text": "prime number",
+          "html": "prime number&nbsp;&nbsp;"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given: </strong></p>\n\n<p>0 is a number</p>\n\n<p><strong>Concept used: </strong></p>\n\n<p>A rational number is a number that can be expressed as the ratio of two integers.</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>A rational number is a number that can be expressed as the ratio of two integers. 0 satisfies this definition as it can be expressed as the ratio of 0 and any non-zero integer.</p>\n\n<p>An even number is a number that is divisible by 2. 0 satisfies this definition as it is evenly divisible by 2.</p>\n\n<p>A natural number is a positive integer greater than 0. 0 does not satisfy this definition as it is not a positive integer greater than 0.</p>\n\n<p>&rArr; 0 is a rational number, an even number but not a natural number.</p>\n\n<p><strong>&there4; 0 is a&nbsp;Rational number.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "9d4048271a97-q5",
+      "number": 5,
+      "question": "In writing all the integers from 1 to 300, how many times is the digit 1 used?",
+      "questionHtml": "In writing all the integers from 1 to 300, how many times is the digit 1 used?",
+      "options": [
+        {
+          "id": "A",
+          "text": "160",
+          "html": "160"
+        },
+        {
+          "id": "B",
+          "text": "140",
+          "html": "140"
+        },
+        {
+          "id": "C",
+          "text": "120",
+          "html": "120"
+        },
+        {
+          "id": "D",
+          "text": "110",
+          "html": "110"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">All the integers from 1 to 300.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">1 to 99 = 20 times, 100 to 199 = 100 + 20 = 120 times, 200 to 299 = 20 times</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, 1 to 300 = 20 + 120 + 20 = 160 times</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "9d4048271a97-q6",
+      "number": 6,
+      "question": "The sum of digits of a two digit number is 8 and the difference between the number and that formed by reversing the digits is 18. What is the difference between the digits of the number?",
+      "questionHtml": "The sum of digits of a two digit number is 8 and the difference between the number and that formed by reversing the digits is 18. What is the difference between the digits of the number?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "4"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let the number be 10x + y, where x is the tens digit and y is the ones digit.</p>\n\n<p>Given: x + y = 8 and (10x + y) - (10y + x) = 18.</p>\n\n<p>From the second equation: (10x + y) - (10y + x) = 18</p>\n\n<p>⇒ 10x + y - 10y - x = 18</p>\n\n<p>⇒ 9x - 9y = 18</p>\n\n<p>⇒ x - y = 2</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "9d4048271a97-q7",
+      "number": 7,
+      "question": "How many composite numbers are there from 53 to 97 ?",
+      "questionHtml": "How many composite numbers are there from 53 to 97 ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "36",
+          "html": "36"
+        },
+        {
+          "id": "B",
+          "text": "38",
+          "html": "38"
+        },
+        {
+          "id": "C",
+          "text": "37",
+          "html": "37"
+        },
+        {
+          "id": "D",
+          "text": "35",
+          "html": "35"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Total integers from 53 to 97 = 97 − 53 + 1 = 45.</p>\n<p>List primes in the range: 53, 59, 61, 67, 71, 73, 79, 83, 89, 97 (Total 10 primes).</p>\n<p>Composite numbers = Total numbers − Prime numbers.</p>\n<p>Composite numbers = 45 − 10 = 35.</p>\n<p><strong>∴ The correct answer is 35.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Range of numbers: 53 to 97 (inclusive).</p>\n<p><strong>Formula Used:</strong></p>\n<p>Total numbers in range [a, b] = (b − a) + 1</p>\n<p>Composite numbers = Total numbers − Prime numbers (for n > 1)</p>\n\n<img src=\"https://cdn.testbook.com/temp_33003cee5e62472bb0b32cc58e322f7d.png/1780118312.png\" style=\"max-width: 450px;\" />\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ Total integers between 53 and 97 = 97 − 53 + 1 = 45.</p>\n<p>⇒ Prime numbers between 53 and 97 are: 53, 59, 61, 67, 71, 73, 79, 83, 89, 97.</p>\n<p>⇒ Count of prime numbers = 10.</p>\n<p>⇒ Count of composite numbers = 45 − 10 = 35.</p>\n<p><strong>∴ The correct answer is 35.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Composite Numbers</p>\n<p style='margin:0 0 8px 0;color:#444444;'>A composite number is a positive integer greater than 1 that has at least one divisor other than 1 and itself.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Prime Numbers</p>\n<p style='margin:0 0 8px 0;color:#444444;'>A prime number is a natural number greater than 1 that has exactly two factors: 1 and itself. There are 25 prime numbers between 1 and 100.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Special Cases</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The number 1 is neither prime nor composite. The number 2 is the smallest prime number and the only even prime number.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_33003cee5e62472bb0b32cc58e322f7d.png/1780118312.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "9d4048271a97-q8",
+      "number": 8,
+      "question": "If the ratio of the first and 14th consecutive even integers is 4 ∶ 5, find the sum of the first and 14th consecutive even integers.",
+      "questionHtml": "If the ratio of the first and 14th consecutive even integers is 4 ∶ 5, find the sum of the first and 14th consecutive even integers.",
+      "options": [
+        {
+          "id": "A",
+          "text": "230",
+          "html": "230"
+        },
+        {
+          "id": "B",
+          "text": "300",
+          "html": "300"
+        },
+        {
+          "id": "C",
+          "text": "144",
+          "html": "144"
+        },
+        {
+          "id": "D",
+          "text": "234",
+          "html": "234"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>First even integer&nbsp;∶&nbsp;14th consecutive even integer = 4&nbsp;∶ 5</p>\n\n<p><strong>Concepts used:</strong></p>\n\n<p>First even consecutive integer = x</p>\n\n<p>14th consecutive even integer = x + 26</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let the first consecutive even integr be x.</p>\n\n<p>As consecutive even integers have a common difference of 2, 14th consecutive even integer is the 14 th term of an A.P. with the first term equal to x and common difference equal to 2.</p>\n\n<p>&rArr; 14th consecutive even integer = x + (14 - 1)&nbsp;&times; 2</p>\n\n<p>&rArr;&nbsp;14th consecutive even integer = x + 26</p>\n\n<p>First even integer&nbsp;∶&nbsp;14th consecutive even integer = 4&nbsp;∶ 5</p>\n\n<p>&rArr; x/(x + 26) = 4/5</p>\n\n<p>&rArr; 5x = 4&nbsp;&times; (x + 26)</p>\n\n<p>&rArr; 5x - 4x = 104</p>\n\n<p>&rArr; x = 104</p>\n\n<p>&rArr; 14th consecutive even integer = x + 26 = 104 + 26 = 130</p>\n\n<p>&rArr; Sum of first and 14 th consecutive even integers = 104 + 130 = 234</p>\n\n<p><strong>&there4; Sum of&nbsp;first and 14 th consecutive even integers is 234.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "9d4048271a97-q9",
+      "number": 9,
+      "question": "If \\(\\sqrt[3]{\\text{N}}\\) lies between 6 and 7, where N is an integer then how many values N can take ?",
+      "questionHtml": "If&nbsp;<span class=\"math-tex\">\\(\\sqrt[3]{\\text{N}}\\)</span> lies between 6 and 7, where N is an integer then how many values N can take ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "126",
+          "html": "126"
+        },
+        {
+          "id": "B",
+          "text": "127",
+          "html": "127"
+        },
+        {
+          "id": "C",
+          "text": "128",
+          "html": "128"
+        },
+        {
+          "id": "D",
+          "text": "125",
+          "html": "125"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Convert the range of cube roots to the range of the integer N by cubing the limits.</p>\n<p>Lower limit for N = 6<sup>3</sup> = 216</p>\n<p>Upper limit for N = 7<sup>3</sup> = 343</p>\n<p>Number of integer values between 216 and 343 = (343 − 216 − 1) = 126</p>\n<p><strong>∴ The correct answer is 126 values.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> <sup>3</sup>√N lies between 6 and 7, where N is an integer.</p>\n<p><strong>Formula Used:</strong> Count of integers strictly between two numbers x and y = (y − x − 1).</p>\n<img src=\"https://cdn.testbook.com/temp_f491701ed67c43c8a6cbd8db92a7fe35.png/1780118224.png\" style=\"max-width: 450px;\" />\n<p>⇒ 6 < <sup>3</sup>√N < 7</p>\n<p>⇒ Cubing all terms: 6<sup>3</sup> < (N<sup>1/3</sup>)<sup>3</sup> < 7<sup>3</sup></p>\n<p>⇒ 216 < N < 343</p>\n<p>⇒ Since N is an integer, N can take any value in the set {217, 218, 219, ..., 342}.</p>\n<p>⇒ Total values of N = 342 − 217 + 1</p>\n<p>⇒ Total values = 125 + 1 = 126</p>\n<p><strong>∴ The correct answer is 126 values.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Number of Integers in a Range</p>\n<p style='margin:0 0 8px 0;color:#444444;'>For any two integers a and b (where a < b), the count of integers between them is (b − a − 1) if both are excluded, and (b − a + 1) if both are included.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Properties of Powers and Roots</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If x > 0 and y > 0, then x < y ⇒ x<sup>n</sup> < y<sup>n</sup> for any positive power n. This allows us to cube inequalities to find the range of N.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Perfect Cubes Table</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Common cubes for exams: 5<sup>3</sup>=125, 6<sup>3</sup>=216, 7<sup>3</sup>=343, 8<sup>3</sup>=512, 9<sup>3</sup>=729, 10<sup>3</sup>=1000.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_f491701ed67c43c8a6cbd8db92a7fe35.png/1780118224.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "9d4048271a97-q10",
+      "number": 10,
+      "question": "An integer is 96 more than its one-fifth part. The integer is -",
+      "questionHtml": "An integer is 96 more than its one-fifth part. The integer is -",
+      "options": [
+        {
+          "id": "A",
+          "text": "125",
+          "html": "<span style=\"\">125</span>"
+        },
+        {
+          "id": "B",
+          "text": "120",
+          "html": "<span style=\"\">120</span>"
+        },
+        {
+          "id": "C",
+          "text": "124",
+          "html": "<span style=\"\">124</span>"
+        },
+        {
+          "id": "D",
+          "text": "128",
+          "html": "<span style=\"\">128</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"\">let x be the integer,</p>\n\n<p style=\"\">x = 96 + x/5 , <span style=\"\">4x/5 = 96 ⇒ x = 120</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

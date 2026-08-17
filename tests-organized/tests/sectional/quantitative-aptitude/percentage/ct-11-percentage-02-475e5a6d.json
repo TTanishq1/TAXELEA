@@ -1,0 +1,361 @@
+{
+  "id": "475e5a6db992",
+  "provider": "Testbook",
+  "sourceFile": "CT 11_ Percentage - 02.html",
+  "sourcePath": "Testbook/files/CT 11_ Percentage - 02.html",
+  "title": "CT 11: Percentage - 02",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 9,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "475e5a6db992-q1",
+      "number": 1,
+      "question": "There were two candidates in an election, 10% of voters did not vote and 48 votes were found invalid. The winning candidate got 53% of all the voters in the list and won by 304 votes. Find the total number of votes enrolled.",
+      "questionHtml": "There were two candidates in an election, 10% of voters did not vote and 48 votes were found invalid. The winning candidate got 53% of all the voters in the list&nbsp; and won by 304 votes. Find the total number of votes enrolled.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1600",
+          "html": "1600"
+        },
+        {
+          "id": "B",
+          "text": "1230",
+          "html": "1230"
+        },
+        {
+          "id": "C",
+          "text": "4561",
+          "html": "4561"
+        },
+        {
+          "id": "D",
+          "text": "1653",
+          "html": "1653"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>There were two candidates in an election, 10% of voters did not vote and 48 votes were found invalid. The winning candidate got 53% of the total votes and won by 304 votes.</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>Percentage</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let the total number of voters be 100x</p>\n\n<p>10% of voters did not vote&nbsp;</p>\n\n<p>Number of voters who vote = 100x - 10x = 90x</p>\n\n<p>48 votes were found invalid</p>\n\n<p>Valid votes = 90x - 48</p>\n\n<p>Votes gained by the winning candidate =&nbsp;<span class=\"math-tex\">\\(\\frac{{53}}{{100}} \\times 100x = 53x\\)</span></p>\n\n<p>Votes gained by the loosing candidate = 90x - 48 - 53x</p>\n\n<p>&rArr; 37x - 48</p>\n\n<p>As per the question,</p>\n\n<p>&rArr; 53x - (37x - 48) = 304</p>\n\n<p>&rArr; 16x = 304 - 48</p>\n\n<p>&rArr; 16x = 256</p>\n\n<p>&rArr; x = 16</p>\n\n<p><strong>&there4; Total number of voters = 100x = 1600</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span>&nbsp;</span></p>\n\n<p>Let total number of votes be 100 units,</p>\n\n<p style=\"\">10% voters did not cast their vote</p>\n\n<p style=\"\">&rArr; Votes polled = 90 units</p>\n\n<p style=\"\">The winning candidate got 53% of <span style=\"\">all the voters in the list</span> and won by 304 votes,</p>\n\n<p style=\"\">&rArr; Winning candidate got = 53 units votes</p>\n\n<p style=\"\">&rArr; Other candidate got = 37 units votes</p>\n\n<p style=\"\">&rArr; Difference in votes = 53 units votes - 37 units votes = 304 - 48 = 256 votes</p>\n\n<p style=\"\">&rArr; 16 units = 256</p>\n\n<p><span style=\"\">&there4; 100 units votes = 256/16 &times; 100 = 1600 votes</span></p>\n\n<p><span style=\"font-weight: 700;\">&there4; Total number of voters = 1600.</span></p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "475e5a6db992-q2",
+      "number": 2,
+      "question": "Out of his total salary, Varsha spends 35% in shopping and from the remaining she spends 40% on food and cloths and remaining she saves. If her savings is Rs. 11700, then find her expenditure on shopping.",
+      "questionHtml": "<span lang=\"EN-IN\" style=\"  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Out of his total salary, Varsha spends 35% in shopping and from the remaining she spends 40% on food and cloths and remaining she saves. If her savings is Rs. 11700, then find her expenditure on shopping.</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 11500",
+          "html": "Rs. 11500"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 12500",
+          "html": "Rs. 12500"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 10500",
+          "html": "Rs. 10500"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 9500",
+          "html": "Rs. 9500"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p align=\"left\" style=\"\"><strong style=\"\">GIVEN:</strong></p>\n\n<p align=\"left\" style=\"\">Varsha spends 35% in shopping.</p>\n\n<p align=\"left\" style=\"\">From the remaining she spends 40% on food and cloths.</p>\n\n<p align=\"left\" style=\"\">Her savings = Rs. 11700</p>\n\n<p align=\"left\" style=\"\"><strong style=\"\">CALCULATION:</strong></p>\n\n<p align=\"left\" style=\"\">Let salary of Varsha = 100x</p>\n\n<p align=\"left\" style=\"\">Spending on shopping = 35% of 100x = 35x</p>\n\n<p align=\"left\" style=\"\">Spending on food and cloth = 40% of (100x &ndash; 35x) = 26x</p>\n\n<p align=\"left\" style=\"\">Savings = 100x &ndash; 35x &ndash; 26x = 11700</p>\n\n<p align=\"left\" style=\"\">&rArr; 39x = 11700</p>\n\n<p align=\"left\" style=\"\">&rArr; x = 300</p>\n\n<p align=\"left\" style=\"\"><strong>&there4; Amount spent on shopping = 35x = 35 &times; 300 = Rs. 10500</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "475e5a6db992-q3",
+      "number": 3,
+      "question": "In a class 40% are boys and rest are girls. If 60% of the girls and 40% boys passed in the test, what percent of total students passed?",
+      "questionHtml": "In a class 40% are boys and rest are girls. If 60% of the girls and 40% boys passed in the test, what percent of total students passed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "50%",
+          "html": "50%"
+        },
+        {
+          "id": "B",
+          "text": "55%",
+          "html": "55%"
+        },
+        {
+          "id": "C",
+          "text": "54%",
+          "html": "54%"
+        },
+        {
+          "id": "D",
+          "text": "52%",
+          "html": "52%"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Number of boys = 40% of 100 ⇒ (40/100) × 100 = 40</p>\n\n<p>Number of girls = 100 - 40 = 60</p>\n\n<p>The number of boys passed the test = 40% × 40 ⇒ (40/100) × 40 = 16</p>\n\n<p>The number of girls passed the test = 60% × 60 ⇒ (60/100) × 60 = 36</p>\n\n<p>Total students passed the test = 16 + 36 = 52</p>\n\n<p>Required percentage = (52/100) × 100 = 52%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "475e5a6db992-q4",
+      "number": 4,
+      "question": "The ratio of salary of a worker in July to that in June was \\(2\\frac{1}{2}\\) : \\(2\\frac{1}{4}\\) , by what % the salary of July more than salary of June . Also find by what %, salary of June was less than that of July.",
+      "questionHtml": "The ratio of salary of a worker in July to that in June was <span class=\"math-tex\">\\(2\\frac{1}{2}\\)</span>&nbsp;: <span class=\"math-tex\">\\(2\\frac{1}{4}\\)</span>&nbsp;, by what % the salary of July more than salary of June . Also find by what %, salary of June was less than that of July.&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(11\\frac{1}{9}\\%\\) and 10%",
+          "html": "<span class=\"math-tex\">\\(11\\frac{1}{9}\\%\\)</span>&nbsp;and&nbsp;10%"
+        },
+        {
+          "id": "B",
+          "text": "10% and \\(11\\frac{1}{9}\\%\\)",
+          "html": "10% and&nbsp;<em><span class=\"math-tex\">\\(11\\frac{1}{9}\\%\\)</span></em>"
+        },
+        {
+          "id": "C",
+          "text": "Both 10%",
+          "html": "Both 10%&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "Both \\(11\\frac{1}{9}\\%\\)",
+          "html": "Both &nbsp;<span class=\"math-tex\">\\(11\\frac{1}{9}\\%\\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>ratio of salary in july and june&nbsp;<span class=\"math-tex\">\\(= \\;2\\frac{1}{2}:\\;2\\frac{1}{4}\\)</span></p>\n\n<p>&rArr;5/2 : 9/4</p>\n\n<p>&rArr;10/4 : 9/4</p>\n\n<p>&rArr;10 : 9</p>\n\n<p>Let salary of june be 9m.</p>\n\n<p>Then percentage increase from june to july = (10m &ndash; 9m) &times; 100/9m</p>\n\n<p>= 100m/9m</p>\n\n<p>= 100/9 %</p>\n\n<p>=&nbsp;<span class=\"math-tex\">\\(11\\frac{1}{9}\\%\\)</span></p>\n\n<p>Also,</p>\n\n<p>Percentage of salary of June was less than the of July = (10m &ndash; 9m) &times; 100/10m</p>\n\n<p>= 100m/10m</p>\n\n<p>= 100/10</p>\n= 10 %",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "475e5a6db992-q5",
+      "number": 5,
+      "question": "Some students attended the paper of Hindi or English or both of them in the exam. If 70% of students attended the paper of Hindi, 50% gave paper of English then how many of them attend both papers?",
+      "questionHtml": "Some students attended the paper of Hindi or English or both of them in the exam. If 70% of students attended the paper of Hindi, 50% gave paper of English then how many of them attend both papers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "B",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "C",
+          "text": "10",
+          "html": "10"
+        },
+        {
+          "id": "D",
+          "text": "16",
+          "html": "16"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"\"><strong style=\"\">Given</strong>:</p>\n\n<p style=\"\">1) 70% of students attend paper of Hindi = 30% attend only English</p>\n\n<p style=\"\">2) 50% gave paper of English = 50% attend only Hindi</p>\n\n<p style=\"\"><strong style=\"\">Calculations:</strong></p>\n\n<p style=\"\">&rArr;&nbsp;Students who attend only one paper = 30% + 50% = 80%</p>\n<strong style=\"\">&there4; Students who attend both papers = 100% - 80% = 20%</strong>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "475e5a6db992-q6",
+      "number": 6,
+      "question": "When the price of sugar decreases by 10%, a man could buy 1 kg more for Rs. 270. Then, the original price of sugar per kg is",
+      "questionHtml": "When the price of sugar decreases by 10%, a man could buy 1 kg more for Rs. 270. Then, the original price of sugar per kg is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 25",
+          "html": "Rs. 25"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 30",
+          "html": "Rs. 30"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 27",
+          "html": "Rs. 27"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 32",
+          "html": "Rs. 32"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let the original price of the sugar per kg be Rs. X. Let the quantity of sugar purchased initially be Y units in Rs. 270.</p>\n\n<p>Thus, X &times; Y = 270 &hellip;.(1)</p>\n\n<p>Given: Price of sugar decreased by 10%.</p>\n\n<p>&there4;New price of sugar per Kg&nbsp;<span class=\"math-tex\">\\( = \\;X - \\frac{{10}}{{100}}X\\)</span></p>\n\n<p>= 0.9X</p>\n\n<p>Since the man could buy 1 more kg on his reduction of price, hence</p>\n\n<p>&rArr; Quantity of sugar purchased = Y + 1</p>\n\n<p>As the total expenditure remains the same i.e. Rs. 270, therefore</p>\n\n<p>&rArr; 0.9X &times; (Y + 1) = 270 &hellip;(2)</p>\n\n<p>Dividing equation (1) by (2), we get</p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow \\frac{Y}{{0.9 \\times \\left( {Y + 1} \\right)}} = 1\\)</span></p>\n\n<p>&rArr; Y = 0.9Y + 0.9</p>\n\n<p>&rArr; Y = 9 units</p>\n\n<p>&there4; From equation (1) we get, X = Rs. 30</p>\n\n<p><img height=\"46px\" src=\"https://storage.googleapis.com/tb-img/production/22/02/56d97fd8995a2d2126574f10_16448387618711.png\" width=\"240px\" />&nbsp;</p>\n\n<p style=\"\">&nbsp;</p>\n\n<p style=\"\">10% = 1</p>\n\n<p style=\"\">100% = 10 kg final</p>\n\n<p style=\"\">but he buy = 10 - 1 = 9kg original</p>\n\n<p style=\"\">9 kg = Rs.270&nbsp;</p>\n\n<p style=\"\"><strong>1 kg = Rs.30&nbsp;</strong></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/22/02/56d97fd8995a2d2126574f10_16448387618711.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "475e5a6db992-q7",
+      "number": 7,
+      "question": "Suresh gives 25 percent of an amount to his wife, 45 percent to his daughter, and 20 percent of the remaining part to his son. If Suresh is left with Rs. 4800, then how much did Suresh have in the beginning?",
+      "questionHtml": "Suresh gives 25 percent of an amount to his wife, 45 percent to his daughter, and 20 percent of the remaining part to his son. If Suresh is left with Rs. 4800, then how much did Suresh have in the beginning?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 40000",
+          "html": "Rs. 40000"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 25000",
+          "html": "Rs. 25000"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 10000",
+          "html": "Rs. 10000"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 20000",
+          "html": "Rs. 20000"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Suresh gives 25 percent of an amount to his wife</p>\n\n<p>Suresh gives 45 percent to his daughter and</p>\n\n<p>Suresh gives 20 percent of the remaining part to his son</p>\n\n<p>Amount left at the end&nbsp;is Rs. 4800</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let the total initial amount with Suresh be 100.</p>\n\n<p>According to the question,</p>\n\n<p>Suresh gives 25 percent of an amount to his wife</p>\n\n<p>&rArr;&nbsp;The amount left now = 100 - 25 = 75.</p>\n\n<p>Then, Suresh gives&nbsp;45 percent to his daughter</p>\n\n<p>&rArr;&nbsp;The amount left now = 75&nbsp;- 45&nbsp;= 30</p>\n\n<p>Then Suresh gives&nbsp;20 percent of the remaining part to his son,</p>\n\n<p>&rArr;&nbsp;20%&nbsp;&times; 30 = 6</p>\n\n<p>&rArr;&nbsp;The amount left now = 30&nbsp;- 6&nbsp;= 24</p>\n\n<p>Now 24&nbsp;<span style=\"color: rgb(32, 33, 36);\">&equiv;&nbsp;</span>Rs. 4800 (&nbsp;<span style=\"color: rgb(32, 33, 36);\">&equiv; is a&nbsp;equivalent symbol)</span></p>\n\n<p>&rArr;&nbsp;So 100&nbsp;<span style=\"color: rgb(32, 33, 36);\">&equiv; (</span>4800/24) &times; 100&nbsp;</p>\n\n<p>&rArr; 100&nbsp;<span style=\"color: rgb(32, 33, 36);\">&equiv; 20000</span></p>\n\n<p><strong>&there4;&nbsp;Suresh had Rs. 20000&nbsp;in the beginning.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "475e5a6db992-q8",
+      "number": 8,
+      "question": "A man spends 75% of his income. If his income increases by 20% and his expenditure also increase by 10%. The percentage of increase in his savings is",
+      "questionHtml": "<p>A man spends 75% of his income. If his income increases by 20% and his expenditure also increase by 10%. The percentage of increase in his savings is&nbsp;</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "60%",
+          "html": "60%"
+        },
+        {
+          "id": "B",
+          "text": "50%",
+          "html": "50%"
+        },
+        {
+          "id": "C",
+          "text": "40%",
+          "html": "40%"
+        },
+        {
+          "id": "D",
+          "text": "20%",
+          "html": "20%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given Data:</strong></p>\n\n<p>Spends 75% of his income</p>\n\n<p>Income increases by 20%</p>\n\n<p>Expenditure increases by 10%</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let the income be Rs 100</p>\n\n<p>Expenditure = 75% of 100 = 75</p>\n\n<p>Savings will be = 100 &ndash; 75 = 25</p>\n\n<p>Income after the increase by 20% = 120</p>\n\n<p>Expenditure after the increase by 10% = 110% of 75 = 82.5</p>\n\n<p>New savings = New income &ndash; New expenditure = 120 &ndash; 82.5 = 37.5</p>\n\n<p>Increase in saving = 37.5 &ndash; 25 = 12.5</p>\n\n<p>Percent increase in savings = (12.5/25)&times;100</p>\n\n<p><strong>&there4; Percent increase in savings is 50%</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "475e5a6db992-q9",
+      "number": 9,
+      "question": "In an examination A got 38% marks and failed by 42 marks. While B got 25% more marks than A and passed by 15 marks. What is the passing percentage for the examination ?",
+      "questionHtml": "&nbsp;In an examination A got 38% marks and failed by 42 marks. While B got 25% more marks than A and passed by 15 marks. What is the passing percentage for the examination ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "45%",
+          "html": "45%"
+        },
+        {
+          "id": "B",
+          "text": "43%",
+          "html": "43%"
+        },
+        {
+          "id": "C",
+          "text": "48%",
+          "html": "48%"
+        },
+        {
+          "id": "D",
+          "text": "51%",
+          "html": "51%"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>In an examination A got 38% marks and failed by 42 marks. While B got 25% more marks than A and passed by 15 marks.&nbsp;</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>Percentage</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let the maximum marks for the examination be a.</p>\n\n<p>Marks scored by A</p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{{38}}{{100}} × a = \\frac{{19a}}{{50}}\\)</span></p>\n\n<p>Marks scored by B</p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{{19a}}{{50}} × \\frac{{125}}{{100}} = \\frac{{95a}}{{200}}\\)</span></p>\n\n<p>As per the question,&nbsp;</p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{{19a}}{{50}} + 42 = \\frac{{95a}}{{200}} - 15\\)</span>&nbsp;{Keeping the passing marks same.}</p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{{95a}}{{200}} - \\frac{{19a}}{{50}} = 57\\)</span></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{{19a}}{{200}} = 57\\)</span></p>\n\n<p>&rArr; a = 3&nbsp;&times; 200 = 600</p>\n\n<p>Passing marks =&nbsp;<span class=\"math-tex\">\\(\\left( {600 \\times \\frac{{19}}{{50}}} \\right) + 42\\)</span>&nbsp;= 270</p>\n\n<p>&there4; Required passing percentage =&nbsp;<span class=\"math-tex\">\\(\\frac{{270}}{{600}} \\times 100 = 45\\% \\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "475e5a6db992-q10",
+      "number": 10,
+      "question": "In an examination, C got 25% less marks than B and A got 20% more marks than C. Find the marks which B got if difference between A&rsquo;s marks and B&rsquo;s marks is 36.",
+      "questionHtml": "In an examination, C got 25% less marks than B and A got 20% more marks than C. Find the marks which B got if difference between A&rsquo;s marks and B&rsquo;s marks is 36.",
+      "options": [
+        {
+          "id": "A",
+          "text": "380",
+          "html": "380"
+        },
+        {
+          "id": "B",
+          "text": "540",
+          "html": "540"
+        },
+        {
+          "id": "C",
+          "text": "360",
+          "html": "360"
+        },
+        {
+          "id": "D",
+          "text": "400",
+          "html": "400"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"\"><strong style=\"\">Given:</strong></p>\n\n<p style=\"\">C got 25% less marks than&nbsp;B</p>\n\n<p style=\"\">A got 20% more marks than C</p>\n\n<p style=\"\">Difference between B&rsquo;s marks and A&rsquo;s marks = 36</p>\n\n<p style=\"\"><strong style=\"\">Calculation:</strong></p>\n\n<p style=\"\">Let marks obtained by B be x</p>\n\n<p style=\"\">Then, marks obtained by C = x &times; (100 &ndash; 25)/100</p>\n\n<p style=\"\">&rArr; 0.75x</p>\n\n<p style=\"\">And, marks obtained by A = 0.75x &times; (100 + 20)/100</p>\n\n<p style=\"\">&rArr; 0.9x</p>\n\n<p style=\"\">Now, A/c to question</p>\n\n<p style=\"\">&rArr; x &ndash; 0.9x = 36</p>\n\n<p style=\"\">&rArr; 0.1x = 36</p>\n\n<p style=\"\">&rArr; x = 360</p>\n\n<p style=\"\"><strong style=\"\">&there4; </strong><strong style=\"\">B got 360 marks</strong></p>\n\n<p style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<p style=\"\">Let B got 100% marks</p>\n\n<p style=\"\">&rArr; C got = 75% marks</p>\n\n<p style=\"\">&rArr; A got = 90% marks (120/100&nbsp;&times; 75 = 90%)</p>\n\n<p style=\"\">Now, 100% &ndash; 90% = 36</p>\n\n<p style=\"\">&rArr; 10% = 36</p>\n\n<p style=\"\">&rArr; 100% = 360</p>\n\n<p style=\"\"><strong style=\"\">&there4; </strong><strong style=\"\">B got 360 marks</strong></p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

@@ -1,0 +1,865 @@
+{
+  "id": "e5eaac5e8390",
+  "provider": "RBE_Mocks",
+  "sourceFile": "Maths_Sectional_Mock_Test-16_Hard_.html",
+  "sourcePath": "RBE_MOCKS/Maths_Sectional_Mock_Test-16_Hard_.html",
+  "title": "Maths Sectional Mock Test-16 (Hard)",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 4,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "e5eaac5e8390-q1",
+      "number": 1,
+      "question": "If a side of a square is increased by 20%, then its area will increase by:",
+      "questionHtml": "<p>If a side of a square is increased by 20%, then its area will increase by:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20%",
+          "html": "<p>20%</p>"
+        },
+        {
+          "id": "B",
+          "text": "36%",
+          "html": "<p>36%</p>"
+        },
+        {
+          "id": "C",
+          "text": "40%",
+          "html": "<p>40%</p>"
+        },
+        {
+          "id": "D",
+          "text": "44%",
+          "html": "<p>44%</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Side = a<br/>New side = 1.2a<br/>Old area = a²<br/>New area = (1.2a)² = 1.44a²<br/>Increase = 1.44a² − a² = 0.44a² </p><p>Percentage increase = (0.44a² / a²) × 100 = 44%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q2",
+      "number": 2,
+      "question": "Suppose M denotes the mean proportional between 16 and 25 and N denotes the third proportional between 9 and 15. Find the value of 4M + 3N.",
+      "questionHtml": "<p>Suppose M denotes the mean proportional between 16 and 25 and N denotes the third proportional between 9 and 15. Find the value of 4M + 3N.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "125",
+          "html": "<p>125</p>"
+        },
+        {
+          "id": "B",
+          "text": "150",
+          "html": "<p>150</p>"
+        },
+        {
+          "id": "C",
+          "text": "155",
+          "html": "<p>155</p>"
+        },
+        {
+          "id": "D",
+          "text": "164",
+          "html": "<p>164</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Mean proportional between 16 and 25 = √(16 × 25) = √400 = 20<br/>So, M = 20</p><p>Third proportional between 9 and 15 →<br/>If a : b :: b : c, then c = b² / a<br/>So, N = (15²) / 9 = 225 / 9 = 25</p><p>Now, 4M + 3N = (4 × 20) + (3 × 25) = 80 + 75 = 155</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q3",
+      "number": 3,
+      "question": "If x − y + z : y − z + 2w : 2x + z − w = 2 : 3 : 5, find 3x + 3z − 2w : w.",
+      "questionHtml": "<p>If x − y + z : y − z + 2w : 2x + z − w = 2 : 3 : 5, find 3x + 3z − 2w : w.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "7 : 1",
+          "html": "<p>7 : 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "1 : 7",
+          "html": "<p>1 : 7</p>"
+        },
+        {
+          "id": "C",
+          "text": "4 : 3",
+          "html": "<p>4 : 3</p>"
+        },
+        {
+          "id": "D",
+          "text": "2 : 9",
+          "html": "<p>2 : 9</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Given:<br/>x − y + z : y − z + 2w : 2x + z − w = 2 : 3 : 5</p><p>Now,<br/>(2 + 3 = 5) means — the third term (2x + z − w) is the sum of the first two (x − y + z) + (y − z + 2w).</p><p>So,<br/>x − y + z + y − z + 2w = 2x + z − w<br/>⇒ x + z + 2w = 2x + z − w<br/>⇒ x + z = 3w</p><p>Now we need 3x + 3z − 2w : w<br/>Substitute x + z = 3w ⇒</p><p>3x + 3z − 2w = 3(x + z) − 2w = 3(3w) − 2w = 9w − 2w = 7w</p><p>So, ratio = 7 : 1 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q4",
+      "number": 4,
+      "question": "Two vessels contain milk and water in the ratio 2 : 5 and 5 : 9 respectively. If both vessels are mixed in the ratio 1 : 2, find the ratio of water and milk in the new mixture.",
+      "questionHtml": "<p>Two vessels contain milk and water in the ratio 2 : 5 and 5 : 9 respectively. If both vessels are mixed in the ratio 1 : 2, find the ratio of water and milk in the new mixture.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 2",
+          "html": "<p>1 : 2</p>"
+        },
+        {
+          "id": "B",
+          "text": "2 : 1",
+          "html": "<p>2 : 1</p>"
+        },
+        {
+          "id": "C",
+          "text": "2 : 7",
+          "html": "<p>2 : 7</p>"
+        },
+        {
+          "id": "D",
+          "text": "3 : 2",
+          "html": "<p>3 : 2</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>M:W<br/>2 : 5 =&gt; 7 -&gt; A <br/>5 : 9 =&gt; 14 -&gt; B<br/>A:B = 1:2 as required<br/>M:W<br/>7 : 14 = 1 : 2 <br/>W:M = 2:1</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q5",
+      "number": 5,
+      "question": "A can do 1/4th of the work in 8 days. B can do 2/3rd of the same work in 24 days. In how many days will A and B complete the same work while working together?",
+      "questionHtml": "<p>A can do 1/4th of the work in 8 days. B can do 2/3rd of the same work in 24 days. In how many days will A and B complete the same work while working together?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "288/17",
+          "html": "<p>288/17</p>"
+        },
+        {
+          "id": "B",
+          "text": "28/17",
+          "html": "<p>28/17</p>"
+        },
+        {
+          "id": "C",
+          "text": "178/11",
+          "html": "<p>178/11</p>"
+        },
+        {
+          "id": "D",
+          "text": "288/13",
+          "html": "<p>288/13</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1761480800145_image001.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q6",
+      "number": 6,
+      "question": "Find the number which, when successively divided by 3, 5, and 7, leaves remainders 2, 1, and 3 respectively, and the last quotient is 3.",
+      "questionHtml": "<p>Find the number which, when successively divided by 3, 5, and 7, leaves remainders 2, 1, and 3 respectively, and the last quotient is 3.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "360",
+          "html": "<p>360</p>"
+        },
+        {
+          "id": "B",
+          "text": "361",
+          "html": "<p>361</p>"
+        },
+        {
+          "id": "C",
+          "text": "365",
+          "html": "<p>365</p>"
+        },
+        {
+          "id": "D",
+          "text": "366",
+          "html": "<p>366</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let the required number be N.</p><p>We start backwards (successive division means reverse working):</p><p>When divided by 7,<br/>→ Remainder = 3<br/>→ Quotient = 3</p><p>So,<br/>Dividend = 7 × 3 + 3 = 24</p><p>Now, this 24 was the quotient when N was divided by 5,<br/>→ Remainder = 1</p><p>So,<br/>Dividend = 5 × 24 + 1 = 121</p><p>Now, this 121 was the quotient when N was divided by 3,<br/>→ Remainder = 2</p><p>So,<br/>Dividend = 3 × 121 + 2 = 365</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q7",
+      "number": 7,
+      "question": "A train without stoppage travels with an average speed of 70 km/h, and with stoppage, it travels with an average speed of 56 km/h. How many minutes does the train stop on an average per hour?",
+      "questionHtml": "<p>A train without stoppage travels with an average speed of 70 km/h, and with stoppage, it travels with an average speed of 56 km/h. How many minutes does the train stop on an average per hour?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "14",
+          "html": "<p>14</p>"
+        },
+        {
+          "id": "B",
+          "text": "12",
+          "html": "<p>12</p>"
+        },
+        {
+          "id": "C",
+          "text": "15",
+          "html": "<p>15</p>"
+        },
+        {
+          "id": "D",
+          "text": "16",
+          "html": "<p>16</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1761480800145_image002.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q8",
+      "number": 8,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1761480800145_image008.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1761480800145_image008.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "<p>5</p>"
+        },
+        {
+          "id": "B",
+          "text": "√13",
+          "html": "<p>√13</p>"
+        },
+        {
+          "id": "C",
+          "text": "√17",
+          "html": "<p>√17</p>"
+        },
+        {
+          "id": "D",
+          "text": "√15",
+          "html": "<p>√15</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1761480800145_image011.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q9",
+      "number": 9,
+      "question": "A sum of money doubles itself in 4 years at simple interest. In how many years will it become 7 times at the same rate of interest?",
+      "questionHtml": "<p>A sum of money doubles itself in 4 years at simple interest. In how many years will it become 7 times at the same rate of interest?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 years",
+          "html": "<p>12 years</p>"
+        },
+        {
+          "id": "B",
+          "text": "20 years",
+          "html": "<p>20 years</p>"
+        },
+        {
+          "id": "C",
+          "text": "24 years",
+          "html": "<p>24 years</p>"
+        },
+        {
+          "id": "D",
+          "text": "30 years",
+          "html": "<p>30 years</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>P + P = 2P → in 4 years<br/>P + 6P = 7P → in ? years</p><p>If P → 4 years<br/>Then 6P → 4 × 6 = 24 years</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q10",
+      "number": 10,
+      "question": "Anam and Bikash invest in a business in the ratio 3 : 2. If in a particular month, Anam gets ₹5,121 as profit, the total profit is:",
+      "questionHtml": "<p>Anam and Bikash invest in a business in the ratio 3 : 2. If in a particular month, Anam gets ₹5,121 as profit, the total profit is:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "8400",
+          "html": "<p>8400</p>"
+        },
+        {
+          "id": "B",
+          "text": "8535",
+          "html": "<p>8535</p>"
+        },
+        {
+          "id": "C",
+          "text": "8457",
+          "html": "<p>8457</p>"
+        },
+        {
+          "id": "D",
+          "text": "8740",
+          "html": "<p>8740</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Investment ratio of Anam : Bikash = 3 : 2<br/>→ Total parts = 3 + 2 = 5 parts</p><p>Anam’s share = 3 parts = ₹5,121</p><p>So, value of 1 part = 5121 ÷ 3 = ₹1,707</p><p>Total profit = 5 parts = 5 × 1,707 = ₹8,535</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q11",
+      "number": 11,
+      "question": "A woman sold her earphone for ₹3,000 and got a percentage profit equal to the numerical value of the cost price. The cost price of the earphone is:",
+      "questionHtml": "<p>A woman sold her earphone for ₹3,000 and got a percentage profit equal to the numerical value of the cost price. The cost price of the earphone is:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "400",
+          "html": "<p>400</p>"
+        },
+        {
+          "id": "B",
+          "text": "500",
+          "html": "<p>500</p>"
+        },
+        {
+          "id": "C",
+          "text": "600",
+          "html": "<p>600</p>"
+        },
+        {
+          "id": "D",
+          "text": "800",
+          "html": "<p>800</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>(a) ₹400<br/>Profit = (400 × 400) / 100 = ₹1,600<br/>SP = 400 + 1,600 = ₹2,000 ❌</p><p>(b) ₹500<br/>Profit = (500 × 500) / 100 = ₹2,500<br/>SP = 500 + 2,500 = ₹3,000 ✅</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q12",
+      "number": 12,
+      "question": "Which scheme among the following is most beneficial to the customer? (i) Successive discounts of 25% and 25% (ii) Flat discount of 40% (iii) Buy one, get one free (iv) Successive discounts of 30% and 20%",
+      "questionHtml": "<p>Which scheme among the following is most beneficial to the customer?</p><p>(i) Successive discounts of 25% and 25%<br/>(ii) Flat discount of 40%<br/>(iii) Buy one, get one free<br/>(iv) Successive discounts of 30% and 20%</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "i",
+          "html": "<p>i</p>"
+        },
+        {
+          "id": "B",
+          "text": "ii",
+          "html": "<p>ii</p>"
+        },
+        {
+          "id": "C",
+          "text": "iii",
+          "html": "<p>iii</p>"
+        },
+        {
+          "id": "D",
+          "text": "iv",
+          "html": "<p>iv</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Explanation:</p><p>Let the marked price = ₹100</p><p>(i) 25% and 25% successive discount<br/>= 100 × 0.75 × 0.75 = ₹56.25<br/>Discount = 43.75%</p><p>(ii) Flat 40% discount<br/>= ₹60<br/>Discount = 40%</p><p>(iii) Buy 1 Get 1 Free<br/>Pay ₹100 for 2 items → ₹50 each<br/>Discount = 50%</p><p>(iv) 30% and 20% successive discount<br/>= 100 × 0.7 × 0.8 = ₹56<br/>Discount = 44%</p><p>👉 The highest discount = Highest discount = 50% (Buy 1 Get 1 Free)</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q13",
+      "number": 13,
+      "question": "The average of odd numbers up to 100 is:",
+      "questionHtml": "<p>The average of odd numbers up to 100 is:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "50.5",
+          "html": "<p>50.5</p>"
+        },
+        {
+          "id": "B",
+          "text": "50",
+          "html": "<p>50</p>"
+        },
+        {
+          "id": "C",
+          "text": "49.5",
+          "html": "<p>49.5</p>"
+        },
+        {
+          "id": "D",
+          "text": "51",
+          "html": "<p>51</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1761480800145_image014.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q14",
+      "number": 14,
+      "question": "A circle is inscribed in a triangle ABC in which the points R, P, and Q touch the sides AB, BC, and AC respectively. If AQ = 5.5 cm, PC = 6.5 cm, and BR = 9 cm, find the perimeter of ΔABC (in cm).",
+      "questionHtml": "<p>A circle is inscribed in a triangle ABC in which the points R, P, and Q touch the sides AB, BC, and AC respectively. If AQ = 5.5 cm, PC = 6.5 cm, and BR = 9 cm, find the perimeter of ΔABC (in cm).</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "21",
+          "html": "<p>21</p>"
+        },
+        {
+          "id": "B",
+          "text": "42",
+          "html": "<p>42</p>"
+        },
+        {
+          "id": "C",
+          "text": "48",
+          "html": "<p>48</p>"
+        },
+        {
+          "id": "D",
+          "text": "47.5",
+          "html": "<p>47.5</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>P = 2 × (5.5 + 6.5 + 9)<br/>P = 2 × 21 = 42 cm </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q15",
+      "number": 15,
+      "question": "How many two-digit prime numbers are there between 10 and 100 which remain prime numbers even when the order of their digits is reversed?",
+      "questionHtml": "<p>How many two-digit prime numbers are there between 10 and 100 which remain prime numbers even when the order of their digits is reversed?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "html": "<p>8</p>"
+        },
+        {
+          "id": "B",
+          "text": "7",
+          "html": "<p>7</p>"
+        },
+        {
+          "id": "C",
+          "text": "9",
+          "html": "<p>9</p>"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "<p>6</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let’s list all two-digit primes first:<br/>11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97</p><p>The numbers are:<br/>11, 13, 17, 37, 79, 31, 71, 73, 97</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q16",
+      "number": 16,
+      "question": "A shopkeeper has 3 different qualities of oil — 725 litres of 1st quality, 783 litres of 2nd quality, and 812 litres of 3rd quality. Find the least possible number of bottles of equal size in which different oils of different qualities can be filled without mixing.",
+      "questionHtml": "<p>A shopkeeper has 3 different qualities of oil — 725 litres of 1st quality, 783 litres of 2nd quality, and 812 litres of 3rd quality. Find the least possible number of bottles of equal size in which different oils of different qualities can be filled without mixing.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "29",
+          "html": "<p>29</p>"
+        },
+        {
+          "id": "B",
+          "text": "81",
+          "html": "<p>81</p>"
+        },
+        {
+          "id": "C",
+          "text": "80",
+          "html": "<p>80</p>"
+        },
+        {
+          "id": "D",
+          "text": "52",
+          "html": "<p>52</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>To find the least number of bottles,<br/>we need to find the HCF (Highest Common Factor) of 725, 783, and 812.<br/>This gives the maximum size of each bottle.</p><p>HCF(725, 783, 812) = 29</p><p>Now,<br/>Number of bottles = (725 ÷ 29) + (783 ÷ 29) + (812 ÷ 29)<br/>= 25 + 27 + 28<br/>= 80</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q17",
+      "number": 17,
+      "question": "A metal cube of edge 18 cm is melted to form three smaller cubes of unequal edges. If the edges of two smaller cubes are 9 cm and 15 cm, what is the surface area (in cm²) of the third smaller cube?",
+      "questionHtml": "<p>A metal cube of edge 18 cm is melted to form three smaller cubes of unequal edges. If the edges of two smaller cubes are 9 cm and 15 cm, what is the surface area (in cm²) of the third smaller cube?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1728",
+          "html": "<p>1728</p>"
+        },
+        {
+          "id": "B",
+          "text": "864",
+          "html": "<p>864</p>"
+        },
+        {
+          "id": "C",
+          "text": "1543",
+          "html": "<p>1543</p>"
+        },
+        {
+          "id": "D",
+          "text": "2197",
+          "html": "<p>2197</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1761480800145_image016.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q18",
+      "number": 18,
+      "question": "Which of the following statement(s) is/are TRUE? I. 33³ > 3³³ II. 333 > (3³)³",
+      "questionHtml": "<p>Which of the following statement(s) is/are TRUE?</p><p>I. 33³ &gt; 3³³<br/> II. 333 &gt; (3³)³</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only I",
+          "html": "<p>Only I</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only II",
+          "html": "<p>Only II</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both I and II",
+          "html": "<p>Both I and II</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither I nor II",
+          "html": "<p>Neither I nor II</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1761480800145_image018.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q19",
+      "number": 19,
+      "question": "If (a² − b²) sin x + 2ab cos x = a² + b², then find tanx?",
+      "questionHtml": "<p>If (a² − b²) sin x + 2ab cos x = a² + b², then find tanx?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(a² − b²) / 2ab",
+          "html": "<p>(a² − b²) / 2ab</p>"
+        },
+        {
+          "id": "B",
+          "text": "2ab / (a² − b²)",
+          "html": "<p>2ab / (a² − b²)</p>"
+        },
+        {
+          "id": "C",
+          "text": "(a² − b²) / (a² + b²)",
+          "html": "<p>(a² − b²) / (a² + b²)</p>"
+        },
+        {
+          "id": "D",
+          "text": "(a² + b²) / (a² − b²)",
+          "html": "<p>(a² + b²) / (a² − b²)</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1761480800145_image019.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q20",
+      "number": 20,
+      "question": "Lakshmi and Faiz started a car race from the same point, in the same direction and at the same circular track of length 1725 m with speeds of 72 km/h and 90 km/h respectively. After how much time (in seconds) will they meet again for the first time?",
+      "questionHtml": "<p>Lakshmi and Faiz started a car race from the same point, in the same direction and at the same circular track of length 1725 m with speeds of 72 km/h and 90 km/h respectively. After how much time (in seconds) will they meet again for the first time?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "245",
+          "html": "<p>245</p>"
+        },
+        {
+          "id": "B",
+          "text": "345",
+          "html": "<p>345</p>"
+        },
+        {
+          "id": "C",
+          "text": "1725/162",
+          "html": "<p>1725/162</p>"
+        },
+        {
+          "id": "D",
+          "text": "372",
+          "html": "<p>372</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Relative speed = (90 − 72) km/h = 18 km/h<br/>= (18 × 1000) / 3600 = 5 m/s</p><p>Time = Distance / Relative speed<br/>= 1725 / 5 = 345 seconds</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q21",
+      "number": 21,
+      "question": "Meena, Archana and Geeta alone can complete a work in 6 hours, 9 hours and 18 hours respectively. If they work together, how much time will they take to complete half the work?",
+      "questionHtml": "<p>Meena, Archana and Geeta alone can complete a work in 6 hours, 9 hours and 18 hours respectively. If they work together, how much time will they take to complete half the work?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 hours",
+          "html": "<p>6 hours</p>"
+        },
+        {
+          "id": "B",
+          "text": "3 hours",
+          "html": "<p>3 hours</p>"
+        },
+        {
+          "id": "C",
+          "text": "2 hours",
+          "html": "<p>2 hours</p>"
+        },
+        {
+          "id": "D",
+          "text": "1.5 hours",
+          "html": "<p>1.5 hours</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Meena = 6 </p><p>Archana= 9 </p><p>Geeta = 18</p><p>So, their 1-hour works are in the ratio 3 : 2 : 1 (taking LCM = 18)</p><p>∴ T = ½ * 18 / (3 + 2 + 1)<br/> = 9 / 6<br/> = 1.5 hours</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q22",
+      "number": 22,
+      "question": "In a right-angled triangle ABC, if ∠ABC = 90°, AB = 6 cm, BC = 8 cm, and BD is perpendicular to AC, then what is the value of AD : DC?",
+      "questionHtml": "<p>In a right-angled triangle ABC, if ∠ABC = 90°, AB = 6 cm, BC = 8 cm, and BD is perpendicular to AC, then what is the value of AD : DC?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3:4",
+          "html": "<p>3:4</p>"
+        },
+        {
+          "id": "B",
+          "text": "9 : 16",
+          "html": "<p>9 : 16</p>"
+        },
+        {
+          "id": "C",
+          "text": "4:3",
+          "html": "<p>4:3</p>"
+        },
+        {
+          "id": "D",
+          "text": "16:9",
+          "html": "<p>16:9</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>In right-angled triangle ABC,<br/>AC² = AB² + BC²<br/>= 6² + 8² = 36 + 64 = 100<br/>⟹ AC = 10 cm</p><p>Now, when BD ⟂ AC,<br/>AD/DC = (AB²) / (BC²)</p><p>So,<br/>AD : DC = 6² : 8² = 36 : 64 = 9 : 16</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q23",
+      "number": 23,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1761480800145_image020.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1761480800145_image020.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "6.55%",
+          "html": "<p>6.55%</p>"
+        },
+        {
+          "id": "B",
+          "text": "5.75%",
+          "html": "<p>5.75%</p>"
+        },
+        {
+          "id": "C",
+          "text": "13.63%",
+          "html": "<p>13.63%</p>"
+        },
+        {
+          "id": "D",
+          "text": "7.5%",
+          "html": "<p>7.5%</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1761480800145_image021.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q24",
+      "number": 24,
+      "question": "What is the difference (in Rs.) between the interests on Rs. 30,000 for one year at 8% per annum compounded half-yearly and yearly?",
+      "questionHtml": "<p>What is the difference (in Rs.) between the interests on Rs. 30,000 for one year at 8% per annum compounded half-yearly and yearly?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "78",
+          "html": "<p>78</p>"
+        },
+        {
+          "id": "B",
+          "text": "82",
+          "html": "<p>82</p>"
+        },
+        {
+          "id": "C",
+          "text": "80",
+          "html": "<p>80</p>"
+        },
+        {
+          "id": "D",
+          "text": "48",
+          "html": "<p>48</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Given:<br/>P = 30,000 R = 8% T = 1 yr</p><p>Yearly CI rate: 8%<br/>Half-yearly CI rate: Half-yearly rate = 4% per half year</p><p>So, for one year:<br/>= 4% + 4% + (4×4)/100<br/>= 8% + 0.16%<br/>= 8.16%</p><p>Difference in rate = 8.16 − 8 = 0.16%</p><p>Difference = (0.16/100) × 30,000 = ₹48</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "e5eaac5e8390-q25",
+      "number": 25,
+      "question": "The average of nine consecutive positive integers is d. If the last two numbers are excluded, by how much will the average increase or decrease?",
+      "questionHtml": "<p>The average of nine consecutive positive integers is d. If the last two numbers are excluded, by how much will the average increase or decrease?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Will decrease by 1",
+          "html": "<p>Will decrease by 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "Will increase by 2",
+          "html": "<p>Will increase by 2</p>"
+        },
+        {
+          "id": "C",
+          "text": "Will decrease by 2",
+          "html": "<p>Will decrease by 2</p>"
+        },
+        {
+          "id": "D",
+          "text": "Will increase by 1",
+          "html": "<p>Will increase by 1</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Explanation:</p><p>Let the numbers be:<br/>x, x+1, x+2, … , x+10</p><p>Average = (x + x+10) / 2 = x + 5 = d</p><p>If the last two numbers (x+9, x+10) are excluded,<br/>remaining numbers = 9 numbers (x to x+8)</p><p>New average = (x + x+8) / 2 = x + 4</p><p>Decrease in average = (x + 5) − (x + 4) = 1</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

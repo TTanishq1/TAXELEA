@@ -1,0 +1,1724 @@
+{
+  "id": "f61b6c4e904c",
+  "provider": "Testbook",
+  "sourceFile": "Number System - LCM and HCF - 01.html",
+  "sourcePath": "Testbook/files/Number System - LCM and HCF - 01.html",
+  "title": "Number System - LCM and HCF - 01",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 2,
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "f61b6c4e904c-q1",
+      "number": 1,
+      "question": "If the HCF of two numbers is 8 , then which of the following can NEVER be their LCM?",
+      "questionHtml": "If the HCF of two numbers is 8 , then which of the following can NEVER be their LCM?",
+      "options": [
+        {
+          "id": "A",
+          "text": "56",
+          "html": "<span style=\"\">56</span>"
+        },
+        {
+          "id": "B",
+          "text": "48",
+          "html": "<span style=\"\">48</span>"
+        },
+        {
+          "id": "C",
+          "text": "42",
+          "html": "<span style=\"\">42</span>"
+        },
+        {
+          "id": "D",
+          "text": "40",
+          "html": "<span style=\"\">40</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>If the HCF of two numbers is 8, then two numbers must be multiple of 8 and their LCM must be divisible by 8</p>\n\n<p>From options, only 42 is not divisible by 8, so <span style=\"color: rgb(33, 37, 41);\">42 can never be their LCM</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q2",
+      "number": 2,
+      "question": "The HCF of three numbers 105, 335 and 465 will be:",
+      "questionHtml": "The HCF of three numbers 105, 335 and 465 will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "11",
+          "html": "11"
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "C",
+          "text": "7",
+          "html": "7"
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "html": "3"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Prime factors of 105 = (1 × 3 × 5 × 7),  335 = (1 × 5 × 67) and 465 = (1 × 3 × 5 × 31)</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">So, HCF(105, 335, 465) = 5</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q3",
+      "number": 3,
+      "question": "The HCF of three numbers 98, 175 and 210 will be:",
+      "questionHtml": "The HCF of three numbers 98, 175 and 210 will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "D",
+          "text": "7",
+          "html": "7"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Prime factors of 98 = (2 × 7<sup>2</sup>), <span style=\"color: rgb(33, 37, 41);\">175 = (5</span><span style=\"color: rgb(33, 37, 41); line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\"> × 7) and </span>210 = (2 × 3 × 5 × 7)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, HCF of (98, 175, 210) = 7</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q4",
+      "number": 4,
+      "question": "The HCF of two numbers is 8 and their LCM is 2520. If one of the numbers is 56, then the other number is:",
+      "questionHtml": "The HCF of two numbers is 8 and their LCM is 2520. If one of the numbers is 56, then the other number is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "650",
+          "html": "650"
+        },
+        {
+          "id": "B",
+          "text": "540",
+          "html": "540"
+        },
+        {
+          "id": "C",
+          "text": "810",
+          "html": "810"
+        },
+        {
+          "id": "D",
+          "text": "360",
+          "html": "360"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Let the other number be x, then</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">56 × x = 2520 × 8 ⇒ x = 2520/7 ⇒ x = 360</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q5",
+      "number": 5,
+      "question": "The HCF of two numbers 110 and 1980 is:",
+      "questionHtml": "The HCF of two numbers 110 and 1980 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "140",
+          "html": "140"
+        },
+        {
+          "id": "B",
+          "text": "110",
+          "html": "110"
+        },
+        {
+          "id": "C",
+          "text": "120",
+          "html": "120"
+        },
+        {
+          "id": "D",
+          "text": "180",
+          "html": "180"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"\">110 = 2 × 5 × 11 and 1980 = 2<sup>2</sup> × 3<sup>2</sup> × 5 × 11</p>\n\n<p style=\"\">So, HCF = 2 × 5 × 11 ⇒ 110</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q6",
+      "number": 6,
+      "question": "What is the smallest integer that is divisible by 3, 7 and 18?",
+      "questionHtml": "What is the smallest integer that is divisible by 3, 7 and 18?",
+      "options": [
+        {
+          "id": "A",
+          "text": "63",
+          "html": "63"
+        },
+        {
+          "id": "B",
+          "text": "252",
+          "html": "252"
+        },
+        {
+          "id": "C",
+          "text": "72",
+          "html": "72"
+        },
+        {
+          "id": "D",
+          "text": "126",
+          "html": "126"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>LCM of 3, 7, and 18 is 126.</p>\n\n<p>3 = 3 &times; 1</p>\n\n<p>7 = 7 &times; 1</p>\n\n<p>18 = 2 &times; 3 &times; 3</p>\n&there4; LCM = 2 &times; 3 &times; 3 &times; 7 = 126",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q7",
+      "number": 7,
+      "question": "Find the LCM of 25, 30, 50 and 75.",
+      "questionHtml": "Find the LCM of 25, 30, 50 and 75.",
+      "options": [
+        {
+          "id": "A",
+          "text": "15.0",
+          "html": "15.0"
+        },
+        {
+          "id": "B",
+          "text": "150",
+          "html": "150"
+        },
+        {
+          "id": "C",
+          "text": "1.50",
+          "html": "1.50"
+        },
+        {
+          "id": "D",
+          "text": "75",
+          "html": "75"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">25 = 5 × 5, ⇒ 30 = 2 × 3 × 5, ⇒ 50 = 2 × 5 × 5, ⇒ 75 = 3 × 5 × 5</p>\n\n<p data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">LCM of 25, 30, 50 and 75 = 2 × 3 × 5 × 5 = 150</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q8",
+      "number": 8,
+      "question": "Find the HCF of 69, 96 and 99.",
+      "questionHtml": "Find the HCF of 69, 96 and 99.",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "B",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "6"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>GIVEN:</strong></p>\n\n<p>The numbers 69,96 and 99&nbsp;</p>\n\n<p><strong>CONCEPT USED :</strong></p>\n\n<p>H.C.F = The largest positive integer that divides each of the integers&nbsp;</p>\n\n<p><strong>CALCULATION:</strong></p>\n\n<p>Here, we have to find the H.C.F of 69, 96 and 99&nbsp;</p>\n\n<p>Difference between the numbers = (96 - 69) ,(99 - 96)&nbsp;</p>\n\n<p>Difference = 27 , 3&nbsp; &nbsp; &nbsp;[As 27 cannot divide 69 and 99 completely]</p>\n\n<p>So, minimum difference or least difference is 3 , which divides the numbers 69, 96 and 99 completely&nbsp;</p>\n\n<p><strong>Hence, the H.C.F of the given numbers is 3 .</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q9",
+      "number": 9,
+      "question": "Find the greatest number that exactly divides 15,30 and 40.",
+      "questionHtml": "Find the greatest number that exactly divides 15,30 and 40.",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "<span style=\"\">3</span>"
+        },
+        {
+          "id": "B",
+          "text": "40",
+          "html": "<span style=\"\">40</span>"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "<span style=\"\">5</span>"
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "html": "<span style=\"\">15</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Numbers 15, 30 and 40</p>\n\n<p><strong>Concept Used:</strong></p>\n\n<p>HCF = Highest Common Factor</p>\n\n<p>HCF of two numbers is the highest possible number that divides both numbers completely</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>&rArr; 15 = 3 &times; 5</p>\n\n<p><span style=\"\">&rArr; 30 = 2&nbsp;&times; 3&nbsp;&times; 5</span></p>\n\n<p><span style=\"\">&rArr; 40 = 2&nbsp;&times; 2&nbsp;&times; 2&nbsp;&times; 5</span></p>\n\n<p><span style=\"\">&rArr; HCF of 15, 30, 40 = 5</span></p>\n\n<p><strong>Therefore,&nbsp;<span style=\"\">the greatest number that exactly divides 15, 30, and 40 is 5.</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q10",
+      "number": 10,
+      "question": "The HCF of two numbers 2040 and 391 is:",
+      "questionHtml": "The HCF of two numbers 2040 and 391 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "17",
+          "html": "17"
+        },
+        {
+          "id": "B",
+          "text": "21",
+          "html": "21"
+        },
+        {
+          "id": "C",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "D",
+          "text": "18",
+          "html": "18"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Prime factors of </span><span style=\"color: rgb(33, 37, 41);\">2040 and 391</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">2040 = 17 × 5 × 3 × 2<sup>3</sup> and 391 = 17 × 23</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">HCF of (2040,391) = 17</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q11",
+      "number": 11,
+      "question": "Two numbers are in the ratio 5 ∶ 11. If their HCF is 24, then the sum of two these numbers is∶",
+      "questionHtml": "Two numbers are in the ratio 5 ∶ 11. If their HCF is 24, then the sum of two these numbers is∶",
+      "options": [
+        {
+          "id": "A",
+          "text": "384",
+          "html": "384"
+        },
+        {
+          "id": "B",
+          "text": "408",
+          "html": "408"
+        },
+        {
+          "id": "C",
+          "text": "120",
+          "html": "120"
+        },
+        {
+          "id": "D",
+          "text": "264",
+          "html": "264"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Let the two numbers be 5a and 11a.</p>\n\n<p>&rArr; HCF = 24</p>\n\n<p>&rArr; LCM = 55a</p>\n\n<p>Then,</p>\n\n<p>&rArr; 24 &times; 55a = 55a<sup>2</sup></p>\n\n<p>&rArr; a = 24</p>\n\n<p>Two numbers = 5 &times; 24 = 120</p>\n\n<p>&rArr; 24 &times; 11 = 264</p>\nRequired sum = 120 + 264 = 384",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q12",
+      "number": 12,
+      "question": "The HCF of two numbers is 12. Which one of the following can never be their LCM?",
+      "questionHtml": "The HCF of two numbers is 12. Which one of the following can never be their LCM?",
+      "options": [
+        {
+          "id": "A",
+          "text": "72",
+          "html": "72"
+        },
+        {
+          "id": "B",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "C",
+          "text": "90",
+          "html": "90"
+        },
+        {
+          "id": "D",
+          "text": "84",
+          "html": "84"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let the ratio of two numbers be A : B and their HCF be H and LCM be L.</p>\n\n<p>LCM (AH, BH) i.e. L = H × A × B</p>\n\n<p><span style=\"\">HCF of two numbers is 12, then their LCM has to be multiple of 12.</span></p>\n\n<p>∴ 90 can never be their LCM</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q13",
+      "number": 13,
+      "question": "What is the smallest integer that is a multiple of 5, 8 and 15?",
+      "questionHtml": "What is the smallest integer that is a multiple of 5, 8 and 15?",
+      "options": [
+        {
+          "id": "A",
+          "text": "600",
+          "html": "600"
+        },
+        {
+          "id": "B",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "C",
+          "text": "40",
+          "html": "40"
+        },
+        {
+          "id": "D",
+          "text": "120",
+          "html": "120"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/20/05/F1_Ashish_2.5.20_Pallavi_D2.png\" /></p>\n\n<p>LCM = 2 &times; 2 &times; 2 &times; 3 &times; 5 = 120</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/20/05/F1_Ashish_2.5.20_Pallavi_D2.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q14",
+      "number": 14,
+      "question": "Find the LCM of 28 and 92.",
+      "questionHtml": "Find the LCM of 28 and 92.",
+      "options": [
+        {
+          "id": "A",
+          "text": "464",
+          "html": "<span style=\"\">464</span>"
+        },
+        {
+          "id": "B",
+          "text": "644",
+          "html": "<span style=\"\">644</span>"
+        },
+        {
+          "id": "C",
+          "text": "161",
+          "html": "<span style=\"\">161</span>"
+        },
+        {
+          "id": "D",
+          "text": "322",
+          "html": "<span style=\"\">322</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">28 = 2<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> × 7 , 92 = 2<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> × 23 </p>\n\n<p style=\"color: rgb(33, 37, 41);\">L.C.M = 2<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> × 7 × 23 = 644 </p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q15",
+      "number": 15,
+      "question": "Which of the following numbers is divisible by 2, 5 and 10?",
+      "questionHtml": "Which of the following numbers is divisible by 2, 5 and 10?",
+      "options": [
+        {
+          "id": "A",
+          "text": "720345",
+          "html": "720345"
+        },
+        {
+          "id": "B",
+          "text": "149",
+          "html": "149"
+        },
+        {
+          "id": "C",
+          "text": "125372",
+          "html": "125372"
+        },
+        {
+          "id": "D",
+          "text": "19400",
+          "html": "19400"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>The number is divivible by 2, 5 and 10</p>\n\n<p><b>Concept used:</b></p>\n\n<p>Number must be divisible by LCM of the numbers</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Lcm of 2,5&nbsp;and 10</p>\n\n<p>&rArr; LCM = 10</p>\n\n<p>Number must have a zero at the end to be divisble by 10</p>\n\n<p>So, Option 4 is divisible by 2,5 and 10</p>\n\n<p><strong>&there4; 19400 is divisible by 2, 5 and 10.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span>&nbsp;Number which is divided by 10 should have 0 at its unit digit. And out of all the question we have one such option available.&nbsp;</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q16",
+      "number": 16,
+      "question": "The HCF and LCM of two numbers are 6 and 5040 respectively. If one of the numbers is 210, then the other number is∶",
+      "questionHtml": "The HCF and LCM of two numbers are 6 and 5040 respectively. If one of the numbers is 210, then the other number is∶",
+      "options": [
+        {
+          "id": "A",
+          "text": "256",
+          "html": "256"
+        },
+        {
+          "id": "B",
+          "text": "144",
+          "html": "144"
+        },
+        {
+          "id": "C",
+          "text": "30",
+          "html": "30"
+        },
+        {
+          "id": "D",
+          "text": "630",
+          "html": "630"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let the first number be &#39;x&#39; and the second number be &#39;y&#39;.</p>\n\n<p>Given, HCF = 6 , LCM = 5040 and x = 210</p>\n\n<p>As we know, product of two numbers&nbsp;= HCF &times; LCM</p>\n\n<p>x &times; y = HCF &times; LCM</p>\n\n<p>210 &times; y = 6 &times; 5040</p>\ny = (6 &times; 5040)/210 = 144.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q17",
+      "number": 17,
+      "question": "Two numbers are in the ratio 6 ∶ 11 If their HCF is 28, then the sum of these two numbers is∶",
+      "questionHtml": "Two numbers are in the ratio 6 ∶ 11 If their HCF is 28, then the sum of these two numbers is∶",
+      "options": [
+        {
+          "id": "A",
+          "text": "476",
+          "html": "476"
+        },
+        {
+          "id": "B",
+          "text": "392",
+          "html": "392"
+        },
+        {
+          "id": "C",
+          "text": "448",
+          "html": "448"
+        },
+        {
+          "id": "D",
+          "text": "420",
+          "html": "420"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Ratio of two numbers are = 6x ∶ 11x</p>\n\n<p>HCF of the 6x and 11x is x Because x is the Highest common factor</p>\n\n<p>Given, x = 28, then</p>\nSum of the two numbers = 28 (6 + 11) = 28 &times; 17 = 476",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q18",
+      "number": 18,
+      "question": "Two numbers are in the ratio 4 ∶ 5. If their HCF is 16, then the sum of these two numbers is∶",
+      "questionHtml": "Two numbers are in the ratio 4 ∶ 5. If their HCF is 16, then the sum of these two numbers is∶",
+      "options": [
+        {
+          "id": "A",
+          "text": "144",
+          "html": "144"
+        },
+        {
+          "id": "B",
+          "text": "124",
+          "html": "124"
+        },
+        {
+          "id": "C",
+          "text": "160",
+          "html": "160"
+        },
+        {
+          "id": "D",
+          "text": "150",
+          "html": "150"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"font-weight: 700;\">Given:</span></p>\n\n<p style=\"\">The ratio of numbers = 4 : 5</p>\n\n<p style=\"\">HCF of the numbers = 16</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Concept used:</span></p>\n\n<p style=\"\">The largest number that divides two or more numbers is the&nbsp;highest common factor&nbsp;(HCF) for those numbers.</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\">Let the two numbers be 4x and 5x</p>\n\n<p style=\"\">HCF of 4x and 5x = x</p>\n\n<p style=\"\">HCF = 16</p>\n\n<p style=\"\">&rArr; x = 16</p>\n\n<p style=\"\">&there4; Sum of two numbers = 4x + 5x = 9x = 9 &times; 16 = 144</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">&there4;&nbsp;The sum of these two numbers is 144.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q19",
+      "number": 19,
+      "question": "Find the greatest number that will divide 49, 147 and 322 to leave the same remainder in each case",
+      "questionHtml": "Find the greatest number that will divide 49, 147 and 322 to leave the same remainder in each case",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">9</font></font>"
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">5</font></font>"
+        },
+        {
+          "id": "C",
+          "text": "7",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">7</font></font>"
+        },
+        {
+          "id": "D",
+          "text": "8",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">8</font></font>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>147 - 49 = 98 <span style=\"\">⇒ </span>322 - 147 = 175</p>\n\n<p><span style=\"\">⇒ </span>322 - 49 = 273</p>\n\n<p>Now, HCF of <span style=\"\">{9</span><span style=\"\">8,175</span><span style=\"\">,273</span><span style=\"\">}</span></p>\n\n<p><span style=\"\">⇒ 98 = 7 × 7 × 2 ⇒ 175 = 5 × 5 × 7 ⇒ 273 = 13 × 7 × 3</span></p>\n\n<p><span style=\"\">The HCF of {9</span><span style=\"\">8,175</span><span style=\"\">,273</span><span style=\"\">} is 7</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q20",
+      "number": 20,
+      "question": "The HCF of \\({3 \\over 4}\\) , \\({7 \\over 8}\\) and \\({13 \\over 14}\\) is:",
+      "questionHtml": "The HCF of&nbsp;<span class=\"math-tex\">\\({3 \\over 4}\\)</span>,&nbsp;<span class=\"math-tex\">\\({7 \\over 8}\\)</span>&nbsp;and&nbsp;<span class=\"math-tex\">\\({13 \\over 14}\\)</span>&nbsp;is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\({1 \\over 36}\\)",
+          "html": "<span class=\"math-tex\">\\({1 \\over 36}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\({1 \\over 56}\\)",
+          "html": "<span class=\"math-tex\">\\({1 \\over 56}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\({1 \\over 70}\\)",
+          "html": "<span class=\"math-tex\">\\({1 \\over 70}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\({1 \\over 60}\\)",
+          "html": "<span class=\"math-tex\">\\({1 \\over 60}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Numerators are = 3, 7, 13 ⇒ HCF of 3, 7, 13 = 1</p>\n\n<p style=\"color: rgb(33, 37, 41);\"> Denominator are = 4, 8, 14 ⇒ LCM of 4, 8, 14 = 56</p>\n\n<p style=\"color: rgb(33, 37, 41);\"> So, the Fraction will become = <span class=\"math-tex\">\\(\\frac{1 }{56}\\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q21",
+      "number": 21,
+      "question": "The LCM and HCF of two numbers are 126 and 9, respectively. If one of the numbers is 18, then what is the other number?",
+      "questionHtml": "The LCM and HCF of two numbers are 126 and 9, respectively. If one of the numbers is 18, then what is the other number?",
+      "options": [
+        {
+          "id": "A",
+          "text": "63",
+          "html": "63"
+        },
+        {
+          "id": "B",
+          "text": "36",
+          "html": "36"
+        },
+        {
+          "id": "C",
+          "text": "84",
+          "html": "84"
+        },
+        {
+          "id": "D",
+          "text": "24",
+          "html": "24"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">We know, LCM × HCF = Product of two numbers</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Let, the other number = m, then</span></p>\n\n<p>⇒ 126 x 9 = 18 x m <span style=\"color: rgb(33, 37, 41);\">⇒ </span>m = (126 x 9)/18 <span style=\"color: rgb(33, 37, 41);\">⇒ </span>m = 63</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q22",
+      "number": 22,
+      "question": "The least number which is exactly divisible by 5, 6, 8, 10 and 12 is:",
+      "questionHtml": "The least number which is exactly divisible by 5, 6, 8, 10 and 12 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "120",
+          "html": "120"
+        },
+        {
+          "id": "B",
+          "text": "240",
+          "html": "240"
+        },
+        {
+          "id": "C",
+          "text": "150",
+          "html": "150"
+        },
+        {
+          "id": "D",
+          "text": "180",
+          "html": "180"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>The numbers are 5, 6, 8, 10 and 12</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>The least number which is exactly divisible by some numbers equals the LCM of these numbers.</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>LCM of&nbsp;5, 6, 8, 10 and 12 = 120</p>\n\n<p><strong>&there4; The least number which is&nbsp;exactly divisible by 5, 6, 8, 10, and 12 is 120.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q23",
+      "number": 23,
+      "question": "What is the HCF of 12, 18 and 42?",
+      "questionHtml": "What is the HCF of 12, 18 and 42?",
+      "options": [
+        {
+          "id": "A",
+          "text": "123",
+          "html": "123"
+        },
+        {
+          "id": "B",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "D",
+          "text": "60",
+          "html": "60"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">12 = 2<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> × 3, 18 = 2 × 3<sup>2</sup>,  42 = 2 × 3 × 7</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Common Factors: 2 and 3</p>\n\n<p>HCF: 2 × 3 = 6</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q24",
+      "number": 24,
+      "question": "The product of HCF and LCM of two numbers is 3321. If one of the numbers is 369, the HCF of the numbers is∶",
+      "questionHtml": "The product of HCF and LCM of two numbers is 3321. If one of the numbers is 369, the HCF of the numbers is∶",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "B",
+          "text": "21",
+          "html": "21"
+        },
+        {
+          "id": "C",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "D",
+          "text": "27",
+          "html": "27"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>1<sup>st</sup> number = 369</p>\n\n<p>Let the 2<sup>nd</sup> number be n.</p>\n\n<p>According to the question,</p>\n\n<p>Product of HCF and LCM of two numbers = 3321</p>\n\n<p>We know that,</p>\n\n<p>Product of two numbers = Product of H.C.F. and L.C.M. of two numbers</p>\n\n<p>&rArr; 369 &times; n = 3321</p>\n\n<p>&rArr; n = 3321/369 = 9</p>\n\n<p>1<sup>st</sup> number = 369 = 9 &times; 41</p>\n\n<p>2<sup>nd</sup> number = n = 9</p>\n&there4; H.C.F. of the numbers = 9",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q25",
+      "number": 25,
+      "question": "Two numbers are in the ratio of 6 ∶ 5. If their HCF is 3, then what is the LCM of the two numbers?",
+      "questionHtml": "Two numbers are in the ratio of 6&nbsp;∶ 5. If their HCF is 3, then what is the LCM of the two numbers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "64",
+          "html": "<span style=\"\">64</span>"
+        },
+        {
+          "id": "B",
+          "text": "110",
+          "html": "110"
+        },
+        {
+          "id": "C",
+          "text": "90",
+          "html": "90"
+        },
+        {
+          "id": "D",
+          "text": "80",
+          "html": "80"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Two numbers are in the ratio of 6 ∶ 5 and their HCF is 3</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">So, first number = 6 × 3 = 18 and second number = 5 × 3 = 15</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Now, LCM of (18, 15) = 3 × 6 × 5 = 90</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q26",
+      "number": 26,
+      "question": "If a positive integer 'n' is divisible by 3, 5 and 7, then what is the next larger integer divisible by all these numbers?",
+      "questionHtml": "If a positive integer &#39;n&#39; is divisible by 3, 5 and 7, then what is the next larger integer divisible by all these numbers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "n + 105",
+          "html": "n + 105"
+        },
+        {
+          "id": "B",
+          "text": "n + 21",
+          "html": "n + 21"
+        },
+        {
+          "id": "C",
+          "text": "n + 35",
+          "html": "n + 35"
+        },
+        {
+          "id": "D",
+          "text": "n + 110",
+          "html": "n + 110"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Calculation:</strong></p>\n\n<p>The LCM of (3, 5, and 7) = 105</p>\n\n<p>So next larger integer = n + 105</p>\n\n<p><strong>∴</strong><strong> The next larger integer divisible by 3, 5, and 7 is n + 105.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q27",
+      "number": 27,
+      "question": "The LCM of two numbers is 120 and the numbers are in the ratio 3 ∶ 8 The sum of the numbers will be :",
+      "questionHtml": "The LCM of two numbers is 120 and the numbers are in the ratio 3&nbsp;∶ 8 The sum of the numbers will be :",
+      "options": [
+        {
+          "id": "A",
+          "text": "48",
+          "html": "48"
+        },
+        {
+          "id": "B",
+          "text": "55",
+          "html": "55"
+        },
+        {
+          "id": "C",
+          "text": "45",
+          "html": "45"
+        },
+        {
+          "id": "D",
+          "text": "60",
+          "html": "60"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Sum of the numbers = 3x + 8x = 11x<span style=\"\">​</span></p>\n\n<p><span style=\"\">LCM (3x, 8x) = 120</span></p>\n\n<p><span style=\"\">⇒ x = 120/24 ⇒ x = 5 ⇒ 11x = 55</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q28",
+      "number": 28,
+      "question": "The greatest four digit number which is exactly divisible by 15, 24 and 40 is:",
+      "questionHtml": "The greatest four digit number which is exactly divisible by 15, 24 and 40 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "9960",
+          "html": "9960"
+        },
+        {
+          "id": "B",
+          "text": "9940",
+          "html": "9940"
+        },
+        {
+          "id": "C",
+          "text": "9990",
+          "html": "9990"
+        },
+        {
+          "id": "D",
+          "text": "9980",
+          "html": "9980"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong><span style=\"\">Given:</span></strong></p>\n\n<p><span style=\"\">The number is divisible by 15, 24, and 40</span></p>\n\n<p><span style=\"\"><strong>Concept Used:</strong></span></p>\n\n<p>The concept of LCM is the multiple of Least Common Multiple</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>&rArr; LCM of 15, 24, and 40 = 120</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>Highest 4-digit number = 9999</p>\n\n<p>On dividing 9999 by 120, we get</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>Remainder = 39</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>The highest 4-digit number divisible be 15, 24, and 40 = Highest 4-digit number - Remainder = 9999 - 39&nbsp;= 9960</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span><strong>Hence, The highest 4-digit number exactly divisible by 15, 24, and 40 is 9960.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q29",
+      "number": 29,
+      "question": "Find the HCF of 4.08 and 6.63.",
+      "questionHtml": "Find the HCF of 4.08 and 6.63.",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.50",
+          "html": "0.50"
+        },
+        {
+          "id": "B",
+          "text": "0.52",
+          "html": "0.52"
+        },
+        {
+          "id": "C",
+          "text": "0.51",
+          "html": "0.51"
+        },
+        {
+          "id": "D",
+          "text": "0.53",
+          "html": "0.53"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"> 408 = <span class=\"math-tex\">\\(2\\times2\\times2\\times\\times51\\)</span> ⇒ 663 = <span class=\"math-tex\">\\(13\\times51\\)</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">HCF of 408 and 663 is 51, now HCF of 4.08 and 6.63 is </span><span style=\"font-weight: bolder;\">0.51.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q30",
+      "number": 30,
+      "question": "The greatest number of 5 digits that is exactly divisible by each of 8, 12, 15 and 20 is:",
+      "questionHtml": "The greatest number of 5 digits that is exactly divisible by each of 8, 12, 15 and 20 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "99950",
+          "html": "99950"
+        },
+        {
+          "id": "B",
+          "text": "99940",
+          "html": "99940"
+        },
+        {
+          "id": "C",
+          "text": "99980",
+          "html": "99980"
+        },
+        {
+          "id": "D",
+          "text": "99960",
+          "html": "99960"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/19/11/F1_V.G_Deepak_28.11.2019_D10.png\" style=\"width: 158px; height: 152px;\" /></p>\n\n<p>LCM = 2&nbsp;&times; 2&nbsp;&times; 2&nbsp;&times; 3&nbsp;&times; 5 = 120.</p>\n\n<p><img src=\"https://storage.googleapis.com/tb-img/production/19/11/F1_V.G_Deepak_28.11.2019_D11.png\" style=\"width: 136px; height: 131px;\" /></p>\n\n<p>As we know,</p>\n\n<p>The greatest number of 5 digit = 99999</p>\n\n<p>LCM of the 8, 12, 15 and 20 is = 120</p>\n\n<p>If we subtract 39 from 99999, then number become divisible by 120</p>\n\n<p>99999 - 39 = 99960</p>\n\n<p>The greatest number of 5 digit that is exactly divisible by each of 8, 12, 15 and 20.</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/19/11/F1_V.G_Deepak_28.11.2019_D10.png",
+        "https://storage.googleapis.com/tb-img/production/19/11/F1_V.G_Deepak_28.11.2019_D11.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q31",
+      "number": 31,
+      "question": "The ratio of two numbers is 5 ∶ 4 and their HCF is 4. What is their LCM?",
+      "questionHtml": "The ratio of two numbers is 5&nbsp;∶ 4 and their HCF is 4. What is their LCM?",
+      "options": [
+        {
+          "id": "A",
+          "text": "80",
+          "html": "80"
+        },
+        {
+          "id": "B",
+          "text": "48",
+          "html": "48"
+        },
+        {
+          "id": "C",
+          "text": "36",
+          "html": "36"
+        },
+        {
+          "id": "D",
+          "text": "60",
+          "html": "60"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>LCM of <span style=\"\">5</span><span style=\"\">x and 4</span><span style=\"\">x</span>= 20x, HCF of 5x and 4x = x = 4</p>\n\n<p>According to the question</p>\n\n<p>20x = 20 × 4 = 80</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q32",
+      "number": 32,
+      "question": "The HCF of three numbers 72, 108 and 2010 is:",
+      "questionHtml": "The HCF of three numbers 72, 108 and 2010 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "18",
+          "html": "18"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "D",
+          "text": "5",
+          "html": "5"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">The prime factors of, </span>72 = 2<sup>3</sup> × 3<sup>2</sup>, 108 = 2<sup>2</sup> × 3<sup>3</sup> and 2010 = 2 × 3 × 5 × 67</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, HCF of (972, 108, 2010) = 2 × 3 = 6</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q33",
+      "number": 33,
+      "question": "Two numbers are in the ratio 4 ∶ 7 If their HCF is 26, then the sum of these two numbers will be∶",
+      "questionHtml": "Two numbers are in the ratio 4 ∶ 7 If their HCF is 26, then the sum of these two numbers will be∶",
+      "options": [
+        {
+          "id": "A",
+          "text": "364",
+          "html": "364"
+        },
+        {
+          "id": "B",
+          "text": "286",
+          "html": "286"
+        },
+        {
+          "id": "C",
+          "text": "338",
+          "html": "338"
+        },
+        {
+          "id": "D",
+          "text": "312",
+          "html": "312"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Ratio of two numbers are = 4x ∶ 7x</p>\n\n<p>HCF of the 4x and 7x is x Because x is the Highest common factor</p>\n\n<p>Given, x = 26, then</p>\nSum of the two numbers = 26 (4 + 7) = 26 &times; 11 = 286",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q34",
+      "number": 34,
+      "question": "The product of two numbers is 45360; if the HCF of the numbers is 36, then their LCM is:",
+      "questionHtml": "The product of two numbers is 45360; if the HCF of the numbers is 36, then their LCM is:&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "252",
+          "html": "252"
+        },
+        {
+          "id": "B",
+          "text": "630",
+          "html": "630"
+        },
+        {
+          "id": "C",
+          "text": "126",
+          "html": "126"
+        },
+        {
+          "id": "D",
+          "text": "1260",
+          "html": "1260"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>As we know,</p>\n\n<p>H.C.F &times; L.C.M = Product of two numbers</p>\n\n<p>36 &times; L.C.M = 45360</p>\nL.C.M = 45360/36 = 1260",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q35",
+      "number": 35,
+      "question": "The LCM of x and y is 441 and their HCF is 7. If x = 49 then find y.",
+      "questionHtml": "The LCM of x and y is 441 and their HCF is 7. If x = 49 then find y.",
+      "options": [
+        {
+          "id": "A",
+          "text": "56",
+          "html": "56"
+        },
+        {
+          "id": "B",
+          "text": "36",
+          "html": "36"
+        },
+        {
+          "id": "C",
+          "text": "65",
+          "html": "65"
+        },
+        {
+          "id": "D",
+          "text": "63",
+          "html": "63"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong><span style=\"\">Given:</span></strong></p>\n\n<p><span style=\"\">The LCM of x and y = 441 </span></p>\n\n<p><span style=\"\">Their HCF = 7</span></p>\n\n<p><span style=\"\">x = 49</span></p>\n\n<p><span style=\"\"><strong>Formula Used:</strong></span></p>\n\n<p><span style=\"\">Product of the two numbers = LCM x HCF</span></p>\n\n<p><span style=\"\"><strong>Calculations:</strong></span></p>\n\n<p><span style=\"\">&rArr; 1st number = 49</span></p>\n\n<p><span style=\"\">According to the formula,</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;Product of the two numbers = LCM x HCF</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>49 x y = 441 x 7</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>y = 63</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span><strong>Hence, The value of y is 63.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q36",
+      "number": 36,
+      "question": "Two numbers are in the ratio of 5 : 7 and their LCM is 385. Find the numbers.",
+      "questionHtml": "Two numbers are in the ratio of 5 : 7 and their LCM is 385. Find the numbers.",
+      "options": [
+        {
+          "id": "A",
+          "text": "54, 77",
+          "html": "54, 77"
+        },
+        {
+          "id": "B",
+          "text": "54, 76",
+          "html": "54, 76"
+        },
+        {
+          "id": "C",
+          "text": "55, 77",
+          "html": "55, 77"
+        },
+        {
+          "id": "D",
+          "text": "55, 76",
+          "html": "55, 76"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">Two numbers are in the ratio of 5 : 7</span></p>\n\n<p><span style=\"\">Their LCM is 385</span></p>\n\n<p><strong>Concept Used:</strong></p>\n\n<p>The LCM is the Lowest Common Factor of&nbsp;one or more than one number</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>&rArr; The ratio of two number= 5:7</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>Let 1st Number= 5x</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>2nd Number= 7x</p>\n\n<p>&rArr; LCM of these number = 35x</p>\n\n<p>According to the question,</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>LCM= 385</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>35x= 385</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>x = 11</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>1st number= 5x= 5 x 11 = 55</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>2nd number= 7x= 7x 11= 77</p>\n\n<p><strong>Hence, The numbers are 55 and 77</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q37",
+      "number": 37,
+      "question": "The product of two numbers is 20000. If their LCM is 800, then what is their HCF?",
+      "questionHtml": "The product of two numbers is 20000. If their LCM is 800, then what is their HCF?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "25",
+          "html": "25"
+        },
+        {
+          "id": "B",
+          "text": "30",
+          "html": "30"
+        },
+        {
+          "id": "C",
+          "text": "35",
+          "html": "35"
+        },
+        {
+          "id": "D",
+          "text": "20",
+          "html": "20"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">⇒ HCF(a, b) = (a × b)/LCM(a, b)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ HCF(a, b) = 20000/800 ⇒ HCF(a, b) = 25</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q38",
+      "number": 38,
+      "question": "The ratio of two numbers is 4 : 5, and their HCF is 3. What is their LCM?",
+      "questionHtml": "The ratio of two numbers is 4 : 5, and their HCF is 3. What is their LCM?",
+      "options": [
+        {
+          "id": "A",
+          "text": "48",
+          "html": "48"
+        },
+        {
+          "id": "B",
+          "text": "80",
+          "html": "80"
+        },
+        {
+          "id": "C",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "D",
+          "text": "36",
+          "html": "36"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>The ratio of two numbers is 4 : 5.</p>\n\n<p>HCF is 3</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p><span style=\"\">LCM&nbsp;&times;&nbsp;HCF = Product of two numbers</span></p>\n\n<p><span style=\"\">If there are two numbers namely a and b, and their HCF is x&nbsp;</span></p>\n\n<p><span style=\"\">Then the numbers are ax and bx&nbsp;(provided that a and b are co-prime numbers)</span></p>\n\n<p>Co-prime numbers = Those numbers that have only one common factor, namely 1&nbsp;</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Here, we have numbers in the ratio 4 : 5&nbsp; and their HCF&nbsp;is 3&nbsp;</p>\n\n<p>As, &nbsp;the numbers are in co-prime&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;( as 4 and 5 don&#39;t have any common factor)</p>\n\n<p>So, the number becomes 4 &times; 3 = 12 and 5&nbsp;&times; 3 = 15&nbsp;</p>\n\n<p>As, we know&nbsp;</p>\n\n<p>L.C.M&nbsp;&times; H.C.F = Product of two numbers&nbsp;</p>\n\n<p>L.C.M&nbsp;&times; 3&nbsp; = 12&nbsp;&times; 15&nbsp;</p>\n\n<p>L.C.M = 60</p>\n\n<p><strong>&there4; LCM of these two numbers is 60.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q39",
+      "number": 39,
+      "question": "The LCM of the two numbers is 4104 and the HCF is 9. If one of the numbers is 171, find the other.",
+      "questionHtml": "The LCM of the two numbers is 4104 and the HCF is 9. If one of the numbers is 171, find the other.",
+      "options": [
+        {
+          "id": "A",
+          "text": "218",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">218</font></font>"
+        },
+        {
+          "id": "B",
+          "text": "215",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">215</font></font>"
+        },
+        {
+          "id": "C",
+          "text": "220",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">220</font></font>"
+        },
+        {
+          "id": "D",
+          "text": "216",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">216</font></font>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>LCM × HCF = Product of the numbers</p>\n\n<p>⇒ 4104 × 9 = 171 × other number</p>\n\n<p>⇒ other number = 4104 × 9/171 = 216</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q40",
+      "number": 40,
+      "question": "The ratio of two numbers is 7 : 13 and their HCF is 8. Their LCM is:",
+      "questionHtml": "The ratio of two numbers is 7 : 13 and their HCF is 8. Their LCM is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "728",
+          "html": "728"
+        },
+        {
+          "id": "B",
+          "text": "872",
+          "html": "872"
+        },
+        {
+          "id": "C",
+          "text": "628",
+          "html": "628"
+        },
+        {
+          "id": "D",
+          "text": "782",
+          "html": "782"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Ratio of two numbers = 7 : 13</p>\n\n<p>HCF = 8</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>(i) If a and b are two numbers, then a&nbsp;&times; b = HCF&nbsp;&times; LCM</p>\n\n<p>(ii) HCF of two numbers is the highest common factor of both of them.&nbsp;</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Let the numbers be 7x and 13x.</p>\n\n<p>Then,&nbsp;H.C.F. = x</p>\n\n<p>As we have given,&nbsp;x = 8</p>\n\n<p>First number is,</p>\n\n<p>&rArr; 7x</p>\n\n<p>&rArr; 7&nbsp;&times; 8 = 56</p>\n\n<p>Second number is,</p>\n\n<p>&rArr; 13x</p>\n\n<p>&rArr; 13&nbsp;&times; 8&nbsp;= 104</p>\n\n<p>a&nbsp;&times; b = HCF&nbsp;&times; LCM</p>\n\n<p>&rArr; 56&nbsp;&times; 104 = 8&nbsp;&times; LCM</p>\n\n<p>&rArr; LCM = 728</p>\n\n<p><strong>&there4; The LCM is 728.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q41",
+      "number": 41,
+      "question": "Find the HCF of 364 and 724.",
+      "questionHtml": "Find the HCF of 364 and 724.",
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "D",
+          "text": "364",
+          "html": "364"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Numbers = 364 and 724</p>\n\n<p><strong>Concept Used:</strong></p>\n\n<p>Largest Number = Smallest Number&nbsp;&times; Quotient + Remainder</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>&rArr; 724 = 364&nbsp;&times; 1 + 360</p>\n\n<p>&rArr; 364 = 360&nbsp;&times; 1 + 4</p>\n\n<p>&rArr; 360 = 4&nbsp;&times; 90 + 0</p>\n\n<p><strong>Therefore, the HCF of 364 and 724 is 4.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q42",
+      "number": 42,
+      "question": "The ratio of two numbers is 5 ∶ 7 and their HCF is 3. Their LCM is:",
+      "questionHtml": "The ratio of two numbers is 5 ∶ 7 and their HCF is 3. Their LCM is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "75",
+          "html": "75"
+        },
+        {
+          "id": "B",
+          "text": "105",
+          "html": "105"
+        },
+        {
+          "id": "C",
+          "text": "125",
+          "html": "125"
+        },
+        {
+          "id": "D",
+          "text": "35",
+          "html": "35"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>GIVEN:</strong></p>\n\n<p>Ratio of two numbers = 5 : 7&nbsp;</p>\n\n<p>H.CF = 3&nbsp;</p>\n\n<p><strong>FORMULA USED:</strong></p>\n\n<p>Product of two numbers = H.C.F&nbsp;&times; L.C.M.&nbsp;</p>\n\n<p>Suppose if the given H.C.F is a</p>\n\n<p>And if the numbers are in the ratio p&nbsp;: q</p>\n\n<p>Then the required numbers =( p&nbsp;&times; a) and (q&nbsp;&times;&nbsp;a)</p>\n\n<p><strong>CALCULATION:</strong></p>\n\n<p>Here, the ratio of the numbers are 5 and 7 and their H.C.F = 3</p>\n\n<p>So,</p>\n\n<p>The numbers = 5&nbsp;&times; 3 = 15 and second number = 7&nbsp;&times; 3 = 21</p>\n\n<p>Now, we know that&nbsp;</p>\n\n<p>Product of two numbers = H.C.F&nbsp;&times; L.C.M&nbsp;</p>\n\n<p>&rArr;&nbsp; 15&nbsp;&times; 21&nbsp;= 3&nbsp;&times; L.C.M&nbsp;</p>\n\n<p>L.C.M&nbsp; = 105&nbsp;</p>\n\n<p><strong>Hence, the required L.C.M is 105.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q43",
+      "number": 43,
+      "question": "Six bells begin to toll together and toll, respectively, at intervals of 3, 4, 6, 7, 8 and 12 seconds. After how many seconds, will they toll together again?",
+      "questionHtml": "Six bells begin to toll together and toll, respectively, at intervals of 3, 4, 6, 7, 8 and 12 seconds. After how many seconds, will they toll together again?",
+      "options": [
+        {
+          "id": "A",
+          "text": "167",
+          "html": "167"
+        },
+        {
+          "id": "B",
+          "text": "168",
+          "html": "168"
+        },
+        {
+          "id": "C",
+          "text": "176",
+          "html": "176"
+        },
+        {
+          "id": "D",
+          "text": "186",
+          "html": "186"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Prime factors of 3 = 3, Prime factors of 4 = 2 × 2, Prime factors of 6 = 2 × 3, Prime factors of 7 = 7, Prime factors of 8 = 2 × 2 × 2, Prime factors of 12 = 2 × 2 × 3</p>\n\n<p style=\"color: rgb(33, 37, 41);\">LCM of 3, 4, 6, 7, 8, and 12 = 2 × 2 × 2 × 3 × 7 = 168</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q44",
+      "number": 44,
+      "question": "Four bells ring simultaneously at a certain instant. Thereafter they ring at intervals of 6, 8, 10 and 12 seconds respectively. In how many minutes will they ring together again for the first time?",
+      "questionHtml": "Four bells ring simultaneously at a certain instant. Thereafter they ring at intervals of 6, 8, 10 and 12 seconds respectively. In how many minutes will they ring together again for the first time?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 minutes",
+          "html": "2 minutes"
+        },
+        {
+          "id": "B",
+          "text": "\\(2\\frac{1}{4}\\) minutes",
+          "html": "<span class=\"math-tex\">\\(2\\frac{1}{4}\\)</span>&nbsp;minutes"
+        },
+        {
+          "id": "C",
+          "text": "1 minute",
+          "html": "1 minute"
+        },
+        {
+          "id": "D",
+          "text": "\\(1\\frac{1}{2}\\) minute",
+          "html": "<span class=\"math-tex\">\\(1\\frac{1}{2}\\)</span> minute"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/19/11/F1_V.G_Deepak_28.11.2019_D1.png\" style=\"width: 185px; height: 175px;\" /></strong></p>\n\n<p>LCM of 6, 8, 10 and 12 is 120 seconds</p>\n\n<p>120 seconds = 2 minutes</p>\n\n<p>Hence 2 min after they ring together again for the first time.</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/19/11/F1_V.G_Deepak_28.11.2019_D1.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q45",
+      "number": 45,
+      "question": "What is the HCF of 36 and 198?",
+      "questionHtml": "What is the HCF of 36 and 198?",
+      "options": [
+        {
+          "id": "A",
+          "text": "36",
+          "html": "36"
+        },
+        {
+          "id": "B",
+          "text": "22",
+          "html": "22"
+        },
+        {
+          "id": "C",
+          "text": "18",
+          "html": "18"
+        },
+        {
+          "id": "D",
+          "text": "9",
+          "html": "9"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"\">36 = 3<sup>2</sup> × 2<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> and 198 = 3<sup>2</sup> × 2 × 11</p>\n\n<p style=\"\">So, HCF = 3<sup>2</sup> × 2 ⇒ 18</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q46",
+      "number": 46,
+      "question": "The LCM of \\(\\frac{1}{3}, \\frac{3}{5}, \\frac{4}{7} \\) and \\(\\frac{9}{16}\\) is:",
+      "questionHtml": "The LCM of&nbsp;<span class=\"math-tex\">\\(\\frac{1}{3}, \\frac{3}{5}, \\frac{4}{7} \\)</span> and&nbsp;<span class=\"math-tex\">\\(\\frac{9}{16}\\)</span>&nbsp;is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "36",
+          "html": "36"
+        },
+        {
+          "id": "B",
+          "text": "49",
+          "html": "49"
+        },
+        {
+          "id": "C",
+          "text": "38",
+          "html": "38"
+        },
+        {
+          "id": "D",
+          "text": "81",
+          "html": "81"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">⇒ LCM of <span class=\"math-tex\">\\(\\frac{1}{3}, \\frac{3}{5}, \\frac{4}{7} \\)</span> and <span class=\"math-tex\">\\(\\frac{9}{16}\\)</span> = <span class=\"math-tex\">\\(\\frac{LCM of 1, 3, 4, 9}{HCF of 3, 5, 7, 16}\\)</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ LCM of <span class=\"math-tex\">\\(\\frac{1}{3}, \\frac{3}{5}, \\frac{4}{7} \\)</span> and <span class=\"math-tex\">\\(\\frac{9}{16}\\)</span> = <span class=\"math-tex\">\\(\\frac{36}{1}\\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q47",
+      "number": 47,
+      "question": "The highest common factor of 120, 360 and 210 is :",
+      "questionHtml": "The highest common factor of 120, 360 and 210 is :&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">12</font></font>"
+        },
+        {
+          "id": "B",
+          "text": "30",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">30</font></font>"
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">3</font></font>"
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">15</font></font>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>GIVEN:</strong></p>\n\n<p>The numbers are 120, 360 and 210&nbsp;</p>\n\n<p><b>CONCEPT USED:</b></p>\n\n<p>Highest Common Factor ( H.C.F) = It is the largest positive integer that divides each of the integers&nbsp;</p>\n\n<p><b>CALCULATION:</b></p>\n\n<p>Here, the given numbers are 120, 360 and 210</p>\n\n<p>Prime factorization of these numbers are&nbsp;&nbsp;</p>\n\n<p>&rArr; 120 = 2<sup>3</sup>&nbsp;&times; 3&nbsp;&times;&nbsp; 5<sup>1</sup></p>\n\n<p>&rArr; 360 =&nbsp; 2<sup>3</sup>&nbsp;&times; 3<sup>2</sup>&nbsp;&times; 5<sup>1</sup></p>\n\n<p>&rArr; 210 = 2<sup>1</sup>&nbsp;&times; 3<sup>1</sup>&nbsp;&times; 5<sup>1</sup></p>\n\n<p>So, H.C.F = 2<sup>1</sup>&nbsp;&times; 3<sup>1</sup>&nbsp;&times; 5<sup>1</sup>&nbsp;= 30&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[ Highest common factors are 2<sup>1</sup>&nbsp;, 3<sup>1</sup>&nbsp;and 5<sup>1</sup>]</p>\n\n<p><b>Hence, the required H.C.F is 30 .</b></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q48",
+      "number": 48,
+      "question": "Find the HCF of 60, 148 and 382.",
+      "questionHtml": "Find the HCF of 60, 148 and 382.",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "D",
+          "text": "24",
+          "html": "24"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">60 = 2<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> × 3 × 5</p>\n\n<p style=\"color: rgb(33, 37, 41);\">148 = 2<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> × 37</p>\n\n<p style=\"color: rgb(33, 37, 41);\">382 = 2 × 191</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, HCF = 2</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q49",
+      "number": 49,
+      "question": "The LCM of \\(\\frac{3}{8}, \\frac{5}{16}\\) and \\(\\frac{7}{2}\\) is:",
+      "questionHtml": "The LCM of&nbsp;<span class=\"math-tex\">\\(\\frac{3}{8}, \\frac{5}{16}\\)</span>&nbsp;and <span class=\"math-tex\">\\(\\frac{7}{2}\\)</span>&nbsp;is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(101\\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(101\\frac{1}{2}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(52\\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(52\\frac{1}{2}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(28\\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(28\\frac{1}{2}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(25\\frac{1}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(25\\frac{1}{4}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">LCM of <span class=\"math-tex\">\\(\\frac{3}{8}, \\frac{5}{16}, \\frac{7}{2}\\)</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ LCM (3, 5, 7) ÷ HCF (8, 16, 2)  ⇒ 105/2 =  52<span class=\"math-tex\">\\(\\frac{1}{2}\\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f61b6c4e904c-q50",
+      "number": 50,
+      "question": "Find the HCF of 238 and 832.",
+      "questionHtml": "Find the HCF of 238 and 832.",
+      "options": [
+        {
+          "id": "A",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "B",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "D",
+          "text": "14",
+          "html": "14"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Prime factors of<span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> 238 =  (2 × 7 × 17) and</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> 832 = (2</span><span style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align); position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size: 10.5px;\">6</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> × 13)</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Then, HCF of (</span><span style=\"color: rgb(33, 37, 41);\">238, 832) = 2</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

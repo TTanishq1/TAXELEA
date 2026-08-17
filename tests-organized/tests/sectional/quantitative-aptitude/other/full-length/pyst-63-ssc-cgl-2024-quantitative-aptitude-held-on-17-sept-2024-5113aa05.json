@@ -1,0 +1,867 @@
+{
+  "id": "5113aa05eb8e",
+  "provider": "Testbook",
+  "sourceFile": "PYST_63_SSC_CGL_2024_Quantitative_Aptitude_Held_On_17_Sept_2024.html",
+  "sourcePath": "Testbook/files/PYST_63_SSC_CGL_2024_Quantitative_Aptitude_Held_On_17_Sept_2024.html",
+  "title": "PYST 63: SSC CGL 2024 - Quantitative Aptitude (Held On 17 Sept, 2024 Shift 3)",
+  "exam": "SSC CGL",
+  "year": 2024,
+  "tier": null,
+  "shift": "Shift 3",
+  "duration": 210,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "5113aa05eb8e-q1",
+      "number": 1,
+      "question": "Find the length of the longest diagonal (in cm) of a cuboidal box of dimensions 1.2 cm &times; 1.3 cm &times; 1.5 cm (correct to two decimal places).",
+      "questionHtml": "Find the length of the longest diagonal (in cm) of a cuboidal box of dimensions 1.2 cm &times; 1.3 cm &times; 1.5 cm (correct to two decimal places).",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.22 cm",
+          "html": "2.22 cm"
+        },
+        {
+          "id": "B",
+          "text": "2.32 cm",
+          "html": "2.32 cm"
+        },
+        {
+          "id": "C",
+          "text": "2.23 cm",
+          "html": "2.23 cm"
+        },
+        {
+          "id": "D",
+          "text": "2.35 cm",
+          "html": "2.35 cm"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Given: l = 1.2 cm, b = 1.3 cm, h = 1.5 cm</p>\n\n<p> </p>\n\n<p>Longest diagonal: d = √(l<sup>2</sup> + b<sup>2</sup> + h<sup>2</sup>)</p>\n\n<p> </p>\n\n<p>d = √(1.2<sup>2</sup> + 1.3<sup>2</sup> + 1.5<sup>2</sup>) = √(1.44 + 1.69 + 2.25) = √(5.38) ≈ 2.32 cm</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q2",
+      "number": 2,
+      "question": "If x is an integer such that \\(x + \\frac{1}{x} = \\frac{65}{8}\\) , then find the value of \\(x - \\frac{1}{x}\\)",
+      "questionHtml": "If x is an integer such that <span class=\"math-tex\">\\(x + \\frac{1}{x} = \\frac{65}{8}\\)</span>, then find the value of&nbsp;&nbsp;<span class=\"math-tex\">\\(x - \\frac{1}{x}\\)</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\quad \\frac{63}{6}\\)",
+          "html": "<span class=\"math-tex\">\\(\\quad \\frac{63}{6}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\quad \\frac{63}{8}\\)",
+          "html": "<span class=\"math-tex\">\\(\\quad \\frac{63}{8}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\quad \\frac{36}{8}\\)",
+          "html": "<span class=\"math-tex\">\\(\\quad \\frac{36}{8}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\quad \\frac{32}{6}\\)",
+          "html": "<span class=\"math-tex\">\\(\\quad \\frac{32}{6}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Formula Used:</strong></p>\n\n<p>If a = x + (1 / x) and b = x - (1 / x), then:</p>\n\n<p>a² - b² = 4.</p>\n\n<p>Step 1: Find the value of a²:</p>\n\n<p>a = x + (1 / x) = 65 / 8</p>\n\n<p>a² = (65 / 8)² = 4225 / 64.</p>\n\n<p>Step 2: Use the formula a² - b² = 4:</p>\n\n<p>4225 / 64 - b² = 4</p>\n\n<p>b² = 4225 / 64 - 256 / 64</p>\n\n<p>b² = 3969 / 64.</p>\n\n<p>Step 3: Find the value of b:</p>\n\n<p>b = √(3969 / 64)</p>\n\n<p>b = 63 / 8.</p>\n\n<p><strong>The value of x - (1 / x) is 63 / 8.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q3",
+      "number": 3,
+      "question": "In a triangle, the lengths of sides are 6 units, 12 units and x units. How many possible integer values are there for x?",
+      "questionHtml": "In a triangle, the lengths of sides are 6 units, 12 units and x units. How many possible integer values are there for x?",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "B",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "C",
+          "text": "11",
+          "html": "11"
+        },
+        {
+          "id": "D",
+          "text": "10",
+          "html": "10"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Using the Triangle Inequality Theorem:</p>\n\n<p>6 + 12 > x , 6 + x > 12 , 12 + x > 6</p>\n\n<p> </p>\n\n<p>x < 18 , x > 6 , This condition always true</p>\n\n<p> </p>\n\n<p>Combining: 6 < x < 18</p>\n\n<p> </p>\n\n<p>Possible integers: 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17</p>\n\n<p> </p>\n\n<p>Number of values: 11</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q4",
+      "number": 4,
+      "question": "Arvind and Chetan started running simultaneously from the same point in the same direction on a circular track of length 210 m. If Arvind takes 180 seconds to complete one round, and Chetan takes 420 seconds to complete one round, after how much time will they meet for the first time at the starting point on the track?",
+      "questionHtml": "Arvind and Chetan started running simultaneously from the same point in the same direction on a circular track of length 210 m. If Arvind takes 180 seconds to complete one round, and Chetan takes 420 seconds to complete one round, after how much time will they meet for the first time at the starting point on the track?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 minutes",
+          "html": "10 minutes"
+        },
+        {
+          "id": "B",
+          "text": "15 minutes",
+          "html": "15 minutes"
+        },
+        {
+          "id": "C",
+          "text": "21 minutes",
+          "html": "21 minutes"
+        },
+        {
+          "id": "D",
+          "text": "28 minutes",
+          "html": "28 minutes"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Prime factorization: 180 = 2<sup>2</sup> × 3<sup>2</sup> × 5, 420 = 2<sup>2</sup> × 3 × 5 × 7</p>\n\n<p>LCM = 2<sup>2</sup> × 3<sup>2</sup> × 5 × 7 = 1260 seconds</p>\n\n<p>Convert 1260 seconds to minutes: 1260 / 60 = 21 minutes.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q5",
+      "number": 5,
+      "question": "Study the table and answer the question that follows. The below table gives shares traded on Hyderabad, Mumbai, and Bengaluru stock exchanges (in ₹). same company, in the stock exchange(s) at _____. Name of Company Hyderabad High Hyderabad Low Mumbai High Mumbai Low Bengaluru High Bengaluru Low A 150 140 180 165 160 155 B 250 225 325 315 300 290 C 180 175 195 180 190 185 D 350 325 410 395 390 375 \"For C, the low rates of shares are less than the average of the low rates of shares of the same company, in the stock exchange(s) at ____.\"",
+      "questionHtml": "<p><strong>Study the table and answer the question that follows.</strong></p>\n\n<p>The below table gives shares traded on Hyderabad, Mumbai, and Bengaluru stock exchanges (in ₹).&nbsp;same company, in the stock exchange(s) at _____.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Name of Company</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Hyderabad High</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Hyderabad Low</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Mumbai High</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Mumbai Low</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Bengaluru High</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Bengaluru Low</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">A</td>\n\t\t\t<td style=\"text-align: center;\">150</td>\n\t\t\t<td style=\"text-align: center;\">140</td>\n\t\t\t<td style=\"text-align: center;\">180</td>\n\t\t\t<td style=\"text-align: center;\">165</td>\n\t\t\t<td style=\"text-align: center;\">160</td>\n\t\t\t<td style=\"text-align: center;\">155</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">B</td>\n\t\t\t<td style=\"text-align: center;\">250</td>\n\t\t\t<td style=\"text-align: center;\">225</td>\n\t\t\t<td style=\"text-align: center;\">325</td>\n\t\t\t<td style=\"text-align: center;\">315</td>\n\t\t\t<td style=\"text-align: center;\">300</td>\n\t\t\t<td style=\"text-align: center;\">290</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">C</td>\n\t\t\t<td style=\"text-align: center;\">180</td>\n\t\t\t<td style=\"text-align: center;\">175</td>\n\t\t\t<td style=\"text-align: center;\">195</td>\n\t\t\t<td style=\"text-align: center;\">180</td>\n\t\t\t<td style=\"text-align: center;\">190</td>\n\t\t\t<td style=\"text-align: center;\">185</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">D</td>\n\t\t\t<td style=\"text-align: center;\">350</td>\n\t\t\t<td style=\"text-align: center;\">325</td>\n\t\t\t<td style=\"text-align: center;\">410</td>\n\t\t\t<td style=\"text-align: center;\">395</td>\n\t\t\t<td style=\"text-align: center;\">390</td>\n\t\t\t<td style=\"text-align: center;\">375</td>\n\t\t</tr>\n\t</tbody>\n</table>\n&nbsp;\n\n<div>\n<div data-message-author-role=\"assistant\" data-message-id=\"ded9b9ac-944a-4558-b718-4eeb58b19aec\" data-message-model-slug=\"gpt-4o\" dir=\"auto\">\n<div>\n<div>\n<p>&quot;For C, the low rates of shares are less than the average of the low rates of shares of the same company, in the stock exchange(s) at ____.&quot;</p>\n</div>\n</div>\n</div>\n</div>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mumbai",
+          "html": "Mumbai"
+        },
+        {
+          "id": "B",
+          "text": "Bengaluru",
+          "html": "Bengaluru"
+        },
+        {
+          "id": "C",
+          "text": "Hyderabad",
+          "html": "Hyderabad"
+        },
+        {
+          "id": "D",
+          "text": "Hyderabad and Mumbai",
+          "html": "Hyderabad and Mumbai"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Low rates: Hyderabad = 175, Mumbai = 180, Bengaluru = 185.</p>\n\n<p>Average = (175 + 180 + 185) / 3 = 540 / 3 = 180.</p>\n\n<p>Hyderabad Low: 175 (less than 180).</p>\n\n<p>Mumbai Low: 180 (equal to 180).</p>\n\n<p>Bengaluru Low: 185 (greater than 180).</p>\n\n<p><strong>The low rates of shares for company C are less than the average in the Hyderabad stock exchange.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q6",
+      "number": 6,
+      "question": "If P is a digit such that 6954P is divisible by 11, then P equals:",
+      "questionHtml": "If P is a digit such that 6954P is divisible by 11, then P equals:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "B",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "D",
+          "text": "7",
+          "html": "7"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>A number is divisible by 11 if the difference between the sum of the digits in odd positions and the sum of the digits in even positions is either 0 or a multiple of 11.</p>\n\n<p>Sum of digits at odd positions = 6 + 5 + P = 11 + P</p>\n\n<p>Sum of digits at even positions = 9 + 4 = 13</p>\n\n<p>For 6954P to be divisible by 11:</p>\n\n<p>11 + P - 13 = 0 or multiple of 11</p>\n\n<p>⇒ P = 2</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q7",
+      "number": 7,
+      "question": "In a bank, 6% interest is given on the deposited amount. The bank then invests the money in the stock market and is able to earn ₹30,000 for every ₹3,00,000. How much money is the bank earning finally if the total amount deposited in the bank is ₹60,00,000?",
+      "questionHtml": "In a bank, 6% interest is given on the deposited amount. The bank then invests the money in the stock market and is able to earn ₹30,000 for every ₹3,00,000. How much money is the bank earning finally if the total amount deposited in the bank is ₹60,00,000?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹3,00,000",
+          "html": "₹3,00,000"
+        },
+        {
+          "id": "B",
+          "text": "₹6,40,000",
+          "html": "₹6,40,000"
+        },
+        {
+          "id": "C",
+          "text": "₹2,40,000",
+          "html": "₹2,40,000"
+        },
+        {
+          "id": "D",
+          "text": "₹3,60,000",
+          "html": "₹3,60,000"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Interest earned by the depositors:</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ ₹60,00,000 × 0.06</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ ₹3,60,000</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Profit earned from the stock market:</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ (₹60,00,000 / ₹3,00,000) × ₹30,000</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ ₹6,00,000</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total earning of the bank:</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ ₹6,00,000 - ₹3,60,000</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ ₹2,40,000</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q8",
+      "number": 8,
+      "question": "The following table shows the expenditure of a factory (in ₹ lakh) per annum on different heads over the given years. Year/Expenditure Head Salary Transport Bonus Loan Interest 1998 125 38 8 25 1999 135 45 18 37 2000 149 57 37 39 2001 153 63 50 43 What was the average expenditure (in ₹ lakh) on transport per year that the factory had to pay during the given period?",
+      "questionHtml": "The following table shows the expenditure of a factory (in ₹ lakh) per annum on different heads over the given years.\n<table border=\"1\" style=\"width:330px;\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Year/Expenditure Head</th>\n\t\t\t<th>Salary</th>\n\t\t\t<th>Transport</th>\n\t\t\t<th>Bonus</th>\n\t\t\t<th>Loan Interest</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1998</td>\n\t\t\t<td>125</td>\n\t\t\t<td>38</td>\n\t\t\t<td>8</td>\n\t\t\t<td>25</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1999</td>\n\t\t\t<td>135</td>\n\t\t\t<td>45</td>\n\t\t\t<td>18</td>\n\t\t\t<td>37</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2000</td>\n\t\t\t<td>149</td>\n\t\t\t<td>57</td>\n\t\t\t<td>37</td>\n\t\t\t<td>39</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2001</td>\n\t\t\t<td>153</td>\n\t\t\t<td>63</td>\n\t\t\t<td>50</td>\n\t\t\t<td>43</td>\n\t\t</tr>\n\t</tbody>\n</table>\n<br />\nWhat was the average expenditure (in ₹ lakh) on transport per year that the factory had to pay during the given period?<br />\n&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "56.63",
+          "html": "56.63"
+        },
+        {
+          "id": "B",
+          "text": "48.75",
+          "html": "48.75"
+        },
+        {
+          "id": "C",
+          "text": "50.75",
+          "html": "50.75"
+        },
+        {
+          "id": "D",
+          "text": "45.58",
+          "html": "45.58"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Total transport expenditure = 38 + 45 + 57 + 63</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total = 203 ₹ lakh.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average expenditure = Total expenditure / Number of years</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average = 203 / 4</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average = 50.75 ₹ lakh.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q9",
+      "number": 9,
+      "question": "If cosec x = \\(\\frac{5}{4}\\) , then the vale of = \\(\\frac{5sin^{2}x + 8cot^{2}x}{27tan^{2}x - 125cos^{2}x}\\) is:",
+      "questionHtml": "If cosec x =&nbsp;<span class=\"math-tex\">\\(\\frac{5}{4}\\)</span>&nbsp;, then the vale of =&nbsp;<span class=\"math-tex\">\\(\\frac{5sin^{2}x + 8cot^{2}x}{27tan^{2}x - 125cos^{2}x}\\)</span>&nbsp; is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\quad \\frac{33}{91}\\)",
+          "html": "<span style=\"font-size:16px;\"><span class=\"math-tex\">\\(\\quad \\frac{33}{91}\\)</span></span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\quad \\frac{77}{30}\\)",
+          "html": "<span style=\"font-size:16px;\"><span class=\"math-tex\">\\(\\quad \\frac{77}{30}\\)</span></span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\quad \\frac{55}{87}\\)",
+          "html": "<span style=\"font-size:16px;\"><span class=\"math-tex\">\\(\\quad \\frac{55}{87}\\)</span></span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(​\\quad \\frac{99}{47}\\)",
+          "html": "<span style=\"font-size:16px;\"><span class=\"math-tex\">\\(​\\quad \\frac{99}{47}\\)</span></span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Given: cosec x = 5/4, so sin x = 4/5 and cos x = 3/5.</p>\n\n<p> </p>\n\n<p>cot x = 3/4, tan x = 4/3.</p>\n\n<p> </p>\n\n<p>Numerator: 5sin<sup>2</sup>x + 8cot<sup>2</sup>x = 5(16/25) + 8(9/16) = 77/10.</p>\n\n<p> </p>\n\n<p>Denominator: 27tan<sup>2</sup>x - 125cos<sup>2</sup>x = 27(16/9) - 125(9/25) = 3.</p>\n\n<p> </p>\n\n<p>Value: (77/10) / 3 = 77/30.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q10",
+      "number": 10,
+      "question": "42 litres of milk at ₹25 per litre is mixed with 28 litres of milk at ₹40 per litre. Find the average price of the mixture.",
+      "questionHtml": "42 litres of milk at ₹25 per litre is mixed with 28 litres of milk at ₹40 per litre. Find the average price of the mixture.",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹31.5",
+          "html": "₹31.5"
+        },
+        {
+          "id": "B",
+          "text": "₹32.5",
+          "html": "₹32.5"
+        },
+        {
+          "id": "C",
+          "text": "₹32",
+          "html": "₹32"
+        },
+        {
+          "id": "D",
+          "text": "₹31",
+          "html": "₹31"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Total cost of 42 litres of milk = 42 × 25</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total cost of 28 litres of milk = 28 × 40</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total cost of milk = (42 × 25) + (28 × 40) = 2170</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total quantity of milk = 42 + 28 = 70</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average price of the mixture = 2170 / 70</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average price of the mixture = 31</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q11",
+      "number": 11,
+      "question": "In triangle ABC, D is the mid-point of BC. If DL perpendicular to AB and DM perpendicular to AC such that DL = DM, then the triangle will be:",
+      "questionHtml": "In triangle ABC, D is the mid-point of BC. If DL perpendicular to AB and DM perpendicular to AC such that DL = DM, then the triangle will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "isosceles triangle",
+          "html": "isosceles triangle"
+        },
+        {
+          "id": "B",
+          "text": "right angled triangle",
+          "html": "right angled triangle"
+        },
+        {
+          "id": "C",
+          "text": "obtuse angle triangle",
+          "html": "obtuse angle triangle"
+        },
+        {
+          "id": "D",
+          "text": "equilateral triangle",
+          "html": "equilateral triangle"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">In a triangle, if the perpendiculars drawn from the mid-point of one side to the other two sides are equal, then the triangle is isosceles.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Given DL = DM and D is the mid-point of BC, it implies that triangle ABD is congruent to triangle ACD by RHS (Right angle-Hypotenuse-Side) congruence.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Since triangle ABD ≅ triangle ACD, it implies that AB = AC.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Hence, triangle ABC is an isosceles triangle.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q12",
+      "number": 12,
+      "question": "The marked price of a TV set is ₹18,500. If the dealer allows two successive discounts of 20% and 5%, for how much is the TV available?",
+      "questionHtml": "The marked price of a TV set is ₹18,500. If the dealer allows two successive discounts of 20% and 5%, for how much is the TV available?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹14,000",
+          "html": "₹14,000"
+        },
+        {
+          "id": "B",
+          "text": "₹15,000",
+          "html": "₹15,000"
+        },
+        {
+          "id": "C",
+          "text": "₹15,060",
+          "html": "₹15,060"
+        },
+        {
+          "id": "D",
+          "text": "₹14,060",
+          "html": "₹14,060"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">First discount = 20% of ₹18,500</p>\n\n<p style=\"color: rgb(33, 37, 41);\">First discounted price = ₹18,500 × (1 - 20/100)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ First discounted price = ₹14,800</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Second discount = 5% of ₹14,800</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Second discounted price = ₹14,800 × (1 - 5/100)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ Second discounted price = ₹14,060</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q13",
+      "number": 13,
+      "question": "Ajay spends 66 \\(\\frac{2}{3}\\) % of his income on different household items. If his income increases by 25% and expenditure increase by 20%, then the effect on his savings will be:",
+      "questionHtml": "Ajay spends 66<span class=\"math-tex\">\\(\\frac{2}{3}\\)</span>% of his income on different household items. If his income increases by 25% and expenditure increase by 20%, then the effect on his savings will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "28%",
+          "html": "28%"
+        },
+        {
+          "id": "B",
+          "text": "61%",
+          "html": "61%"
+        },
+        {
+          "id": "C",
+          "text": "49%",
+          "html": "49%"
+        },
+        {
+          "id": "D",
+          "text": "35%",
+          "html": "35%"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p> </p>\n\n<p>Initial income = 100, Initial expenditure = 66.67, Initial savings = 33.33</p>\n\n<p> </p>\n\n<p>New income = 100 × 1.25 = 125, New expenditure = 66.67 × 1.20 = 80, New savings = 125 - 80 = 45</p>\n\n<p> </p>\n\n<p>Effect on savings = 45 - 33.33 = 11.67, Effect in % = (11.67 / 33.33) × 100 = 35%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q14",
+      "number": 14,
+      "question": "A function of two variable varies directly with x and inversely with y. Determine function when x = 5 and y = 3. Given that, for x = 0 and y = 1, f = 15 and for x = 1 and y = 15, f = 2.",
+      "questionHtml": "<div><span style=\"\">A function of two variable varies directly with x and inversely with y. Determine function when x = 5 and y = 3. Given that, for x = 0 and y = 1, f = 15 and for x = 1 and y = 15, f = 2.</span></div>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "10",
+          "html": "<div><span style=\"\">10</span></div>\n"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "<div style=\"color:  (33, 37, 41);\">2</div>\n"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "<div style=\"color:  (33, 37, 41);\">5</div>\n"
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "html": "<span style=\"color:  (33, 37, 41);\">15</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">When x = 0 and y = 1, f = 15:</span></p>\n\n<p>15 = k × (0 / 1)</p>\n\n<p> </p>\n\n<p>2 = k × (1 / 15),k = 30</p>\n\n<p> </p>\n\n<p>f = 30 × (5 / 3)</p>\n\n<p>f = 50</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q15",
+      "number": 15,
+      "question": "In how many years will ₹7,200 amount to ₹8,928 at a simple interest rate of 8% per annum?",
+      "questionHtml": "In how many years will ₹7,200 amount to ₹8,928 at a simple interest rate of 8% per annum?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Four",
+          "html": "Four"
+        },
+        {
+          "id": "B",
+          "text": "Three",
+          "html": "Three"
+        },
+        {
+          "id": "C",
+          "text": "Two",
+          "html": "Two"
+        },
+        {
+          "id": "D",
+          "text": "Five",
+          "html": "Five"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Given: P = ₹7,200, A = ₹8,928, R = 8% p.a.</p>\n\n<p> </p>\n\n<p>SI = A - P = ₹8,928 - ₹7,200 = ₹1,728</p>\n\n<p> </p>\n\n<p>SI = P × R × T / 100</p>\n\n<p> </p>\n\n<p>1,728 = 7,200 × 8 × T / 100</p>\n\n<p> </p>\n\n<p>T = 1,728 / 576 = 3 years</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q16",
+      "number": 16,
+      "question": "If \\(\\tan(A) = \\frac{3}{5}, then \\cos(A) \\) is equal to:",
+      "questionHtml": "If&nbsp;<span class=\"math-tex\">\\(\\tan(A) = \\frac{3}{5}, then \\cos(A) \\)</span>&nbsp; is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\quad \\frac{5}{\\sqrt{34}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\quad \\frac{5}{\\sqrt{34}}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\quad \\frac{9}{\\sqrt{34}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\quad \\frac{9}{\\sqrt{34}}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\quad \\frac{3}{\\sqrt{34}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\quad \\frac{3}{\\sqrt{34}}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\quad \\frac{25}{\\sqrt{34}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\quad \\frac{25}{\\sqrt{34}}\\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Given: tan(A) = 3/5</p>\n\n<p> </p>\n\n<p>opposite = 3, adjacent = 5</p>\n\n<p> </p>\n\n<p>Hypotenuse<sup>2</sup> = 3<sup>2</sup> + 5<sup>2</sup> = 34</p>\n\n<p> </p>\n\n<p>Hypotenuse = √34</p>\n\n<p> </p>\n\n<p>cos(A) = 5/√34</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q17",
+      "number": 17,
+      "question": "The below table shows the sales of motorbikes of four manufacturers from 2016 to 2020 (All the figures are in thousands). Study the table and answer the question that follows. Manufacturer 2016 2017 2018 2019 2020 P 220 225 235 240 260 Q 280 290 310 310 330 R 350 375 385 390 400 S 400 420 430 440 450 Find the ratio of the total number of sales of the motorbikes of manufacturer Q to the total number of sales of the motorbikes of manufacturer S from 2016 to 2020.",
+      "questionHtml": "The below table shows the sales of motorbikes of four manufacturers from 2016 to 2020 (All the figures are in thousands). Study the table and answer the question that follows.\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Manufacturer</th>\n\t\t\t<th>2016</th>\n\t\t\t<th>2017</th>\n\t\t\t<th>2018</th>\n\t\t\t<th>2019</th>\n\t\t\t<th>2020</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>P</td>\n\t\t\t<td>220</td>\n\t\t\t<td>225</td>\n\t\t\t<td>235</td>\n\t\t\t<td>240</td>\n\t\t\t<td>260</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Q</td>\n\t\t\t<td>280</td>\n\t\t\t<td>290</td>\n\t\t\t<td>310</td>\n\t\t\t<td>310</td>\n\t\t\t<td>330</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>R</td>\n\t\t\t<td>350</td>\n\t\t\t<td>375</td>\n\t\t\t<td>385</td>\n\t\t\t<td>390</td>\n\t\t\t<td>400</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>S</td>\n\t\t\t<td>400</td>\n\t\t\t<td>420</td>\n\t\t\t<td>430</td>\n\t\t\t<td>440</td>\n\t\t\t<td>450</td>\n\t\t</tr>\n\t</tbody>\n</table>\nFind the ratio of the total number of sales of the motorbikes of manufacturer Q to the total number of sales of the motorbikes of manufacturer S from 2016 to 2020.<br />\n&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "72 : 105",
+          "html": "72 : 105"
+        },
+        {
+          "id": "B",
+          "text": "76 : 107",
+          "html": "76 : 107"
+        },
+        {
+          "id": "C",
+          "text": "74 : 103",
+          "html": "74 : 103"
+        },
+        {
+          "id": "D",
+          "text": "78 : 107",
+          "html": "78 : 107"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Calculations:</strong></p>\n\n<p><u>Step 1: Calculate the total sales of manufacturer Q:</u></p>\n\n<p>Total sales of Q = 280 + 290 + 310 + 310 + 330</p>\n\n<p>Total sales of Q = 1,520 thousand.</p>\n\n<p><u>Step 2: Calculate the total sales of manufacturer S:</u></p>\n\n<p>Total sales of S = 400 + 420 + 430 + 440 + 450</p>\n\n<p>Total sales of S = 2,140 thousand.</p>\n\n<p><u>Step 3: Find the ratio:</u></p>\n\n<p>Ratio = Total sales of Q : Total sales of S</p>\n\n<p>Ratio = 1,520 : 2,140</p>\n\n<p>Divide both terms by 20:</p>\n\n<p>Ratio = 76 : 107.</p>\n\n<p><strong>The ratio of the total sales of manufacturer Q to manufacturer S is 76:107.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q18",
+      "number": 18,
+      "question": "If sin &theta; + cos &theta; = \\( \\sqrt{3}\\) cos &theta;, then the value of cot &theta; is:",
+      "questionHtml": "If sin &theta; + cos &theta; =&nbsp;<span class=\"math-tex\">\\( \\sqrt{3}\\)</span><span class=\"math/tex\">&nbsp;cos &theta;, then the value of cot &theta; is:</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\quad \\sqrt{3} - 1\\)",
+          "html": "<span class=\"math-tex\">\\(\\quad \\sqrt{3} - 1\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\quad \\frac{\\sqrt{3} + 1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\quad \\frac{\\sqrt{3} + 1}{2}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\quad \\frac{\\sqrt{3} - 1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\quad \\frac{\\sqrt{3} - 1}{2}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\quad \\sqrt{3} + 1\\)",
+          "html": "<span class=\"math-tex\">\\(\\quad \\sqrt{3} + 1\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>sin θ + cos θ = √3 cos θ</p>\n\n<p>sin θ = cos θ (√3 - 1)</p>\n\n<p>cot θ = cos θ / [cos θ (√3 - 1)]</p>\n\n<p>cot θ = 1 / (√3 - 1)</p>\n\n<p>cot θ = 1 / (√3 - 1) × (√3 + 1) / (√3 + 1)</p>\n\n<p>cot θ = (√3 + 1) / 2</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q19",
+      "number": 19,
+      "question": "Simplify: \\(-\\frac{7}{6} + \\frac{4}{9} \\div \\frac{5}{3} \\times \\frac{1}{16}\\)",
+      "questionHtml": "<p>Simplify:</p>\n\n<p><span style=\"font-size:16px;\"><span class=\"math-tex\">\\(-\\frac{7}{6} + \\frac{4}{9} \\div \\frac{5}{3} \\times \\frac{1}{16}\\)</span></span></p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(-\\frac{23}{20}\\)",
+          "html": "<span class=\"math-tex\">\\(-\\frac{23}{20}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(-\\frac{23}{18}\\)",
+          "html": "<span class=\"math-tex\">\\(-\\frac{23}{18}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(-\\frac{20}{23}\\)",
+          "html": "<span class=\"math-tex\">\\(-\\frac{20}{23}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(-\\frac{18}{23}\\)",
+          "html": "<span class=\"math-tex\">\\(-\\frac{18}{23}\\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Simplify: -7/6 + (4/9 ÷ 5/3 × 1/16),</p>\n\n<p>Step 1: (4/9 ÷ 5/3) = 4/9 × 3/5 = 4/15, 4/15 × 1/16 = 1/60</p>\n\n<p>Step 2: -7/6 = -70/60, -70/60 + 1/60 = -69/60</p>\n\n<p>Step 3: -69/60 = -23/20.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q20",
+      "number": 20,
+      "question": "A circular arc makes an angle of 15&deg; at the centre. If the radius of the circular arc is 14 cm, what is the perimeter (correct up to two decimal places) of the sector so formed? (&pi; = 3.14)?",
+      "questionHtml": "A circular arc makes an angle of 15&deg; at the centre. If the radius of the circular arc is 14 cm, what is the perimeter (correct up to two decimal places) of the sector so formed? (&pi; = 3.14)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "17.66 cm",
+          "html": "17.66 cm"
+        },
+        {
+          "id": "B",
+          "text": "21.32 cm",
+          "html": "21.32 cm"
+        },
+        {
+          "id": "C",
+          "text": "35.32 cm",
+          "html": "35.32 cm"
+        },
+        {
+          "id": "D",
+          "text": "31.66 cm",
+          "html": "31.66 cm"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Given: θ = 15º, r = 14 cm, π = 3.14</p>\n\n<p> </p>\n\n<p>θ (radians) = 15 × (π / 180)</p>\n\n<p>= 15 × (3.14 / 180) = 0.2618</p>\n\n<p> </p>\n\n<p>Perimeter = 2r + rθ = 2 × 14 + 14 × 0.2618</p>\n\n<p>= 28 + 3.6652 = 31.6652 cm ≈ 31.66 cm</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q21",
+      "number": 21,
+      "question": "When f(m) = m 5 + 5m 4 - 3m + 7 is divided by (m - 2), then the remainder is _____.",
+      "questionHtml": "When f(m) = m<sup>5&nbsp;</sup>+ 5m<sup>4</sup> - 3m + 7 is divided by (m - 2), then the remainder is _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "7",
+          "html": "7"
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "D",
+          "text": "113",
+          "html": "113"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">We need to find the remainder when f(m) is divided by (m - 2)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Substitute m = 2 in f(m)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">f(2) = 2<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">5</span> + 5(2<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">4</span>) - 3(2) + 7</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ f(2) = 32 + 5(16) - 6 + 7</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ f(2) = 32 + 80 - 6 + 7</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ f(2) = 113</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q22",
+      "number": 22,
+      "question": "There are y yellow marbles and b blue marbles in a box. 18% of the yellow marbles were added to 24% of the blue marbles, and the total was 30. Three times the number of yellow marbles exceeds two times the number of blue marbles by 200. What is the ratio of y 2 to b 2 ?",
+      "questionHtml": "There are y yellow marbles and b blue marbles in a box. 18% of the yellow marbles were added to 24% of the blue marbles, and the total was 30. Three times the number of yellow marbles exceeds two times the number of blue marbles by 200. What is the ratio of y<sup>2</sup> to b<sup>2&nbsp;</sup>?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 : 5",
+          "html": "6 : 5"
+        },
+        {
+          "id": "B",
+          "text": "4 : 1",
+          "html": "4 : 1"
+        },
+        {
+          "id": "C",
+          "text": "2 : 1",
+          "html": "2 : 1"
+        },
+        {
+          "id": "D",
+          "text": "5 : 2",
+          "html": "5 : 2"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>From the first equation: 0.18y + 0.24b = 30</p>\n\n<p>Multiplying both sides by 100:</p>\n\n<p>18y + 24b = 3000</p>\n\n<p>Dividing both sides by 6:</p>\n\n<p>⇒ 3y + 4b = 500</p>\n\n<p>From the second equation: 3y - 2b = 200</p>\n\n<p>Now, we have the system of equations:</p>\n\n<p>1) 3y + 4b = 500</p>\n\n<p>2) 3y - 2b = 200</p>\n\n<p>Subtracting equation 2 from equation 1:</p>\n\n<p>(3y + 4b) - (3y - 2b) = 500 - 200</p>\n\n<p>⇒ b = 50</p>\n\n<p>Substituting b = 50 into equation 2:</p>\n\n<p>3y - 2(50) = 200</p>\n\n<p>⇒ y = 100</p>\n\n<p>The ratio of y<sup>2</sup> to b<sup>2</sup> :</p>\n\n<p>⇒ <span class=\"math-tex\">\\(\\frac{y^2}{b^2} = \\frac{100^2}{50^2}\\)</span></p>\n\n<p>⇒ 4 : 1</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q23",
+      "number": 23,
+      "question": "If a triangle has a perimeter of 52 units, then all its sides have length ________ units.",
+      "questionHtml": "If a triangle has a perimeter of 52 units, then all its sides have length ________ units.",
+      "options": [
+        {
+          "id": "A",
+          "text": "< 26",
+          "html": "<div><span style=\"\">&lt; 26&nbsp;</span></div>\n"
+        },
+        {
+          "id": "B",
+          "text": "< 20",
+          "html": "<div style=\"color:  (33, 37, 41);\">&lt; 20</div>\n"
+        },
+        {
+          "id": "C",
+          "text": "< 24",
+          "html": "<div style=\"color:  (33, 37, 41);\">&lt; 24</div>\n"
+        },
+        {
+          "id": "D",
+          "text": "< 18",
+          "html": "<span style=\"color:  (33, 37, 41);\">&lt; 18</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "Given: Perimeter = 52 units.\n<p> </p>\nUse triangle inequality: a + b > c.\n\n<p> </p>\na + b + c = 52.\n\n<p> </p>\na + b = 52 - c.\n\n<p> </p>\nThus, 52 - c > c.\n\n<p> </p>\nSolve for c: 52 > 2c.\n\n<p> </p>\nc < 26.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q24",
+      "number": 24,
+      "question": "The following bar graph shows the number of students who passed the exam of GATE in the given years. What was the percentage increase in the number of students in 2019 over 2018 (rounded off to two decimal places)?",
+      "questionHtml": "The following bar graph shows the number of students who passed the exam of GATE in the given years.<br />\n<br />\nWhat was the percentage increase in the number of students in 2019 over 2018 (rounded off to two decimal places)?<br />\n<img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/24/12/F1_Priyas_SSC_18_12_24_D34.png\" style=\"width: 522px; height: 307px;\" />",
+      "options": [
+        {
+          "id": "A",
+          "text": "35.79%",
+          "html": "35.79%"
+        },
+        {
+          "id": "B",
+          "text": "29.52%",
+          "html": "29.52%"
+        },
+        {
+          "id": "C",
+          "text": "28.57%",
+          "html": "28.57%"
+        },
+        {
+          "id": "D",
+          "text": "32.25%",
+          "html": "32.25%"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Percentage Increase = ((Increase in Value) / (Original Value)) × 100</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Increase = 2019 value - 2018 value</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Increase = 180 - 140 = 40.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Percentage Increase = (40 / 140) × 100</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Percentage Increase = 4000 / 140 = 28.57 (rounded off to two decimal places).</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/24/12/F1_Priyas_SSC_18_12_24_D34.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5113aa05eb8e-q25",
+      "number": 25,
+      "question": "Two pipes can fill a tank in 12 hours and 18 hours, respectively, while a third pipe can empty it in 8 hours. How long (in hours) will it take to fill the empty tank if all three pipes are opened simultaneously?",
+      "questionHtml": "Two pipes can fill a tank in 12 hours and 18 hours, respectively, while a third pipe can empty it in 8 hours. How long (in hours) will it take to fill the empty tank if all three pipes are opened simultaneously?",
+      "options": [
+        {
+          "id": "A",
+          "text": "48",
+          "html": "48"
+        },
+        {
+          "id": "B",
+          "text": "24",
+          "html": "24"
+        },
+        {
+          "id": "C",
+          "text": "36",
+          "html": "36"
+        },
+        {
+          "id": "D",
+          "text": "72",
+          "html": "72"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Part filled by 1st pipe in 1 hour = 1/12</p>\n\n<p>Part filled by 2nd pipe in 1 hour = 1/18</p>\n\n<p>Part emptied by 3rd pipe in 1 hour = 1/8</p>\n\n<p>Net part filled in 1 hour = (1/12) + (1/18) - (1/8)</p>\n\n<p>LCM of 12, 18, and 8 = 72</p>\n\n<p>1/12 = 6/72, 1/18 = 4/72, 1/8 = 9/72</p>\n\n<p>Net part filled = (6 + 4 - 9)/72 = 1/72</p>\nTime = 1 / (1/72) = 72 hours",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

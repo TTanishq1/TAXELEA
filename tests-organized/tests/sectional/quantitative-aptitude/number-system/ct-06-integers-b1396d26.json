@@ -1,0 +1,399 @@
+{
+  "id": "b1396d268a8d",
+  "provider": "Testbook",
+  "sourceFile": "CT 06_ Integers.html",
+  "sourcePath": "Testbook/files/CT 06_ Integers.html",
+  "title": "CT 06: Integers",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 2,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "b1396d268a8d-q1",
+      "number": 1,
+      "question": "The largest integer between -7 and 0 is:",
+      "questionHtml": "The largest integer between -7 and 0 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-6",
+          "html": "-6"
+        },
+        {
+          "id": "B",
+          "text": "-1",
+          "html": "-1"
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "6"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>On a <strong>number line</strong>, values increase as we move from <strong>left to right</strong>.</p>\n<p>The integers <strong>between</strong> −7 and 0 are −6, −5, −4, −3, −2, and −1.</p>\n<p>Among negative numbers, the one with the <strong>smallest absolute value</strong> is the <strong>largest integer</strong>.</p>\n<p>Since −1 is the rightmost integer before 0, it is the <strong>largest</strong>.</p>\n<p><strong>∴ The correct answer is −1.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> A range of integers strictly <strong>between</strong> −7 and 0.</p>\n<p><strong>Definition:</strong> The word <strong>between</strong> implies that the endpoints (−7 and 0) are <strong>excluded</strong> from the set.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_ce843d79.png/1782885400.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p>⇒ Set of integers = {x | x ∈ Z, −7 < x < 0}</p>\n<p>⇒ Possible integers = {−6, −5, −4, −3, −2, −1}</p>\n<p>⇒ Comparing values: −6 < −5 < −4 < −3 < −2 < −1</p>\n<p>⇒ Therefore, the <strong>largest integer</strong> in this set is −1.</p>\n<p><strong>∴ The correct answer is −1.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Comparison of Negative Integers</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">For any two positive integers a and b, if a > b, then −a < −b. For example, 7 > 1, so −7 < −1.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Integers and Zero</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Zero is <strong>greater</strong> than every negative integer and <strong>smaller</strong> than every positive integer. It is neither positive nor negative.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Predecessor and Successor</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The <strong>successor</strong> of an integer is found by adding 1 (n + 1). The successor of −2 is −1, which is larger than −2.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_ce843d79.png/1782885400.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b1396d268a8d-q2",
+      "number": 2,
+      "question": "Find all the pairs of consecutive even positive integers, both of which are larger than 10, such that their sum is less than 30.",
+      "questionHtml": "Find all the pairs of consecutive even positive integers, both of which are larger than 10, such that their sum is less than 30.",
+      "options": [
+        {
+          "id": "A",
+          "text": "(12, 14), (14, 16), (16, 18), (18, 20)",
+          "html": "(12, 14), (14, 16),&nbsp;(16, 18), (18, 20)"
+        },
+        {
+          "id": "B",
+          "text": "(12, 14)",
+          "html": "(12, 14)"
+        },
+        {
+          "id": "C",
+          "text": "(16, 18), (18, 20)",
+          "html": "(16, 18), (18, 20)"
+        },
+        {
+          "id": "D",
+          "text": "(14, 16)",
+          "html": "(14, 16)"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Let the <strong>consecutive even integers</strong> be x and x + 2.</p>\n<p>Constraints: x > 10 and (x) + (x + 2) < 30.</p>\n<p>Solving the <strong>inequality</strong>: 2x + 2 < 30 ⇒ 2x < 28 ⇒ x < 14.</p>\n<p>Since x is an <strong>even integer</strong> and 10 < x < 14, the only possible value is x = 12.</p>\n<p>The pair is (12, 12 + 2) = (12, 14).</p>\n<p><strong>∴ The correct answer is (12, 14).</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Both <strong>even positive integers</strong> are larger than 10, and their sum is less than 30.</p>\n<p><strong>Formula Used:</strong> Sum of consecutive even integers = x + (x + 2)</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_ebbff970.png/1782885426.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p>Let the two <strong>consecutive even positive integers</strong> be x and x + 2.</p>\n<p>⇒ According to the first condition: x > 10 and x + 2 > 10.</p>\n<p>⇒ According to the second condition: x + (x + 2) < 30.</p>\n<p>⇒ 2x + 2 < 30</p>\n<p>⇒ 2x < 28</p>\n<p>⇒ x < 14</p>\n<p>⇒ From the constraints, we have 10 < x < 14.</p>\n<p>⇒ Since x must be an <strong>even integer</strong>, the only value is x = 12.</p>\n<p>⇒ The pair is (12, 12 + 2) = (12, 14).</p>\n<p><strong>∴ The correct answer is (12, 14).</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Consecutive Even Integers</p>\n<p style='margin:0 0 8px 0;color:#444444;'>These are even numbers that follow one another in order, differ by 2, and can be represented as 2n and 2n + 2.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Linear Inequalities</p>\n<p style='margin:0 0 8px 0;color:#444444;'>An inequality such as ax + b < c is solved similarly to equations, but the sign flips if multiplied or divided by a negative number.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Number Sets</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Positive integers are the set {1, 2, 3, ...}. Even integers are numbers exactly divisible by 2.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_ebbff970.png/1782885426.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b1396d268a8d-q3",
+      "number": 3,
+      "question": "Find the largest number that will exactly divide the product of three consecutive integers.",
+      "questionHtml": "Find the largest number that will exactly divide the product of three consecutive integers.",
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "D",
+          "text": "9",
+          "html": "9"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>The product of <strong>n consecutive integers</strong> is always divisible by <strong>n!</strong> (n factorial).</p>\n<p>In this question, we have <strong>3 consecutive integers</strong>, so n = 3.</p>\n<p>The product is divisible by 3! = 3 × 2 × 1 = 6.</p>\n<p>Example: 1 × 2 × 3 = 6; 2 × 3 × 4 = 24 (both divisible by 6).</p>\n<p><strong>∴ The correct answer is 6.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Three consecutive integers.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_d7afba46.png/1782885401.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p>Let the three consecutive integers be <strong>n, (n + 1), and (n + 2)</strong>.</p>\n<p>⇒ In any three consecutive integers, exactly one number must be a <strong>multiple of 3</strong>.</p>\n<p>⇒ Among any two (or more) consecutive integers, at least one number must be <strong>even</strong> (a multiple of 2).</p>\n<p>⇒ Therefore, the product P = n × (n + 1) × (n + 2) must be divisible by both 2 and 3.</p>\n<p>⇒ Divisibility by 2 and 3 implies divisibility by <strong>LCM(2, 3) = 6</strong>.</p>\n<p>⇒ Testing with the smallest set of positive integers: 1 × 2 × 3 = 6.</p>\n<p>⇒ Testing with another set: 4 × 5 × 6 = 120 (which is also divisible by 6).</p>\n<p><strong>∴ The correct answer is 6.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>General Divisibility Rule</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The product of <strong>k</strong> consecutive integers is always divisible by <strong>k!</strong> (k factorial). For example, the product of 4 consecutive integers is always divisible by 24 (4 × 3 × 2 × 1).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Divisibility of Even/Odd Products</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The product of <strong>two consecutive even</strong> integers is always divisible by 8 (e.g., 2 × 4 = 8, 4 × 6 = 24).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Sum of Consecutive Integers</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The sum of <strong>n</strong> consecutive integers is divisible by <strong>n</strong> if n is odd, but not necessarily if n is even.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_d7afba46.png/1782885401.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b1396d268a8d-q4",
+      "number": 4,
+      "question": "The expression given below refers to which of the following property of an integer? a &times; (b + c) = a &times; b + a &times; c",
+      "questionHtml": "<p>The expression given below refers to which of the following property of an integer?</p>\n\n<p>a&nbsp;&times; (b + c) = a&nbsp;&times; b + a&nbsp;&times; c</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "Commutative Property",
+          "html": "Commutative&nbsp;Property"
+        },
+        {
+          "id": "B",
+          "text": "Associative Property",
+          "html": "Associative&nbsp;Property"
+        },
+        {
+          "id": "C",
+          "text": "Distributive property",
+          "html": "Distributive property"
+        },
+        {
+          "id": "D",
+          "text": "Multiplicative identity",
+          "html": "Multiplicative identity"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>The <strong>Distributive property</strong> allows a multiplier to be distributed to each term inside a parenthesis.</p>\n<p>Mathematically: a × (b + c) = (a × b) + (a × c).</p>\n<p>This is the only property where <strong>multiplication</strong> is distributed over <strong>addition</strong>.</p>\n<p><strong>∴ The correct answer is Distributive property.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> a × (b + c) = a × b + a × c</p>\n<p><strong>Formula Used:</strong> Properties of <strong>Integers</strong></p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_1331be83.png/1782885381.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p>⇒ Let <strong>a</strong>, <strong>b</strong>, and <strong>c</strong> be any three <strong>integers</strong>.</p>\n<p>⇒ The expression a × (b + c) indicates that the <strong>multiplier a</strong> is applied to both <strong>b</strong> and <strong>c</strong> separately.</p>\n<p>⇒ This demonstrates the <strong>Distributive property</strong> of multiplication over addition.</p>\n<p>⇒ Examples of other properties include <strong>Commutative</strong> (a × b = b × a) and <strong>Associative</strong> (a × (b × c) = (a × b) × c).</p>\n<p><strong>∴ The correct answer is Distributive property.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Commutative Property</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The order of numbers does not change the result in addition or multiplication: a + b = b + a and a × b = b × a.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Associative Property</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The grouping of numbers does not change the result: (a + b) + c = a + (b + c) and (a × b) × c = a × (b × c).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Multiplicative Identity</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Multiplying any integer by 1 leaves the integer unchanged: a × 1 = a.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Additive Identity</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Adding 0 to any integer results in the same integer: a + 0 = a.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_1331be83.png/1782885381.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b1396d268a8d-q5",
+      "number": 5,
+      "question": "Find the smallest integer who is greater than 1 which is simultaneously a square and a cube of certain numbers.",
+      "questionHtml": "Find the smallest integer who is greater than 1 which is simultaneously a square and a cube of certain numbers.",
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "B",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "C",
+          "text": "36",
+          "html": "36"
+        },
+        {
+          "id": "D",
+          "text": "64",
+          "html": "64"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>8 = 2<sup>3</sup> but it is not a square of any integer. 9 = 3<sup>2</sup> but it is not a cube of any integer. 36 = 6<sup>2</sup> but it is not a cube of any integer and 64 = 4<sup>3</sup> = 8<sup>2</sup>. Hence, 64 is the correct answer.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b1396d268a8d-q6",
+      "number": 6,
+      "question": "Which of the following statements is not true?",
+      "questionHtml": "Which of the following statements is not true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Number 25 is a perfect square number",
+          "html": "Number 25 is a perfect square number"
+        },
+        {
+          "id": "B",
+          "text": "Number 38 is not perfect square number",
+          "html": "Number 38 is not perfect square number&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "The square of an odd number can always be written as sum of two consecutive positive integers",
+          "html": "The square of an odd number can always be written as sum of two consecutive positive integers&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "The square of an even number can always be written as sum of two consecutive positive integer",
+          "html": "The square of an even number can always be written as sum of two consecutive positive integer"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>The sum of any two <strong>consecutive positive integers</strong> (n + n + 1) is always an <strong>odd number</strong> (2n + 1).</p>\n<p>The square of an <strong>even number</strong> is always an <strong>even number</strong>.</p>\n<p>An <strong>even number</strong> can never be expressed as the sum of two <strong>consecutive integers</strong> because their sum is always <strong>odd</strong>.</p>\n<p>For example, 4<sup>2</sup> = 16. Consecutive sums near 16 are 7 + 8 = 15 and 8 + 9 = 17, but never 16.</p>\n<p><strong>∴ The correct answer is The square of an even number can always be written as sum of two consecutive positive integer.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Four mathematical statements regarding <strong>perfect squares</strong> and <strong>integers</strong>.</p>\n<p><strong>Formula Used:</strong> Sum of two consecutive integers = x + (x + 1) = 2x + 1.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_1dbd31bf.png/1782885429.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p>⇒ Statement 1: 5<sup>2</sup> = 25. Since 5 is an integer, 25 is a <strong>perfect square</strong>. (True)</p>\n<p>⇒ Statement 2: √36 = 6 and √49 = 7. Since there is no integer between 6 and 7, 38 is not a <strong>perfect square</strong>. (True)</p>\n<p>⇒ Statement 3: Square of an odd number (2k + 1)<sup>2</sup> = 4k<sup>2</sup> + 4k + 1. This can be split into (2k<sup>2</sup> + 2k) and (2k<sup>2</sup> + 2k + 1), which are <strong>consecutive integers</strong>. (True)</p>\n<p>⇒ Statement 4: Square of an even number (2k)<sup>2</sup> = 4k<sup>2</sup>, which is always <strong>even</strong>. Sum of consecutive integers x + (x + 1) = 2x + 1 is always <strong>odd</strong>. An <strong>even number</strong> can never equal an <strong>odd sum</strong>. (False)</p>\n<p><strong>∴ The correct answer is The square of an even number can always be written as sum of two consecutive positive integer.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Perfect Square Ending Digits</p>\n<p style='margin:0 0 8px 0;color:#444444;'>A perfect square in base 10 can only end in the digits <strong>0, 1, 4, 5, 6, or 9</strong>. Any number ending in 2, 3, 7, or 8 (like 38) cannot be a perfect square.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Sum of First n Odd Numbers</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The sum of the first 'n' consecutive odd numbers is always equal to <strong>n<sup>2</sup></strong>. For example, 1 + 3 + 5 = 9 = 3<sup>2</sup>.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Parity of Squares</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The square of an <strong>even number</strong> is always divisible by 4 (even), and the square of an <strong>odd number</strong> always leaves a remainder of 1 when divided by 8 (odd).</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_1dbd31bf.png/1782885429.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b1396d268a8d-q7",
+      "number": 7,
+      "question": "If m is the greatest integer which divides the product of any four consecutive integers, then m = _________.",
+      "questionHtml": "If m is the greatest integer which divides the product of any four consecutive integers, then m = _________.",
+      "options": [
+        {
+          "id": "A",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "B",
+          "text": "12",
+          "html": "12&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "24",
+          "html": "24"
+        },
+        {
+          "id": "D",
+          "text": "36",
+          "html": "36"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>The <strong>product of k consecutive integers</strong> is always divisible by <strong>k! (k factorial)</strong>.</p>\n<p>Here, the number of consecutive integers is <strong>k = 4</strong>.</p>\n<p>Therefore, the greatest integer <strong>m = 4!</strong></p>\n<p>m = 4 × 3 × 2 × 1 = 24.</p>\n<p><strong>∴ The correct answer is 24.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Four consecutive integers.</p>\n<p><strong>Formula Used:</strong> Product P = n(n + 1)(n + 2)(n + 3), where n is any integer.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_4170ae3d.png/1782885406.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p>⇒ In any four consecutive integers, one must be a <strong>multiple of 4</strong>.</p>\n<p>⇒ Among the remaining three, at least one must be a <strong>multiple of 3</strong>.</p>\n<p>⇒ Of the remaining two, at least one must be a <strong>multiple of 2</strong>.</p>\n<p>⇒ The product will always be divisible by 4 × 3 × 2 × 1.</p>\n<p>⇒ m = 24.</p>\n<p><strong>∴ The correct answer is 24.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Divisibility of Product of k Integers</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The product of any k consecutive integers is always divisible by <strong>k!</strong> (k factorial). For example, the product of 3 consecutive integers is always divisible by 3! = 6.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Binomial Property</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The expression n(n + 1)...(n + k − 1) / k! is equal to the binomial coefficient <sup>n+k-1</sup>C<sub>k</sub>, which is always an <strong>integer</strong> for all n ≥ 1.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Even and Odd Distribution</p>\n<p style='margin:0 0 8px 0;color:#444444;'>In any n consecutive integers, exactly one is divisible by n, and at least one is divisible by any integer d where d ≤ n.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_4170ae3d.png/1782885406.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b1396d268a8d-q8",
+      "number": 8,
+      "question": "Which of the integers 10, 11, 12 and 13 can be written as the sum of squares of four integers (allowing repetition)?",
+      "questionHtml": "Which of the integers 10, 11, 12 and 13 can be written as the sum of squares of four integers (allowing repetition)?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only 10",
+          "html": "Only 10&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "Only 10 and 11",
+          "html": "Only 10 and 11&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "Only 10, 11 and 12",
+          "html": "Only 10, 11 and 12&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "All",
+          "html": "All"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>According to <strong>Lagrange's Four-Square Theorem</strong>, every positive integer can be expressed as the sum of <strong>four integer squares</strong> (n = a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> + d<sup>2</sup>).</p>\n<p>Since 10, 11, 12, and 13 are all <strong>positive integers</strong>, they must all be representable as a sum of four squares.</p>\n<p>There is no need for manual calculation for each value as the theorem covers all <strong>natural numbers</strong>.</p>\n<p><strong>∴ The correct answer is All.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Integers 10, 11, 12, and 13.</p>\n<p><strong>Formula Used:</strong> n = a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> + d<sup>2</sup>, where a, b, c, d ∈ Z.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_540c7f36.png/1782885410.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p><strong>Calculations:</strong></p>\n<p>⇒ For 10: 3<sup>2</sup> + 1<sup>2</sup> + 0<sup>2</sup> + 0<sup>2</sup> = 9 + 1 + 0 + 0 = 10</p>\n<p>⇒ For 11: 3<sup>2</sup> + 1<sup>2</sup> + 1<sup>2</sup> + 0<sup>2</sup> = 9 + 1 + 1 + 0 = 11</p>\n<p>⇒ For 12: 3<sup>2</sup> + 1<sup>2</sup> + 1<sup>2</sup> + 1<sup>2</sup> = 9 + 1 + 1 + 1 = 12</p>\n<p>⇒ For 13: 3<sup>2</sup> + 2<sup>2</sup> + 0<sup>2</sup> + 0<sup>2</sup> = 9 + 4 + 0 + 0 = 13</p>\n<p><strong>∴ The correct answer is All.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Lagrange's Four-Square Theorem</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Also known as <strong>Bachet's conjecture</strong>, it states that every natural number can be represented as the sum of four integer squares.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Legendre's Three-Square Theorem</p>\n<p style='margin:0 0 8px 0;color:#444444;'>A natural number can be represented as the sum of three squares if and only if it is not of the form <strong>n = 4<sup>k</sup>(8m + 7)</strong> for integers k and m.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Fermat's Theorem on Sum of Two Squares</p>\n<p style='margin:0 0 8px 0;color:#444444;'>An odd prime number <strong>p</strong> can be expressed as <strong>p = x<sup>2</sup> + y<sup>2</sup></strong> if and only if <strong>p ≡ 1 (mod 4)</strong>.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_540c7f36.png/1782885410.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b1396d268a8d-q9",
+      "number": 9,
+      "question": "In the first 500 natural numbers, how many integers exist such that they leave a remainder of 3 when divided by 7 and 5 when divided by 9?",
+      "questionHtml": "In the first 500 natural numbers, how many integers exist such that they leave a remainder of 3 when divided by 7 and 5 when divided by 9?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seven",
+          "html": "Seven"
+        },
+        {
+          "id": "B",
+          "text": "Five",
+          "html": "Five"
+        },
+        {
+          "id": "C",
+          "text": "Six",
+          "html": "Six"
+        },
+        {
+          "id": "D",
+          "text": "Eight",
+          "html": "Eight"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p><strong>LCM</strong> of divisors 7 and 9 = 63.</p>\n<p>First number satisfying both conditions (leaves remainder 3 with 7 and 5 with 9) = 59.</p>\n<p>The sequence is an <strong>Arithmetic Progression</strong> with common difference 63: 59, 122, 185, ..., 500.</p>\n<p>Number of terms = [(Last term − First term) ÷ Common difference] + 1</p>\n<p>Number of terms = [(500 − 59) ÷ 63] + 1 = (441 ÷ 63) + 1 = 7 + 1 = 8.</p>\n<p><strong>∴ The correct answer is Eight.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Range: First 500 <strong>natural numbers</strong> (1 to 500).</p>\n<p>Conditions: n ÷ 7 leaves <strong>remainder</strong> 3; n ÷ 9 leaves <strong>remainder</strong> 5.</p>\n<p><strong>Formulas Used:</strong></p>\n<p>n = 7k + 3 and n = 9m + 5</p>\n<p>General term of <strong>AP</strong>: T<sub>n</sub> = a + (n − 1)d</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_e3f4b372.png/1782885414.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p><strong>Calculations:</strong></p>\n<p>⇒ To find the first common term, we test values for m: 9(1)+5=14, 9(2)+5=23, 9(3)+5=32, 9(4)+5=41, 9(5)+5=50, 9(6)+5=59.</p>\n<p>⇒ 59 ÷ 7 leaves remainder 3. Thus, first term (a) = 59.</p>\n<p>⇒ Common difference (d) = LCM(7, 9) = 63.</p>\n<p>⇒ Let the last term be T<sub>n</sub>. We know T<sub>n</sub> ≤ 500.</p>\n<p>⇒ 59 + (n − 1) × 63 ≤ 500</p>\n<p>⇒ (n − 1) × 63 ≤ 500 − 59</p>\n<p>⇒ (n − 1) × 63 ≤ 441</p>\n<p>⇒ n − 1 ≤ 441 ÷ 63</p>\n<p>⇒ n − 1 ≤ 7</p>\n<p>⇒ n ≤ 8</p>\n<p><strong>∴ The correct answer is Eight.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Chinese Remainder Theorem</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">This theorem states that if the <strong>divisors</strong> are pairwise <strong>coprime</strong>, there exists a unique solution for the remainder modulo the product of the divisors.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Arithmetic Progression (AP)</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">A sequence where the difference between consecutive terms is constant. Sum of n terms S<sub>n</sub> = n/2 [2a + (n − 1)d].</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">LCM Method for Remainders</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When a number leaves different remainders with different divisors, the subsequent numbers are found by adding the <strong>LCM</strong> of divisors to the smallest such number.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_e3f4b372.png/1782885414.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b1396d268a8d-q10",
+      "number": 10,
+      "question": "Which of the following is an integer?",
+      "questionHtml": "Which of the following is an integer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(27/5 &ndash; 21/6)",
+          "html": "(27/5 &ndash; 21/6)"
+        },
+        {
+          "id": "B",
+          "text": "(22/3 &ndash; 11/3)",
+          "html": "(22/3 &ndash; 11/3)"
+        },
+        {
+          "id": "C",
+          "text": "(15/7 &ndash; 1/7)",
+          "html": "(15/7 &ndash; 1/7)"
+        },
+        {
+          "id": "D",
+          "text": "None of these",
+          "html": "None of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n\n<p>To find an <strong>integer</strong>, check if the <strong>Numerator</strong> is a <strong>multiple</strong> of the <strong>Denominator</strong> after simplifying the fraction.</p>\n\n<p>In (15/7 &minus; 1/7), the denominators are the same, so subtract the numerators: 15 &minus; 1 = 14.</p>\n\n<p>Since 14 is perfectly divisible by 7 (14 &divide; 7 = 2), the result is an <strong>integer</strong>.</p>\n\n<p><strong>&there4; The correct answer is 2.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<p><strong>Given:</strong> Expression (15/7 &minus; 1/7).</p>\n\n<p><strong>Method Used:</strong> Basic <strong>fractional subtraction</strong> and verification of the <strong>integer</strong> property.</p>\n\n<p>&rArr; Expression = (15/7 &minus; 1/7)</p>\n\n<p>&rArr; Expression = (15 &minus; 1) &divide; 7</p>\n\n<p>&rArr; Expression = 14 &divide; 7</p>\n\n<p>&rArr; Expression = 2</p>\n\n<p>An <strong>integer</strong> is a number without a fractional or decimal part. Since 2 is a <strong>whole number</strong>, it satisfies the condition.</p>\n\n<p><strong>&there4; The correct answer is 2.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Definition of Integers</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\"><strong>Integers</strong> are a set of numbers including all <strong>positive whole numbers</strong>, their <strong>negative</strong> counterparts, and <strong>zero</strong> (..., &minus;3, &minus;2, &minus;1, 0, 1, 2, 3, ...).</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Rational Numbers as Integers</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">A fraction a/b is an <strong>integer</strong> only if b is a <strong>divisor</strong> of a (i.e., the remainder is zero when a is divided by b).</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Non-Integer Rational Numbers</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">Fractions like 11/3 or 1.9 are <strong>rational numbers</strong> but not <strong>integers</strong> because they contain a fractional or decimal component.</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

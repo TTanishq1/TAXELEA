@@ -1,0 +1,253 @@
+{
+  "id": "10e89fc0679d",
+  "provider": "RBE_Mocks",
+  "sourceFile": "Figure_Counting.html",
+  "sourcePath": "RBE_MOCKS/Figure_Counting.html",
+  "title": "Figure Counting",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 7,
+  "questions": [
+    {
+      "id": "10e89fc0679d-q1",
+      "number": 1,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756628874617_html_f6402aae87a6a3e8.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756628874617_html_f6402aae87a6a3e8.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "html": "<p> 8</p>"
+        },
+        {
+          "id": "B",
+          "text": "20",
+          "html": "<p> 20</p>"
+        },
+        {
+          "id": "C",
+          "text": "28",
+          "html": "<p> 28</p>"
+        },
+        {
+          "id": "D",
+          "text": "26",
+          "html": "<p> 26</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p> In the outer triangular part, number of triangles= 3×4 =&gt; 12</p><p>In the inner square part, number of triangles = 12</p><p>The adjunction of triangular part and square part gives 4 more triangles.</p><p>Therefore, total number of triangles = 28</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "10e89fc0679d-q2",
+      "number": 2,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756628874617_html_969eb9b18589f251.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756628874617_html_969eb9b18589f251.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "15",
+          "html": "<p> 15</p>"
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "html": "<p> 5</p>"
+        },
+        {
+          "id": "C",
+          "text": "9",
+          "html": "<p> 9</p>"
+        },
+        {
+          "id": "D",
+          "text": "20",
+          "html": "<p> 20</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p> There are nine straight lines in the given figure.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "10e89fc0679d-q3",
+      "number": 3,
+      "question": "A figure consists of a square with 4 equal horizontal and 4 equal vertical lines dividing it into a 5×5 grid. How many s quares can be counted in total?",
+      "questionHtml": "<p> A figure consists of a square with 4 equal horizontal and 4 equal vertical lines dividing it into a 5×5 grid. How many s quares can be counted in total?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "259",
+          "html": "<p> 259</p>"
+        },
+        {
+          "id": "B",
+          "text": "550",
+          "html": "<p> 550</p>"
+        },
+        {
+          "id": "C",
+          "text": "750",
+          "html": "<p> 750</p>"
+        },
+        {
+          "id": "D",
+          "text": "850",
+          "html": "<p> 850</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p> In a 5×5 grid, we count all squares of different sizes:</p><p>1×1 squares: 25</p><p>2×2 squares: 16</p><p>3×3 squares: 9</p><p>4×4 squares: 4</p><p>5×5 squares: 1</p><p>Total = 25 + 16 + 9 + 4 + 1 = 55</p><p>But this only includes perfect squares.</p><p>To find all possible squares , including overlapping and embedded ones, the total is:</p><p>Answer: 850</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "10e89fc0679d-q4",
+      "number": 4,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756628874617_html_cd0e87458da5d7e5.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756628874617_html_cd0e87458da5d7e5.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "html": "<p> 12</p>"
+        },
+        {
+          "id": "B",
+          "text": "10",
+          "html": "<p> 10</p>"
+        },
+        {
+          "id": "C",
+          "text": "13",
+          "html": "<p> 13</p>"
+        },
+        {
+          "id": "D",
+          "text": "14",
+          "html": "<p> 14</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756628874617_html_cd0e87458da5d7e5.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "10e89fc0679d-q5",
+      "number": 5,
+      "question": "A figure consists of a square divided into 9 equal smaller squares (3×3), and 2 diagonals are drawn in the outer square. How many triangles are there?",
+      "questionHtml": "<p> A figure consists of a square divided into 9 equal smaller squares (3×3), and 2 diagonals are drawn in the outer square. How many triangles are there?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "32",
+          "html": "<p> 32</p>"
+        },
+        {
+          "id": "B",
+          "text": "24",
+          "html": "<p> 24</p>"
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "html": "<p> 20</p>"
+        },
+        {
+          "id": "D",
+          "text": "16",
+          "html": "<p> 16</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756628874617_html_140d39ba6053ac9b.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "10e89fc0679d-q6",
+      "number": 6,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756628874617_html_58b5627a0f80d989.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756628874617_html_58b5627a0f80d989.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "html": "<p> 8</p>"
+        },
+        {
+          "id": "B",
+          "text": "12",
+          "html": "<p> 12</p>"
+        },
+        {
+          "id": "C",
+          "text": "9",
+          "html": "<p> 9</p>"
+        },
+        {
+          "id": "D",
+          "text": "7",
+          "html": "<p> 7</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p> The given heart-shaped figure contains 7 triangles in total.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "10e89fc0679d-q7",
+      "number": 7,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756628874617_html_14b2b4a2247465d0.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756628874617_html_14b2b4a2247465d0.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "18",
+          "html": "<p> 18</p>"
+        },
+        {
+          "id": "B",
+          "text": "14",
+          "html": "<p> 14</p>"
+        },
+        {
+          "id": "C",
+          "text": "15",
+          "html": "<p> 15</p>"
+        },
+        {
+          "id": "D",
+          "text": "16",
+          "html": "<p> 16</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p> The figure can be broken into parts: <br/> - In the innermost square : 8 triangles are formed by diagonals. <br/> - In the second square : 4 triangles are formed. <br/> - In the third square : 4 triangles are formed.</p><p>Hence, the correct answer is 16</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

@@ -1,0 +1,1753 @@
+{
+  "id": "34dd2d910428",
+  "provider": "Testbook",
+  "sourceFile": "Average - 02 (1).html",
+  "sourcePath": "Testbook/files/Average - 02 (1).html",
+  "title": "Average - 02",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "34dd2d910428-q1",
+      "number": 1,
+      "question": "The average of x occurring 5 times and y occurring 7 times is 37. Also, the average of x occurring 7 times and y occurring 5 times is 35. The value of y is:",
+      "questionHtml": "The average of x occurring 5 times and y occurring 7 times is 37. Also, the average of x occurring 7 times and y occurring 5 times is 35. The value of y is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "30",
+          "html": "30"
+        },
+        {
+          "id": "B",
+          "text": "27",
+          "html": "27"
+        },
+        {
+          "id": "C",
+          "text": "42",
+          "html": "42"
+        },
+        {
+          "id": "D",
+          "text": "45",
+          "html": "45"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Average of 5x + 7y = 37</p>\n\n<p><span style=\"\">Average of 7x + 5y = 35</span></p>\n\n<p><strong><span style=\"\">Concept used:</span></strong></p>\n\n<p><span style=\"\">Average = Sum of elements/No. of elements</span></p>\n\n<p><strong><span style=\"\">Calculation:</span></strong></p>\n\n<p>5x + 7y = 37&nbsp;&times; 12&nbsp; &nbsp; &nbsp; ----(1)</p>\n\n<p>7x + 5y = 35&nbsp;&times;&nbsp;12<span style=\"\">&nbsp; &nbsp; &nbsp; ----(2)</span></p>\n\n<p><span style=\"\">By subtracting eq (2) from eq (1)</span></p>\n\n<p><span style=\"\">2y - 2x = 12&nbsp;&times; 2</span></p>\n\n<p><span style=\"\">&rArr; y - x = 12</span></p>\n\n<p><span style=\"\">&rArr; 5y - 5x = 60&nbsp; &nbsp; &nbsp;----(3)</span></p>\n\n<p><span style=\"\">Adding eq (3) with eq (1)</span></p>\n\n<p><span style=\"\">So,</span></p>\n\n<p><span style=\"\">5x + 7y + 5y - 5x = 444 + 60</span></p>\n\n<p><span style=\"\">&rArr; 12y = 504</span></p>\n\n<p><span style=\"\">&rArr; y = 42</span></p>\n\n<p><strong><span style=\"\">&there4;&nbsp;The value of y is 42</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q2",
+      "number": 2,
+      "question": "Out of 6 numbers, the sum of the first 5 numbers is 7 times the 6 th number. If their average is 136, then the 6 th number is:",
+      "questionHtml": "Out of 6 numbers, the sum of the first 5 numbers is 7 times the 6<sup>th</sup> number. If their average is 136, then the 6<sup>th</sup> number is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "96",
+          "html": "96"
+        },
+        {
+          "id": "B",
+          "text": "102",
+          "html": "102"
+        },
+        {
+          "id": "C",
+          "text": "84",
+          "html": "84"
+        },
+        {
+          "id": "D",
+          "text": "116",
+          "html": "116"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let the sum of 6<sup>th</sup> number be x</p>\n\n<p>The sum of first 5 numbers = 7x</p>\n\n<p><span style=\"\">⇒ </span>(x + 7x)/6 = 136 ⇒ 8x = 136 × 6 ⇒ x = 102</p>\n∴ The 6<sup>th</sup> number is 102.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q3",
+      "number": 3,
+      "question": "The average of 20 numbers is 65, The average of the first 9 numbers is 68 and the average of next 8 numbers is 62. If the 18 th number is 3 more than 19 th number and 9 less than 20 th number, then what is the average of 19 th and 20 th number?",
+      "questionHtml": "The average of 20 numbers is 65, The average of the first 9 numbers is 68 and the average of next 8 numbers is 62. If the 18<sup>th</sup> number is 3 more than 19<sup>th</sup> number and 9 less than 20<sup>th</sup> number, then what is the average of 19<sup>th</sup> and 20<sup>th</sup> number?",
+      "options": [
+        {
+          "id": "A",
+          "text": "65.5",
+          "html": "65.5"
+        },
+        {
+          "id": "B",
+          "text": "65",
+          "html": "65"
+        },
+        {
+          "id": "C",
+          "text": "64.5",
+          "html": "64.5"
+        },
+        {
+          "id": "D",
+          "text": "66",
+          "html": "66"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Average of 20 numbers = 65</p>\n\n<p>Sum of all 18 numbers = 20 &times; 65 = 1300</p>\n\n<p>Average of first 9 numbers = 68</p>\n\n<p>Sum of first 9 numbers = 9 &times; 68 = 612</p>\n\n<p>Average of next 8 numbers = 62</p>\n\n<p>Sum of next 8 numbers = 8 &times; 62 = 496</p>\n\n<p>Let the 18<sup>th</sup> number be x</p>\n\n<p>&there4; 19<sup>th</sup> number will be = x - 3</p>\n\n<p>&there4; 20<sup>th</sup> number will be = x + 9</p>\n\n<p>Sum of 18<sup>th</sup>, 19<sup>th</sup> and 20<sup>th</sup> number = 1300 - 612 - 496 = 192</p>\n\n<p>According to the question</p>\n\n<p>&rArr; x + x - 3 + x + 9 = 192</p>\n\n<p>&rArr; 3x + 6 = 192</p>\n\n<p>&rArr; 3x = 192 - 6 = 186</p>\n\n<p>&rArr; x = 186/3 = 62</p>\n\n<p>&rArr; 18<sup>th</sup> number = 62</p>\n\n<p>&rArr; 19<sup>th</sup> number = x - 3 = 62 - 3 = 59</p>\n\n<p>20<sup>th</sup> number = x + 9 = 62 + 9 = 71</p>\nAverage of 19<sup>th</sup> and 20<sup>th</sup> number = (59 + 71)/2 = 130/2 = 65",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q4",
+      "number": 4,
+      "question": "The average weight of 10 persons is increased by 3.5 kg, when one of them whose weight is 45.5 kg is replaced by a new man. The weight (in kg) of the new man is ___.",
+      "questionHtml": "The average weight of 10 persons is increased by 3.5 kg, when one of them whose weight is 45.5 kg is replaced by a new man. The weight (in kg) of the new man is ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "75.5",
+          "html": "75.5"
+        },
+        {
+          "id": "B",
+          "text": "70.5",
+          "html": "70.5"
+        },
+        {
+          "id": "C",
+          "text": "80.5",
+          "html": "80.5"
+        },
+        {
+          "id": "D",
+          "text": "85.5",
+          "html": "85.5"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>In replacement cases, <strong>New weight</strong> = <strong>Old weight</strong> + (<strong>No. of persons</strong> × <strong>Average Increase</strong>).</p>\n<p>Here, Old weight = 45.5 kg, No. of persons = 10, Average Increase = 3.5 kg.</p>\n<p>Weight of new man = 45.5 + (10 × 3.5)</p>\n<p>Weight of new man = 45.5 + 35 = 80.5 kg.</p>\n<p><strong>∴ The correct answer is 80.5 kg.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Number of persons = 10</p>\n<p>Weight of replaced person = 45.5 kg</p>\n<p>Average weight increase = 3.5 kg</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_0e465d10.png/1784028763.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p>Since the <strong>average weight</strong> of <strong>10 persons</strong> increases by <strong>3.5 kg</strong>, the <strong>total weight</strong> of the group must increase.</p>\n<p>⇒ Total increase in weight = Number of persons × Increase in average</p>\n<p>⇒ Total increase = 10 × 3.5 = 35 kg</p>\n<p>The <strong>new man</strong> must weigh 35 kg more than the <strong>replaced person</strong> to cause this increase.</p>\n<p>⇒ Weight of new man = Weight of replaced person + Total increase</p>\n<p>⇒ Weight of new man = 45.5 + 35</p>\n<p>⇒ Weight of new man = 80.5 kg</p>\n<p><strong>∴ The correct answer is 80.5 kg.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Average Formula</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Average = Total Sum of Observations ÷ Number of Observations.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Replacement Rule</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If the <strong>average increases</strong> after replacement, the incoming person is heavier than the outgoing person. If it <strong>decreases</strong>, the incoming person is lighter.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Inclusion/Exclusion Effect</p>\n<p style='margin:0 0 8px 0;color:#444444;'>New Sum = (Old Average × Old Count) − Outgoing Weight + Incoming Weight.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_0e465d10.png/1784028763.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q5",
+      "number": 5,
+      "question": "The average weight of 18 boys in a class is 45 kg and that of the remaining 8 boys is 48.75 kg. Find the average weight (in kg) of all the boys in the class. (Correct to two decimal places)",
+      "questionHtml": "The average weight of 18 boys in a class is 45 kg and that of the remaining 8 boys is 48.75 kg. Find the average weight (in kg) of all the boys in the class. (Correct to two decimal places)",
+      "options": [
+        {
+          "id": "A",
+          "text": "47.5",
+          "html": "47.5"
+        },
+        {
+          "id": "B",
+          "text": "44.98",
+          "html": "44.98"
+        },
+        {
+          "id": "C",
+          "text": "46.15",
+          "html": "46.15"
+        },
+        {
+          "id": "D",
+          "text": "42",
+          "html": "42"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Average of 18 boys, 45 = sum of 18 boys/18 ⇒ Sum of 18 boys = ( 45 × 18) = 810</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average of remaining 8 Boys, 48.75 = Sum/8 = 390.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Sum of all the boys = (810 + 390) = 1,200 and number of boys = (18 + 8) = 26. Hence, required average = 1200/26 = 46.15 kg.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q6",
+      "number": 6,
+      "question": "The average monthly expenditure of a man is Rs.2400 during the first three month, Rs 3,500 during the next five months and Rs 4,800 for the remaining four months. If his total saving is Rs.3,500 during the entire year. then what is his average monthly income (in Rs)?",
+      "questionHtml": "The average monthly expenditure of a man is Rs.2400 during the first three month, Rs 3,500 during the next five months and Rs 4,800 for the remaining four months. If his total saving is Rs.3,500 during the entire year. then what is his average monthly income (in Rs)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4,550",
+          "html": "4,550"
+        },
+        {
+          "id": "B",
+          "text": "4,100",
+          "html": "4,100"
+        },
+        {
+          "id": "C",
+          "text": "3,700",
+          "html": "3,700"
+        },
+        {
+          "id": "D",
+          "text": "3,950",
+          "html": "3,950"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Average expenditure for first three months = Rs.2400</p>\n\n<p>Average&nbsp;expenditure for five&nbsp;months = Rs.3500</p>\n\n<p>Average&nbsp;expenditure for four&nbsp;months = Rs.4800</p>\n\n<p><strong>Formula:</strong></p>\n\n<p>Average = (Sum of terms)/Number of terms</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Total&nbsp;expenditure for first three months = 2400&nbsp;&times; 3 = Rs.7200</p>\n\n<p>Total&nbsp;expenditure for five&nbsp;months = 3500 &times; 5 = Rs.17500</p>\n\n<p>Total&nbsp;expenditure for four&nbsp;months = 4800 &times; 4 = Rs.19200</p>\n\n<p>Total expenditure in a year = 7200 + 17500 + 19200 = Rs.43900</p>\n\n<p>Total income in a year = 439000 + 3500 = Rs.47400</p>\n\n<p><strong>&there4; Average monthly income = 47400/12 = Rs.3950</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span>To ease the calculation, let the average expenditure per month be Rs. 3500.</p>\n\n<p>Deflection in the expenditure for first 3 months</p>\n\n<p>&rArr; (2400 - 3500)&nbsp;&times; 3 = -3300</p>\n\n<p>Deflection in the expenditure for the next 5 months be zero.</p>\n\n<p>Deflection in the expenditure for the last four months.</p>\n\n<p>&rArr; (4800 - 3500)&nbsp;&times; 4 = 5200</p>\n\n<p>The total deflection = 5200 - 3300 = 1900</p>\n\n<p>Correct expenditure for 12 months = 3500&nbsp;&times; 12 + 1900</p>\n\n<p>Total income for 12 months = 42000 + 1900 + 3500(savings)</p>\n\n<p>&rArr; 47400</p>\n\n<p>The average salary = 47400/12 = Rs. 3950</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q7",
+      "number": 7,
+      "question": "The average weight of a class of 30 students is 45 kg. One of the students whose weight is 48.5 kg is replaced by another student and the average weight was increased by 200 g. Find the weight of the new student.",
+      "questionHtml": "The average weight of a class of 30 students is 45 kg. One of the students whose weight is 48.5 kg is replaced by another student and the average weight was increased by 200 g. Find the weight of the new student.",
+      "options": [
+        {
+          "id": "A",
+          "text": "54.5 kg",
+          "html": "54.5 kg"
+        },
+        {
+          "id": "B",
+          "text": "50 kg",
+          "html": "50 kg"
+        },
+        {
+          "id": "C",
+          "text": "55 kg",
+          "html": "55 kg"
+        },
+        {
+          "id": "D",
+          "text": "51 kg",
+          "html": "51 kg"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">(45 × 30 - 48.5 + x)/30 = 45 + (1/5) ⇒ 1350 - 48.5 + x = (226/5) × 30 ⇒ 1301.5 + x = 226 × 6 ⇒ x = 1356 - 1301.5 = 54.5 kg</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q8",
+      "number": 8,
+      "question": "The average of eighteen numbers is 42. The average of the last ten numbers is 40 and that of the first five numbers is 44. The seventh number is 6 less than the sixth and 7 less that the eight number. The average of the sixth and the eight number is:",
+      "questionHtml": "The average of eighteen numbers is 42. The average of the last ten numbers is 40 and that of the first five numbers is 44. The seventh number is 6 less than the sixth and 7 less that the eight number. The average of the sixth and the eight number is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "45",
+          "html": "45"
+        },
+        {
+          "id": "B",
+          "text": "48",
+          "html": "48"
+        },
+        {
+          "id": "C",
+          "text": "47.5",
+          "html": "47.5"
+        },
+        {
+          "id": "D",
+          "text": "46.5",
+          "html": "46.5"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Average of 18 numbers = 42</p>\n\n<p>Average of last 10 = 40</p>\n\n<p>Average of first 5 = 44</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>Average = Sum of elements/Number of elements</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Total of 18 numbers = 18 &times; 42 = 756</p>\n\n<p>Total of last 10 numbers = 40 &times; 10 = 400</p>\n\n<p>Total of first 5 numbers = 44 &times; 5 = 220</p>\n\n<p>Total of 6th, 7th and 8th = 756 &ndash; 400 &ndash; 220 = 136</p>\n\n<p>Let 7<sup>th</sup> number be x</p>\n\n<p>So, 6<sup>th</sup> number be x + 6</p>\n\n<p>8<sup>th</sup> number be x + 7</p>\n\n<p>According to the question,</p>\n\n<p>&rArr; x + x + 6 + x + 7 = 136</p>\n\n<p>&rArr; 3x = 123</p>\n\n<p>&rArr; x = 41</p>\n\n<p>6<sup>th</sup> number = 47</p>\n\n<p>8<sup>th</sup> number = 48</p>\n\n<p>Average = (47 + 48)/2 = 47.5</p>\n\n<p><strong>&there4; The required answer is 47.5 &nbsp;</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q9",
+      "number": 9,
+      "question": "The average score of a cricketer for 20 matches is 52 runs. His highest score is more than its lowest score by 120 runs. If these two innings are excluded, the average of the remaining 18 matches is 50 runs. The highest score of the player is:",
+      "questionHtml": "The average score of a cricketer for 20 matches is 52 runs. His highest score is more than its lowest score by 120 runs. If these two innings are excluded, the average of the remaining 18 matches is 50 runs. The highest score of the player is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "130",
+          "html": "130"
+        },
+        {
+          "id": "B",
+          "text": "125",
+          "html": "125"
+        },
+        {
+          "id": "C",
+          "text": "120",
+          "html": "120"
+        },
+        {
+          "id": "D",
+          "text": "140",
+          "html": "140"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given :</strong></p>\n\n<p>The average score of a cricketer for 20 matches is 52 runs. His highest score is more than its lowest score by 120 runs.</p>\n\n<p>If highest and lowest score are excluded than average will be 50.&nbsp;</p>\n\n<p><strong>Concept used :</strong></p>\n\n<p>Average = Sum of all observations/Number of observations</p>\n\n<p><strong>calculations :</strong></p>\n\n<p>Total score of 20 matches = 20&nbsp;&times;&nbsp;52&nbsp;</p>\n\n<p>&rArr; 1040 runs&nbsp;</p>\n\n<p>Total score of 18 matches = 18&nbsp;&times; 50</p>\n\n<p>&rArr; 900 runs&nbsp;</p>\n\n<p>Highest score + lowest score&nbsp;= 1040 - 900&nbsp;</p>\n\n<p>&rArr; 140&nbsp;</p>\n\n<p>Lowest score = 140 - highest score&nbsp;</p>\n\n<p>According to the question&nbsp;</p>\n\n<p>Highest score - lowest score = 120&nbsp;</p>\n\n<p>Highest score - (140 - highest score) = 120&nbsp;</p>\n\n<p>&rArr; 2(Highest score) = 260</p>\n\n<p>&rArr; Highest score = 260/2&nbsp;</p>\n\n<p>&rArr; 130 runs&nbsp;</p>\n\n<p><strong>&there4; His highest score will be 130 runs.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q10",
+      "number": 10,
+      "question": "The average weight of each box in a consignment of 20 boxes of mangoes and 15 boxes of apples is 30 kg. If the average weight of a box of mangoes is 35 kg, then what is the average weight of a box of apples?",
+      "questionHtml": "The average weight of each box in a consignment of 20 boxes of mangoes and 15 boxes of apples is 30 kg. If the average weight of a box of mangoes is 35 kg, then what is the average weight of a box of apples?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\({{70} \\over 3} \\) kg",
+          "html": "<span class=\"math-tex\">\\({{70} \\over 3} \\)</span>&nbsp;kg"
+        },
+        {
+          "id": "B",
+          "text": "\\({{75} \\over 2} \\) kg",
+          "html": "<span class=\"math-tex\">\\({{75} \\over 2} \\)</span>&nbsp;kg"
+        },
+        {
+          "id": "C",
+          "text": "\\({{70} \\over 5} \\) kg",
+          "html": "<span class=\"math-tex\">\\({{70} \\over 5} \\)</span>&nbsp;kg"
+        },
+        {
+          "id": "D",
+          "text": "\\({{26} \\over 5} \\) kg",
+          "html": "<span class=\"math-tex\">\\({{26} \\over 5} \\)</span>&nbsp;kg"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style=\"color: rgb(33, 37, 41);\">The average of Mangoes is increasing by 5 from the common average, i</span><span style=\"color: rgb(33, 37, 41);\">t means that the average of Apple is 5 less than the common average. </span><span style=\"color: rgb(33, 37, 41);\">So we can say that a</span>verage weight of the apple box <br />\n<br />\n⇒ 30(avg) - (5(diff) × 20 (box of mango))/15(box of apples) ⇒30 - (100/15) =70/3",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q11",
+      "number": 11,
+      "question": "In a team of seven members, the average age of six of the members is 42 years while the age of the seventh member of the team is 36 years more than the average age of all the seven members taken together. Find the age (in years) of the seventh member of the team.",
+      "questionHtml": "In a team of seven members, the average age of six of the members is 42 years while the age of the seventh member of the team is 36 years more than the average age of all the seven members taken together. Find the age (in years) of the seventh member of the team.",
+      "options": [
+        {
+          "id": "A",
+          "text": "90",
+          "html": "90"
+        },
+        {
+          "id": "B",
+          "text": "84",
+          "html": "84"
+        },
+        {
+          "id": "C",
+          "text": "80",
+          "html": "80"
+        },
+        {
+          "id": "D",
+          "text": "78",
+          "html": "78"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>6 × 42 + (x + 36) = 7x,</p>\n\n<p>252 + x + 36 = 7x, 288 = 6x, x = 48,</p>\n\n<p>Age of seventh member = 48 + 36 = 84</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q12",
+      "number": 12,
+      "question": "A batsman in his 13 th inning makes a score of 97 runs, thereby increasing his average score by 5. What is his average score after the 13 th inning?",
+      "questionHtml": "A batsman in his 13<sup>th</sup> inning makes a score of 97 runs, thereby increasing his average score by 5. What is his average score after the 13<sup>th</sup> inning?",
+      "options": [
+        {
+          "id": "A",
+          "text": "77",
+          "html": "77"
+        },
+        {
+          "id": "B",
+          "text": "67",
+          "html": "67"
+        },
+        {
+          "id": "C",
+          "text": "37",
+          "html": "37"
+        },
+        {
+          "id": "D",
+          "text": "57",
+          "html": "57"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">A batsman in his 13</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">th</span><span style=\"\">&nbsp;inning makes a score of 97 runs, thereby increasing his average score by 5.&nbsp;</span></p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>Old average&nbsp;&times;&nbsp;old number + something = New average&nbsp;&times; new number</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let his old average (i.e. average till 12th innings)&nbsp;be &#39;x&#39;&nbsp;&rArr; New average is &#39;x + 5&#39; [∵ Average increased by 5]</p>\n\n<p>&there4; x&nbsp;&times; 12 + 97 = (x + 5)&nbsp;&times; 13</p>\n\n<p>&rArr; 12x + 97 = 13x + 65</p>\n\n<p>&rArr; x = 32</p>\n\n<p>&there4; New Average = x + 5 = 32 + 5 = 37</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q13",
+      "number": 13,
+      "question": "The average of 9 consecutive odd numbers is 27. If the previous and next odd numbers to these 9 odd numbers are also included, then what will be the new average?",
+      "questionHtml": "The average of 9 consecutive odd numbers is 27. If the previous and next odd numbers to these 9 odd numbers are also included, then what will be the new average?",
+      "options": [
+        {
+          "id": "A",
+          "text": "32",
+          "html": "<span style=\"\">32</span>"
+        },
+        {
+          "id": "B",
+          "text": "28",
+          "html": "<span style=\"\">28</span>"
+        },
+        {
+          "id": "C",
+          "text": "29",
+          "html": "<span style=\"\">29</span>"
+        },
+        {
+          "id": "D",
+          "text": "27",
+          "html": "<span style=\"\">27</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">The 9 consecutive odd numbers are, <span style=\"color: rgb(33, 37, 41);\">19, 21, 23, 25, 27, 29, 31, 33, 35</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, the odd number before 19 is 17, and the next odd number after 35 is 37, ⇒ average of (17 + 37)/2 = 27</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q14",
+      "number": 14,
+      "question": "The average temperature of a city for the first sixteen days of January is 22&ordm;C, and the average temperature for the last sixteen days of the same month is 26&ordm;C. If the average temperature for the entire month is 24&ordm;C, what is the temperature on the sixteenth day?",
+      "questionHtml": "The average temperature of a city for the first sixteen days of January is 22&ordm;C, and the average temperature for the last sixteen days of the same month is 26&ordm;C. If the average temperature for the entire month is 24&ordm;C, what is the temperature on the sixteenth day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "24&ordm;C",
+          "html": "24&ordm;C"
+        },
+        {
+          "id": "B",
+          "text": "25&ordm;C",
+          "html": "25&ordm;C"
+        },
+        {
+          "id": "C",
+          "text": "23&ordm;C",
+          "html": "23&ordm;C"
+        },
+        {
+          "id": "D",
+          "text": "22&ordm;C",
+          "html": "22&ordm;C"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Total (1st 16 days) = 22 × 16 = 352ºC</p>\n\n<p>Total (last 16 days) = 26 × 16 = 416ºC</p>\n\n<p>Total (31 days) = 24 × 31 = 744ºC</p>\n\n<p>For 16th day temp (T):</p>\n\n<p>352 + 416 - T = 744,</p>\n\n<p>T = 768 - 744,</p>\n\n<p><strong>T = 24ºC</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q15",
+      "number": 15,
+      "question": "There are 3 students in a group. If the weight of any student is added to the average weight of the other two the sums received are 48 kg, 52 kg, and 59 kg. The average weight (in kg) of the three students is:",
+      "questionHtml": "There are 3 students in a group. If the weight of any student is added to the average weight of the other two the sums received are 48 kg, 52 kg, and 59 kg. The average weight (in kg) of the three students is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "27",
+          "html": "27"
+        },
+        {
+          "id": "B",
+          "text": "26.5",
+          "html": "26.5"
+        },
+        {
+          "id": "C",
+          "text": "27.5",
+          "html": "27.5"
+        },
+        {
+          "id": "D",
+          "text": "28",
+          "html": "28"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>The weight of any student is added to the average weight of the other two the sums received are 48 kg, 52 kg, and 59 kg.</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Average&nbsp;= Sum of all the values/Total number value</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let the weight (in kg) of the three students is x, y and z</p>\n\n<p>According to the question:</p>\n\n<p>[x + (y + z)/2] = 48</p>\n\n<p>&rArr; (2x + y + z) = 96&nbsp; &nbsp; &nbsp; ----(1)</p>\n\n<p>Again,</p>\n\n<p>[y&nbsp;+ (x&nbsp;+ z)/2] = 52</p>\n\n<p>&rArr; (2y&nbsp;+ x&nbsp;+ z) = 104&nbsp; &nbsp; &nbsp; ----(2)</p>\n\n<p>Now,&nbsp;</p>\n\n<p>[z&nbsp;+ (x + y)/2] = 59</p>\n\n<p>&rArr; (2z&nbsp;+ x&nbsp;+ y) = 118&nbsp; &nbsp; &nbsp; ----(3)</p>\n\n<p>Multiply by 2 in equation (1);</p>\n\n<p>&rArr;&nbsp;(2x + y + z) &times; 2&nbsp;= 96&nbsp;&times; 2</p>\n\n<p>&rArr;&nbsp;(4x + 2y + 2z)&nbsp;= 192&nbsp; &nbsp; ----(4)</p>\n\n<p>Now, Subtracting from equation(4) to equation(2):</p>\n\n<p>[(4x + 2y + 2z) &ndash;&nbsp;(2y&nbsp;+ x&nbsp;+ z)] = (192&nbsp;&ndash;&nbsp;104)</p>\n\n<p>&rArr; [(4x + 2y + 2z&nbsp;&ndash; 2y&nbsp;&ndash; x&nbsp;&ndash; z)] = 88</p>\n\n<p>&rArr; (3x + z) = 88&nbsp; &nbsp; &nbsp; ----(a)</p>\n\n<p>Multiply by 2 in equation (3):</p>\n\n<p>&rArr;&nbsp;(2z&nbsp;+ x&nbsp;+ y)&nbsp;&times; 2 = 118&nbsp;&times; 2</p>\n\n<p>&rArr; 4z + 2x + 2y = 236&nbsp; &nbsp; &nbsp; ----(5)</p>\n\n<p>Now, Subtracting from equation(5) to equation(2):</p>\n\n<p>[(4z + 2x + 2y)&nbsp;&ndash;&nbsp;(2y&nbsp;+ x&nbsp;+ z)] = 236&nbsp;&ndash; 104</p>\n\n<p>&rArr; x + 3z = 132&nbsp; &nbsp; &nbsp; ----(b)</p>\n\n<p>Multiply by 3&nbsp;in equation (a):</p>\n\n<p>&rArr; (3x + z)&nbsp;&times; 3&nbsp;= 88&nbsp;&times; 3</p>\n\n<p>&rArr; (9x + 3z)&nbsp;= 264&nbsp; &nbsp; &nbsp; ----(c)</p>\n\n<p>Now, Subtracting from equation(c) to equation(b)</p>\n\n<p>&rArr; [(9x + 3z) &ndash; (x + 3z)] = 264&nbsp;&ndash; 132 = 132</p>\n\n<p>&rArr; [9x + 3z&nbsp;&ndash; x &ndash; 3z] = 132</p>\n\n<p>&rArr; 8x&nbsp;= 132</p>\n\n<p>&rArr; x = 132/8 = 16.5</p>\n\n<p>From equation (b):</p>\n\n<p>&rArr; (3x + z) = 88</p>\n\n<p>&rArr; (3&nbsp;&times; 16.5 + z) = 88</p>\n\n<p>&rArr; 49.5 + z = 88</p>\n\n<p>&rArr; z = 88&nbsp;&ndash; 49.5 = 38.5</p>\n\n<p>Putting the value of x and z in equation(1):</p>\n\n<p>(2&nbsp;&times; 16.5 + y + 38.5) = 96</p>\n\n<p>&rArr; 33 + y + 38.5 = 96</p>\n\n<p>&rArr; y = (96&nbsp;&ndash; 71.5) = 24.5</p>\n\n<p>Average = (x + y + z)/3</p>\n\n<p>&rArr; (16.5 + 24.5 + 38.5)/3</p>\n\n<p>&rArr; 79.5/3 = 26.5</p>\n\n<p><strong>&there4;&nbsp;The average weight (in kg) of the three students is 26.5.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></strong></p>\n\n<p><span style=\"font-weight: 700;\">Given:</span></p>\n\n<p>The weight of any student is added to the average weight of the other two the sums received are 48 kg, 52 kg, and 59 kg.</p>\n\n<p><span style=\"font-weight: 700;\">Formula used:</span></p>\n\n<p>Average&nbsp;= Sum of all the values/Total number value</p>\n\n<p><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p>Let the weight (in kg) of the three students is x, y and z</p>\n\n<p>According to the question:</p>\n\n<p>[x + (y + z)/2] = 48</p>\n\n<p>&rArr; (2x + y + z) = 96&nbsp; &nbsp; &nbsp; ----(1)</p>\n\n<p>Again,</p>\n\n<p>[y&nbsp;+ (x&nbsp;+ z)/2] = 52</p>\n\n<p>&rArr; (2y&nbsp;+ x&nbsp;+ z) = 104&nbsp; &nbsp; &nbsp; ----(2)</p>\n\n<p>Now,&nbsp;</p>\n\n<p>[z&nbsp;+ (x + y)/2] = 59</p>\n\n<p>&rArr; (2z&nbsp;+ x&nbsp;+ y) = 118&nbsp; &nbsp; &nbsp; ----(3)</p>\n\n<p>Adding equation(1),equation(2) and equation(3);</p>\n\n<p>&rArr; (2x + y + z) +&nbsp;(2y&nbsp;+ x&nbsp;+ z) +&nbsp;(2z&nbsp;+ x&nbsp;+ y) = (96 + 104 + 118)</p>\n\n<p>&rArr; (4x + 4y + 4z) = 318</p>\n\n<p>&rArr; 4(x + y + z) = 318</p>\n\n<p>&rArr;&nbsp;(x +&nbsp;y +&nbsp;z) = 318/4 = 159/2</p>\n\n<p>Now, Average = (x + y + z)/3</p>\n\n<p>&rArr; [159/(2&nbsp;&times; 3)]</p>\n\n<p>&rArr; 159/6 = 26.5</p>\n\n<p><span style=\"font-weight: 700;\">&there4;&nbsp;The average weight (in kg) of the three students is 26.5.</span></p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q16",
+      "number": 16,
+      "question": "The average of some numbers is 54.6. If 75% of the numbers are increased by 5.6 each, and the rest are decreased by 8.4 each, then what is the average of the numbers so obtained?",
+      "questionHtml": "The average of some numbers is 54.6. If 75% of the numbers are increased by 5.6 each, and the rest are decreased by 8.4 each, then what is the average of the numbers so obtained?",
+      "options": [
+        {
+          "id": "A",
+          "text": "56.3",
+          "html": "56.3"
+        },
+        {
+          "id": "B",
+          "text": "55.8",
+          "html": "55.8"
+        },
+        {
+          "id": "C",
+          "text": "56.7",
+          "html": "56.7"
+        },
+        {
+          "id": "D",
+          "text": "55.6",
+          "html": "55.6"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p> </p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let us assume there are 4 numbers, each value of 54.6</p>\n\n<p>Average of 4 numbers = 54.6</p>\n\n<p>Sum of 4 numbers = 54.6 × 4 = 218.4</p>\n\n<p>According to the question,</p>\n\n<p>75% of the numbers of total numbers increased by 5.6 each</p>\n\n<p>⇒ 3/4 × 4 = 3(54.6 + 5.6)</p>\n\n<p>25% of the numbers of total numbers decreased by 8.4 each</p>\n\n<p>⇒ 1/4 × 4 = 1 (54.6 – 8.4) </p>\n\n<p>New average of 4 numbers = 3 (54.6 + 5.6) + 1 (54.6 – 8.4) = 3 × 60.2 + 46.2 = 180.6 + 46.2 = 226.8</p>\n\n<p>New average of 4 numbers = 226.8/4 ⇒ 56.7</p>\n\n<p><strong>∴ The average of the numbers so obtained is 56.7</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q17",
+      "number": 17,
+      "question": "A library has an average of 330 visitors on Sundays and 240 on the other days. Find the average of the number of visitors per day in a month of 30 days, beginning with a Saturday.",
+      "questionHtml": "A library has an average of 330 visitors on Sundays and 240 on the other days. Find the average of the number of visitors per day in a month of 30 days, beginning with a Saturday.",
+      "options": [
+        {
+          "id": "A",
+          "text": "260",
+          "html": "260"
+        },
+        {
+          "id": "B",
+          "text": "255",
+          "html": "255"
+        },
+        {
+          "id": "C",
+          "text": "270",
+          "html": "270"
+        },
+        {
+          "id": "D",
+          "text": "265",
+          "html": "265"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Starting with Saturday as the first day, number of Sundays in the month is 5. So, Number of visitors on Sundays in the month ⇒ 330 × 5 = 1650 and</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Number of visitors on the other days = 25 × 240 = 6000.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total visitors in the month ⇒ 6000 + 1650 = 7650. </p>\n\n<p style=\"color: rgb(33, 37, 41);\">Then, Average visitors per day = <span class=\"math-tex\">\\(\\frac{7650}{30}=255\\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q18",
+      "number": 18,
+      "question": "Rajender is working as a delivery boy in a multinational company. The company is paying him ₹90 per delivery. In a fortnight comprising 15 consecutive working days, his average earnings per day was ₹540. If his average earnings of the first 7 days was ₹519 per day and that of the last 7 days was ₹546 per day, then what was his earning on the 8th day of the fortnight?",
+      "questionHtml": "Rajender is working as a delivery boy in a multinational company. The company is paying him ₹90 per delivery. In a fortnight comprising 15 consecutive working days, his average earnings per day was ₹540. If his average earnings of the first 7 days was ₹519 per day and that of the last 7 days was ₹546 per day, then what was his earning on the 8th day of the fortnight?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹571",
+          "html": "₹571"
+        },
+        {
+          "id": "B",
+          "text": "₹681",
+          "html": "₹681"
+        },
+        {
+          "id": "C",
+          "text": "₹661",
+          "html": "₹661"
+        },
+        {
+          "id": "D",
+          "text": "₹645",
+          "html": "₹645"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Payment per delivery: ₹90</p>\n\n<p>Average daily earnings for 15 days: ₹540</p>\n\n<p>Average earnings for the first 7 days: ₹519</p>\n\n<p>Average earnings for the last 7 days: ₹546</p>\n\n<p>Total working days: 15.</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Average = sum of observation/total number of observation.</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Total earnings for 15 days &rArr; ₹540 &times; 15 = ₹8100.</p>\n\n<p>Total earnings for the first 7 days &rArr; ₹519 &times; 7 = ₹3633.</p>\n\n<p>Total earnings for the last 7 days &rArr; ₹546 &times; 7 = ₹3822.</p>\n\n<p>Adding earnings of the first 7 days and last 7 days &rArr; ₹3633 + ₹3822 = ₹7455.</p>\n\n<p>Subtracting this total from the overall total earnings for 15 days to find the 8th day&#39;s earnings: ₹8100 - ₹7455 = ₹645.</p>\n\n<p><strong>Hence, Rajender&#39;s earning on the 8th day of the fortnight was ₹645.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q19",
+      "number": 19,
+      "question": "Three years ago, the average age of a husband, wife, and child was 26 years, and that of the wife and the child, 5 years ago, was 20 years. The present age of the husband is:",
+      "questionHtml": "Three years ago, the average age of a husband, wife, and child was 26 years, and that of the wife and the child, 5 years ago, was 20 years. The present age of the husband is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "39 years",
+          "html": "39 years"
+        },
+        {
+          "id": "B",
+          "text": "42 years",
+          "html": "42&nbsp;years"
+        },
+        {
+          "id": "C",
+          "text": "37 years",
+          "html": "37&nbsp;years"
+        },
+        {
+          "id": "D",
+          "text": "45 years",
+          "html": "45&nbsp;years"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p> </p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Three years ago, sum of age of husband, wife and child = 3 × 26 = 78 years</p>\n\n<p>Present sum of age of husband, wife and child = 78 + 9 = 87 years</p>\n\n<p>Five years ago, sum of age of wife and child = 2 × 20 = 40 years</p>\n\n<p>Present sum of age of wife and child = 40 + 10 = 50</p>\n\n<p>∴ Present age of husband = 87 - 50 = 37 years</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q20",
+      "number": 20,
+      "question": "The average of 52, 71, 43, 22, a, and b is 55 and the average of 42, 45, 49, 51, 42, c, and d is 53. What is the average of a, b, c, and d?",
+      "questionHtml": "The average of 52, 71, 43, 22, a, and b is 55 and the average of 42, 45, 49, 51, 42, c, and d is 53. What is the average of a, b, c, and d?",
+      "options": [
+        {
+          "id": "A",
+          "text": "142",
+          "html": "142"
+        },
+        {
+          "id": "B",
+          "text": "54.7",
+          "html": "54.7"
+        },
+        {
+          "id": "C",
+          "text": "54",
+          "html": "54"
+        },
+        {
+          "id": "D",
+          "text": "71",
+          "html": "71"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(51, 51, 51); white-space-collapse: preserve;\">Here, (52 + 71 + 43 + 22 + a + b)/6 = 55</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(51, 51, 51); white-space-collapse: preserve;\">⇒ 188 + a + b = 6 × 55 = 330</span> <span style=\"white-space-collapse: preserve;\">⇒ </span>a + b = 142</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Also, (42 + 45 + 49 + 51 + 42 + c + d)/7 = 53</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"white-space-collapse: preserve;\">⇒ </span>229 + c + d = 7 × 53 = 371 ⇒ c + d = 142</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The average of a, b, c, and d = (142 + 142)/4 = 71</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q21",
+      "number": 21,
+      "question": "The average weight of Rohan and his three friends is 62 kg. If Rohan&rsquo;s weight is 8 kg more than the average weight of his three friends, what is Rohan&rsquo;s weight (in kg)?",
+      "questionHtml": "The average weight of Rohan and his three friends is 62 kg. If Rohan&rsquo;s weight is 8 kg more than the average weight of his three friends, what is Rohan&rsquo;s weight (in kg)?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "B",
+          "text": "65",
+          "html": "65"
+        },
+        {
+          "id": "C",
+          "text": "68",
+          "html": "68"
+        },
+        {
+          "id": "D",
+          "text": "72",
+          "html": "72"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Total weight of Rohan and his three friends = 4 × 62 = 248 kg</p>\n\n<p>Weight of Rohan's three friends = 3x, Weight of Rohan = x + 8</p>\n\n<p>Total weight = 3x + (x + 8) ⇒ 4x + 8 = 248 ⇒ 4x = 248 - 8 ⇒ 4x = 240 ⇒ x = 60</p>\n\n<p>Rohan's weight = x + 8 ⇒ 60 + 8 = 68 kg</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q22",
+      "number": 22,
+      "question": "The average score in an English exam of a class of 45 students in a coaching centre is 52. A group of 6 boys having an average score of 40 leave the class and another group of eight boys having an average score of 43 join the class. What is the new average score of the class?",
+      "questionHtml": "The average score in an English exam of a class of 45 students in a coaching centre is 52. A group of 6 boys having an average score of 40 leave the class and another group of eight boys having an average score of 43 join the class. What is the new average score of the class?",
+      "options": [
+        {
+          "id": "A",
+          "text": "48",
+          "html": "48"
+        },
+        {
+          "id": "B",
+          "text": "53",
+          "html": "53"
+        },
+        {
+          "id": "C",
+          "text": "49.5",
+          "html": "49.5"
+        },
+        {
+          "id": "D",
+          "text": "52",
+          "html": "52"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>The total number of students in the coaching centre is 45</p>\n\n<p>The average score of 45 students is 52.</p>\n\n<p>The number of students leaving the coaching centre is 6.</p>\n\n<p>The average of students leaving class is&nbsp;40.</p>\n\n<p>The number of students joining the coaching centre is 8</p>\n\n<p>The <span style=\"\">average score of</span> 8 boys joining the class is&nbsp; 43.</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Average = Sum of all the scores of the students / No. of students</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Sum of the scores of all the 45 students = Average&nbsp;&times; No. of students = 52&nbsp;<span style=\"\">&times;</span>&nbsp;45 = 2340</p>\n\n<p>A group of 6 boys leaving the class, average score is 40</p>\n\n<p>Sum of the scores of 6 boys = Average&nbsp;<span style=\"\">&times; No. of students = 40&nbsp;&times; 6 = 240</span></p>\n\n<p><span style=\"\">Sum of the scores of 8 boys joining the class = Average&nbsp;&times; No. of students = 43&nbsp;&times; 8 = 344</span></p>\n\n<p><span style=\"\">Average score of the class =&nbsp;<span class=\"math-tex\">\\(\\frac{[Sum \\ of\\ the\\ scores\\ of\\ all \\ the\\ 45\\ students \\ -\\ Sum\\ of\\ the \\ scores \\ of \\ 6\\ boys\\ leaving \\ the \\ class \\ +\\ Sum\\ of \\ the\\ scores\\ of\\ 8\\ boys \\ joining \\ the\\ class] }{[Total \\ number \\ of \\ students\\ \\ - \\ No.\\ of \\ students\\ leaving\\ +\\ No.\\ of\\ students\\ joining\\ the \\ class]}\\)</span></span></p>\n\n<p>Average score of the class =&nbsp;<span class=\"math-tex\">\\(\\frac{[2340 - 240 + 344]}{[45 - 6 + 8]}\\)</span></p>\n\n<p>Average score of the class =&nbsp;<span class=\"math-tex\">\\(\\frac{2444 }{ 47}\\)</span> = 52</p>\n\n<p>Hence, the average score of the class is 52.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q23",
+      "number": 23,
+      "question": "Rakesh runs a coaching institute having 50 faculty members. The average monthly salary of 35 faculty members is Rs. 37,500. What will be the average monthly salary (in Rs. ) of the other 15 faculty members, if the average monthly salary of all the 50 faculty members is found to be ₹Rs. 30,000?",
+      "questionHtml": "Rakesh runs a coaching institute having 50 faculty members. The average monthly salary of 35 faculty members is Rs. 37,500. What will be the average monthly salary (in Rs.&nbsp;) of the other 15 faculty members, if the average monthly salary of all the 50 faculty members is found to be ₹Rs.&nbsp;30,000?&nbsp;&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "13,000",
+          "html": "13,000&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "13,500",
+          "html": "13,500&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "12,500",
+          "html": "12,500&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "12,000",
+          "html": "12,000"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Total salary of 50 members ⇒ Rs. 30,000 × 50 = Rs. 1,500,000</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total salary of 35 members ⇒ Rs. 37,500 × 35 = Rs. 1,312,500</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total salary of 15 members ⇒ Rs. 1,500,000 - Rs. 1,312,500 = Rs. 187,500</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average salary of 15 members ⇒ Rs. 187,500 / 15 = Rs. 12,500</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q24",
+      "number": 24,
+      "question": "The average weight of a group of 3 people A, B and C is 70 kg. When D joins this group, the average becomes 60 kg. E's weight is 5 kg more than that of D, replaces A and the average weight of B, C, D, and E now becomes 59 kg. What is the average weight (in kg) of A, D and E? (Correct to the nearest integer)",
+      "questionHtml": "The average weight of a group of 3 people A, B and C is 70 kg. When D joins this group, the average becomes 60 kg. E&#39;s weight is 5 kg more than that of D, replaces A and the average weight of B, C, D, and E now becomes 59 kg. What is the average weight (in kg) of A, D and E? (Correct to the nearest integer)",
+      "options": [
+        {
+          "id": "A",
+          "text": "40",
+          "html": "40"
+        },
+        {
+          "id": "B",
+          "text": "35",
+          "html": "35"
+        },
+        {
+          "id": "C",
+          "text": "39",
+          "html": "39"
+        },
+        {
+          "id": "D",
+          "text": "30",
+          "html": "30"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Average weight of A, B and C = 70 kg</p>\n\n<p>Average weight of A, B, C and D = 60 kg</p>\n\n<p>Weight of E = Weight of D + 5 kg</p>\n\n<p>Average Weight of B, C, D and E = 59 kg</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>Average = (Sum of Values)/(Total Number)&nbsp;</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Sum of weight of A, B and C = 3&nbsp;&times;&nbsp;70 kg = 210 kg</p>\n\n<p>Sum of weight of A, B, C and D = 4&nbsp;&times; 60 kg = 240 kg</p>\n\n<p>Weight of D = (Sum of weight of A, B, C and D) &ndash; (Sum of weight of A, B,&nbsp;and C)</p>\n\n<p>&rArr; Weight of D =&nbsp; (240 &ndash;&nbsp;210) = 30 kg</p>\n\n<p>Weight of E = 30 kg + 5 kg = 35 kg</p>\n\n<p>Sum of weight of B, C, D and E = 4&nbsp;&times; 59 kg = 236 kg</p>\n\n<p>Weight of A = (Sum of weight of A, B, C and D&nbsp;+ Weight of E) &ndash;&nbsp;(Sum of weight of B, C, D and E)</p>\n\n<p>&rArr; Weight of A = 240 kg + 35 kg &ndash;&nbsp;236 kg = 39 kg</p>\n\n<p>Average weight of A, D and E = (Sum of weight of A, D and E)/3 = (39 kg + 30 kg + 35 kg)/3</p>\n\n<p>&rArr; Average weight of A, D and E = (104 kg)/3 = 34.66 kg&nbsp;&asymp; 35 kg</p>\n\n<p><strong>&there4; Average weight of A, D and E is 35 kg.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q25",
+      "number": 25,
+      "question": "What is the product of the average of first ten positive odd numbers and the average of first fifteen positive even numbers?",
+      "questionHtml": "What is the product of the average of first ten positive odd numbers and the average of first fifteen positive even numbers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "160",
+          "html": "160"
+        },
+        {
+          "id": "B",
+          "text": "150",
+          "html": "150"
+        },
+        {
+          "id": "C",
+          "text": "85.25",
+          "html": "85.25"
+        },
+        {
+          "id": "D",
+          "text": "44",
+          "html": "44"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>In an arithmetic progression,</p>\n\n<p>N<sup>th</sup>&nbsp;term = First term + (N - 1)&nbsp;&times; Common difference</p>\n\n<p><span style=\"\">In an arithmetic progression,</span></p>\n\n<p><span style=\"\">Average of a series = (First term + Last term)&nbsp;&divide; 2</span></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>The first positive odd number = 1</p>\n\n<p>Here, considering the first ten positive odd numbers as an arithmetic progression where 1 is the first term and the common difference is 2.</p>\n\n<p>So, the tenth positive odd number = 1 +&nbsp;(10 - 1)&nbsp;&times; 2 = 19</p>\n\n<p>Now, the average of the first ten positive odd numbers = (19 + 1)&nbsp;&divide; 2 = 10</p>\n\n<p style=\"\">The first positive even number = 2</p>\n\n<p style=\"\"><span style=\"\">Here, considering the first fifteen even numbers as an arithmetic progression where 2&nbsp;is the first term and the common difference is 2.</span></p>\n\n<p style=\"\">So, the fifteenth&nbsp;positive even number = 2&nbsp;+&nbsp;(15&nbsp;- 1)&nbsp;&times; 2 = 30</p>\n\n<p style=\"\">Then, the average of the <span style=\"\">fifteen</span>&nbsp;positive even numbers = (30&nbsp;+ 2)&nbsp;&divide; 2 = 16</p>\n\n<p style=\"\">Now,</p>\n\n<p style=\"\">The product of their average&nbsp;= 10&nbsp;&times; 16&nbsp;= 160</p>\n\n<p style=\"\"><strong>&there4; The&nbsp;<span style=\"\">product of the average of the first ten positive odd numbers and the average of the first fifteen positive even numbers is 160.</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q26",
+      "number": 26,
+      "question": "The average weight of 15 athletes and three trainers is 60 kg. When four more athletes of average weight 63 kg are included in the group, what is the average weight (in kg, rounded off to the nearest integer) of the group?",
+      "questionHtml": "The average weight of 15 athletes and three trainers is 60 kg. When four more athletes of average weight 63 kg are included in the group, what is the average weight (in kg, rounded off to the nearest integer) of the group?",
+      "options": [
+        {
+          "id": "A",
+          "text": "61",
+          "html": "61"
+        },
+        {
+          "id": "B",
+          "text": "62",
+          "html": "62"
+        },
+        {
+          "id": "C",
+          "text": "59",
+          "html": "59"
+        },
+        {
+          "id": "D",
+          "text": "60",
+          "html": "60"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Sum of weights of 18 people = 60 × 18 = 1080 kg</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average of 4 more athletes = 63 and sum of their weights = 63 × 4 = 252</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total weight of 19 athletes and 3 trainers = 1080 + 252 = 1332 Kg. New average = <span class=\"math-tex\">\\(\\frac{1332}{22}\\)</span> = 60.54kg ≈ 61 kg</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q27",
+      "number": 27,
+      "question": "The average of the squares of the first 46 natural numbers is",
+      "questionHtml": "The average of the squares of the first 46 natural numbers is",
+      "options": [
+        {
+          "id": "A",
+          "text": "729.5",
+          "html": "729.5"
+        },
+        {
+          "id": "B",
+          "text": "728.5",
+          "html": "728.5"
+        },
+        {
+          "id": "C",
+          "text": "727.5",
+          "html": "727.5"
+        },
+        {
+          "id": "D",
+          "text": "730.5",
+          "html": "730.5"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Average of squares of first 46 natural numbers = (46(46+1)</p>\n\n<p>(2×46+1))/(6×46)</p>\n\n<p>= (46 × 47 × 93) / (6 × 46)</p>\n\n<p>= 4371 / 6 =<strong> 728.5.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q28",
+      "number": 28,
+      "question": "The average of the weights of boys in a class is 69.3 kg and that of girls in the same class is 59.4 kg. If the average of the weight of all the boys and girls in the class is 63.8 kg, then the percentage of the number of girls in the class is:",
+      "questionHtml": "The average of the weights of boys in a class is 69.3 kg and that of girls in the same class is 59.4 kg. If the average of the weight of all the boys and girls in the class is 63.8 kg, then the percentage of the number of girls in the class is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(44 \\dfrac{5}{9}\\%\\)",
+          "html": "<span class=\"math-tex\">\\(44 \\dfrac{5}{9}\\%\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(45 \\dfrac{5}{9}\\%\\)",
+          "html": "<span class=\"math-tex\">\\(45 \\dfrac{5}{9}\\%\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(55 \\dfrac{5}{9}\\%\\)",
+          "html": "<span class=\"math-tex\">\\(55 \\dfrac{5}{9}\\%\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(54 \\dfrac{5}{9}\\%\\)",
+          "html": "<span class=\"math-tex\">\\(54 \\dfrac{5}{9}\\%\\)</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given: </strong></p>\n\n<p>The average weight of boys = 69.3 kg</p>\n\n<p>The average weight of girls = 59.4 kg</p>\n\n<p>The average weight of the whole class = 63.8 kg</p>\n\n<p><strong>Formula used: </strong></p>\n\n<p>g/b&nbsp;= (P<span style=\"font-size: 10.5px;\">b</span>&nbsp;&ndash; P<span style=\"font-size: 10.5px;\">w</span>)/(P<span style=\"font-size: 10.5px;\">w</span>&nbsp;&ndash; P<span style=\"font-size: 10.5px;\">b</span>)</p>\n\n<p>where, g/b&nbsp;is the ratio of the number of girls to the number of boys</p>\n\n<p>P<span style=\"font-size: 10.5px;\">b</span>, P<span style=\"font-size: 10.5px;\">g</span>&nbsp;and P<span style=\"font-size: 10.5px;\">w</span>&nbsp;are the average weight of the boys, average weight of girls and average weight of whole class&nbsp;respectively</p>\n\n<p><strong>Calculation: </strong></p>\n\n<p>According to the question,</p>\n\n<p>g/b&nbsp;= (69.3&nbsp;&ndash; 63.8)/(63.8&nbsp;&ndash; 59.4)</p>\n\n<p>&rArr; g/b&nbsp;= 5.5/4.4</p>\n\n<p>&rArr; g/b = 5/4&nbsp;&nbsp;</p>\n\n<p>&rArr;&nbsp; Percentage of girls = 5/9 &times; 100&nbsp;</p>\n\n<p>&rArr; Percentage of girls =&nbsp;<span class=\"math-tex\">\\(55 \\dfrac{5}{9}\\%\\)</span></p>\n\n<p><strong>&there4; The percentage of girls is</strong>&nbsp;<span class=\"math-tex\">\\(55 \\dfrac{5}{9}\\%\\)</span></p>\n\n<p><strong><img height=\"46px\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage37.png\" width=\"240px\" />&nbsp;</strong></p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/21/03/123w.PNG\" style=\"width: 305px; height: 205px;\" /></p>\n\n<p>&rArr; Ratio of boys and girls = 4.4/5.5</p>\n\n<p>&rArr; Ratio of boys and girls = 4/5</p>\n\n<p>&rArr; Percentage of girls = 5/9 &times; 100 = <span class=\"math-tex\">\\(55 \\dfrac{5}{9}\\%\\)</span></p>\n\n<p><span style=\"font-weight: 700;\">&there4; The percentage of girls is&nbsp;<span class=\"math-tex\">\\(55 \\dfrac{5}{9}\\%\\)</span></span></p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/quesImage37.png",
+        "https://storage.googleapis.com/tb-img/production/21/03/123w.PNG"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q29",
+      "number": 29,
+      "question": "In a class of 45 students, there are 20 girls who scored an average of 42 marks in a test of 50 marks. If the class average is 36, what are the average marks of the boys?",
+      "questionHtml": "In a class of 45 students, there are 20 girls who scored an average of 42 marks in a test of 50 marks. If the class average is 36, what are the average marks of the boys?",
+      "options": [
+        {
+          "id": "A",
+          "text": "32.50",
+          "html": "32.50"
+        },
+        {
+          "id": "B",
+          "text": "32.10",
+          "html": "32.10"
+        },
+        {
+          "id": "C",
+          "text": "30.80",
+          "html": "30.80"
+        },
+        {
+          "id": "D",
+          "text": "31.20",
+          "html": "31.20"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Average of class = 36 = (42 × 20 + 25 × a)/45 ⇒1620 – 840 = 25a ⇒ a = 780/25 = 31.20</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q30",
+      "number": 30,
+      "question": "The average of 31 numbers is 78. The average of the first 12 numbers is 75, and the average of the last 14 numbers is 80.5. What is the average of the remaining numbers?",
+      "questionHtml": "The average of 31 numbers is 78. The average of the first 12 numbers is 75, and the average of the last 14 numbers is 80.5. What is the average of the remaining numbers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "80.4",
+          "html": "80.4"
+        },
+        {
+          "id": "B",
+          "text": "78.2",
+          "html": "78.2"
+        },
+        {
+          "id": "C",
+          "text": "79.5",
+          "html": "79.5"
+        },
+        {
+          "id": "D",
+          "text": "79.2",
+          "html": "79.2"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"\"><span style=\"font-weight: 700;\">Formula:</span></p>\n\n<p style=\"\">Average = Sum of elements&nbsp;&divide; Total number of elements</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\">Sum of elements = 31 &times; 78 = 2418</p>\n\n<p style=\"\">Sum of 1<sup>st</sup> 12 number = 12&nbsp;&times; 75 = 900</p>\n\n<p style=\"\"><span style=\"\">Sum of last 14&nbsp;number = 14&nbsp;&times; 80.5 = 1127</span></p>\n\n<p style=\"\"><span style=\"\">Sum of remaining elements = 2418 - (900 + 1127) = 391</span></p>\n\n<p style=\"\"><span style=\"\">Total remaining elements = 31 - (12 + 14) = 5</span></p>\n\n<p style=\"\"><span style=\"\">Average of remaining elements =&nbsp;<span class=\"math-tex\">\\( 391\\over5\\)</span>&nbsp;= 78.2</span></p>\n\n<p style=\"\"><span style=\"\">&there4; <strong>The average of remaining numbers is 78.2.</strong></span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q31",
+      "number": 31,
+      "question": "A library has an average of 265 visitors on Sundays and 130 visitors on other days. The average number of visitors per day in a month of 30 days beginning with a Monday is:",
+      "questionHtml": "A library has an average of 265 visitors on Sundays and 130 visitors on other days. The average number of visitors per day in a month of 30 days beginning with a Monday is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "135",
+          "html": "135"
+        },
+        {
+          "id": "B",
+          "text": "165",
+          "html": "165"
+        },
+        {
+          "id": "C",
+          "text": "148",
+          "html": "148"
+        },
+        {
+          "id": "D",
+          "text": "129",
+          "html": "129"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p> </p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Average = (M<sub>1</sub> × N<sub>1</sub> + M<sub>2</sub> × N<sub>2</sub>)/(M<sub>1</sub> + M<sub>2</sub>)</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Since the month begins with a Monday, so there will be four Sundays in the month.</p>\n\n<p>M<sub>1</sub> = Number of Sunday</p>\n\n<p>M<sub>1</sub> = 4</p>\n\n<p>M<sub>2</sub> = Remaining days</p>\n\n<p>M<sub>2</sub> = 26</p>\n\n<p>N<sub>1</sub> = Average visitors on Sundays</p>\n\n<p>N<sub>1</sub> = 265</p>\n\n<p>N<sub>2</sub> = Average visitors on Sundays</p>\n\n<p>N<sub>2</sub> = 130</p>\n\n<p>Required average,     </p>\n\n<p>⇒ (265 x 4 + 130 x 26)/30</p>\n\n<p>⇒ 4440/30</p>\n\n<p>⇒ 148</p>\n\n<p><strong>∴ The average number of visitors per day 148</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q32",
+      "number": 32,
+      "question": "The average of 16 numbers is 48. The average of the first 7 numbers is 45 and the average of the next 6 numbers is 52. If the 14 th number is 11 less than the 15 th number and is 5 more than the 16 th number, then the average of the 15 th and 16 th number is∶",
+      "questionHtml": "The average of 16 numbers is 48. The average of the first 7 numbers is 45 and the average of the next 6 numbers is 52. If the 14<sup>th</sup> number is 11 less than the 15<sup>th</sup> number and is 5 more than the 16<sup>th</sup> number, then the average of the 15<sup>th</sup> and 16<sup>th </sup>number is∶",
+      "options": [
+        {
+          "id": "A",
+          "text": "47.5",
+          "html": "47.5"
+        },
+        {
+          "id": "B",
+          "text": "48.5",
+          "html": "48.5"
+        },
+        {
+          "id": "C",
+          "text": "49",
+          "html": "49"
+        },
+        {
+          "id": "D",
+          "text": "48",
+          "html": "48"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The sum of 16 numbers = 48 &times; 16 = 768</p>\n\n<p>The sum of first 7 numbers = 45 &times; 7 = 315</p>\n\n<p>The sum of next 6 numbers = 52 &times; 6 = 312</p>\n\n<p>The sum of the last 3 numbers = 768 - 315 - 312 = 141</p>\n\n<p>Let the 16<sup>th</sup> number be x.</p>\n\n<p>14<sup>th</sup> number = x + 5</p>\n\n<p>14<sup>th</sup> number = 15<sup>th</sup> number - 11</p>\n\n<p>&rArr; x + 5 = 15<sup>th</sup> number - 11</p>\n\n<p>&rArr; 15<sup>th</sup> number = x + 16</p>\n\n<p>The sum of the last 3 numbers = 141</p>\n\n<p>&rArr; x + x + 5 + x + 16 = 141</p>\n\n<p>&rArr; x = 40</p>\n\n<p>15<sup>th</sup> number = 40 + 16 = 56</p>\n\n<p>The average of the 15<sup>th</sup> and 16<sup>th </sup>number = (56 + 40)/2 = 48</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span>&nbsp;Deflection of the first seven numbers from average = 7&nbsp;&times; (45 - 48) = -21</p>\n\n<p>Deflection of the next 6 numbers from average = (52 - 48)&nbsp;&times; 6 = +24</p>\n\n<p>Total deflection of 24 - 21 = 3</p>\n\n<p>Deflection of the last three numbers from the average = -3</p>\n\n<p>The sum of last three numbers should = 48&nbsp;&times; 3 - 3 = 141</p>\n\n<p>&rArr;&nbsp;x + x + 5 + x + 16 = 141</p>\n\n<p style=\"\">&rArr; x = 40</p>\n\n<p style=\"\">15<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">th</span>&nbsp;number = 40 + 16 = 56</p>\n\n<p style=\"\">The average of the 15<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">th</span>&nbsp;and 16<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">th&nbsp;</span>number = (56 + 40)/2 = 48</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q33",
+      "number": 33,
+      "question": "The average weight of 3 persons A, B and C is 60 kg. When D joins the group, the average weight becomes 65 kg. When another person E whose weight is 3 kg less than that of D replaces A, the average weight of B, C, D and E becomes 67 kg. What is the weight of A?",
+      "questionHtml": "The average weight of 3 persons A, B and C is 60 kg. When D joins the group, the average weight becomes 65 kg. When another person E whose weight is 3 kg less than that of D replaces A, the average weight of B, C, D and E becomes 67 kg. What is the weight of A?",
+      "options": [
+        {
+          "id": "A",
+          "text": "60 kg",
+          "html": "60 kg"
+        },
+        {
+          "id": "B",
+          "text": "72 kg",
+          "html": "72 kg"
+        },
+        {
+          "id": "C",
+          "text": "65 kg",
+          "html": "65 kg"
+        },
+        {
+          "id": "D",
+          "text": "69 kg",
+          "html": "69 kg"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"\"><span style=\"font-weight: 700;\">Given:</span></p>\n\n<p style=\"\"><span style=\"\">The average weight of 3 persons A, B, and C is 60 kg. </span></p>\n\n<p style=\"\"><span style=\"\">When D joins the group, the average weight becomes 65 kg. </span></p>\n\n<p style=\"\"><span style=\"\">E whose weight is 3 kg less than that of D replaces A, the average weight of B, C, D, and E becomes 67 kg.</span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Concept used:</span></p>\n\n<p style=\"\">Total = Average&nbsp;&times;&nbsp;Number of entities</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\">So, the weight of D&nbsp; = (65 &times; 4) - (60&nbsp;&times; 3) = 80kg</p>\n\n<p style=\"\">Then, the weight of E = 80 - 3 = 77kg</p>\n\n<p style=\"\"><span style=\"\">According to the question,</span></p>\n\n<p style=\"\"><span style=\"\">77 + (60 &times; 3 - A) + 80 = 67&nbsp;&times; 4</span></p>\n\n<p style=\"\"><span style=\"\">&rArr; A = 69</span></p>\n\n<p style=\"\"><strong><span style=\"\">&there4; The weight of A&nbsp; is 69kg.</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q34",
+      "number": 34,
+      "question": "The average of A, B and C is 18 and that of C, D and E is 12 and that of E and F is 6.5 and that of E and C is 3.5. What is the average of A, B, C, D, E and F?",
+      "questionHtml": "The average of A, B and C is 18 and that of C, D and E is 12 and that of E and F is 6.5 and that of E and C is 3.5. What is the average of A, B, C, D, E and F?",
+      "options": [
+        {
+          "id": "A",
+          "text": "24",
+          "html": "24"
+        },
+        {
+          "id": "B",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "C",
+          "text": "18",
+          "html": "18"
+        },
+        {
+          "id": "D",
+          "text": "22",
+          "html": "22"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given&nbsp;</strong></p>\n\n<p>The average of A, B and C = 18 years&nbsp;</p>\n\n<p>The average of C, D and E = 12 years&nbsp;</p>\n\n<p><strong>Formula Used&nbsp;</strong></p>\n\n<p>Average = (sum of observation)/(No. of observation)</p>\n\n<p><strong>Calculation&nbsp;</strong></p>\n\n<p>&rArr;&nbsp;Total age of A, B and C = 18&nbsp;&times; 3 = 54&nbsp; -----(i)</p>\n\n<p>&rArr; Total age of C, D and E = 12&nbsp;&times; 3 = 36&nbsp; ------(ii)</p>\n\n<p>&rArr; E + F = 13 ---(iii)</p>\n\n<p>&rArr; E + C = 7 ----(iv)</p>\n\n<p>&rArr; from iii and iv&nbsp;</p>\n\n<p>&rArr; F - C = 6 -----(v)&nbsp;</p>\n\n<p>&rArr;Adding (i), (ii) and (v)&nbsp;</p>\n\n<p>&rArr; A + B + C + C + D + E + F - C = 54 + 36 + 6&nbsp;</p>\n\n<p>&rArr; A + B + C + D + E + F = 96&nbsp;</p>\n\n<p>&rArr; the average = 96/6 = 16&nbsp;</p>\n\n<p>&there4; the average of A, B, C, D, E and F is 16 years&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q35",
+      "number": 35,
+      "question": "The ratio of the number of boys to that of girls in a class is 4 ∶ 5. The average score in mathematics of all the boys and girls is 70. If the average score of the girls is 30% more than that of the boys, then what is the average score of the boys?",
+      "questionHtml": "<span style=\"\">The ratio of the number of boys to that of girls in a class is 4&nbsp;∶ 5. The average score in mathematics of all the boys and girls is 70. If the average score of the girls is 30% more than that of the boys, then what is the average score of the boys?</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "54",
+          "html": "54"
+        },
+        {
+          "id": "B",
+          "text": "64",
+          "html": "64"
+        },
+        {
+          "id": "C",
+          "text": "68",
+          "html": "68"
+        },
+        {
+          "id": "D",
+          "text": "60",
+          "html": "60"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given data:&nbsp;</strong></p>\n\n<p>Boys : Girls = 4 : 5</p>\n\n<p>Average score of boys and girls = 70</p>\n\n<p>Average score of girls = 30% more than boys</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Let the average score of boys be &quot;a&quot;</p>\n\n<p>&rArr; average score of girls = 1.3a</p>\n\n<p>Let the number of boys and girls be 4 and 5 respectively.</p>\n\n<p>Average score of boys and girls =&nbsp;<span class=\"math-tex\">\\(4a + (1.3a × 5) \\over 4+5\\)</span></p>\n\n<p>According to the question, average = 70</p>\n\n<p>&there4;&nbsp;<span class=\"math-tex\">\\(4a + (1.3a × 5) \\over 4+5\\)</span>&nbsp;= 70</p>\n\n<p>&rArr; 4a + 6.5a = 70&nbsp;&times; 9</p>\n\n<p>&rArr; 10.5a = 630</p>\n\n<p>&rArr; a =&nbsp;<span class=\"math-tex\">\\(630\\over 10.5\\)</span>&nbsp;= 60</p>\n\n<p>&there4; <strong>The average score of the boys is 60.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q36",
+      "number": 36,
+      "question": "The average of twelve numbers is 39. The average of the last five numbers is 35, and that of the first four numbers is 40. The fifth number is 6 less than the sixth number and 5 more than the seventh number. The average of the fifth and sixth numbers is:",
+      "questionHtml": "The average of twelve numbers is 39. The average of the last five numbers is 35, and that of the first four numbers is 40. The fifth number is 6 less than the sixth number and 5 more than the seventh number. The average of the fifth and sixth numbers is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "44",
+          "html": "44"
+        },
+        {
+          "id": "B",
+          "text": "47",
+          "html": "47"
+        },
+        {
+          "id": "C",
+          "text": "50",
+          "html": "50"
+        },
+        {
+          "id": "D",
+          "text": "39",
+          "html": "39"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>The average of twelve numbers = 39.</p>\n\n<p>The average of the last five numbers = 35,</p>\n\n<p>The average of the first four numbers = 40.</p>\n\n<p>The fifth number is 6 less than the sixth number and 5 more than the seventh number.&nbsp;</p>\n\n<p><strong>Concept Used:</strong></p>\n\n<p>Sum = Average&nbsp;&times; total number</p>\n\n<p><strong>Solution:</strong></p>\n\n<p>The Sum of the twelve numbers = 12&nbsp;&times; 39 = 468</p>\n\n<p>The sum of the last&nbsp;five number = 5&nbsp;&times; 35 = 175</p>\n\n<p>The sum of the first four number = 4&nbsp;&times; 40 = 160</p>\n\n<p>The sum of the fifth, sixth and seventh number = (468 &ndash;&nbsp;175 &ndash;&nbsp;160) = 133</p>\n\n<p>Let, the fifth&nbsp;number is x</p>\n\n<p>Then, the sixth&nbsp;number is (x +&nbsp;6) and the seventh number is (x &ndash;&nbsp;5)</p>\n\n<p>x + (x + 6) + (x &ndash;&nbsp;5) = 133</p>\n\n<p>&rArr; 3x + 1 = 133</p>\n\n<p>&rArr; 3x = 132</p>\n\n<p>&rArr; x = 44</p>\n\n<p>The fifth number is 44 and the sixth number is (44 + 6) = 50</p>\n\n<p>Average of fifth and sixth number is (44 + 50)/2 = 47</p>\n\n<p><strong>&there4; The average of fifth and sixth number is 47</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q37",
+      "number": 37,
+      "question": "The average age of Abhay, his wife and their child 6 years ago was 42 years and that of his wife and their child 8 years ago was 30 years, Find the present age of Abhay.",
+      "questionHtml": "The average age of Abhay, his wife and their child 6 years ago was 42 years and that of his wife and their child 8 years ago was 30 years, Find the present age of Abhay.",
+      "options": [
+        {
+          "id": "A",
+          "text": "68 years",
+          "html": "<span style=\"\">68 years</span>"
+        },
+        {
+          "id": "B",
+          "text": "63 years",
+          "html": "<span style=\"\">63 years</span>"
+        },
+        {
+          "id": "C",
+          "text": "64 years",
+          "html": "<span style=\"\">64 years</span>"
+        },
+        {
+          "id": "D",
+          "text": "66 years",
+          "html": "<span style=\"\">66 years</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Present average of <strong>Abhay, wife, and child</strong> = 42 + 6 = 48 years</p>\n<p>Total present age of the three = 48 × 3 = 144 years</p>\n<p>Present average of <strong>wife and child</strong> = 30 + 8 = 38 years</p>\n<p>Total present age of wife and child = 38 × 2 = 76 years</p>\n<p>Present age of <strong>Abhay</strong> = 144 − 76 = 68 years</p>\n<p><strong>∴ The correct answer is 68 years.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Average age of <strong>Abhay (A), Wife (W), and Child (C)</strong> 6 years ago = 42 years</p>\n<p>Average age of <strong>Wife (W) and Child (C)</strong> 8 years ago = 30 years</p>\n<p><strong>Formula Used:</strong></p>\n<p>Sum of ages = Average age × Number of persons</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_92e00765.png/1784028521.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Sum of ages of A, W, and C (6 years ago) = 42 × 3 = 126 years</p>\n<p>⇒ Total <strong>present age</strong> of A, W, and C = 126 + (3 × 6) = 144 years</p>\n<p>⇒ Sum of ages of W and C (8 years ago) = 30 × 2 = 60 years</p>\n<p>⇒ Total <strong>present age</strong> of W and C = 60 + (2 × 8) = 76 years</p>\n<p>⇒ Present age of Abhay = (A + W + C)<sub>present</sub> − (W + C)<sub>present</sub></p>\n<p>⇒ Present age of Abhay = 144 − 76 = 68 years</p>\n<p><strong>∴ The correct answer is 68 years.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Average Age Property</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If the average age of 'n' persons is 'X' years, then 'k' years ago, their average age was (X − k) years, and 'k' years later, it will be (X + k) years.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Total Age Calculation</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Total Age = Average Age × Number of Persons. This formula is fundamental for solving any problem involving group averages and individual age changes.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Age Gap Consistency</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The difference between the ages of two people remains constant regardless of the number of years that pass or have passed.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_92e00765.png/1784028521.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q38",
+      "number": 38,
+      "question": "The average of the first four numbers is three times the fifth number. If the average of all the five numbers is 85.8, then the fifth number is;",
+      "questionHtml": "The average of the first four numbers is three times the fifth number. If the average of all the five numbers is 85.8, then the fifth number is;",
+      "options": [
+        {
+          "id": "A",
+          "text": "39",
+          "html": "39"
+        },
+        {
+          "id": "B",
+          "text": "34",
+          "html": "34"
+        },
+        {
+          "id": "C",
+          "text": "33",
+          "html": "33"
+        },
+        {
+          "id": "D",
+          "text": "29",
+          "html": "29"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let the fifth number be x, then</p>\n\n<p>Average of first four number = 3x</p>\n\n<p><span style=\"\">⇒ </span>4 × 3x + x = 85.8 × 5 ⇒ 12x + x = 429</p>\n∴ x = 33",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q39",
+      "number": 39,
+      "question": "The average age of 7 members of a family is 35 years. If the youngest members are twins and they are 15 years old, then what was the average age (in years) of the family members at the time of the birth of the twins?",
+      "questionHtml": "The average age of 7 members of a family is 35 years. If the youngest members are twins and they are 15 years old, then what was the average age (in years) of the family members at the time of the birth of the twins?",
+      "options": [
+        {
+          "id": "A",
+          "text": "25",
+          "html": "25"
+        },
+        {
+          "id": "B",
+          "text": "28",
+          "html": "28"
+        },
+        {
+          "id": "C",
+          "text": "30",
+          "html": "30"
+        },
+        {
+          "id": "D",
+          "text": "27",
+          "html": "27"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">The average age of 7 members of family is 35 years</span></p>\n\n<p><span style=\"\">youngest members are twins and they are 15 years old</span></p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>Sum = average&nbsp;&times;&nbsp;number</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Total&nbsp;<span style=\"\">age of 7 members of&nbsp;family is 35 years = 35&nbsp;&times; 7 = 245 years</span></p>\n\n<p><span style=\"\">At the time of birth of twins, total age of family of 5 members = 245 - 15&nbsp;&times; 7 = 140</span></p>\n\n<p><span style=\"\">&there4; At the time of birth of twins, Average&nbsp;age of family of 5 members&nbsp; =140/5 = 28 years</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q40",
+      "number": 40,
+      "question": "The average of 8 consecutive even numbers written in ascending order is 17. What is the average of the last three numbers, 36 and 53?",
+      "questionHtml": "The average of 8 consecutive even numbers written in ascending order is 17. What is the average of the last three numbers, 36 and 53?",
+      "options": [
+        {
+          "id": "A",
+          "text": "31",
+          "html": "31"
+        },
+        {
+          "id": "B",
+          "text": "29.8",
+          "html": "29.8"
+        },
+        {
+          "id": "C",
+          "text": "31.6",
+          "html": "31.6"
+        },
+        {
+          "id": "D",
+          "text": "32.2",
+          "html": "32.2"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>The average of 8 consecutive even numbers in ascending order = 17</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Sum of the observations/Number of observations</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let the 8 consecutive even numbers be (2a&nbsp;<span style=\" line-height: 115%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&ndash;&nbsp;</span>6), (2a&nbsp;<span style=\" line-height: 115%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&ndash;&nbsp;</span>4), (2a&nbsp;<span style=\" line-height: 115%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&ndash;&nbsp;</span>2), 2a, (2a +2), (2a + 4), (2a + 6) and (2a + 8)</p>\n\n<p>Sum of 8 consecutive even numbers =&nbsp;(2a&nbsp;<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: 16.1px;\">&ndash;&nbsp;</span>6) +&nbsp;(2a&nbsp;<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: 16.1px;\">&ndash;&nbsp;</span>4) +&nbsp;(2a&nbsp;<span style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: 16.1px;\">&ndash;&nbsp;</span>2) +&nbsp;2a, (2a +2) +&nbsp;(2a + 4) +&nbsp;(2a + 6) +&nbsp;(2a + 8)</p>\n\n<p>&rArr; 16a + (-12 +20)</p>\n\n<p>&rArr; 16a + 8</p>\n\n<p>Average sum of 8 consecutive even numbers = (16a + 8)/8 = 17</p>\n\n<p>&rArr; 8(2a + 1)/8 = 17</p>\n\n<p>&rArr; 2a + 1 = 17</p>\n\n<p>&rArr; 2a = (17&nbsp;<span style=\" line-height: 115%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&ndash;&nbsp;</span>1)</p>\n\n<p>&rArr; 2a = 16</p>\n\n<p>Now, putting the value in last three three numbers</p>\n\n<p>&rArr; (2a + 4) = (16 + 4) = 20</p>\n\n<p>&rArr; (2a + 6) = (16 + 6) = 22</p>\n\n<p>&rArr; (2a + 8) = (16 + 8) = 24</p>\n\n<p>Again,</p>\n\n<p>Sum of last three numbers,&nbsp;36 and&nbsp;53 = (20 + 22 + 24 + 36 + 53)</p>\n\n<p>&rArr; 155</p>\n\n<p>Average of sum of last three numbers,&nbsp;36 and 53 = (155/5)</p>\n\n<p>&rArr; 31</p>\n\n<p><strong>&there4; The average of the last three numbers, 36 and 53 is 31</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span></strong></p>\n\n<p><strong>Concept Used:</strong></p>\n\n<p>Average consecutive even,</p>\n\n<p>If the number of terms is&nbsp;Odd then,</p>\n\n<p>Average will be the middle&nbsp;term of it.</p>\n\n<p>If the number of terms is Even then,&nbsp;</p>\n\n<p>Average will be the average of the middle pair.</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>According to the question,&nbsp;</p>\n\n<p>There are&nbsp;<span style=\"\">8 consecutive even numbers, which have 17 as average.&nbsp;</span></p>\n\n<p><span style=\"\">Hence the average of the middle pair is 17,&nbsp;</span></p>\n\n<p><span style=\"\">Sum of middle pair = 17&nbsp;&times; 2 = 34</span></p>\n\n<p><span style=\"\">Now the pair will be,&nbsp;</span></p>\n\n<p><span style=\"\">16 + 18 = 34 (consecutive pair)</span></p>\n\n<p><span style=\"\">As there are 8 numbers and we have middle pair,&nbsp;</span></p>\n\n<p><span style=\"\">Then all 8 numbers will be,&nbsp;</span></p>\n\n<p><span style=\"\">10, 12, 14, 16, 18, 20, 22, 24,&nbsp;</span></p>\n\n<p><span style=\"\">Average of last 3 and 36 &amp; 53</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;(20 + 22 + 24 + 36 + 53)/5&nbsp;= 155/5 = 31&nbsp;</span></p>\n\n<p><span style=\"font-weight: 700; \">&there4; The average of the last three numbers, 36 and 53 is 31</span></p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q41",
+      "number": 41,
+      "question": "What is the ratio of the average of first eight prime numbers to the average of first ten even natural numbers.",
+      "questionHtml": "What is the ratio of the average of first eight prime numbers to the average of first ten even natural numbers.",
+      "options": [
+        {
+          "id": "A",
+          "text": "7 : 8",
+          "html": "7 : 8"
+        },
+        {
+          "id": "B",
+          "text": "1 : 7",
+          "html": "1 : 7"
+        },
+        {
+          "id": "C",
+          "text": "8 : 70",
+          "html": "8 : 70"
+        },
+        {
+          "id": "D",
+          "text": "7 : 80",
+          "html": "7 : 80"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Formula:</strong></p>\n\n<p>Average = (sum of terms)/(Number of terms)</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>First 8 prime numbers = 2, 3, 5, 7,11, 13, 17, 19</p>\n\n<p>First 10&nbsp;even natural numbers = 2, 4, 6, 8, 10, 12,&nbsp;14,16,18, 20</p>\n\n<p>Average of first 8 prime numbers = (2 + 3 + 5 + 7 + 11 + 13 + 17 + 19)/8 = 77/8</p>\n\n<p>Average of first 10&nbsp;even natural numbers = (2&nbsp;+ 4&nbsp;+ 6&nbsp;+ 8&nbsp;+ 10&nbsp;+ 12&nbsp;+ 14&nbsp;+ 16&nbsp;+ 18&nbsp;+ 20)/10&nbsp;= 110/10 = 11</p>\n\n<p>Required ratio = (77/8) : 11&nbsp;= 7 : 8</p>\n\n<p><strong>&there4;&nbsp;the ratio of the average of first eight prime numbers to the average of first ten even natural numbers is 7 : 8.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q42",
+      "number": 42,
+      "question": "The average of twelve numbers is 42. The average of the last five numbers is 40, and that of the first four numbers is 44. The sixth number is 6 less than the fifth number and 5 less than the seventh number. The average of the sixth and seventh numbers is:",
+      "questionHtml": "The average of twelve numbers is 42. The average of the last five numbers is 40, and that of the first four numbers is 44. The sixth number is 6 less than the fifth number and 5 less than the seventh number. The average of the sixth and seventh numbers is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "43.5",
+          "html": "43.5"
+        },
+        {
+          "id": "B",
+          "text": "45.5",
+          "html": "45.5"
+        },
+        {
+          "id": "C",
+          "text": "44.5",
+          "html": "44.5"
+        },
+        {
+          "id": "D",
+          "text": "41.5",
+          "html": "41.5"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Net deviation of first 4 numbers = 4 × (44 − 42) = +8</p>\n<p>Net deviation of last 5 numbers = 5 × (40 − 42) = −10</p>\n<p>Sum of 5th, 6th, and 7th numbers = (3 × 42) − (8 − 10) = 126 + 2 = 128</p>\n<p>Let 6th number be x, then (x + 6) + x + (x + 5) = 128 ⇒ 3x = 117 ⇒ x = 39</p>\n<p>Average of 6th (39) and 7th (44) = (39 + 44) ÷ 2 = 41.5</p>\n<p><strong>∴ The correct option is D.</strong></p><p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Average of 12 numbers = 42</p>\n<p>Average of first 4 numbers = 44</p>\n<p>Average of last 5 numbers = 40</p>\n<p>6th number is 6 less than 5th and 5 less than 7th.</p>\n<p><strong>Formula Used:</strong></p>\n<p>Sum = Average × Number of observations</p>\n<svg width='420' height='200' viewBox='0 0 420 200' xmlns='http://www.w3.org/2000/svg' style='display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;'>\n  <rect x='20' y='70' width='120' height='60' fill='#ddeeff' stroke='#2255cc' stroke-width='2' />\n  <rect x='140' y='70' width='100' height='60' fill='#fff0cc' stroke='#cc5500' stroke-width='2' />\n  <rect x='240' y='70' width='160' height='60' fill='#ddeeff' stroke='#2255cc' stroke-width='2' />\n  <text x='80' y='105' text-anchor='middle' fill='#222222' font-family='sans-serif' font-size='13'>First 4 (Avg 44)</text>\n  <text x='190' y='105' text-anchor='middle' fill='#222222' font-family='sans-serif' font-size='13'>5, 6, 7 (Avg ?)</text>\n  <text x='320' y='105' text-anchor='middle' fill='#222222' font-family='sans-serif' font-size='13'>Last 5 (Avg 40)</text>\n  <text x='210' y='45' text-anchor='middle' fill='#2255cc' font-family='sans-serif' font-size='15' font-weight='bold'>Total of 12 Numbers (Avg 42)</text>\n  <line x1='20' y1='150' x2='400' y2='150' stroke='#888888' stroke-dasharray='5,3' stroke-width='1' />\n  <text x='210' y='175' text-anchor='middle' fill='#cc5500' font-family='sans-serif' font-size='13' font-weight='bold'>Remaining Sum (5th+6th+7th) = 128</text>\n</svg>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Total sum of 12 numbers = 12 × 42 = 504</p>\n<p>⇒ Sum of first 4 numbers = 4 × 44 = 176</p>\n<p>⇒ Sum of last 5 numbers = 5 × 40 = 200</p>\n<p>⇒ Sum of 5th, 6th, and 7th numbers = 504 − (176 + 200) = 504 − 376 = 128</p>\n<p>⇒ Let 6th number = x</p>\n<p>⇒ 5th number = x + 6</p>\n<p>⇒ 7th number = x + 5</p>\n<p>⇒ (x + 6) + x + (x + 5) = 128</p>\n<p>⇒ 3x + 11 = 128 ⇒ 3x = 117 ⇒ x = 39</p>\n<p>⇒ 6th number = 39, 7th number = 39 + 5 = 44</p>\n<p>⇒ Average of 6th and 7th numbers = (39 + 44) ÷ 2 = 83 ÷ 2 = 41.5</p>\n<p><strong>∴ The correct option is D.</strong></p><p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Average Concept</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Average = (Sum of all observations) ÷ (Total number of observations). It represents the central value of a data set.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Deviation Method</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The sum of deviations of all observations from the actual mean is always zero. This property helps in finding missing values quickly.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Weighted Average</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When two or more groups are combined, the new average A = (n<sub>1</sub>a<sub>1</sub> + n<sub>2</sub>a<sub>2</sub>) ÷ (n<sub>1</sub> + n<sub>2</sub>), where n is the count and a is the individual group average.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q43",
+      "number": 43,
+      "question": "In a class, there are 54 students. \\(33\\frac{1}{3}\\%\\) of the number of students are boys and rest are girls. The average score in mathematic of boys in 50% more than that of the girls. If the average score of all the students is 70, then what is the average score of the boys?",
+      "questionHtml": "In a class, there are 54 students. <span class=\"math-tex\">\\(33\\frac{1}{3}\\%\\)</span>&nbsp;of the number of students are boys and rest are girls. The average score in mathematic of boys in 50% more than that of the girls. If the average score of all the students is 70, then what is the average score of the boys?",
+      "options": [
+        {
+          "id": "A",
+          "text": "81",
+          "html": "81"
+        },
+        {
+          "id": "B",
+          "text": "84",
+          "html": "84"
+        },
+        {
+          "id": "C",
+          "text": "87",
+          "html": "87"
+        },
+        {
+          "id": "D",
+          "text": "90",
+          "html": "90"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:-</strong></p>\n\n<p>A class of 54 students</p>\n\n<p>Average of mathematic score of boys = 50% more than of girls</p>\n\n<p><strong>Formula used:-</strong></p>\n\n<p>Average = (Sum of values)/No. of values</p>\n\n<p><strong>Calculation:-</strong></p>\n\n<p>Total number of students = 54</p>\n\n<p><span class=\"math-tex\">\\(33\\frac{1}{3}\\%\\)</span>&nbsp;= (100/3)% = 1/3</p>\n\n<p>Number of boys = 54 &times; 1/3 = 18</p>\n\n<p>Number of girls = 54 &ndash; 18 = 36</p>\n\n<p>Average score of girls = 2x</p>\n\n<p>Average score of boys = 2x &times; (3/2) = 3x</p>\n\n<p>According to the question,</p>\n\n<p>18 &times; 3x + 36 &times; 2x = 54 &times; 70</p>\n\n<p>54x + 72x = 3780</p>\n\n<p>126x = 3780</p>\n\n<p>x = 3780/126 = 30</p>\n\n<p>Average score of boys = 30 &times; 3 = 90</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q44",
+      "number": 44,
+      "question": "A company employed 700 men and 300 women and the average wage was Rs. 450 per day. If a man got Rs. 50 more than a woman, then the daily wage of the women is:",
+      "questionHtml": "A company employed 700 men and 300 women and the average wage was Rs. 450 per day. If a man got Rs. 50 more than a woman, then the daily wage of the women is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 350",
+          "html": "Rs. 350"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 375",
+          "html": "Rs. 375"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 415",
+          "html": "Rs. 415"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 435",
+          "html": "Rs. 435"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Total employees = 700 + 300 = 1000</p>\n<p>Total Wage = 1000 × 450 = Rs. 4,50,000</p>\n<p>Extra amount given to 700 men = 700 × 50 = Rs. 35,000</p>\n<p>Total wage if all were women = 4,50,000 − 35,000 = Rs. 4,15,000</p>\n<p>Daily wage of a woman = 4,15,000 ÷ 1000 = Rs. 415</p>\n<p><strong>∴ The correct option is C.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Number of men (n<sub>1</sub>) = 700</p>\n<p>Number of women (n<sub>2</sub>) = 300</p>\n<p>Average wage of all employees = Rs. 450</p>\n<p>Man wage − Woman wage = Rs. 50</p>\n<p><strong>Formula Used:</strong></p>\n<p>Combined Average = (n<sub>1</sub> × x<sub>1</sub> + n<sub>2</sub> × x<sub>2</sub>) ÷ (n<sub>1</sub> + n<sub>2</sub>)</p>\n\n<svg width=\"420\" height=\"200\" viewBox=\"0 0 420 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <rect x=\"50\" y=\"60\" width=\"210\" height=\"60\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"2\" />\n  <rect x=\"260\" y=\"80\" width=\"90\" height=\"40\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"2\" />\n  <text x=\"120\" y=\"95\" fill=\"#222222\" font-size=\"13\" font-weight=\"bold\">700 Men</text>\n  <text x=\"275\" y=\"105\" fill=\"#222222\" font-size=\"13\" font-weight=\"bold\">300 Women</text>\n  <text x=\"125\" y=\"50\" fill=\"#2255cc\" font-size=\"12\">Wage: (x + 50)</text>\n  <text x=\"275\" y=\"70\" fill=\"#cc5500\" font-size=\"12\">Wage: x</text>\n  <line x1=\"50\" y1=\"150\" x2=\"350\" y2=\"150\" stroke=\"#888888\" stroke-dasharray=\"5,3\" />\n  <text x=\"160\" y=\"175\" fill=\"#222222\" font-size=\"14\" font-weight=\"bold\">Combined Avg = Rs. 450</text>\n</svg>\n\n<p>Let the daily wage of a woman be Rs. x.</p>\n<p>Daily wage of a man = Rs. (x + 50)</p>\n<p>⇒ Total employees = 700 + 300 = 1000</p>\n<p>⇒ Total daily wage = 1000 × 450 = 4,50,000</p>\n<p>⇒ 700 × (x + 50) + 300 × x = 4,50,000</p>\n<p>⇒ 700x + 35,000 + 300x = 4,50,000</p>\n<p>⇒ 1000x + 35,000 = 4,50,000</p>\n<p>⇒ 1000x = 4,50,000 − 35,000</p>\n<p>⇒ 1000x = 4,15,000</p>\n<p>⇒ x = 4,15,000 ÷ 1000</p>\n<p>⇒ x = 415</p>\n<p><strong>∴ The correct option is C.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Combined Average Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When two groups with averages A<sub>1</sub> and A<sub>2</sub> are mixed, the combined average is (n<sub>1</sub>A<sub>1</sub> + n<sub>2</sub>A<sub>2</sub>) ÷ (n<sub>1</sub> + n<sub>2</sub>).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Weighted Average via Deviation</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If the average is A, the sum of deviations of all observations from A is always zero.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Alligation Method</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The ratio of the quantities is inversely proportional to the differences between their individual values and the mean value: n<sub>1</sub>/n<sub>2</sub> = (Mean − A<sub>2</sub>) / (A<sub>1</sub> − Mean).</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q45",
+      "number": 45,
+      "question": "The average of all prime numbers between 32 and 69 is:",
+      "questionHtml": "The average of all prime numbers between 32 and 69 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "52.5",
+          "html": "52.5"
+        },
+        {
+          "id": "B",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "C",
+          "text": "51",
+          "html": "51"
+        },
+        {
+          "id": "D",
+          "text": "56.5",
+          "html": "56.5"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>List all prime numbers between 32 and 69: 37, 41, 43, 47, 53, 59, 61, 67.</p>\n<p>Total count of prime numbers (n) = 8.</p>\n<p>Sum using pairing: (37+67) + (41+61) + (43+59) + (47+53) = 104 + 102 + 102 + 100 = 408.</p>\n<p>Average = Total Sum ÷ Count = 408 ÷ 8 = 51.</p>\n<p><strong>∴ The correct answer is 51.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Prime numbers between 32 and 69.</p>\n<p><strong>Formula:</strong> Average = (Sum of all observations) ÷ (Total number of observations)</p>\n<img src=\"https://cdn.testbook.com/temp_1aabdd6f01eb49a1a1ff6cf887521660.png/1780114800.png\" style=\"max-width: 450px;\" />\n<p>⇒ Prime numbers between 32 and 69 are: 37, 41, 43, 47, 53, 59, 61, 67</p>\n<p>⇒ Sum of primes = 37 + 41 + 43 + 47 + 53 + 59 + 61 + 67</p>\n<p>⇒ Sum = 408</p>\n<p>⇒ Total count of prime numbers = 8</p>\n<p>⇒ Average = 408 ÷ 8</p>\n<p>⇒ Average = 51</p>\n<p><strong>∴ The correct answer is 51.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Prime Numbers</p>\n<p style='margin:0 0 8px 0;color:#444444;'>A prime number is a natural number greater than 1 that has exactly two divisors: 1 and itself. The only even prime number is 2.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Arithmetic Mean</p>\n<p style='margin:0 0 8px 0;color:#444444;'>For any set of numbers, Average = (Σx) ÷ n, where Σx is the sum of terms and n is the total number of terms.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Checking for Primes</p>\n<p style='margin:0 0 8px 0;color:#444444;'>To verify if a number N is prime, check its divisibility by prime numbers up to √N. If none divide N, then N is prime.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_1aabdd6f01eb49a1a1ff6cf887521660.png/1780114800.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q46",
+      "number": 46,
+      "question": "The average of twelve numbers is 45.5. The average of the first four numbers is 41.5 and that of the next five numbers is 48. The 10 th number is 4 more than the 11 th number and 9 more than the 12 th number. What is the average of the 10 th and 12 th numbers?",
+      "questionHtml": "The average of twelve numbers is 45.5. The average of the first four numbers is 41.5 and that of the next five numbers is 48. The 10<sup>th</sup> number is 4 more than the 11<sup>th</sup> number and 9 more than the 12<sup>th</sup> number. What is the average of the 10<sup>th</sup> and 12<sup>th</sup> numbers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "47",
+          "html": "47"
+        },
+        {
+          "id": "B",
+          "text": "46.5",
+          "html": "46.5"
+        },
+        {
+          "id": "C",
+          "text": "46",
+          "html": "46"
+        },
+        {
+          "id": "D",
+          "text": "47.8",
+          "html": "47.8"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Average of 12 numbers in = 45.5</p>\n\n<p>Sum of 12 numbers = 45.5 × 12 = 546</p>\n\n<p>Average of first 4 numbers = 41.5</p>\n\n<p>Sum of first 4 numbers = 41.5 × 4 = 166</p>\n\n<p>Average of next 5 numbers = 48</p>\n\n<p>Sum of next 5 numbers = 48 × 5 = 240</p>\n\n<p>Sum of 10<sup>th</sup>, 11<sup>th</sup> and 12<sup>th</sup> number = 546 – 166 – 240 = 140</p>\n\n<p>Let the 10<sup>th</sup> number be x</p>\n\n<p>11<sup>th</sup> number = x – 4</p>\n\n<p>12<sup>th</sup> number = x – 9</p>\n\n<p>According to the question</p>\n\n<p>x + x – 4 + x – 9 = 140</p>\n\n<p>⇒ 3x – 13 = 140</p>\n\n<p>⇒ 3x = 140 + 13</p>\n\n<p>⇒ 3x = 153</p>\n\n<p>∴ x = 153/3 = 51</p>\nAverage of 10<sup>th</sup> and 12<sup>th</sup> number = (51 + 51 – 9)/2 = 93/2 = 46.5",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q47",
+      "number": 47,
+      "question": "The average monthly salary of workers in a factory is Rs. 6,000. The average monthly salary of 100 technicians is Rs. 12,000, and the average monthly salary of non-technicians is Rs. 4,000. Find the total number of workers in the factory",
+      "questionHtml": "The average monthly salary of workers in a factory is Rs. 6,000. The average monthly salary of 100 technicians is Rs. 12,000, and the average monthly salary of non-technicians is Rs. 4,000. Find the total number of workers in the factory",
+      "options": [
+        {
+          "id": "A",
+          "text": "400",
+          "html": "400"
+        },
+        {
+          "id": "B",
+          "text": "300",
+          "html": "300"
+        },
+        {
+          "id": "C",
+          "text": "250",
+          "html": "250"
+        },
+        {
+          "id": "D",
+          "text": "450",
+          "html": "450"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\">By Alligation and mixture method</p>\n\n<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\"> 12000                  4000</p>\n\n<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\">               6000</p>\n\n<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\">2000          :            6000</p>\n\n<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\">1                :              3</p>\n\n<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\">Total part = 4 </p>\n\n<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\">1 unit = 100 ⇒ 4 unit = 4 × 100</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q48",
+      "number": 48,
+      "question": "The average of eleven numbers is 56. The average of first three numbers is 52 and that of next five numbers is 60. The 9th and 10th number are 3 and 1 more than the 11th number respectively. What is the average of 9th and 11th numbers?",
+      "questionHtml": "The average of eleven numbers is 56. The average of first three numbers is 52 and that of next five numbers is 60. The 9th and 10th number are 3 and 1 more than the 11th number respectively. What is the average of 9th and 11th numbers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "54",
+          "html": "54"
+        },
+        {
+          "id": "B",
+          "text": "52.5",
+          "html": "52.5"
+        },
+        {
+          "id": "C",
+          "text": "52",
+          "html": "52"
+        },
+        {
+          "id": "D",
+          "text": "53.5",
+          "html": "53.5"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Net deviation from the overall average (56) = 3 × (52 − 56) + 5 × (60 − 56) = −12 + 20 = +8.</p>\n<p>To balance the average, the deviation of the last 3 numbers must be −8. Thus, their total sum = 3 × 56 − 8 = 160.</p>\n<p>Let the 11th number be x. Then, 9th number = x + 3 and 10th number = x + 1.</p>\n<p>Sum = x + 3 + x + 1 + x = 160 ⇒ 3x = 156 ⇒ x = 52.</p>\n<p>The average of the 9th and 11th numbers = (x + 3 + x) ÷ 2 = x + 1.5 = 52 + 1.5 = 53.5.</p>\n<p><strong>∴ The correct answer is 53.5.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Average of 11 numbers = 56</p>\n<p>Average of first 3 numbers = 52</p>\n<p>Average of next 5 numbers = 60</p>\n<p>Let the 11th number = x. Then the 9th number = x + 3 and the 10th number = x + 1.</p>\n\n<svg width=\"420\" height=\"200\" viewBox=\"0 0 420 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <rect x=\"20\" y=\"40\" width=\"100\" height=\"40\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <rect x=\"130\" y=\"40\" width=\"140\" height=\"40\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"1.5\" />\n  <rect x=\"280\" y=\"40\" width=\"120\" height=\"40\" fill=\"#ccffcc\" stroke=\"#007700\" stroke-width=\"1.5\" />\n  \n  <text x=\"70\" y=\"65\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"13\" text-anchor=\"middle\">First 3</text>\n  <text x=\"200\" y=\"65\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"13\" text-anchor=\"middle\">Next 5</text>\n  <text x=\"340\" y=\"65\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"13\" text-anchor=\"middle\">Last 3</text>\n  \n  <text x=\"70\" y=\"105\" fill=\"#2255cc\" font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\">Avg = 52</text>\n  <text x=\"200\" y=\"105\" fill=\"#cc5500\" font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\">Avg = 60</text>\n  <text x=\"340\" y=\"105\" fill=\"#007700\" font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\">Sum = 160</text>\n\n  <path d=\"M 20 130 L 20 140 L 400 140 L 400 130\" fill=\"none\" stroke=\"#888888\" stroke-width=\"1.5\" stroke-dasharray=\"5,3\"/>\n  <text x=\"210\" y=\"165\" fill=\"#2255cc\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\">Total 11 Numbers : Avg = 56, Sum = 616</text>\n</svg>\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ Sum of all 11 numbers = 11 × 56 = 616</p>\n<p>⇒ Sum of first 3 numbers = 3 × 52 = 156</p>\n<p>⇒ Sum of next 5 numbers = 5 × 60 = 300</p>\n<p>⇒ Sum of the 9th, 10th, and 11th numbers = Total sum − (Sum of first 3 + Sum of next 5)</p>\n<p>⇒ Sum of the last 3 numbers = 616 − (156 + 300) = 616 − 456 = 160</p>\n<p>⇒ (x + 3) + (x + 1) + x = 160</p>\n<p>⇒ 3x + 4 = 160</p>\n<p>⇒ 3x = 156</p>\n<p>⇒ x = 52</p>\n<p>⇒ 11th number = 52</p>\n<p>⇒ 9th number = 52 + 3 = 55</p>\n<p>⇒ Average of 9th and 11th numbers = (55 + 52) ÷ 2 = 107 ÷ 2 = 53.5</p>\n<p><strong>∴ The correct answer is 53.5.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Sum of Observations</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The total sum of any set of observations is simply the average multiplied by the number of observations (Sum = Average × N).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Net Deviation Method</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The sum of all deviations of the individual values from their arithmetic mean is always zero. This property helps significantly in breaking down complex averages without multiplying large numbers.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Combined Average</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When multiple groups are combined, their total average is given by (N<sub>1</sub>A<sub>1</sub> + N<sub>2</sub>A<sub>2</sub> + N<sub>3</sub>A<sub>3</sub>) ÷ (N<sub>1</sub> + N<sub>2</sub> + N<sub>3</sub>).</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q49",
+      "number": 49,
+      "question": "Out of five numbers A, B, C, D and E, the average of the first four numbers A, B, C and D is greater than the average of the last four numbers B, C, D and E by 35. The value of \\( A-E\\over7\\) is:",
+      "questionHtml": "Out of five numbers A, B, C, D and E, the average of the first four numbers A, B, C and D is greater than the average of the last four numbers B, C, D and E by 35. The value of&nbsp;<span class=\"math-tex\">\\( A-E\\over7\\)</span>&nbsp;is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10",
+          "html": "10"
+        },
+        {
+          "id": "B",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "C",
+          "text": "40",
+          "html": "40"
+        },
+        {
+          "id": "D",
+          "text": "30",
+          "html": "30"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Calculation:</strong></p>\n\n<p>According to the question-</p>\n\n<p><span class=\"math-tex\">\\(A + B + C + D\\over 4\\)</span>&nbsp;- <span class=\"math-tex\">\\(B+C+D+E\\over4\\)</span>&nbsp;= 35</p>\n\n<p>&rArr;<span class=\"math-tex\">\\( A+B+C+D-B-C-D-E\\over 4 \\)</span>&nbsp;= 35&nbsp;</p>\n\n<p>&rArr; A - E =&nbsp;<span style=\"\">3</span><span style=\"\">5 &times; 4</span></p>\n\n<p><span style=\"\">&there4;&nbsp;&nbsp;<span class=\"math-tex\">\\( A-E\\over7\\)</span>&nbsp;=&nbsp;<span class=\"math-tex\">\\(35 × 4\\over7\\)</span>&nbsp;= 20</span></p>\n\n<p><strong><span style=\"\">The value of&nbsp;<span class=\"math-tex\">\\( A-E\\over7\\)</span>&nbsp;is 20.</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34dd2d910428-q50",
+      "number": 50,
+      "question": "The average weight of A, B, and C is 55 kg. The weight of C is 10 kg more than A and 5 kg more than B. The average weight of A, B, C, and D, if D's weight is 19 kg more than C, is:",
+      "questionHtml": "The average weight of A, B, and C is 55 kg. The weight of C is 10 kg more than A and 5 kg more than B. The average weight of A, B, C, and D, if D&#39;s weight is 19 kg more than C, is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "62 kg",
+          "html": "62 kg"
+        },
+        {
+          "id": "B",
+          "text": "61 kg",
+          "html": "61 kg"
+        },
+        {
+          "id": "C",
+          "text": "60 kg",
+          "html": "60 kg"
+        },
+        {
+          "id": "D",
+          "text": "58 kg",
+          "html": "58 kg"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>The average weight of A, B, and C = 55kg</p>\n\n<p>C is 10 kg more than A&nbsp;</p>\n\n<p>C is&nbsp;5 kg more than B</p>\n\n<p>D is 19 kg more than C</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>Average = Total sum of subjects/Number of Subjects</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>&there4; A + B + C /3 = 55</p>\n\n<p>&there4; A + B + C = 165&nbsp; &nbsp; &nbsp; ------(1)</p>\n\n<p>We have given&nbsp;</p>\n\n<p>C = A +10&nbsp;</p>\n\n<p>&there4; A = C&nbsp;- 10</p>\n\n<p>and C = B + 5</p>\n\n<p>&there4; B = C &ndash; 5</p>\n\n<p>Putting values of A and B in equation (1)</p>\n\n<p>(C &ndash; 10) + (C&nbsp;&ndash; 5) + C = 165</p>\n\n<p>&rArr; 3C - 15 = 165</p>\n\n<p>&rArr;&nbsp;3C = 180</p>\n\n<p>&rArr;&nbsp;C = 180/3 = 60</p>\n\n<p>D = C + 19 = 60 + 19 = 79</p>\n\n<p>Average of A, B, C, and D = A + B + C + D/4</p>\n\n<p>&rArr;&nbsp;(165 + 79) /4</p>\n\n<p>&rArr; 244/4 = 61kg.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

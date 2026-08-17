@@ -1,0 +1,3415 @@
+{
+  "id": "7a03f80ae7ab",
+  "provider": "RBE_Mocks",
+  "sourceFile": "CGL_2026_Live_Mock_7.html",
+  "sourcePath": "RBE_MOCKS/CGL_2026_Live_Mock_7.html",
+  "title": "CGL 2026 Live Mock 7",
+  "exam": null,
+  "year": 2026,
+  "tier": null,
+  "shift": null,
+  "duration": 15,
+  "questionCount": 100,
+  "questions": [
+    {
+      "id": "7a03f80ae7ab-q1",
+      "number": 1,
+      "question": "Each of the digits in the number 7492615 is arranged in descending order from left to right. What will be the sum of the digits which are first from the left and first from the right in the new number thus formed?",
+      "questionHtml": "<p>Each of the digits in the number 7492615 is arranged in descending order from left to right. What will be the sum of the digits which are first from the left and first from the right in the new number thus formed?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "html": "<p>8</p>"
+        },
+        {
+          "id": "B",
+          "text": "10",
+          "html": "<p>10</p>"
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "html": "<p>12</p>"
+        },
+        {
+          "id": "D",
+          "text": "14",
+          "html": "<p>14</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Digits of the number: 7, 4, 9, 2, 6, 1, 5</p><p>Arranged in descending order:<br/>9, 7, 6, 5, 4, 2, 1</p><p>New number formed: 9765421</p><p>First digit from the left = 9<br/>First digit from the right = 1</p><p>Required sum = 9 + 1 = 10</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q2",
+      "number": 2,
+      "question": "What should come in place of the question mark (?) in the given series? 84, 86, 91, 93, 98, 100, ?",
+      "questionHtml": "<p>What should come in place of the question mark (?) in the given series?</p><p>84, 86, 91, 93, 98, 100, ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "105",
+          "html": "<p>105</p>"
+        },
+        {
+          "id": "B",
+          "text": "103",
+          "html": "<p>103</p>"
+        },
+        {
+          "id": "C",
+          "text": "102",
+          "html": "<p>102</p>"
+        },
+        {
+          "id": "D",
+          "text": "107",
+          "html": "<p>107</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Pattern: +2, +5, +2, +5, +2, +5</p><p>84 → 86 (+2)<br/>86 → 91 (+5)<br/>91 → 93 (+2)<br/>93 → 98 (+5)<br/>98 → 100 (+2)<br/>100 → 105 (+5)</p><p>Required answer = 105</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q3",
+      "number": 3,
+      "question": "Select the set in which the numbers are related in the same way as are the numbers of the following sets. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits.) (486, 9, 6) (245, 7, 5)",
+      "questionHtml": "<p>Select the set in which the numbers are related in the same way as are the numbers of the following sets.<br/>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits.)</p><p>(486, 9, 6)<br/>(245, 7, 5)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(330, 8, 5)",
+          "html": "<p>(330, 8, 5)</p>"
+        },
+        {
+          "id": "B",
+          "text": "(256, 8, 4)",
+          "html": "<p>(256, 8, 4)</p>"
+        },
+        {
+          "id": "C",
+          "text": "(512, 8, 9)",
+          "html": "<p>(512, 8, 9)</p>"
+        },
+        {
+          "id": "D",
+          "text": "(729, 9, 8)",
+          "html": "<p>(729, 9, 8)</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Logic: First number = (Second number)² × Third number</p><p>Check given sets:</p><p>486 = 9² × 6 = 81 × 6<br/>245 = 7² × 5 = 49 × 5</p><p>Now check options:</p><p>(a) 8² × 5 = 64 × 5 = 320 ❌ (not 330)<br/>(b) 8² × 4 = 64 × 4 = 256 ✔<br/>(c) 8² × 9 = 64 × 9 = 576 ❌ (not 512)<br/>(d) 9² × 8 = 81 × 8 = 648 ❌ (not 729)</p><p>Therefore, correct answer is (b) (256, 8, 4).</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q4",
+      "number": 4,
+      "question": "In the following series, only one letter-cluster is incorrect. Select the INCORRECT letter-cluster. KPU, PUZ, UZE, ZEJ, EJO, JOS,",
+      "questionHtml": "<p>In the following series, only one letter-cluster is incorrect. Select the INCORRECT letter-cluster.</p><p>KPU, PUZ, UZE, ZEJ, EJO, JOS,</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "JOS",
+          "html": "<p>JOS</p>"
+        },
+        {
+          "id": "B",
+          "text": "EJO",
+          "html": "<p>EJO</p>"
+        },
+        {
+          "id": "C",
+          "text": "ZEJ",
+          "html": "<p>ZEJ</p>"
+        },
+        {
+          "id": "D",
+          "text": "UZE",
+          "html": "<p>UZE</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>First letters:<br/>K → P → U → Z → E → J ✔ (+5)</p><p>Second letters:<br/>P → U → Z → E → J → O ✔ (+5)</p><p>Third letters:<br/>U → Z → E → J → O → S (O +5 = T (not S) ❌)</p><p>So incorrect cluster is: JOS</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q5",
+      "number": 5,
+      "question": "Six people, A, B, C, D, E and F live on six different floors of the same building. The lowermost floor is numbered 1 and the topmost floor is numbered 6. Only two people live between A and D. Only one person lives between C and F. Only four people live between B and A. D lives just above F. No one lives above B. How many people live below C?",
+      "questionHtml": "<p>Six people, A, B, C, D, E and F live on six different floors of the same building. The lowermost floor is numbered 1 and the topmost floor is numbered 6. Only two people live between A and D. Only one person lives between C and F. Only four people live between B and A. D lives just above F. No one lives above B. How many people live below C?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Two",
+          "html": "<p>Two</p>"
+        },
+        {
+          "id": "B",
+          "text": "Three",
+          "html": "<p>Three</p>"
+        },
+        {
+          "id": "C",
+          "text": "Four",
+          "html": "<p>Four</p>"
+        },
+        {
+          "id": "D",
+          "text": "One",
+          "html": "<p>One</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Floor</p><p>Person</p><p>6</p><p>B</p><p>5</p><p>C</p><p>4</p><p>D</p><p>3</p><p>F</p><p>2</p><p>E</p><p>1</p><p>A</p><p>Four people live below C.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q6",
+      "number": 6,
+      "question": "Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT belong to that group? (Note: The odd one out is not based on vowels/consonants.)",
+      "questionHtml": "<p>Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT belong to that group?</p><p>(Note: The odd one out is not based on vowels/consonants.)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "BC–FG",
+          "html": "<p>BC–FG</p>"
+        },
+        {
+          "id": "B",
+          "text": "LM–PR",
+          "html": "<p>LM–PR</p>"
+        },
+        {
+          "id": "C",
+          "text": "NO–RS",
+          "html": "<p>NO–RS</p>"
+        },
+        {
+          "id": "D",
+          "text": "PQ–TU",
+          "html": "<p>PQ–TU</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>BC → FG = +4, +4 ✔<br/>NO → RS = +4, +4 ✔<br/>PQ → TU = +4, +4 ✔</p><p>LM → PR = +4, +5 ❌</p><p>Only LM–PR does not follow same shift.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q7",
+      "number": 7,
+      "question": "This question is based on the five, three-digit numbers given below. (Left) 248 563 791 432 685 (Right) (Example: 791 – First digit = 7, second digit = 9 and third digit = 1) NOTE: All operations are to be done from left to right. What will be the resultant if the first digit of the highest number is subtracted from the third digit of the lowest number?",
+      "questionHtml": "<p>This question is based on the five, three-digit numbers given below.</p><p>(Left) 248 563 791 432 685 (Right)</p><p>(Example: 791 – First digit = 7, second digit = 9 and third digit = 1)<br/>NOTE: All operations are to be done from left to right.</p><p>What will be the resultant if the first digit of the highest number is subtracted from the third digit of the lowest number?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "<p>2</p>"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "<p>3</p>"
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "html": "<p>1</p>"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "<p>4</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Given numbers:<br/>248, 563, 791, 432, 685</p><p>Highest number = 791<br/>Lowest number = 248</p><p>First digit of highest number (791) = 7<br/>Third digit of lowest number (248) = 8</p><p>Now subtract (left to right): 8 − 7 = 1</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q8",
+      "number": 8,
+      "question": "Six Men A, B, C, D, E and F are sitting around a circular table facing towards the centre. B and C are sitting to the immediate left and right of A, respectively. D is sitting to the immediate left of B, but not to the immediate right of E. Who is sitting to the immediate right of C?",
+      "questionHtml": "<p>Six Men A, B, C, D, E and F are sitting around a circular table facing towards the centre. B and C are sitting to the immediate left and right of A, respectively. D is sitting to the immediate left of B, but not to the immediate right of E. Who is sitting to the immediate right of C?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "E",
+          "html": "<p>E</p>"
+        },
+        {
+          "id": "B",
+          "text": "A",
+          "html": "<p>A</p>"
+        },
+        {
+          "id": "C",
+          "text": "F",
+          "html": "<p>F</p>"
+        },
+        {
+          "id": "D",
+          "text": "B",
+          "html": "<p>B</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image001.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q9",
+      "number": 9,
+      "question": "In a certain code language, ‘BREAD’ is coded as ‘72941’ and ‘RISK’ is coded as ‘6582’. What is the code for ‘R’ in the given code language?",
+      "questionHtml": "<p>In a certain code language, ‘BREAD’ is coded as ‘72941’ and ‘RISK’ is coded as ‘6582’. What is the code for ‘R’ in the given code language?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "<p>9</p>"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "<p>2</p>"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "<p>5</p>"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "<p>1</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>BREAD → 72941<br/>RISK → 6582</p><p>Common letter in both words = R</p><p>Common digit in both codes = 2</p><p>So, R = 2 ✅</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q10",
+      "number": 10,
+      "question": "If 2 is added to each odd digit and 1 is subtracted from each even digit in the number 4627315, then how many digits will appear more than once in the new number thus formed?",
+      "questionHtml": "<p>If 2 is added to each odd digit and 1 is subtracted from each even digit in the number 4627315, then how many digits will appear more than once in the new number thus formed?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "O",
+          "html": "<p>O</p>"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "<p>1</p>"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "<p>2</p>"
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "html": "<p>3</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>4627315</p><p>Even −1, Odd +2</p><p>4→3<br/>6→5<br/>2→1<br/>7→9<br/>3→5<br/>1→3<br/>5→7</p><p>New number = 3519537</p><p>Repeated digits: 3, 5</p><p>Total = 2 ✅</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q11",
+      "number": 11,
+      "question": "If ‘P’ stands for ‘÷’, ‘Q’ stands for ‘×’, ‘R’ stands for ‘+’ and ‘S’ stands for ‘−’, then what will come in place of question mark (?) in the following equation? 36 Q 4 S 6 P 2 R 8 = ?",
+      "questionHtml": "<p>If ‘P’ stands for ‘÷’, ‘Q’ stands for ‘×’, ‘R’ stands for ‘+’ and ‘S’ stands for ‘−’, then what will come in place of question mark (?) in the following equation?</p><p>36 Q 4 S 6 P 2 R 8 = ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "148",
+          "html": "<p>148</p>"
+        },
+        {
+          "id": "B",
+          "text": "149",
+          "html": "<p>149</p>"
+        },
+        {
+          "id": "C",
+          "text": "144",
+          "html": "<p>144</p>"
+        },
+        {
+          "id": "D",
+          "text": "154",
+          "html": "<p>154</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>36 × 4 − 6 ÷ 2 + 8</p><p>= 144 − 3 + 8<br/>= 141 + 8<br/>= 149</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q12",
+      "number": 12,
+      "question": "Select the pair which follows the same pattern as that followed by the two pairs given below. Both pairs follow the same pattern. MNM–JKJ PQP–MNM",
+      "questionHtml": "<p>Select the pair which follows the same pattern as that followed by the two pairs given below. Both pairs follow the same pattern.</p><p>MNM–JKJ<br/>PQP–MNM</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "RSR–OPO",
+          "html": "<p>RSR–OPO</p>"
+        },
+        {
+          "id": "B",
+          "text": "RSR–OPQ",
+          "html": "<p>RSR–OPQ</p>"
+        },
+        {
+          "id": "C",
+          "text": "RST–OPR",
+          "html": "<p>RST–OPR</p>"
+        },
+        {
+          "id": "D",
+          "text": "STS–QPR",
+          "html": "<p>STS–QPR</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>MNM → JKJ (each letter −3)<br/>PQP → MNM (each letter −3)</p><p>RSR → OPO (each letter −3) ✔</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q13",
+      "number": 13,
+      "question": "Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of ::? #: ABC :: DEF: %",
+      "questionHtml": "<p>Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of ::?</p><p>#: ABC :: DEF: %</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "# = WXY, % = RST",
+          "html": "<p># = WXY, % = RST</p>"
+        },
+        {
+          "id": "B",
+          "text": "# = BCD, % = EFG",
+          "html": "<p># = BCD, % = EFG</p>"
+        },
+        {
+          "id": "C",
+          "text": "# = PQR, % = STU",
+          "html": "<p># = PQR, % = STU</p>"
+        },
+        {
+          "id": "D",
+          "text": "# = XYZ, % = GHI",
+          "html": "<p># = XYZ, % = GHI</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image002.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q14",
+      "number": 14,
+      "question": "Ravi has a sister, Meera. Meera has a son, Arjun. Arjun is married to Priya; Priya has a daughter, Anika. How is Priya related to Meera?",
+      "questionHtml": "<p>Ravi has a sister, Meera. Meera has a son, Arjun. Arjun is married to Priya; Priya has a daughter, Anika. How is Priya related to Meera?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Daughter",
+          "html": "<p>Daughter</p>"
+        },
+        {
+          "id": "B",
+          "text": "Niece",
+          "html": "<p>Niece</p>"
+        },
+        {
+          "id": "C",
+          "text": "Daughter-in-law",
+          "html": "<p>Daughter-in-law</p>"
+        },
+        {
+          "id": "D",
+          "text": "Granddaughter",
+          "html": "<p>Granddaughter</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Ravi → sister → Meera<br/>Meera → son → Arjun<br/>Arjun → wife → Priya</p><p>So, Priya is the wife of Meera’s son.</p><p>Therefore, Priya is Meera’s daughter-in-law. ✅</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q15",
+      "number": 15,
+      "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follows from the statements. Statements: All pencils are pens. Some pens are erasers. Conclusions: (I) Some pencils are erasers. (II) All pens are pencils.",
+      "questionHtml": "<p>Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follows from the statements.<br/>Statements:<br/>All pencils are pens.<br/>Some pens are erasers.<br/>Conclusions:<br/>(I) Some pencils are erasers.<br/>(II) All pens are pencils.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only conclusion (I) follows",
+          "html": "<p>Only conclusion (I) follows</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only conclusion (II) follows",
+          "html": "<p>Only conclusion (II) follows</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both conclusions (I) and (II) follow",
+          "html": "<p>Both conclusions (I) and (II) follow</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither conclusion (I) nor (II) follows",
+          "html": "<p>Neither conclusion (I) nor (II) follows</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image003.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q16",
+      "number": 16,
+      "question": "You are the head of the city’s Disaster Response team. A sudden chemical factory explosion has occurred. Two sites report people trapped: one is a residential apartment, the other is a school. Your team has limited protective gear and can only handle one location safely at a time. What is your judgment?",
+      "questionHtml": "<p>You are the head of the city’s Disaster Response team. A sudden chemical factory explosion has occurred. Two sites report people trapped: one is a residential apartment, the other is a school. Your team has limited protective gear and can only handle one location safely at a time. What is your judgment?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Divert all available resources to the school immediately, as children’s safety is the highest priority.",
+          "html": "<p>Divert all available resources to the school immediately, as children’s safety is the highest priority.</p>"
+        },
+        {
+          "id": "B",
+          "text": "Evacuate the residential apartment first, following standard operating procedure.",
+          "html": "<p>Evacuate the residential apartment first, following standard operating procedure.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Attempt to split your team between both locations, even though safety may be compromised.",
+          "html": "<p>Attempt to split your team between both locations, even though safety may be compromised.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Contact both locations for more information before making any decision.",
+          "html": "<p>Contact both locations for more information before making any decision.</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q17",
+      "number": 17,
+      "question": "Below a question is given with two statements (I) and (II). These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statement. Read both statements and decide which of the following answer choices correctly depicts the relationship between these two statements. I. Many private coaching institutes have increased their course fees by nearly 150 percent this year due to rising operational costs. II. The Government-run educational institutes have kept their course fees unchanged despite the increase in inflation.",
+      "questionHtml": "<p>Below a question is given with two statements (I) and (II). These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statement. Read both statements and decide which of the following answer choices correctly depicts the relationship between these two statements.</p><p>I. Many private coaching institutes have increased their course fees by nearly 150 percent this year due to rising operational costs.<br/>II. The Government-run educational institutes have kept their course fees unchanged despite the increase in inflation.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement (I) is the cause and statement (II) is the effect.",
+          "html": "<p>Statement (I) is the cause and statement (II) is the effect.</p>"
+        },
+        {
+          "id": "B",
+          "text": "Statement (II) is the cause and statement (I) is the effect.",
+          "html": "<p>Statement (II) is the cause and statement (I) is the effect.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both the statements (I) and (II) are independent effects.",
+          "html": "<p>Both the statements (I) and (II) are independent effects.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Both the statements (I) and (II) are independent effects of same cause.",
+          "html": "<p>Both the statements (I) and (II) are independent effects of same cause.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Solution:</p><p>Statement I states that many private coaching institutes have increased their course fees by nearly 150 percent this year due to rising operational costs.</p><p>Statement II states that Government-run educational institutes have kept their course fees unchanged despite the increase in inflation.</p><p>Both statements describe decisions taken by different types of institutions (private and government). Neither statement is the cause or effect of the other. Each statement simply presents the outcome of its own situation, and there is no direct cause–effect relationship between them.</p><p>Therefore, both the statements (I) and (II) are independent effects. (Option 3) ✅</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q18",
+      "number": 18,
+      "question": "In a class, A's rank is 12th from the top, and B's rank is 15th from the bottom. If there are 8 students between A and B, what is the maximum number of students in the class?",
+      "questionHtml": "<p>In a class, A's rank is 12th from the top, and B's rank is 15th from the bottom. If there are 8 students between A and B, what is the maximum number of students in the class?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "36",
+          "html": "<p>36</p>"
+        },
+        {
+          "id": "B",
+          "text": "35",
+          "html": "<p>35</p>"
+        },
+        {
+          "id": "C",
+          "text": "34",
+          "html": "<p>34</p>"
+        },
+        {
+          "id": "D",
+          "text": "33",
+          "html": "<p>33</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Maximum students = Rank of A from top + Rank of B from bottom + Students between<br/>= 12 + 15 + 8 = 35 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q19",
+      "number": 19,
+      "question": "Find the word that CANNOT be formed from the letters in APPLICATION if each letter can be used only once.",
+      "questionHtml": "<p>Find the word that CANNOT be formed from the letters in APPLICATION if each letter can be used only once.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ACTION",
+          "html": "<p>ACTION </p>"
+        },
+        {
+          "id": "B",
+          "text": "PILL",
+          "html": "<p>PILL</p>"
+        },
+        {
+          "id": "C",
+          "text": "CAPTION",
+          "html": "<p>CAPTION</p>"
+        },
+        {
+          "id": "D",
+          "text": "PILOT",
+          "html": "<p>PILOT</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q20",
+      "number": 20,
+      "question": "A Candidate ID is a 13-digit number. The first 3 digits represent the Year, the next 2 digits represent the Batch. The Center Code is formed by taking the 4th, 8th, and 11th digits of the entire ID. For the Candidate ID 2021567894321, what is the Center Code?",
+      "questionHtml": "<p>A Candidate ID is a 13-digit number. The first 3 digits represent the Year, the next 2 digits represent the Batch. The Center Code is formed by taking the 4th, 8th, and 11th digits of the entire ID. For the Candidate ID 2021567894321, what is the Center Code?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "138",
+          "html": "<p>138</p>"
+        },
+        {
+          "id": "B",
+          "text": "159",
+          "html": "<p>159</p>"
+        },
+        {
+          "id": "C",
+          "text": "167",
+          "html": "<p>167</p>"
+        },
+        {
+          "id": "D",
+          "text": "183",
+          "html": "<p>183</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q21",
+      "number": 21,
+      "question": "Select the option exactly similar to: 5th Floor, Beta Tower, Opposite City Library, Mumbai, MH 400001",
+      "questionHtml": "<p>Select the option exactly similar to:</p><p>5th Floor, Beta Tower, Opposite City Library, Mumbai, MH 400001</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5th Floor, Beta Tower, Opposite City Library, Mumbai, MH 400001",
+          "html": "<p>5th Floor, Beta Tower, Opposite City Library, Mumbai, MH 400001</p>"
+        },
+        {
+          "id": "B",
+          "text": "5th Floor, Beta Tower, Opposite City Library, Mumbai, Maharashtra 40001",
+          "html": "<p>5th Floor, Beta Tower, Opposite City Library, Mumbai, Maharashtra 40001</p>"
+        },
+        {
+          "id": "C",
+          "text": "5 Floor, Beta Tower, Opposite City Library, Mumbai, MH 400001",
+          "html": "<p>5 Floor, Beta Tower, Opposite City Library, Mumbai, MH 400001</p>"
+        },
+        {
+          "id": "D",
+          "text": "5th Floor, Beta Tower, Near City Library, Mumbai, MH 400001",
+          "html": "<p>5th Floor, Beta Tower, Near City Library, Mumbai, MH 400001</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Solution:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q22",
+      "number": 22,
+      "question": "Statement: A new employee training program led to a noticeable improvement in employees’ productivity within three months of implementation. Inferences: I. The training program effectively improves employee productivity. II. All employees will continue to be productive even after the training program ends.",
+      "questionHtml": "<p>Statement: A new employee training program led to a noticeable improvement in employees’ productivity within three months of implementation.</p><p>Inferences:<br/>I. The training program effectively improves employee productivity.<br/>II. All employees will continue to be productive even after the training program ends.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only Inference I follows",
+          "html": "<p>Only Inference I follows</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only Inference II follows",
+          "html": "<p>Only Inference II follows</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both Inferences I and II follow",
+          "html": "<p>Both Inferences I and II follow</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither Inference I nor II follows",
+          "html": "<p>Neither Inference I nor II follows</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Explantion:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q23",
+      "number": 23,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image004.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image004.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image005.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image005.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image006.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image006.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image007.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image007.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image008.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image008.png"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image009.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q24",
+      "number": 24,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image010.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image010.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image011.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image011.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image012.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image012.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image013.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image013.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image014.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image014.jpeg"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785383606_image015.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q25",
+      "number": 25,
+      "question": "Which option represents the correct order of the given words as they would appear in an English dictionary? 1. Elephant 2. Elevate 3. Eligible 4. Elite 5. Elongate",
+      "questionHtml": "<p>Which option represents the correct order of the given words as they would appear in an English dictionary?<br/>1. Elephant<br/>2. Elevate<br/>3. Eligible<br/>4. Elite<br/>5. Elongate</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 2, 4, 1, 5",
+          "html": "<p>3, 2, 4, 1, 5</p>"
+        },
+        {
+          "id": "B",
+          "text": "3, 2, 4, 5, 1",
+          "html": "<p>3, 2, 4, 5, 1 </p>"
+        },
+        {
+          "id": "C",
+          "text": "1, 2, 3, 4, 5",
+          "html": "<p>1, 2, 3, 4, 5</p>"
+        },
+        {
+          "id": "D",
+          "text": "1, 5, 3, 2, 4",
+          "html": "<p>1, 5, 3, 2, 4</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Elephant → Elevate → Eligible → Elite →Elongate</p><p>1 → 2 → 3 → 4 → 5 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q26",
+      "number": 26,
+      "question": "'Kuruva' in Jharkhand and 'Penda' in Chhattisgarh are local names for:",
+      "questionHtml": "<p>'Kuruva' in Jharkhand and 'Penda' in Chhattisgarh are local names for:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Harvest festivals",
+          "html": "<p>Harvest festivals</p>"
+        },
+        {
+          "id": "B",
+          "text": "Soil types",
+          "html": "<p>Soil types</p>"
+        },
+        {
+          "id": "C",
+          "text": "Shifting cultivation",
+          "html": "<p>Shifting cultivation</p>"
+        },
+        {
+          "id": "D",
+          "text": "Irrigation techniques",
+          "html": "<p>Irrigation techniques</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Shifting cultivation ✅</p><p>Explanation:<br/>In tribal regions of India, “Kuruva” in Jharkhand and “Penda” in Chhattisgarh are local terms for shifting cultivation, a traditional agricultural practice where land is cleared, crops are grown for a few seasons, and then the land is left fallow to regain fertility.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q27",
+      "number": 27,
+      "question": "FRBM Act stands for:",
+      "questionHtml": "<p>FRBM Act stands for:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Financial Reforms and Banking Mandate",
+          "html": "<p>Financial Reforms and Banking Mandate</p>"
+        },
+        {
+          "id": "B",
+          "text": "Federal Revenue and Borrowing Mechanism",
+          "html": "<p>Federal Revenue and Borrowing Mechanism</p>"
+        },
+        {
+          "id": "C",
+          "text": "Foreign Reserve and Balance Management",
+          "html": "<p>Foreign Reserve and Balance Management</p>"
+        },
+        {
+          "id": "D",
+          "text": "Fiscal Responsibility and Budget Management",
+          "html": "<p>Fiscal Responsibility and Budget Management</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Fiscal Responsibility and Budget Management ✅</p><p>Detailed Explanation:</p><p>The FRBM Act, or Fiscal Responsibility and Budget Management Act, 2003, is a law enacted by the Government of India with the following key objectives:</p><p>Key Features:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q28",
+      "number": 28,
+      "question": "The Deccan Traps are associated with which type of rock?",
+      "questionHtml": "<p>The Deccan Traps are associated with which type of rock?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sedimentary",
+          "html": "<p>Sedimentary</p>"
+        },
+        {
+          "id": "B",
+          "text": "Igneous",
+          "html": "<p>Igneous</p>"
+        },
+        {
+          "id": "C",
+          "text": "Metamorphic",
+          "html": "<p>Metamorphic</p>"
+        },
+        {
+          "id": "D",
+          "text": "Limestone",
+          "html": "<p>Limestone</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is: Igneous ✅</p><p>Explanation:<br/>The Deccan Traps in western India are formed from extensive volcanic eruptions that occurred around 66 million years ago. The lava from these eruptions cooled and solidified into basalt, which is an igneous rock.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q29",
+      "number": 29,
+      "question": "The 'Ten Percent Law' regarding the transfer of energy in a food chain was proposed by:",
+      "questionHtml": "<p>The 'Ten Percent Law' regarding the transfer of energy in a food chain was proposed by:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raymond Lindeman",
+          "html": "<p>Raymond Lindeman</p>"
+        },
+        {
+          "id": "B",
+          "text": "Ernst Haeckel",
+          "html": "<p>Ernst Haeckel</p>"
+        },
+        {
+          "id": "C",
+          "text": "Charles Darwin",
+          "html": "<p>Charles Darwin</p>"
+        },
+        {
+          "id": "D",
+          "text": "Gregor Mendel",
+          "html": "<p>Gregor Mendel</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is: Raymond Lindeman ✅</p><p>Explanation:<br/>The “Ten Percent Law” in ecology states that only about 10% of the energy at one trophic level is transferred to the next level in a food chain, while the rest is lost largely as heat or used in metabolic processes.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q30",
+      "number": 30,
+      "question": "Which of the following statements about 'Katabatic Winds' is correct? 1. They are warm winds that blow up a mountain slope during the day. 2. They are cold, dense winds that flow down a valley or slope at night due to gravity.",
+      "questionHtml": "<p>Which of the following statements about 'Katabatic Winds' is correct?</p><p>1. They are warm winds that blow up a mountain slope during the day.</p><p>2. They are cold, dense winds that flow down a valley or slope at night due to gravity.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 only",
+          "html": "<p>1 only</p>"
+        },
+        {
+          "id": "B",
+          "text": "2 only",
+          "html": "<p>2 only</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both 1 & 2",
+          "html": "<p>Both 1 &amp; 2</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 & 2",
+          "html": "<p>Neither 1 &amp; 2</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is: 2 only ✅</p><p>Explanation:<br/>Katabatic winds are cold, dense winds that flow downhill or along a valley at night under the influence of gravity.</p><p>So only statement 2 accurately describes katabatic winds.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q31",
+      "number": 31,
+      "question": "Seraikella, Mayurbhanj, and Purulia are the three styles of which Indian Dance?",
+      "questionHtml": "<p>Seraikella, Mayurbhanj, and Purulia are the three styles of which Indian Dance?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bihu",
+          "html": "<p>Bihu</p>"
+        },
+        {
+          "id": "B",
+          "text": "Pandavni",
+          "html": "<p>Pandavni</p>"
+        },
+        {
+          "id": "C",
+          "text": "Suwa",
+          "html": "<p>Suwa</p>"
+        },
+        {
+          "id": "D",
+          "text": "Chhau",
+          "html": "<p>Chhau</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The correct answer is: Chhau ✅</p><p>Explanation:<br/>Seraikella, Mayurbhanj, and Purulia are the three main styles of Chhau dance, a traditional folk dance of eastern India.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q32",
+      "number": 32,
+      "question": "The 'Mango Showers' are common in which states?",
+      "questionHtml": "<p>The 'Mango Showers' are common in which states?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Punjab & Haryana",
+          "html": "<p>Punjab &amp; Haryana</p>"
+        },
+        {
+          "id": "B",
+          "text": "Bihar & Bengal",
+          "html": "<p>Bihar &amp; Bengal</p>"
+        },
+        {
+          "id": "C",
+          "text": "Kerala & Karnataka",
+          "html": "<p>Kerala &amp; Karnataka</p>"
+        },
+        {
+          "id": "D",
+          "text": "Odisha & Andhra",
+          "html": "<p>Odisha &amp; Andhra</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is: Kerala &amp; Karnataka ✅</p><p>Explanation:<br/>“Mango Showers” refer to the pre-monsoon rains that occur in April–May in southern India, especially in Kerala and Karnataka.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q33",
+      "number": 33,
+      "question": "In which part of the plant cell does Dark Reaction of photosynthesis take place?",
+      "questionHtml": "<p>In which part of the plant cell does Dark Reaction of photosynthesis take place?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Grana",
+          "html": "<p>Grana</p>"
+        },
+        {
+          "id": "B",
+          "text": "Stroma",
+          "html": "<p>Stroma</p>"
+        },
+        {
+          "id": "C",
+          "text": "Vacuole",
+          "html": "<p>Vacuole</p>"
+        },
+        {
+          "id": "D",
+          "text": "Mitochondria",
+          "html": "<p>Mitochondria</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Explanation:<br/>The Dark Reaction of photosynthesis, also called the Calvin Cycle, does not require light and takes place in the stroma of the chloroplast.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q34",
+      "number": 34,
+      "question": "Unemployment caused by a mismatch between worker skills and jobs available is:",
+      "questionHtml": "<p>Unemployment caused by a mismatch between worker skills and jobs available is:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frictional",
+          "html": "<p>Frictional</p>"
+        },
+        {
+          "id": "B",
+          "text": "Seasonal",
+          "html": "<p>Seasonal</p>"
+        },
+        {
+          "id": "C",
+          "text": "Structural",
+          "html": "<p>Structural </p>"
+        },
+        {
+          "id": "D",
+          "text": "Cyclical",
+          "html": "<p>Cyclical</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is: Structural ✅</p><p>Explanation:<br/>Structural unemployment occurs when there is a mismatch between the skills of workers and the requirements of available jobs.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q35",
+      "number": 35,
+      "question": "The 'Amrit Dharohar' scheme aims to conserve:",
+      "questionHtml": "<p>The 'Amrit Dharohar' scheme aims to conserve:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ancient Temples",
+          "html": "<p>Ancient Temples</p>"
+        },
+        {
+          "id": "B",
+          "text": "Wetlands",
+          "html": "<p>Wetlands</p>"
+        },
+        {
+          "id": "C",
+          "text": "Manuscript Libraries",
+          "html": "<p>Manuscript Libraries</p>"
+        },
+        {
+          "id": "D",
+          "text": "Endangered Species",
+          "html": "<p>Endangered Species</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is: Wetlands ✅</p><p>Explanation:<br/>The ‘Amrit Dharohar’ scheme is a government initiative launched to promote the conservation and sustainable use of wetlands in India, especially Ramsar sites (wetlands of international importance). The scheme focuses on enhancing biodiversity, increasing eco‑tourism opportunities, supporting local livelihoods, and preserving aquatic ecosystems with the help of community participation.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q36",
+      "number": 36,
+      "question": "With reference to the Sangam administration, the term 'Enadi' referred to:",
+      "questionHtml": "<p>With reference to the Sangam administration, the term 'Enadi' referred to:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The title bestowed on army captains",
+          "html": "<p>The title bestowed on army captains</p>"
+        },
+        {
+          "id": "B",
+          "text": "The Council of Ministers",
+          "html": "<p>The Council of Ministers</p>"
+        },
+        {
+          "id": "C",
+          "text": "The tax collectors of the Chola kingdom",
+          "html": "<p>The tax collectors of the Chola kingdom</p>"
+        },
+        {
+          "id": "D",
+          "text": "The village headmen in the Pandya region",
+          "html": "<p>The village headmen in the Pandya region</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The title bestowed on army captains ✅</p><p>Explanation:<br/>In the Sangam age, the title “Enadi” was given as an honorific title to captains of the army or selected military commanders. It was not a term for council members, tax collectors, or village headmen — rather, it denoted distinguished warriors who led troops in battle.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q37",
+      "number": 37,
+      "question": "The Chief Election Commissioner can be removed from office in a manner similar to:",
+      "questionHtml": "<p>The Chief Election Commissioner can be removed from office in a manner similar to:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Vice-President",
+          "html": "<p>The Vice-President</p>"
+        },
+        {
+          "id": "B",
+          "text": "Judge of the Supreme Court",
+          "html": "<p>Judge of the Supreme Court</p>"
+        },
+        {
+          "id": "C",
+          "text": "The Attorney General",
+          "html": "<p>The Attorney General</p>"
+        },
+        {
+          "id": "D",
+          "text": "The Governor",
+          "html": "<p>The Governor</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is: Judge of the Supreme Court ✅</p><p>Explanation:<br/>The Chief Election Commissioner (CEC) of India can be removed from office only through a process similar to that of a Supreme Court judge, which ensures independence from the executive.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q38",
+      "number": 38,
+      "question": "The 'Invisible Hand' theory in economics was proposed by:",
+      "questionHtml": "<p>The 'Invisible Hand' theory in economics was proposed by:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "John Maynard Keynes",
+          "html": "<p>John Maynard Keynes</p>"
+        },
+        {
+          "id": "B",
+          "text": "Adam Smith",
+          "html": "<p>Adam Smith</p>"
+        },
+        {
+          "id": "C",
+          "text": "David Ricardo",
+          "html": "<p>David Ricardo</p>"
+        },
+        {
+          "id": "D",
+          "text": "Karl Marx",
+          "html": "<p>Karl Marx</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is: Adam Smith ✅</p><p>Explanation:<br/>The “Invisible Hand” is a concept introduced by Adam Smith in his book “The Wealth of Nations” (1776).</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q39",
+      "number": 39,
+      "question": "'Bidriware', characterized by silver inlay on a zinc-copper alloy, belongs to:",
+      "questionHtml": "<p>'Bidriware', characterized by silver inlay on a zinc-copper alloy, belongs to:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Karnataka",
+          "html": "<p>Karnataka</p>"
+        },
+        {
+          "id": "B",
+          "text": "Bihar",
+          "html": "<p>Bihar</p>"
+        },
+        {
+          "id": "C",
+          "text": "Gujarat",
+          "html": "<p>Gujarat</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rajasthan",
+          "html": "<p>Rajasthan</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is: Karnataka ✅</p><p>Explanation:<br/>Bidriware is a metal handicraft known for silver inlay on a blackened alloy of zinc and copper.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q40",
+      "number": 40,
+      "question": "Pandit Jasraj was a legendary exponent of which Gharana?",
+      "questionHtml": "<p>Pandit Jasraj was a legendary exponent of which Gharana?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gwalior",
+          "html": "<p>Gwalior</p>"
+        },
+        {
+          "id": "B",
+          "text": "Kirana",
+          "html": "<p>Kirana</p>"
+        },
+        {
+          "id": "C",
+          "text": "Mewati",
+          "html": "<p>Mewati</p>"
+        },
+        {
+          "id": "D",
+          "text": "Patiala",
+          "html": "<p>Patiala</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is: Mewati ✅</p><p>Explanation:<br/>Pandit Jasraj (1930–2020) was a legendary vocalist of the Mewati Gharana of Hindustani classical music.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q41",
+      "number": 41,
+      "question": "Which of the following Articles deals with the rights of citizenship of certain persons who have migrated to India from Pakistan?",
+      "questionHtml": "<p>Which of the following Articles deals with the rights of citizenship of certain persons who have migrated to India from Pakistan?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Article 5",
+          "html": "<p>Article 5</p>"
+        },
+        {
+          "id": "B",
+          "text": "Article 6",
+          "html": "<p>Article 6</p>"
+        },
+        {
+          "id": "C",
+          "text": "Article 7",
+          "html": "<p>Article 7</p>"
+        },
+        {
+          "id": "D",
+          "text": "Article 11",
+          "html": "<p>Article 11</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is: Article 6 ✅</p><p>Explanation:<br/>Article 6 of the Indian Constitution deals with the rights of citizenship of certain persons who have migrated to India from Pakistan at the time of Partition (1947).</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q42",
+      "number": 42,
+      "question": "Which of the following is an Endorheic River?",
+      "questionHtml": "<p>Which of the following is an Endorheic River?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sabarmati",
+          "html": "<p>Sabarmati</p>"
+        },
+        {
+          "id": "B",
+          "text": "Mahi",
+          "html": "<p>Mahi</p>"
+        },
+        {
+          "id": "C",
+          "text": "Luni",
+          "html": "<p>Luni</p>"
+        },
+        {
+          "id": "D",
+          "text": "Tapti",
+          "html": "<p>Tapti</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is: Luni ✅</p><p>Explanation:<br/>An endorheic river is a river that does not drain into the sea; instead, it ends in an inland basin or desert.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q43",
+      "number": 43,
+      "question": "Which chemical is used to give a green colour to fireworks?",
+      "questionHtml": "<p>Which chemical is used to give a green colour to fireworks?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Strontium",
+          "html": "<p>Strontium</p>"
+        },
+        {
+          "id": "B",
+          "text": "Selenium",
+          "html": "<p>Selenium</p>"
+        },
+        {
+          "id": "C",
+          "text": "Vanadium",
+          "html": "<p>Vanadium</p>"
+        },
+        {
+          "id": "D",
+          "text": "Barium",
+          "html": "<p>Barium</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The correct answer is: Barium ✅</p><p>Explanation:<br/>In fireworks, different metal salts are used to produce distinct colors:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q44",
+      "number": 44,
+      "question": "The 'Gutenberg Discontinuity' marks the boundary between:",
+      "questionHtml": "<p>The 'Gutenberg Discontinuity' marks the boundary between:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Crust and Mantle",
+          "html": "<p>Crust and Mantle</p>"
+        },
+        {
+          "id": "B",
+          "text": "Upper and Lower Mantle.",
+          "html": "<p>Upper and Lower Mantle.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Mantle and Core",
+          "html": "<p>Mantle and Core</p>"
+        },
+        {
+          "id": "D",
+          "text": "Inner and Outer Core",
+          "html": "<p>Inner and Outer Core</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is: Mantle and Core ✅</p><p>Explanation:<br/>The Gutenberg Discontinuity is a seismic discontinuity that marks the boundary between the Earth’s mantle and outer core.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q45",
+      "number": 45,
+      "question": "The Kishanganga River is a major tributary of:",
+      "questionHtml": "<p>The Kishanganga River is a major tributary of:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chenab",
+          "html": "<p>Chenab</p>"
+        },
+        {
+          "id": "B",
+          "text": "Jhelum",
+          "html": "<p>Jhelum</p>"
+        },
+        {
+          "id": "C",
+          "text": "Ravi",
+          "html": "<p>Ravi</p>"
+        },
+        {
+          "id": "D",
+          "text": "Beas",
+          "html": "<p>Beas</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is: Jhelum ✅</p><p>Explanation:<br/>The Kishanganga River, also known as the Neelum River in Pakistan-administered Kashmir, is a major tributary of the Jhelum River.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q46",
+      "number": 46,
+      "question": "The Shore Temple at Mahabalipuram was built by which Pallava king?",
+      "questionHtml": "<p>The Shore Temple at Mahabalipuram was built by which Pallava king?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simhavishnu",
+          "html": "<p>Simhavishnu</p>"
+        },
+        {
+          "id": "B",
+          "text": "Nandivarman",
+          "html": "<p>Nandivarman</p>"
+        },
+        {
+          "id": "C",
+          "text": "Mahendravarman I",
+          "html": "<p>Mahendravarman I</p>"
+        },
+        {
+          "id": "D",
+          "text": "Narasimhavarman II",
+          "html": "<p>Narasimhavarman II</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The correct answer is: Narasimhavarman II ✅</p><p>Explanation:<br/>The Shore Temple at Mahabalipuram (Mamallapuram), Tamil Nadu, was built in the 8th century CE by Pallava king Narasimhavarman II, also known as Rajasimha.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q47",
+      "number": 47,
+      "question": "The 'Milinda Panha' is a dialogue between the Indo-Greek King Menander I and which Buddhist sage?",
+      "questionHtml": "<p>The 'Milinda Panha' is a dialogue between the Indo-Greek King Menander I and which Buddhist sage?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nagarjuna",
+          "html": "<p>Nagarjuna</p>"
+        },
+        {
+          "id": "B",
+          "text": "Ashvaghosha",
+          "html": "<p>Ashvaghosha</p>"
+        },
+        {
+          "id": "C",
+          "text": "Nagasena",
+          "html": "<p>Nagasena</p>"
+        },
+        {
+          "id": "D",
+          "text": "Buddhaghosa",
+          "html": "<p>Buddhaghosa</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is: Nagasena ✅</p><p>Explanation:<br/>The “Milinda Panha” (Questions of Milinda) is a Buddhist text that records a dialogue between King Menander I (Milinda), an Indo-Greek ruler, and the Buddhist sage Nagasena.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q48",
+      "number": 48,
+      "question": "The 'Global Biofuel Alliance' (GBA), spearheaded by India, aims to accelerate the adoption of biofuels. Which of the following are the 'founding members' of this alliance?",
+      "questionHtml": "<p>The 'Global Biofuel Alliance' (GBA), spearheaded by India, aims to accelerate the adoption of biofuels. Which of the following are the 'founding members' of this alliance?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "India, USA, and Brazil",
+          "html": "<p>India, USA, and Brazil</p>"
+        },
+        {
+          "id": "B",
+          "text": "India, France, and UAE",
+          "html": "<p>India, France, and UAE</p>"
+        },
+        {
+          "id": "C",
+          "text": "India, Germany, and Japan",
+          "html": "<p>India, Germany, and Japan</p>"
+        },
+        {
+          "id": "D",
+          "text": "India, Russia, and China",
+          "html": "<p>India, Russia, and China</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Correct Answer: India, USA, and Brazil ✅</p><p>Explanation:<br/>The Global Biofuel Alliance (GBA) was launched during the 2023 G20 New Delhi Summit to promote the adoption and development of sustainable biofuels. It is an India‑led initiative with a group of founding members that includes India, the United States, and Brazil — three major producers and consumers of biofuels, working together to accelerate global collaboration in biofuel technology, standards, and markets.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q49",
+      "number": 49,
+      "question": "The 'Thumri' style of Hindustani Classical music, often associated with the Lucknow and Benaras Gharanas, reached its zenith under the patronage of which ruler?",
+      "questionHtml": "<p>The 'Thumri' style of Hindustani Classical music, often associated with the Lucknow and Benaras Gharanas, reached its zenith under the patronage of which ruler?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Akbar",
+          "html": "<p>Akbar</p>"
+        },
+        {
+          "id": "B",
+          "text": "Muhammad Shah 'Rangila'",
+          "html": "<p>Muhammad Shah 'Rangila'</p>"
+        },
+        {
+          "id": "C",
+          "text": "Bahadur Shah Zafar",
+          "html": "<p>Bahadur Shah Zafar</p>"
+        },
+        {
+          "id": "D",
+          "text": "Wajid Ali Shah",
+          "html": "<p>Wajid Ali Shah</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The correct answer is: Wajid Ali Shah ✅</p><p>Explanation:<br/>Thumri is a light classical style of Hindustani music that emphasizes romantic or devotional poetry and expressive emotional rendition.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q50",
+      "number": 50,
+      "question": "Which of the following local winds is known as the 'Doctor Wind' due to its soothing effect on the humid climate of the Guinea Coast of Africa?",
+      "questionHtml": "<p>Which of the following local winds is known as the 'Doctor Wind' due to its soothing effect on the humid climate of the Guinea Coast of Africa?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chinook",
+          "html": "<p>Chinook</p>"
+        },
+        {
+          "id": "B",
+          "text": "Harmattan",
+          "html": "<p>Harmattan</p>"
+        },
+        {
+          "id": "C",
+          "text": "Mistral",
+          "html": "<p>Mistral</p>"
+        },
+        {
+          "id": "D",
+          "text": "Sirocco",
+          "html": "<p>Sirocco</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is: Harmattan ✅</p><p>Explanation:<br/>The Harmattan is a dry, dusty wind that blows from the Sahara Desert toward the Gulf of Guinea during the winter months.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q51",
+      "number": 51,
+      "question": "A can complete four-ninths of a work in 16 days and B can complete two-thirds of the same work in 20 days. They worked together for 6 days and then A left. How much time will B working alone, take to complete the remaining work?",
+      "questionHtml": "<p>A can complete four-ninths of a work in 16 days and B can complete two-thirds of the same work in 20 days. They worked together for 6 days and then A left. How much time will B working alone, take to complete the remaining work?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "18 days",
+          "html": "<p>18 days</p>"
+        },
+        {
+          "id": "B",
+          "text": "19 days",
+          "html": "<p>19 days</p>"
+        },
+        {
+          "id": "C",
+          "text": "15 days",
+          "html": "<p>15 days</p>"
+        },
+        {
+          "id": "D",
+          "text": "16 days",
+          "html": "<p>16 days</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image001.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q52",
+      "number": 52,
+      "question": "In a triangle ABC, point D lies on AB, and points E and F lie on BC such that DF is parallel to AC and DE is parallel to AF. If BE = 8 cm, CF = 6 cm, then find the length (in cm) of EF:",
+      "questionHtml": "<p>In a triangle ABC, point D lies on AB, and points E and F lie on BC such that DF is parallel to AC and DE is parallel to AF. If BE = 8 cm, CF = 6 cm, then find the length (in cm) of EF:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 cm",
+          "html": "<p>12 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "8 cm",
+          "html": "<p>8 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "4 cm",
+          "html": "<p>4 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "6 cm",
+          "html": "<p>6 cm</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image002.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q53",
+      "number": 53,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image003.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image003.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "cot 2A × cot 4A",
+          "html": "<p>cot 2A × cot 4A</p>"
+        },
+        {
+          "id": "B",
+          "text": "cot A × cot 6A",
+          "html": "<p>cot A × cot 6A</p>"
+        },
+        {
+          "id": "C",
+          "text": "tan 2A × tan 4A",
+          "html": "<p>tan 2A × tan 4A</p>"
+        },
+        {
+          "id": "D",
+          "text": "tan A × tan 6A",
+          "html": "<p>tan A × tan 6A</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image004.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q54",
+      "number": 54,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image005.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image005.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image006.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image006.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image007.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image007.png"
+        },
+        {
+          "id": "C",
+          "text": "3abc",
+          "html": "<p>3abc</p>"
+        },
+        {
+          "id": "D",
+          "text": "(a + b)(b + c)(c + a)",
+          "html": "<p>(a + b)(b + c)(c + a)</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image008.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q55",
+      "number": 55,
+      "question": "On a sum of money, when invested for 2 years, compound interest and simple interest are ₹840 and ₹800, respectively. For both simple and compound interests the rate of interest per annum is the same, and for compound interest, interest is compounded annually. Find the rate of interest per annum.",
+      "questionHtml": "<p>On a sum of money, when invested for 2 years, compound interest and simple interest are ₹840 and ₹800, respectively. For both simple and compound interests the rate of interest per annum is the same, and for compound interest, interest is compounded annually. Find the rate of interest per annum.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12%",
+          "html": "<p>12%</p>"
+        },
+        {
+          "id": "B",
+          "text": "8%",
+          "html": "<p>8%</p>"
+        },
+        {
+          "id": "C",
+          "text": "10%",
+          "html": "<p>10%</p>"
+        },
+        {
+          "id": "D",
+          "text": "15%",
+          "html": "<p>15%</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image009.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q56",
+      "number": 56,
+      "question": "In triangle ABC, DE is parallel to AB, where D and E are points on sides AC and BC respectively. F is a point between C and D such that EF is parallel to BD. If AD = 12 cm and DC = 8 cm, find the length of CF.",
+      "questionHtml": "<p>In triangle ABC, DE is parallel to AB, where D and E are points on sides AC and BC respectively. F is a point between C and D such that EF is parallel to BD. If AD = 12 cm and DC = 8 cm, find the length of CF.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 cm",
+          "html": "<p>4 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "5 cm",
+          "html": "<p>5 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "3.8 cm",
+          "html": "<p>3.8 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "3.2 cm",
+          "html": "<p>3.2 cm</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image013.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q57",
+      "number": 57,
+      "question": "If x = 7 + 4√3, find the value of √x − 1/√x.",
+      "questionHtml": "<p>If x = 7 + 4√3, find the value of √x − 1/√x.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "html": "<p>4</p>"
+        },
+        {
+          "id": "B",
+          "text": "2√3",
+          "html": "<p>2√3</p>"
+        },
+        {
+          "id": "C",
+          "text": "2 + √3",
+          "html": "<p>2 + √3</p>"
+        },
+        {
+          "id": "D",
+          "text": "8",
+          "html": "<p>8</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image014.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q58",
+      "number": 58,
+      "question": "The average of twelve numbers is 46. The average of the first four numbers is 41 and that of the next five numbers is 48. The 10th and 11th numbers are 4 and 6 more than the 12th number respectively. What is the average of the 10th and 12th numbers?",
+      "questionHtml": "<p>The average of twelve numbers is 46. The average of the first four numbers is 41 and that of the next five numbers is 48. The 10th and 11th numbers are 4 and 6 more than the 12th number respectively. What is the average of the 10th and 12th numbers?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "45",
+          "html": "<p>45</p>"
+        },
+        {
+          "id": "B",
+          "text": "46",
+          "html": "<p>46</p>"
+        },
+        {
+          "id": "C",
+          "text": "48",
+          "html": "<p>48</p>"
+        },
+        {
+          "id": "D",
+          "text": "50",
+          "html": "<p>50</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image023.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q59",
+      "number": 59,
+      "question": "A trader buys wheat at ₹ 40 per kg. 10% of the grain gets wasted due to improper storage. He plans to sell the remaining grain so that he makes a 35% overall profit. At what price (in ₹ per kg) should he sell the grain?",
+      "questionHtml": "<p>A trader buys wheat at ₹ 40 per kg. 10% of the grain gets wasted due to improper storage. He plans to sell the remaining grain so that he makes a 35% overall profit. At what price (in ₹ per kg) should he sell the grain?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹60 per kg",
+          "html": "<p>₹60 per kg</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹58 per kg",
+          "html": "<p>₹58 per kg</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹62 per kg",
+          "html": "<p>₹62 per kg</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹59 per kg",
+          "html": "<p>₹59 per kg</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image026.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q60",
+      "number": 60,
+      "question": "Two businessmen A and B invest in a business in the ratio 3 : 7. They decided to reinvest 20% of the profit they earned back into the business. The remaining profit they distributed amongst themselves. If A's share of the profit was ₹54,000, then how much profit (in ₹) did the business make?",
+      "questionHtml": "<p>Two businessmen A and B invest in a business in the ratio 3 : 7. They decided to reinvest 20% of the profit they earned back into the business. The remaining profit they distributed amongst themselves. If A's share of the profit was ₹54,000, then how much profit (in ₹) did the business make?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹2,35,000",
+          "html": "<p>₹2,35,000</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹2,05,000",
+          "html": "<p>₹2,05,000</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹2,15,000",
+          "html": "<p>₹2,15,000</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹2,25,000",
+          "html": "<p>₹2,25,000</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image027.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q61",
+      "number": 61,
+      "question": "PAQ is a tangent to a circle with centre O at point A. AB is a chord such that ∠BAQ = x° (x < 90°). C is a point on the major arc AB such that ∠ACB = y°. If ∠ABO = 26°, find the value of x + y.",
+      "questionHtml": "<p>PAQ is a tangent to a circle with centre O at point A. AB is a chord such that ∠BAQ = x° (x &lt; 90°). C is a point on the major arc AB such that ∠ACB = y°. If ∠ABO = 26°, find the value of x + y.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "112°",
+          "html": "<p>112°</p>"
+        },
+        {
+          "id": "B",
+          "text": "122°",
+          "html": "<p>122°</p>"
+        },
+        {
+          "id": "C",
+          "text": "132°",
+          "html": "<p>132°</p>"
+        },
+        {
+          "id": "D",
+          "text": "128°",
+          "html": "<p>128°</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image029.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q62",
+      "number": 62,
+      "question": "The distance between the places A and B is D units. The average speed that gets a person from A to B in a stipulated time is S units. He takes 15 minutes more time than usual if he travels at 40 km/h, and reaches 15 minutes early if he travels at 60 km/h. The sum of the numerical values of D and S is:",
+      "questionHtml": "<p>The distance between the places A and B is D units. The average speed that gets a person from A to B in a stipulated time is S units. He takes 15 minutes more time than usual if he travels at 40 km/h, and reaches 15 minutes early if he travels at 60 km/h. The sum of the numerical values of D and S is:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "108",
+          "html": "<p>108</p>"
+        },
+        {
+          "id": "B",
+          "text": "110",
+          "html": "<p>110</p>"
+        },
+        {
+          "id": "C",
+          "text": "106",
+          "html": "<p>106</p>"
+        },
+        {
+          "id": "D",
+          "text": "104",
+          "html": "<p>104</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image030.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q63",
+      "number": 63,
+      "question": "60 ÷ 5 of 3 × 2 + [4 of 9 − {6 of 7(12 + 8 × 3/4 ÷ 2 − 4) ÷ 42}] − 8 × 4 ÷ 5",
+      "questionHtml": "<p>60 ÷ 5 of 3 × 2 + [4 of 9 − {6 of 7(12 + 8 × 3/4 ÷ 2 − 4) ÷ 42}] − 8 × 4 ÷ 5</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "25.6",
+          "html": "<p>25.6</p>"
+        },
+        {
+          "id": "B",
+          "text": "26.6",
+          "html": "<p>26.6</p>"
+        },
+        {
+          "id": "C",
+          "text": "27.6",
+          "html": "<p>27.6</p>"
+        },
+        {
+          "id": "D",
+          "text": "24.6",
+          "html": "<p>24.6</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>60 ÷ 5 of 3 × 2 + [4 of 9 − {6 of 7(12 + 8 × 3/4 ÷ 2 − 4) ÷ 42}] − 8 × 4 ÷ 5</p><p>= 60 ÷ (5 × 3) × 2 + [4 × 9 − {6 × 7(12 + 8 × (3/4 ÷ 2) − 4) ÷ 42}] − 8 × 4 ÷ 5</p><p>= 60 ÷ 15 × 2 + [36 − {42(12 + 3 − 4) ÷ 42}] – 6.4</p><p>= 4 × 2 + [36 − {42 × 11 ÷ 42}] − 6.4</p><p>= 8 + [36 − 11] − 6.4</p><p>= 8 + 25 − 6.4</p><p>= 33 − 6.4</p><p>= 26.6</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q64",
+      "number": 64,
+      "question": "What is the compound interest on a sum of Rs. 25,000 for 2(1/5) years at 10% p.a., if the interest is compounded annually? (Nearest to an integer)",
+      "questionHtml": "<p>What is the compound interest on a sum of Rs. 25,000 for 2(1/5) years at 10% p.a., if the interest is compounded annually? (Nearest to an integer)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 5,855",
+          "html": "<p>Rs. 5,855</p>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 5,555",
+          "html": "<p>Rs. 5,555</p>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 5,655",
+          "html": "<p>Rs. 5,655</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 5,955",
+          "html": "<p>Rs. 5,955</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image032.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q65",
+      "number": 65,
+      "question": "For making a toy, a hemisphere is attached at one end of a cylinder and a cone is attached at the other end of the cylinder. The cylinder, the cone and the hemisphere have a common radius of 3.5 cm. The height of the cylinder is 10 cm and the height of the cone is 6 cm. Find the volume (in cm³) of the toy. (Use π = 22/7)",
+      "questionHtml": "<p>For making a toy, a hemisphere is attached at one end of a cylinder and a cone is attached at the other end of the cylinder. The cylinder, the cone and the hemisphere have a common radius of 3.5 cm. The height of the cylinder is 10 cm and the height of the cone is 6 cm. Find the volume (in cm³) of the toy. (Use π = 22/7)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "535.26 cm³",
+          "html": "<p>535.26 cm³</p>"
+        },
+        {
+          "id": "B",
+          "text": "563.21 cm³",
+          "html": "<p>563.21 cm³</p>"
+        },
+        {
+          "id": "C",
+          "text": "551.83 cm³",
+          "html": "<p>551.83 cm³</p>"
+        },
+        {
+          "id": "D",
+          "text": "544.41 cm³",
+          "html": "<p>544.41 cm³</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image033.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q66",
+      "number": 66,
+      "question": "The angle of elevation of the top of a tower from the top of a 540 meter high building is 30° and the angle of elevation of the top of that tower from the base of the same building is 60°. What is the distance (in meters) between the tower?",
+      "questionHtml": "<p>The angle of elevation of the top of a tower from the top of a 540 meter high building is 30° and the angle of elevation of the top of that tower from the base of the same building is 60°. What is the distance (in meters) between the tower?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "467.64 meters",
+          "html": "<p>467.64 meters</p>"
+        },
+        {
+          "id": "B",
+          "text": "447.64 meters",
+          "html": "<p>447.64 meters</p>"
+        },
+        {
+          "id": "C",
+          "text": "456.64 meters",
+          "html": "<p>456.64 meters</p>"
+        },
+        {
+          "id": "D",
+          "text": "437.64 meters",
+          "html": "<p>437.64 meters</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image039.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q67",
+      "number": 67,
+      "question": "The cost of a computer is 60% more than that of a mobile phone. If the cost of the computer is decreased by 20% and that of the mobile phone is increased by 25%, then what is the percentage change in the total cost of two computers and three mobile phones as compared to the original cost? (Correct to one decimal place)",
+      "questionHtml": "<p>The cost of a computer is 60% more than that of a mobile phone. If the cost of the computer is decreased by 20% and that of the mobile phone is increased by 25%, then what is the percentage change in the total cost of two computers and three mobile phones as compared to the original cost? (Correct to one decimal place)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.5% increase",
+          "html": "<p>1.5% increase</p>"
+        },
+        {
+          "id": "B",
+          "text": "1.6% increase",
+          "html": "<p>1.6% increase</p>"
+        },
+        {
+          "id": "C",
+          "text": "1.8% increase",
+          "html": "<p>1.8% increase</p>"
+        },
+        {
+          "id": "D",
+          "text": "1.3% increase",
+          "html": "<p>1.3% increase</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image040.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q68",
+      "number": 68,
+      "question": "A square piece of cardboard with side 20 cm has a small square of 4 cm cut out from each of the corners. The resulting flaps are turned up to make a box 4 cm deep. Find the volume (in cm³) of the box.",
+      "questionHtml": "<p>A square piece of cardboard with side 20 cm has a small square of 4 cm cut out from each of the corners. The resulting flaps are turned up to make a box 4 cm deep. Find the volume (in cm³) of the box.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "586 cm³",
+          "html": "<p>586 cm³</p>"
+        },
+        {
+          "id": "B",
+          "text": "566 cm³",
+          "html": "<p>566 cm³</p>"
+        },
+        {
+          "id": "C",
+          "text": "556 cm³",
+          "html": "<p>556 cm³</p>"
+        },
+        {
+          "id": "D",
+          "text": "576 cm³",
+          "html": "<p>576 cm³</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Original side = 20 cm<br/>Cut from each corner = 4 cm</p><p>New length = 20 − 2×4 = 12 cm<br/>New breadth = 12 cm<br/>Height = 4 cm</p><p>Volume = l × b × h<br/>= 12 × 12 × 4<br/>= 144 × 4<br/>= 576 cm³</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q69",
+      "number": 69,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image041.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image041.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "10.5% more",
+          "html": "<p>10.5% more</p>"
+        },
+        {
+          "id": "B",
+          "text": "11.5% less",
+          "html": "<p>11.5% less</p>"
+        },
+        {
+          "id": "C",
+          "text": "12.5% more",
+          "html": "<p>12.5% more</p>"
+        },
+        {
+          "id": "D",
+          "text": "13.5% less",
+          "html": "<p>13.5% less</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Savings (2017, 2018)<br/>= (30−26) + (28−24)<br/>= 4 + 4 = 8</p><p>Savings (2019, 2020)<br/>= (34−28) + (36−33)<br/>= 6 + 3 = 9</p><p>Increase = 9 − 8 = 1</p><p>Percentage increase<br/>= (1/8) × 100<br/>= 12.5% more</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q70",
+      "number": 70,
+      "question": "If the interior angle of a regular polygon is twice its exterior angle, express the number of sides (n) of the polygon.",
+      "questionHtml": "<p>If the interior angle of a regular polygon is twice its exterior angle, express the number of sides (n) of the polygon.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "html": "<p>4</p>"
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "html": "<p>5</p>"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "<p>6</p>"
+        },
+        {
+          "id": "D",
+          "text": "7",
+          "html": "<p>7</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image042.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q71",
+      "number": 71,
+      "question": "The parallel sides of a trapezium are 25 cm and 13 cm and its non-parallel sides are equal to each other. If its area is 228 cm², find the length (in cm) of each non-parallel side.",
+      "questionHtml": "<p>The parallel sides of a trapezium are 25 cm and 13 cm and its non-parallel sides are equal to each other. If its area is 228 cm², find the length (in cm) of each non-parallel side.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "8 cm",
+          "html": "<p>8 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "6√5 cm",
+          "html": "<p>6√5 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "5√5 cm",
+          "html": "<p>5√5 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "7 cm",
+          "html": "<p>7 cm</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image044.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q72",
+      "number": 72,
+      "question": "X and Y together have ₹ 1800. If ₹ 200 less than three-fifth of the amount of X is equal to half of the amount of Y, then how much does X have?",
+      "questionHtml": "<p>X and Y together have ₹ 1800. If ₹ 200 less than three-fifth of the amount of X is equal to half of the amount of Y, then how much does X have?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1000",
+          "html": "<p>1000</p>"
+        },
+        {
+          "id": "B",
+          "text": "1100",
+          "html": "<p>1100</p>"
+        },
+        {
+          "id": "C",
+          "text": "1050",
+          "html": "<p>1050</p>"
+        },
+        {
+          "id": "D",
+          "text": "1150",
+          "html": "<p>1150</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image050.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q73",
+      "number": 73,
+      "question": "Rahul initiated a business with an investment of ₹40,00,000 in January 2024. After eight months, his friend Sameer joined him with an investment of ₹30,00,000. In December 2024, Rahul’s former classmate Priya also invested an amount equal to the total investment made by the earlier two partners. In what ratio will the profit earned after 3 years from the date on which Rahul initiated the business be distributed?",
+      "questionHtml": "<p>Rahul initiated a business with an investment of ₹40,00,000 in January 2024. After eight months, his friend Sameer joined him with an investment of ₹30,00,000. In December 2024, Rahul’s former classmate Priya also invested an amount equal to the total investment made by the earlier two partners. In what ratio will the profit earned after 3 years from the date on which Rahul initiated the business be distributed?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "144 : 51 : 135",
+          "html": "<p>144 : 51 : 135</p>"
+        },
+        {
+          "id": "B",
+          "text": "75 : 84 : 175",
+          "html": "<p>75 : 84 : 175</p>"
+        },
+        {
+          "id": "C",
+          "text": "144 : 84 : 175",
+          "html": "<p>144 : 84 : 175</p>"
+        },
+        {
+          "id": "D",
+          "text": "75 : 51 : 135",
+          "html": "<p>75 : 51 : 135</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Investment is proportional to Capital × Time</p><p>Total period = 3 years = 36 months</p><p>Rahul:<br/>40,00,000 for 36 months<br/>= 40 × 36 = 1440</p><p>Sameer:<br/>Joins after 8 months → invests for 28 months<br/>= 30 × 28 = 840</p><p>Priya:<br/>Joins in December 2024 (after 11 months)<br/>Invests for 25 months<br/>Investment = 40 + 30 = 70</p><p>= 70 × 25 = 1750</p><p>Ratio = 1440 : 840 : 1750</p><p>Divide by 10</p><p>= 144 : 84 : 175</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q74",
+      "number": 74,
+      "question": "The ratio of the sum of the salaries of P and Q to the difference of their salaries is 7:1 and the ratio of the sum of the salaries of Q and R to the difference of their salaries is also 7:1. If P's salary is the highest and R's is the lowest, then what is Q's salary (in Rs) given that the total of all their salaries is Rs. 1,11,000?",
+      "questionHtml": "<p>The ratio of the sum of the salaries of P and Q to the difference of their salaries is 7:1 and the ratio of the sum of the salaries of Q and R to the difference of their salaries is also 7:1. If P's salary is the highest and R's is the lowest, then what is Q's salary (in Rs) given that the total of all their salaries is Rs. 1,11,000?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹12,000",
+          "html": "<p>₹12,000</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹48,000",
+          "html": "<p>₹48,000</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹24,000",
+          "html": "<p>₹24,000</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹36,000",
+          "html": "<p>₹36,000</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image052.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q75",
+      "number": 75,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image054.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image054.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "20.04%",
+          "html": "<p>20.04%</p>"
+        },
+        {
+          "id": "B",
+          "text": "14.32%",
+          "html": "<p>14.32%</p>"
+        },
+        {
+          "id": "C",
+          "text": "21.18%",
+          "html": "<p>21.18%</p>"
+        },
+        {
+          "id": "D",
+          "text": "17.13%",
+          "html": "<p>17.13%</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1772785451285_image055.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q76",
+      "number": 76,
+      "question": "Read the following passage and answer the given questions accordingly: The stratospheric ozone layer, often described as the planet’s biological shield, serves the indispensable function of filtering out the bulk of the sun's harmful ultraviolet (UV-B) radiation. The depletion of this layer, primarily catalyzed by the anthropogenic release of chlorofluorocarbons (CFCs) and halons, represents a quintessential success story in international environmental diplomacy. When these stable compounds reach the stratosphere, they are broken down by intense solar radiation, liberating chlorine and bromine atoms that engage in a catalytic cycle, destroying thousands of ozone molecules before being neutralized. The landmark Montreal Protocol of 1987 facilitated a global phase-out of these substances; however, the recovery is a protracted process. Current scientific observations indicate a gradual \"healing\" of the ozone hole, yet the emergence of substitute chemicals, such as hydrofluorocarbons (HFCs), presents a secondary dilemma. While HFCs do not jeopardize the ozone layer, they are potent greenhouse gases with high global warming potential. Thus, the resolution of one atmospheric crisis has inadvertently exacerbated another, highlighting the intricate and often paradoxical nature of geochemical interventions. Q- Which statement best encapsulates the primary objective of the ozone layer as described in the text?",
+      "questionHtml": "<p>Read the following passage and answer the given questions accordingly:</p><p>The stratospheric ozone layer, often described as the planet’s biological shield, serves the indispensable function of filtering out the bulk of the sun's harmful ultraviolet (UV-B) radiation. The depletion of this layer, primarily catalyzed by the anthropogenic release of chlorofluorocarbons (CFCs) and halons, represents a quintessential success story in international environmental diplomacy. When these stable compounds reach the stratosphere, they are broken down by intense solar radiation, liberating chlorine and bromine atoms that engage in a catalytic cycle, destroying thousands of ozone molecules before being neutralized.</p><p>The landmark Montreal Protocol of 1987 facilitated a global phase-out of these substances; however, the recovery is a protracted process. Current scientific observations indicate a gradual \"healing\" of the ozone hole, yet the emergence of substitute chemicals, such as hydrofluorocarbons (HFCs), presents a secondary dilemma. While HFCs do not jeopardize the ozone layer, they are potent greenhouse gases with high global warming potential. Thus, the resolution of one atmospheric crisis has inadvertently exacerbated another, highlighting the intricate and often paradoxical nature of geochemical interventions.</p><p>Q- Which statement best encapsulates the primary objective of the ozone layer as described in the text?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "It mitigates the thermal intensity of the sun’s infrared emissions.",
+          "html": "<p>It mitigates the thermal intensity of the sun’s infrared emissions.</p>"
+        },
+        {
+          "id": "B",
+          "text": "It regulates the chemical composition of the lower atmosphere.",
+          "html": "<p>It regulates the chemical composition of the lower atmosphere.</p>"
+        },
+        {
+          "id": "C",
+          "text": "It provides an essential barrier against harmful solar wavelengths.",
+          "html": "<p>It provides an essential barrier against harmful solar wavelengths.</p>"
+        },
+        {
+          "id": "D",
+          "text": "It prevents the accumulation of greenhouse gases in the crust.",
+          "html": "<p>It prevents the accumulation of greenhouse gases in the crust.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is: It provides an essential barrier against harmful solar wavelengths.</p><p>Explanation</p><p>The passage states that the stratospheric ozone layer “serves the indispensable function of filtering out the bulk of the sun's harmful ultraviolet (UV‑B) radiation” and calls it the “planet’s biological shield.” This directly matches the idea that its main objective is to act as a barrier against harmful solar (UV) wavelengths.</p><p>The other options do not match:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q77",
+      "number": 77,
+      "question": "Read the following passage and answer the given questions accordingly: The stratospheric ozone layer, often described as the planet’s biological shield, serves the indispensable function of filtering out the bulk of the sun's harmful ultraviolet (UV-B) radiation. The depletion of this layer, primarily catalyzed by the anthropogenic release of chlorofluorocarbons (CFCs) and halons, represents a quintessential success story in international environmental diplomacy. When these stable compounds reach the stratosphere, they are broken down by intense solar radiation, liberating chlorine and bromine atoms that engage in a catalytic cycle, destroying thousands of ozone molecules before being neutralized. The landmark Montreal Protocol of 1987 facilitated a global phase-out of these substances; however, the recovery is a protracted process. Current scientific observations indicate a gradual \"healing\" of the ozone hole, yet the emergence of substitute chemicals, such as hydrofluorocarbons (HFCs), presents a secondary dilemma. While HFCs do not jeopardize the ozone layer, they are potent greenhouse gases with high global warming potential. Thus, the resolution of one atmospheric crisis has inadvertently exacerbated another, highlighting the intricate and often paradoxical nature of geochemical interventions. Q- According to the passage, why is the destruction of ozone considered a \"catalytic\" process?",
+      "questionHtml": "<p>Read the following passage and answer the given questions accordingly:</p><p>The stratospheric ozone layer, often described as the planet’s biological shield, serves the indispensable function of filtering out the bulk of the sun's harmful ultraviolet (UV-B) radiation. The depletion of this layer, primarily catalyzed by the anthropogenic release of chlorofluorocarbons (CFCs) and halons, represents a quintessential success story in international environmental diplomacy. When these stable compounds reach the stratosphere, they are broken down by intense solar radiation, liberating chlorine and bromine atoms that engage in a catalytic cycle, destroying thousands of ozone molecules before being neutralized.</p><p>The landmark Montreal Protocol of 1987 facilitated a global phase-out of these substances; however, the recovery is a protracted process. Current scientific observations indicate a gradual \"healing\" of the ozone hole, yet the emergence of substitute chemicals, such as hydrofluorocarbons (HFCs), presents a secondary dilemma. While HFCs do not jeopardize the ozone layer, they are potent greenhouse gases with high global warming potential. Thus, the resolution of one atmospheric crisis has inadvertently exacerbated another, highlighting the intricate and often paradoxical nature of geochemical interventions.</p><p>Q- According to the passage, why is the destruction of ozone considered a \"catalytic\" process?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because a single atom can repeatedly decompose ozone molecules.",
+          "html": "<p>Because a single atom can repeatedly decompose ozone molecules.</p>"
+        },
+        {
+          "id": "B",
+          "text": "Because the chemical reaction requires a high amount of heat energy.",
+          "html": "<p>Because the chemical reaction requires a high amount of heat energy.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Because the process is entirely natural and occurs without human aid.",
+          "html": "<p>Because the process is entirely natural and occurs without human aid.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Because the reaction stops immediately once the sunlight fades away.",
+          "html": "<p>Because the reaction stops immediately once the sunlight fades away.</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is: Because a single atom can repeatedly decompose ozone molecules.</p><p>Explanation</p><p>The passage says that chlorine and bromine atoms, once released from CFCs and halons, engage in a catalytic cycle, destroying thousands of ozone molecules before being neutralized. A catalytic process means the agent (here, the chlorine/bromine atom) is not consumed in the reaction and can keep destroying ozone over and over again, which matches the option describing repeated decomposition by a single atom.</p><p>The other options are incorrect because:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q78",
+      "number": 78,
+      "question": "Read the following passage and answer the given questions accordingly: The stratospheric ozone layer, often described as the planet’s biological shield, serves the indispensable function of filtering out the bulk of the sun's harmful ultraviolet (UV-B) radiation. The depletion of this layer, primarily catalyzed by the anthropogenic release of chlorofluorocarbons (CFCs) and halons, represents a quintessential success story in international environmental diplomacy. When these stable compounds reach the stratosphere, they are broken down by intense solar radiation, liberating chlorine and bromine atoms that engage in a catalytic cycle, destroying thousands of ozone molecules before being neutralized. The landmark Montreal Protocol of 1987 facilitated a global phase-out of these substances; however, the recovery is a protracted process. Current scientific observations indicate a gradual \"healing\" of the ozone hole, yet the emergence of substitute chemicals, such as hydrofluorocarbons (HFCs), presents a secondary dilemma. While HFCs do not jeopardize the ozone layer, they are potent greenhouse gases with high global warming potential. Thus, the resolution of one atmospheric crisis has inadvertently exacerbated another, highlighting the intricate and often paradoxical nature of geochemical interventions. Q- What does the author imply by describing the recovery as a \"protracted\" process?",
+      "questionHtml": "<p>Read the following passage and answer the given questions accordingly:</p><p>The stratospheric ozone layer, often described as the planet’s biological shield, serves the indispensable function of filtering out the bulk of the sun's harmful ultraviolet (UV-B) radiation. The depletion of this layer, primarily catalyzed by the anthropogenic release of chlorofluorocarbons (CFCs) and halons, represents a quintessential success story in international environmental diplomacy. When these stable compounds reach the stratosphere, they are broken down by intense solar radiation, liberating chlorine and bromine atoms that engage in a catalytic cycle, destroying thousands of ozone molecules before being neutralized.</p><p>The landmark Montreal Protocol of 1987 facilitated a global phase-out of these substances; however, the recovery is a protracted process. Current scientific observations indicate a gradual \"healing\" of the ozone hole, yet the emergence of substitute chemicals, such as hydrofluorocarbons (HFCs), presents a secondary dilemma. While HFCs do not jeopardize the ozone layer, they are potent greenhouse gases with high global warming potential. Thus, the resolution of one atmospheric crisis has inadvertently exacerbated another, highlighting the intricate and often paradoxical nature of geochemical interventions.</p><p>Q- What does the author imply by describing the recovery as a \"protracted\" process?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The restoration of the ozone layer is occurring with rapid speed.",
+          "html": "<p>The restoration of the ozone layer is occurring with rapid speed.</p>"
+        },
+        {
+          "id": "B",
+          "text": "The recovery is being hindered by the lack of global cooperation.",
+          "html": "<p>The recovery is being hindered by the lack of global cooperation.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The process is too complex for modern scientists to measure accurately.",
+          "html": "<p>The process is too complex for modern scientists to measure accurately.</p>"
+        },
+        {
+          "id": "D",
+          "text": "The healing of the atmosphere will take a significantly long time.",
+          "html": "<p>The healing of the atmosphere will take a significantly long time.</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The correct answer is: The healing of the atmosphere will take a significantly long time.</p><p>Explanation</p><p>The word “protracted” means long‑drawn‑out or extended in duration. In the passage, the author says that the Montreal Protocol facilitated a global phase‑out of ozone‑depleting substances, “however, the recovery is a protracted process,” followed by the observation of only a gradual “healing” of the ozone hole. This implies that, although the situation is improving, the full restoration of the ozone layer will take a very long time, not that it is rapid, unmeasurable, or mainly blocked by lack of cooperation.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q79",
+      "number": 79,
+      "question": "Read the following passage and answer the given questions accordingly: The stratospheric ozone layer, often described as the planet’s biological shield, serves the indispensable function of filtering out the bulk of the sun's harmful ultraviolet (UV-B) radiation. The depletion of this layer, primarily catalyzed by the anthropogenic release of chlorofluorocarbons (CFCs) and halons, represents a quintessential success story in international environmental diplomacy. When these stable compounds reach the stratosphere, they are broken down by intense solar radiation, liberating chlorine and bromine atoms that engage in a catalytic cycle, destroying thousands of ozone molecules before being neutralized. The landmark Montreal Protocol of 1987 facilitated a global phase-out of these substances; however, the recovery is a protracted process. Current scientific observations indicate a gradual \"healing\" of the ozone hole, yet the emergence of substitute chemicals, such as hydrofluorocarbons (HFCs), presents a secondary dilemma. While HFCs do not jeopardize the ozone layer, they are potent greenhouse gases with high global warming potential. Thus, the resolution of one atmospheric crisis has inadvertently exacerbated another, highlighting the intricate and often paradoxical nature of geochemical interventions. Q- The transition from CFCs to HFCs is characterized by the author as:",
+      "questionHtml": "<p>Read the following passage and answer the given questions accordingly:</p><p>The stratospheric ozone layer, often described as the planet’s biological shield, serves the indispensable function of filtering out the bulk of the sun's harmful ultraviolet (UV-B) radiation. The depletion of this layer, primarily catalyzed by the anthropogenic release of chlorofluorocarbons (CFCs) and halons, represents a quintessential success story in international environmental diplomacy. When these stable compounds reach the stratosphere, they are broken down by intense solar radiation, liberating chlorine and bromine atoms that engage in a catalytic cycle, destroying thousands of ozone molecules before being neutralized.</p><p>The landmark Montreal Protocol of 1987 facilitated a global phase-out of these substances; however, the recovery is a protracted process. Current scientific observations indicate a gradual \"healing\" of the ozone hole, yet the emergence of substitute chemicals, such as hydrofluorocarbons (HFCs), presents a secondary dilemma. While HFCs do not jeopardize the ozone layer, they are potent greenhouse gases with high global warming potential. Thus, the resolution of one atmospheric crisis has inadvertently exacerbated another, highlighting the intricate and often paradoxical nature of geochemical interventions.</p><p>Q- The transition from CFCs to HFCs is characterized by the author as:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A definitive solution that has finally secured the planet’s future.",
+          "html": "<p>A definitive solution that has finally secured the planet’s future.</p>"
+        },
+        {
+          "id": "B",
+          "text": "A minor technical error that was corrected by the Montreal Protocol.",
+          "html": "<p>A minor technical error that was corrected by the Montreal Protocol.</p>"
+        },
+        {
+          "id": "C",
+          "text": "A strategic move that replaced one problem with a different crisis.",
+          "html": "<p>A strategic move that replaced one problem with a different crisis.</p>"
+        },
+        {
+          "id": "D",
+          "text": "A failed experiment that resulted in faster ozone layer depletion.",
+          "html": "<p>A failed experiment that resulted in faster ozone layer depletion.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is: A strategic move that replaced one problem with a different crisis.</p><p>Explanation</p><p>The passage explains that CFCs were phased out under the Montreal Protocol because they destroy ozone, and HFCs were introduced as substitutes that do not harm the ozone layer. However, the author adds that HFCs are potent greenhouse gases with high global warming potential, so “the resolution of one atmospheric crisis has inadvertently exacerbated another.” This shows that the switch is presented not as a complete success, a minor error, or a failed experiment, but as a strategic change that solved one issue (ozone depletion) while creating or worsening another (climate warming).</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q80",
+      "number": 80,
+      "question": "Read the following passage and answer the given questions accordingly: The stratospheric ozone layer, often described as the planet’s biological shield, serves the indispensable function of filtering out the bulk of the sun's harmful ultraviolet (UV-B) radiation. The depletion of this layer, primarily catalyzed by the anthropogenic release of chlorofluorocarbons (CFCs) and halons, represents a quintessential success story in international environmental diplomacy. When these stable compounds reach the stratosphere, they are broken down by intense solar radiation, liberating chlorine and bromine atoms that engage in a catalytic cycle, destroying thousands of ozone molecules before being neutralized. The landmark Montreal Protocol of 1987 facilitated a global phase-out of these substances; however, the recovery is a protracted process. Current scientific observations indicate a gradual \"healing\" of the ozone hole, yet the emergence of substitute chemicals, such as hydrofluorocarbons (HFCs), presents a secondary dilemma. While HFCs do not jeopardize the ozone layer, they are potent greenhouse gases with high global warming potential. Thus, the resolution of one atmospheric crisis has inadvertently exacerbated another, highlighting the intricate and often paradoxical nature of geochemical interventions. Q- What is the \"secondary dilemma\" mentioned in the second paragraph?",
+      "questionHtml": "<p>Read the following passage and answer the given questions accordingly:</p><p>The stratospheric ozone layer, often described as the planet’s biological shield, serves the indispensable function of filtering out the bulk of the sun's harmful ultraviolet (UV-B) radiation. The depletion of this layer, primarily catalyzed by the anthropogenic release of chlorofluorocarbons (CFCs) and halons, represents a quintessential success story in international environmental diplomacy. When these stable compounds reach the stratosphere, they are broken down by intense solar radiation, liberating chlorine and bromine atoms that engage in a catalytic cycle, destroying thousands of ozone molecules before being neutralized.</p><p>The landmark Montreal Protocol of 1987 facilitated a global phase-out of these substances; however, the recovery is a protracted process. Current scientific observations indicate a gradual \"healing\" of the ozone hole, yet the emergence of substitute chemicals, such as hydrofluorocarbons (HFCs), presents a secondary dilemma. While HFCs do not jeopardize the ozone layer, they are potent greenhouse gases with high global warming potential. Thus, the resolution of one atmospheric crisis has inadvertently exacerbated another, highlighting the intricate and often paradoxical nature of geochemical interventions.</p><p>Q- What is the \"secondary dilemma\" mentioned in the second paragraph?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The continued illegal production of CFCs in developing countries.",
+          "html": "<p>The continued illegal production of CFCs in developing countries.</p>"
+        },
+        {
+          "id": "B",
+          "text": "The rising levels of UV radiation despite the ozone layer recovery.",
+          "html": "<p>The rising levels of UV radiation despite the ozone layer recovery.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The inability of the Montreal Protocol to influence global trade.",
+          "html": "<p>The inability of the Montreal Protocol to influence global trade.</p>"
+        },
+        {
+          "id": "D",
+          "text": "The warming of the planet caused by ozone-friendly alternatives.",
+          "html": "<p>The warming of the planet caused by ozone-friendly alternatives.</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The correct answer is: The warming of the planet caused by ozone-friendly alternatives.</p><p>Explanation</p><p>The “secondary dilemma” refers to the fact that substitutes like hydrofluorocarbons (HFCs), which do not damage the ozone layer, are potent greenhouse gases with high global warming potential. So, while they solve the ozone‑depletion problem, they worsen the climate‑change problem. This matches the option describing planetary warming caused by ozone‑friendly alternatives.</p><p>The other options are incorrect because:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q81",
+      "number": 81,
+      "question": "Change the voice of the following sentence: Can this intricate puzzle be solved by a young child easily?",
+      "questionHtml": "<p>Change the voice of the following sentence:</p><p>Can this intricate puzzle be solved by a young child easily?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Has a young child solve this intricate puzzle easily?",
+          "html": "<p>Has a young child solve this intricate puzzle easily?</p>"
+        },
+        {
+          "id": "B",
+          "text": "Does a young child solve this intricate puzzle easily?",
+          "html": "<p>Does a young child solve this intricate puzzle easily?</p>"
+        },
+        {
+          "id": "C",
+          "text": "Could a young child solve this intricate puzzle easily?",
+          "html": "<p>Could a young child solve this intricate puzzle easily?</p>"
+        },
+        {
+          "id": "D",
+          "text": "Can a young child solve this intricate puzzle easily?",
+          "html": "<p>Can a young child solve this intricate puzzle easily?</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Sentence:<br/>Can this intricate puzzle be solved by a young child easily?</p><p>The given sentence is in passive voice.<br/>Structure: Can + object + be + V3 + by + subject</p><p>To convert passive into active voice:<br/>Object → Subject<br/>Remove “be + V3” and use the base form of the verb.</p><p>Object in passive: this intricate puzzle<br/>Subject in passive: a young child</p><p>Active form structure:<br/>Can + subject + V1 + object</p><p>So the active sentence becomes:<br/>Can a young child solve this intricate puzzle easily?</p><p>Correct answer: d</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q82",
+      "number": 82,
+      "question": "Choose the antonym of ‘BENEVOLENT’",
+      "questionHtml": "<p>Choose the antonym of ‘BENEVOLENT’</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Spiteful",
+          "html": "<p>Spiteful</p>"
+        },
+        {
+          "id": "B",
+          "text": "Helpful",
+          "html": "<p>Helpful</p>"
+        },
+        {
+          "id": "C",
+          "text": "Kind",
+          "html": "<p>Kind</p>"
+        },
+        {
+          "id": "D",
+          "text": "Generous",
+          "html": "<p>Generous</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Correct Answer: Spiteful</p><p>Explanation:<br/>The word “benevolent” means kind, generous, and well-meaning. Its opposite would describe someone who is cruel or ill-intentioned. “Spiteful” means showing malice or a desire to harm others, which is the opposite of benevolent.</p><p>Meanings of the options:</p><p>Spiteful (द्वेषपूर्ण / दुर्भावनापूर्ण) – full of hatred or ill will.<br/>Helpful (सहायक) – giving help.<br/>Kind (दयालु) – caring and compassionate.<br/>Generous (उदार) – willing to give or share.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q83",
+      "number": 83,
+      "question": "IDIOM: ‘By leaps and bounds’",
+      "questionHtml": "<p>IDIOM:</p><p>‘By leaps and bounds’</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Very slowly",
+          "html": "<p>Very slowly</p>"
+        },
+        {
+          "id": "B",
+          "text": "Occasionally",
+          "html": "<p>Occasionally</p>"
+        },
+        {
+          "id": "C",
+          "text": "Very rapidly",
+          "html": "<p>Very rapidly</p>"
+        },
+        {
+          "id": "D",
+          "text": "In a jumping manner",
+          "html": "<p>In a jumping manner</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct Answer: Very rapidly</p><p>Explanation:<br/>The idiom “by leaps and bounds” means making very fast progress or growing quickly in a short period of time. It is used to describe rapid improvement or development.</p><p>Meanings of the options:</p><p>Very slowly (बहुत धीरे-धीरे) – at a slow speed.<br/>Occasionally (कभी-कभी) – sometimes, not regularly.<br/>Very rapidly (बहुत तेज़ी से) – at a very fast speed.<br/>In a jumping manner (कूदने के तरीके से) – literally jumping.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q84",
+      "number": 84,
+      "question": "Change the voice of the following sentence: You must finish the assignment before the deadline expires on Friday.",
+      "questionHtml": "<p>Change the voice of the following sentence:</p><p>You must finish the assignment before the deadline expires on Friday.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The assignment must be finished before the deadline expires on Friday.",
+          "html": "<p>The assignment must be finished before the deadline expires on Friday.</p>"
+        },
+        {
+          "id": "B",
+          "text": "The assignment might be finished before the deadline expires on Friday.",
+          "html": "<p>The assignment might be finished before the deadline expires on Friday.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The assignment should be finished before the deadline expires on Friday.",
+          "html": "<p>The assignment should be finished before the deadline expires on Friday.</p>"
+        },
+        {
+          "id": "D",
+          "text": "The assignment would be finished before the deadline expires on Friday.",
+          "html": "<p>The assignment would be finished before the deadline expires on Friday.</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is: The assignment must be finished before the deadline expires on Friday.</p><p>Explanation</p><p>The original sentence is in the active voice (\"You must finish...\"), and changing it to passive voice shifts the focus to the object: \"The assignment must be finished...\" This keeps the modal verb \"must\" (obligation), the time clause (\"before the deadline expires on Friday\"), and the exact meaning intact, without a specified agent.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q85",
+      "number": 85,
+      "question": "Change the narration of the following sentence: He told me that he would meet me the following Sunday morning.",
+      "questionHtml": "<p>Change the narration of the following sentence:</p><p>He told me that he would meet me the following Sunday morning.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "He said to me, \"I would meet you next Sunday morning.\"",
+          "html": "<p>He said to me, \"I would meet you next Sunday morning.\"</p>"
+        },
+        {
+          "id": "B",
+          "text": "He said to me, \"I shall meet you next Sunday morning.\"",
+          "html": "<p>He said to me, \"I shall meet you next Sunday morning.\"</p>"
+        },
+        {
+          "id": "C",
+          "text": "He said to me, \"I will meet you next Sunday morning.\"",
+          "html": "<p>He said to me, \"I will meet you next Sunday morning.\"</p>"
+        },
+        {
+          "id": "D",
+          "text": "He said to me, \"I meet you on the next Sunday morning.\"",
+          "html": "<p>He said to me, \"I meet you on the next Sunday morning.\"</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is: He said to me, \"I will meet you next Sunday morning.\"</p><p>Explanation</p><p>The given sentence is in indirect speech: \"He told me that he would meet me the following Sunday morning.\" Changing it to direct speech restores the original tense and time expressions: \"would\" (future-in-the-past) becomes \"will\" (simple future), and \"the following Sunday morning\" becomes \"next Sunday morning.\" This follows standard narration rules for converting reported speech back to quoted speech.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q86",
+      "number": 86,
+      "question": "One-Word Substitution: One who doubts or unsure about the existence of God.",
+      "questionHtml": "<p>One-Word Substitution:</p><p>One who doubts or unsure about the existence of God.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fanatic",
+          "html": "<p>Fanatic</p>"
+        },
+        {
+          "id": "B",
+          "text": "Blasphemy",
+          "html": "<p>Blasphemy</p>"
+        },
+        {
+          "id": "C",
+          "text": "Atheist",
+          "html": "<p>Atheist</p>"
+        },
+        {
+          "id": "D",
+          "text": "Agnostic",
+          "html": "<p>Agnostic</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Correct Answer: Agnostic</p><p>Explanation:<br/>An “agnostic” is a person who is uncertain about or doubts the existence of God. Unlike an atheist, who firmly does not believe in God, an agnostic believes that the existence of God is unknown or cannot be known.</p><p>Meanings of the options:</p><p>Fanatic (कट्टरपंथी) – a person with extreme and uncritical beliefs.<br/>Blasphemy (ईशनिंदा) – disrespect toward God or sacred things.<br/>Atheist (नास्तिक) – a person who does not believe in God.<br/>Agnostic (अज्ञेयवादी) – a person who is unsure or doubtful about the existence of God.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q87",
+      "number": 87,
+      "question": "Choose the synonym of ‘Affable’",
+      "questionHtml": "<p>Choose the synonym of ‘Affable’</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Recluse",
+          "html": "<p>Recluse</p>"
+        },
+        {
+          "id": "B",
+          "text": "Hesitant",
+          "html": "<p>Hesitant</p>"
+        },
+        {
+          "id": "C",
+          "text": "Friendly",
+          "html": "<p>Friendly</p>"
+        },
+        {
+          "id": "D",
+          "text": "Introvert",
+          "html": "<p>Introvert</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct Answer: Friendly</p><p>Explanation:<br/>The word “affable” means polite, pleasant, and easy to talk to. It describes someone who is warm and approachable in behavior. “Friendly” has a similar meaning, as it refers to someone who is kind and pleasant toward others.</p><p>Meanings of the options:</p><p>Recluse (एकांतवासी) – a person who avoids social interaction.<br/>Hesitant (संकोची / हिचकिचाने वाला) – unsure or slow to act.<br/>Friendly (मित्रतापूर्ण / मिलनसार) – kind and pleasant in behavior.<br/>Introvert (अंतर्मुखी) – a person who is shy and prefers solitude.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q88",
+      "number": 88,
+      "question": "One-Word Substitution: Murder of a King.",
+      "questionHtml": "<p>One-Word Substitution:</p><p>Murder of a King.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Homicide",
+          "html": "<p>Homicide</p>"
+        },
+        {
+          "id": "B",
+          "text": "Genocide",
+          "html": "<p>Genocide</p>"
+        },
+        {
+          "id": "C",
+          "text": "Suicide",
+          "html": "<p>Suicide</p>"
+        },
+        {
+          "id": "D",
+          "text": "Regicide",
+          "html": "<p>Regicide</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Correct Answer: Regicide</p><p>Explanation:<br/>The term “regicide” specifically refers to the act of killing a king. It is derived from “rex” (Latin for king) and “-cide” (to kill).</p><p>Meanings of the options:</p><p>Homicide (इंसान की हत्या) – the killing of a human being.<br/>Genocide (जन/नरसंहार) – systematic killing of a large group, especially based on ethnicity or religion.<br/>Suicide (आत्महत्या) – the act of killing oneself.<br/>Regicide (राजहत्याकांड) – the act of killing a king.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q89",
+      "number": 89,
+      "question": "Fill in the Blanks: He walked down the ______ to reach his seat.",
+      "questionHtml": "<p>Fill in the Blanks:</p><p>He walked down the ______ to reach his seat.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Isle",
+          "html": "<p>Isle</p>"
+        },
+        {
+          "id": "B",
+          "text": "Aisle",
+          "html": "<p>Aisle</p>"
+        },
+        {
+          "id": "C",
+          "text": "Oil",
+          "html": "<p>Oil </p>"
+        },
+        {
+          "id": "D",
+          "text": "I’ll",
+          "html": "<p>I’ll</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Correct Answer: Aisle</p><p>Explanation:<br/>The sentence refers to the passage between rows of seats, such as in a theater, plane, or church. The correct word is “aisle.”</p><p>Meanings of the options:</p><p>Isle (द्वीप) – a small island.<br/>Aisle (गलियारा / रास्ता) – a passage between rows of seats.<br/>Oil (तेल) – a liquid used for cooking or lubrication.<br/>I’ll (मैं करूँगा / I will का संक्षिप्त रूप) – contraction of “I will.”</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q90",
+      "number": 90,
+      "question": "Arrange the following sentences to form a coherent paragraph: P. But in the modern world, this definition has expanded to include mental and social wellbeing. Q. Traditionally, health was simply seen as the absence of disease or physical illness. R. This holistic view is now promoted by global organizations like the WHO. S. Consequently, people are becoming more aware of the importance of mindfulness and stress management.",
+      "questionHtml": "<p>Arrange the following sentences to form a coherent paragraph:</p><p>P. But in the modern world, this definition has expanded to include mental and social wellbeing. </p><p>Q. Traditionally, health was simply seen as the absence of disease or physical illness. </p><p>R. This holistic view is now promoted by global organizations like the WHO. </p><p>S. Consequently, people are becoming more aware of the importance of mindfulness and stress management.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "RPQS",
+          "html": "<p>RPQS</p>"
+        },
+        {
+          "id": "B",
+          "text": "QRPS",
+          "html": "<p>QRPS</p>"
+        },
+        {
+          "id": "C",
+          "text": "RSPQ",
+          "html": "<p>RSPQ</p>"
+        },
+        {
+          "id": "D",
+          "text": "QPRS",
+          "html": "<p>QPRS</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Coherent Paragraph Order: Q, P, R, S</p><p>Explanation</p><p>This sequence flows logically from past definition → modern expansion → promotion → consequence, forming a coherent paragraph on evolving health concepts.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q91",
+      "number": 91,
+      "question": "Identify the type of clause highlighted in the sentence: \"You can stay in the guest room as long as you want to.\"",
+      "questionHtml": "<p>Identify the type of clause highlighted in the sentence:</p><p>\"You can stay in the guest room as long as you want to.\"</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Noun Clause",
+          "html": "<p>Noun Clause</p>"
+        },
+        {
+          "id": "B",
+          "text": "Adjective Clause",
+          "html": "<p>Adjective Clause</p>"
+        },
+        {
+          "id": "C",
+          "text": "Adverb Clause",
+          "html": "<p>Adverb Clause</p>"
+        },
+        {
+          "id": "D",
+          "text": "Principal Clause",
+          "html": "<p>Principal Clause</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is: Adverb Clause.</p><p>Explanation</p><p>The clause \"as long as you want to\" modifies the verb \"stay,\" explaining when or under what condition the action can occur (duration). This makes it an adverb clause, which answers questions like \"how long?\" or \"under what condition?\" and typically begins with a subordinating conjunction like \"as long as.\"</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q92",
+      "number": 92,
+      "question": "Choose the synonym of ‘QUERULOUS’",
+      "questionHtml": "<p>Choose the synonym of ‘QUERULOUS’</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Grumbling",
+          "html": "<p>Grumbling</p>"
+        },
+        {
+          "id": "B",
+          "text": "Silent",
+          "html": "<p>Silent</p>"
+        },
+        {
+          "id": "C",
+          "text": "Cheerful",
+          "html": "<p>Cheerful</p>"
+        },
+        {
+          "id": "D",
+          "text": "Contented",
+          "html": "<p>Contented</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Correct Answer: Grumbling</p><p>Explanation:<br/>The word “querulous” means complaining in a petulant or whining manner. A person who is querulous frequently expresses dissatisfaction or irritation. The word “grumbling” has a similar meaning, as it refers to complaining in a low or bad-tempered way.</p><p>Meanings of the options:</p><p>Grumbling (कुड़कुड़ाना / शिकायत करना) – complaining in a bad-tempered way.<br/>Silent (मौन / चुप) – not speaking.<br/>Cheerful (प्रसन्न / खुशमिज़ाज) – happy and positive.<br/>Contented (संतुष्ट) – satisfied and happy.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q93",
+      "number": 93,
+      "question": "Identify the error given in the sentence: He walked as if / the Earth belong to him / and he was the / undisputed king of the land.",
+      "questionHtml": "<p>Identify the error given in the sentence:</p><p>He walked as if / the Earth belong to him / and he was the / undisputed king of the land.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "He walked as if",
+          "html": "<p>He walked as if</p>"
+        },
+        {
+          "id": "B",
+          "text": "the Earth belong to him",
+          "html": "<p>the Earth belong to him</p>"
+        },
+        {
+          "id": "C",
+          "text": "and he was the",
+          "html": "<p>and he was the</p>"
+        },
+        {
+          "id": "D",
+          "text": "undisputed king of the land.",
+          "html": "<p>undisputed king of the land.</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is: the Earth belong to him.</p><p>Explanation</p><p>The error is in \"the Earth belong to him,\" which lacks subject-verb agreement in this subjunctive mood construction. After \"as if,\" describing something unreal or hypothetical, it should be \"belonged\" (past subjunctive form of \"belong\" to match the hypothetical tone).</p><p>The other parts are grammatically correct:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q94",
+      "number": 94,
+      "question": "Identify the incorrectly spelt word:",
+      "questionHtml": "<p>Identify the incorrectly spelt word:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lieutenant",
+          "html": "<p>Lieutenant</p>"
+        },
+        {
+          "id": "B",
+          "text": "Colonel",
+          "html": "<p>Colonel</p>"
+        },
+        {
+          "id": "C",
+          "text": "Sargeant",
+          "html": "<p>Sargeant</p>"
+        },
+        {
+          "id": "D",
+          "text": "Brigadier",
+          "html": "<p>Brigadier</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is: Sargeant.</p><p>Explanation</p><p>\"Sargeant\" is misspelled; the correct spelling is \"Sergeant.\" This is a common military rank error where \"gea\" is mistakenly used instead of \"gea.\"</p><p>The other options are correctly spelled military ranks:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q95",
+      "number": 95,
+      "question": "Improve the highlighted part of the sentence: You need not to worry about the results.",
+      "questionHtml": "<p>Improve the highlighted part of the sentence:</p><p>You need not to worry about the results.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "need not worry",
+          "html": "<p>need not worry</p>"
+        },
+        {
+          "id": "B",
+          "text": "need not to be worried",
+          "html": "<p>need not to be worried</p>"
+        },
+        {
+          "id": "C",
+          "text": "do not need worry",
+          "html": "<p>do not need worry</p>"
+        },
+        {
+          "id": "D",
+          "text": "No Improvement",
+          "html": "<p>No Improvement</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is:</p><p>need not worry ✅</p><p>Explanation:<br/>When using “need” as a modal verb, it is followed by the base form of the verb without “to.” So the correct sentence is:<br/>You need not worry about the results.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q96",
+      "number": 96,
+      "question": "Identify the error given in the sentence: The performance of our players / was rather worst than / I had expected / given their recent training sessions.",
+      "questionHtml": "<p>Identify the error given in the sentence:</p><p>The performance of our players / was rather worst than / I had expected / given their recent training sessions.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The performance of our players",
+          "html": "<p>The performance of our players</p>"
+        },
+        {
+          "id": "B",
+          "text": "was rather worst than",
+          "html": "<p>was rather worst than</p>"
+        },
+        {
+          "id": "C",
+          "text": "I had expected",
+          "html": "<p>I had expected</p>"
+        },
+        {
+          "id": "D",
+          "text": "given their recent training sessions.",
+          "html": "<p>given their recent training sessions.</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is: was rather worst than.</p><p>Explanation</p><p>The error is in \"was rather worst than,\" which uses incorrect comparative grammar. The correct phrase should be \"rather better than\" (to mean \"not as good as expected\") or \"worse than\" without \"rather worst.\" \"Worst\" is the superlative form (for three+ items), not comparative (for two), and \"rather worst\" is grammatically wrong.</p><p>The other parts are correct:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q97",
+      "number": 97,
+      "question": "Arrange the following sentences to form a coherent paragraph: P. Such measures include using strong passwords and being wary of phishing emails. Q. Individuals must take proactive steps to safeguard their online presence. R. Without proper protection, personal and financial data is at risk of being stolen. S. Cyber security has become a paramount concern in our increasingly digital age.",
+      "questionHtml": "<p>Arrange the following sentences to form a coherent paragraph:</p><p>P. Such measures include using strong passwords and being wary of phishing emails. </p><p>Q. Individuals must take proactive steps to safeguard their online presence.</p><p>R. Without proper protection, personal and financial data is at risk of being stolen. </p><p>S. Cyber security has become a paramount concern in our increasingly digital age.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "SRQP",
+          "html": "<p>SRQP</p>"
+        },
+        {
+          "id": "B",
+          "text": "QSPR",
+          "html": "<p>QSPR</p>"
+        },
+        {
+          "id": "C",
+          "text": "SQPR",
+          "html": "<p>SQPR</p>"
+        },
+        {
+          "id": "D",
+          "text": "QPSR",
+          "html": "<p>QPSR</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Coherent Paragraph Order: S, R, Q, P</p><p>Explanation</p><p>This creates a logical flow from problem → risk → need for action → examples.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q98",
+      "number": 98,
+      "question": "Change the narration of the following sentence: He said, \"I will be flying to San Francisco tomorrow at this time.\"",
+      "questionHtml": "<p>Change the narration of the following sentence:</p><p>He said, \"I will be flying to San Francisco tomorrow at this time.\"</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "He said that he would be flying to San Francisco tomorrow at that time.",
+          "html": "<p>He said that he would be flying to San Francisco tomorrow at that time.</p>"
+        },
+        {
+          "id": "B",
+          "text": "He said that he should be flying to San Francisco the next day at that time.",
+          "html": "<p>He said that he should be flying to San Francisco the next day at that time.</p>"
+        },
+        {
+          "id": "C",
+          "text": "He said that he would be flying to San Francisco the next day at that time.",
+          "html": "<p>He said that he would be flying to San Francisco the next day at that time.</p>"
+        },
+        {
+          "id": "D",
+          "text": "He said that he shall be flying to San Francisco the next day at this time.",
+          "html": "<p>He said that he shall be flying to San Francisco the next day at this time.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is: He said that he would be flying to San Francisco the next day at that time.</p><p>Explanation</p><p>The original sentence is in direct speech: \"He said, 'I will be flying to San Francisco tomorrow at this time.'\" Changing it to indirect speech requires backshifting the future continuous tense (\"will be flying\" → \"would be flying\") and adjusting time expressions (\"tomorrow\" → \"the next day\"; \"this time\" → \"that time\"). This follows standard narration rules for reported speech.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q99",
+      "number": 99,
+      "question": "IDIOM: ‘Gift of the gab.’",
+      "questionHtml": "<p>IDIOM:</p><p>‘Gift of the gab.’</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ability to write well",
+          "html": "<p>Ability to write well</p>"
+        },
+        {
+          "id": "B",
+          "text": "Ability to speak well",
+          "html": "<p>Ability to speak well</p>"
+        },
+        {
+          "id": "C",
+          "text": "An expensive gift",
+          "html": "<p>An expensive gift</p>"
+        },
+        {
+          "id": "D",
+          "text": "Being very lucky",
+          "html": "<p>Being very lucky</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Correct Answer: Ability to speak well</p><p>Explanation:<br/>The idiom “gift of the gab” refers to the talent or skill of speaking fluently, persuasively, or confidently. It describes someone who can talk easily and effectively.</p><p>Ability to write well (अच्छी तरह लिखने की क्षमता) – incorrect.<br/>Ability to speak well (अच्छी तरह बोलने की क्षमता) – correct.<br/>An expensive gift (महंगा उपहार) – incorrect.<br/>Being very lucky (बहुत भाग्यशाली होना) – incorrect.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a03f80ae7ab-q100",
+      "number": 100,
+      "question": "Choose the antonym of ‘INVIGORATE’",
+      "questionHtml": "<p>Choose the antonym of ‘INVIGORATE’</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Enervate",
+          "html": "<p>Enervate</p>"
+        },
+        {
+          "id": "B",
+          "text": "Energize",
+          "html": "<p>Energize</p>"
+        },
+        {
+          "id": "C",
+          "text": "Economical",
+          "html": "<p>Economical</p>"
+        },
+        {
+          "id": "D",
+          "text": "Fleeting",
+          "html": "<p>Fleeting</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Correct Answer: Enervate</p><p>Explanation:<br/>The word “invigorate” means to give strength, energy, or vitality to someone or something. Its opposite would mean to weaken or drain energy. “Enervate” means to weaken or make someone feel drained of energy, which is the correct antonym.</p><p>Meanings of the options:</p><p>Enervate (निर्बल करना / कमजोर करना) – to weaken or drain energy.<br/>Energize (ऊर्जावान बनाना) – to give energy.<br/>Economical (मितव्ययी / किफायती) – careful about spending money.<br/>Fleeting (क्षणिक / अल्पकालिक) – lasting for a very short time.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

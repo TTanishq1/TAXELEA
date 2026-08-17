@@ -1,0 +1,355 @@
+{
+  "id": "ba7312880e26",
+  "provider": "RBE_Mocks",
+  "sourceFile": "Coding_Decoding_Fictitious_Type.html",
+  "sourcePath": "RBE_MOCKS/Coding_Decoding_Fictitious_Type.html",
+  "title": "Coding Decoding: Fictitious Type",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "ba7312880e26-q1",
+      "number": 1,
+      "question": "In a certain code language, ‘all the best’ is written as ‘sen mil kyu', ‘we are best’ is written as 'din zec mil', and 'are they mad' is written as 'sip zec lir'. How will 'we' be written in that language?",
+      "questionHtml": "<p>In a certain code language, ‘all the best’ is written as ‘sen mil kyu', ‘we are best’ is written as 'din zec mil', and 'are they mad' is written as 'sip zec lir'. How will 'we' be written in that language?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "zec",
+          "html": "<p>zec</p>"
+        },
+        {
+          "id": "B",
+          "text": "din",
+          "html": "<p>din</p>"
+        },
+        {
+          "id": "C",
+          "text": "mil",
+          "html": "<p>mil</p>"
+        },
+        {
+          "id": "D",
+          "text": "lir",
+          "html": "<p>lir</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is: b</p><p>To decode \"we\" in the given code language:</p><p>The common word in both sentences is 'are', and the common code is 'zec'. So, 'are' = 'zec'. Similarly, </p><p>The common word in both sentences is 'best', and the common code is 'mil'. So, 'best' = 'mil'.</p><p>So, in “we are best”, are= zec, best=mil. So, We=din</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ba7312880e26-q2",
+      "number": 2,
+      "question": "In a certain code language, 'he or she' is written as 'yo mo so', 'he is a liar’ is written as ‘di ro mo ko' and 'life or death’ is written as 'gi so ho'. How will 'she' be written in that language?",
+      "questionHtml": "<p>In a certain code language, 'he or she' is written as 'yo mo so', 'he is a liar’ is written as ‘di ro mo ko' and 'life or death’ is written as 'gi so ho'. How will 'she' be written in that language?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "so",
+          "html": "<p>so</p>"
+        },
+        {
+          "id": "B",
+          "text": "mo",
+          "html": "<p>mo</p>"
+        },
+        {
+          "id": "C",
+          "text": "yo",
+          "html": "<p>yo</p>"
+        },
+        {
+          "id": "D",
+          "text": "di",
+          "html": "<p>di</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is: c</p><p>Explanation:</p><p>Now, analysing common words and their codes: -</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ba7312880e26-q3",
+      "number": 3,
+      "question": "In a certain code language, ‘make your bed' is written as '765', 'study on bed’ is written as '974', and 'study is good' is written as '342'. How will 'study bed' be written in that language?",
+      "questionHtml": "<p>In a certain code language, ‘make your bed' is written as '765', 'study on bed’ is written as '974', and 'study is good' is written as '342'. How will 'study bed' be written in that language?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "49",
+          "html": "<p>49</p>"
+        },
+        {
+          "id": "B",
+          "text": "67",
+          "html": "<p>67</p>"
+        },
+        {
+          "id": "C",
+          "text": "59",
+          "html": "<p>59</p>"
+        },
+        {
+          "id": "D",
+          "text": "47",
+          "html": "<p>47</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The correct answer is: d</p><p>Explanation:</p><p>From (2) and (3), \"study\" appears in both and its corresponding digits is 4. From (1) and (2), \"bed\" appears in both and its corresponding digits are 7.</p><p>Therefore, code for “bed study” is 47.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ba7312880e26-q4",
+      "number": 4,
+      "question": "In a certain code language, 3576 means 'she likes playing guitar', and 2456 means 'he also likes guitar'. Which of the following is the code for 'new changes is saved’?",
+      "questionHtml": "<p>In a certain code language, 3576 means 'she likes playing guitar', and 2456 means 'he also likes guitar'. Which of the following is the code for 'new changes is saved’?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3725",
+          "html": "<p>3725</p>"
+        },
+        {
+          "id": "B",
+          "text": "3645",
+          "html": "<p>3645</p>"
+        },
+        {
+          "id": "C",
+          "text": "3564",
+          "html": "<p>3564</p>"
+        },
+        {
+          "id": "D",
+          "text": "3576",
+          "html": "<p>3576</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is: a</p><p>Logic: The number corresponds to the number of alphabets in the given word.</p><p>Now applying this to <strong>'new changes is saved'</strong>:</p><p>Thus, the correct code for <strong>'new changes is saved'</strong> is <strong>3725</strong>.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ba7312880e26-q5",
+      "number": 5,
+      "question": "In a certain code language, 'ding ming hing fing' means 'Satyam is an engineer' and 'Sing ding xing fing ming' means 'An engineer is always great-minded. Which of the following is the code for 'Satyam'?",
+      "questionHtml": "<p>In a certain code language, 'ding ming hing fing' means 'Satyam is an engineer' and 'Sing ding xing fing ming' means 'An engineer is always great-minded. Which of the following is the code for 'Satyam'?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ding",
+          "html": "<p>ding</p>"
+        },
+        {
+          "id": "B",
+          "text": "ming",
+          "html": "<p>ming</p>"
+        },
+        {
+          "id": "C",
+          "text": "hing",
+          "html": "<p>hing</p>"
+        },
+        {
+          "id": "D",
+          "text": "fing",
+          "html": "<p>fing</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is: c</p><p>Explanation:</p><p>From both sentences, we can identify the common words and codes:</p><p>Thus, 'Satyam' is represented by 'hing' in this code language.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ba7312880e26-q6",
+      "number": 6,
+      "question": "In a certain code language, ‘that was cat’ is written as 'mez kez dez', 'cat was wild’ is written as 'fez dez mez', and 'dog was tamed' is written as 'mez gez hez. How will ‘that was wild’ be written in that language?",
+      "questionHtml": "<p>In a certain code language, ‘that was cat’ is written as 'mez kez dez', 'cat was wild’ is written as 'fez dez mez', and 'dog was tamed' is written as 'mez gez hez. How will ‘that was wild’ be written in that language?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "kez dez mez",
+          "html": "<p>kez dez mez</p>"
+        },
+        {
+          "id": "B",
+          "text": "fez mez gez",
+          "html": "<p>fez mez gez</p>"
+        },
+        {
+          "id": "C",
+          "text": "mez kez dez",
+          "html": "<p>mez kez dez</p>"
+        },
+        {
+          "id": "D",
+          "text": "kez mez fez",
+          "html": "<p>kez mez fez</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The correct answer is: d</p><p>Explanation:</p><p>Identifying common words and their corresponding codes:</p><p>Now, for 'that was wild', we need:</p><p>Thus, the correct code for 'that was wild' is 'kez mez fez'.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ba7312880e26-q7",
+      "number": 7,
+      "question": "In a certain code, 582496 means ‘Media literacy is very important aspect' and 5266 means 'Media is fourth pillar'. Which of the following is the code for 'Literacy is good for society'?",
+      "questionHtml": "<p>In a certain code, 582496 means ‘Media literacy is very important aspect' and 5266 means 'Media is fourth pillar'. Which of the following is the code for 'Literacy is good for society'?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "82437",
+          "html": "<p>82437</p>"
+        },
+        {
+          "id": "B",
+          "text": "82546",
+          "html": "<p>82546</p>"
+        },
+        {
+          "id": "C",
+          "text": "83436",
+          "html": "<p>83436</p>"
+        },
+        {
+          "id": "D",
+          "text": "82537",
+          "html": "<p>82537</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is: a</p><p>Logic: The number corresponds to the number of alphabets in the given word.</p><p>Now, for 'Literacy is good for society':</p><p>Thus, the correct code is 82437.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ba7312880e26-q8",
+      "number": 8,
+      "question": "In a certain code language, 'fresh fruits available here' is written as 'zop kin bhu lop', 'available lost items here' is written as 'gan bhu nut lop', 'be fresh search items' is written as 'vax der kin nut', and 'available fruits desert search' is written as 'but bhu der zop'. How will 'lost fruits' be written in that language?",
+      "questionHtml": "<p>In a certain code language, </p><p>'fresh fruits available here' is written as 'zop kin bhu lop', </p><p>'available lost items here' is written as 'gan bhu nut lop', </p><p>'be fresh search items' is written as 'vax der kin nut', and </p><p>'available fruits desert search' is written as 'but bhu der zop'. </p><p>How will 'lost fruits' be written in that language?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "gan der",
+          "html": "<p>gan der</p>"
+        },
+        {
+          "id": "B",
+          "text": "nut zop",
+          "html": "<p>nut zop</p>"
+        },
+        {
+          "id": "C",
+          "text": "gan zop",
+          "html": "<p>gan zop</p>"
+        },
+        {
+          "id": "D",
+          "text": "nut der",
+          "html": "<p>nut der</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is: c</p><p>Explanation:</p><p>Identifying word-to-code mappings:</p><p>Now, for 'lost fruits', we combine the identified codes:</p><p>Thus, the correct answer is 'gan zop'.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ba7312880e26-q9",
+      "number": 9,
+      "question": "In a certain code language, 'lee fee dee' means 'Riya is doctor' and ' lee mee dee kee' means 'workload of doctor is more'. Which of the following is the code for 'Riya'?",
+      "questionHtml": "<p>In a certain code language, 'lee fee dee' means 'Riya is doctor' and ' lee mee dee kee' means 'workload of doctor is more'. Which of the following is the code for 'Riya'?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "lee",
+          "html": "<p>lee</p>"
+        },
+        {
+          "id": "B",
+          "text": "Fee",
+          "html": "<p>Fee</p>"
+        },
+        {
+          "id": "C",
+          "text": "Dee",
+          "html": "<p>Dee</p>"
+        },
+        {
+          "id": "D",
+          "text": "Mee",
+          "html": "<p>Mee</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is: b</p><p>Explanation:</p><p>Identifying common words and their codes:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ba7312880e26-q10",
+      "number": 10,
+      "question": "In a certain code language: \"they want more books\" is written as 2637, \"read more pages\" is written as 964, \"we want sleep\" is written as 538, \"they are pages\" is written as 719. How will \"read pages\" be written in that language?",
+      "questionHtml": "<p>In a certain code language:</p><p>\"they want more books\" is written as 2637,</p><p>\"read more pages\" is written as 964,</p><p>\"we want sleep\" is written as 538,</p><p>\"they are pages\" is written as 719.</p><p>How will \"read pages\" be written in that language?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "64",
+          "html": "<p>64</p>"
+        },
+        {
+          "id": "B",
+          "text": "95",
+          "html": "<p>95</p>"
+        },
+        {
+          "id": "C",
+          "text": "56",
+          "html": "<p>56</p>"
+        },
+        {
+          "id": "D",
+          "text": "49",
+          "html": "<p>49</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The correct answer is: d</p><p>Explanation:</p><p>Identifying word-to-code mappings:</p><p>Thus, the code for \"read pages\" is 49.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

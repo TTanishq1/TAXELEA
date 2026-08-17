@@ -1,0 +1,1719 @@
+{
+  "id": "b5c4ab85ace1",
+  "provider": "Testbook",
+  "sourceFile": "Tabulation - 02.html",
+  "sourcePath": "Testbook/files/Tabulation - 02.html",
+  "title": "Tabulation - 02",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "b5c4ab85ace1-q1",
+      "number": 1,
+      "question": "The following table indicates the number of students studying in three subjects in four colleges. What is the ratio of the total number of students studying in the Physics to that of studying in Mathematics in all four colleges taken together?",
+      "questionHtml": "The following table indicates the number of students studying in three subjects in four colleges.<br />\n<img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/25/04/14-4-2025%20IMG-665%20-5.png\" style=\"width: 363px; height: 165px;\" /><br />\nWhat is the ratio of the total number of students studying in the Physics to that of studying in Mathematics in all four colleges taken together?<br />\n&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "781 : 585",
+          "html": "781 : 585"
+        },
+        {
+          "id": "B",
+          "text": "775 : 601",
+          "html": "775 : 601"
+        },
+        {
+          "id": "C",
+          "text": "578 : 731",
+          "html": "578 : 731"
+        },
+        {
+          "id": "D",
+          "text": "776 : 603",
+          "html": "776 : 603"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>The number of students studying in different subjects across four colleges are:</p>\n\n<table border=\"1\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>Subject</th>\n\t\t\t<th>College W</th>\n\t\t\t<th>College X</th>\n\t\t\t<th>College Y</th>\n\t\t\t<th>College Z</th>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Physics</td>\n\t\t\t<td>420</td>\n\t\t\t<td>435</td>\n\t\t\t<td>412</td>\n\t\t\t<td>285</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Chemistry</td>\n\t\t\t<td>380</td>\n\t\t\t<td>340</td>\n\t\t\t<td>315</td>\n\t\t\t<td>420</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Mathematics</td>\n\t\t\t<td>256</td>\n\t\t\t<td>310</td>\n\t\t\t<td>295</td>\n\t\t\t<td>345</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><strong>Calculations:</strong></p>\n\n<p>To find the ratio of the total number of students studying Physics to that studying Mathematics across all colleges:</p>\n\n<p>Total number of students in Physics = 420 + 435 + 412 + 285 = 1552</p>\n\n<p>Total number of students in Mathematics = 256 + 310 + 295 + 345 = 1206</p>\n\n<p><strong>Ratio of Physics to Mathematics:</strong></p>\n\n<p>Ratio = 1552 / 1206</p>\n\n<p>&rArr; Ratio = 1552 : 1206</p>\n\n<p>Now simplify the ratio by dividing both numbers by their greatest common divisor (GCD), which is 2:</p>\n\n<p>&rArr; Ratio = (1552 &divide; 2) : (1206 &divide; 2) = 776 : 603</p>\n\n<p><strong>The ratio of the total number of students studying Physics to that studying Mathematics is 776 : 603.</strong></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/25/04/14-4-2025%20IMG-665%20-5.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q2",
+      "number": 2,
+      "question": "The marks of 6 students are given. All the marks are out of 100. Student English Hindi Maths Physics Chemistry Biology A 70 60 99 80 80 75 B 75 65 85 75 75 70 C 80 80 70 60 70 60 D 72 63 65 70 60 60 E 70 60 60 60 55 55 F 60 60 70 70 60 50 Find the percentage scored by C.",
+      "questionHtml": "<p>The marks of 6 students are given. All the marks are out of 100.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" data-sheets-baot=\"1\" data-sheets-root=\"1\" dir=\"ltr\" style=\"width:330px;\" xmlns=\"http://www.w3.org/1999/xhtml\">\n\t<colgroup>\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t</colgroup>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Student</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>English</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Hindi</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Maths</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Physics</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Chemistry</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Biology</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">A</td>\n\t\t\t<td style=\"text-align: center;\">70</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">99</td>\n\t\t\t<td style=\"text-align: center;\">80</td>\n\t\t\t<td style=\"text-align: center;\">80</td>\n\t\t\t<td style=\"text-align: center;\">75</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">B</td>\n\t\t\t<td style=\"text-align: center;\">75</td>\n\t\t\t<td style=\"text-align: center;\">65</td>\n\t\t\t<td style=\"text-align: center;\">85</td>\n\t\t\t<td style=\"text-align: center;\">75</td>\n\t\t\t<td style=\"text-align: center;\">75</td>\n\t\t\t<td style=\"text-align: center;\">70</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">C</td>\n\t\t\t<td style=\"text-align: center;\">80</td>\n\t\t\t<td style=\"text-align: center;\">80</td>\n\t\t\t<td style=\"text-align: center;\">70</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">70</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">D</td>\n\t\t\t<td style=\"text-align: center;\">72</td>\n\t\t\t<td style=\"text-align: center;\">63</td>\n\t\t\t<td style=\"text-align: center;\">65</td>\n\t\t\t<td style=\"text-align: center;\">70</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">E</td>\n\t\t\t<td style=\"text-align: center;\">70</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">55</td>\n\t\t\t<td style=\"text-align: center;\">55</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">F</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">70</td>\n\t\t\t<td style=\"text-align: center;\">70</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">50</td>\n\t\t</tr>\n\t</tbody>\n</table>\n&nbsp;\n\n<p>Find the percentage scored by C.</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "75%",
+          "html": "75%"
+        },
+        {
+          "id": "B",
+          "text": "70%",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">&nbsp;70%</span>"
+        },
+        {
+          "id": "C",
+          "text": "8%",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">8%</span>"
+        },
+        {
+          "id": "D",
+          "text": "65%",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">65%</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Percentage = <span class=\"math-tex\">\\(\\frac{420}{600} \\times 100 \\)</span></p>\n\n<p>⇒ Percentage = <span class=\"math-tex\">\\(\\frac{420 \\times 100}{600}\\)</span></p>\n\n<p>⇒ Percentage = 70%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q3",
+      "number": 3,
+      "question": "The table given below shows the number of people in different states. State Number of people F 474 G 500 H 444 I 495 J 580 What is the average number of people in all the states?",
+      "questionHtml": "<p>The table given below shows the number of people in different states.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 250px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>State</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Number of people</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">F</td>\n\t\t\t<td style=\"text-align: center;\">474</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">G</td>\n\t\t\t<td style=\"text-align: center;\">500</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">H</td>\n\t\t\t<td style=\"text-align: center;\">444</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">I</td>\n\t\t\t<td style=\"text-align: center;\">495</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">J</td>\n\t\t\t<td style=\"text-align: center;\">580</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\nWhat is the average number of people in all the states?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "396.5",
+          "html": "396.5"
+        },
+        {
+          "id": "B",
+          "text": "482.5",
+          "html": "482.5"
+        },
+        {
+          "id": "C",
+          "text": "498.6",
+          "html": "498.6"
+        },
+        {
+          "id": "D",
+          "text": "476.6",
+          "html": "476.6"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">The average number of people in all the states </span>⇒ (474 + 500 + 444 + 495 + 580)/5 ⇒ 498.6</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q4",
+      "number": 4,
+      "question": "Study the given table (income in dollars) and answer the question that follows. Source of income Adam Brad Christy David Salary 350 200 460 500 Bonus 90 40 115 130 Overtime 160 65 170 185 Arrears 200 125 145 235 Total 800 430 890 1050 The income from bonus is how much per cent to the income from arrears in the case of Adam?",
+      "questionHtml": "<p>Study the given table (income in dollars) and answer the question that follows.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:320px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Source of income</td>\n\t\t\t<td>Adam</td>\n\t\t\t<td>Brad</td>\n\t\t\t<td>Christy</td>\n\t\t\t<td>David</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Salary</td>\n\t\t\t<td>350</td>\n\t\t\t<td>200</td>\n\t\t\t<td>460</td>\n\t\t\t<td>500</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Bonus</td>\n\t\t\t<td>90</td>\n\t\t\t<td>40</td>\n\t\t\t<td>115</td>\n\t\t\t<td>130</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Overtime</td>\n\t\t\t<td>160</td>\n\t\t\t<td>65</td>\n\t\t\t<td>170</td>\n\t\t\t<td>185</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Arrears</td>\n\t\t\t<td>200</td>\n\t\t\t<td>125</td>\n\t\t\t<td>145</td>\n\t\t\t<td>235</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Total</td>\n\t\t\t<td>800</td>\n\t\t\t<td>430</td>\n\t\t\t<td>890</td>\n\t\t\t<td>1050</td>\n\t\t</tr>\n\t</tbody>\n</table>\n<br />\n<span style=\"\">The income from bonus is how much per cent to the income from arrears in the case of Adam?</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "80%",
+          "html": "80%"
+        },
+        {
+          "id": "B",
+          "text": "40 %",
+          "html": "40<span style=\"\">%</span>"
+        },
+        {
+          "id": "C",
+          "text": "90 %",
+          "html": "90<span style=\"\">%</span>"
+        },
+        {
+          "id": "D",
+          "text": "45 %",
+          "html": "45<span style=\"\">%</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Required % = (90/200) × 100 ⇒ 45</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q5",
+      "number": 5,
+      "question": "The table given below shows the number of books sold by 7 shops. Shops Books A 34 B 48 C 50 D 100 E 64 F 110 G 16 What is the difference between number of books sold by A and B together and the number of books sold by E and F together?",
+      "questionHtml": "<p>The table given below shows the number of books sold by 7 shops.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:220px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:312px;\">\n\t\t\t<p style=\"text-align: center;\">Shops</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:312px;\">\n\t\t\t<p style=\"text-align: center;\">Books</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:312px;\">\n\t\t\t<p style=\"text-align: center;\">A</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:312px;\">\n\t\t\t<p style=\"text-align: center;\">34</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:312px;\">\n\t\t\t<p style=\"text-align: center;\">B</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:312px;\">\n\t\t\t<p style=\"text-align: center;\">48</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:312px;\">\n\t\t\t<p style=\"text-align: center;\">C</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:312px;\">\n\t\t\t<p style=\"text-align: center;\">50</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:312px;\">\n\t\t\t<p style=\"text-align: center;\">D</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:312px;\">\n\t\t\t<p style=\"text-align: center;\">100</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:312px;\">\n\t\t\t<p style=\"text-align: center;\">E</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:312px;\">\n\t\t\t<p style=\"text-align: center;\">64</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:312px;\">\n\t\t\t<p style=\"text-align: center;\">F</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:312px;\">\n\t\t\t<p style=\"text-align: center;\">110</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:312px;\">\n\t\t\t<p style=\"text-align: center;\">G</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:312px;\">\n\t\t\t<p style=\"text-align: center;\">16</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>What is the difference between number of books sold by A and B together and the number of books sold by E and F together?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "82",
+          "html": "82"
+        },
+        {
+          "id": "B",
+          "text": "96",
+          "html": "96"
+        },
+        {
+          "id": "C",
+          "text": "92",
+          "html": "92"
+        },
+        {
+          "id": "D",
+          "text": "174",
+          "html": "174"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Number of books sold by A and B together = 34 + 48 = 82</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Number of books sold by E and F together = 64 + 110 = 174</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Difference = 174 - 82 = 92</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q6",
+      "number": 6,
+      "question": "Study the given table and answer the question that follows. The given table shows the number of students enrolled in different academic faculties of an institution during 2016 &ndash; 2019 Year Science Commerce Humanities 2016 550 457 699 2017 584 554 574 2018 625 332 743 2019 676 444 1223 From 2016 to 2019, what is the difference between the total number of students enrolled in science and that of students enrolled in humanities?",
+      "questionHtml": "Study the given table and answer the question that follows.<br />\nThe given table shows the number of students enrolled in different academic faculties of an institution during 2016 &ndash; 2019\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Year&nbsp; &nbsp; &nbsp;&nbsp;</th>\n\t\t\t<th>Science&nbsp; &nbsp;</th>\n\t\t\t<th>Commerce&nbsp; &nbsp;&nbsp;</th>\n\t\t\t<th>Humanities&nbsp; &nbsp;</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>2016</td>\n\t\t\t<td>550</td>\n\t\t\t<td>457</td>\n\t\t\t<td>699</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2017</td>\n\t\t\t<td>584</td>\n\t\t\t<td>554</td>\n\t\t\t<td>574</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2018</td>\n\t\t\t<td>625</td>\n\t\t\t<td>332</td>\n\t\t\t<td>743</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2019</td>\n\t\t\t<td>676</td>\n\t\t\t<td>444</td>\n\t\t\t<td>1223</td>\n\t\t</tr>\n\t</tbody>\n</table>\nFrom 2016 to 2019, what is the difference between the total number of students enrolled in science and that of students enrolled in humanities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "870",
+          "html": "870"
+        },
+        {
+          "id": "B",
+          "text": "804",
+          "html": "804"
+        },
+        {
+          "id": "C",
+          "text": "912",
+          "html": "912"
+        },
+        {
+          "id": "D",
+          "text": "930",
+          "html": "930"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Solution:</strong></p>\n\n<p><strong>Calculate the total number of students enrolled in Science:</strong></p>\n\n<p>2016: 550</p>\n\n<p>2017: 584</p>\n\n<p>2018: 625</p>\n\n<p>2019: 676</p>\n\n<p>Total for Science = 550 + 584 + 625 + 676 = 2435</p>\n\n<p><strong>Calculate the total number of students enrolled in Humanities:</strong></p>\n\n<p>2016: 699</p>\n\n<p>2017: 574</p>\n\n<p>2018: 743</p>\n\n<p>2019: 1223</p>\n\n<p>Total for Humanities = 699 + 574 + 743 + 1223 = 3239</p>\n\n<p><strong>Find the difference:</strong></p>\n\n<p>Difference = Total for Humanities - Total for Science</p>\n\n<p>Difference = 3239 - 2435 = 804</p>\n\n<p><strong>The difference between the total number of students enrolled in Science and Humanities is 804.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q7",
+      "number": 7,
+      "question": "The table given below shows the sales turnover of 5 different companies. Company Sales turnover A 120 B 80 C 200 D 250 E 150 The sales turnover of company A is what percent of the sales turnover of company C?",
+      "questionHtml": "<p>The table given below shows the sales turnover of 5 different companies.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:73px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Company</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:114px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Sales turnover</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:73px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">A</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:114px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">120</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:73px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">B</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:114px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">80</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:73px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">C</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:114px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">200</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:73px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">D</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:114px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">250</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:73px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">E</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:114px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">150</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>The sales turnover of company A is what percent of the sales turnover of company C?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "60 percent",
+          "html": "60 percent"
+        },
+        {
+          "id": "B",
+          "text": "50 percent",
+          "html": "50 percent"
+        },
+        {
+          "id": "C",
+          "text": "40 percent",
+          "html": "40 percent"
+        },
+        {
+          "id": "D",
+          "text": "75 percent",
+          "html": "75 percent"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Now, the required percentage ⇒ <span class=\"math-tex\">\\(\\frac {120}{200} \\times 100\\%\\)</span><span style=\"font-weight: bolder;\"> </span>= 60%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q8",
+      "number": 8,
+      "question": "The following table represents the total number of students in different classes and the respective number of students who are vegetarian, in a school. Study the table carefully and answer the question that follows. Class Total number of students Number of vegetarian students XII 150 105 XI 165 100 X 125 80 IX 140 90 What is the percentage of non-vegetarian students in class XII?",
+      "questionHtml": "The following table represents the total number of students in different classes and the respective number of students who are vegetarian, in a school. Study the table carefully and answer the question that follows.\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Class</th>\n\t\t\t<th>Total number of students</th>\n\t\t\t<th>Number of vegetarian students</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>XII</td>\n\t\t\t<td>150</td>\n\t\t\t<td>105</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>XI</td>\n\t\t\t<td>165</td>\n\t\t\t<td>100</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>X</td>\n\t\t\t<td>125</td>\n\t\t\t<td>80</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>IX</td>\n\t\t\t<td>140</td>\n\t\t\t<td>90</td>\n\t\t</tr>\n\t</tbody>\n</table>\nWhat is the percentage of non-vegetarian students in class XII?",
+      "options": [
+        {
+          "id": "A",
+          "text": "40%",
+          "html": "40%"
+        },
+        {
+          "id": "B",
+          "text": "30%",
+          "html": "30%"
+        },
+        {
+          "id": "C",
+          "text": "35%",
+          "html": "35%"
+        },
+        {
+          "id": "D",
+          "text": "25%",
+          "html": "25%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Calculation:</strong></p>\n\n<p>Total number of students in class XII is 150</p>\n\n<p>Number of vegetarian students in class XII is 105</p>\n\n<p>According to the question,</p>\n\n<p>Non - Vegetarian student in class XII is 150 - 105 = 45</p>\n\n<p>&rArr; (45/150)&times; 100</p>\n\n<p>&rArr; 30%</p>\n\n<p><strong>&there4; The correct answer is 30%.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q9",
+      "number": 9,
+      "question": "Quantity of various food items used by a restaurant during 4 months of a year (in kg). Month &rarr; Food Item &darr; March April May June A 220 180 270 320 B 255 320 390 420 C 280 295 280 315 D 350 310 250 280 E 308 340 350 365 What is the average quantity of food item C used during all the 4 months together?",
+      "questionHtml": "<p>Quantity of various food items used by a restaurant during 4 months of a year (in kg).</p>\n\n<table align=\"left\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:330px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Month&nbsp;&rarr;&nbsp;</strong></p>\n\n\t\t\t<p style=\"text-align: center;\"><strong>Food Item&nbsp;&darr;&nbsp;</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>March</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>April</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>May</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>June</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">A</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">220</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">180</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">270</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">320</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">B</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">255</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">320</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">390</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">420</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">C</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">280</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">295</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">280</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">315</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">D</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">350</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">310</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">250</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">280</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">E</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">308</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">340</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">350</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">365</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>What is the average quantity of food item C used during all the 4 months together?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "303.7 kg",
+          "html": "303.7 kg"
+        },
+        {
+          "id": "B",
+          "text": "292.5 kg",
+          "html": "292.5 kg"
+        },
+        {
+          "id": "C",
+          "text": "211.8 kg",
+          "html": "211.8 kg"
+        },
+        {
+          "id": "D",
+          "text": "253.6 kg",
+          "html": "253.6 kg"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">The average quantity of food item C used during all the 4 months together is ,</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ (280 + 295 + 280 + 315) / 4 = 292.5 kg</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q10",
+      "number": 10,
+      "question": "Refer the below table and answer the question that follows. India's exports in 2020 Value in million US $ Electronics 720 Cotton 680 Jewellery 500 Steel 450 Software 850 Jewellery was what percentage of the total exports? (Rounded to two decimal places)",
+      "questionHtml": "Refer the below table and answer the question that follows.\n<div class=\"flex max-w-full flex-col flex-grow\">\n<div class=\"min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5\" data-message-author-role=\"assistant\" data-message-id=\"7f4aed9c-a959-4fa2-91d6-b582ac1a8dcd\" data-message-model-slug=\"gpt-4o-mini\" dir=\"auto\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\">\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>India&#39;s exports in 2020&nbsp; &nbsp;&nbsp;</th>\n\t\t\t<th>Value in million US $&nbsp; &nbsp; &nbsp;</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Electronics</td>\n\t\t\t<td>720</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Cotton</td>\n\t\t\t<td>680</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Jewellery</td>\n\t\t\t<td>500</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Steel</td>\n\t\t\t<td>450</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Software</td>\n\t\t\t<td>850</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\nJewellery was what percentage of the total exports? (Rounded to two decimal places)",
+      "options": [
+        {
+          "id": "A",
+          "text": "14.63%",
+          "html": "14.63%"
+        },
+        {
+          "id": "B",
+          "text": "15.63%",
+          "html": "15.63%"
+        },
+        {
+          "id": "C",
+          "text": "15.78%",
+          "html": "15.78%"
+        },
+        {
+          "id": "D",
+          "text": "14.34%",
+          "html": "14.34%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Percentage of Jewellery exports = (500 / 3200) × 100 <span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">= 15.63%</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q11",
+      "number": 11,
+      "question": "The given table shows the production of units of different products in different months. Product March June September December Z 15 18 12 19 Y 18 13 17 8 X 14 17 19 16 W 12 14 11 15 Y's total production is what percentage of Z's total production?",
+      "questionHtml": "<p>The given table shows the production of units of different products in different months.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:69px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Product</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:54px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>March</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:42px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>June</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:81px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>September</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:77px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>December</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:69px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">Z</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:54px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">15</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:42px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">18</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:81px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">12</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:77px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">19</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:69px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">Y</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:54px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">18</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:42px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">13</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:81px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">17</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:77px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">8</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:69px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">X</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:54px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">14</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:42px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">17</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:81px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">19</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:77px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">16</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:69px;height:16px;\">\n\t\t\t<p style=\"text-align: center;\">W</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:54px;height:16px;\">\n\t\t\t<p align=\"center\">12</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:42px;height:16px;\">\n\t\t\t<p align=\"center\">14</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:81px;height:16px;\">\n\t\t\t<p align=\"center\">11</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:77px;height:16px;\">\n\t\t\t<p align=\"center\">15</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Y&#39;s total production is what percentage of Z&#39;s total production?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "88.5%",
+          "html": "88.5%"
+        },
+        {
+          "id": "B",
+          "text": "89.5%",
+          "html": "89.5%"
+        },
+        {
+          "id": "C",
+          "text": "87.5%",
+          "html": "87.5%"
+        },
+        {
+          "id": "D",
+          "text": "114.28%",
+          "html": "114.28%"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Total production of product Y = 18 + 13 + 17 + 8 = 56</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total production of product Z = 15 + 18 + 12 + 19 = 64</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, the require percentage is = 56/64 × 100 = 0.875% × 100 = 87.5%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q12",
+      "number": 12,
+      "question": "The table given below shows the marked price and value of discount of 7 articles. Articles Marked price Discount D 1100 500 E 700 200 F 900 500 G 600 400 H 400 300 I 500 200 J 1000 200 What is the average marked price of all the articles?",
+      "questionHtml": "<p>The table given below shows the marked price and value of discount of 7 articles.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:66px;\">\n\t\t\t<p align=\"center\"><strong>Articles</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:101px;\">\n\t\t\t<p align=\"center\"><strong>Marked price</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:74px;\">\n\t\t\t<p align=\"center\"><strong>Discount</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:66px;\">\n\t\t\t<p align=\"center\">D</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:101px;\">\n\t\t\t<p align=\"center\">1100</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:74px;\">\n\t\t\t<p align=\"center\">500</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:66px;\">\n\t\t\t<p align=\"center\">E</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:101px;\">\n\t\t\t<p align=\"center\">700</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:74px;\">\n\t\t\t<p align=\"center\">200</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:66px;\">\n\t\t\t<p align=\"center\">F</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:101px;\">\n\t\t\t<p align=\"center\">900</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:74px;\">\n\t\t\t<p align=\"center\">500</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:66px;\">\n\t\t\t<p align=\"center\">G</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:101px;\">\n\t\t\t<p align=\"center\">600</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:74px;\">\n\t\t\t<p align=\"center\">400</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:66px;\">\n\t\t\t<p align=\"center\">H</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:101px;\">\n\t\t\t<p align=\"center\">400</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:74px;\">\n\t\t\t<p align=\"center\">300</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:66px;\">\n\t\t\t<p align=\"center\">I</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:101px;\">\n\t\t\t<p align=\"center\">500</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:74px;\">\n\t\t\t<p align=\"center\">200</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:66px;\">\n\t\t\t<p align=\"center\">J</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:101px;\">\n\t\t\t<p align=\"center\">1000</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:74px;\">\n\t\t\t<p align=\"center\">200</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>What is the average marked price of all the articles?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "824.12",
+          "html": "824.12"
+        },
+        {
+          "id": "B",
+          "text": "814.12",
+          "html": "814.12"
+        },
+        {
+          "id": "C",
+          "text": "742.85",
+          "html": "742.85"
+        },
+        {
+          "id": "D",
+          "text": "704.15",
+          "html": "704.15"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Sum = 1100 + 700 + 900 + 600 + 400 + 500 + 1000 = 5200</p>\n\n<p><span style=\"\">⇒ Average = </span><span class=\"math-tex\">\\(\\frac{\\text{Sum of the observation}}{\\text{Total observation}}\\)</span> <span style=\"\">= </span><span class=\"math-tex\">\\(\\frac{\\text{5200}}{\\text{7}}\\)</span> = 742.85</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q13",
+      "number": 13,
+      "question": "The given table shows the percentage of students passing out of college M over five years. Years College M 2018 68 2019 72 2020 40 2021 80 2022 92 What is the percentage increase in the number of students passing out of college M in the year 2022 as compared to the previous year?",
+      "questionHtml": "The given table shows the percentage of students passing out of college M over five years.\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Years</th>\n\t\t\t<th>College M</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>2018</td>\n\t\t\t<td>68</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2019</td>\n\t\t\t<td>72</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2020</td>\n\t\t\t<td>40</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2021</td>\n\t\t\t<td>80</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2022</td>\n\t\t\t<td>92</td>\n\t\t</tr>\n\t</tbody>\n</table>\nWhat is the percentage increase in the number of students passing out of college M in the year 2022 as compared to the previous year?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%",
+          "html": "10%"
+        },
+        {
+          "id": "B",
+          "text": "25%",
+          "html": "25%"
+        },
+        {
+          "id": "C",
+          "text": "15%",
+          "html": "15%"
+        },
+        {
+          "id": "D",
+          "text": "20%",
+          "html": "20%"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Percentage of students passing out of College M:</p>\n\n<p>2021: 80%</p>\n\n<p>2022: 92%</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Percentage Increase = [(New Value - Old Value) &divide; Old Value] &times; 100</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>New Value = 92, Old Value = 80</p>\n\n<p>Percentage Increase = [(92 - 80) &divide; 80] &times; 100</p>\n\n<p>&rArr; Percentage Increase = (12 &divide; 80) &times; 100</p>\n\n<p>&rArr; Percentage Increase = 15%</p>\n\n<p><strong>&there4; The percentage increase in students passing out in 2022 compared to 2021 is 15%.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q14",
+      "number": 14,
+      "question": "The following table shows the exports of three companies P, Q and R from 2015 to 2019. Company/ years &rArr; 2015 2016 2017 2018 2019 P 2000 1000 2000 3000 4000 Q 4000 5000 4000 5000 3000 R 3000 2000 4000 4000 5000 Which of the following years has the highest total exports from the three companies together?",
+      "questionHtml": "<p>The following table shows the exports of three companies P, Q and R from 2015 to 2019.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:330px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Company/ years&nbsp;&rArr;</td>\n\t\t\t<td style=\"text-align: center;\">2015</td>\n\t\t\t<td style=\"text-align: center;\">2016</td>\n\t\t\t<td style=\"text-align: center;\">2017</td>\n\t\t\t<td style=\"text-align: center;\">2018</td>\n\t\t\t<td style=\"text-align: center;\">2019</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">P</td>\n\t\t\t<td style=\"text-align: center;\">2000</td>\n\t\t\t<td style=\"text-align: center;\">1000</td>\n\t\t\t<td style=\"text-align: center;\">2000</td>\n\t\t\t<td style=\"text-align: center;\">3000</td>\n\t\t\t<td style=\"text-align: center;\">4000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Q</td>\n\t\t\t<td style=\"text-align: center;\">4000</td>\n\t\t\t<td style=\"text-align: center;\">5000</td>\n\t\t\t<td style=\"text-align: center;\">4000</td>\n\t\t\t<td style=\"text-align: center;\">5000</td>\n\t\t\t<td style=\"text-align: center;\">3000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">R</td>\n\t\t\t<td style=\"text-align: center;\">3000</td>\n\t\t\t<td style=\"text-align: center;\">2000</td>\n\t\t\t<td style=\"text-align: center;\">4000</td>\n\t\t\t<td style=\"text-align: center;\">4000</td>\n\t\t\t<td style=\"text-align: center;\">5000</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\nWhich of the following years has the highest total exports from the three companies together?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "2019",
+          "html": "2019"
+        },
+        {
+          "id": "B",
+          "text": "2017",
+          "html": "2017"
+        },
+        {
+          "id": "C",
+          "text": "2015",
+          "html": "2015"
+        },
+        {
+          "id": "D",
+          "text": "2016",
+          "html": "2016"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Total exports of 2019 = 4000 + 3000 + 5000 = 12000</span></p>\n\n<p>In the following years given in the options, 2019 has the highest total exports from the three companies together.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q15",
+      "number": 15,
+      "question": "The table given below shows the number of salesman in five companies. Companies Salesman J 45 K 20 L 40 M 15 N 25 Number of salesman in J is what percent of the number of salesman in K?",
+      "questionHtml": "<p>The table given below shows the number of salesman in five companies.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:82px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Companies</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:80px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Salesman</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:82px;\">\n\t\t\t<p align=\"center\">J</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:80px;\">\n\t\t\t<p align=\"center\">45</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:82px;\">\n\t\t\t<p align=\"center\">K</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:80px;\">\n\t\t\t<p align=\"center\">20</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:82px;\">\n\t\t\t<p align=\"center\">L</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:80px;\">\n\t\t\t<p align=\"center\">40</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:82px;\">\n\t\t\t<p align=\"center\">M</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:80px;\">\n\t\t\t<p align=\"center\">15</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:82px;\">\n\t\t\t<p align=\"center\">N</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:80px;\">\n\t\t\t<p align=\"center\">25</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Number of salesman in J is what percent of the number of salesman in K?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "250 percent",
+          "html": "250 percent"
+        },
+        {
+          "id": "B",
+          "text": "150 percent",
+          "html": "150 percent"
+        },
+        {
+          "id": "C",
+          "text": "125 percent",
+          "html": "125 percent"
+        },
+        {
+          "id": "D",
+          "text": "225 percent",
+          "html": "225 percent"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">The required % ⇒ <span class=\"math-tex\">\\(\\frac {45}{20} \\times 100\\%\\)</span> ⇒ 225%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q16",
+      "number": 16,
+      "question": "Study the below table and answer the question that follows. Day of the week Distance jogged (in km) Monday 6 Tuesday 5.5 Wednesday 5.5 Thursday 7 Friday 5 Saturday 3.5 Sunday 7.5 If 300 calories are burned by jogging 6 km, then how many calories were burnt in the given week?",
+      "questionHtml": "Study the below table and answer the question that follows.\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Day of the week</th>\n\t\t\t<th>Distance jogged (in km)</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Monday</td>\n\t\t\t<td>6</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Tuesday</td>\n\t\t\t<td>5.5</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Wednesday</td>\n\t\t\t<td>5.5</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Thursday</td>\n\t\t\t<td>7</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Friday</td>\n\t\t\t<td>5</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Saturday</td>\n\t\t\t<td>3.5</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Sunday</td>\n\t\t\t<td>7.5</td>\n\t\t</tr>\n\t</tbody>\n</table>\n<br />\nIf 300 calories are burned by jogging 6 km, then how many calories were burnt in the given week?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1600",
+          "html": "1600"
+        },
+        {
+          "id": "B",
+          "text": "2200",
+          "html": "2200"
+        },
+        {
+          "id": "C",
+          "text": "1800",
+          "html": "1800"
+        },
+        {
+          "id": "D",
+          "text": "2000",
+          "html": "2000"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Formula used:</strong></p>\n\n<p>Calories burned = (Distance jogged / 6) &times; 300</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Total distance jogged in the week:</p>\n\n<p>&rArr; Total distance = 6 + 5.5 + 5.5 + 7 + 5 + 3.5 + 7.5 = 40 km</p>\n\n<p>Total calories burned:</p>\n\n<p>&rArr; Calories burned = (40 / 6) &times; 300</p>\n\n<p>&rArr; Calories burned = 2000</p>\n\n<p><strong>&there4; The total calories burned in the given week is 2000 calories.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q17",
+      "number": 17,
+      "question": "The given table shows the number of televisions that were sold by different showrooms in years 2015 to 2019. Year/Showroom A B C D 2015 212 200 205 208 2016 210 215 225 220 2017 190 204 212 205 2018 198 212 222 224 2019 218 192 205 203 Find the difference between the sale of televisions from showrooms A, B and C in 2017 and the sale of televisions from showrooms B, C and D in 2019?",
+      "questionHtml": "The given table shows the number of televisions that were sold by different showrooms in years 2015 to 2019.\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Year/Showroom</th>\n\t\t\t<th>A</th>\n\t\t\t<th>B</th>\n\t\t\t<th>C</th>\n\t\t\t<th>D</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>2015</td>\n\t\t\t<td>212</td>\n\t\t\t<td>200</td>\n\t\t\t<td>205</td>\n\t\t\t<td>208</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2016</td>\n\t\t\t<td>210</td>\n\t\t\t<td>215</td>\n\t\t\t<td>225</td>\n\t\t\t<td>220</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2017</td>\n\t\t\t<td>190</td>\n\t\t\t<td>204</td>\n\t\t\t<td>212</td>\n\t\t\t<td>205</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2018</td>\n\t\t\t<td>198</td>\n\t\t\t<td>212</td>\n\t\t\t<td>222</td>\n\t\t\t<td>224</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2019</td>\n\t\t\t<td>218</td>\n\t\t\t<td>192</td>\n\t\t\t<td>205</td>\n\t\t\t<td>203</td>\n\t\t</tr>\n\t</tbody>\n</table>\nFind the difference between the sale of televisions from showrooms A, B and C in 2017 and the sale of televisions from showrooms B, C and D in 2019?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "html": "3"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Number of televisions sold:</p>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Year</th>\n\t\t\t<th>Showroom A</th>\n\t\t\t<th>Showroom B</th>\n\t\t\t<th>Showroom C</th>\n\t\t\t<th>Showroom D</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>2017</td>\n\t\t\t<td>190</td>\n\t\t\t<td>204</td>\n\t\t\t<td>212</td>\n\t\t\t<td>205</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2019</td>\n\t\t\t<td>218</td>\n\t\t\t<td>192</td>\n\t\t\t<td>205</td>\n\t\t\t<td>203</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Difference = (Sales of A + B + C in 2017) - (Sales of B + C + D in 2019)</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Sales of A, B, and C in 2017:</p>\n\n<p>190 + 204 + 212 = 606</p>\n\n<p>Sales of B, C, and D in 2019:</p>\n\n<p>192 + 205 + 203 = 600</p>\n\n<p>Difference:</p>\n\n<p>606 - 600 = 6</p>\n\n<p><strong>&there4; The difference between the sales is 6 televisions.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q18",
+      "number": 18,
+      "question": "Study the following table and select the correct statement. Height (in cm) Weight (in kg) 156 69 155 68 145 61 142 60 141 58 139 55 135 45",
+      "questionHtml": "<p>Study the following table and select the correct statement.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 200px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Height (in cm)</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Weight (in kg)</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">156</td>\n\t\t\t<td style=\"text-align: center;\">69</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">155</td>\n\t\t\t<td style=\"text-align: center;\">68</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">145</td>\n\t\t\t<td style=\"text-align: center;\">61</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">142</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">141</td>\n\t\t\t<td style=\"text-align: center;\">58</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">139</td>\n\t\t\t<td style=\"text-align: center;\">55</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">135</td>\n\t\t\t<td style=\"text-align: center;\">45</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weight increases with the increase in height.",
+          "html": "Weight increases with the increase in height."
+        },
+        {
+          "id": "B",
+          "text": "Weight increases with the decrease in height.",
+          "html": "Weight increases with the decrease in height."
+        },
+        {
+          "id": "C",
+          "text": "Weight decreases with the increase in height.",
+          "html": "Weight decreases with the increase in height."
+        },
+        {
+          "id": "D",
+          "text": "Height and weight are not related to each other.",
+          "html": "Height and weight are not related to each other."
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">As we see the table from bottom to top,</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The height is increasing and weight is also increasing hence, Option 1 is correct</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q19",
+      "number": 19,
+      "question": "The table given below shows the number of students joining in 6 different universities Universities Students A 275 B 215 C 350 D 250 E 450 F 170 What is the ratio of number of students joining in university A to the number of student joining in university F?",
+      "questionHtml": "<p>The table given below shows the number of students joining in 6 different universities</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:300px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Universities</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Students</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">A</td>\n\t\t\t<td style=\"text-align: center;\">275</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">B</td>\n\t\t\t<td style=\"text-align: center;\">215</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">C</td>\n\t\t\t<td style=\"text-align: center;\">350</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">D</td>\n\t\t\t<td style=\"text-align: center;\">250</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">E</td>\n\t\t\t<td style=\"text-align: center;\">450</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">F</td>\n\t\t\t<td style=\"text-align: center;\">170</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>What is the ratio of number of students joining in university A to the number of student joining in university F?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "17 : 39",
+          "html": "17 : 39"
+        },
+        {
+          "id": "B",
+          "text": "51 : 37",
+          "html": "<span style=\"\">51 : 37</span>"
+        },
+        {
+          "id": "C",
+          "text": "34 : 51",
+          "html": "<span style=\"\">34 : 51</span>"
+        },
+        {
+          "id": "D",
+          "text": "55 : 34",
+          "html": "<span style=\"\">55 : 34</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">The ratio of the number of students joining university A to the number of students joining university F: <span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">⇒ 275 : 170 = 55 : 34</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q20",
+      "number": 20,
+      "question": "The following table shows the scores of three attempts of Archery players in a tournament, The player scoring the highest average score was declared the best player. Who was the best player? Player Score 1 Score 2 Score 3 Angela 62.50 65.00 64.50 Maria 69.05 70.00 67.52 Sareena 73.81 72.50 74.20 Preeti 74.30 75.00 77.50 Deepika 64.29 67.50 63.28",
+      "questionHtml": "<p>The following table shows the scores of three attempts of Archery players in a tournament, The player scoring the highest average score was declared the best player. Who was the best player?&nbsp;</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 300px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Player</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Score 1</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Score 2</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Score 3</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Angela</td>\n\t\t\t<td style=\"text-align: center;\">62.50</td>\n\t\t\t<td style=\"text-align: center;\">65.00</td>\n\t\t\t<td style=\"text-align: center;\">64.50</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Maria</td>\n\t\t\t<td style=\"text-align: center;\">69.05</td>\n\t\t\t<td style=\"text-align: center;\">70.00</td>\n\t\t\t<td style=\"text-align: center;\">67.52</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Sareena</td>\n\t\t\t<td style=\"text-align: center;\">73.81</td>\n\t\t\t<td style=\"text-align: center;\">72.50</td>\n\t\t\t<td style=\"text-align: center;\">74.20</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Preeti</td>\n\t\t\t<td style=\"text-align: center;\">74.30</td>\n\t\t\t<td style=\"text-align: center;\">75.00</td>\n\t\t\t<td style=\"text-align: center;\">77.50</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Deepika</td>\n\t\t\t<td style=\"text-align: center;\">64.29</td>\n\t\t\t<td style=\"text-align: center;\">67.50</td>\n\t\t\t<td style=\"text-align: center;\">63.28</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "Angela",
+          "html": "Angela"
+        },
+        {
+          "id": "B",
+          "text": "Maria",
+          "html": "Maria"
+        },
+        {
+          "id": "C",
+          "text": "Deepika",
+          "html": "Deepika"
+        },
+        {
+          "id": "D",
+          "text": "Preeti",
+          "html": "Preeti"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style=\"color: rgb(33, 37, 41);\">Average score of Preeti</span><span style=\"color: rgb(33, 37, 41);\"> = (74.3</span><span style=\"color: rgb(33, 37, 41);\"> + 75</span><span style=\"color: rgb(33, 37, 41);\"> + 77</span><span style=\"color: rgb(33, 37, 41);\">.5)/3 = 226.8/3 = 75.6</span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q21",
+      "number": 21,
+      "question": "The given table shows the number of books on different subjects. Subjects Number of books B1 120 B2 150 B3 150 B4 120 B5 120 What is the ratio of the number of books for subject B1 to the average number of books per subject?",
+      "questionHtml": "The given table shows the number of books on different subjects.\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th><strong>Subjects</strong></th>\n\t\t\t<th><strong>Number of books</strong></th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">B1</td>\n\t\t\t<td style=\"text-align: center;\">120</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">B2</td>\n\t\t\t<td style=\"text-align: center;\">150</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">B3</td>\n\t\t\t<td style=\"text-align: center;\">150</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">B4</td>\n\t\t\t<td style=\"text-align: center;\">120</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">B5</td>\n\t\t\t<td style=\"text-align: center;\">120</td>\n\t\t</tr>\n\t</tbody>\n</table>\nWhat is the ratio of the number of books for subject B1 to the average number of books per subject?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 : 5",
+          "html": "3 : 5"
+        },
+        {
+          "id": "B",
+          "text": "10 : 11",
+          "html": "10 : 11"
+        },
+        {
+          "id": "C",
+          "text": "4 : 5",
+          "html": "4 : 5"
+        },
+        {
+          "id": "D",
+          "text": "2 : 5",
+          "html": "2 : 5"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Total number of books = 120 + 150 + 150 + 120 + 120 = 660</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average number of books = 660 / 5 = 132</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><strong>Ratio = 120 / 132 = 10 / 11</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q22",
+      "number": 22,
+      "question": "Study the following table and answer the question that follows. A school has four sections A, B, C and D of Class IX students. The results of Science and Mathematics examinations are shown in the following table. RESULT No. of Students Section A Section B Section C Section D Failed in both 24 25 18 20 Failed in Science but passed in Mathematics 14 12 10 15 Passed in Science but failed in Mathematics 7 6 8 10 Passed in both 63 60 56 55 What is the ratio of number of students who failed in Science but passed in Mathematics of section B and section D together to the number of students of section A that passed in both subjects?",
+      "questionHtml": "<p>Study the following table and answer the question that follows.</p>\n\n<p>A school has four sections A, B, C and D of Class IX students.</p>\n\n<p>The results of Science and Mathematics examinations are shown in the following table.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:330px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"2\" style=\"text-align: center;\"><strong>RESULT</strong></td>\n\t\t\t<td colspan=\"4\" rowspan=\"1\" style=\"text-align: center;\"><strong>No. of Students</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Section A</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Section B</strong>&nbsp;</td>\n\t\t\t<td style=\"text-align: center;\"><strong>Section</strong>&nbsp;<strong>C</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Section</strong>&nbsp;<strong>D</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Failed in both</strong></td>\n\t\t\t<td style=\"text-align: center;\">24</td>\n\t\t\t<td style=\"text-align: center;\">25</td>\n\t\t\t<td style=\"text-align: center;\">18</td>\n\t\t\t<td style=\"text-align: center;\">20</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Failed in Science but passed in Mathematics</strong></td>\n\t\t\t<td style=\"text-align: center;\">14</td>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">10</td>\n\t\t\t<td style=\"text-align: center;\">15</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Passed in Science but failed in Mathematics</strong></td>\n\t\t\t<td style=\"text-align: center;\">7</td>\n\t\t\t<td style=\"text-align: center;\">6</td>\n\t\t\t<td style=\"text-align: center;\">8</td>\n\t\t\t<td style=\"text-align: center;\">10</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Passed in both</strong></td>\n\t\t\t<td style=\"text-align: center;\">63</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">56</td>\n\t\t\t<td style=\"text-align: center;\">55</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\nWhat is the ratio of number of students who failed in Science but passed in Mathematics of section B and section D together to the number of students of section A that passed in both subjects?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "9 ∶ 17",
+          "html": "9 ∶ 17"
+        },
+        {
+          "id": "B",
+          "text": "3 ∶ 7",
+          "html": "3 ∶ 7"
+        },
+        {
+          "id": "C",
+          "text": "4 ∶ 9",
+          "html": "4 ∶ 9"
+        },
+        {
+          "id": "D",
+          "text": "5 ∶ 11",
+          "html": "5 ∶ 11"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">No. of students who failed in Science but passed in Math of sec B and sec D together 12 + 15 = 27</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Number of students of section A that passed in both subjects = 63</span></p>\n\n<p><span style=\"\">The required ratio = 27 : 63 ⇒ 3 : 7</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q23",
+      "number": 23,
+      "question": "The table given below shows the cost price and selling of four different articles. Articles Cost price Selling price J 650 750 K 370 450 L 450 650 M 590 650 What is the difference between the average selling price and average cost price of all the articles?",
+      "questionHtml": "<p>The table given below shows the cost price and selling of four different articles.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:280px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Articles</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Cost price</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Selling price</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>J</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">650</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">750</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>K</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">370</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">450</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>L</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">450</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">650</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>M</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">590</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">650</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n<br />\nWhat is the difference between the average selling price and average cost price of all the articles?",
+      "options": [
+        {
+          "id": "A",
+          "text": "110",
+          "html": "110"
+        },
+        {
+          "id": "B",
+          "text": "160",
+          "html": "160"
+        },
+        {
+          "id": "C",
+          "text": "710",
+          "html": "710"
+        },
+        {
+          "id": "D",
+          "text": "140",
+          "html": "140"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Average</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> of selling price (S.P) = (750 + 450 + 650 + 650)/4 = 2500/4 = </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Rs.625</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">Average cost price (C.P) </span>= (650 + 370 + 450 + 590)/4 = 2060/4 = <span style=\"color: rgb(33, 37, 41);\">Rs.515</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">The difference between the average selling price and the average cost price: ⇒ 625 - 515 ⇒ Rs.110</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q24",
+      "number": 24,
+      "question": "The following table represents the total number of research scholars and the respective number of female research scholars in various departments of a university. Study the table carefully and answer the question that follows.| Department Total number of research scholars Number of female research scholars Physics 35 12 Chemistry 40 28 Mathematics 18 4 Statistics 12 3 What is the ratio of male research scholars in Mathematics to Statistics?",
+      "questionHtml": "The following table represents the total number of research scholars and the respective number of female research scholars in various departments of a university. Study the table carefully and answer the question that follows.|\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th><strong>Department</strong></th>\n\t\t\t<th><strong>Total number of research scholars</strong></th>\n\t\t\t<th><strong>Number of female research scholars</strong></th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Physics</td>\n\t\t\t<td>35</td>\n\t\t\t<td>12</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Chemistry</td>\n\t\t\t<td>40</td>\n\t\t\t<td>28</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Mathematics</td>\n\t\t\t<td>18</td>\n\t\t\t<td>4</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Statistics</td>\n\t\t\t<td>12</td>\n\t\t\t<td>3</td>\n\t\t</tr>\n\t</tbody>\n</table>\nWhat is the ratio of male research scholars in Mathematics to Statistics?<br />\n&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "14 : 9",
+          "html": "14 : 9"
+        },
+        {
+          "id": "B",
+          "text": "7 : 6",
+          "html": "7 : 6"
+        },
+        {
+          "id": "C",
+          "text": "6 : 7",
+          "html": "6 : 7"
+        },
+        {
+          "id": "D",
+          "text": "9 : 14",
+          "html": "9 : 14"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">The male research scholars in Mathematics = 18 - 4 = 14</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The male research scholars in Statistics = 12 - 3 = 9</p>\n\n<p>The ratio of male research scholars in Mathematics to Statistics is 14 : 9.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q25",
+      "number": 25,
+      "question": "The following table shows the marks of three students in different subjects. Marks in all subjects are from 100. Name Maths Hindi Science English IT Sanskrit Ajay 73 78 81 88 77 70 Sudhir 71 78 84 77 70 71 Suman 72 77 82 92 71 72 In which of the following subjects did the students perform the best in aggregate?",
+      "questionHtml": "<p>The following table shows the marks of three students in different subjects. Marks in all subjects are from 100.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:320px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">Name</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">Maths</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">Hindi</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">Science</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">English</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">IT</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">Sanskrit</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">Ajay</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">73</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">78</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">81</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">88</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">77</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">70</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">Sudhir</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">71</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">78</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">84</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">77</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">70</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">71</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">Suman</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">72</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">77</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">82</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">92</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">71</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;\">\n\t\t\t<p style=\"text-align: center;\">72</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>In which of the following subjects did the students perform the best in aggregate?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hindi",
+          "html": "Hindi"
+        },
+        {
+          "id": "B",
+          "text": "IT",
+          "html": "IT"
+        },
+        {
+          "id": "C",
+          "text": "English",
+          "html": "English"
+        },
+        {
+          "id": "D",
+          "text": "Science",
+          "html": "Science"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Aggregate marks of </span><span style=\"color: rgb(33, 37, 41); text-align: center;\">English </span><span style=\"color: rgb(33, 37, 41);\">= 88 + 77 + 92 = 257 (max)</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ The students perform best in </span><span style=\"font-weight: bolder;\">'English'</span><span style=\"color: rgb(33, 37, 41);\">.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q26",
+      "number": 26,
+      "question": "The table given below shows the number of tractor sold by two companies. Company Tractor P Q T1 60 90 T2 40 50 T3 80 100 T4 90 120 T5 110 150 Number of tractor T5 sold by both companies is how much percent more than the number of tractor T2 sold by both companies?",
+      "questionHtml": "<p>The table given below shows the number of tractor sold by two companies.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t\t<td colspan=\"2\" rowspan=\"1\" style=\"text-align: center;\"><strong>Company</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Tractor</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>P</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Q</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">T1</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">T2</td>\n\t\t\t<td style=\"text-align: center;\">40</td>\n\t\t\t<td style=\"text-align: center;\">50</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">T3</td>\n\t\t\t<td style=\"text-align: center;\">80</td>\n\t\t\t<td style=\"text-align: center;\">100</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">T4</td>\n\t\t\t<td style=\"text-align: center;\">90</td>\n\t\t\t<td style=\"text-align: center;\">120</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">T5</td>\n\t\t\t<td style=\"text-align: center;\">110</td>\n\t\t\t<td style=\"text-align: center;\">150</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Number of tractor T5 sold by both companies is how much percent more than the number of tractor T2 sold by both companies?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "162.66 percent",
+          "html": "162.66 percent"
+        },
+        {
+          "id": "B",
+          "text": "172.44 percent",
+          "html": "172.44 percent"
+        },
+        {
+          "id": "C",
+          "text": "266.32 percent",
+          "html": "266.32 percent"
+        },
+        {
+          "id": "D",
+          "text": "188.88 percent",
+          "html": "188.88 percent"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Number of tractor T5 sold by both companies <span style=\"color: rgb(33, 37, 41);\">⇒ </span>110 + 150 = 260</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Number of tractor T2 sold by both companies <span style=\"color: rgb(33, 37, 41);\">⇒</span> 40 + 50 = 90</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Difference <span style=\"color: rgb(33, 37, 41);\">⇒</span> (260 - 90) = 170, so required % <span style=\"color: rgb(33, 37, 41);\">⇒</span> (170/90) × 100 = 188.88%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q27",
+      "number": 27,
+      "question": "The table given below shows the GDP of two countries in different five years. Country Years A B Y1 175 285 Y2 200 300 Y3 150 125 Y4 75 85 Y5 50 95 K1 = The value of average GDP of country A in all the 5 years. K2 = The value of average GDP of country B in all the 5 years. What is the value of (K1 + K2)?",
+      "questionHtml": "<p>The table given below shows the GDP of two countries in different five years.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:330px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t\t<td colspan=\"2\" rowspan=\"1\" style=\"text-align: center;\"><strong>Country</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Years</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>A</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>B</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Y1</strong></td>\n\t\t\t<td style=\"text-align: center;\">175</td>\n\t\t\t<td style=\"text-align: center;\">285</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Y2</strong></td>\n\t\t\t<td style=\"text-align: center;\">200</td>\n\t\t\t<td style=\"text-align: center;\">300</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Y3</strong></td>\n\t\t\t<td style=\"text-align: center;\">150</td>\n\t\t\t<td style=\"text-align: center;\">125</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Y4</strong></td>\n\t\t\t<td style=\"text-align: center;\">75</td>\n\t\t\t<td style=\"text-align: center;\">85</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Y5</strong></td>\n\t\t\t<td style=\"text-align: center;\">50</td>\n\t\t\t<td style=\"text-align: center;\">95</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>K1 = The value of average GDP of country A in all the 5 years.</p>\n\n<p>K2 = The value of average GDP of country B in all the 5 years.</p>\n\n<p>What is the value of (K1 + K2)?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "316",
+          "html": "316"
+        },
+        {
+          "id": "B",
+          "text": "290",
+          "html": "290"
+        },
+        {
+          "id": "C",
+          "text": "308",
+          "html": "308"
+        },
+        {
+          "id": "D",
+          "text": "178",
+          "html": "178"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Average GDP of country A in 5 years = (175 + 200 + 150 + 75 + 50) ⇒ 650/5 ⇒ 130 i.e K<sub>1</sub></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">Average GDP of country B in 5 years =</span> (285 + 300 + 125 + 85 + 95)/5 ⇒ 890 ⇒ 178 i.e K<sub>2</sub></p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, (K1 + K2) = 130 + 178 ⇒ 308</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q28",
+      "number": 28,
+      "question": "The table given below shows the marks obtained by four students in 4 different subjects. Maximum marks for each subject is 175. Student Mathematics Physics Chemistry English Amit 105 98 109 86 Gunja 112 119 99 97 Arpit 103 121 94 100 Kavya 108 102 104 120 What is the aggregate percentage of marks obtained by Gunja in all the four subjects?",
+      "questionHtml": "The table given below shows the marks obtained by four students in 4 different subjects. Maximum marks for each subject is 175.\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Student</th>\n\t\t\t<th>Mathematics</th>\n\t\t\t<th>Physics</th>\n\t\t\t<th>Chemistry</th>\n\t\t\t<th>English</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Amit</td>\n\t\t\t<td>105</td>\n\t\t\t<td>98</td>\n\t\t\t<td>109</td>\n\t\t\t<td>86</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Gunja</td>\n\t\t\t<td>112</td>\n\t\t\t<td>119</td>\n\t\t\t<td>99</td>\n\t\t\t<td>97</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Arpit</td>\n\t\t\t<td>103</td>\n\t\t\t<td>121</td>\n\t\t\t<td>94</td>\n\t\t\t<td>100</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Kavya</td>\n\t\t\t<td>108</td>\n\t\t\t<td>102</td>\n\t\t\t<td>104</td>\n\t\t\t<td>120</td>\n\t\t</tr>\n\t</tbody>\n</table>\n<br />\nWhat is the aggregate percentage of marks obtained by Gunja in all the four subjects?",
+      "options": [
+        {
+          "id": "A",
+          "text": "67",
+          "html": "67"
+        },
+        {
+          "id": "B",
+          "text": "61",
+          "html": "61"
+        },
+        {
+          "id": "C",
+          "text": "58",
+          "html": "58"
+        },
+        {
+          "id": "D",
+          "text": "71",
+          "html": "71"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Total marks obtained by Gunja = 112 + 119 + 99 + 97 = 427</p>\n\n<p>Total possible marks = 700</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Percentage = <span class=\"math-tex\">\\(\\frac{\\text{Marks obtained}}{\\text{Total marks}} \\times 100\\)</span></p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Percentage = <span class=\"math-tex\">\\(\\frac{427}{700} \\times 100\\)</span></p>\n\n<p>&rArr; Percentage = <span class=\"math-tex\">\\(\\frac{427 \\times 100}{700}\\)</span></p>\n\n<p>&rArr; Percentage = 61%</p>\n\n<p><strong>Option 2 is correct answer.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q29",
+      "number": 29,
+      "question": "Who scored the least marks in aggregate of all the subjects? Name of the student SUBJECT English Hindi Maths A 54 65 67 B 52 88 78 C 48 48 67 D 41 87 60 E 74 70 55",
+      "questionHtml": "<p>Who scored the least marks in aggregate of all the subjects?</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:300px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td rowspan=\"2\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\n\t\t\t<p style=\"text-align: center;\"><strong>Name of the student</strong></p>\n\t\t\t</td>\n\t\t\t<td colspan=\"3\">\n\t\t\t<p style=\"text-align: center;\"><strong>SUBJECT</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"height:8px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>English</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"height:8px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Hindi</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"height:8px;\">\n\t\t\t<p style=\"text-align: center;\"><strong>Maths</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>A</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">54</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">65</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">67</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>B</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">52</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">88</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">78</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>C</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">48</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">48</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">67</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>D</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">41</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">87</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">60</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>E</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">74</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">70</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">55</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "D",
+          "html": "D"
+        },
+        {
+          "id": "B",
+          "text": "E",
+          "html": "E"
+        },
+        {
+          "id": "C",
+          "text": "A",
+          "html": "A"
+        },
+        {
+          "id": "D",
+          "text": "C",
+          "html": "C"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Total score of D = 41 + 87 + 60 ⇒ 188</p>\n\n<p style=\"\">Total score of E = 74 + 70 + 55 ⇒ 199</p>\n\n<p style=\"\">Total score of A = 54 + 65 + 67 ⇒ 186</p>\n\n<p style=\"\">Total score of C = 48 + 48 + 67 ⇒ 163 (LEAST)</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q30",
+      "number": 30,
+      "question": "The given table shows the production of iron rods by a company for a period of 6 months. Study the table and answer the question that follows: Month January March May July September November Production 60 75 45 85 90 108 What is the ratio of the month having the highest production to the month having the least production?",
+      "questionHtml": "<p>The given table shows the production of iron rods by a company for a period of 6 months. Study the table and answer the question that follows:</p>\n\n<div>\n<div>\n<div>\n<div>\n<div>\n<article data-scroll-anchor=\"true\" data-testid=\"conversation-turn-125\" dir=\"auto\">\n<div>\n<div>\n<div>\n<div>\n<div>\n<div data-message-author-role=\"assistant\" data-message-id=\"bbd3f456-f5fa-48c3-ba0a-ff9126cf0da0\" data-message-model-slug=\"gpt-4o\" dir=\"auto\">\n<div>\n<div>\n<table border=\"1\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th style=\"text-align: center;\">Month</th>\n\t\t\t<th style=\"text-align: center;\">January</th>\n\t\t\t<th style=\"text-align: center;\">March</th>\n\t\t\t<th style=\"text-align: center;\">May</th>\n\t\t\t<th style=\"text-align: center;\">July</th>\n\t\t\t<th style=\"text-align: center;\">September</th>\n\t\t\t<th style=\"text-align: center;\">November</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Production</td>\n\t\t\t<td style=\"text-align: center;\">60</td>\n\t\t\t<td style=\"text-align: center;\">75</td>\n\t\t\t<td style=\"text-align: center;\">45</td>\n\t\t\t<td style=\"text-align: center;\">85</td>\n\t\t\t<td style=\"text-align: center;\">90</td>\n\t\t\t<td style=\"text-align: center;\">108</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>What is the ratio of the month having the highest production to the month having the least production?</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</article>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "9 : 5",
+          "html": "9 : 5"
+        },
+        {
+          "id": "B",
+          "text": "12 : 5",
+          "html": "12 : 5"
+        },
+        {
+          "id": "C",
+          "text": "1 : 2",
+          "html": "1 : 2"
+        },
+        {
+          "id": "D",
+          "text": "5 : 12",
+          "html": "5 : 12"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>January Production = 60</p>\n\n<p>March Production = 75</p>\n\n<p>May Production = 45</p>\n\n<p>July Production = 85</p>\n\n<p>September Production = 90</p>\n\n<p>November Production = 108</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Ratio = <span class=\"math-tex\">\\(\\dfrac{Highest\\ Production}{Lowest\\ Production}\\)</span></p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Highest production = 108 (November)</p>\n\n<p>Lowest production = 45 (May)</p>\n\n<p>&rArr; Ratio = <span class=\"math-tex\">\\(\\dfrac{108}{45}\\)</span></p>\n\n<p>&rArr; Ratio = 12:5</p>\n\n<p><strong>&there4; The ratio of the month having the highest production to the month having the least production is 12:5.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q31",
+      "number": 31,
+      "question": "The following table shows the expenditure of a factory (in ₹ lakh) per annum on different heads over the given years. Year/Expenditure Head Salary Transport Bonus Loan Interest 1998 125 38 8 25 1999 135 45 18 37 2000 149 57 37 39 2001 153 63 50 43 What was the average expenditure (in ₹ lakh) on transport per year that the factory had to pay during the given period?",
+      "questionHtml": "The following table shows the expenditure of a factory (in ₹ lakh) per annum on different heads over the given years.\n<table border=\"1\" style=\"width:330px;\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Year/Expenditure Head</th>\n\t\t\t<th>Salary</th>\n\t\t\t<th>Transport</th>\n\t\t\t<th>Bonus</th>\n\t\t\t<th>Loan Interest</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1998</td>\n\t\t\t<td>125</td>\n\t\t\t<td>38</td>\n\t\t\t<td>8</td>\n\t\t\t<td>25</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1999</td>\n\t\t\t<td>135</td>\n\t\t\t<td>45</td>\n\t\t\t<td>18</td>\n\t\t\t<td>37</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2000</td>\n\t\t\t<td>149</td>\n\t\t\t<td>57</td>\n\t\t\t<td>37</td>\n\t\t\t<td>39</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2001</td>\n\t\t\t<td>153</td>\n\t\t\t<td>63</td>\n\t\t\t<td>50</td>\n\t\t\t<td>43</td>\n\t\t</tr>\n\t</tbody>\n</table>\n<br />\nWhat was the average expenditure (in ₹ lakh) on transport per year that the factory had to pay during the given period?<br />\n&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "56.63",
+          "html": "56.63"
+        },
+        {
+          "id": "B",
+          "text": "48.75",
+          "html": "48.75"
+        },
+        {
+          "id": "C",
+          "text": "50.75",
+          "html": "50.75"
+        },
+        {
+          "id": "D",
+          "text": "45.58",
+          "html": "45.58"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Total transport expenditure = 38 + 45 + 57 + 63</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total = 203 ₹ lakh.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average expenditure = Total expenditure / Number of years</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average = 203 / 4</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average = 50.75 ₹ lakh.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q32",
+      "number": 32,
+      "question": "A student studying in 6th class scored the following marks in 6 subjects. The maximum marks for each subject are 100. Subjects Marks Hindi 98 English 97 Mathematics 93 Social Science 94 Computer 92 Science 93 What are the average marks scored by the student?",
+      "questionHtml": "A student studying in 6th class scored the following marks in 6 subjects.<br />\nThe maximum marks for each subject are 100.\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Subjects</th>\n\t\t\t<th>Marks</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Hindi</td>\n\t\t\t<td>98</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>English</td>\n\t\t\t<td>97</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Mathematics</td>\n\t\t\t<td>93</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Social Science</td>\n\t\t\t<td>94</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Computer</td>\n\t\t\t<td>92</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Science</td>\n\t\t\t<td>93</td>\n\t\t</tr>\n\t</tbody>\n</table>\n<br />\nWhat are the average marks scored by the student?<br />\n&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "92.5",
+          "html": "92.5"
+        },
+        {
+          "id": "B",
+          "text": "96",
+          "html": "96"
+        },
+        {
+          "id": "C",
+          "text": "95",
+          "html": "95"
+        },
+        {
+          "id": "D",
+          "text": "94.5",
+          "html": "94.5"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Marks scored by the student in 6 subjects: 98, 97, 93, 94, 93, 92</p>\n\n<p>Maximum marks per subject = 100</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Average marks = <span class=\"math-tex\">\\(\\frac{\\text{Total marks obtained}}{\\text{Total number of subjects}}\\)</span></p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Total marks obtained = 98 + 97 + 93 + 94 + 93 + 92 = 567</p>\n\n<p>Average marks = <span class=\"math-tex\">\\(\\frac{567}{6}\\)</span></p>\n\n<p>&rArr; Average marks = 94.5</p>\n\n<p><strong>The average marks scored by the student is 94.5</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q33",
+      "number": 33,
+      "question": "The table given here represents the distance (in km) travelled by two athletes X and Y in the same direction. Hour Distance Travelled (in Km) Distance Travelled (in Km) X Y 1st 25 30 2nd 35 45 3rd 25 40 4th 20 30 5th 25 20 6th 20 15 Y's average speed (km/hour) during the first five hours is:",
+      "questionHtml": "<p>The table given here represents the distance (in km) travelled by two athletes X and Y in the same direction.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" data-sheets-baot=\"1\" data-sheets-root=\"1\" dir=\"ltr\" style=\"table-layout: fixed;   width: 0px; border: none;\" xmlns=\"http://www.w3.org/1999/xhtml\">\n\t<colgroup>\n\t\t<col width=\"100\" />\n\t\t<col width=\"100\" />\n\t\t<col width=\"100\" />\n\t</colgroup>\n\t<tbody>\n\t\t<tr style=\"height: 21px;\">\n\t\t\t<td style=\"border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-weight: bold; overflow-wrap: break-word; text-align: center;\">Hour</td>\n\t\t\t<td style=\"border-left-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-weight: bold; overflow-wrap: break-word; text-align: center;\">Distance Travelled (in Km)</td>\n\t\t\t<td style=\"border-left-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-weight: bold; overflow-wrap: break-word; text-align: center;\">Distance Travelled (in Km)</td>\n\t\t</tr>\n\t\t<tr style=\"height: 21px;\">\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">&nbsp;</td>\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">X</td>\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">Y</td>\n\t\t</tr>\n\t\t<tr style=\"height: 21px;\">\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">1st</td>\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">25</td>\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">30</td>\n\t\t</tr>\n\t\t<tr style=\"height: 21px;\">\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">2nd</td>\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">35</td>\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">45</td>\n\t\t</tr>\n\t\t<tr style=\"height: 21px;\">\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">3rd</td>\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">25</td>\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">40</td>\n\t\t</tr>\n\t\t<tr style=\"height: 21px;\">\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">4th</td>\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">20</td>\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">30</td>\n\t\t</tr>\n\t\t<tr style=\"height: 21px;\">\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">5th</td>\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">25</td>\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">20</td>\n\t\t</tr>\n\t\t<tr style=\"height: 21px;\">\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">6th</td>\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">20</td>\n\t\t\t<td style=\"border-top-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">15</td>\n\t\t</tr>\n\t</tbody>\n</table>\n&nbsp;\n\n<p>Y&#39;s average speed (km/hour) during the first five hours is:</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "33",
+          "html": "33"
+        },
+        {
+          "id": "B",
+          "text": "31",
+          "html": "31"
+        },
+        {
+          "id": "C",
+          "text": "34",
+          "html": "34"
+        },
+        {
+          "id": "D",
+          "text": "32",
+          "html": "32"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Total distance = 30 + 45 + 40 + 30 + 20 = 165 km</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total time = 5 hours (since the first five hours are considered)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average speed of Y = 165 km / 5 hours = <strong>33 km/hour</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q34",
+      "number": 34,
+      "question": "The table given below shows the earnings of two persons on five different days. Earnings Days A B Tuesday 85 130 Wednesday 76 90 Thursday 45 102 Friday 95 86 Saturday 110 48 What is the difference between the total earnings of A and B on all the five days?",
+      "questionHtml": "<p>The table given below shows the earnings of two persons on five different days.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:300px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">&nbsp;</td>\n\t\t\t<td colspan=\"2\" rowspan=\"1\" style=\"text-align: center;\"><strong>Earnings</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Days</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>A</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>B</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Tuesday</td>\n\t\t\t<td style=\"text-align: center;\">85</td>\n\t\t\t<td style=\"text-align: center;\">130</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Wednesday</td>\n\t\t\t<td style=\"text-align: center;\">76</td>\n\t\t\t<td style=\"text-align: center;\">90</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Thursday</td>\n\t\t\t<td style=\"text-align: center;\">45</td>\n\t\t\t<td style=\"text-align: center;\">102</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Friday</td>\n\t\t\t<td style=\"text-align: center;\">95</td>\n\t\t\t<td style=\"text-align: center;\">86</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Saturday</td>\n\t\t\t<td style=\"text-align: center;\">110</td>\n\t\t\t<td style=\"text-align: center;\">48</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>What is the difference between the total earnings of A and B on all the five days?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "45",
+          "html": "45"
+        },
+        {
+          "id": "B",
+          "text": "35",
+          "html": "35"
+        },
+        {
+          "id": "C",
+          "text": "50",
+          "html": "50"
+        },
+        {
+          "id": "D",
+          "text": "55",
+          "html": "55"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Earnings of 5 days of A ⇒ 85+ 76 + 45 + 95 + 110 = 411</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Earnings of 5 days of B ⇒ 130 + 90 + 102 + 86 + 48 = 456 </p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">Total earnings of B - Total earnings of A </span> ⇒ 456 - 411 = 45 </p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q35",
+      "number": 35,
+      "question": "Study the given table answer the question that follows. The following table shows the income of a person (in thousand rupees) per annum over the given years. Year School Salary Coaching Home Tuition 2018 132 42 12 2019 148 55 18 2020 166 68 24 2021 178 74 28 2022 196 88 35 What is the average income from school as a salary per year earned by the person over the given years?",
+      "questionHtml": "Study the given table answer the question that follows.<br />\nThe following table shows the income of a person (in thousand rupees) per annum over the given years.\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Year</th>\n\t\t\t<th>School Salary</th>\n\t\t\t<th>Coaching</th>\n\t\t\t<th>Home Tuition</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>2018</td>\n\t\t\t<td>132</td>\n\t\t\t<td>42</td>\n\t\t\t<td>12</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2019</td>\n\t\t\t<td>148</td>\n\t\t\t<td>55</td>\n\t\t\t<td>18</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2020</td>\n\t\t\t<td>166</td>\n\t\t\t<td>68</td>\n\t\t\t<td>24</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2021</td>\n\t\t\t<td>178</td>\n\t\t\t<td>74</td>\n\t\t\t<td>28</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2022</td>\n\t\t\t<td>196</td>\n\t\t\t<td>88</td>\n\t\t\t<td>35</td>\n\t\t</tr>\n\t</tbody>\n</table>\nWhat is the average income from school as a salary per year earned by the person over the given years?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹1,64,000",
+          "html": "₹1,64,000"
+        },
+        {
+          "id": "B",
+          "text": "₹1,74,000",
+          "html": "₹1,74,000"
+        },
+        {
+          "id": "C",
+          "text": "₹1,58,000",
+          "html": "₹1,58,000"
+        },
+        {
+          "id": "D",
+          "text": "₹1,48,000",
+          "html": "₹1,48,000"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Solution:</strong></p>\n\n<p><strong>Total income from school salary over the given years:</strong></p>\n\n<p>2018: 132</p>\n\n<p>2019: 148</p>\n\n<p>2020: 166</p>\n\n<p>2021: 178</p>\n\n<p>2022: 196</p>\n\n<p>Total school salary = 132 + 148 + 166 + 178 + 196 = 820</p>\n\n<p><strong>Calculate the average:</strong></p>\n\n<p>Average school salary = Total school salary &divide; Number of years</p>\n\n<p>Average = 820 &divide; 5 = 164</p>\n\n<p>The average income from school salary per year is 164 thousand rupees.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q36",
+      "number": 36,
+      "question": "Study the given table and answer the question. The table displays the number of cars produced (in lakhs) by six different brands between 2018 and 2023. Brand 2018 2019 2020 2021 2022 2023 A 36 40 42 45 47 42 B 23 37 28 32 34 26 C 45 47 51 54 56 48 D 35 37 42 32 36 28 E 57 56 52 38 48 42 F 43 45 56 41 52 40 Which brand production is the highest, and in which year?",
+      "questionHtml": "Study the given table and answer the question.<br />\nThe table displays the number of cars produced (in lakhs) by six different brands between 2018 and 2023.\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Brand</th>\n\t\t\t<th>2018</th>\n\t\t\t<th>2019</th>\n\t\t\t<th>2020</th>\n\t\t\t<th>2021</th>\n\t\t\t<th>2022</th>\n\t\t\t<th>2023</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>A</td>\n\t\t\t<td>36</td>\n\t\t\t<td>40</td>\n\t\t\t<td>42</td>\n\t\t\t<td>45</td>\n\t\t\t<td>47</td>\n\t\t\t<td>42</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>B</td>\n\t\t\t<td>23</td>\n\t\t\t<td>37</td>\n\t\t\t<td>28</td>\n\t\t\t<td>32</td>\n\t\t\t<td>34</td>\n\t\t\t<td>26</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>C</td>\n\t\t\t<td>45</td>\n\t\t\t<td>47</td>\n\t\t\t<td>51</td>\n\t\t\t<td>54</td>\n\t\t\t<td>56</td>\n\t\t\t<td>48</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>D</td>\n\t\t\t<td>35</td>\n\t\t\t<td>37</td>\n\t\t\t<td>42</td>\n\t\t\t<td>32</td>\n\t\t\t<td>36</td>\n\t\t\t<td>28</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>E</td>\n\t\t\t<td>57</td>\n\t\t\t<td>56</td>\n\t\t\t<td>52</td>\n\t\t\t<td>38</td>\n\t\t\t<td>48</td>\n\t\t\t<td>42</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>F</td>\n\t\t\t<td>43</td>\n\t\t\t<td>45</td>\n\t\t\t<td>56</td>\n\t\t\t<td>41</td>\n\t\t\t<td>52</td>\n\t\t\t<td>40</td>\n\t\t</tr>\n\t</tbody>\n</table>\nWhich brand production is the highest, and in which year?",
+      "options": [
+        {
+          "id": "A",
+          "text": "E and 2019",
+          "html": "E and 2019"
+        },
+        {
+          "id": "B",
+          "text": "E and 2018",
+          "html": "E and 2018"
+        },
+        {
+          "id": "C",
+          "text": "C and 2022",
+          "html": "C and 2022"
+        },
+        {
+          "id": "D",
+          "text": "F and 2020",
+          "html": "F and 2020"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Data table of car production (in lakhs) by six brands between 2018 and 2023:</p>\n\n<table border=\"1\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>Brand</th>\n\t\t\t<th>2018</th>\n\t\t\t<th>2019</th>\n\t\t\t<th>2020</th>\n\t\t\t<th>2021</th>\n\t\t\t<th>2022</th>\n\t\t\t<th>2023</th>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>A</td>\n\t\t\t<td>36</td>\n\t\t\t<td>40</td>\n\t\t\t<td>42</td>\n\t\t\t<td>45</td>\n\t\t\t<td>47</td>\n\t\t\t<td>42</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>B</td>\n\t\t\t<td>23</td>\n\t\t\t<td>37</td>\n\t\t\t<td>28</td>\n\t\t\t<td>32</td>\n\t\t\t<td>34</td>\n\t\t\t<td>26</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>C</td>\n\t\t\t<td>45</td>\n\t\t\t<td>47</td>\n\t\t\t<td>51</td>\n\t\t\t<td>54</td>\n\t\t\t<td>56</td>\n\t\t\t<td>48</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>D</td>\n\t\t\t<td>35</td>\n\t\t\t<td>37</td>\n\t\t\t<td>42</td>\n\t\t\t<td>32</td>\n\t\t\t<td>36</td>\n\t\t\t<td>28</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>E</td>\n\t\t\t<td>57</td>\n\t\t\t<td>56</td>\n\t\t\t<td>52</td>\n\t\t\t<td>38</td>\n\t\t\t<td>48</td>\n\t\t\t<td>42</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>F</td>\n\t\t\t<td>43</td>\n\t\t\t<td>45</td>\n\t\t\t<td>56</td>\n\t\t\t<td>41</td>\n\t\t\t<td>52</td>\n\t\t\t<td>40</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Identify the maximum number of cars produced in any year by scanning the data across each row for every year.</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>For each year, compare the production data across all brands:</p>\n\n<p>2018: A = 36, B = 23, C = 45, D = 35, E = 57, F = 43 &rarr; Maximum = E (57)</p>\n\n<p>2019: A = 40, B = 37, C = 47, D = 37, E = 56, F = 45 &rarr; Maximum = E (56)</p>\n\n<p>2020: A = 42, B = 28,&nbsp;C = 51, D = 42, E = 52, F = 56 &rarr; Maximum = F (56)</p>\n\n<p>2021: A = 45, B = 32, C = 54, D = 32, E = 38, F = 41 &rarr; Maximum = C (54)</p>\n\n<p>2022: A = 47, B = 34, C = 56, D = 36, E = 48, F = 52 &rarr; Maximum = C (56)</p>\n\n<p>2023: A = 42, B = 26, C = 48, D = 28, E = 42, F = 40 &rarr; Maximum = C (48)</p>\n\n<p><strong>Answer:</strong></p>\n\n<p>The highest production was by Brand E in 2018 with 57 lakhs.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q37",
+      "number": 37,
+      "question": "Study the given table and answer the question that follows. The table shows the number of customers for different services in different cities. City &rarr; Services &darr; X Y Z A 250 175 350 B 220 190 240 C 260 200 270 D 245 185 330 In which service is the average number of customers per city the highest?",
+      "questionHtml": "<p style=\"\">Study the given table and answer the question that follows.</p>\n\n<p style=\"\">The table shows the number of customers for different services in different cities.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:250px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p align=\"center\"><strong>City&nbsp;&rarr;&nbsp;</strong></p>\n\n\t\t\t<p align=\"center\"><strong>Services&nbsp;&darr;&nbsp;</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p align=\"center\"><strong>X</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p align=\"center\"><strong>Y</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p align=\"center\"><strong>Z</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p align=\"center\"><strong>A</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p align=\"center\">250</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p align=\"center\">175</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p align=\"center\">350</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p align=\"center\"><strong>B</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p align=\"center\">220</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p align=\"center\">190</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p align=\"center\">240</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p align=\"center\"><strong>C</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p align=\"center\">260</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p align=\"center\">200</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p align=\"center\">270</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p align=\"center\"><strong>D</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p align=\"center\">245</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p align=\"center\">185</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p align=\"center\">330</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\n<span style=\"\">In which service is the average number of customers per city the highest?</span></p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "C",
+          "html": "C"
+        },
+        {
+          "id": "B",
+          "text": "A",
+          "html": "A"
+        },
+        {
+          "id": "C",
+          "text": "D",
+          "html": "D"
+        },
+        {
+          "id": "D",
+          "text": "B",
+          "html": "B"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Total of A in three cities = 250 + 175 + 350 ⇒ 775, Average = 775/3 ⇒ 258.33 (<strong>HIGHEST</strong>)</p>\n\n<p style=\"\">Total of B in three cities = 220 + 190 + 240 ⇒ 650, Average = 650/3 ⇒ 216.67</p>\n\n<p style=\"\">Total of C in three cities = 260 + 200 + 270 ⇒ 730, Average = 730/3 ⇒ 243.33</p>\n\n<p style=\"\">Total of D in three cities = 245 + 185 + 330 ⇒ 760, Average = 760/3 ⇒ 253.33</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q38",
+      "number": 38,
+      "question": "The below table shows the sales of motorbikes of four manufacturers from 2016 to 2020 (All the figures are in thousands). Study the table and answer the question that follows. Manufacturer 2016 2017 2018 2019 2020 P 220 225 235 240 260 Q 280 290 310 310 330 R 350 375 385 390 400 S 400 420 430 440 450 Find the ratio of the total number of sales of the motorbikes of manufacturer Q to the total number of sales of the motorbikes of manufacturer S from 2016 to 2020.",
+      "questionHtml": "The below table shows the sales of motorbikes of four manufacturers from 2016 to 2020 (All the figures are in thousands). Study the table and answer the question that follows.\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Manufacturer</th>\n\t\t\t<th>2016</th>\n\t\t\t<th>2017</th>\n\t\t\t<th>2018</th>\n\t\t\t<th>2019</th>\n\t\t\t<th>2020</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>P</td>\n\t\t\t<td>220</td>\n\t\t\t<td>225</td>\n\t\t\t<td>235</td>\n\t\t\t<td>240</td>\n\t\t\t<td>260</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Q</td>\n\t\t\t<td>280</td>\n\t\t\t<td>290</td>\n\t\t\t<td>310</td>\n\t\t\t<td>310</td>\n\t\t\t<td>330</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>R</td>\n\t\t\t<td>350</td>\n\t\t\t<td>375</td>\n\t\t\t<td>385</td>\n\t\t\t<td>390</td>\n\t\t\t<td>400</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>S</td>\n\t\t\t<td>400</td>\n\t\t\t<td>420</td>\n\t\t\t<td>430</td>\n\t\t\t<td>440</td>\n\t\t\t<td>450</td>\n\t\t</tr>\n\t</tbody>\n</table>\nFind the ratio of the total number of sales of the motorbikes of manufacturer Q to the total number of sales of the motorbikes of manufacturer S from 2016 to 2020.<br />\n&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "72 : 105",
+          "html": "72 : 105"
+        },
+        {
+          "id": "B",
+          "text": "76 : 107",
+          "html": "76 : 107"
+        },
+        {
+          "id": "C",
+          "text": "74 : 103",
+          "html": "74 : 103"
+        },
+        {
+          "id": "D",
+          "text": "78 : 107",
+          "html": "78 : 107"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Calculations:</strong></p>\n\n<p><u>Step 1: Calculate the total sales of manufacturer Q:</u></p>\n\n<p>Total sales of Q = 280 + 290 + 310 + 310 + 330</p>\n\n<p>Total sales of Q = 1,520 thousand.</p>\n\n<p><u>Step 2: Calculate the total sales of manufacturer S:</u></p>\n\n<p>Total sales of S = 400 + 420 + 430 + 440 + 450</p>\n\n<p>Total sales of S = 2,140 thousand.</p>\n\n<p><u>Step 3: Find the ratio:</u></p>\n\n<p>Ratio = Total sales of Q : Total sales of S</p>\n\n<p>Ratio = 1,520 : 2,140</p>\n\n<p>Divide both terms by 20:</p>\n\n<p>Ratio = 76 : 107.</p>\n\n<p><strong>The ratio of the total sales of manufacturer Q to manufacturer S is 76:107.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q39",
+      "number": 39,
+      "question": "The following table shows scores in different subjects obtained by Akshay in school. Study the table and answer the question that follows. Subject Marks obtained Total Marks English 73 100 Hindi 56 80 Science 45 75 Mathematics 90 125 IT 45 60 In which subject did he score the highest marks (in %)?",
+      "questionHtml": "The following table shows scores in different subjects obtained by Akshay in school. Study the table and answer the question that follows.\n<div class=\"flex-1 overflow-hidden\">\n<div class=\"h-full\">\n<div class=\"react-scroll-to-bottom--css-fxwnf-79elbk h-full\">\n<div class=\"react-scroll-to-bottom--css-fxwnf-1n7m0yu\">\n<div class=\"flex flex-col text-sm\">\n<article class=\"w-full text-token-text-primary focus-visible:outline-2 focus-visible:outline-offset-[-4px]\" data-scroll-anchor=\"true\" data-testid=\"conversation-turn-37\" dir=\"auto\">\n<div class=\"m-auto text-base py-[18px] px-3 md:px-4 w-full md:px-5 lg:px-4 xl:px-5\">\n<div class=\"mx-auto flex flex-1 gap-4 text-base md:gap-5 lg:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem]\">\n<div class=\"group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn\">\n<div class=\"flex-col gap-1 md:gap-3\">\n<div class=\"flex max-w-full flex-col flex-grow\">\n<div class=\"min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5\" data-message-author-role=\"assistant\" data-message-id=\"54b24ca2-803b-4b36-8767-d62346ca97f7\" data-message-model-slug=\"gpt-4o\" dir=\"auto\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\">\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Subject</th>\n\t\t\t<th>Marks obtained</th>\n\t\t\t<th>Total Marks</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>English</td>\n\t\t\t<td>73</td>\n\t\t\t<td>100</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Hindi</td>\n\t\t\t<td>56</td>\n\t\t\t<td>80</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Science</td>\n\t\t\t<td>45</td>\n\t\t\t<td>75</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Mathematics</td>\n\t\t\t<td>90</td>\n\t\t\t<td>125</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>IT</td>\n\t\t\t<td>45</td>\n\t\t\t<td>60</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">In which subject did he score the highest marks (in %)?</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</article>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "IT",
+          "html": "IT"
+        },
+        {
+          "id": "B",
+          "text": "English",
+          "html": "English"
+        },
+        {
+          "id": "C",
+          "text": "Hindi",
+          "html": "Hindi"
+        },
+        {
+          "id": "D",
+          "text": "Mathematics",
+          "html": "Mathematics"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">IT:</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ (45 / 60) × 100 = <strong>75%</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q40",
+      "number": 40,
+      "question": "The following table gives zone wise survey report of the people of a country who take tea. Study the table and answer the question. Take Tea East West North South More than 3 times a day 1732 1842 6045 2741 1 to 3 times a day 1462 2328 2584 4264 Twice a week 2280 2529 1123 3598 Only once a week 4059 1874 3169 7051 Never 317 127 223 293 The ratio of the total number of people surveyed who take tea more than 3 times a day to the number of people who do not take tea at all is",
+      "questionHtml": "The following table gives zone wise survey report of the people of a country who take tea. Study the table and answer the question.\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Take Tea&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</th>\n\t\t\t<th>East&nbsp; &nbsp; &nbsp;</th>\n\t\t\t<th>West&nbsp; &nbsp; &nbsp;</th>\n\t\t\t<th>North&nbsp; &nbsp; &nbsp;&nbsp;</th>\n\t\t\t<th>South&nbsp; &nbsp; &nbsp; &nbsp;</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>More than 3 times a day&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>\n\t\t\t<td>1732</td>\n\t\t\t<td>1842</td>\n\t\t\t<td>6045</td>\n\t\t\t<td>2741</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1 to 3 times a day</td>\n\t\t\t<td>1462</td>\n\t\t\t<td>2328</td>\n\t\t\t<td>2584</td>\n\t\t\t<td>4264</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Twice a week</td>\n\t\t\t<td>2280</td>\n\t\t\t<td>2529</td>\n\t\t\t<td>1123</td>\n\t\t\t<td>3598</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Only once a week</td>\n\t\t\t<td>4059</td>\n\t\t\t<td>1874</td>\n\t\t\t<td>3169</td>\n\t\t\t<td>7051</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Never</td>\n\t\t\t<td>317</td>\n\t\t\t<td>127</td>\n\t\t\t<td>223</td>\n\t\t\t<td>293</td>\n\t\t</tr>\n\t</tbody>\n</table>\nThe ratio of the total number of people surveyed who take tea more than 3 times a day to the number of people who do not&nbsp;take tea at all is",
+      "options": [
+        {
+          "id": "A",
+          "text": "103 : 8",
+          "html": "103 : 8"
+        },
+        {
+          "id": "B",
+          "text": "8 : 103",
+          "html": "8 : 103"
+        },
+        {
+          "id": "C",
+          "text": "101 : 5",
+          "html": "101 : 5"
+        },
+        {
+          "id": "D",
+          "text": "5 : 101",
+          "html": "5 : 101"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p data-sourcepos=\"3:1-3:10\"><strong>Given:</strong></p>\n\n<p data-sourcepos=\"5:1-5:80\">The table shows the zone-wise survey report of people who take tea in a country.</p>\n\n<p data-sourcepos=\"7:1-7:16\"><strong>Calculation:</strong></p>\n\n<p data-sourcepos=\"9:4-14:44\"><strong>Total number of people who take tea more than 3 times a day:</strong></p>\n\n<p data-sourcepos=\"9:4-14:44\">East: 1732</p>\n\n<p data-sourcepos=\"9:4-14:44\">West: 1842</p>\n\n<p data-sourcepos=\"9:4-14:44\">North: 6045</p>\n\n<p data-sourcepos=\"9:4-14:44\">South: 2741</p>\n\n<p data-sourcepos=\"9:4-14:44\">Total = 1732 + 1842 + 6045 + 2741 = 12360</p>\n\n<p data-sourcepos=\"16:4-21:38\"><strong>Total number of people who never take tea:</strong></p>\n\n<p data-sourcepos=\"16:4-21:38\">East: 317</p>\n\n<p data-sourcepos=\"16:4-21:38\">West: 127</p>\n\n<p data-sourcepos=\"16:4-21:38\">North: 223</p>\n\n<p data-sourcepos=\"16:4-21:38\">South: 293</p>\n\n<p data-sourcepos=\"16:4-21:38\">Total = 317 + 127 + 223 + 293 = 960</p>\n\n<p data-sourcepos=\"23:4-24:32\">Ratio of people who take tea more than 3 times a day to those who never take tea<strong>:</strong> Ratio = 12360 / 960 = <span style=\"color: rgb(33, 37, 41);\">103 : 8</span></p>\n\n<p data-sourcepos=\"26:1-26:175\"><strong>Therefore, the ratio of the total number of people surveyed who take tea more than 3 times a day to the number of people who do not take tea at all is <span style=\"color: rgb(33, 37, 41);\">103 : 8</span>.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q41",
+      "number": 41,
+      "question": "The given table represents the monthly income of 100 families of a locality. Monthly income range (in Rs.) Number of families Income more than Rs. 10,000 100 Income more than Rs. 13,000 85 Income more than Rs. 16,000 69 Income more than Rs. 19,000 50 Income more than Rs. 22,000 33 Income more than Rs. 25,000 15 The number of families having income range (in Rs.) 19000 - 22000 is:",
+      "questionHtml": "<p>The given table represents the monthly income of 100 families of a locality.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:144px;height:17px;\">\n\t\t\t<p align=\"center\"><strong>Monthly income range (in Rs.)</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:114px;height:17px;\">\n\t\t\t<p align=\"center\"><strong>Number of families</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:144px;height:17px;\">\n\t\t\t<p align=\"center\">Income more than Rs. 10,000</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:114px;height:17px;\">\n\t\t\t<p align=\"center\">100</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:144px;height:17px;\">\n\t\t\t<p align=\"center\">Income more than Rs. 13,000</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:114px;height:17px;\">\n\t\t\t<p align=\"center\">85</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:144px;height:17px;\">\n\t\t\t<p align=\"center\">Income more than Rs. 16,000</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:114px;height:17px;\">\n\t\t\t<p align=\"center\">69</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:144px;height:17px;\">\n\t\t\t<p align=\"center\">Income more than Rs. 19,000</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:114px;height:17px;\">\n\t\t\t<p align=\"center\">50</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:144px;height:17px;\">\n\t\t\t<p align=\"center\">Income more than Rs. 22,000</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:114px;height:17px;\">\n\t\t\t<p align=\"center\">33</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:144px;height:17px;\">\n\t\t\t<p align=\"center\">Income more than Rs. 25,000</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:114px;height:17px;\">\n\t\t\t<p align=\"center\">15</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>The number of families having income range (in Rs.) 19000 - 22000 is:&nbsp;</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "17",
+          "html": "17"
+        },
+        {
+          "id": "B",
+          "text": "19",
+          "html": "19"
+        },
+        {
+          "id": "C",
+          "text": "22",
+          "html": "22"
+        },
+        {
+          "id": "D",
+          "text": "24",
+          "html": "24"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style=\"color: rgb(33, 37, 41);\">The number of families having income range 0f Rs.(19000 - 22000) = 50 - 33 = 17</span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q42",
+      "number": 42,
+      "question": "The below table shows the number of 1 litre bottles of soft drink produced by three companies during 2016-2020. Study the given information carefully and answer the question that follows. Year A (in lakhs) B (in lakhs) C (in lakhs) 2016 38,000 43,000 51,000 2017 41,000 52,000 57,000 2018 53,000 65,000 63,000 2019 30,000 35,000 32,000 2020 20,000 25,000 28,000 What is the difference in average production of A and C during 2016-2018 (in lakhs)?",
+      "questionHtml": "The below table shows the number of 1 litre bottles of soft drink produced by three companies during 2016-2020. Study the&nbsp;given information carefully and answer the question that follows.\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Year</th>\n\t\t\t<th>A (in lakhs)</th>\n\t\t\t<th>B (in lakhs)</th>\n\t\t\t<th>C (in lakhs)</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>2016</td>\n\t\t\t<td>38,000</td>\n\t\t\t<td>43,000</td>\n\t\t\t<td>51,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2017</td>\n\t\t\t<td>41,000</td>\n\t\t\t<td>52,000</td>\n\t\t\t<td>57,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2018</td>\n\t\t\t<td>53,000</td>\n\t\t\t<td>65,000</td>\n\t\t\t<td>63,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2019</td>\n\t\t\t<td>30,000</td>\n\t\t\t<td>35,000</td>\n\t\t\t<td>32,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2020</td>\n\t\t\t<td>20,000</td>\n\t\t\t<td>25,000</td>\n\t\t\t<td>28,000</td>\n\t\t</tr>\n\t</tbody>\n</table>\nWhat is the difference in average production of A and C during 2016-2018 (in lakhs)?<br />\n&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "7800",
+          "html": "7800"
+        },
+        {
+          "id": "B",
+          "text": "14,000",
+          "html": "14,000"
+        },
+        {
+          "id": "C",
+          "text": "13,000",
+          "html": "13,000"
+        },
+        {
+          "id": "D",
+          "text": "9500",
+          "html": "9500"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<table border=\"1\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>Year</th>\n\t\t\t<th>A (in lakhs)</th>\n\t\t\t<th>B (in lakhs)</th>\n\t\t\t<th>C (in lakhs)</th>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2016</td>\n\t\t\t<td>38,000</td>\n\t\t\t<td>43,000</td>\n\t\t\t<td>51,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2017</td>\n\t\t\t<td>41,000</td>\n\t\t\t<td>52,000</td>\n\t\t\t<td>57,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2018</td>\n\t\t\t<td>53,000</td>\n\t\t\t<td>65,000</td>\n\t\t\t<td>63,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2019</td>\n\t\t\t<td>30,000</td>\n\t\t\t<td>35,000</td>\n\t\t\t<td>32,000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2020</td>\n\t\t\t<td>20,000</td>\n\t\t\t<td>25,000</td>\n\t\t\t<td>28,000</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Average production = (Sum of production for selected years) &divide; (Number of years)</p>\n\n<p>Difference in averages = Average production of A - Average production of C</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Sum of production for A (2016-2018) = 38,000 + 41,000 + 53,000</p>\n\n<p>&rArr; 38,000 + 41,000 + 53,000 = 132,000</p>\n\n<p>Average production of A = 132,000 &divide; 3 = 44,000</p>\n\n<p>Sum of production for C (2016-2018) = 51,000 + 57,000 + 63,000</p>\n\n<p>&rArr; 51,000 + 57,000 + 63,000 = 171,000</p>\n\n<p>Average production of C = 171,000 &divide; 3 = 57,000</p>\n\n<p>Difference in averages = 44,000 - 57,000</p>\n\n<p>&rArr; Difference = -13,000</p>\n\n<p><strong>&there4; The difference in average production of A and C during 2016-2018 is 13,000 lakhs.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q43",
+      "number": 43,
+      "question": "Study the given table and answer the question that follows. The table shows the marks distribution among the students in a class. Marks No. of Students Less than 10 2 Less than 20 5 Less than 30 6 Less than 40 8 Less than 50 10 How many students scored more than 40 marks?",
+      "questionHtml": "<p>Study the given table and answer the question that follows.</p>\n\n<p>The table shows the marks distribution among the students in a class.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:220px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Marks</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>No. of&nbsp;Students</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Less than 10</td>\n\t\t\t<td style=\"text-align: center;\">2</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Less than 20</td>\n\t\t\t<td style=\"text-align: center;\">5</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Less than 30&nbsp;</td>\n\t\t\t<td style=\"text-align: center;\">6</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Less than 40</td>\n\t\t\t<td style=\"text-align: center;\">8</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">&nbsp;Less than 50</td>\n\t\t\t<td style=\"text-align: center;\">10</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>How many students scored more than 40 marks?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "html": "3"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style=\"color: rgb(33, 37, 41);   \">Total students who scored less than 40 marks = 8</span><span style=\"color: rgb(33, 37, 41);   \"> <br />\n<br />\nSum of all students</span><span style=\"box-sizing: border-box;  \">⇒ </span><span style=\"color: rgb(33, 37, 41);   \">10 <br />\n<br />\nNumber of students who scored more than 40 marks </span><span style=\"box-sizing: border-box;  \">⇒ 10</span><span style=\"color: rgb(33, 37, 41);   \"> - 8 = 2</span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q44",
+      "number": 44,
+      "question": "The table given below shows the production of five companies in two years. Years Company Y1 Y2 A 50 100 B 90 120 C 30 80 D 80 50 E 20 40 J1= The average production of A in year Y1 and Y2. J2 = Sum of production of B, C and D in year Y1 and Y2. What is the value of (J2/J1)?",
+      "questionHtml": "<p>The table given below shows the production of five companies in two years.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:51px;height:17px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td colspan=\"2\" style=\"width:89px;height:17px;\">\n\t\t\t<p align=\"center\">Years</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:51px;height:17px;\">\n\t\t\t<p align=\"center\">Company</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:45px;height:17px;\">\n\t\t\t<p align=\"center\">Y1</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:45px;height:17px;\">\n\t\t\t<p align=\"center\">Y2</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:51px;height:18px;\">\n\t\t\t<p align=\"center\">A</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:45px;height:18px;\">\n\t\t\t<p align=\"center\">50</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:45px;height:18px;\">\n\t\t\t<p align=\"center\">100</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:51px;height:17px;\">\n\t\t\t<p align=\"center\">B</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:45px;height:17px;\">\n\t\t\t<p align=\"center\">90</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:45px;height:17px;\">\n\t\t\t<p align=\"center\">120</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:51px;height:17px;\">\n\t\t\t<p align=\"center\">C</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:45px;height:17px;\">\n\t\t\t<p align=\"center\">30</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:45px;height:17px;\">\n\t\t\t<p align=\"center\">80</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:51px;height:17px;\">\n\t\t\t<p align=\"center\">D</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:45px;height:17px;\">\n\t\t\t<p align=\"center\">80</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:45px;height:17px;\">\n\t\t\t<p align=\"center\">50</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:51px;height:17px;\">\n\t\t\t<p align=\"center\">E</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:45px;height:17px;\">\n\t\t\t<p align=\"center\">20</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:45px;height:17px;\">\n\t\t\t<p align=\"center\">40</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\nJ1= The average production of A in year Y1 and Y2.</p>\n\n<p>J2 = Sum of production of B, C and D in year Y1 and Y2.</p>\n\n<p>What is the value of (J2/J1)?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "6"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>J1 = (50 + 100)/2 ⇒ 150/2 ⇒ 75</p>\n\n<p>J2 = (90 + 120 + 30 + 80 + 80 + 50) ⇒ 450</p>\n\n<p>J2/J1 = 450/75 ⇒ 6</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q45",
+      "number": 45,
+      "question": "The below table gives the marks out of 100 obtained by five students in four different subjects in an examination. Study the table and answer the question that follows. Student/Subject Mathematics Physics Biology English Suresh 70 80 65 60 Ramesh 85 70 70 55 Ankith 90 80 60 65 Ranjith 95 70 65 60 Aryan 75 65 65 70 What are the average marks obtained by all five students in Mathematics?",
+      "questionHtml": "The below table gives the marks out of 100 obtained by five students in four different subjects in an examination. Study the table and answer the question that follows.\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Student/Subject</th>\n\t\t\t<th>Mathematics</th>\n\t\t\t<th>Physics</th>\n\t\t\t<th>Biology</th>\n\t\t\t<th>English</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Suresh</td>\n\t\t\t<td>70</td>\n\t\t\t<td>80</td>\n\t\t\t<td>65</td>\n\t\t\t<td>60</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Ramesh</td>\n\t\t\t<td>85</td>\n\t\t\t<td>70</td>\n\t\t\t<td>70</td>\n\t\t\t<td>55</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Ankith</td>\n\t\t\t<td>90</td>\n\t\t\t<td>80</td>\n\t\t\t<td>60</td>\n\t\t\t<td>65</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Ranjith</td>\n\t\t\t<td>95</td>\n\t\t\t<td>70</td>\n\t\t\t<td>65</td>\n\t\t\t<td>60</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Aryan</td>\n\t\t\t<td>75</td>\n\t\t\t<td>65</td>\n\t\t\t<td>65</td>\n\t\t\t<td>70</td>\n\t\t</tr>\n\t</tbody>\n</table>\nWhat are the average marks obtained by all five students in Mathematics?",
+      "options": [
+        {
+          "id": "A",
+          "text": "83",
+          "html": "83"
+        },
+        {
+          "id": "B",
+          "text": "80",
+          "html": "80"
+        },
+        {
+          "id": "C",
+          "text": "85",
+          "html": "85"
+        },
+        {
+          "id": "D",
+          "text": "84",
+          "html": "84"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Sum of all marks in Mathematics = 70 + 85 + 90 + 95 + 75</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average marks = <span class=\"math-tex\">\\(\\dfrac{415}{5}\\)</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ <strong>Average marks = 83</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q46",
+      "number": 46,
+      "question": "The following table shows the sales during two seasons of the company. Study the table and answer the question that follows. Sales in summer season (in ₹) Sales in winter season (in ₹) May June July November December January 25000 24000 18000 35000 26000 22000 What is the percentage share of sales during months of June and July to the total sales?",
+      "questionHtml": "<p>The following table shows the sales during two seasons of the company. Study the table and answer the question that follows.</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:330px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td colspan=\"3\" rowspan=\"1\" style=\"text-align: center;\"><strong>Sales in summer season (in ₹)<span style=\"white-space:pre\"> </span></strong></td>\n\t\t\t<td colspan=\"3\" rowspan=\"1\" style=\"text-align: center;\"><strong>Sales in winter season (in ₹)</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">May</td>\n\t\t\t<td style=\"text-align: center;\">June</td>\n\t\t\t<td style=\"text-align: center;\">July</td>\n\t\t\t<td style=\"text-align: center;\">November&nbsp;</td>\n\t\t\t<td style=\"text-align: center;\">December</td>\n\t\t\t<td style=\"text-align: center;\">January</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">25000</td>\n\t\t\t<td style=\"text-align: center;\">24000</td>\n\t\t\t<td style=\"text-align: center;\">18000</td>\n\t\t\t<td style=\"text-align: center;\">35000</td>\n\t\t\t<td style=\"text-align: center;\">26000</td>\n\t\t\t<td style=\"text-align: center;\">22000</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>What is the percentage share of sales during months of June and July to the total sales?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "28%",
+          "html": "28%"
+        },
+        {
+          "id": "B",
+          "text": "30%",
+          "html": "30%"
+        },
+        {
+          "id": "C",
+          "text": "33%",
+          "html": "33%"
+        },
+        {
+          "id": "D",
+          "text": "24%",
+          "html": "24%"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Sales in June = ₹24000</p>\n\n<p>Sales in July = ₹18000</p>\n\n<p>Total Sales = ₹25000 + ₹24000 + ₹18000 + ₹35000 + ₹26000 + ₹22000</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>Percentage share = (Sales in June + Sales in July) / Total Sales &times; 100</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Total Sales = ₹25000 + ₹24000 + ₹18000 + ₹35000 + ₹26000 + ₹22000</p>\n\n<p>&rArr; Total Sales = ₹150000</p>\n\n<p>Sales in June and July = ₹24000 + ₹18000</p>\n\n<p>&rArr; Sales in June and July = ₹42000</p>\n\n<p>Percentage share = (₹42000 / ₹150000) &times; 100</p>\n\n<p>&rArr; Percentage share = 0.28 &times; 100</p>\n\n<p>&rArr; Percentage share = 28%</p>\n\n<p><strong>The correct answer is option 1.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q47",
+      "number": 47,
+      "question": "The given table shows the number of bananas produced by five farms over 4 years. Year L M N O P 2020 17,500 14,180 16,300 17,405 15,805 2021 11,200 13,900 14,600 15,304 16,207 2022 12,300 17,652 14,800 15,150 16,404 2023 14,650 15,558 17,465 14,185 15,450 What is the respective ratio of the dozens of bananas produced by farm M to farm P in the year 2022?",
+      "questionHtml": "The given table shows the number of bananas produced by five farms over 4 years.\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Year</th>\n\t\t\t<th>L</th>\n\t\t\t<th>M</th>\n\t\t\t<th>N</th>\n\t\t\t<th>O</th>\n\t\t\t<th>P</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>2020</td>\n\t\t\t<td>17,500</td>\n\t\t\t<td>14,180</td>\n\t\t\t<td>16,300</td>\n\t\t\t<td>17,405</td>\n\t\t\t<td>15,805</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2021</td>\n\t\t\t<td>11,200</td>\n\t\t\t<td>13,900</td>\n\t\t\t<td>14,600</td>\n\t\t\t<td>15,304</td>\n\t\t\t<td>16,207</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2022</td>\n\t\t\t<td>12,300</td>\n\t\t\t<td>17,652</td>\n\t\t\t<td>14,800</td>\n\t\t\t<td>15,150</td>\n\t\t\t<td>16,404</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2023</td>\n\t\t\t<td>14,650</td>\n\t\t\t<td>15,558</td>\n\t\t\t<td>17,465</td>\n\t\t\t<td>14,185</td>\n\t\t\t<td>15,450</td>\n\t\t</tr>\n\t</tbody>\n</table>\nWhat is the respective ratio of the dozens of bananas produced by farm M to farm P in the year 2022?<br />\n&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "1471 : 1367",
+          "html": "1471 : 1367"
+        },
+        {
+          "id": "B",
+          "text": "1230 : 1331",
+          "html": "1230 : 1331"
+        },
+        {
+          "id": "C",
+          "text": "1367 : 1471",
+          "html": "1367 : 1471"
+        },
+        {
+          "id": "D",
+          "text": "1331 : 1230",
+          "html": "1331 : 1230"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Dozens of M = 17,652 / 12 = 1,471 dozens</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Dozens of P = 16,404 / 12 = 1,367 dozens</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The ratio of dozens of bananas produced by farm M to farm P in 2022 is:</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><strong>Ratio = 1,471 : 1,367</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q48",
+      "number": 48,
+      "question": "Study the given table and answer the question that follows. The table represents the expenditure of a company (in thousand rupees) per annum over the given year. Year Expenditure Salary Transport Interest Tax 2018 200 90 3 80 2019 250 100 2.5 100 2020 300 120 3 70 2021 350 130 3.5 80 What is the average amount of salary per year, which the company has to pay during these four years?",
+      "questionHtml": "<p>Study the given table and answer the question that follows.</p>\n\n<p>The table represents the expenditure of a company (in thousand rupees) per annum over the given year.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:330px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td rowspan=\"2\">\n\t\t\t<p style=\"text-align: center;\"><strong>Year</strong></p>\n\t\t\t</td>\n\t\t\t<td colspan=\"4\">\n\t\t\t<p style=\"text-align: center;\"><strong>Expenditure</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Salary</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Transport</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Interest</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\"><strong>Tax</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">2018</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">200</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">90</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">3</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">80</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">2019</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">250</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">100</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">2.5</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">100</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">2020</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">300</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">120</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">3</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">70</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">2021</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">350</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">130</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">3.5</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: center;\">80</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\nWhat is the average amount of salary per year, which the company has to pay during these four years?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹2,80,000",
+          "html": "₹2,80,000"
+        },
+        {
+          "id": "B",
+          "text": "₹ 3,00,000",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">₹</span>3,00,000"
+        },
+        {
+          "id": "C",
+          "text": "₹ 2,00,000",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">₹</span>2,00,000"
+        },
+        {
+          "id": "D",
+          "text": "₹ 2,75,000",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">₹</span>2,75,000"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Average amount of salary in four years = (<span style=\"color: rgb(33, 37, 41);\">200000 + 250000 + 300000 + 350000)/4 = </span>1100000/4 = Rs.275000</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q49",
+      "number": 49,
+      "question": "The table given below shows the number of players participating in two games in six different schools? Games Schools A B J 31 58 K 24 36 L 18 26 M 29 37 N 12 33 P 40 44 What is the ratio of total number of players participating in game A to the total number of players participating in game B?",
+      "questionHtml": "<p>The table given below shows the number of players participating in two games in six different schools?</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 250px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td colspan=\"2\" rowspan=\"1\" style=\"text-align: center;\"><strong>Games</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Schools</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>A</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>B</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>J</strong></td>\n\t\t\t<td style=\"text-align: center;\">31</td>\n\t\t\t<td style=\"text-align: center;\">58</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>K</strong></td>\n\t\t\t<td style=\"text-align: center;\">24</td>\n\t\t\t<td style=\"text-align: center;\">36</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>L</strong></td>\n\t\t\t<td style=\"text-align: center;\">18</td>\n\t\t\t<td style=\"text-align: center;\">26</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>M</strong></td>\n\t\t\t<td style=\"text-align: center;\">29</td>\n\t\t\t<td style=\"text-align: center;\">37</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>N</strong></td>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">33</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>P</strong></td>\n\t\t\t<td style=\"text-align: center;\">40</td>\n\t\t\t<td style=\"text-align: center;\">44</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\nWhat is the ratio of total number of players participating in game A to the total number of players participating in game B?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "117 ∶ 77",
+          "html": "117 ∶ 77"
+        },
+        {
+          "id": "B",
+          "text": "67 ∶ 116",
+          "html": "67 ∶ 116"
+        },
+        {
+          "id": "C",
+          "text": "77 ∶ 117",
+          "html": "77 ∶ 117"
+        },
+        {
+          "id": "D",
+          "text": "116 ∶ 57",
+          "html": "116 ∶ 57"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"\">A = 31 + 24 + 18 + 29 + 12 + 40 ⇒ 154</span></p>\n\n<p style=\"\">B = 58 + 36 + 26 + 37 + 33 + 44 ⇒ 234</p>\n\n<p style=\"\">Ratio = 154 : 234 ⇒ 77 : 117</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b5c4ab85ace1-q50",
+      "number": 50,
+      "question": "Study the given table and answer the question that follows. The following table shows the production of printers by four plants of a company over the five years. What is the difference between the average production of plant 1 and plant 2 during five years?",
+      "questionHtml": "<p>Study the given table and answer the question that follows.<br />\nThe following table shows the production of printers by four plants of a company over the five years.</p>\n\n<p><span style=\"display: none;\">&nbsp;</span><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/qImage675825983cfb1228fc2541c4.png\" /><br />\nWhat is the difference between the average production of plant 1 and plant 2 during five years?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "1600",
+          "html": "1600"
+        },
+        {
+          "id": "B",
+          "text": "3000",
+          "html": "3000"
+        },
+        {
+          "id": "C",
+          "text": "3840",
+          "html": "3840"
+        },
+        {
+          "id": "D",
+          "text": "1400",
+          "html": "1400"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Plant 1 Production (in thousands): 35, 43, 48, 32, 42</p>\n\n<p>Plant 2 Production (in thousands): 25, 44, 39, 40, 44</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Total Production = Sum of yearly production for each plant.</p>\n\n<p>Average Production = Total Production / 5 (since there are 5 years).</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p><strong>For Plant 1:</strong></p>\n\n<p>Total Production = 35,000 + 43,000 + 48,000 + 32,000 + 42,000 = 200,000</p>\n\n<p>Average Production = 200,000 / 5 = 40,000</p>\n\n<p><strong>For Plant 2:</strong></p>\n\n<p>Total Production = 25,000 + 44,000 + 39,000 + 40,000 + 44,000 = 192,000</p>\n\n<p>Average Production = 192,000 / 5 = 38,400</p>\n\n<p><strong>Difference between averages:</strong></p>\n\n<p>40,000 - 38,400 = 1,600</p>\n\n<p><strong>Conclusion:</strong></p>\n\n<p>The difference between the average production of Plant 1 and Plant 2 during the five years is 1,600 (in thousands).</p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/qImage675825983cfb1228fc2541c4.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

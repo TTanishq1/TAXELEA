@@ -1,0 +1,3415 @@
+{
+  "id": "75e1a993570e",
+  "provider": "RBE_Mocks",
+  "sourceFile": "CGL_2026_Paid_Mock_20.html",
+  "sourcePath": "RBE_MOCKS/CGL_2026_Paid_Mock_20.html",
+  "title": "CGL 2026 Paid Mock 20",
+  "exam": null,
+  "year": 2026,
+  "tier": null,
+  "shift": null,
+  "duration": 0,
+  "questionCount": 100,
+  "questions": [
+    {
+      "id": "75e1a993570e-q1",
+      "number": 1,
+      "question": "A series is given with one term missing. Select the correct alternative from the given options that will complete the series. 105, ?, 133, 162, 201, 250, 309",
+      "questionHtml": "<p>A series is given with one term missing. Select the correct alternative from the given options that will complete the series.</p><p>105, ?, 133, 162, 201, 250, 309</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "114",
+          "html": "<p>114</p>"
+        },
+        {
+          "id": "B",
+          "text": "116",
+          "html": "<p>116</p>"
+        },
+        {
+          "id": "C",
+          "text": "118",
+          "html": "<p>118</p>"
+        },
+        {
+          "id": "D",
+          "text": "117",
+          "html": "<p>117</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The differences between consecutive terms follow a pattern:</p><p>9, 19, 29, 39, 49, 59 (increase of 10 each time)</p><p>105 + 9 = 114<br/>114 + 19 = 133<br/>133 + 29 = 162<br/>162 + 39 = 201<br/>201 + 49 = 250<br/>250 + 59 = 309</p><p>Therefore, the missing term is 114.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q2",
+      "number": 2,
+      "question": "A series is given with one term missing. Select the correct alternative from the given options that will complete the series. -32, ?, -132, -265, -532, -1065",
+      "questionHtml": "<p>A series is given with one term missing. Select the correct alternative from the given options that will complete the series.</p><p>-32, ?, -132, -265, -532, -1065</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "-65",
+          "html": "<p>-65</p>"
+        },
+        {
+          "id": "B",
+          "text": "-66",
+          "html": "<p>-66</p>"
+        },
+        {
+          "id": "C",
+          "text": "-63",
+          "html": "<p>-63 </p>"
+        },
+        {
+          "id": "D",
+          "text": "-68",
+          "html": "<p>-68</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The pattern follows ×2 − 1, ×2 − 2 alternately.</p><p>-32 × 2 − 1 = -65<br/>-65 × 2 − 2 = -132<br/>-132 × 2 − 1 = -265<br/>-265 × 2 − 2 = -532<br/>-532 × 2 − 1 = -1065</p><p>Thus the missing term is -65.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q3",
+      "number": 3,
+      "question": "A series is given with one term missing. Select the correct alternative from the given options that will complete the series. F, H, K, O, T, ?,",
+      "questionHtml": "<p>A series is given with one term missing. Select the correct alternative from the given options that will complete the series.</p><p>F, H, K, O, T, ?, </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "X",
+          "html": "<p>X</p>"
+        },
+        {
+          "id": "B",
+          "text": "Y",
+          "html": "<p>Y</p>"
+        },
+        {
+          "id": "C",
+          "text": "Z",
+          "html": "<p>Z</p>"
+        },
+        {
+          "id": "D",
+          "text": "A",
+          "html": "<p>A</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Alphabet positions:<br/>F(6), H(8), K(11), O(15), T(20)</p><p>Pattern: +2, +3, +4, +5, +6, </p><p>20 + 6 = 26 → Z</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q4",
+      "number": 4,
+      "question": "Select the option that is related to the fifth letter cluster in the same way as the second letter cluster is related to the first letter cluster and the fourth letter cluster is related to the third letter cluster. AB : WW :: CD : YY :: EG : ?",
+      "questionHtml": "<p>Select the option that is related to the fifth letter cluster in the same way as the second letter cluster is related to the first letter cluster and the fourth letter cluster is related to the third letter cluster.</p><p>AB : WW :: CD : YY :: EG : ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "AB",
+          "html": "<p>AB</p>"
+        },
+        {
+          "id": "B",
+          "text": "AA",
+          "html": "<p>AA</p>"
+        },
+        {
+          "id": "C",
+          "text": "BB",
+          "html": "<p>BB</p>"
+        },
+        {
+          "id": "D",
+          "text": "DC",
+          "html": "<p>DC</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Pattern: −4, −5</p><p>A − 4 = W<br/>B − 5 = W</p><p>C − 4 = Y<br/>D − 5 = Y</p><p>E − 4 = A<br/>G − 5 = B</p><p>Answer: AB</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q5",
+      "number": 5,
+      "question": "In the following question, a set of letter clusters is given. The letter clusters of each set are related to each other by some logic/rule/relation. From the given alternatives, select the group of letter clusters which do not follows the same logic. (AB, CD, GH) (JK, LM, PQ)",
+      "questionHtml": "<p>In the following question, a set of letter clusters is given. The letter clusters of each set are related to each other by some logic/rule/relation. From the given alternatives, select the group of letter clusters which do not follows the same logic.</p><p>(AB, CD, GH)<br/>(JK, LM, PQ)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(EF, GH, KL)",
+          "html": "<p>(EF, GH, KL)</p>"
+        },
+        {
+          "id": "B",
+          "text": "(MN, OP, ST)",
+          "html": "<p>(MN, OP, ST)</p>"
+        },
+        {
+          "id": "C",
+          "text": "(QR, ST, WX)",
+          "html": "<p>(QR, ST, WX)</p>"
+        },
+        {
+          "id": "D",
+          "text": "(UV, WX, ZA)",
+          "html": "<p>(UV, WX, ZA)</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Pattern:</p><p>First letters: +2, +4<br/>A → C → G<br/>J → L → P</p><p>Second letters: +2, +4<br/>B → D → H<br/>K → M → Q</p><p>Check option (d):</p><p>U → W → Z (+2, +3)<br/>V → X → A (+2, +3)</p><p>So it follows the same pattern.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q6",
+      "number": 6,
+      "question": "If the month of March 2026 started on Monday, then which date will be the last Monday of August 2026?",
+      "questionHtml": "<p>If the month of March 2026 started on Monday, then which date will be the last Monday of August 2026?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "31",
+          "html": "<p>31</p>"
+        },
+        {
+          "id": "B",
+          "text": "30",
+          "html": "<p>30</p>"
+        },
+        {
+          "id": "C",
+          "text": "29",
+          "html": "<p>29</p>"
+        },
+        {
+          "id": "D",
+          "text": "28",
+          "html": "<p>28</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>March 1, 2026 = Monday</p><p>Days shift month-wise:</p><p>March (31) → +3 → April 1 = Thursday<br/>April (30) → +2 → May 1 = Saturday<br/>May (31) → +3 → June 1 = Tuesday<br/>June (30) → +2 → July 1 = Thursday<br/>July (31) → +3 → August 1 = Sunday</p><p>Mondays in August: 2, 9, 16, 23, 30</p><p>Last Monday = 30</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q7",
+      "number": 7,
+      "question": "Five boys A, B, C, D and E are sitting in a row facing north (not necessarily in the same order). B is the immediate neighbour of A and C. D is not to the left of B. E and D are immediate neighbours. E and D both are to the right of B. E is not at any end of the row. Who is sitting at the second position from the left end of the row?",
+      "questionHtml": "<p>Five boys A, B, C, D and E are sitting in a row facing north (not necessarily in the same order). B is the immediate neighbour of A and C. D is not to the left of B. E and D are immediate neighbours. E and D both are to the right of B. E is not at any end of the row. Who is sitting at the second position from the left end of the row?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A",
+          "html": "<p>A</p>"
+        },
+        {
+          "id": "B",
+          "text": "B",
+          "html": "<p>B</p>"
+        },
+        {
+          "id": "C",
+          "text": "C",
+          "html": "<p>C</p>"
+        },
+        {
+          "id": "D",
+          "text": "D",
+          "html": "<p>D</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Arrangement</p><p>A B C E D<br/> or<br/>C B A E D</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q8",
+      "number": 8,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1773742223657_image001.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1773742223657_image001.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1773742223657_image002.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1773742223657_image002.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1773742223657_image003.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1773742223657_image003.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1773742223657_image004.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1773742223657_image004.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1773742223657_image005.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1773742223657_image005.png"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1773742223657_image006.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q9",
+      "number": 9,
+      "question": "Select the option that is related to the first letter–number cluster in the same way as the fourth letter–number cluster is related to the third letter–number cluster and the sixth letter–number cluster is related to the fifth letter–number cluster. ZX240 : ? :: AB160 : BC192 :: LM420 : MN452",
+      "questionHtml": "<p>Select the option that is related to the first letter–number cluster in the same way as the fourth letter–number cluster is related to the third letter–number cluster and the sixth letter–number cluster is related to the fifth letter–number cluster.</p><p>ZX240 : ? :: AB160 : BC192 :: LM420 : MN452</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "AY272",
+          "html": "<p>AY272</p>"
+        },
+        {
+          "id": "B",
+          "text": "ZY272",
+          "html": "<p>ZY272</p>"
+        },
+        {
+          "id": "C",
+          "text": "AY268",
+          "html": "<p>AY268</p>"
+        },
+        {
+          "id": "D",
+          "text": "BY272",
+          "html": "<p>BY272</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>AB → BC (+1, +1)<br/>LM → MN (+1, +1)</p><p>So letters +1 each.</p><p>160 → 192 = +32<br/>420 → 452 = +32</p><p>So number +32.</p><p>ZX240 → AY272.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q10",
+      "number": 10,
+      "question": "Arrange the given words in the sequence in which they occur in the dictionary. 1. Prevent 2. Preview 3. Preach 4. Precious 5. Predict",
+      "questionHtml": "<p>Arrange the given words in the sequence in which they occur in the dictionary.<br/>1. Prevent<br/>2. Preview<br/>3. Preach<br/>4. Precious<br/>5. Predict</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 4, 5, 1, 2",
+          "html": "<p>3, 4, 5, 1, 2</p>"
+        },
+        {
+          "id": "B",
+          "text": "3, 4, 1, 5, 2",
+          "html": "<p>3, 4, 1, 5, 2</p>"
+        },
+        {
+          "id": "C",
+          "text": "4, 3, 5, 1, 2",
+          "html": "<p>4, 3, 5, 1, 2</p>"
+        },
+        {
+          "id": "D",
+          "text": "3, 5, 4, 1, 2",
+          "html": "<p>3, 5, 4, 1, 2</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>All start with PRE.</p><p>Next letters:<br/>Preach → A<br/>Precious → C<br/>Predict → D<br/>Prevent → V<br/>Preview → V</p><p>Between Prevent and Preview,<br/>E comes before I.</p><p>Final order → 3, 4, 5, 1, 2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q11",
+      "number": 11,
+      "question": "In a certain code language, ‘birds fly in sky’ is coded as ‘la ke so mi’ and ‘birds live near water place’ is coded as ‘ke ta nu vi po’. How will ‘birds’ be coded in that code language?",
+      "questionHtml": "<p>In a certain code language, ‘birds fly in sky’ is coded as ‘la ke so mi’ and ‘birds live near water place’ is coded as ‘ke ta nu vi po’.<br/>How will ‘birds’ be coded in that code language?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "la",
+          "html": "<p>la</p>"
+        },
+        {
+          "id": "B",
+          "text": "ke",
+          "html": "<p>ke</p>"
+        },
+        {
+          "id": "C",
+          "text": "nu",
+          "html": "<p>nu</p>"
+        },
+        {
+          "id": "D",
+          "text": "mi",
+          "html": "<p>mi</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Sentence 1 → birds fly in sky → la ke so mi<br/>Sentence 2 → birds live near water place → ke ta nu vi po</p><p>Common word = birds</p><p>Common code = ke</p><p>So birds = ke.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q12",
+      "number": 12,
+      "question": "In the year 1925, which of the following month had 5 Thursdays?",
+      "questionHtml": "<p>In the year 1925, which of the following month had 5 Thursdays?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "May",
+          "html": "<p>May</p>"
+        },
+        {
+          "id": "B",
+          "text": "January",
+          "html": "<p>January</p>"
+        },
+        {
+          "id": "C",
+          "text": "February",
+          "html": "<p>February</p>"
+        },
+        {
+          "id": "D",
+          "text": "March",
+          "html": "<p>March</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>A month will have 5 Thursdays if it has 31 days and starts on Thursday.</p><p>• January has 31 days, </p><p>1 January 1925 </p><p>Formula<br/>Day = (Date + Month Code + Century Code + Last two digits of year + Last two digits of year / 4) mod 7</p><p>= (1 + 0 + 0 + 25 + 6) mod 7</p><p>= 32 mod 7 = 4 (Thursday)</p><p>So the Thursdays are 1, 8, 15, 22, 29.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q13",
+      "number": 13,
+      "question": "In a certain code language, ‘DOG’ is coded as 19 and ‘FISH’ is coded as 35. How will ‘WATER’ be coded in that code language?",
+      "questionHtml": "<p>In a certain code language, ‘DOG’ is coded as 19 and ‘FISH’ is coded as 35. How will ‘WATER’ be coded in that code language?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "67",
+          "html": "<p>67</p>"
+        },
+        {
+          "id": "B",
+          "text": "66",
+          "html": "<p>66</p>"
+        },
+        {
+          "id": "C",
+          "text": "60",
+          "html": "<p>60</p>"
+        },
+        {
+          "id": "D",
+          "text": "65",
+          "html": "<p>65</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Code = (Sum of alphabet positions) – 7</p><p>DOG → (4 + 15 + 7) = 26 → 26 − 7 = 19<br/>FISH → (6 + 9 + 19 + 8) = 42 → 42 − 7 = 35</p><p>WATER →<br/>23 + 1 + 20 + 5 + 18 = 67</p><p>67 − 7 = 60</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q14",
+      "number": 14,
+      "question": "Which of the following addresses are identical to each other? 1. Rohan Sharma B-204, Sunrise Apartments, Jaipur, 302001 2. Rohan Sharma B-204, Sunrise Apartment, Jaipur, 302001 3. Rohan S. B-204, Sunrise Apartment, Jaipur, 302001 4. Rohan Sharma B-204, Sunrise Apartment, Jaipur, 302001",
+      "questionHtml": "<p>Which of the following addresses are identical to each other?<br/>1. Rohan Sharma B-204, Sunrise Apartments, Jaipur, 302001<br/>2. Rohan Sharma B-204, Sunrise Apartment, Jaipur, 302001<br/>3. Rohan S. B-204, Sunrise Apartment, Jaipur, 302001<br/>4. Rohan Sharma B-204, Sunrise Apartment, Jaipur, 302001</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 and 2",
+          "html": "<p>1 and 2</p>"
+        },
+        {
+          "id": "B",
+          "text": "1 and 3",
+          "html": "<p>1 and 3</p>"
+        },
+        {
+          "id": "C",
+          "text": "2 and 4",
+          "html": "<p>2 and 4</p>"
+        },
+        {
+          "id": "D",
+          "text": "3 and 4",
+          "html": "<p>3 and 4</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Solution:</p><p>• Address 1 has “Apartments” (plural), so it is different.<br/>• Address 3 has “Rohan S.” instead of “Rohan Sharma”, so it is different.<br/>• Address 2 and 4 have exactly the same name, flat number, building name, city, and PIN code.</p><p>Therefore, the identical addresses are 2 and 4.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q15",
+      "number": 15,
+      "question": "Each of the letters in the word MARKET is arranged in alphabetical order. How many letters are there in the English alphabetical series between the letter that is second from the left end and the one that is fourth from the right end in the new letter-cluster thus formed?",
+      "questionHtml": "<p>Each of the letters in the word MARKET is arranged in alphabetical order. How many letters are there in the English alphabetical series between the letter that is second from the left end and the one that is fourth from the right end in the new letter-cluster thus formed?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "<p>5</p>"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "<p>4</p>"
+        },
+        {
+          "id": "C",
+          "text": "7",
+          "html": "<p>7</p>"
+        },
+        {
+          "id": "D",
+          "text": "8",
+          "html": "<p>8</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Explanation:</p><p>• Arrange letters of MARKET in alphabetical order → AEKMRT<br/>• Second from left = E<br/>• Fourth from right = K<br/>• Letters between E and K → F, G, H, I, J</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q16",
+      "number": 16,
+      "question": "In the following question, select the related word from the given alternatives. Joule : Energy :: Hertz : ?",
+      "questionHtml": "<p>In the following question, select the related word from the given alternatives.</p><p>Joule : Energy :: Hertz : ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frequency",
+          "html": "<p>Frequency</p>"
+        },
+        {
+          "id": "B",
+          "text": "Velocity",
+          "html": "<p>Velocity</p>"
+        },
+        {
+          "id": "C",
+          "text": "Pressure",
+          "html": "<p>Pressure</p>"
+        },
+        {
+          "id": "D",
+          "text": "Force",
+          "html": "<p>Force</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Explanation:<br/>Joule is the unit of Energy. In the same way, Hertz is the unit of Frequency. Therefore, the correct related word is Frequency.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q17",
+      "number": 17,
+      "question": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. B E H, E H K, H K N, K N Q, ?",
+      "questionHtml": "<p>Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.</p><p>B E H, E H K, H K N, K N Q, ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "N Q T",
+          "html": "<p>N Q T</p>"
+        },
+        {
+          "id": "B",
+          "text": "O R U",
+          "html": "<p>O R U</p>"
+        },
+        {
+          "id": "C",
+          "text": "Q T W",
+          "html": "<p>Q T W</p>"
+        },
+        {
+          "id": "D",
+          "text": "P S V",
+          "html": "<p>P S V</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Explanation:</p><p>Each letter increases by +3 positions in the alphabet.<br/>B → E → H → K → N<br/>E → H → K → N → Q<br/>H → K → N → Q → T</p><p>Therefore, the next term is N Q T.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q18",
+      "number": 18,
+      "question": "What comes next: 4, 14, 8, 18, 12, 22, 16, ?",
+      "questionHtml": "<p>What comes next: </p><p>4, 14, 8, 18, 12, 22, 16, ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20",
+          "html": "<p>20</p>"
+        },
+        {
+          "id": "B",
+          "text": "24",
+          "html": "<p>24</p>"
+        },
+        {
+          "id": "C",
+          "text": "26",
+          "html": "<p>26</p>"
+        },
+        {
+          "id": "D",
+          "text": "28",
+          "html": "<p>28</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Explanation:</p><p>The series follows two alternating patterns.</p><p>First sequence: 4, 8, 12, 16 → +4<br/>Second sequence: 14, 18, 22, ? → +4</p><p>Therefore, 22 + 4 = 26.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q19",
+      "number": 19,
+      "question": "Which of the following is the odd one out?",
+      "questionHtml": "<p>Which of the following is the odd one out?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 5, 7",
+          "html": "<p>3, 5, 7</p>"
+        },
+        {
+          "id": "B",
+          "text": "5, 7, 11",
+          "html": "<p>5, 7, 11</p>"
+        },
+        {
+          "id": "C",
+          "text": "11, 13, 17",
+          "html": "<p>11, 13, 17</p>"
+        },
+        {
+          "id": "D",
+          "text": "13, 17, 21",
+          "html": "<p>13, 17, 21</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q20",
+      "number": 20,
+      "question": "Pointing to a woman, David says, “She is the daughter of my father’s only sister.” How is the woman related to David?",
+      "questionHtml": "<p>Pointing to a woman, David says, “She is the daughter of my father’s only sister.” How is the woman related to David?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sister",
+          "html": "<p>Sister</p>"
+        },
+        {
+          "id": "B",
+          "text": "Cousin",
+          "html": "<p>Cousin</p>"
+        },
+        {
+          "id": "C",
+          "text": "Aunt",
+          "html": "<p>Aunt</p>"
+        },
+        {
+          "id": "D",
+          "text": "Niece",
+          "html": "<p>Niece</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Explanation:<br/>Father’s only sister = David’s aunt<br/>Aunt’s daughter = Cousin</p><p>So, the woman is David’s Cousin.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q21",
+      "number": 21,
+      "question": "If # = ×, @ = −, $ = +, then evaluate: 48 # 7 @ 36 $ 15",
+      "questionHtml": "<p>If # = ×, @ = −, $ = +, then evaluate: 48 # 7 @ 36 $ 15</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "315",
+          "html": "<p>315</p>"
+        },
+        {
+          "id": "B",
+          "text": "321",
+          "html": "<p>321</p>"
+        },
+        {
+          "id": "C",
+          "text": "327",
+          "html": "<p>327</p>"
+        },
+        {
+          "id": "D",
+          "text": "333",
+          "html": "<p>333</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Explanation:<br/>Replace the symbols:</p><p>48 × 7 − 36 + 15</p><p>= 336 − 36 + 15<br/>= 300 + 15<br/>= 315</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q22",
+      "number": 22,
+      "question": "Read the following statement carefully and identify the conclusion that follows. Statement: Many students in the city depend on online classes for their exam preparation. Conclusions: I. The city may not have sufficient offline coaching facilities. II. If internet services fail, students’ preparation may be affected.",
+      "questionHtml": "<p>Read the following statement carefully and identify the conclusion that follows.</p><p>Statement:<br/>Many students in the city depend on online classes for their exam preparation.</p><p>Conclusions:<br/>I. The city may not have sufficient offline coaching facilities.<br/>II. If internet services fail, students’ preparation may be affected.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only Conclusion I follows",
+          "html": "<p>Only Conclusion I follows</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only Conclusion II follows",
+          "html": "<p>Only Conclusion II follows</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both I and II follow",
+          "html": "<p>Both I and II follow</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither I nor II follows",
+          "html": "<p>Neither I nor II follows</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q23",
+      "number": 23,
+      "question": "Instruction: Identify the assumptions that must hold for the statement to be valid, then choose the correct option. Statement: The rapid growth of online education platforms has made learning accessible to students in remote areas, yet limited internet connectivity still restricts many learners from fully benefiting from these resources. Assumptions: I. Online education platforms can provide useful learning opportunities. II. Internet connectivity is necessary to access online education platforms. III. Students in remote areas always prefer online education over traditional learning.",
+      "questionHtml": "<p>Instruction: Identify the assumptions that must hold for the statement to be valid, then choose the correct option.</p><p>Statement:<br/>The rapid growth of online education platforms has made learning accessible to students in remote areas, yet limited internet connectivity still restricts many learners from fully benefiting from these resources.</p><p>Assumptions:<br/>I. Online education platforms can provide useful learning opportunities.<br/>II. Internet connectivity is necessary to access online education platforms.<br/>III. Students in remote areas always prefer online education over traditional learning.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only I and II are implicit",
+          "html": "<p>Only I and II are implicit</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only II and III are implicit",
+          "html": "<p>Only II and III are implicit</p>"
+        },
+        {
+          "id": "C",
+          "text": "Only I is implicit",
+          "html": "<p>Only I is implicit</p>"
+        },
+        {
+          "id": "D",
+          "text": "All assumptions are implicit",
+          "html": "<p>All assumptions are implicit</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q24",
+      "number": 24,
+      "question": "How many meaningful four-letter English words can be formed using the first, second, third, and sixth letters of the word “MASTER” (when counted from left to right), using each letter only once in each word?",
+      "questionHtml": "<p>How many meaningful four-letter English words can be formed using the first, second, third, and sixth letters of the word “MASTER” (when counted from left to right), using each letter only once in each word?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "One",
+          "html": "<p>One</p>"
+        },
+        {
+          "id": "B",
+          "text": "Two",
+          "html": "<p>Two</p>"
+        },
+        {
+          "id": "C",
+          "text": "Three",
+          "html": "<p>Three</p>"
+        },
+        {
+          "id": "D",
+          "text": "Four",
+          "html": "<p>Four</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Explanation:</p><p>Meaningful words:</p><p>Therefore, total meaningful words = 3.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q25",
+      "number": 25,
+      "question": "In a row of 60 students, Student P is 18th from the left and Student Q is 25th from the right. How many students are there between them?",
+      "questionHtml": "<p>In a row of 60 students, Student P is 18th from the left and Student Q is 25th from the right. How many students are there between them?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "16",
+          "html": "<p>16</p>"
+        },
+        {
+          "id": "B",
+          "text": "17",
+          "html": "<p>17</p>"
+        },
+        {
+          "id": "C",
+          "text": "18",
+          "html": "<p>18</p>"
+        },
+        {
+          "id": "D",
+          "text": "19",
+          "html": "<p>19</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Explanation:</p><p>Answer: 17 students</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q26",
+      "number": 26,
+      "question": "Which of the following Revolutionary organizations is correctly matched with its founder?",
+      "questionHtml": "<p>Which of the following Revolutionary organizations is correctly matched with its founder?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indian Home Rule Society — Bhagat Singh",
+          "html": "<p>Indian Home Rule Society — Bhagat Singh</p>"
+        },
+        {
+          "id": "B",
+          "text": "Ghadar Party — V.D. Savarkar",
+          "html": "<p>Ghadar Party — V.D. Savarkar</p>"
+        },
+        {
+          "id": "C",
+          "text": "Abhinav Bharat — Lala Hardayal",
+          "html": "<p>Abhinav Bharat — Lala Hardayal</p>"
+        },
+        {
+          "id": "D",
+          "text": "Anushilan Samiti — Barindra Kumar Ghosh",
+          "html": "<p>Anushilan Samiti — Barindra Kumar Ghosh</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Answer: (d) Anushilan Samiti — Barindra Kumar Ghosh</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q27",
+      "number": 27,
+      "question": "Kopili is a tributary of which River?",
+      "questionHtml": "<p>Kopili is a tributary of which River?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ganga",
+          "html": "<p>Ganga</p>"
+        },
+        {
+          "id": "B",
+          "text": "Kaveri",
+          "html": "<p>Kaveri</p>"
+        },
+        {
+          "id": "C",
+          "text": "Brahmaputra",
+          "html": "<p>Brahmaputra</p>"
+        },
+        {
+          "id": "D",
+          "text": "Narmada",
+          "html": "<p>Narmada</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Answer<br/>The correct option is: Brahmaputra.</p><p>Explanation</p><p>Kopili is a major left-bank tributary of the Brahmaputra River, originating in Meghalaya's Borail Range and flowing through Assam before joining at Kopilimukh in Nagaon district.<br/>It spans about 290 km, serving as Assam's largest south bank tributary of the Brahmaputra, with significance in hydropower and recent inland waterway development.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q28",
+      "number": 28,
+      "question": "Which of the following is an 'Amphoteric Oxide'?",
+      "questionHtml": "<p>Which of the following is an 'Amphoteric Oxide'?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "CO2",
+          "html": "<p>CO2</p>"
+        },
+        {
+          "id": "B",
+          "text": "Al2O3",
+          "html": "<p>Al2O3</p>"
+        },
+        {
+          "id": "C",
+          "text": "Na2O",
+          "html": "<p>Na2O</p>"
+        },
+        {
+          "id": "D",
+          "text": "MgO",
+          "html": "<p>MgO</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Answer: (b) Al₂O₃</p><p>Explanation:<br/>An amphoteric oxide is one that can react with both acids and bases.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q29",
+      "number": 29,
+      "question": "Under the 'PM Vishwakarma Scheme', how many traditional trades are initially covered?",
+      "questionHtml": "<p>Under the 'PM Vishwakarma Scheme', how many traditional trades are initially covered?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "html": "<p>12</p>"
+        },
+        {
+          "id": "B",
+          "text": "15",
+          "html": "<p>15</p>"
+        },
+        {
+          "id": "C",
+          "text": "18",
+          "html": "<p>18</p>"
+        },
+        {
+          "id": "D",
+          "text": "21",
+          "html": "<p>21</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Answer<br/>The correct option is: 18.</p><p>Explanation</p><p>The PM Vishwakarma Scheme, launched in September 2023, initially covers 18 traditional trades to support artisans in the unorganized sector through skill training, credit, and market linkages.​<br/>These include carpenter, blacksmith, goldsmith, potter, tailor, barber, and others like boat maker, locksmith, and garland maker, with the list expandable by the National Steering Committee.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q30",
+      "number": 30,
+      "question": "Who is credited with the creation of the 'Sufiana Kalam' style of music in Kashmir?",
+      "questionHtml": "<p>Who is credited with the creation of the 'Sufiana Kalam' style of music in Kashmir?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amir Khusrau",
+          "html": "<p>Amir Khusrau </p>"
+        },
+        {
+          "id": "B",
+          "text": "Zain-ul-Abidin",
+          "html": "<p>Zain-ul-Abidin </p>"
+        },
+        {
+          "id": "C",
+          "text": "Lal Ded",
+          "html": "<p>Lal Ded</p>"
+        },
+        {
+          "id": "D",
+          "text": "Habba Khatoon",
+          "html": "<p>Habba Khatoon </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Answer: (b) Zain-ul-Abidin</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q31",
+      "number": 31,
+      "question": "Who among the following is the Chairman of the 'National Development Council' (NDC)?",
+      "questionHtml": "<p>Who among the following is the Chairman of the 'National Development Council' (NDC)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The President",
+          "html": "<p>The President</p>"
+        },
+        {
+          "id": "B",
+          "text": "The Cabinet Secretary",
+          "html": "<p>The Cabinet Secretary</p>"
+        },
+        {
+          "id": "C",
+          "text": "The Prime Minister",
+          "html": "<p>The Prime Minister</p>"
+        },
+        {
+          "id": "D",
+          "text": "The Home Minister",
+          "html": "<p>The Home Minister</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Answer: (c) The Prime Minister</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q32",
+      "number": 32,
+      "question": "'Disguised Unemployment' is a characteristic feature of which sector in India?",
+      "questionHtml": "<p>'Disguised Unemployment' is a characteristic feature of which sector in India?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Industrial Sector",
+          "html": "<p>Industrial Sector</p>"
+        },
+        {
+          "id": "B",
+          "text": "Service Sector",
+          "html": "<p>Service Sector</p>"
+        },
+        {
+          "id": "C",
+          "text": "IT Sector",
+          "html": "<p>IT Sector</p>"
+        },
+        {
+          "id": "D",
+          "text": "Agricultural Sector",
+          "html": "<p>Agricultural Sector</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Answer: (d) Agricultural Sector</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q33",
+      "number": 33,
+      "question": "Who among the following was known as the 'Liberator of the Indian Press'?",
+      "questionHtml": "<p>Who among the following was known as the 'Liberator of the Indian Press'?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lord Macaulay",
+          "html": "<p>Lord Macaulay</p>"
+        },
+        {
+          "id": "B",
+          "text": "Lord Bentinck",
+          "html": "<p>Lord Bentinck</p>"
+        },
+        {
+          "id": "C",
+          "text": "Lord Metcalfe",
+          "html": "<p>Lord Metcalfe</p>"
+        },
+        {
+          "id": "D",
+          "text": "Lord Ripon",
+          "html": "<p>Lord Ripon</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Answer: (c) Lord Metcalfe</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q34",
+      "number": 34,
+      "question": "The 'Comptroller and Auditor General' (CAG) of India holds office for a term of:",
+      "questionHtml": "<p>The 'Comptroller and Auditor General' (CAG) of India holds office for a term of:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 years or 62 years of age",
+          "html": "<p>5 years or 62 years of age</p>"
+        },
+        {
+          "id": "B",
+          "text": "6 years or 62 years of age",
+          "html": "<p>6 years or 62 years of age</p>"
+        },
+        {
+          "id": "C",
+          "text": "5 years or 65 years of age",
+          "html": "<p>5 years or 65 years of age</p>"
+        },
+        {
+          "id": "D",
+          "text": "6 years or 65 years of age",
+          "html": "<p>6 years or 65 years of age</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Answer: (d) 6 years or 65 years of age</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q35",
+      "number": 35,
+      "question": "'Pannalal Ghosh' was a legendary pioneer in bringing which instrument to the classical stage?",
+      "questionHtml": "<p>'Pannalal Ghosh' was a legendary pioneer in bringing which instrument to the classical stage?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sarod",
+          "html": "<p>Sarod</p>"
+        },
+        {
+          "id": "B",
+          "text": "Shehnai",
+          "html": "<p>Shehnai</p>"
+        },
+        {
+          "id": "C",
+          "text": "Violin",
+          "html": "<p>Violin</p>"
+        },
+        {
+          "id": "D",
+          "text": "Flute",
+          "html": "<p>Flute</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Answer: (d) Flute</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q36",
+      "number": 36,
+      "question": "In September 2025, the 'Indus Water Treaty' was in the news due to India's notice to Pakistan to review the treaty. The treaty was originally signed in 1960 and mediated by:",
+      "questionHtml": "<p>In September 2025, the 'Indus Water Treaty' was in the news due to India's notice to Pakistan to review the treaty. The treaty was originally signed in 1960 and mediated by:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "USA",
+          "html": "<p>USA</p>"
+        },
+        {
+          "id": "B",
+          "text": "World Bank",
+          "html": "<p>World Bank</p>"
+        },
+        {
+          "id": "C",
+          "text": "USSR",
+          "html": "<p>USSR</p>"
+        },
+        {
+          "id": "D",
+          "text": "United Nations (UN)",
+          "html": "<p>United Nations (UN)</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Answer: (b) World Bank</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q37",
+      "number": 37,
+      "question": "The 'Bhartiya Nyaya Sanhita' (BNS), which replaced the IPC, includes a specific new provision for which of the following?",
+      "questionHtml": "<p>The 'Bhartiya Nyaya Sanhita' (BNS), which replaced the IPC, includes a specific new provision for which of the following? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mob lynching as a specific offense.",
+          "html": "<p>Mob lynching as a specific offense.</p>"
+        },
+        {
+          "id": "B",
+          "text": "Adultery as a criminal offense.",
+          "html": "<p>Adultery as a criminal offense.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Criminalization of strikes by doctors.",
+          "html": "<p>Criminalization of strikes by doctors.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Total abolition of the death penalty.",
+          "html": "<p>Total abolition of the death penalty.</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>✅ Correct Answer: Mob lynching as a specific offense.</p><p>Explanation of Options:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q38",
+      "number": 38,
+      "question": "'Baguio' is the name of a tropical cyclone in which region?",
+      "questionHtml": "<p>'Baguio' is the name of a tropical cyclone in which region?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Laos",
+          "html": "<p>Laos</p>"
+        },
+        {
+          "id": "B",
+          "text": "Philippines",
+          "html": "<p>Philippines</p>"
+        },
+        {
+          "id": "C",
+          "text": "Cambodia",
+          "html": "<p>Cambodia</p>"
+        },
+        {
+          "id": "D",
+          "text": "Vietnam",
+          "html": "<p>Vietnam</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Answer: (b) Philippines</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q39",
+      "number": 39,
+      "question": "Who was the founder of the 'Socio-Religious' organization 'Dev Samaj' (1887) in Lahore?",
+      "questionHtml": "<p>Who was the founder of the 'Socio-Religious' organization 'Dev Samaj' (1887) in Lahore?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Swami Dayanand Saraswati",
+          "html": "<p>Swami Dayanand Saraswati</p>"
+        },
+        {
+          "id": "B",
+          "text": "Keshab Chandra Sen",
+          "html": "<p>Keshab Chandra Sen </p>"
+        },
+        {
+          "id": "C",
+          "text": "Shiv Narain Agnihotri",
+          "html": "<p>Shiv Narain Agnihotri</p>"
+        },
+        {
+          "id": "D",
+          "text": "Debendranath Tagore",
+          "html": "<p>Debendranath Tagore</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Answer: (c) Shiv Narain Agnihotri</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q40",
+      "number": 40,
+      "question": "The 'Decibel' is the unit used to measure the intensity of:",
+      "questionHtml": "<p>The 'Decibel' is the unit used to measure the intensity of:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Light",
+          "html": "<p>Light</p>"
+        },
+        {
+          "id": "B",
+          "text": "Heat",
+          "html": "<p>Heat</p>"
+        },
+        {
+          "id": "C",
+          "text": "Magnetic Flux",
+          "html": "<p>Magnetic Flux</p>"
+        },
+        {
+          "id": "D",
+          "text": "Sound",
+          "html": "<p>Sound</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q41",
+      "number": 41,
+      "question": "The 'Siddhanta Shiromani', a famous treatise on Astronomy and Mathematics, was written by:",
+      "questionHtml": "<p>The 'Siddhanta Shiromani', a famous treatise on Astronomy and Mathematics, was written by:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Brahmagupta",
+          "html": "<p>Brahmagupta </p>"
+        },
+        {
+          "id": "B",
+          "text": "Aryabhata",
+          "html": "<p>Aryabhata</p>"
+        },
+        {
+          "id": "C",
+          "text": "Bhaskaracharya II",
+          "html": "<p>Bhaskaracharya II </p>"
+        },
+        {
+          "id": "D",
+          "text": "Varahamihira",
+          "html": "<p>Varahamihira</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Answer: (c) Bhaskaracharya II</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q42",
+      "number": 42,
+      "question": "Which of the following are 'Warm-Blooded' (Homeothermic) animals?",
+      "questionHtml": "<p>Which of the following are 'Warm-Blooded' (Homeothermic) animals?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Amphibians",
+          "html": "<p>Amphibians </p>"
+        },
+        {
+          "id": "B",
+          "text": "Fishes",
+          "html": "<p>Fishes</p>"
+        },
+        {
+          "id": "C",
+          "text": "Reptiles",
+          "html": "<p>Reptiles</p>"
+        },
+        {
+          "id": "D",
+          "text": "Birds",
+          "html": "<p>Birds</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Answer: (d) Birds</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q43",
+      "number": 43,
+      "question": "Match the 'Thermal Power Plants' with their States: (a) Korba — (1) Odisha (b) Mundra — (2) Chhattisgarh (c) Talcher — (3) Gujarat",
+      "questionHtml": "<p>Match the 'Thermal Power Plants' with their States: </p><p>(a) Korba — (1) Odisha</p><p>(b) Mundra — (2) Chhattisgarh </p><p>(c) Talcher — (3) Gujarat </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "a-3, b-2, c-1",
+          "html": "<p>a-3, b-2, c-1</p>"
+        },
+        {
+          "id": "B",
+          "text": "a-2, b-3, c-1",
+          "html": "<p>a-2, b-3, c-1</p>"
+        },
+        {
+          "id": "C",
+          "text": "a-2, b-1, c-3",
+          "html": "<p>a-2, b-1, c-3</p>"
+        },
+        {
+          "id": "D",
+          "text": "a-1, b-3, c-2",
+          "html": "<p>a-1, b-3, c-2</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Answer: (b) a-2, b-3, c-1</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q44",
+      "number": 44,
+      "question": "Which of the following bodies is a 'non-constitutional' but 'statutory' body?",
+      "questionHtml": "<p>Which of the following bodies is a 'non-constitutional' but 'statutory' body?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Finance Commission",
+          "html": "<p>Finance Commission</p>"
+        },
+        {
+          "id": "B",
+          "text": "UPSC",
+          "html": "<p>UPSC</p>"
+        },
+        {
+          "id": "C",
+          "text": "NHRC",
+          "html": "<p>NHRC</p>"
+        },
+        {
+          "id": "D",
+          "text": "Election Commission",
+          "html": "<p>Election Commission</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Answer: (c) NHRC</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q45",
+      "number": 45,
+      "question": "Which soil is most suitable for 'Tea' and 'Coffee' plantation?",
+      "questionHtml": "<p>Which soil is most suitable for 'Tea' and 'Coffee' plantation?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Black Soil",
+          "html": "<p>Black Soil</p>"
+        },
+        {
+          "id": "B",
+          "text": "Laterite Soil",
+          "html": "<p>Laterite Soil</p>"
+        },
+        {
+          "id": "C",
+          "text": "Alluvial Soil",
+          "html": "<p>Alluvial Soil</p>"
+        },
+        {
+          "id": "D",
+          "text": "Arid Soil",
+          "html": "<p>Arid Soil</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Answer: (b) Laterite Soil</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q46",
+      "number": 46,
+      "question": "The 'Bagh Caves' of Madhya Pradesh are primarily associated with?",
+      "questionHtml": "<p>The 'Bagh Caves' of Madhya Pradesh are primarily associated with?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Buddhism",
+          "html": "<p>Buddhism</p>"
+        },
+        {
+          "id": "B",
+          "text": "Jainism",
+          "html": "<p>Jainism</p>"
+        },
+        {
+          "id": "C",
+          "text": "Shaivism",
+          "html": "<p>Shaivism</p>"
+        },
+        {
+          "id": "D",
+          "text": "Vaishnavism",
+          "html": "<p>Vaishnavism</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Answer<br/>The correct option is: Buddhism.</p><p>Explanation</p><p>The Bagh Caves in Madhya Pradesh's Dhar district are a group of nine rock-cut viharas (Buddhist monasteries) from the 5th-6th century CE, featuring Buddha sculptures, Bodhisattvas, and murals similar to Ajanta.<br/>They served as resting places and prayer halls for Buddhist monks during the Gupta period, with only five caves surviving today.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q47",
+      "number": 47,
+      "question": "With reference to government programmes in India, which among the following statements is/are correct? 1- PM-KISAN provides income support to all landholding farmer families. 2- PM-UDAY scheme is related to affordable housing in rural areas.",
+      "questionHtml": "<p>With reference to government programmes in India, which among the following statements is/are correct?</p><p>1- PM-KISAN provides income support to all landholding farmer families.</p><p>2- PM-UDAY scheme is related to affordable housing in rural areas.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 only",
+          "html": "<p>1 only</p>"
+        },
+        {
+          "id": "B",
+          "text": "2 only",
+          "html": "<p>2 only</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both 1 & 2",
+          "html": "<p>Both 1 &amp; 2</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 & 2",
+          "html": "<p>Neither 1 &amp; 2</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Answer: (a) 1 only</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q48",
+      "number": 48,
+      "question": "'Emphysema' is a chronic disease that primarily affects which organ?",
+      "questionHtml": "<p>'Emphysema' is a chronic disease that primarily affects which organ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Liver",
+          "html": "<p>Liver</p>"
+        },
+        {
+          "id": "B",
+          "text": "Kidneys",
+          "html": "<p>Kidneys</p>"
+        },
+        {
+          "id": "C",
+          "text": "Heart",
+          "html": "<p>Heart</p>"
+        },
+        {
+          "id": "D",
+          "text": "Lungs",
+          "html": "<p>Lungs</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Answer: (d) Lungs</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q49",
+      "number": 49,
+      "question": "Gambhira folk dance is primarily associated with which Indian State?",
+      "questionHtml": "<p>Gambhira folk dance is primarily associated with which Indian State?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bihar",
+          "html": "<p>Bihar</p>"
+        },
+        {
+          "id": "B",
+          "text": "West Bengal",
+          "html": "<p>West Bengal</p>"
+        },
+        {
+          "id": "C",
+          "text": "Uttar Pradesh",
+          "html": "<p>Uttar Pradesh</p>"
+        },
+        {
+          "id": "D",
+          "text": "Odisha",
+          "html": "<p>Odisha</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Answer: (b) West Bengal</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q50",
+      "number": 50,
+      "question": "The process by which water is lost from the leaves in the form of droplets is called:",
+      "questionHtml": "<p>The process by which water is lost from the leaves in the form of droplets is called:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Evaporation",
+          "html": "<p>Evaporation</p>"
+        },
+        {
+          "id": "B",
+          "text": "Transcription",
+          "html": "<p>Transcription</p>"
+        },
+        {
+          "id": "C",
+          "text": "Guttation",
+          "html": "<p>Guttation</p>"
+        },
+        {
+          "id": "D",
+          "text": "Transpiration",
+          "html": "<p>Transpiration</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Answer: (c) Guttation</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q51",
+      "number": 51,
+      "question": "Read the following passage carefully and answer the given questions: A republican government is defined primarily by the principle that the state is a \"public matter,\" not the private concern or property of the rulers. In the United States, this manifests as a system where power is held by the people and their elected representatives. Unlike a direct democracy, where citizens vote on all laws, a republic utilizes a body of representatives to govern according to the rule of law. The primary objective is to protect individual rights from the potential \"tyranny of the majority,\" ensuring that even a minority’s voice is upheld through constitutional guarantees. The structural integrity of the American republic relies on a tripartite system of checks and balances. The executive, legislative, and judicial branches operate independently yet are interdependent, preventing any single entity from gaining absolute authority. This constitutional framework requires representatives to be elected for definitive terms, making them accountable to the electorate. By distributing power across these federal levels and maintaining a rigid constitution, the republican form of government seeks to balance efficient governance with the preservation of civil liberty and political stability. Q- According to the passage, what is the primary distinction between a direct democracy and a republic?",
+      "questionHtml": "<p>Read the following passage carefully and answer the given questions:</p><p>A republican government is defined primarily by the principle that the state is a \"public matter,\" not the private concern or property of the rulers. In the United States, this manifests as a system where power is held by the people and their elected representatives. Unlike a direct democracy, where citizens vote on all laws, a republic utilizes a body of representatives to govern according to the rule of law. The primary objective is to protect individual rights from the potential \"tyranny of the majority,\" ensuring that even a minority’s voice is upheld through constitutional guarantees.</p><p>The structural integrity of the American republic relies on a tripartite system of checks and balances. The executive, legislative, and judicial branches operate independently yet are interdependent, preventing any single entity from gaining absolute authority. This constitutional framework requires representatives to be elected for definitive terms, making them accountable to the electorate. By distributing power across these federal levels and maintaining a rigid constitution, the republican form of government seeks to balance efficient governance with the preservation of civil liberty and political stability.</p><p>Q- According to the passage, what is the primary distinction between a direct democracy and a republic?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The former lacks any form of electoral process for its leaders.",
+          "html": "<p>The former lacks any form of electoral process for its leaders.</p>"
+        },
+        {
+          "id": "B",
+          "text": "The latter relies on representatives rather than direct voting.",
+          "html": "<p>The latter relies on representatives rather than direct voting.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The former focuses solely on the protection of individual rights.",
+          "html": "<p>The former focuses solely on the protection of individual rights.</p>"
+        },
+        {
+          "id": "D",
+          "text": "The latter does not follow a strict set of constitutional rules.",
+          "html": "<p>The latter does not follow a strict set of constitutional rules.</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Answer: (b) The latter relies on representatives rather than direct voting.</p><p>Explanation:<br/>The passage clearly states that a direct democracy allows citizens to vote on all laws directly, whereas a republic uses elected representatives who make decisions and govern according to the rule of law. Therefore, the key distinction is that a republic functions through representatives rather than direct voting by citizens on every law.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q52",
+      "number": 52,
+      "question": "Read the following passage carefully and answer the given questions: A republican government is defined primarily by the principle that the state is a \"public matter,\" not the private concern or property of the rulers. In the United States, this manifests as a system where power is held by the people and their elected representatives. Unlike a direct democracy, where citizens vote on all laws, a republic utilizes a body of representatives to govern according to the rule of law. The primary objective is to protect individual rights from the potential \"tyranny of the majority,\" ensuring that even a minority’s voice is upheld through constitutional guarantees. The structural integrity of the American republic relies on a tripartite system of checks and balances. The executive, legislative, and judicial branches operate independently yet are interdependent, preventing any single entity from gaining absolute authority. This constitutional framework requires representatives to be elected for definitive terms, making them accountable to the electorate. By distributing power across these federal levels and maintaining a rigid constitution, the republican form of government seeks to balance efficient governance with the preservation of civil liberty and political stability. Q- What is the main purpose of the \"checks and balances\" mentioned in the second stanza?",
+      "questionHtml": "<p>Read the following passage carefully and answer the given questions:</p><p>A republican government is defined primarily by the principle that the state is a \"public matter,\" not the private concern or property of the rulers. In the United States, this manifests as a system where power is held by the people and their elected representatives. Unlike a direct democracy, where citizens vote on all laws, a republic utilizes a body of representatives to govern according to the rule of law. The primary objective is to protect individual rights from the potential \"tyranny of the majority,\" ensuring that even a minority’s voice is upheld through constitutional guarantees.</p><p>The structural integrity of the American republic relies on a tripartite system of checks and balances. The executive, legislative, and judicial branches operate independently yet are interdependent, preventing any single entity from gaining absolute authority. This constitutional framework requires representatives to be elected for definitive terms, making them accountable to the electorate. By distributing power across these federal levels and maintaining a rigid constitution, the republican form of government seeks to balance efficient governance with the preservation of civil liberty and political stability.</p><p>Q- What is the main purpose of the \"checks and balances\" mentioned in the second stanza?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "To ensure the executive branch remains the most powerful entity.",
+          "html": "<p>To ensure the executive branch remains the most powerful entity.</p>"
+        },
+        {
+          "id": "B",
+          "text": "To allow the people to vote on every legislative act directly.",
+          "html": "<p>To allow the people to vote on every legislative act directly.</p>"
+        },
+        {
+          "id": "C",
+          "text": "To shorten the definitive terms served by elected individuals.",
+          "html": "<p>To shorten the definitive terms served by elected individuals.</p>"
+        },
+        {
+          "id": "D",
+          "text": "To prevent the concentration of absolute power in one branch.",
+          "html": "<p>To prevent the concentration of absolute power in one branch.</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Answer: (d) To prevent the concentration of absolute power in one branch.</p><p>Explanation:<br/>The passage explains that the executive, legislative, and judicial branches operate independently yet are interdependent through a system of checks and balances. This arrangement ensures that no single branch gains complete authority, thereby maintaining balance within the government. Hence, the primary purpose of checks and balances is to prevent the concentration of absolute power in any one branch of government.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q53",
+      "number": 53,
+      "question": "Read the following passage carefully and answer the given questions: A republican government is defined primarily by the principle that the state is a \"public matter,\" not the private concern or property of the rulers. In the United States, this manifests as a system where power is held by the people and their elected representatives. Unlike a direct democracy, where citizens vote on all laws, a republic utilizes a body of representatives to govern according to the rule of law. The primary objective is to protect individual rights from the potential \"tyranny of the majority,\" ensuring that even a minority’s voice is upheld through constitutional guarantees. The structural integrity of the American republic relies on a tripartite system of checks and balances. The executive, legislative, and judicial branches operate independently yet are interdependent, preventing any single entity from gaining absolute authority. This constitutional framework requires representatives to be elected for definitive terms, making them accountable to the electorate. By distributing power across these federal levels and maintaining a rigid constitution, the republican form of government seeks to balance efficient governance with the preservation of civil liberty and political stability. Q- The phrase \"public matter\" in the first stanza implies that:",
+      "questionHtml": "<p>Read the following passage carefully and answer the given questions:</p><p>A republican government is defined primarily by the principle that the state is a \"public matter,\" not the private concern or property of the rulers. In the United States, this manifests as a system where power is held by the people and their elected representatives. Unlike a direct democracy, where citizens vote on all laws, a republic utilizes a body of representatives to govern according to the rule of law. The primary objective is to protect individual rights from the potential \"tyranny of the majority,\" ensuring that even a minority’s voice is upheld through constitutional guarantees.</p><p>The structural integrity of the American republic relies on a tripartite system of checks and balances. The executive, legislative, and judicial branches operate independently yet are interdependent, preventing any single entity from gaining absolute authority. This constitutional framework requires representatives to be elected for definitive terms, making them accountable to the electorate. By distributing power across these federal levels and maintaining a rigid constitution, the republican form of government seeks to balance efficient governance with the preservation of civil liberty and political stability.</p><p>Q- The phrase \"public matter\" in the first stanza implies that:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The state’s affairs belong to and serve the entire community.",
+          "html": "<p>The state’s affairs belong to and serve the entire community.</p>"
+        },
+        {
+          "id": "B",
+          "text": "The government is the private property of its elected officials.",
+          "html": "<p>The government is the private property of its elected officials.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The laws are only applicable to people in the public sector.",
+          "html": "<p>The laws are only applicable to people in the public sector.</p>"
+        },
+        {
+          "id": "D",
+          "text": "The government is not required to be accountable to anyone.",
+          "html": "<p>The government is not required to be accountable to anyone.</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Answer: (a) The state’s affairs belong to and serve the entire community.</p><p>Explanation:<br/>The passage defines a republican government as one where the state is a “public matter,” meaning it belongs to the people rather than being the private property of rulers. It further explains that power is held by the people and exercised through their elected representatives. Thus, the phrase indicates that government exists to serve the whole community and operates for the public interest.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q54",
+      "number": 54,
+      "question": "Read the following passage carefully and answer the given questions: A republican government is defined primarily by the principle that the state is a \"public matter,\" not the private concern or property of the rulers. In the United States, this manifests as a system where power is held by the people and their elected representatives. Unlike a direct democracy, where citizens vote on all laws, a republic utilizes a body of representatives to govern according to the rule of law. The primary objective is to protect individual rights from the potential \"tyranny of the majority,\" ensuring that even a minority’s voice is upheld through constitutional guarantees. The structural integrity of the American republic relies on a tripartite system of checks and balances. The executive, legislative, and judicial branches operate independently yet are interdependent, preventing any single entity from gaining absolute authority. This constitutional framework requires representatives to be elected for definitive terms, making them accountable to the electorate. By distributing power across these federal levels and maintaining a rigid constitution, the republican form of government seeks to balance efficient governance with the preservation of civil liberty and political stability. Q- Based on the passage, how does a republic protect minority voices?",
+      "questionHtml": "<p>Read the following passage carefully and answer the given questions:</p><p>A republican government is defined primarily by the principle that the state is a \"public matter,\" not the private concern or property of the rulers. In the United States, this manifests as a system where power is held by the people and their elected representatives. Unlike a direct democracy, where citizens vote on all laws, a republic utilizes a body of representatives to govern according to the rule of law. The primary objective is to protect individual rights from the potential \"tyranny of the majority,\" ensuring that even a minority’s voice is upheld through constitutional guarantees.</p><p>The structural integrity of the American republic relies on a tripartite system of checks and balances. The executive, legislative, and judicial branches operate independently yet are interdependent, preventing any single entity from gaining absolute authority. This constitutional framework requires representatives to be elected for definitive terms, making them accountable to the electorate. By distributing power across these federal levels and maintaining a rigid constitution, the republican form of government seeks to balance efficient governance with the preservation of civil liberty and political stability.</p><p>Q- Based on the passage, how does a republic protect minority voices?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "By allowing them to veto any law passed by the majority group.",
+          "html": "<p>By allowing them to veto any law passed by the majority group.</p>"
+        },
+        {
+          "id": "B",
+          "text": "By ensuring the government is the property of the ruling class.",
+          "html": "<p>By ensuring the government is the property of the ruling class.</p>"
+        },
+        {
+          "id": "C",
+          "text": "By utilizing constitutional guarantees to limit majority power.",
+          "html": "<p>By utilizing constitutional guarantees to limit majority power.</p>"
+        },
+        {
+          "id": "D",
+          "text": "By increasing the number of representatives in the legislature.",
+          "html": "<p>By increasing the number of representatives in the legislature.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Answer: (c) By utilizing constitutional guarantees to limit majority power.</p><p>Explanation:<br/>The passage states that a republic aims to protect individual rights from the “tyranny of the majority.” This is achieved through constitutional guarantees, which ensure that minority voices and rights are safeguarded even if the majority holds greater political power. Therefore, constitutional protections limit the ability of the majority to suppress minority rights.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q55",
+      "number": 55,
+      "question": "Read the following passage carefully and answer the given questions: A republican government is defined primarily by the principle that the state is a \"public matter,\" not the private concern or property of the rulers. In the United States, this manifests as a system where power is held by the people and their elected representatives. Unlike a direct democracy, where citizens vote on all laws, a republic utilizes a body of representatives to govern according to the rule of law. The primary objective is to protect individual rights from the potential \"tyranny of the majority,\" ensuring that even a minority’s voice is upheld through constitutional guarantees. The structural integrity of the American republic relies on a tripartite system of checks and balances. The executive, legislative, and judicial branches operate independently yet are interdependent, preventing any single entity from gaining absolute authority. This constitutional framework requires representatives to be elected for definitive terms, making them accountable to the electorate. By distributing power across these federal levels and maintaining a rigid constitution, the republican form of government seeks to balance efficient governance with the preservation of civil liberty and political stability. Q- Which of the following is a requirement for representatives in this system?",
+      "questionHtml": "<p>Read the following passage carefully and answer the given questions:</p><p>A republican government is defined primarily by the principle that the state is a \"public matter,\" not the private concern or property of the rulers. In the United States, this manifests as a system where power is held by the people and their elected representatives. Unlike a direct democracy, where citizens vote on all laws, a republic utilizes a body of representatives to govern according to the rule of law. The primary objective is to protect individual rights from the potential \"tyranny of the majority,\" ensuring that even a minority’s voice is upheld through constitutional guarantees.</p><p>The structural integrity of the American republic relies on a tripartite system of checks and balances. The executive, legislative, and judicial branches operate independently yet are interdependent, preventing any single entity from gaining absolute authority. This constitutional framework requires representatives to be elected for definitive terms, making them accountable to the electorate. By distributing power across these federal levels and maintaining a rigid constitution, the republican form of government seeks to balance efficient governance with the preservation of civil liberty and political stability.</p><p>Q- Which of the following is a requirement for representatives in this system?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "They must serve in all three branches of the government at once.",
+          "html": "<p>They must serve in all three branches of the government at once.</p>"
+        },
+        {
+          "id": "B",
+          "text": "They are allowed to change the constitution without any voting.",
+          "html": "<p>They are allowed to change the constitution without any voting.</p>"
+        },
+        {
+          "id": "C",
+          "text": "They have the authority to act as the private owners of the state.",
+          "html": "<p>They have the authority to act as the private owners of the state.</p>"
+        },
+        {
+          "id": "D",
+          "text": "They are elected for specific terms to remain accountable to us.",
+          "html": "<p>They are elected for specific terms to remain accountable to us.</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Answer: (d) They are elected for specific terms to remain accountable to us.</p><p>Explanation:<br/>The passage states that representatives are elected for definitive (fixed) terms, which ensures that they remain accountable to the electorate (the people). This system allows citizens to evaluate their representatives periodically through elections, maintaining democratic responsibility and public control over governance.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q56",
+      "number": 56,
+      "question": "Change the voice of the following sentence: Why did the management delay the announcement regarding the annual bonuses for the employees this year?",
+      "questionHtml": "<p>Change the voice of the following sentence:</p><p>Why did the management delay the announcement regarding the annual bonuses for the employees this year?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Why was the announcement regarding the annual bonuses for the employees delayed by the management?",
+          "html": "<p>Why was the announcement regarding the annual bonuses for the employees delayed by the management?</p>"
+        },
+        {
+          "id": "B",
+          "text": "Why is the announcement regarding the annual bonuses for the employees delayed by the management?",
+          "html": "<p>Why is the announcement regarding the annual bonuses for the employees delayed by the management?</p>"
+        },
+        {
+          "id": "C",
+          "text": "Why had the announcement regarding the annual bonuses for the employees delayed by the management?",
+          "html": "<p>Why had the announcement regarding the annual bonuses for the employees delayed by the management?</p>"
+        },
+        {
+          "id": "D",
+          "text": "Why was the announcement regarding the annual bonuses for the employees delaying by the management?",
+          "html": "<p>Why was the announcement regarding the annual bonuses for the employees delaying by the management?</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Answer: (a) Why was the announcement regarding the annual bonuses for the employees delayed by the management?</p><p>Explanation:<br/>The given sentence is in active voice:<br/>“Why did the management delay the announcement…?”</p><p>To convert it into passive voice:</p><p>So, the correct passive form is:<br/>“Why was the announcement regarding the annual bonuses for the employees delayed by the management?”</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q57",
+      "number": 57,
+      "question": "When someone is described as a chip off the old block, it means they are:",
+      "questionHtml": "<p>When someone is described as a chip off the old block, it means they are:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Good at heavy carving.",
+          "html": "<p>Good at heavy carving.</p>"
+        },
+        {
+          "id": "B",
+          "text": "Fond of building homes.",
+          "html": "<p>Fond of building homes.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Prone to many injuries.",
+          "html": "<p>Prone to many injuries.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Similar to their father.",
+          "html": "<p>Similar to their father.</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Answer: (d) Similar to their father (अपने पिता के समान)</p><p>Explanation:<br/>The idiom “a chip off the old block” means that a child closely resembles their parent, especially the father, in character, behaviour, or abilities.</p><p>Options meaning:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q58",
+      "number": 58,
+      "question": "Choose the most appropriate SYNONYM of the highlighted word: The CEO’s trenchant criticism of the new policy left the board members speechless.",
+      "questionHtml": "<p>Choose the most appropriate SYNONYM of the highlighted word: The CEO’s trenchant criticism of the new policy left the board members speechless.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Incisive and very effective.",
+          "html": "<p>Incisive and very effective.</p>"
+        },
+        {
+          "id": "B",
+          "text": "Vague and quite uncertain.",
+          "html": "<p>Vague and quite uncertain.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Gentle and highly soothing.",
+          "html": "<p>Gentle and highly soothing.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Modern and fairly creative.",
+          "html": "<p>Modern and fairly creative.</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Answer: (a) Incisive and very effective (तीक्ष्ण और प्रभावशाली)</p><p>Explanation:<br/>The word “trenchant” means sharp, clear, and strongly effective in expression or criticism (तीक्ष्ण, प्रभावी). In the sentence, it describes the CEO’s criticism as very sharp and powerful, which made the board members speechless.</p><p>Options meaning:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q59",
+      "number": 59,
+      "question": "Select the most appropriate word to fill in the blank: You must not ___________ your core values just to please the people around you.",
+      "questionHtml": "<p>Select the most appropriate word to fill in the blank: </p><p>You must not ___________ your core values just to please the people around you.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weave",
+          "html": "<p>Weave</p>"
+        },
+        {
+          "id": "B",
+          "text": "Wave",
+          "html": "<p>Wave</p>"
+        },
+        {
+          "id": "C",
+          "text": "Weigh",
+          "html": "<p>Weigh</p>"
+        },
+        {
+          "id": "D",
+          "text": "Waive",
+          "html": "<p>Waive</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Answer: (d) Waive (त्यागना / छोड़ देना)</p><p>Explanation:<br/>The sentence means that a person should not give up or abandon their core values just to satisfy others. The word “waive” means to give up or voluntarily surrender a right, claim, or rule (त्याग देना), which fits the context.</p><p>Options meaning:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q60",
+      "number": 60,
+      "question": "Identify the error given in the sentence: He died / from cancer / last month.",
+      "questionHtml": "<p>Identify the error given in the sentence:</p><p>He died / from cancer / last month. </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "He died",
+          "html": "<p>He died</p>"
+        },
+        {
+          "id": "B",
+          "text": "from cancer",
+          "html": "<p>from cancer</p>"
+        },
+        {
+          "id": "C",
+          "text": "last month",
+          "html": "<p>last month</p>"
+        },
+        {
+          "id": "D",
+          "text": "No Improvement",
+          "html": "<p>No Improvement</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Answer: (b) from cancer</p><p>Explanation:<br/>In standard usage, when referring to a disease as the cause of death, the correct preposition is “of”, not “from.”</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q61",
+      "number": 61,
+      "question": "Improve the highlighted part of the sentence: Bread and butter are a wholesome food.",
+      "questionHtml": "<p>Improve the highlighted part of the sentence:</p><p>Bread and butter are a wholesome food.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "is",
+          "html": "<p>is</p>"
+        },
+        {
+          "id": "B",
+          "text": "has",
+          "html": "<p>has</p>"
+        },
+        {
+          "id": "C",
+          "text": "have",
+          "html": "<p>have</p>"
+        },
+        {
+          "id": "D",
+          "text": "No Improvement",
+          "html": "<p>No Improvement</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Answer: (a) is</p><p>Explanation:<br/>When two nouns joined by “and” represent a single idea, dish, or combination, they take a singular verb.</p><p>In “bread and butter”, the phrase refers to one combined food item, so it should take a singular verb.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q62",
+      "number": 62,
+      "question": "Rearrange the following sentences to form a meaningful paragraph: P. However, in the modern era, the focus has shifted toward sustainable development and environmental conservation. Q. Historically, industrial progress was measured solely by economic output and infrastructure growth. R. This shift is driven by the realization that unchecked industrialization leads to irreversible ecological damage. S. Consequently, global policies are now being redesigned to balance profit with planetary health.",
+      "questionHtml": "<p>Rearrange the following sentences to form a meaningful paragraph:</p><p>P. However, in the modern era, the focus has shifted toward sustainable development and environmental conservation. </p><p>Q. Historically, industrial progress was measured solely by economic output and infrastructure growth. </p><p>R. This shift is driven by the realization that unchecked industrialization leads to irreversible ecological damage. </p><p>S. Consequently, global policies are now being redesigned to balance profit with planetary health.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "QRSP",
+          "html": "<p>QRSP</p>"
+        },
+        {
+          "id": "B",
+          "text": "RSPQ",
+          "html": "<p>RSPQ</p>"
+        },
+        {
+          "id": "C",
+          "text": "QPRS",
+          "html": "<p>QPRS</p>"
+        },
+        {
+          "id": "D",
+          "text": "RPQS",
+          "html": "<p>RPQS</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Q → P → R → S</p><p>Final Paragraph:</p><p>Historically, industrial progress was measured solely by economic output and infrastructure growth. However, in the modern era, the focus has shifted toward sustainable development and environmental conservation. This shift is driven by the realization that unchecked industrialization leads to irreversible ecological damage. Consequently, global policies are now being redesigned to balance profit with planetary health.</p><p>Why this order works:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q63",
+      "number": 63,
+      "question": "Identify the type of sentence based on structure: \"The sun rose, and the fog disappeared from the valley.\"",
+      "questionHtml": "<p>Identify the type of sentence based on structure: </p><p>\"The sun rose, and the fog disappeared from the valley.\"</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simple Sentence",
+          "html": "<p>Simple Sentence</p>"
+        },
+        {
+          "id": "B",
+          "text": "Compound Sentence",
+          "html": "<p>Compound Sentence</p>"
+        },
+        {
+          "id": "C",
+          "text": "Complex Sentence",
+          "html": "<p>Complex Sentence</p>"
+        },
+        {
+          "id": "D",
+          "text": "Compound-Complex Sentence",
+          "html": "<p>Compound-Complex Sentence</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is:</p><p>Option 2: Compound Sentence.</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q64",
+      "number": 64,
+      "question": "Improve the highlighted part of the sentence: The police / has arrested / the culprit / from the countryside.",
+      "questionHtml": "<p>Improve the highlighted part of the sentence:</p><p>The police / has arrested / the culprit / from the countryside.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The police",
+          "html": "<p>The police</p>"
+        },
+        {
+          "id": "B",
+          "text": "has arrested",
+          "html": "<p>has arrested</p>"
+        },
+        {
+          "id": "C",
+          "text": "the culprit",
+          "html": "<p>the culprit</p>"
+        },
+        {
+          "id": "D",
+          "text": "from the countryside.",
+          "html": "<p>from the countryside.</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Answer: (b) has arrested</p><p>Explanation:<br/>The noun “police” is treated as a plural noun in English and therefore takes a plural verb.</p><p>Options analysis:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q65",
+      "number": 65,
+      "question": "Identify the highlighted clause: \"I cannot go because I am busy.\"",
+      "questionHtml": "<p>Identify the highlighted clause: </p><p>\"I cannot go because I am busy.\"</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Noun Clause",
+          "html": "<p>Noun Clause</p>"
+        },
+        {
+          "id": "B",
+          "text": "Adjective Clause",
+          "html": "<p>Adjective Clause</p>"
+        },
+        {
+          "id": "C",
+          "text": "Adverb Clause",
+          "html": "<p>Adverb Clause</p>"
+        },
+        {
+          "id": "D",
+          "text": "Principal Clause",
+          "html": "<p>Principal Clause</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is: Adverb Clause.</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q66",
+      "number": 66,
+      "question": "Rearrange the following sentences to form a meaningful paragraph: P: This makes it one of the most popular sports in the world today. Q: Football is a game that requires immense physical stamina and skill. R: Millions of fans gather in stadiums to cheer for their favorite teams. S: It is played by two teams of eleven players on a rectangular field.",
+      "questionHtml": "<p>Rearrange the following sentences to form a meaningful paragraph:</p><p>P: This makes it one of the most popular sports in the world today.</p><p>Q: Football is a game that requires immense physical stamina and skill. </p><p>R: Millions of fans gather in stadiums to cheer for their favorite teams. </p><p>S: It is played by two teams of eleven players on a rectangular field.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "RPQS",
+          "html": "<p>RPQS</p>"
+        },
+        {
+          "id": "B",
+          "text": "QSRP",
+          "html": "<p>QSRP</p>"
+        },
+        {
+          "id": "C",
+          "text": "RSPQ",
+          "html": "<p>RSPQ</p>"
+        },
+        {
+          "id": "D",
+          "text": "QRPS",
+          "html": "<p>QRPS</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Q → S → R → P</p><p>Final Paragraph:</p><p>Football is a game that requires immense physical stamina and skill. It is played by two teams of eleven players on a rectangular field. Millions of fans gather in stadiums to cheer for their favorite teams. This makes it one of the most popular sports in the world today.</p><p>Why this order works:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q67",
+      "number": 67,
+      "question": "Identify the incorrectly spelled word:",
+      "questionHtml": "<p>Identify the incorrectly spelled word:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Surveillance",
+          "html": "<p>Surveillance</p>"
+        },
+        {
+          "id": "B",
+          "text": "Courageous",
+          "html": "<p>Courageous</p>"
+        },
+        {
+          "id": "C",
+          "text": "Changable",
+          "html": "<p>Changable</p>"
+        },
+        {
+          "id": "D",
+          "text": "Conscience",
+          "html": "<p>Conscience </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Answer: (c) Changable</p><p>Explanation:<br/>The word “Changable” is incorrectly spelled. The correct spelling is “Changeable” (परिवर्तनीय).</p><p>Options meaning:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q68",
+      "number": 68,
+      "question": "Change the narration of the following sentence: \"Where did you find this rare manuscript while you were traveling across Europe?\" asked the curious librarian.",
+      "questionHtml": "<p>Change the narration of the following sentence:</p><p>\"Where did you find this rare manuscript while you were traveling across Europe?\" asked the curious librarian.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The curious librarian asked me where I had found this rare manuscript while I was traveling across Europe.",
+          "html": "<p>The curious librarian asked me where I had found this rare manuscript while I was traveling across Europe.</p>"
+        },
+        {
+          "id": "B",
+          "text": "The curious librarian asked me where did I find that rare manuscript while I was traveling across Europe.",
+          "html": "<p>The curious librarian asked me where did I find that rare manuscript while I was traveling across Europe.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The curious librarian asked me where I found that rare manuscript while I was traveling across Europe.",
+          "html": "<p>The curious librarian asked me where I found that rare manuscript while I was traveling across Europe.</p>"
+        },
+        {
+          "id": "D",
+          "text": "The curious librarian asked me where I had found that rare manuscript while I was traveling across Europe.",
+          "html": "<p>The curious librarian asked me where I had found that rare manuscript while I was traveling across Europe.</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Answer: (d) The curious librarian asked me where I had found that rare manuscript while I was traveling across Europe.</p><p>Explanation:<br/>The given sentence is an interrogative sentence in direct speech. When converting it into indirect speech:</p><p>Thus, the correct indirect sentence is:<br/>“The curious librarian asked me where I had found that rare manuscript while I was traveling across Europe.”</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q69",
+      "number": 69,
+      "question": "Improve the highlighted part of the sentence: A large number of students has applied for the scholarship.",
+      "questionHtml": "<p>Improve the highlighted part of the sentence:</p><p>A large number of students has applied for the scholarship.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "was",
+          "html": "<p>was</p>"
+        },
+        {
+          "id": "B",
+          "text": "is",
+          "html": "<p>is</p>"
+        },
+        {
+          "id": "C",
+          "text": "have",
+          "html": "<p>have</p>"
+        },
+        {
+          "id": "D",
+          "text": "No Improvement",
+          "html": "<p>No Improvement</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Answer: (c) have</p><p>Explanation:<br/>The phrase “a large number of” is treated as plural, because it refers to many individuals. Therefore, the verb must also be plural.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q70",
+      "number": 70,
+      "question": "Fill in the Blanks: The sudden death of the leader left the party in a state of ______.",
+      "questionHtml": "<p>Fill in the Blanks:</p><p>The sudden death of the leader left the party in a state of ______.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "composure",
+          "html": "<p>composure</p>"
+        },
+        {
+          "id": "B",
+          "text": "chaos",
+          "html": "<p>chaos</p>"
+        },
+        {
+          "id": "C",
+          "text": "bliss",
+          "html": "<p>bliss</p>"
+        },
+        {
+          "id": "D",
+          "text": "harmony",
+          "html": "<p>harmony</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Answer: (b) Chaos (अव्यवस्था / अराजकता)</p><p>Explanation:<br/>The sentence implies that the sudden death of the leader created confusion and disorder within the party. The word “chaos” means complete disorder or confusion (अराजकता / अव्यवस्था), which fits the context best.</p><p>Options meaning:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q71",
+      "number": 71,
+      "question": "Change the narration of the following sentence: The professor said to the students, \"Do not forget to cite your sources accurately in the bibliography section.\"",
+      "questionHtml": "<p>Change the narration of the following sentence:</p><p>The professor said to the students, \"Do not forget to cite your sources accurately in the bibliography section.\"</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The professor advised the students did not forget to cite their sources accurately in the bibliography.",
+          "html": "<p>The professor advised the students did not forget to cite their sources accurately in the bibliography.</p>"
+        },
+        {
+          "id": "B",
+          "text": "The professor advised the students that not to forget to cite their sources accurately in the bibliography.",
+          "html": "<p>The professor advised the students that not to forget to cite their sources accurately in the bibliography.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The professor advised the students not to forget to cite their sources accurately in the bibliography.",
+          "html": "<p>The professor advised the students not to forget to cite their sources accurately in the bibliography.</p>"
+        },
+        {
+          "id": "D",
+          "text": "The professor advised the students to not forget to cite their sources accurately in the bibliography.",
+          "html": "<p>The professor advised the students to not forget to cite their sources accurately in the bibliography.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Answer: (c) The professor advised the students not to forget to cite their sources accurately in the bibliography.</p><p>Explanation:<br/>The given sentence is in direct speech and expresses a negative command/advice:<br/>“Do not forget to cite your sources…”</p><p>Rules for changing negative imperative sentences into indirect speech:</p><p>Thus the correct indirect form is:<br/>“The professor advised the students not to forget to cite their sources accurately in the bibliography.”</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q72",
+      "number": 72,
+      "question": "Choose the most appropriate SYNONYM of the highlighted word: His phlegmatic approach to the crisis helped everyone stay calm and focused.",
+      "questionHtml": "<p>Choose the most appropriate SYNONYM of the highlighted word: </p><p>His phlegmatic approach to the crisis helped everyone stay calm and focused.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quiet and remarkably peaceful.",
+          "html": "<p>Quiet and remarkably peaceful.</p>"
+        },
+        {
+          "id": "B",
+          "text": "Steady and highly dependable.",
+          "html": "<p>Steady and highly dependable.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Passive and totally indifferent.",
+          "html": "<p>Passive and totally indifferent.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Excited and easily agitated.",
+          "html": "<p>Excited and easily agitated.</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Answer: (b) Steady and highly dependable (स्थिर और भरोसेमंद)</p><p>Explanation:<br/>The word “phlegmatic” means calm, unemotional, and not easily disturbed (शांत, स्थिर स्वभाव वाला). In the sentence, his calm approach during the crisis helped others remain calm and focused, which matches the idea of being steady and dependable.</p><p>Options meaning:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q73",
+      "number": 73,
+      "question": "Choose the most appropriate ANTONYM of the highlighted word: The witness gave a veracious account of the events that unfolded at the crime scene.",
+      "questionHtml": "<p>Choose the most appropriate ANTONYM of the highlighted word: </p><p>The witness gave a veracious account of the events that unfolded at the crime scene.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "False and totally deceptive.",
+          "html": "<p>False and totally deceptive.</p>"
+        },
+        {
+          "id": "B",
+          "text": "Honest and strictly accurate.",
+          "html": "<p>Honest and strictly accurate.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Long and extremely detailed.",
+          "html": "<p>Long and extremely detailed.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rapid and quickly delivered.",
+          "html": "<p>Rapid and quickly delivered.</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Answer: (a) False and totally deceptive (झूठा और भ्रामक)</p><p>Explanation:<br/>The word “veracious” means truthful, honest, and accurate (सत्यवादी, सच्चा). In the sentence, it indicates that the witness gave a truthful account of the events.</p><p>Since the question asks for the antonym, we need a word with the opposite meaning.</p><p>Options meaning:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q74",
+      "number": 74,
+      "question": "Change the voice of the following sentence: They will have completed the restoration of the historical monument before the onset of the monsoon season.",
+      "questionHtml": "<p>Change the voice of the following sentence:</p><p>They will have completed the restoration of the historical monument before the onset of the monsoon season.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The restoration of the historical monument would have been completed before the onset of the monsoon.",
+          "html": "<p>The restoration of the historical monument would have been completed before the onset of the monsoon.</p>"
+        },
+        {
+          "id": "B",
+          "text": "The restoration of the historical monument will have completed before the onset of the monsoon season.",
+          "html": "<p>The restoration of the historical monument will have completed before the onset of the monsoon season.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The restoration of the historical monument will be being completed before the onset of the monsoon.",
+          "html": "<p>The restoration of the historical monument will be being completed before the onset of the monsoon.</p>"
+        },
+        {
+          "id": "D",
+          "text": "The restoration of the historical monument will have been completed before the onset of the monsoon.",
+          "html": "<p>The restoration of the historical monument will have been completed before the onset of the monsoon.</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Answer: (d) The restoration of the historical monument will have been completed before the onset of the monsoon.</p><p>Explanation:<br/>The given sentence is in active voice and future perfect tense:<br/>They will have completed the restoration of the historical monument…</p><p>For passive voice in future perfect tense, the structure is:<br/>Object + will have been + past participle</p><p>Steps:</p><p>Correct passive form:<br/>“The restoration of the historical monument will have been completed before the onset of the monsoon.”</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q75",
+      "number": 75,
+      "question": "Select the most appropriate meaning of the IDIOM. A green thumb",
+      "questionHtml": "<p>Select the most appropriate meaning of the IDIOM. </p><p>A green thumb</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A natural talent for gardening",
+          "html": "<p>A natural talent for gardening</p>"
+        },
+        {
+          "id": "B",
+          "text": "To be very envious of others",
+          "html": "<p>To be very envious of others</p>"
+        },
+        {
+          "id": "C",
+          "text": "To be very young and healthy",
+          "html": "<p>To be very young and healthy</p>"
+        },
+        {
+          "id": "D",
+          "text": "To have a dirty hand from work",
+          "html": "<p>To have a dirty hand from work</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Answer: (a) A natural talent for gardening.</p><p>Explanation:<br/>The idiom “a green thumb” refers to a person who has a natural ability or special skill in growing plants and gardening successfully. Such people can easily maintain plants and make them grow well. The other options describe different ideas and are not related to this idiom.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q76",
+      "number": 76,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image001.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image001.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "2525",
+          "html": "<p>2525</p>"
+        },
+        {
+          "id": "B",
+          "text": "6425",
+          "html": "<p>6425</p>"
+        },
+        {
+          "id": "C",
+          "text": "4565",
+          "html": "<p>4565</p>"
+        },
+        {
+          "id": "D",
+          "text": "3525",
+          "html": "<p>3525</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image002.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q77",
+      "number": 77,
+      "question": "When 1062, 1134 and 1182 are divided by the greatest number x, the remainder in each case is y. What is the value of (x − y)?",
+      "questionHtml": "<p>When 1062, 1134 and 1182 are divided by the greatest number x, the remainder in each case is y. What is the value of (x − y)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "16",
+          "html": "<p>16</p>"
+        },
+        {
+          "id": "B",
+          "text": "18",
+          "html": "<p>18</p>"
+        },
+        {
+          "id": "C",
+          "text": "14",
+          "html": "<p>14</p>"
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "html": "<p>15</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>To find the required greatest number, we need to find the HCF of the difference between all the three given numbers.</p><p>1134 − 1062 = 72, 1182 − 1134 = 48</p><p>HCF of 72 and 48 = 24</p><p>Now, when 1062 is divided by 24 leaves remainder 6.</p><p>So, x − y = 24 − 6 = 18</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q78",
+      "number": 78,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image004.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image004.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "95120/35",
+          "html": "<p>95120/35</p>"
+        },
+        {
+          "id": "B",
+          "text": "95420/33",
+          "html": "<p>95420/33</p>"
+        },
+        {
+          "id": "C",
+          "text": "95120/33",
+          "html": "<p>95120/33</p>"
+        },
+        {
+          "id": "D",
+          "text": "95420/35",
+          "html": "<p>95420/35</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image005.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q79",
+      "number": 79,
+      "question": "A triangle has two sides of length 12 cm and 15 cm, and the included angle between them is 150°. What is the area of the triangle?",
+      "questionHtml": "<p>A triangle has two sides of length 12 cm and 15 cm, and the included angle between them is 150°. What is the area of the triangle?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "45 cm²",
+          "html": "<p>45 cm²</p>"
+        },
+        {
+          "id": "B",
+          "text": "54 cm²",
+          "html": "<p>54 cm²</p>"
+        },
+        {
+          "id": "C",
+          "text": "63 cm²",
+          "html": "<p>63 cm²</p>"
+        },
+        {
+          "id": "D",
+          "text": "36 cm²",
+          "html": "<p>36 cm²</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image013.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q80",
+      "number": 80,
+      "question": "In triangle ABC, D is a point on BC such that BD : DC = 3 : 4. E is a point on AD such that AE : ED = 2 : 3. Find the ratio of area(∆ECD) : area(∆AEB).",
+      "questionHtml": "<p>In triangle ABC, D is a point on BC such that BD : DC = 3 : 4. E is a point on AD such that AE : ED = 2 : 3. Find the ratio of area(∆ECD) : area(∆AEB).</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 2",
+          "html": "<p>1 : 2</p>"
+        },
+        {
+          "id": "B",
+          "text": "2 : 1",
+          "html": "<p>2 : 1</p>"
+        },
+        {
+          "id": "C",
+          "text": "2 : 3",
+          "html": "<p>2 : 3</p>"
+        },
+        {
+          "id": "D",
+          "text": "3 : 2",
+          "html": "<p>3 : 2</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image014.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q81",
+      "number": 81,
+      "question": "The average of some natural numbers is 27. If 69 is added to the first number and 12 is subtracted from the last number, the average becomes 32.7. Then the number of natural numbers is:",
+      "questionHtml": "<p>The average of some natural numbers is 27. If 69 is added to the first number and 12 is subtracted from the last number, the average becomes 32.7. Then the number of natural numbers is:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20",
+          "html": "<p>20</p>"
+        },
+        {
+          "id": "B",
+          "text": "12",
+          "html": "<p>12</p>"
+        },
+        {
+          "id": "C",
+          "text": "10",
+          "html": "<p>10</p>"
+        },
+        {
+          "id": "D",
+          "text": "8",
+          "html": "<p>8</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Increase in sum = 69 − 12 = 57</p><p>Increase in average = 32.7 − 27 = 5.7</p><p>Number of numbers</p><p>n = 57 / 5.7 = 10</p><p>Answer: (c) 10</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q82",
+      "number": 82,
+      "question": "Shweta spends 19 % of her monthly salary on house rent, 17% on education, and 16% on entertainment, and still saves ₹46,080. What is her monthly salary (₹)?",
+      "questionHtml": "<p>Shweta spends 19 % of her monthly salary on house rent, 17% on education, and 16% on entertainment, and still saves ₹46,080. What is her monthly salary (₹)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹96,000",
+          "html": "<p>₹96,000</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹88,000",
+          "html": "<p>₹88,000</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹78,000",
+          "html": "<p>₹78,000</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹72,000",
+          "html": "<p>₹72,000</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Spent = 19% + 17% + 16% = 52%</p><p>Savings = 100 − 52 = 48%</p><p>48% of salary = 46,080</p><p>Salary = 46,080 × 100 / 48</p><p>Salary = 96,000</p><p>Answer: ₹96,000</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q83",
+      "number": 83,
+      "question": "The length and breadth of a rectangular park are in the ratio 5 : 3. If the perimeter of the park is 160 meters, then what is the area of the park?",
+      "questionHtml": "<p>The length and breadth of a rectangular park are in the ratio 5 : 3. If the perimeter of the park is 160 meters, then what is the area of the park?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3000 m²",
+          "html": "<p>3000 m²</p>"
+        },
+        {
+          "id": "B",
+          "text": "1500 m²",
+          "html": "<p>1500 m²</p>"
+        },
+        {
+          "id": "C",
+          "text": "2550 m²",
+          "html": "<p>2550 m²</p>"
+        },
+        {
+          "id": "D",
+          "text": "2500 m²",
+          "html": "<p>2500 m²</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Ratio L : B = 5 : 3</p><p>Perimeter = 160<br/>So, L + B = 80</p><p>5x + 3x = 80<br/>8x = 80<br/>x = 10</p><p>Length = 50 m, Breadth = 30 m</p><p>Area = 50 × 30 = 1500 m²</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q84",
+      "number": 84,
+      "question": "A sum of money trebles (becomes 3 times) itself in 16 years at Simple Interest. What is the annual rate of interest?",
+      "questionHtml": "<p>A sum of money trebles (becomes 3 times) itself in 16 years at Simple Interest. What is the annual rate of interest?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "6.25%",
+          "html": "<p>6.25%</p>"
+        },
+        {
+          "id": "B",
+          "text": "12.5%",
+          "html": "<p>12.5%</p>"
+        },
+        {
+          "id": "C",
+          "text": "10%",
+          "html": "<p>10%</p>"
+        },
+        {
+          "id": "D",
+          "text": "25%",
+          "html": "<p>25%</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image015.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q85",
+      "number": 85,
+      "question": "If a² + b² + c² + 48 = 8(a + b + c), then the value of ∛(a³ − b³ + c³) is:",
+      "questionHtml": "<p>If a² + b² + c² + 48 = 8(a + b + c), then the value of ∛(a³ − b³ + c³) is:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "<p>2</p>"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "<p>3</p>"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "<p>4</p>"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "<p>6</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>a² + b² + c² + 48 = 8(a + b + c)</p><p>⇒ a² − 8a + b² − 8b + c² − 8c + 48 = 0</p><p>⇒ (a − 4)² + (b − 4)² + (c − 4)² = 0</p><p>⇒ a = b = c = 4</p><p>Now</p><p>∛(a³ − b³ + c³)</p><p>= ∛(64 − 64 + 64)</p><p>= ∛64</p><p>= 4</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q86",
+      "number": 86,
+      "question": "If x = 9, then the value of x⁵ − 10x⁴ + 10x³ − 10x² + 10x − 1 is:",
+      "questionHtml": "<p>If x = 9, then the value of x⁵ − 10x⁴ + 10x³ − 10x² + 10x − 1 is:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "7",
+          "html": "<p>7</p>"
+        },
+        {
+          "id": "B",
+          "text": "8",
+          "html": "<p>8</p>"
+        },
+        {
+          "id": "C",
+          "text": "9",
+          "html": "<p>9</p>"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "<p>6</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>x⁵ − 10x⁴ + 10x³ − 10x² + 10x − 1</p><p>x⁵ − 9x⁴ − x⁴ + 9x³ + x³ − 9x² − x² + 9x + x − 1</p><p>x⁴(x − 9) − x³(x − 9) + x²(x − 9) − x(x − 9) + x − 1</p><p>Putting x = 9, we get</p><p>0 + 0 + 0 + 0 + 9 − 1 = 8</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q87",
+      "number": 87,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image016.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image016.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "60°",
+          "html": "<p>60°</p>"
+        },
+        {
+          "id": "B",
+          "text": "70°",
+          "html": "<p>70°</p>"
+        },
+        {
+          "id": "C",
+          "text": "90°",
+          "html": "<p>90°</p>"
+        },
+        {
+          "id": "D",
+          "text": "120°",
+          "html": "<p>120°</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image017.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q88",
+      "number": 88,
+      "question": "If P is thrice as efficient as Q, and P can complete a specific project in 12 days, how many days will it take for Q to complete the same project working alone?",
+      "questionHtml": "<p>If P is thrice as efficient as Q, and P can complete a specific project in 12 days, how many days will it take for Q to complete the same project working alone?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "24 days",
+          "html": "<p>24 days</p>"
+        },
+        {
+          "id": "B",
+          "text": "36 days",
+          "html": "<p>36 days</p>"
+        },
+        {
+          "id": "C",
+          "text": "48 days",
+          "html": "<p>48 days</p>"
+        },
+        {
+          "id": "D",
+          "text": "27 days",
+          "html": "<p>27 days</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>P : Q efficiency = 3 : 1</p><p>Time ratio = 1 : 3</p><p>P takes 12 days</p><p>So, Q takes = 12 × 3 = 36 days</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q89",
+      "number": 89,
+      "question": "The volume of a cube is reduced to 61.4125% By how much is the side of the cube reduced?",
+      "questionHtml": "<p>The volume of a cube is reduced to 61.4125% By how much is the side of the cube reduced?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12%",
+          "html": "<p>12%</p>"
+        },
+        {
+          "id": "B",
+          "text": "15%",
+          "html": "<p>15%</p>"
+        },
+        {
+          "id": "C",
+          "text": "16%",
+          "html": "<p>16%</p>"
+        },
+        {
+          "id": "D",
+          "text": "18%",
+          "html": "<p>18%</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Volume ∝ (side)³</p><p>61.4125% = (85%)³</p><p>So,</p><p>New side = 85%</p><p>Reduction in side =</p><p>100 − 85 = 15%</p><p>Answer: 15%</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q90",
+      "number": 90,
+      "question": "A train can cover a certain distance in 5 hours. If the track management is improved, an increase in the speed of the train by 14 km/h is possible, which can reduce the above journey time by 40 minutes. Find the initial speed of the train.",
+      "questionHtml": "<p>A train can cover a certain distance in 5 hours. If the track management is improved, an increase in the speed of the train by 14 km/h is possible, which can reduce the above journey time by 40 minutes. Find the initial speed of the train.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "105 km/h",
+          "html": "<p>105 km/h</p>"
+        },
+        {
+          "id": "B",
+          "text": "91 km/h",
+          "html": "<p>91 km/h</p>"
+        },
+        {
+          "id": "C",
+          "text": "78 km/h",
+          "html": "<p>78 km/h</p>"
+        },
+        {
+          "id": "D",
+          "text": "95 km/h",
+          "html": "<p>95 km/h</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Initial time = 5 hr<br/>Time reduced = 40 min = 2/3 hr</p><p>New time = 13/3 hr</p><p>Let speed = v</p><p>Distance same:</p><p>5v = (v + 14)(13/3)</p><p>15v = 13v + 182</p><p>2v = 182</p><p>v = 91 km/h</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q91",
+      "number": 91,
+      "question": "How many natural numbers less than 1000 are divisible by 5 or 7 but NOT by 35?",
+      "questionHtml": "<p>How many natural numbers less than 1000 are divisible by 5 or 7 but NOT by 35?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "313",
+          "html": "<p>313</p>"
+        },
+        {
+          "id": "B",
+          "text": "275",
+          "html": "<p>275</p>"
+        },
+        {
+          "id": "C",
+          "text": "285",
+          "html": "<p>285</p>"
+        },
+        {
+          "id": "D",
+          "text": "323",
+          "html": "<p>323</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Numbers less than 1000</p><p>Divisible by 5 = 999/5 = 199<br/>Divisible by 7 = 999/7 = 142<br/>Divisible by 35 = 999/35 = 28</p><p>Numbers divisible by 5 or 7<br/>= 199 + 142 − 28<br/>= 313</p><p>Exclude numbers divisible by 35</p><p>313 − 28 = 285</p><p>Answer: 285</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q92",
+      "number": 92,
+      "question": "The perimeter of a square is half the perimeter of a rectangle. The perimeter of the square is 40 m. If its breadth is two-thirds of its length, then what is the area of the rectangle?",
+      "questionHtml": "<p>The perimeter of a square is half the perimeter of a rectangle. The perimeter of the square is 40 m. If its breadth is two-thirds of its length, then what is the area of the rectangle?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "284 m²",
+          "html": "<p>284 m²</p>"
+        },
+        {
+          "id": "B",
+          "text": "354 m²",
+          "html": "<p>354 m²</p>"
+        },
+        {
+          "id": "C",
+          "text": "384 m²",
+          "html": "<p>384 m²</p>"
+        },
+        {
+          "id": "D",
+          "text": "484 m²",
+          "html": "<p>484 m²</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image018.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q93",
+      "number": 93,
+      "question": "If sin(3x - 10°) = cos(x + 20°), find the value of x.",
+      "questionHtml": "<p>If sin(3x - 10°) = cos(x + 20°), find the value of x.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "40°",
+          "html": "<p>40°</p>"
+        },
+        {
+          "id": "B",
+          "text": "20°",
+          "html": "<p>20°</p>"
+        },
+        {
+          "id": "C",
+          "text": "30°",
+          "html": "<p>30°</p>"
+        },
+        {
+          "id": "D",
+          "text": "50°",
+          "html": "<p>50°</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>sin A = cos B</p><p>So, A + B = 90°</p><p>(3x - 10°) + (x + 20°) = 90°</p><p>4x + 10° = 90°</p><p>4x = 80°</p><p>x = 20°</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q94",
+      "number": 94,
+      "question": "16 women can finish a task in 20days and 20 men take 32 days to finish the same task. How many days will 8 women and 16 men take to finish the same task?",
+      "questionHtml": "<p>16 women can finish a task in 20days and 20 men take 32 days to finish the same task. How many days will 8 women and 16 men take to finish the same task?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 days",
+          "html": "<p>12 days</p>"
+        },
+        {
+          "id": "B",
+          "text": "15 days",
+          "html": "<p>15 days</p>"
+        },
+        {
+          "id": "C",
+          "text": "20 days",
+          "html": "<p>20 days</p>"
+        },
+        {
+          "id": "D",
+          "text": "24 days",
+          "html": "<p>24 days</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image023.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q95",
+      "number": 95,
+      "question": "Let ABC be a right-angled triangle where ∠A = 90° and ∠C = 45°. Find the value of sec C + sin C sec C.",
+      "questionHtml": "<p>Let ABC be a right-angled triangle where ∠A = 90° and ∠C = 45°. Find the value of sec C + sin C sec C.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "<p>1</p>"
+        },
+        {
+          "id": "B",
+          "text": "1 − √2",
+          "html": "<p>1 − √2</p>"
+        },
+        {
+          "id": "C",
+          "text": "1 + √2",
+          "html": "<p>1 + √2</p>"
+        },
+        {
+          "id": "D",
+          "text": "1 + √2",
+          "html": "<p>1 + √2</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>∠C = 45°</p><p>sec C + sin C sec C<br/>= sec C (1 + sin C)</p><p>Now put values:</p><p>sec 45° = √2<br/>sin 45° = 1 / √2</p><p>= √2 (1 + 1/√2)</p><p>= √2 + 1</p><p>Answer: (c) 1 + √2</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q96",
+      "number": 96,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image025.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image025.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image026.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image026.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image027.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image027.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image028.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image028.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image029.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image029.png"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image025.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q97",
+      "number": 97,
+      "question": "A is a point outside of a circle with centre O. AP and AQ are two tangents of the circle. If AP = a² + 16 cm and AQ = 500 cm, then what is the value of a?",
+      "questionHtml": "<p>A is a point outside of a circle with centre O. AP and AQ are two tangents of the circle. If AP = a² + 16 cm and AQ = 500 cm, then what is the value of a?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "22 cm",
+          "html": "<p>22 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "23 cm",
+          "html": "<p>23 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "24 cm",
+          "html": "<p>24 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "25 cm",
+          "html": "<p> 25 cm</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>From an external point, length of tangents to a circle are equal</p><p>So,</p><p>AP = AQ</p><p>a² + 16 = 500</p><p>a² = 500 − 16</p><p>a² = 484</p><p>a = √484</p><p>a = 22 cm</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q98",
+      "number": 98,
+      "question": "In a circle, the angle subtended by chord PQ at a point on the circumference is 42°. What is the angle subtended by the same chord at the center of the circle?",
+      "questionHtml": "<p>In a circle, the angle subtended by chord PQ at a point on the circumference is 42°. What is the angle subtended by the same chord at the center of the circle?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "42°",
+          "html": "<p>42°</p>"
+        },
+        {
+          "id": "B",
+          "text": "84°",
+          "html": "<p>84°</p>"
+        },
+        {
+          "id": "C",
+          "text": "90°",
+          "html": "<p>90°</p>"
+        },
+        {
+          "id": "D",
+          "text": "126°",
+          "html": "<p>126°</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Angle at centre = 2 × Angle at circumference</p><p>= 2 × 42°</p><p>= 84°</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q99",
+      "number": 99,
+      "question": "If 10 sin² θ + 6 cos² θ = 7, 0 < θ < 90° then find the value of tan θ.",
+      "questionHtml": "<p>If 10 sin² θ + 6 cos² θ = 7, 0 &lt; θ &lt; 90° then find the value of tan θ.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "√3",
+          "html": "<p>√3</p>"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "<p>1</p>"
+        },
+        {
+          "id": "C",
+          "text": "1/√3",
+          "html": "<p>1/√3</p>"
+        },
+        {
+          "id": "D",
+          "text": "1/2",
+          "html": "<p>1/2</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image033.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "75e1a993570e-q100",
+      "number": 100,
+      "question": "A certain sum of money amounts to ₹12,600 in 2 years and to ₹15,750 in 5 years at a constant rate of simple interest per annum. What is the rate of interest percentage per annum?",
+      "questionHtml": "<p>A certain sum of money amounts to ₹12,600 in 2 years and to ₹15,750 in 5 years at a constant rate of simple interest per annum. What is the rate of interest percentage per annum?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%",
+          "html": "<p>10%</p>"
+        },
+        {
+          "id": "B",
+          "text": "8%",
+          "html": "<p>8%</p>"
+        },
+        {
+          "id": "C",
+          "text": "12%",
+          "html": "<p>12%</p>"
+        },
+        {
+          "id": "D",
+          "text": "15%",
+          "html": "<p>15%</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1777440666402_image035.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "id": "813ff8651685",
+  "provider": "Testbook",
+  "sourceFile": "CT 36_ Problem on Trains.html",
+  "sourcePath": "Testbook/files/CT 36_ Problem on Trains.html",
+  "title": "CT 36: Problem on Trains",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 70,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "813ff8651685-q1",
+      "number": 1,
+      "question": "Two trains of equal length take 10 s and 20 s, respectively, to cross a pole. If these trains are moving in the same direction, then how long will they take to cross each other?",
+      "questionHtml": "Two trains of equal length take 10 s and 20 s, respectively, to cross a pole. If these trains are moving in the same direction, then how long will they take to cross each other?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 sec",
+          "html": "10 sec"
+        },
+        {
+          "id": "B",
+          "text": "15 sec",
+          "html": "15&nbsp;<span style=\"color: rgb(33, 37, 41);\">sec</span>"
+        },
+        {
+          "id": "C",
+          "text": "40 sec",
+          "html": "40&nbsp;<span style=\"color: rgb(33, 37, 41);\">sec</span>"
+        },
+        {
+          "id": "D",
+          "text": "30 sec",
+          "html": "30&nbsp;<span style=\"color: rgb(33, 37, 41);\">sec</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>When two trains of <strong>equal length</strong> cross a pole in time <strong>t<sub>1</sub></strong> and <strong>t<sub>2</sub></strong>, the time taken to cross each other in the <strong>same direction</strong> is given by:</p>\n<p><strong>Time = (2 × t<sub>1</sub> × t<sub>2</sub>) ÷ (t<sub>2</sub> − t<sub>1</sub>)</strong></p>\n<p>Given: t<sub>1</sub> = 10 s, t<sub>2</sub> = 20 s</p>\n<p>Required Time = (2 × 10 × 20) ÷ (20 − 10) = 400 ÷ 10 = 40 s</p>\n<p><strong>∴ The correct answer is 40 sec.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Length of each train = L (equal length)</p>\n<p>Time taken by <strong>Train 1</strong> to cross the pole = 10 s</p>\n<p>Time taken by <strong>Train 2</strong> to cross the pole = 20 s</p>\n\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_3c18ecd5.png/1784058354.png\" style=\"max-width: 100%; height: auto;\"></div>\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ Speed of Train 1 (S<sub>1</sub>) = Distance ÷ Time = L ÷ 10</p>\n<p>⇒ Speed of Train 2 (S<sub>2</sub>) = Distance ÷ Time = L ÷ 20</p>\n<p>⇒ <strong>Relative Speed</strong> (Same direction) = S<sub>1</sub> − S<sub>2</sub> = L/10 − L/20</p>\n<p>⇒ Relative Speed = (2L − L) ÷ 20 = L/20</p>\n<p>⇒ <strong>Total Distance</strong> to cross each other = L + L = 2L</p>\n<p>⇒ <strong>Time taken</strong> = Total Distance ÷ Relative Speed</p>\n<p>⇒ Time = 2L ÷ (L/20) = 2L × (20 ÷ L) = 40 s</p>\n<p><strong>∴ The correct answer is 40 sec.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Relative Speed: Opposite Direction</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When two objects move in opposite directions, their speeds are added: S<sub>rel</sub> = S<sub>1</sub> + S<sub>2</sub>.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Relative Speed: Same Direction</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When two objects move in the same direction, their speeds are subtracted: S<sub>rel</sub> = S<sub>1</sub> − S<sub>2</sub>.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Crossing Objects of Equal Length</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Time taken to cross each other in opposite direction = (2 × t<sub>1</sub> × t<sub>2</sub>) ÷ (t<sub>1</sub> + t<sub>2</sub>).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Crossing a Pole vs. Platform</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">To cross a pole, distance = Length of train. To cross a platform, distance = Length of train + Length of platform.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_3c18ecd5.png/1784058354.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "813ff8651685-q2",
+      "number": 2,
+      "question": "A train leaves Patna at 5 a.m and reaches Varanasi at 9 a.m. Another train leaves Varanasi at 6.30 a.m. and reaches Patna at 10 a.m. At what time do the two trains meet?",
+      "questionHtml": "A train leaves Patna at 5 a.m and reaches Varanasi at 9 a.m. Another train leaves Varanasi at 6.30 a.m. and reaches Patna at 10 a.m. At what time do the two trains meet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8.30 p.m.",
+          "html": "8.30 p.m."
+        },
+        {
+          "id": "B",
+          "text": "8.30 a.m.",
+          "html": "8.30 a.m."
+        },
+        {
+          "id": "C",
+          "text": "7.40 a.m.",
+          "html": "7.40 a.m."
+        },
+        {
+          "id": "D",
+          "text": "7.56 a.m.",
+          "html": "7.56 a.m."
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"font-weight: 700;\">Given:</span></p>\n\n<p style=\"\">The total time taken by first train = 5 am to 9 am&nbsp;</p>\n\n<p style=\"\">The total time taken by the second train = 6.30 am to 10 am&nbsp;</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Formula used:</span></p>\n\n<p style=\"\"><span class=\"math-tex\">\\({S\\ =\\ {D\\over T}}\\)</span>&nbsp; &nbsp; &nbsp;</p>\n\n<p style=\"\">Where, S = Speed, D = Distance, and T = Time</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\">Let the total distance be X hours</p>\n\n<p style=\"\">The total time&nbsp;taken by first train = 5 am to 9 am = 4 hours</p>\n\n<p style=\"\">The total time taken by the second train =&nbsp;6.30 am to 10 am&nbsp;= 3.5 hours</p>\n\n<p style=\"\">The speed of the first train =&nbsp;<span class=\"math-tex\">\\({X\\over 4}\\)</span></p>\n\n<p style=\"\">The speed of the second train =&nbsp;<span class=\"math-tex\">\\({X\\over 3.5}\\)</span></p>\n\n<p style=\"\">The first train covers the distance in 1.5 hours =&nbsp;<span class=\"math-tex\">\\({X\\over 4}\\times 1.5={3X\\over 8}\\)</span></p>\n\n<p style=\"\">The remaining distance =&nbsp;<span class=\"math-tex\">\\({X-{3X\\over 8}}\\)</span></p>\n\n<p style=\"\">&rArr;&nbsp;<span class=\"math-tex\">\\({8X\\ -\\ 3X\\over 8}={5X\\over 8}\\)</span></p>\n\n<p style=\"\">The relative speed of the train =&nbsp;<span class=\"math-tex\">\\({X\\over 4}+{X\\over 3.5}\\)</span></p>\n\n<p style=\"\">&rArr;&nbsp;<span class=\"math-tex\">\\({X\\over 4}+{X\\over 3.5}\\)</span></p>\n\n<p style=\"\">&rArr;&nbsp;<span class=\"math-tex\">\\({3.5X\\ +\\ 4X\\over 14}\\)</span></p>\n\n<p style=\"\">&rArr;&nbsp;<span class=\"math-tex\">\\({7.5X\\over 14\\ }\\)</span></p>\n\n<p style=\"\">&rArr;&nbsp;<span class=\"math-tex\">\\({15X\\over 28}\\)</span></p>\n\n<p style=\"\">Time taken by trains to meet =&nbsp;<span class=\"math-tex\">\\(\\frac{Remaining~Distance}{Relative ~ Speed}\\)</span></p>\n\n<p style=\"\">&rArr;&nbsp;<span class=\"math-tex\">\\({{5X\\over 8}\\over {15X\\over 28}}={28\\ \\times 5X\\over 15X\\ \\times 8}\\)</span></p>\n\n<p style=\"\">&rArr;&nbsp;<span class=\"math-tex\">\\({7\\over 6}hours={{7\\over 6}\\times 60}\\)</span></p>\n\n<p style=\"\">&rArr;&nbsp;70 minutes</p>\n\n<p style=\"\">The time = 6 hours 30 minutes + 70 minutes</p>\n\n<p style=\"\">&rArr; 7 hours 40 minutes</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">&there4; The required result will be 7 : 40 am.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "813ff8651685-q3",
+      "number": 3,
+      "question": "Two trains 132 meters and 108 meters long are running in opposite direction, one at the speed of 32 km/hr and another at the speed of 40 km/hr. In what time will they cross each other?",
+      "questionHtml": "Two trains 132 meters and 108&nbsp;meters long are running in opposite&nbsp;direction, one at the speed of 32&nbsp;km/hr and another at the speed of 40&nbsp;km/hr. In what time will they cross each other?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8 sec",
+          "html": "8 sec"
+        },
+        {
+          "id": "B",
+          "text": "10 sec",
+          "html": "10 sec"
+        },
+        {
+          "id": "C",
+          "text": "12 sec",
+          "html": "12 sec"
+        },
+        {
+          "id": "D",
+          "text": "11 sec",
+          "html": "11 sec"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given: </strong></p>\n\n<p>Length of train 1 = 132 m</p>\n\n<p>Length of train 2 = 108 m</p>\n\n<p>Speed of train 1 = 32km/hr</p>\n\n<p>Speed of train 2 = 40km/hr</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>When trains are running in the opposite direction</p>\n\n<p>Time =&nbsp;<span class=\"math-tex\">\\(\\frac{Length \\space of \\space Train1 + Length\\space of\\space train 2}{Speed\\space\\space of\\space train\\space 1 + Speed\\space of\\space train\\space 2}\\)</span></p>\n\n<p><strong>Calculation:&nbsp;&nbsp;</strong></p>\n\n<p>1 km&nbsp;= 1000 m</p>\n\n<p>132 m = 132/1000 km</p>\n\n<p>108 m = 108/1000 km&nbsp;&nbsp;&nbsp;</p>\n\n<p>Time =&nbsp;<span class=\"math-tex\">\\(\\frac{\\frac{132}{1000} + \\frac{108}{1000}}{32 + 40}\\)</span></p>\n\n<p>&rArr; Time =&nbsp;<span class=\"math-tex\">\\(\\frac{\\frac{240}{1000}}{72}\\)</span></p>\n\n<p>&rArr; Time =&nbsp;<span class=\"math-tex\">\\(\\frac{240}{1000} × \\frac{1}{72}\\)</span></p>\n\n<p>&rArr; Time = 1/300 Hours</p>\n\n<p>1 hour = 3600 seconds</p>\n\n<p>&rArr; 1/300 hours = 3600&nbsp;&times; 1/300 = 12 seconds</p>\n\n<p>&there4; Trains will cross each other in 12 seconds</p>\nThe correct option is 3 i.e. 12 sec",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "813ff8651685-q4",
+      "number": 4,
+      "question": "A train leaves Meerut at 5 a.m. and reaches Delhi at 9 a.m. Another train leaves Delhi at 7 a.m. and reaches Meerut at 10:30 a.m. At what time do the two trains cross each other?",
+      "questionHtml": "<span style=\"\">A train leaves </span>Meerut&nbsp;<span style=\"\">at 5 a.m. and reaches Delhi at 9 a.m. Another train leaves Delhi at 7 a.m. and reaches </span>Meerut&nbsp;<span style=\"\">at 10:30 a.m. At what time do the two trains cross each other?</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 : 36 A.M",
+          "html": "6 : 36 A.M"
+        },
+        {
+          "id": "B",
+          "text": "6 : 56 A.M",
+          "html": "<span style=\"\">6 : 56 A.M</span>"
+        },
+        {
+          "id": "C",
+          "text": "7 : 36 A.M",
+          "html": "<span style=\"\">7 : 36 A.M</span>"
+        },
+        {
+          "id": "D",
+          "text": "7 : 56 A.M",
+          "html": "<span style=\"\">7 : 56 A.M</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"\"><span style=\"font-weight: 700;\">Given:</span></p>\n\n<p style=\"\">Train 1 leaves Meerut&nbsp;station at 5 a.m. and reaches Delhi at 9 a.m.</p>\n\n<p style=\"\">Train 2 leaves Delhi station at 7 a.m and reaches Meerut&nbsp;at 10.30 a.m</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Formula used:</span></p>\n\n<p style=\"\">Speed = Distance/time</p>\n\n<p style=\"\">If two objects move with the speeds u &amp; v in opposite direction, then</p>\n\n<p style=\"\">Relative speed = u&nbsp;+ v</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\">Train 1 travel time =&nbsp;4 hours</p>\n\n<p style=\"\">Train 2 travel time is 3.5 =&nbsp;<span class=\"math-tex\">\\(\\frac{7}{2}\\)</span>&nbsp;hours</p>\n\n<p style=\"\">We know, speed = Distance/time</p>\n\n<p style=\"\">Let the distance b/w Meerut&nbsp;&amp; Delhi is 28 Km (LCM of 4 &amp;&nbsp;<span class=\"math-tex\">\\(\\frac{7}{2}\\)</span>)</p>\n\n<p style=\"\">Speed of 1st train = 28/4 = 7&nbsp;km/h</p>\n\n<p style=\"\">Speed of 2nd train = 28/3.5 = 8 km/h</p>\n\n<p style=\"\">Relative speed = Train 1 speed + Train 2 speed</p>\n\n<p style=\"\">&rArr;&nbsp;Relative speed =&nbsp;7 + 8 =&nbsp; 15 km</p>\n\n<p style=\"\">Train 1 travels for 2 hours before train 2&nbsp;starts.</p>\n\n<p style=\"\">Remaining distance = 28&nbsp;- 28/2 = 14&nbsp;km</p>\n\n<p style=\"\">Time is taken to cross each other</p>\n\n<p style=\"\">Time = 14/15 hours or 56 minutes.</p>\n\n<p style=\"\">Total time taken = 2 hours + 56 minutes</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">&there4; They cross each other at 7 : 56 a.m.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "813ff8651685-q5",
+      "number": 5,
+      "question": "The distance between a man and a 230m long train is 115 m. How much time (in seconds) will the train, which is running at a speed of 60 km/h, take to pass the man who is running at a speed of 9 km/h towards the train?",
+      "questionHtml": "The distance between a man and a 230m long train is 115 m. How much time (in seconds) will the train, which is running at a speed of 60 km/h, take to pass the man who is running at a speed of 9 km/h towards the train?",
+      "options": [
+        {
+          "id": "A",
+          "text": "24",
+          "html": "24"
+        },
+        {
+          "id": "B",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "D",
+          "text": "18",
+          "html": "18"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p><strong>Relative Speed</strong> (opposite direction) = 60 + 9 = 69 km/h</p>\n<p>Convert to m/s = 69 × (5/18) = 115/6 m/s</p>\n<p><strong>Total Distance</strong> to cover = Train length + Initial distance = 230 + 115 = 345 m</p>\n<p>Time = 345 ÷ (115/6) = 3 × 6 = 18 seconds</p>\n<p><strong>∴ The correct answer is 18 seconds.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_a88c315c.png/1785440061.png\" style=\"max-width: 100%; height: auto; width: 420px; max-height: 200px;\"></div>\n<p><strong>Given:</strong></p>\n<p>Length of train (L<sub>1</sub>) = 230 m</p>\n<p>Initial distance (d) = 115 m</p>\n<p>Speed of train (v<sub>1</sub>) = 60 km/h</p>\n<p>Speed of man (v<sub>2</sub>) = 9 km/h</p>\n<p><strong>Formula:</strong></p>\n<p>Relative Speed (opposite direction) = v<sub>1</sub> + v<sub>2</sub></p>\n<p>Time = Total Distance ÷ Relative Speed</p>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Total distance = 230 + 115 = 345 m</p>\n<p>⇒ Relative speed = (60 + 9) × (5/18) m/s</p>\n<p>⇒ Relative speed = 69 × (5/18) = 115/6 m/s</p>\n<p>⇒ Time = 345 ÷ (115/6)</p>\n<p>⇒ Time = (345 × 6) ÷ 115</p>\n<p>⇒ Time = 3 × 6 = 18 seconds</p>\n<p><strong>∴ The correct answer is 18 seconds.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Relative Speed Concept</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When two objects move toward each other, their <strong>relative speed</strong> is the sum of their individual speeds (v<sub>1</sub> + v<sub>2</sub>). If moving in the same direction, it is the difference (v<sub>1</sub> − v<sub>2</sub>).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Unit Conversion</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">To convert km/h to m/s, multiply by <strong>5/18</strong>. To convert m/s to km/h, multiply by <strong>18/5</strong>.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Crossing Distance</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">To completely pass a man (considered a point object), a train must cover the <strong>sum</strong> of its own length and any initial separation distance between them.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_a88c315c.png/1785440061.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "813ff8651685-q6",
+      "number": 6,
+      "question": "An express train starts from City X at 4 p.m. and reaches City Y in 4 hours. A mail train starts from City Y at 5 p.m. and reaches City X at 11 p.m. At what time do they pass each other?",
+      "questionHtml": "An express train starts from City X at 4 p.m. and reaches City Y in 4 hours. A mail train starts from City Y at 5 p.m. and reaches City X at 11 p.m. At what time do they pass each other?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "6:48 p.m.",
+          "html": "6:48 p.m."
+        },
+        {
+          "id": "B",
+          "text": "6:12 p.m.",
+          "html": "6:12 p.m."
+        },
+        {
+          "id": "C",
+          "text": "7:20 p.m.",
+          "html": "7:20 p.m."
+        },
+        {
+          "id": "D",
+          "text": "6:30 p.m.",
+          "html": "6:30 p.m."
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>An express train starts from City X at 4 p.m. and reaches City Y in 4 hours. A mail train starts from City Y at 5 p.m. and reaches City X at 11 p.m.</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Speed = Distance/Time</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/08/F1_Vinanti_State%20govt._16.08.23_D1.png\" style=\"width: 245px; height: 155px;\" /></p>\n\n<p>LCM of 4 and 6 is 12.</p>\n\n<p>Speed (X to Y) =&nbsp;<span class=\"math-tex\">\\(\\dfrac{12}{4}\\)</span>&nbsp;= 3</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Speed (Y&nbsp;to X) =&nbsp;</span><span class=\"math-tex\">\\(\\dfrac{12}{6}\\)</span><span style=\"color: rgb(33, 37, 41);\">&nbsp;= 2</span></p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/08/F1_Vinanti_State%20govt._16.08.23_D2.png\" style=\"height: 164px; width: 314px;\" /><span style=\"display: none;\">&nbsp;</span></p>\n\n<p>Relative Speed =&nbsp;<span class=\"math-tex\">\\(\\dfrac{9}{3 + 2}\\)</span>&nbsp;</p>\n\n<p>&rArr; 1 +&nbsp;<span class=\"math-tex\">\\(\\dfrac{4}{5}\\)</span> &times; 60 Min = 1 hr 48 min</p>\n\n<p>Time to pass each other = 5 PM + 1 hr 48 Min = 6: 48 p.m</p>\n\n<p><strong>&there4; Option (1) is the correct answer.</strong></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/23/08/F1_Vinanti_State%20govt._16.08.23_D1.png",
+        "https://storage.googleapis.com/tb-img/production/23/08/F1_Vinanti_State%20govt._16.08.23_D2.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "813ff8651685-q7",
+      "number": 7,
+      "question": "A train can travel 75% faster than a car. Both start from point A at the same time and reach point B, 70 kms away from A, at the same time. On the way, however, the train lost about 18 minutes while stopping at the stations. The speed of the car is:",
+      "questionHtml": "A train can travel 75% faster than a car. Both start from point A at the same time and reach point B, 70 kms away from A, at the same time. On the way, however, the train lost about 18 minutes while stopping at the stations. The speed of the car is:&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "110 kmph",
+          "html": "110 kmph"
+        },
+        {
+          "id": "B",
+          "text": "100 kmph",
+          "html": "100 kmph"
+        },
+        {
+          "id": "C",
+          "text": "80 kmph",
+          "html": "80 kmph"
+        },
+        {
+          "id": "D",
+          "text": "90 kmph",
+          "html": "90 kmph"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Ratio of speeds of Car and Train = 100 : 175 = 4 : 7</p>\n<p>Ratio of travel time (inverse of speed) = 7 : 4</p>\n<p>Difference in time ratio = 7 − 4 = 3 units = 18 minutes (stoppage time)</p>\n<p>⇒ 1 unit = 6 minutes ⇒ Time taken by car (7 units) = 42 minutes = 7/10 hours</p>\n<p>⇒ Speed of car = Distance ÷ Time = 70 ÷ (7/10) = 100 kmph</p>\n<p><strong>∴ The correct answer is 100 kmph.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Distance = 70 km</p>\n<p>The train travels 75% faster than the car.</p>\n<p>Stoppage time of the train = 18 minutes = 18/60 hours = 3/10 hours.</p>\n<p><strong>Formula Used:</strong></p>\n<p>Time = Distance ÷ Speed</p>\n<svg width=\"420\" height=\"200\" viewBox=\"0 0 420 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <g font-family=\"sans-serif\">\n    <!-- Track -->\n    <line x1=\"60\" y1=\"100\" x2=\"360\" y2=\"100\" stroke=\"#888888\" stroke-width=\"2\" stroke-dasharray=\"5,3\" />\n    \n    <!-- Points -->\n    <circle cx=\"60\" cy=\"100\" r=\"5\" fill=\"#cc5500\" />\n    <circle cx=\"360\" cy=\"100\" r=\"5\" fill=\"#cc5500\" />\n    <text x=\"60\" y=\"122\" fill=\"#cc5500\" font-weight=\"bold\" text-anchor=\"middle\" font-size=\"13\">Point A</text>\n    <text x=\"360\" y=\"122\" fill=\"#cc5500\" font-weight=\"bold\" text-anchor=\"middle\" font-size=\"13\">Point B</text>\n    \n    <text x=\"210\" y=\"88\" fill=\"#2255cc\" font-weight=\"bold\" text-anchor=\"middle\" font-size=\"13\">Distance = 70 km</text>\n    \n    <!-- Train info -->\n    <rect x=\"110\" y=\"20\" width=\"200\" height=\"42\" rx=\"5\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n    <text x=\"210\" y=\"35\" fill=\"#222222\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"bold\">Train (Stops 18 mins)</text>\n    <text x=\"210\" y=\"52\" fill=\"#222222\" font-size=\"12\" text-anchor=\"middle\">Speed = 1.75v | Travel Time = t - 18m</text>\n    \n    <!-- Car info -->\n    <rect x=\"110\" y=\"138\" width=\"200\" height=\"42\" rx=\"5\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"1.5\" />\n    <text x=\"210\" y=\"153\" fill=\"#222222\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"bold\">Car (No stops)</text>\n    <text x=\"210\" y=\"170\" fill=\"#222222\" font-size=\"12\" text-anchor=\"middle\">Speed = v | Travel Time = t</text>\n  </g>\n</svg>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Let the speed of the car be v kmph.</p>\n<p>⇒ Speed of the train = v + 75% of v = 1.75v = 7v/4 kmph</p>\n<p>⇒ Time taken by car = Distance ÷ Speed = 70/v hours</p>\n<p>⇒ Active travel time of train = 70 ÷ (7v/4) = 40/v hours</p>\n<p>⇒ Since both start and arrive simultaneously, the car's travel time equals the train's active travel time plus its stoppage time.</p>\n<p>⇒ 70/v = 40/v + 3/10</p>\n<p>⇒ 70/v − 40/v = 3/10</p>\n<p>⇒ 30/v = 3/10</p>\n<p>⇒ 3v = 300</p>\n<p>⇒ v = 100 kmph</p>\n<p><strong>∴ The correct answer is 100 kmph.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Time Difference Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When two objects cover the same distance D with speeds S<sub>1</sub> and S<sub>2</sub> (where S<sub>1</sub> > S<sub>2</sub>) and the time difference is Δt: D = (S<sub>1</sub> × S<sub>2</sub>) ÷ (S<sub>1</sub> − S<sub>2</sub>) × Δt</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Relative Speed</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When moving in the same direction, Relative Speed = S<sub>1</sub> − S<sub>2</sub>. When moving in opposite directions, Relative Speed = S<sub>1</sub> + S<sub>2</sub>.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Average Speed</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If an object covers two equal distances at speeds S<sub>1</sub> and S<sub>2</sub>, its Average Speed = (2 × S<sub>1</sub> × S<sub>2</sub>) ÷ (S<sub>1</sub> + S<sub>2</sub>).</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "813ff8651685-q8",
+      "number": 8,
+      "question": "A train passes two persons moving at the speeds of 26 m/s and 42 m/s in the opposite direction to that of the train in 9 sec and 7 sec respectively. The length of the train is",
+      "questionHtml": "A train passes two persons moving at the speeds of 26 m/s and 42 m/s in the opposite direction to that of the train in 9 sec and 7 sec respectively. The length of the train is",
+      "options": [
+        {
+          "id": "A",
+          "text": "504 m",
+          "html": "504 m"
+        },
+        {
+          "id": "B",
+          "text": "449 m",
+          "html": "449 m"
+        },
+        {
+          "id": "C",
+          "text": "479 m",
+          "html": "479 m"
+        },
+        {
+          "id": "D",
+          "text": "443 m",
+          "html": "443 m"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>A train passes two persons moving at the speeds 26 m/s and 42 m/s in the opposite direction to that of the train in 9 sec and 7 sec respectively.</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Distance = speed&nbsp;&times;&nbsp;time</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let the speed of train be S<sub>T,&nbsp;</sub></p>\n\n<p>Distance = length of train(L)</p>\n\n<p>Speed(S<sub>1</sub>) of first person be 26 m/s, Speed(<sub>2</sub>) of second person be 42 m/s</p>\n\n<p>Relative speed, person moving opposite direction,</p>\n\n<p>First person passes</p>\n\n<p>&rArr; (S<sub>T&nbsp;</sub>+ S<sub>1</sub>) = L/9&nbsp; &nbsp;&nbsp;</p>\n\n<p>&rArr; S<sub>T</sub>&nbsp;= (L/9)&nbsp;&ndash; 26&nbsp; &nbsp; &nbsp;----(1)</p>\n\n<p>Second person passes</p>\n\n<p>&rArr; (S<span style=\"position: relative;  line-height: 0; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">T&nbsp;</span>+ S<sub>2</sub>) = L/7&nbsp; &nbsp;&nbsp;</p>\n\n<p>&rArr; S<span style=\"position: relative;  line-height: 0; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">T</span>&nbsp;= (L/7)&nbsp;&ndash; 42&nbsp; &nbsp; &nbsp; ----(2)</p>\n\n<p>Substitute the value of S<sub>T</sub>&nbsp;in equation (1)</p>\n\n<p>&rArr; L/9&nbsp;&ndash; 26 = L/7&nbsp;&ndash; 42</p>\n\n<p>&rArr; L/7&nbsp;&ndash; L/9 = 16</p>\n\n<p>&rArr; L = 16&nbsp;&times; 63/2</p>\n\n<p>&rArr; L = 504 m</p>\n\n<p><strong>&there4;&nbsp;The length of the train is 504 m.</strong></p>\n\n<p><img height=\"31px\" src=\"https://storage.googleapis.com/tb-img/production/21/10/6075707bc86053a12105904f_16345606106691.png\" width=\"147px\" /></p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Length of train = (S<sub>2</sub>&nbsp;&ndash; S<sub>1</sub>)T<sub>1</sub>&nbsp;&times;&nbsp;T<sub>2</sub>/(T<sub>1</sub>&nbsp;&ndash; T<sub>2</sub>)</p>\n\n<p>&rArr; (42 &ndash; 26)&times; 9&nbsp;&times; 7/(9&nbsp;&ndash; 7)</p>\n\n<p>&rArr; 504 m.</p>\n\n<p><span style=\"font-weight: 700;\">&there4;&nbsp;The length of the train is 504 m.</span></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/21/10/6075707bc86053a12105904f_16345606106691.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "813ff8651685-q9",
+      "number": 9,
+      "question": "Train A crosses a stationary train B of length 600 m in 70 seconds. The train crosses another stationary train C of 800 m in 80 seconds. What is the speed of the train A(in m/s)?",
+      "questionHtml": "Train A crosses a stationary train B of length 600 m in 70 seconds. The train crosses another stationary train C of 800 m in 80 seconds. What is the speed of the train A(in m/s)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "40",
+          "html": "40"
+        },
+        {
+          "id": "B",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "C",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "D",
+          "text": "24",
+          "html": "24"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"\"><strong style=\"\">Given: </strong></p>\n\n<p style=\"\">Train A crosses a stationary train B of length 600 m in 70 seconds. The train crosses another stationary train C of 800 m in 80 seconds.</p>\n\n<p style=\"\"><strong style=\"\">Formula used: </strong></p>\n\n<p style=\"\">Time Taken by a train of length l<sub style=\"\">1</sub> to cross another train of length l<sub style=\"\">2</sub> when the speed of the first train is v and the second train is stationary = (l<sub style=\"\">1</sub> + l<sub style=\"\">2</sub>)/v</p>\n\n<p style=\"\"><strong style=\"\">Calculation</strong>:</p>\n\n<p style=\"\">Let the length of train A be l and the speed be v.</p>\n\n<p style=\"\">&rArr; l + 600 = 70v&nbsp; &nbsp; &nbsp;&hellip;.(i)</p>\n\n<p style=\"\">&rArr; l + 800 = 80v&nbsp; &nbsp; &nbsp;&hellip;.(ii)</p>\n\n<p style=\"\">Comparing l in the above equations,</p>\n\n<p style=\"\">&rArr; 70v &ndash; 600 = 80v &ndash; 800</p>\n\n<p style=\"\">&rArr; 200 = 10v</p>\n\n<p style=\"\">&rArr; v = 20&nbsp;m/s</p>\n\n<p style=\"\">&there4; required speed of the train A = &nbsp;20 m/s.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "813ff8651685-q10",
+      "number": 10,
+      "question": "Two trains are running on opposite tracks between stations A and B. After crossing each other they take 4 hr and 9 hr respectively to reach their destination. If speed of first train is 54 kmph, find the speed of second train.",
+      "questionHtml": "Two trains are running on opposite tracks between stations A and B. After crossing each other they take 4 hr and 9 hr respectively to reach their destination. If speed of first train is 54 kmph, find the speed of second train.",
+      "options": [
+        {
+          "id": "A",
+          "text": "18 kmph",
+          "html": "18 kmph"
+        },
+        {
+          "id": "B",
+          "text": "36 kmph",
+          "html": "36 kmph"
+        },
+        {
+          "id": "C",
+          "text": "44 kmph",
+          "html": "44 kmph"
+        },
+        {
+          "id": "D",
+          "text": "28 kmph",
+          "html": "28 kmph"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>For two objects starting at the same time from opposite points, the relation after they cross is <strong>S<sub>1</sub> / S<sub>2</sub> = √(T<sub>2</sub> / T<sub>1</sub>)</strong>.</p>\n<p>Here, S<sub>1</sub> = 54 kmph, T<sub>1</sub> = 4 hr, and T<sub>2</sub> = 9 hr.</p>\n<p>54 / S<sub>2</sub> = √(9 / 4) = 3 / 2</p>\n<p>S<sub>2</sub> = (54 × 2) / 3 = 36 kmph.</p>\n<p><strong>∴ The correct answer is 36 kmph.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Speed of the <strong>first train</strong> (S<sub>1</sub>) = 54 kmph</p>\n<p>Time taken by the first train after crossing to reach <strong>Station B</strong> (T<sub>1</sub>) = 4 hr</p>\n<p>Time taken by the <strong>second train</strong> after crossing to reach <strong>Station A</strong> (T<sub>2</sub>) = 9 hr</p>\n<p><strong>Formula Used:</strong></p>\n<p>The ratio of the speeds of two trains is inversely proportional to the square root of the time taken by them to reach their destinations after meeting.</p>\n<p>S<sub>1</sub> / S<sub>2</sub> = √(T<sub>2</sub> / T<sub>1</sub>)</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_e16c8b1c.png/1784057660.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p><strong>Calculations:</strong></p>\n<p>⇒ 54 / S<sub>2</sub> = √(9 / 4)</p>\n<p>⇒ 54 / S<sub>2</sub> = 3 / 2</p>\n<p>⇒ 3 × S<sub>2</sub> = 54 × 2</p>\n<p>⇒ 3 × S<sub>2</sub> = 108</p>\n<p>⇒ S<sub>2</sub> = 108 / 3</p>\n<p>⇒ S<sub>2</sub> = 36 kmph</p>\n<p><strong>∴ The correct answer is 36 kmph.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Relative Speed (Opposite Direction)</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When two objects move in opposite directions, their <strong>relative speed</strong> is the sum of their individual speeds (S<sub>1</sub> + S<sub>2</sub>).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Meeting Time Formula</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The time taken to meet for the first time is <strong>Distance / (S<sub>1</sub> + S<sub>2</sub>)</strong> if they start simultaneously.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Speed Conversion</p>\n<p style='margin:0 0 8px 0;color:#444444;'>To convert <strong>km/hr</strong> to <strong>m/s</strong>, multiply by 5/18. To convert <strong>m/s</strong> to <strong>km/hr</strong>, multiply by 18/5.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_e16c8b1c.png/1784057660.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

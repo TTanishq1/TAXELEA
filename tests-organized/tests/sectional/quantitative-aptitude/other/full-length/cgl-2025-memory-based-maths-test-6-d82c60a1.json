@@ -1,0 +1,865 @@
+{
+  "id": "d82c60a18b55",
+  "provider": "RBE_Mocks",
+  "sourceFile": "CGL_2025_Memory_Based_Maths_Test-6.html",
+  "sourcePath": "RBE_MOCKS/CGL_2025_Memory_Based_Maths_Test-6.html",
+  "title": "CGL 2025 Memory Based Maths Test-6",
+  "exam": null,
+  "year": 2025,
+  "tier": null,
+  "shift": null,
+  "duration": 20,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "d82c60a18b55-q1",
+      "number": 1,
+      "question": "A gardener organizes plants into rows to create a square formation but discovers that 15 plants are not included. If the total number of plants is 3984, then what is the number of plants in each row?",
+      "questionHtml": "<p>A gardener organizes plants into rows to create a square formation but discovers that 15 plants are not included. If the total number of plants is 3984, then what is the number of plants in each row?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "43",
+          "html": "<p>43</p>"
+        },
+        {
+          "id": "B",
+          "text": "45",
+          "html": "<p>45</p>"
+        },
+        {
+          "id": "C",
+          "text": "63",
+          "html": "<p>63</p>"
+        },
+        {
+          "id": "D",
+          "text": "65",
+          "html": "<p>65</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Plants used in the square = 3984 − 15 = 3969.</p><p>Each row has √3969 plants.</p><p>√3969 = 63.</p><p>Hence number of plants per row = 63.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q2",
+      "number": 2,
+      "question": "If A is 25% more than B, and B is 20% more than C, then what is A : C?",
+      "questionHtml": "<p>If A is 25% more than B, and B is 20% more than C, then what is A : C?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 : 2",
+          "html": "<p>3 : 2</p>"
+        },
+        {
+          "id": "B",
+          "text": "2 : 3",
+          "html": "<p>2 : 3</p>"
+        },
+        {
+          "id": "C",
+          "text": "5 : 4",
+          "html": "<p>5 : 4</p>"
+        },
+        {
+          "id": "D",
+          "text": "6 : 5",
+          "html": "<p>6 : 5</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let C = 100. </p><p>Then B = 100 + 20% of 100 = 120.</p><p>A = 120 + 25% of 120 = 120 + 30 = 150.</p><p>A : C = 150 : 100 = 3 : 2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q3",
+      "number": 3,
+      "question": "Evaluate: √(12 + √(12 + √(12 + …)))",
+      "questionHtml": "<p>Evaluate: √(12 + √(12 + √(12 + …)))</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "<p>5</p>"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "<p>4</p>"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "<p>6</p>"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "<p>2</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let x = √(12 + √(12 + …)).</p><p>Then x² = 12 + x.</p><p>x² − x − 12 = 0.</p><p>(x − 4)(x + 3) = 0.</p><p>Taking the positive value, x = 4.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q4",
+      "number": 4,
+      "question": "The cost price of an article is ₹500. A shopkeeper sells it at a discount of 20% on the marked price. If the marked price is ₹600, what is the shopkeeper's profit or loss percentage?",
+      "questionHtml": "<p>The cost price of an article is ₹500. A shopkeeper sells it at a discount of 20% on the marked price. If the marked price is ₹600, what is the shopkeeper's profit or loss percentage?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5% Profit",
+          "html": "<p>5% Profit</p>"
+        },
+        {
+          "id": "B",
+          "text": "4% Loss",
+          "html": "<p>4% Loss</p>"
+        },
+        {
+          "id": "C",
+          "text": "8% Profit",
+          "html": "<p>8% Profit</p>"
+        },
+        {
+          "id": "D",
+          "text": "10% Loss",
+          "html": "<p>10% Loss</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>SP = MP − 20% of MP = 600 × 0.8 = ₹480.</p><p>CP = ₹500.</p><p>Loss = 500 − 480 = ₹20.</p><p>Loss % = (20/500) × 100 = 4%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q5",
+      "number": 5,
+      "question": "Pipes A and B can fill a tank in 20 minutes and 30 minutes, respectively. Meanwhile, a drainpipe C can empty the tank in 60 minutes. If all three pipes are opened simultaneously, how long will it take to fill the tank?",
+      "questionHtml": "<p>Pipes A and B can fill a tank in 20 minutes and 30 minutes, respectively. Meanwhile, a drainpipe C can empty the tank in 60 minutes. If all three pipes are opened simultaneously, how long will it take to fill the tank?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "15 min",
+          "html": "<p>15 min</p>"
+        },
+        {
+          "id": "B",
+          "text": "20 min",
+          "html": "<p>20 min</p>"
+        },
+        {
+          "id": "C",
+          "text": "25 min",
+          "html": "<p>25 min</p>"
+        },
+        {
+          "id": "D",
+          "text": "10 min",
+          "html": "<p>10 min</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Net rate = 1/20 + 1/30 − 1/60.</p><p>LCM = 60. Rates: 3/60 + 2/60 − 1/60 = 4/60 = 1/15.</p><p>Hence time to fill the tank = 15 minutes.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q6",
+      "number": 6,
+      "question": "Given x + y + z = 0, and x³ + y³ + z³ = 3xyz, evaluate (x − y)³ + (y − z)³ + (z − x)³.",
+      "questionHtml": "<p>Given x + y + z = 0, and x³ + y³ + z³ = 3xyz, evaluate </p><p>(x − y)³ + (y − z)³ + (z − x)³.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "<p>0</p>"
+        },
+        {
+          "id": "B",
+          "text": "9(x − y)(y − z)(z − x)",
+          "html": "<p>9(x − y)(y − z)(z − x)</p>"
+        },
+        {
+          "id": "C",
+          "text": "27xyz",
+          "html": "<p>27xyz</p>"
+        },
+        {
+          "id": "D",
+          "text": "3(x − y)(y − z)(z − x)",
+          "html": "<p>3(x − y)(y − z)(z − x)</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Let a = x − y, b = y − z, c = z − x.</p><p>a + b + c = (x − y) + (y − z) + (z − x) = 0.</p><p>When a + b + c = 0, a³ + b³ + c³ = 3abc.</p><p>Therefore, (x − y)³ + (y − z)³ + (z − x)³ = 3(x − y)(y − z)(z − x).</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q7",
+      "number": 7,
+      "question": "A sum of ₹5000 is lent out in two parts, one at 6% simple interest and the other at 9% simple interest. If the annual interest is ₹390, the sum lent at 6% is:",
+      "questionHtml": "<p>A sum of ₹5000 is lent out in two parts, one at 6% simple interest and the other at 9% simple interest. If the annual interest is ₹390, the sum lent at 6% is:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹2000",
+          "html": "<p>₹2000</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹2500",
+          "html": "<p>₹2500</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹3000",
+          "html": "<p>₹3000</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹3500",
+          "html": "<p>₹3500</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let amount lent at 6% = ₹x; at 9% = ₹(5000 − x).</p><p>Total SI: 6x/100 + 9(5000 − x)/100 = 390.</p><p>6x + 45000 − 9x = 39000.</p><p>−3x = −6000 ⇒ x = ₹2000.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q8",
+      "number": 8,
+      "question": "A man has ₹15,000. He lends a part of it to X for 3 years at 10% simple interest and the remaining to Y for 3 years at 12% simple interest. If the total interest received from both X and Y after 3 years is ₹4,950, find the amount lent to X.",
+      "questionHtml": "<p>A man has ₹15,000. He lends a part of it to X for 3 years at 10% simple interest and the remaining to Y for 3 years at 12% simple interest. If the total interest received from both X and Y after 3 years is ₹4,950, find the amount lent to X.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹7,000",
+          "html": "<p>₹7,000</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹7,500",
+          "html": "<p>₹7,500</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹8,000",
+          "html": "<p>₹8,000</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹8,500",
+          "html": "<p>₹8,500</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let amount lent to X = ₹x; to Y = ₹(15000 − x).</p><p>Interest from X = x × 10 × 3 / 100 = 0.3x.</p><p>Interest from Y = (15000 − x) × 12 × 3 / 100 = 0.36(15000 − x).</p><p>Total: 0.3x + 0.36(15000 − x) = 4950.</p><p>0.3x + 5400 − 0.36x = 4950.</p><p>−0.06x = −450 ⇒ x = ₹7,500.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q9",
+      "number": 9,
+      "question": "A taut wire supports a vertical pole. The wire is fixed to the ground 10 meters away from the base of the pole and makes an angle of 60° with the ground. What is the length of the wire?",
+      "questionHtml": "<p>A taut wire supports a vertical pole. The wire is fixed to the ground 10 meters away from the base of the pole and makes an angle of 60° with the ground. What is the length of the wire?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 m",
+          "html": "<p>10 m</p>"
+        },
+        {
+          "id": "B",
+          "text": "10√3 m",
+          "html": "<p>10√3 m</p>"
+        },
+        {
+          "id": "C",
+          "text": "20 m",
+          "html": "<p>20 m</p>"
+        },
+        {
+          "id": "D",
+          "text": "20√3 m",
+          "html": "<p>20√3 m</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780403298669_image003.jpeg",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q10",
+      "number": 10,
+      "question": "A cone and a sphere have equal volumes. If the cone's height is twice its radius, what is the ratio of the cone's radius to the sphere's radius?",
+      "questionHtml": "<p>A cone and a sphere have equal volumes. If the cone's height is twice its radius, what is the ratio of the cone's radius to the sphere's radius?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "∛2 : 1",
+          "html": "<p>∛2 : 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "∛4 : 1",
+          "html": "<p>∛4 : 1</p>"
+        },
+        {
+          "id": "C",
+          "text": "∛6 : 1",
+          "html": "<p>∛6 : 1</p>"
+        },
+        {
+          "id": "D",
+          "text": "∛9 : 1",
+          "html": "<p>∛9 : 1</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Cone volume = (1/3)π r_c² × 2 r_c = (2/3)π r_c³.</p><p>Sphere volume = (4/3)π r_s³.</p><p>Equal volumes: (2/3) r_c³ = (4/3) r_s³ ⇒ r_c³ = 2 r_s³.</p><p>Hence r_c / r_s = ∛2, i.e., ratio ∛2 : 1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q11",
+      "number": 11,
+      "question": "A hemisphere and cylinder of equal radii have equal total surface areas. Find the ratio of cylinder height to radius.",
+      "questionHtml": "<p>A hemisphere and cylinder of equal radii have equal total surface areas. Find the ratio of cylinder height to radius.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 2",
+          "html": "<p>1 : 2</p>"
+        },
+        {
+          "id": "B",
+          "text": "7 : 4",
+          "html": "<p>7 : 4</p>"
+        },
+        {
+          "id": "C",
+          "text": "6 : 5",
+          "html": "<p>6 : 5</p>"
+        },
+        {
+          "id": "D",
+          "text": "2 : 5",
+          "html": "<p>2 : 5</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>TSA of hemisphere = 3πr².</p><p>TSA of cylinder = 2πr² + 2πrh = 2πr(r + h).</p><p>Equating: 3πr² = 2πr(r + h) ⇒ 3r = 2r + 2h ⇒ h = r/2.</p><p>Hence h : r = 1 : 2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q12",
+      "number": 12,
+      "question": "A large cubical cake needs to be cut into 64 smaller, identical cubical pieces. What is the minimum number of straight cuts required?",
+      "questionHtml": "<p>A large cubical cake needs to be cut into 64 smaller, identical cubical pieces. What is the minimum number of straight cuts required?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "html": "<p>8</p>"
+        },
+        {
+          "id": "B",
+          "text": "9",
+          "html": "<p>9</p>"
+        },
+        {
+          "id": "C",
+          "text": "16",
+          "html": "<p>16</p>"
+        },
+        {
+          "id": "D",
+          "text": "63",
+          "html": "<p>63</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>64 = 4 × 4 × 4, so each side must be divided into 4 equal parts.</p><p>This requires 3 cuts along each of the 3 dimensions.</p><p>Minimum total cuts = 3 + 3 + 3 = 9.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q13",
+      "number": 13,
+      "question": "The radius of a cone is raised by 20%, while the height is reduced by 10%. What is the percentage change in the volume of the cone?",
+      "questionHtml": "<p>The radius of a cone is raised by 20%, while the height is reduced by 10%. What is the percentage change in the volume of the cone?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "27.4% decrease",
+          "html": "<p>27.4% decrease</p>"
+        },
+        {
+          "id": "B",
+          "text": "29.6% increase",
+          "html": "<p>29.6% increase</p>"
+        },
+        {
+          "id": "C",
+          "text": "4.8% increase",
+          "html": "<p>4.8% increase</p>"
+        },
+        {
+          "id": "D",
+          "text": "5.2% increase",
+          "html": "<p>5.2% increase</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Volume V = (1/3)π r² h.</p><p>New V = (1/3)π (1.2r)² × (0.9h) = (1/3)π × 1.44 × 0.9 × r² h = 1.296 × V.</p><p>% change = (1.296 − 1) × 100 = 29.6% increase.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q14",
+      "number": 14,
+      "question": "If sinA = 3/5 and A lies in the second quadrant, find the value of (sinA + cosA)².",
+      "questionHtml": "<p>If sinA = 3/5 and A lies in the second quadrant, find the value of (sinA + cosA)².</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "<p>0</p>"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "<p>1</p>"
+        },
+        {
+          "id": "C",
+          "text": "1/25",
+          "html": "<p>1/25</p>"
+        },
+        {
+          "id": "D",
+          "text": "1/5",
+          "html": "<p>1/5</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>In the 2nd quadrant, cosA is negative.</p><p>cosA = −√(1 − sin²A) = −√(1 − 9/25) = −4/5.</p><p>sinA + cosA = 3/5 − 4/5 = −1/5.</p><p>(sinA + cosA)² = 1/25.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q15",
+      "number": 15,
+      "question": "If sinA = m/n, then what is the value of (1 + tan²A)?",
+      "questionHtml": "<p>If sinA = m/n, then what is the value of (1 + tan²A)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "n² / (n² − m²)",
+          "html": "<p>n² / (n² − m²)</p>"
+        },
+        {
+          "id": "B",
+          "text": "2n² / (n² − m²)",
+          "html": "<p>2n² / (n² − m²)</p>"
+        },
+        {
+          "id": "C",
+          "text": "n² / (2(n² − m²))",
+          "html": "<p>n² / (2(n² − m²))</p>"
+        },
+        {
+          "id": "D",
+          "text": "5n² / (n² − m²)",
+          "html": "<p>5n² / (n² − m²)</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>1 + tan²A = sec²A = 1 / cos²A.</p><p>cos²A = 1 − sin²A = 1 − m²/n² = (n² − m²)/n².</p><p>1 / cos²A = n² / (n² − m²).</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q16",
+      "number": 16,
+      "question": "What is the slope of the line passing through points (2, 3) and (4, 7)?",
+      "questionHtml": "<p>What is the slope of the line passing through points (2, 3) and (4, 7)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "<p>2</p>"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "<p>3</p>"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "<p>5</p>"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "<p>4</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Slope = (y₂ − y₁) / (x₂ − x₁).</p><p>= (7 − 3) / (4 − 2)</p><p>= 4 / 2 = 2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q17",
+      "number": 17,
+      "question": "A sector has a central angle of 180° and a radius of 12 cm. Another sector has a central angle of π/2 radians and the same radius. What is the ratio of the area of the first sector to the area of the second sector?",
+      "questionHtml": "<p>A sector has a central angle of 180° and a radius of 12 cm. Another sector has a central angle of π/2 radians and the same radius. What is the ratio of the area of the first sector to the area of the second sector?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 2",
+          "html": "<p>1 : 2</p>"
+        },
+        {
+          "id": "B",
+          "text": "2 : 1",
+          "html": "<p>2 : 1</p>"
+        },
+        {
+          "id": "C",
+          "text": "3 : 1",
+          "html": "<p>3 : 1</p>"
+        },
+        {
+          "id": "D",
+          "text": "1 : 3",
+          "html": "<p>1 : 3</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>180° = π radians; π/2 radians = 90°.</p><p>For the same radius, area of a sector ∝ central angle.</p><p>Ratio of areas = 180° : 90° = 2 : 1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q18",
+      "number": 18,
+      "question": "What is the total measure of all interior angles in a ten-sided polygon?",
+      "questionHtml": "<p>What is the total measure of all interior angles in a ten-sided polygon?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "540°",
+          "html": "<p>540°</p>"
+        },
+        {
+          "id": "B",
+          "text": "1440°",
+          "html": "<p>1440°</p>"
+        },
+        {
+          "id": "C",
+          "text": "720°",
+          "html": "<p>720°</p>"
+        },
+        {
+          "id": "D",
+          "text": "900°",
+          "html": "<p>900°</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Sum of interior angles of an n-sided polygon = (n − 2) × 180°.</p><p>For n = 10: (10 − 2) × 180° = 8 × 180° = 1440°.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q19",
+      "number": 19,
+      "question": "What is the equation of the perpendicular bisector of the line segment connecting the points (2, 8) and (6, 4)?",
+      "questionHtml": "<p>What is the equation of the perpendicular bisector of the line segment connecting the points (2, 8) and (6, 4)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "y = −x − 10",
+          "html": "<p>y = −x − 10</p>"
+        },
+        {
+          "id": "B",
+          "text": "y = x − 2",
+          "html": "<p>y = x − 2</p>"
+        },
+        {
+          "id": "C",
+          "text": "y = −x + 10",
+          "html": "<p>y = −x + 10</p>"
+        },
+        {
+          "id": "D",
+          "text": "y = x + 2",
+          "html": "<p>y = x + 2</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Midpoint of (2, 8) and (6, 4) = (4, 6).</p><p>Slope of segment = (4 − 8)/(6 − 2) = −1.</p><p>Slope of perpendicular bisector = 1.</p><p>Equation: y − 6 = 1 × (x − 4) ⇒ y = x + 2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q20",
+      "number": 20,
+      "question": "The ratios of the perimeters of two similar triangles are expressed as 3 : 5. Together, their areas total 34 cm². What is the area of the larger triangle?",
+      "questionHtml": "<p>The ratios of the perimeters of two similar triangles are expressed as 3 : 5. Together, their areas total 34 cm². What is the area of the larger triangle?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "9 cm²",
+          "html": "<p>9 cm²</p>"
+        },
+        {
+          "id": "B",
+          "text": "15 cm²",
+          "html": "<p>15 cm²</p>"
+        },
+        {
+          "id": "C",
+          "text": "25 cm²",
+          "html": "<p>25 cm²</p>"
+        },
+        {
+          "id": "D",
+          "text": "35 cm²",
+          "html": "<p>35 cm²</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>For similar triangles, ratio of areas = (ratio of sides/perimeters)² = 9 : 25.</p><p>Let areas be 9k and 25k. Total = 34k = 34 ⇒ k = 1.</p><p>Larger area = 25 × 1 = 25 cm².</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q21",
+      "number": 21,
+      "question": "19³ + 20³ − 39³ + 118 is equal to:",
+      "questionHtml": "<p>19³ + 20³ − 39³ + 118 is equal to:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "−44342",
+          "html": "<p>−44342</p>"
+        },
+        {
+          "id": "B",
+          "text": "−6789",
+          "html": "<p>−6789</p>"
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "html": "<p>0</p>"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "<p>1</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let a = 19, b = 20, c = −39. Then a + b + c = 0.</p><p>When a + b + c = 0, a³ + b³ + c³ = 3abc.</p><p>19³ + 20³ − 39³ = 3 × 19 × 20 × (−39) = −44460.</p><p>Adding 118: −44460 + 118 = −44342.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q22",
+      "number": 22,
+      "question": "If cotA = x + 1/x, find cosec²A.",
+      "questionHtml": "<p>If cotA = x + 1/x, find cosec²A.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "x² + 1/x² + 1",
+          "html": "<p>x² + 1/x² + 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "x² + 1/x² + 2",
+          "html": "<p>x² + 1/x² + 2</p>"
+        },
+        {
+          "id": "C",
+          "text": "x² + 1/x² + 3",
+          "html": "<p>x² + 1/x² + 3</p>"
+        },
+        {
+          "id": "D",
+          "text": "x² + 1/x² + 4",
+          "html": "<p>x² + 1/x² + 4</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>cosec²A = 1 + cot²A.</p><p>cot²A = (x + 1/x)² = x² + 2 + 1/x².</p><p>cosec²A = 1 + x² + 2 + 1/x² = x² + 1/x² + 3.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q23",
+      "number": 23,
+      "question": "A tangent line PA is drawn from an external point P to a circle. If the radius is 8 cm and the distance from P to the center is 17 cm, what is the length of the tangent PA?",
+      "questionHtml": "<p>A tangent line PA is drawn from an external point P to a circle. If the radius is 8 cm and the distance from P to the center is 17 cm, what is the length of the tangent PA?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "9 cm",
+          "html": "<p>9 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "15 cm",
+          "html": "<p>15 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "25 cm",
+          "html": "<p>25 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "28 cm",
+          "html": "<p>28 cm</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>OAPr = 8 cmPA = 15 cmOP = 17 cmPythagoras theoremOA ⊥ PA (tangent ⊥ radius)PA² = OP² − OA²PA² = 17² − 8² = 289 − 64 = 225PA = 15 cm90°Tangent PARadius OADistance OPPA = √(17² − 8²) = √(289 − 64) = √225 = 15 cm</p><p>For a tangent from external point P: PA² = OP² − r².</p><p>PA² = 17² − 8² = 289 − 64 = 225.</p><p>PA = √225 = 15 cm.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q24",
+      "number": 24,
+      "question": "When two tangents, PA and PB, are drawn to a circle from a point P outside the circle, and the angle between them is 90°, what is the distance from P to the center (O) of the circle, if the radius is 5 cm?",
+      "questionHtml": "<p>When two tangents, PA and PB, are drawn to a circle from a point P outside the circle, and the angle between them is 90°, what is the distance from P to the center (O) of the circle, if the radius is 5 cm?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 cm",
+          "html": "<p>5 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "5√2 cm",
+          "html": "<p>5√2 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "10 cm",
+          "html": "<p>10 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "5√3 cm",
+          "html": "<p>5√3 cm</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>With ∠APB = 90° and OA ⊥ PA, OB ⊥ PB, quadrilateral OAPB is a square of side r.</p><p>Hence OP is the diagonal = r√2.</p><p>OP = 5√2 cm.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d82c60a18b55-q25",
+      "number": 25,
+      "question": "Multiply 0.45 by 0.6 and express the result as a decimal.",
+      "questionHtml": "<p>Multiply 0.45 by 0.6 and express the result as a decimal.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.86",
+          "html": "<p>0.86</p>"
+        },
+        {
+          "id": "B",
+          "text": "0.27",
+          "html": "<p>0.27</p>"
+        },
+        {
+          "id": "C",
+          "text": "0.76",
+          "html": "<p>0.76</p>"
+        },
+        {
+          "id": "D",
+          "text": "0.54",
+          "html": "<p>0.54</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>0.45 × 0.6 = (45 × 6) / 1000 = 270 / 1000 = 0.27.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

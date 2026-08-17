@@ -1,0 +1,865 @@
+{
+  "id": "39c3f177adf0",
+  "provider": "RBE_Mocks",
+  "sourceFile": "Reasoning_Sectional_Mock_Test-16.html",
+  "sourcePath": "RBE_MOCKS/Reasoning_Sectional_Mock_Test-16.html",
+  "title": "Reasoning Sectional Mock Test-16",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 100,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "39c3f177adf0-q1",
+      "number": 1,
+      "question": "In a certain code language, 'train bus signal track' is written as 'mo lo jo ko', 'track metro engine signal' is written as 'po mo ro jo', 'train engine bus platform' is written as 'lo ko to ro', and 'metro bus signal platform' is written as 'to mo lo po'. How is 'train' written in the given language?",
+      "questionHtml": "<p>In a certain code language,<br/>'train bus signal track' is written as 'mo lo jo ko',<br/>'track metro engine signal' is written as 'po mo ro jo',<br/>'train engine bus platform' is written as 'lo ko to ro', and<br/>'metro bus signal platform' is written as 'to mo lo po'.</p><p>How is 'train' written in the given language?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ko",
+          "html": "<p>ko</p>"
+        },
+        {
+          "id": "B",
+          "text": "lo",
+          "html": "<p>lo</p>"
+        },
+        {
+          "id": "C",
+          "text": "jo",
+          "html": "<p>jo</p>"
+        },
+        {
+          "id": "D",
+          "text": "ro",
+          "html": "<p>ro</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Common words: train, bus<br/>Common codes: lo, ko</p><p>Now check another sentence:</p><p>Therefore, train = ko</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q2",
+      "number": 2,
+      "question": "Evaluate the following expression: |6 × 4 − 3 × 8 ÷ 2 + 5| mod 13",
+      "questionHtml": "<p>Evaluate the following expression:<br/>|6 × 4 − 3 × 8 ÷ 2 + 5| mod 13</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "<p> 2</p>"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "<p> 3</p>"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "<p> 4</p>"
+        },
+        {
+          "id": "D",
+          "text": "5",
+          "html": "<p> 5</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Solution:</p><p>Step-by-step calculation:</p><p>Now:<br/>17 mod 13 = 4</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q3",
+      "number": 3,
+      "question": "Statement— Drinking and rave parties have become fashion among the present college youth which divert them from their studies. Courses of Action— I. The State Government should make it a rule to disallow the students from entering Pubs and Bars. II. The parents as well as the colleges should impose strict discipline among the college going youth.",
+      "questionHtml": "<p>Statement—</p><p>Drinking and rave parties have become fashion among the present college youth which divert them from their studies.</p><p>Courses of Action—</p><p>I. The State Government should make it a rule to disallow the students from entering Pubs and Bars.</p><p>II. The parents as well as the colleges should impose strict discipline among the college going youth.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "if only I follows.",
+          "html": "<p>if only I follows.</p>"
+        },
+        {
+          "id": "B",
+          "text": "if only II follows.",
+          "html": "<p>if only II follows.</p>"
+        },
+        {
+          "id": "C",
+          "text": "if neither I nor II follows.",
+          "html": "<p>if neither I nor II follows.</p>"
+        },
+        {
+          "id": "D",
+          "text": "if both I and II follow.",
+          "html": "<p>if both I and II follow.</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Statement: Drinking and rave parties have become fashion among the present college youth which divert them from their studies.</p><p>Course of Action I: </p><p>\"The State Government should make it a rule to disallow the students from entering Pubs and Bars.\"</p><p>→ This action is extreme and difficult to implement. It assumes all students who visit such places are irresponsible, which is a sweeping generalization. Moreover, it infringes on personal freedom and may not effectively prevent academic distraction. The root issue is behavioral, not merely access-based. Hence, this is not a valid course of action. </p><p>Course of Action II: </p><p>\"The parents as well as the colleges should impose strict discipline among the college going youth.\"</p><p>→ This is a balanced and feasible approach. Parents and colleges are directly responsible for shaping students' values and habits. Discipline can be instilled through mentoring, awareness programs, and academic support. It targets the underlying issue—lack of guidance—rather than imposing blanket bans. Hence, this is a valid course of action. </p><p>Answer: (2) if only II follows.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q4",
+      "number": 4,
+      "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements. Statements: All hyenas are pandas Some deer are buffaloes Some hyenas are scorpions Conclusions: (I) Some pandas are deer (II) Some hyenas are buffaloes (III) Some pandas are scorpions",
+      "questionHtml": "<p>Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.<br/>Statements: <br/>All hyenas are pandas<br/>Some deer are buffaloes <br/>Some hyenas are scorpions <br/>Conclusions: <br/>(I) Some pandas are deer<br/>(II) Some hyenas are buffaloes<br/>(III) Some pandas are scorpions</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only conclusion III follow",
+          "html": "<p> Only conclusion III follow</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only conclusion II follows",
+          "html": "<p> Only conclusion II follows</p>"
+        },
+        {
+          "id": "C",
+          "text": "None of the conclusions follow",
+          "html": "<p> None of the conclusions follow</p>"
+        },
+        {
+          "id": "D",
+          "text": "Only conclusion I follows",
+          "html": "<p> Only conclusion I follows</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755084338664_image001.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q5",
+      "number": 5,
+      "question": "In the given letter-cluster pairs, the first letter-cluster is related to the second letter-cluster following a certain logic. Study the given pairs carefully, and from the given options, select the pair that follows the same logic. ENT: FQV FET: GHV",
+      "questionHtml": "<p>In the given letter-cluster pairs, the first letter-cluster is related to the second letter-cluster following a certain logic. Study the given pairs carefully, and from the given options, select the pair that follows the same logic.<br/>ENT: FQV<br/>FET: GHV</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "QRY : SUB",
+          "html": "<p> QRY : SUB</p>"
+        },
+        {
+          "id": "B",
+          "text": "SHE : TKH",
+          "html": "<p> SHE : TKH</p>"
+        },
+        {
+          "id": "C",
+          "text": "TEN : UHP",
+          "html": "<p> TEN : UHP</p>"
+        },
+        {
+          "id": "D",
+          "text": "GMT : HOV",
+          "html": "<p> GMT : HOV</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755084338664_image002.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q6",
+      "number": 6,
+      "question": "Study the following information carefully and answer the given questions: If ‘P @ Q’ means ‘P is the mother of Q’ If ‘P # Q’ means ‘P is the brother of Q’ If ‘P $ Q’ means ‘P is the sister of Q’ If ‘P * Q’ means ‘P is the father of Q’ If ‘J @ K * L $ M # N’ is given, then how is N related to J?",
+      "questionHtml": "<p>Study the following information carefully and answer the given questions:</p><p>If ‘P @ Q’ means ‘P is the mother of Q’<br/>If ‘P # Q’ means ‘P is the brother of Q’<br/>If ‘P $ Q’ means ‘P is the sister of Q’<br/>If ‘P * Q’ means ‘P is the father of Q’</p><p>If ‘J @ K * L $ M # N’ is given, then how is N related to J?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Grandson",
+          "html": "<p>Grandson</p>"
+        },
+        {
+          "id": "B",
+          "text": "Granddaughter",
+          "html": "<p>Granddaughter</p>"
+        },
+        {
+          "id": "C",
+          "text": "Grandchild",
+          "html": "<p>Grandchild</p>"
+        },
+        {
+          "id": "D",
+          "text": "Cannot be determined",
+          "html": "<p>Cannot be determined</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>So, N is grandchild of J.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q7",
+      "number": 7,
+      "question": "Study the following input-output and answer the question below. Input: go 41 time 23 now 36 fast 52 Step I: fast go 41 time 23 now 36 52 Step II: fast go now 41 time 23 36 52 Step III: fast go now time 41 23 36 52 Step IV: fast go now time 23 36 41 52 What is the logic used in this arrangement?",
+      "questionHtml": "<p>Study the following input-output and answer the question below.</p><p>Input:<br/>go 41 time 23 now 36 fast 52</p><p>Step I: fast go 41 time 23 now 36 52<br/>Step II: fast go now 41 time 23 36 52<br/>Step III: fast go now time 41 23 36 52<br/>Step IV: fast go now time 23 36 41 52</p><p>What is the logic used in this arrangement?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Words arranged in reverse alphabetical order followed by numbers in ascending order",
+          "html": "<p>Words arranged in reverse alphabetical order followed by numbers in ascending order</p>"
+        },
+        {
+          "id": "B",
+          "text": "Words arranged in alphabetical order followed by numbers in ascending order",
+          "html": "<p>Words arranged in alphabetical order followed by numbers in ascending order</p>"
+        },
+        {
+          "id": "C",
+          "text": "Numbers arranged in descending order followed by words in reverse order",
+          "html": "<p>Numbers arranged in descending order followed by words in reverse order</p>"
+        },
+        {
+          "id": "D",
+          "text": "Words arranged in alphabetical order followed by numbers in descending order",
+          "html": "<p>Words arranged in alphabetical order followed by numbers in descending order</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>First part = Words in alphabetical order:</p><p>Second part = Numbers in ascending order:</p><p>So, the final output is:<br/>fast go now time 23 36 41 52</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q8",
+      "number": 8,
+      "question": "You were travelling by bus with your classmates on a school trip. Suddenly, the bus met with an accident, and the teacher was injured badly. No other adults were nearby, and you had a phone. What would you do?",
+      "questionHtml": "<p>You were travelling by bus with your classmates on a school trip. Suddenly, the bus met with an accident, and the teacher was injured badly. No other adults were nearby, and you had a phone. What would you do?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Get scared and wait for someone else to take action.",
+          "html": "<p>Get scared and wait for someone else to take action.</p>"
+        },
+        {
+          "id": "B",
+          "text": "Run away from the spot to avoid getting involved.",
+          "html": "<p>Run away from the spot to avoid getting involved.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Call the ambulance and inform the school authorities immediately.",
+          "html": "<p>Call the ambulance and inform the school authorities immediately.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Start shouting and blaming the driver.",
+          "html": "<p>Start shouting and blaming the driver.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct Answer: c) Call the ambulance and inform the school authorities immediately.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q9",
+      "number": 9,
+      "question": "In this question, a group of numbers/symbols is coded using letters as per the table given below and the conditions that follow. The correct combination of codes following the condition is your answer. Number/Symbol 1 2 3 4 6 9 @ # % & < Code E G P T U M K A B W Y Conditions: (i) If the first element is a symbol and the third element is a number, then interchange their codes. (ii) If the first element is an odd number and the last element is an even number, then the codes for both first and last elements should be replaced with 'Ø'. (iii) If both the second and third elements are perfect cube, then the third element is to be coded as the code for the second element. How will ‘# 4 9 <’ be coded?",
+      "questionHtml": "<p>In this question, a group of numbers/symbols is coded using letters as per the table given below and the conditions that follow. The correct combination of codes following the condition is your answer.</p><p>Number/Symbol</p><p>1</p><p>2</p><p>3</p><p>4</p><p>6</p><p>9</p><p>@</p><p>#</p><p>%</p><p>&amp;</p><p>&lt;</p><p>Code</p><p>E</p><p>G</p><p>P</p><p>T</p><p>U</p><p>M</p><p>K</p><p>A</p><p>B</p><p>W</p><p>Y</p><p>Conditions:</p><p>(i) If the first element is a symbol and the third element is a number, then interchange their codes.</p><p>(ii) If the first element is an odd number and the last element is an even number, then the codes for both first and last elements should be replaced with 'Ø'.</p><p>(iii) If both the second and third elements are perfect cube, then the third element is to be coded as the code for the second element.</p><p>How will ‘# 4 9 &lt;’ be coded?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A T M Y",
+          "html": "<p>A T M Y</p>"
+        },
+        {
+          "id": "B",
+          "text": "M T A Y",
+          "html": "<p>M T A Y</p>"
+        },
+        {
+          "id": "C",
+          "text": "A T T Y",
+          "html": "<p>A T T Y</p>"
+        },
+        {
+          "id": "D",
+          "text": "Ø T M Ø",
+          "html": "<p>Ø T M Ø</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>→ So base code = A T M Y</p><p>Now apply conditions one by one:</p><p>Condition (i):</p><p>\"If 1st is a symbol and 3rd is a number, interchange their codes.\"</p><p>New code: M T A Y</p><p>Condition (ii):</p><p>\"If 1st is an odd number and last is even number, replace both with Ø\"<br/>→ 1st = # → symbol ❌ → Not applicable</p><p>Condition (iii):</p><p>\"If 2nd and 3rd are perfect cube, 3rd takes code of 2nd\"→ Not applicable</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q10",
+      "number": 10,
+      "question": "Statements— Until your country achieves economic equality, political freedom and democracy would be meaningless. Conclusions— I. Political freedom and democracy go hand in hand. II. Economic equality leads to real political freedom and democracy.",
+      "questionHtml": "<p>Statements—</p><p>Until your country achieves economic equality, political freedom and democracy would be meaningless.</p><p>Conclusions—</p><p>I. Political freedom and democracy go hand in hand.</p><p>II. Economic equality leads to real political freedom and democracy.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "if only I follow.",
+          "html": "<p>if only I follow.</p>"
+        },
+        {
+          "id": "B",
+          "text": "if only II follow.",
+          "html": "<p> if only II follow.</p>"
+        },
+        {
+          "id": "C",
+          "text": "if neither I nor II follow.",
+          "html": "<p>if neither I nor II follow.</p>"
+        },
+        {
+          "id": "D",
+          "text": "if both I and II follows.",
+          "html": "<p>if both I and II follows.</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>There is nothing mentioned about the relation between political freedom and</p><p>democracy in the statement. Hence, I does not follow. In case of conclusion II, it is directly followed from the given statement.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q11",
+      "number": 11,
+      "question": "Which one of the given addresses is EXACTLY the same as the one given below? Zenith Technologies Plot No. 42B, Industrial Estate Phase – II, Sector 18 CHANDIGARH – 160018",
+      "questionHtml": "<p>Which one of the given addresses is EXACTLY the same as the one given below?</p><p>Zenith Technologies<br/>Plot No. 42B, Industrial Estate<br/>Phase – II, Sector 18<br/>CHANDIGARH – 160018</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Zenith Technologies Plot No. 42B, Industrial Estate Phase – II, Sector 18 CHANDIGARH – 160081",
+          "html": "<p>Zenith Technologies<br/>Plot No. 42B, Industrial Estate<br/>Phase – II, Sector 18<br/>CHANDIGARH – 160081</p>"
+        },
+        {
+          "id": "B",
+          "text": "Zenith Technologies Plot No. 42B Industrial Estate Phase – II, Sector 18 CHANDIGARH – 160018",
+          "html": "<p>Zenith Technologies<br/>Plot No. 42B Industrial Estate<br/>Phase – II, Sector 18<br/>CHANDIGARH – 160018</p>"
+        },
+        {
+          "id": "C",
+          "text": "Zenith Technologies Plot No. 42B, Industrial Estate Phase – II, Sector 18 CHANDIGARH – 160018",
+          "html": "<p> Zenith Technologies<br/>Plot No. 42B, Industrial Estate<br/>Phase – II, Sector 18<br/>CHANDIGARH – 160018</p>"
+        },
+        {
+          "id": "D",
+          "text": "Zenith Technology Plot No. 42B, Industrial Estate Phase – II Sector 18 CHANDIGARH – 160018",
+          "html": "<p>Zenith Technology<br/>Plot No. 42B, Industrial Estate<br/>Phase – II Sector 18<br/>CHANDIGARH – 160018</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Zenith Technologies<br/>Plot No. 42B, Industrial Estate<br/>Phase – II, Sector 18<br/>CHANDIGARH – 160018</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q12",
+      "number": 12,
+      "question": "Aryan, in search of his girlfriend's house, walked 30 metres due north. He turned right and walked 18 metres. He again turned right and walked 30 metres. Finally, he turned left and walked 22 metres to reach his girlfriend's house. How far and in which direction is his girlfriend's house from his starting point?",
+      "questionHtml": "<p>Aryan, in search of his girlfriend's house, walked 30 metres due north. He turned right and walked 18 metres. He again turned right and walked 30 metres. Finally, he turned left and walked 22 metres to reach his girlfriend's house. How far and in which direction is his girlfriend's house from his starting point?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "100 m due East",
+          "html": "<p> 100 m due East</p>"
+        },
+        {
+          "id": "B",
+          "text": "40 m due East",
+          "html": "<p> 40 m due East</p>"
+        },
+        {
+          "id": "C",
+          "text": "40 m due west",
+          "html": "<p> 40 m due west</p>"
+        },
+        {
+          "id": "D",
+          "text": "60 m due East",
+          "html": "<p> 60 m due East</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755084338664_image003.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q13",
+      "number": 13,
+      "question": "Statement— The police in India have to cope with tremendous stress and strain, while maintaining security and order. Assumptions— I. In other countries the police do not have to undergo stress and strain while doing their duties. II. The police are expected to do their duties without stress and strain.",
+      "questionHtml": "<p>Statement—</p><p>The police in India have to cope with tremendous stress and strain, while maintaining security and order.</p><p>Assumptions—</p><p>I. In other countries the police do not have to undergo stress and strain while doing their duties.</p><p>II. The police are expected to do their duties without stress and strain.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "If only assumption I is implicit.",
+          "html": "<p>If only assumption I is implicit.</p>"
+        },
+        {
+          "id": "B",
+          "text": "If only assumption II is implicit.",
+          "html": "<p>If only assumption II is implicit.</p>"
+        },
+        {
+          "id": "C",
+          "text": "If both the assumptions are implicit.",
+          "html": "<p>If both the assumptions are implicit.</p>"
+        },
+        {
+          "id": "D",
+          "text": "If neither assumption I nor II is implicit.",
+          "html": "<p>If neither assumption I nor II is implicit.</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Statement: The police in India have to cope with tremendous stress and strain, while maintaining security and order.</p><p>Assumption I: </p><p>\"In other countries the police do not have to undergo stress and strain while doing their duties.\"</p><p>→ This is a comparison not made or implied in the statement. The statement only talks about the situation in India and makes no reference to other countries. ❌</p><p>Assumption II: </p><p>\"The police are expected to do their duties without stress and strain.\"</p><p>→ This is not implicit either. The statement acknowledges that stress and strain exist in the police force, but does not suggest that they are expected to work without it. ❌</p><p>Answer: (4) If neither assumption I nor II is implicit.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q14",
+      "number": 14,
+      "question": "Statement— Should day to day management of all the government hospitals in the country be handed over to the private companies on operate and maintain basis? Arguments— I. Yes, this will considerably improve the quality of services of these hospitals benefiting both the patient and the private companies. II. No, the poor people may not be able to afford high charges fixed by the private companies and they will be deprived of medical facilities.",
+      "questionHtml": "<p>Statement—</p><p>Should day to day management of all the government hospitals in the country be handed over to the private companies on operate and maintain basis?</p><p>Arguments—</p><p>I. Yes, this will considerably improve the quality of services of these hospitals benefiting both the patient and the private companies.</p><p>II. No, the poor people may not be able to afford high charges fixed by the private companies and they will be deprived of medical facilities.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "If only argument I is implicit.",
+          "html": "<p>If only argument I is implicit.</p>"
+        },
+        {
+          "id": "B",
+          "text": "If only argument II is implicit.",
+          "html": "<p>If only argument II is implicit.</p>"
+        },
+        {
+          "id": "C",
+          "text": "If both the arguments are implicit.",
+          "html": "<p>If both the arguments are implicit.</p>"
+        },
+        {
+          "id": "D",
+          "text": "If neither argument I nor II is implicit.",
+          "html": "<p>If neither argument I nor II is implicit.</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Argument I is not valid, because it is not necessary that private companies will care for the service benefitting for the patients. On the other hand, they will think over only for their personal and monetary benefit. </p><p>In argument II, it is clearly given that the poor people may not be able to afford high charges fixed by the private companies and the poor people will not get proper medical facilities.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q15",
+      "number": 15,
+      "question": "Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation. 22 * 16 * 12 * 3 * 3 * 2 * 4",
+      "questionHtml": "<p>Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation.<br/>22 * 16 * 12 * 3 * 3 * 2 * 4</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "̶ , +, ÷, ×, =, +",
+          "html": "<p> ̶ , +, ÷, ×, =, +</p>"
+        },
+        {
+          "id": "B",
+          "text": "̶ , +, ÷, =, ×, +",
+          "html": "<p> ̶ , +, ÷, =, ×, +</p>"
+        },
+        {
+          "id": "C",
+          "text": "+, ̶ , ÷, ×, =, +",
+          "html": "<p> +, ̶ , ÷, ×, =, +</p>"
+        },
+        {
+          "id": "D",
+          "text": "̶ , +, ×, =, ÷, +",
+          "html": "<p> ̶ , +, ×, =, ÷, +</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Option 2:</p><p>– , +, ÷, =, ×, +</p><p>So, equation becomes:</p><p>22 − 16 + 12 ÷ 3 = 3 × 2 + 4</p><p>Left side:</p><p>22 − 16 + (12 ÷ 3) = 6 + 4 = 10</p><p>Right side:</p><p>3 × 2 + 4 = 10</p><p>✅ Both sides = 10</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q16",
+      "number": 16,
+      "question": "Select the set in which the numbers are related in the same way as are the numbers of the following sets. (48, 23, 47) (22, 27, 38)",
+      "questionHtml": "<p>Select the set in which the numbers are related in the same way as are the numbers of the following sets.</p><p>(48, 23, 47)<br/>(22, 27, 38)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(18, 22, 28)",
+          "html": "<p>(18, 22, 28)</p>"
+        },
+        {
+          "id": "B",
+          "text": "(14, 30, 41)",
+          "html": "<p>(14, 30, 41)</p>"
+        },
+        {
+          "id": "C",
+          "text": "(26, 14, 32)",
+          "html": "<p>(26, 14, 32)</p>"
+        },
+        {
+          "id": "D",
+          "text": "(16, 31, 39)",
+          "html": "<p>(16, 31, 39)</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Logic: (c – b) × 2 = a</p><p>(48, 23, 47)<br/>→ (47 – 23) × 2 = 24 × 2 = 48 </p><p>22, 27, 38)<br/>→ (38 – 27) × 2 = 11 × 2 = 22 </p><p>Option d) (16, 31, 39)<br/>→ (39 – 31) × 2 = 8 × 2 = 16 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q17",
+      "number": 17,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755084338664_image004.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755084338664_image004.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755084338664_image005.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755084338664_image005.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755084338664_image006.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755084338664_image006.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755084338664_image007.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755084338664_image007.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755084338664_image008.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755084338664_image008.png"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755084338664_image009.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q18",
+      "number": 18,
+      "question": "4, 3, 6, 6, 8, 12, 10, 24, 12, ?",
+      "questionHtml": "<p>4, 3, 6, 6, 8, 12, 10, 24, 12, ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "34",
+          "html": "<p>34</p>"
+        },
+        {
+          "id": "B",
+          "text": "14",
+          "html": "<p>14</p>"
+        },
+        {
+          "id": "C",
+          "text": "48",
+          "html": "<p>48 </p>"
+        },
+        {
+          "id": "D",
+          "text": "28",
+          "html": "<p>28</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Given series = 4, 3, 6, 6, 8, 12, 10, 24, 12, ?</p><p>There are two series: (4, 6, 8, 10, 12) and (3, 6, 12, 24, 48...)<br/>One increases by 2 and the second one is multiplied by 2.<br/>Hence, the series is:<br/>4, 3, 6, 6, 8, 12, 10, 24, 12, 48</p><p>Hence, option C is correct. ✅</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q19",
+      "number": 19,
+      "question": "Select the number from among the given options that can replace the question mark (?) in the following series. 8, 32, 16, 64, 32, 128, ?",
+      "questionHtml": "<p>Select the number from among the given options that can replace the question mark (?) in the following series.<br/>8, 32, 16, 64, 32, 128, ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "48",
+          "html": "<p> 48</p>"
+        },
+        {
+          "id": "B",
+          "text": "64",
+          "html": "<p> 64</p>"
+        },
+        {
+          "id": "C",
+          "text": "192",
+          "html": "<p> 192</p>"
+        },
+        {
+          "id": "D",
+          "text": "256",
+          "html": "<p> 256</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Break into two alternating series:</p><p>Odd positions: 8, 16, 32, ?<br/>Even positions: 32, 64, 128</p><p>Even positions:</p><p>32, 64, 128 → Clearly ×2 pattern<br/>→ Next = 128 × 2 = 256</p><p>Odd positions:</p><p>8, 16, 32 → Also ×2 pattern<br/>→ Next = 32 × 2 = 64</p><p>Final Answer: b) 64</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q20",
+      "number": 20,
+      "question": "Z, Y, X, W, T, S, R and Q are eight colleagues, sitting around a circular table at equal distance to each other facing the centre, not necessarily in the same order. S is an immediate neighbour of both Z and W. X is an immediate neighbour of both Y and T. R sits to the immediate right of Z. Q sits to the immediate left of W. Y sits second to the left of W. Who sits second to the right of S?",
+      "questionHtml": "<p>Z, Y, X, W, T, S, R and Q are eight colleagues, sitting around a circular table at equal distance to each other facing the centre, not necessarily in the same order. S is an immediate neighbour of both Z and W. X is an immediate neighbour of both Y and T. R sits to the immediate right of Z. Q sits to the immediate left of W. Y sits second to the left of W. Who sits second to the right of S?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "X",
+          "html": "<p> X</p>"
+        },
+        {
+          "id": "B",
+          "text": "T",
+          "html": "<p> T</p>"
+        },
+        {
+          "id": "C",
+          "text": "R",
+          "html": "<p> R</p>"
+        },
+        {
+          "id": "D",
+          "text": "Q",
+          "html": "<p> Q</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755084338664_image010.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q21",
+      "number": 21,
+      "question": "Find out the wrong number in the following number series. 256, 240, 218, 179, 130, 66",
+      "questionHtml": "<p>Find out the wrong number in the following</p><p>number series.<br/>256, 240, 218, 179, 130, 66</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "218",
+          "html": "<p> 218</p>"
+        },
+        {
+          "id": "B",
+          "text": "66",
+          "html": "<p> 66</p>"
+        },
+        {
+          "id": "C",
+          "text": "179",
+          "html": "<p> 179</p>"
+        },
+        {
+          "id": "D",
+          "text": "240",
+          "html": "<p> 240</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Answer: A</p><p>256 – 4² = 240<br/>240 – 5² = 215<br/>215 – 6² = 179<br/>179 – 7² = 130<br/>130 – 8² = 66</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q22",
+      "number": 22,
+      "question": "From the 1st, 4th, 6th, and 8th letters of the word INFORMATION, how many meaningful words can be formed?",
+      "questionHtml": "<p>From the 1st, 4th, 6th, and 8th letters of the word INFORMATION, how many meaningful words can be formed?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "One",
+          "html": "<p>One</p>"
+        },
+        {
+          "id": "B",
+          "text": "Two",
+          "html": "<p>Two</p>"
+        },
+        {
+          "id": "C",
+          "text": "Three",
+          "html": "<p>Three </p>"
+        },
+        {
+          "id": "D",
+          "text": "None",
+          "html": "<p>None </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Word: INFORMATION<br/>Letters: 1st, 4th, 6th, and 8th<br/>➡ I, O, M, T</p><p>Try possible combinations:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q23",
+      "number": 23,
+      "question": "You are leading a group project. One of your team members is not contributing much, but you recently found out their parent is hospitalised. What is the most emotionally intelligent way to respond?",
+      "questionHtml": "<p>You are leading a group project. One of your team members is not contributing much, but you recently found out their parent is hospitalised. What is the most emotionally intelligent way to respond?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Remove the member from the team for being irresponsible.",
+          "html": "<p>Remove the member from the team for being irresponsible.</p>"
+        },
+        {
+          "id": "B",
+          "text": "Publicly point out their lack of work in front of everyone.",
+          "html": "<p>Publicly point out their lack of work in front of everyone.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Privately talk to them and ask how you can support them.",
+          "html": "<p>Privately talk to them and ask how you can support them.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Complain to the teacher without discussing with the person.",
+          "html": "<p>Complain to the teacher without discussing with the person.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Privately talk to them and ask how you can support them. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q24",
+      "number": 24,
+      "question": "Statement: In many developing countries, natural resources are being depleted due to rapid increase in population. Conclusion: I. The population of developing countries will not continue to increase in the future II. Management of natural resources and population growth is a major challenge for developing countries",
+      "questionHtml": "<p>Statement:<br/>In many developing countries, natural resources are being depleted due to rapid increase in population.</p><p>Conclusion:<br/>I. The population of developing countries will not continue to increase in the future<br/>II. Management of natural resources and population growth is a major challenge for developing countries</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neither I nor II follows",
+          "html": "<p>Neither I nor II follows</p>"
+        },
+        {
+          "id": "B",
+          "text": "Both I and II follow",
+          "html": "<p>Both I and II follow</p>"
+        },
+        {
+          "id": "C",
+          "text": "Only I follows",
+          "html": "<p>Only I follows</p>"
+        },
+        {
+          "id": "D",
+          "text": "Only II follows",
+          "html": "<p>Only II follows</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>According to the above statement, Only conclusion II (Management of natural resources and population growth is major challenge for developing countries) is follows. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c3f177adf0-q25",
+      "number": 25,
+      "question": "Statement: In a recent study, it has been observed that people exercising 5 days a week are less affected by lifestyle diseases. Conclusion: I. Physical fitness is important for a healthy life. II. Exercising 6 days in a week will create health problems.",
+      "questionHtml": "<p>Statement:<br/>In a recent study, it has been observed that people exercising 5 days a week are less affected by lifestyle diseases.</p><p>Conclusion:<br/>I. Physical fitness is important for a healthy life.<br/>II. Exercising 6 days in a week will create health problems.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only conclusion II follows",
+          "html": "<p>Only conclusion II follows</p>"
+        },
+        {
+          "id": "B",
+          "text": "Both conclusion I and II follows",
+          "html": "<p>Both conclusion I and II follows</p>"
+        },
+        {
+          "id": "C",
+          "text": "Only conclusion I follows",
+          "html": "<p>Only conclusion I follows</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither I nor II follows",
+          "html": "<p>Neither I nor II follows</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>It was observed in the study that by exercising 5 days in a week people are less affected by diseases in their lifestyles because by exercising they remain physically and mentally healthy. Therefore, exercise is very important in terms of health. Hence, only conclusion I follows. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "id": "5f199f997089",
+  "provider": "Testbook",
+  "sourceFile": "CGL Tier II CT 23_ Algebraic Identities - 01.html",
+  "sourcePath": "Testbook/files/CGL Tier II CT 23_ Algebraic Identities - 01.html",
+  "title": "CGL Tier II CT 23: Algebraic Identities - 01",
+  "exam": null,
+  "year": null,
+  "tier": "Tier I",
+  "shift": null,
+  "duration": null,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "5f199f997089-q1",
+      "number": 1,
+      "question": "If a 2 + b 2 + c 2 = ab + bc + ac, then find the value of a 3 + b 3 + c 3 .",
+      "questionHtml": "If a<sup>2</sup>&nbsp;+ b<sup>2&nbsp;</sup>+ c<sup>2</sup>&nbsp;= ab + bc + ac, then find the value of a<sup>3</sup>&nbsp;+ b<sup>3</sup>&nbsp;+ c<sup>3</sup>.",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "text": "3abc",
+          "html": "3abc"
+        },
+        {
+          "id": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>For real numbers, the condition a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> = ab + bc + ac is satisfied only when a = b = c.</p>\n<p>Let a = b = c = 1. Then, 1<sup>2</sup> + 1<sup>2</sup> + 1<sup>2</sup> = 1×1 + 1×1 + 1×1 ⇒ 3 = 3.</p>\n<p>Substitute these values into the required expression: a<sup>3</sup> + b<sup>3</sup> + c<sup>3</sup> = 1<sup>3</sup> + 1<sup>3</sup> + 1<sup>3</sup> = 3.</p>\n<p>Among the options, 3abc = 3 × 1 × 1 × 1 = 3, which matches the result.</p>\n<p><strong>∴ The correct answer is 3abc.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p>Given: a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> = ab + bc + ac</p>\n<p>Formula Used: a<sup>3</sup> + b<sup>3</sup> + c<sup>3</sup> − 3abc = (a + b + c)(a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> − ab − bc − ac)</p>\n<p>⇒ a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> − ab − bc − ac = 0</p>\n<p>⇒ a<sup>3</sup> + b<sup>3</sup> + c<sup>3</sup> − 3abc = (a + b + c) × (a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> − ab − bc − ac)</p>\n<p>⇒ a<sup>3</sup> + b<sup>3</sup> + c<sup>3</sup> − 3abc = (a + b + c) × 0</p>\n<p>⇒ a<sup>3</sup> + b<sup>3</sup> + c<sup>3</sup> − 3abc = 0</p>\n<p>⇒ a<sup>3</sup> + b<sup>3</sup> + c<sup>3</sup> = 3abc</p>\n<p><strong>∴ The correct answer is 3abc.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Cubic Algebra Identity</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The general expansion is a<sup>3</sup> + b<sup>3</sup> + c<sup>3</sup> − 3abc = (a + b + c)(a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> − ab − bc − ac).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Special Conditional Case</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If a + b + c = 0, then the entire product on the right side becomes zero, resulting in a<sup>3</sup> + b<sup>3</sup> + c<sup>3</sup> = 3abc.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Equality Condition for Squares</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The expression a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> − ab − bc − ac can be rewritten as 1/2[(a − b)<sup>2</sup> + (b − c)<sup>2</sup> + (c − a)<sup>2</sup>]. For real numbers, this is 0 only when a = b = c.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5f199f997089-q2",
+      "number": 2,
+      "question": "value of \\(\\frac{{{{(a - b)}^3} + {{(b - c)}^3} + (c - a)^3}}{{{{({a^2} - {b^2})}^3} + {{({b^2} - {c^2})}^3} + {{({c^2} - {a^2})}^3}}}\\) Is equal to :",
+      "questionHtml": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\"><font class=\"goog-text-highlight\" style=\"vertical-align: inherit;\">value of&nbsp;</font></font></font></font><span class=\"math-tex\">\\(\\frac{{{{(a - b)}^3} + {{(b - c)}^3} + (c - a)^3}}{{{{({a^2} - {b^2})}^3} + {{({b^2} - {c^2})}^3} + {{({c^2} - {a^2})}^3}}}\\)</span><font style=\"vertical-align: inherit;\"><font class=\"goog-text-highlight\" style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">&nbsp;Is equal to :</font></font></font>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ab + bc + ca",
+          "html": "ab + bc + ca"
+        },
+        {
+          "id": "B",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "html": "1&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{1}{{(a + b)(b + c)(c + a)}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{{(a + b)(b + c)(c + a)}}\\)</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"\"><span style=\"font-weight: 700;\">Concept used:</span></p>\n\n<p style=\"\">If x + y + z = 0, then, x<sup>3</sup> + y<sup>3</sup> + z<sup>3</sup> = 3xyz</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculations:</span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\"><span class=\"math-tex\">\\(\\frac{{{{(a - b)}^3} + {{(b - c)}^3} + (c - a)^3}}{{{{({a^2} - {b^2})}^3} + {{({b^2} - {c^2})}^3} + {{({c^2} - {a^2})}^3}}}\\)</span></span></p>\n\n<p style=\"\">x = (a - b)</p>\n\n<p style=\"\">y = (b - c)</p>\n\n<p style=\"\">z = (c - a)</p>\n\n<p style=\"\">x + y + z = a - b + b - c + c - a = (a + b + c) - (a + b + c) = 0</p>\n\n<p style=\"\">So, <span style=\"color:  (33, 37, 41);\">x</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span><span style=\"color:  (33, 37, 41);\"> + y</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span><span style=\"color:  (33, 37, 41);\"> + z</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span><span style=\"color:  (33, 37, 41);\"> = 3xyz = 3(a - b)(b - c)(c - a)</span></p>\n\n<p style=\"\">Similarly,</p>\n\n<p style=\"\">m = (a<sup>2</sup> - b<sup>2</sup>)</p>\n\n<p style=\"\">n = (b<sup>2</sup> - c<sup>2</sup>)</p>\n\n<p style=\"\">o = (c<sup>2</sup> - a<sup>2</sup>)</p>\n\n<p style=\"\">m + n + o = (a<sup>2</sup> - b<sup>2</sup>) + (b<sup>2</sup> - c<sup>2</sup>) + (c<sup>2</sup> - a<sup>2</sup>) = 0</p>\n\n<p style=\"\">So, m<sup>3</sup> + n<sup>3</sup> + o<sup>3</sup> = 3mno = 3<span style=\"\">(a&sup2;-b&sup2;)(b&sup2;-c&sup2;)(c&sup2;-a&sup2;)</span></p>\n\n<p style=\"\">Thus, we have :</p>\n\n<p style=\"\"><span class=\"math-tex\">\\(\\frac{3(a-b)(b-c)(c-a)}{3(a²-b²)(b²-c²)(c²-a²)}\\)</span></p>\n\n<p style=\"\">=<span class=\"math-tex\">\\(\\frac{3(a-b)(b-c)(c-a)}{3(a-b)(a+b)(b-c)(b+c)(c-a)(c+a)}\\)</span></p>\n\n<p style=\"\">= <span class=\"math-tex\">\\(\\frac{1}{(a+b)(b+c)(c+a)}\\)</span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\"><span class=\"math-tex\">\\(\\therefore\\)</span> The correct answer is option (4).</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5f199f997089-q3",
+      "number": 3,
+      "question": "If a + b + c = 1, ab + bc + ca = -8 and a 3 + b 3 + c 3 = -11, then what is the value of \\(\\frac{{\\rm{a}}}{{{\\rm{bc}}}} + \\frac{{\\rm{b}}}{{{\\rm{ac}}}} + \\frac{{\\rm{c}}}{{{\\rm{ab}}}}\\) ?",
+      "questionHtml": "If a + b + c = 1, ab + bc + ca = -8 and a<sup>3</sup>&nbsp;+ b<sup>3</sup>&nbsp;+ c<sup>3</sup>&nbsp;= -11, then what is the value of&nbsp;<span class=\"math-tex\">\\(\\frac{{\\rm{a}}}{{{\\rm{bc}}}} + \\frac{{\\rm{b}}}{{{\\rm{ac}}}} + \\frac{{\\rm{c}}}{{{\\rm{ab}}}}\\)</span>?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{4}{3}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{4}{3}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{{ - 17}}{{12}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{{ - 17}}{{12}}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{7}{{12}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{7}{{12}}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{{ - 5}}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{{ - 5}}{4}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"\"><span style=\"font-weight: 700;\">Formula:</span></p>\n\n<p style=\"\">a<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span>&nbsp;+ b<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span>&nbsp;+ c<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span>&nbsp;- 3abc&nbsp;= (a&nbsp;+ b&nbsp;+ c) &times; (a<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;+ b<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;+ c<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;- ab&nbsp;- bc&nbsp;- ac)</p>\n\n<p style=\"\">(a + b + c)<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> + 2&nbsp;&times; (ab + bc + ac)</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\">Substituting the values in&nbsp;<span style=\"\">a</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">3</span><span style=\"\">&nbsp;+ b</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">3</span><span style=\"\">&nbsp;+ c</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">3</span><span style=\"\">&nbsp;- 3abc</span> , we get-</p>\n\n<p style=\"\">&rArr; -11 - 3abc = 1&nbsp;&times; (<span style=\"\">a</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;+ b</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;+ c</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;- (ab + bc + ca)</span>)</p>\n\n<p style=\"\">&rArr; -11 - 3abc =&nbsp;<span style=\"\">a</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;+ b</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;+ c</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;- (-8)</span></p>\n\n<p style=\"\"><span style=\"\">&rArr; -11 - 3abc =&nbsp;a</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;+ b</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;+ c</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;+ 8</span></p>\n\n<p style=\"\"><span style=\"\">&rArr; -19&nbsp;- 3abc =&nbsp;a</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;+ b</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;+ c</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span></p>\n\n<p style=\"\"><span style=\"\">&rArr;&nbsp; -19 -3abc = 17</span></p>\n\n<p style=\"\"><span style=\"\">&rArr; 3abc = -36 or abc = -12</span></p>\n\n<p style=\"\">Now, substituting the values in (a + b + c)<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;-</p>\n\n<p style=\"\">&rArr; 1<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;=&nbsp;a<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;+ b<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;+ c<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;+ 2&nbsp;&times; (-8)</p>\n\n<p style=\"\">&rArr; 1 + 16 =&nbsp;a<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;+ b<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;+ c<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></p>\n\n<p style=\"\">&rArr; a<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;+ b<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;+ c<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2&nbsp;</span>= 17</p>\n\n<p style=\"\">Dividing by &quot;abc&quot; both sides, we get-</p>\n\n<p style=\"\">&rArr;<span class=\"math-tex\">\\( a^2 \\over abc\\)</span>+&nbsp;<span class=\"math-tex\">\\(b^2 \\over abc\\)</span>+&nbsp;<span class=\"math-tex\">\\(c^2\\over abc\\)</span><span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">&nbsp;</span>=&nbsp;<span class=\"math-tex\">\\(17\\over abc\\)</span></p>\n\n<p style=\"\">Substituting the value of &quot;abc&quot; in the LHS, we get-</p>\n\n<p style=\"\">&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{{\\rm{a}}}{{{\\rm{bc}}}} + \\frac{{\\rm{b}}}{{{\\rm{ac}}}} + \\frac{{\\rm{c}}}{{{\\rm{ab}}}}\\)</span>&nbsp;=&nbsp;<span class=\"math-tex\">\\(-17\\over 12\\)</span></p>\n\n<p style=\"\">&there4; <strong>The value of the expression is&nbsp;<span class=\"math-tex\">\\(-17\\over 12\\)</span>.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5f199f997089-q4",
+      "number": 4,
+      "question": "Simplify the following expression: \\(\\rm \\frac{3.2\\times 3.2-0.2\\times 0.2}{0.2\\times 0.2-2\\times 0.2\\times 3.2+3.2\\times 3.2}\\)",
+      "questionHtml": "<p>Simplify the following expression:&nbsp;</p>\n\n<p><span class=\"math-tex\">\\(\\rm \\frac{3.2\\times 3.2-0.2\\times 0.2}{0.2\\times 0.2-2\\times 0.2\\times 3.2+3.2\\times 3.2}\\)</span></p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{13}{15}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{13}{15}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{19}{15}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{19}{15}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{17}{15}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{17}{15}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{11}{15}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{11}{15}\\)</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "(3.2<sup>2</sup> - 0.2<sup>2</sup>) / (0.2<sup>2</sup> - 2 × 0.2 × 3.2 + 3.2<sup>2</sup>) ⇒ <span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">(10.24 - 0.04) / (0.04 - 1.28 + 10.24) ⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">10.2 / 9 ⇒ 17/15</span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5f199f997089-q5",
+      "number": 5,
+      "question": "If (5x + 3y) 3 + (5x - 3y) 3 = 10 (Cx 3 + Dxy 2 ), then find the value of 2&radic;C - D.",
+      "questionHtml": "If (5x + 3y)<sup>3</sup>&nbsp;+ (5x - 3y)<sup>3</sup>&nbsp;= 10 (Cx<sup>3</sup>&nbsp;+ Dxy<sup>2</sup>), then find the value of 2&radic;C - D.",
+      "options": [
+        {
+          "id": "A",
+          "text": "-19",
+          "html": "-19"
+        },
+        {
+          "id": "B",
+          "text": "-17",
+          "html": "-17"
+        },
+        {
+          "id": "C",
+          "text": "17",
+          "html": "17"
+        },
+        {
+          "id": "D",
+          "text": "23",
+          "html": "23"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Using identity: (a + b)<sup>3</sup> + (a − b)<sup>3</sup> = 2a(a<sup>2</sup> + 3b<sup>2</sup>)</p>\n<p>Substitute a = 5x and b = 3y: 2(5x)((5x)<sup>2</sup> + 3(3y)<sup>2</sup>)</p>\n<p>= 10x(25x<sup>2</sup> + 27y<sup>2</sup>) = 250x<sup>3</sup> + 270xy<sup>2</sup></p>\n<p>Comparing with 10(Cx<sup>3</sup> + Dxy<sup>2</sup>) ⇒ C = 25, D = 27</p>\n<p>2√C − D = 2√25 − 27 = 10 − 27 = −17</p>\n<p><strong>∴ The correct answer is −17.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> (5x + 3y)<sup>3</sup> + (5x − 3y)<sup>3</sup> = 10(Cx<sup>3</sup> + Dxy<sup>2</sup>)</p>\n<p><strong>Formula Used:</strong> (A + B)<sup>3</sup> + (A − B)<sup>3</sup> = 2A<sup>3</sup> + 6AB<sup>2</sup></p>\n<p>⇒ Let A = 5x and B = 3y</p>\n<p>⇒ LHS = 2(5x)<sup>3</sup> + 6(5x)(3y)<sup>2</sup></p>\n<p>⇒ LHS = 2(125x<sup>3</sup>) + 30x(9y<sup>2</sup>)</p>\n<p>⇒ LHS = 250x<sup>3</sup> + 270xy<sup>2</sup></p>\n<p>⇒ 10(Cx<sup>3</sup> + Dxy<sup>2</sup>) = 250x<sup>3</sup> + 270xy<sup>2</sup></p>\n<p>⇒ Cx<sup>3</sup> + Dxy<sup>2</sup> = 25x<sup>3</sup> + 27xy<sup>2</sup></p>\n<p>⇒ C = 25 and D = 27</p>\n<p>⇒ Required value = 2√C − D</p>\n<p>⇒ 2√25 − 27 = 2 × 5 − 27</p>\n<p>⇒ 10 − 27 = −17</p>\n<p><strong>∴ The correct answer is −17.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Difference of Cubes Expansion</p>\n<p style='margin:0 0 8px 0;color:#444444;'>(a + b)<sup>3</sup> − (a − b)<sup>3</sup> = 2b<sup>3</sup> + 6a<sup>2</sup>b = 2b(b<sup>2</sup> + 3a<sup>2</sup>)</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Sum and Difference of Two Cubes</p>\n<p style='margin:0 0 8px 0;color:#444444;'>a<sup>3</sup> + b<sup>3</sup> = (a + b)(a<sup>2</sup> − ab + b<sup>2</sup>) and a<sup>3</sup> − b<sup>3</sup> = (a − b)(a<sup>2</sup> + ab + b<sup>2</sup>)</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Standard Algebraic Identity</p>\n<p style='margin:0 0 8px 0;color:#444444;'>(a + b)<sup>3</sup> = a<sup>3</sup> + b<sup>3</sup> + 3ab(a + b) and (a − b)<sup>3</sup> = a<sup>3</sup> − b<sup>3</sup> − 3ab(a − b)</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5f199f997089-q6",
+      "number": 6,
+      "question": "Simplify- \\(\\frac{3\\times0.74\\times1.23\\times0.13}{[(0.37)^3+(0.41)^3-8(0.39)^3]}=?\\)",
+      "questionHtml": "<p>Simplify-</p>\n\n<p><span class=\"math-tex\">\\(\\frac{3\\times0.74\\times1.23\\times0.13}{[(0.37)^3+(0.41)^3-8(0.39)^3]}=?\\)</span></p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "-3",
+          "html": "-3"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "text": "-1",
+          "html": "-1"
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "html": "3"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span class=\"math-tex\">\\(\\frac{3\\times0.74\\times1.23\\times0.13}{[(0.37)^3+(0.41)^3-8(0.39)^3]}\\)</span></p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>If a + b + c = 0, then a<sup>3</sup> + b<sup>3</sup> + c<sup>3</sup> = 3abc</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><span class=\"math-tex\">\\(\\frac{3\\times0.74\\times1.23\\times0.13}{[(0.37)^3+(0.41)^3-8(0.39)^3]}\\)</span></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{3\\times0.74\\times1.23\\times0.13}{[(0.37)^3+(0.41)^3-2^3(0.39)^3]}\\)</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;</span><span class=\"math-tex\">\\(\\frac{3\\times0.74\\times1.23\\times0.13}{[(0.37)^3+(0.41)^3-(0.78)^3]}\\)</span></p>\n\n<p>Now,</p>\n\n<p>0.37 + 0.41 &ndash; 0.78 = 0,</p>\n\n<p>then 0.37<sup>3</sup> + 0.41<sup>3</sup> &ndash; 0.78<sup>3</sup> = &ndash; 3 &times; 0.37 &times; 0.41 &times; 0.78</p>\n\n<p>So,</p>\n\n<p><span class=\"math-tex\">\\(\\frac{3\\times0.74\\times1.23\\times0.13}{– 3 × 0.37 × 0.41 × 0.78}\\)</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;</span><span class=\"math-tex\">\\(\\frac{3\\times2\\times0.37\\times3\\times0.41\\times0.13}{– 3 × 0.37 × 0.41 × 0.78}\\)</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;</span><span class=\"math-tex\">\\(\\frac{3 × 0.37 × 0.41 × 0.78}{– 3 × 0.37 × 0.41 × 0.78}\\)</span></p>\n\n<p>&rArr; - 1</p>\n\n<p><strong>&there4; The required answer is - 1.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5f199f997089-q7",
+      "number": 7,
+      "question": "What is the simplified form of the following expression? \\({\\left( {x - \\frac{1}{y}} \\right)^3} + {\\left( {x + \\frac{1}{y}} \\right)^3}\\)",
+      "questionHtml": "<p>What is the simplified form of the following expression?</p>\n\n<p><span class=\"math-tex\">\\({\\left( {x - \\frac{1}{y}} \\right)^3} + {\\left( {x + \\frac{1}{y}} \\right)^3}\\)</span></p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(x\\left( {{x^2} - \\frac{3}{{{y^2}}}} \\right)\\)",
+          "html": "<span class=\"math-tex\">\\(x\\left( {{x^2} - \\frac{3}{{{y^2}}}} \\right)\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\( - 2x\\left( {{x^2} + \\frac{3}{{{y^2}}}} \\right)\\)",
+          "html": "<span class=\"math-tex\">\\( - 2x\\left( {{x^2} + \\frac{3}{{{y^2}}}} \\right)\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(2x\\left( {{x^2} - \\frac{1}{{{y^2}}}} \\right)\\)",
+          "html": "<span class=\"math-tex\">\\(2x\\left( {{x^2} - \\frac{1}{{{y^2}}}} \\right)\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(2x\\left( {{x^2} + \\frac{3}{{{y^2}}}} \\right)\\)",
+          "html": "<span class=\"math-tex\">\\(2x\\left( {{x^2} + \\frac{3}{{{y^2}}}} \\right)\\)</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Use Algebraic Identity: (a − b)<sup>3</sup> + (a + b)<sup>3</sup> = 2a(a<sup>2</sup> + 3b<sup>2</sup>).</p>\n<p>Here, a = x and b = 1/y.</p>\n<p>Substitute: 2(x)[(x)<sup>2</sup> + 3(1/y)<sup>2</sup>].</p>\n<p>Simplified result: 2x(x<sup>2</sup> + 3/y<sup>2</sup>).</p>\n<p><strong>∴ The correct answer is 2x(x<sup>2</sup> + 3/y<sup>2</sup>).</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p>Given: (x − 1/y)<sup>3</sup> + (x + 1/y)<sup>3</sup></p>\n<p>Formula used: (a − b)<sup>3</sup> = a<sup>3</sup> − 3a<sup>2</sup>b + 3ab<sup>2</sup> − b<sup>3</sup> and (a + b)<sup>3</sup> = a<sup>3</sup> + 3a<sup>2</sup>b + 3ab<sup>2</sup> + b<sup>3</sup></p>\n<p>⇒ Expansion of (x − 1/y)<sup>3</sup> = x<sup>3</sup> − 3x<sup>2</sup>/y + 3x/y<sup>2</sup> − 1/y<sup>3</sup></p>\n<p>⇒ Expansion of (x + 1/y)<sup>3</sup> = x<sup>3</sup> + 3x<sup>2</sup>/y + 3x/y<sup>2</sup> + 1/y<sup>3</sup></p>\n<p>⇒ Summing both expressions: (x<sup>3</sup> − 3x<sup>2</sup>/y + 3x/y<sup>2</sup> − 1/y<sup>3</sup>) + (x<sup>3</sup> + 3x<sup>2</sup>/y + 3x/y<sup>2</sup> + 1/y<sup>3</sup>)</p>\n<p>⇒ Combining like terms: (x<sup>3</sup> + x<sup>3</sup>) + (−3x<sup>2</sup>/y + 3x<sup>2</sup>/y) + (3x/y<sup>2</sup> + 3x/y<sup>2</sup>) + (−1/y<sup>3</sup> + 1/y<sup>3</sup>)</p>\n<p>⇒ Result = 2x<sup>3</sup> + 6x/y<sup>2</sup></p>\n<p>⇒ Taking 2x common: 2x(x<sup>2</sup> + 3/y<sup>2</sup>)</p>\n<p><strong>∴ The correct answer is 2x(x<sup>2</sup> + 3/y<sup>2</sup>).</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Cubic Identity (Difference)</p>\n<p style='margin:0 0 8px 0;color:#444444;'>(a + b)<sup>3</sup> − (a − b)<sup>3</sup> = 2b(3a<sup>2</sup> + b<sup>2</sup>) = 6a<sup>2</sup>b + 2b<sup>3</sup></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Algebraic Square Identities</p>\n<p style='margin:0 0 8px 0;color:#444444;'>(a + b)<sup>2</sup> + (a − b)<sup>2</sup> = 2(a<sup>2</sup> + b<sup>2</sup>) and (a + b)<sup>2</sup> − (a − b)<sup>2</sup> = 4ab</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Sum and Difference of Cubes</p>\n<p style='margin:0 0 8px 0;color:#444444;'>a<sup>3</sup> + b<sup>3</sup> = (a + b)(a<sup>2</sup> − ab + b<sup>2</sup>) and a<sup>3</sup> − b<sup>3</sup> = (a − b)(a<sup>2</sup> + ab + b<sup>2</sup>)</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5f199f997089-q8",
+      "number": 8,
+      "question": "If x = 6.29, y = 4.37, z = 1.92, then the value of (x 3 - y 3 - z 3 - 3xyz)/(x + y + z) is:",
+      "questionHtml": "If x = 6.29, y = 4.37, z = 1.92, then the value of (x<sup>3</sup> - y<sup>3</sup> - z<sup>3 </sup>- 3xyz)/(x + y + z) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.92",
+          "html": "1.92"
+        },
+        {
+          "id": "B",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "C",
+          "text": "4.37",
+          "html": "4.37"
+        },
+        {
+          "id": "D",
+          "text": "2.45",
+          "html": "2.45"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">x = 6.29, y = 4.37, z = 1.92</span></p>\n\n<p><strong><span style=\"\">Formula used:</span></strong></p>\n\n<p>(a + b)<sup>3</sup>&nbsp;= a<sup>3</sup>&nbsp;+ b<sup>3</sup>&nbsp;+ 3ab(a + b)</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>The relation between x , y and z is,</p>\n\n<p>x = y + z&nbsp;</p>\n\n<p>6.29 = 4.37 + 1.92</p>\n\n<p>6.29 = 6.29</p>\n\n<p>LHS = RHS</p>\n\n<p>Taking Cube on both sides</p>\n\n<p>x<sup>3</sup>&nbsp;= (y + z)<sup>3</sup></p>\n\n<p>x<sup>3</sup>&nbsp;= y<sup>3</sup>&nbsp;+ z<sup>3</sup>&nbsp;+ 3yz(y + z)</p>\n\n<p>x<sup>3</sup>&nbsp;= y<sup>3</sup>&nbsp;+ z<sup>3</sup>&nbsp;+ 3xyz [ x = y + z ]</p>\n\n<p>x<sup>3</sup>&nbsp;- y<sup>3</sup>&nbsp;- z<sup>3</sup>&nbsp;- 3xyz = 0</p>\n\n<p>The value of&nbsp;<span style=\"\">(x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">3</span><span style=\"\">&nbsp;- y</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">3</span><span style=\"\">&nbsp;- z</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">3&nbsp;</span><span style=\"\">- 3xyz)/(x + y + z),</span></p>\n\n<p><span style=\"\">= 0 / (x + y + z)</span></p>\n\n<p><span style=\"\">= 0</span></p>\n\n<p><strong><span style=\"\">Answer is 0.</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5f199f997089-q9",
+      "number": 9,
+      "question": "If \\(\\left( {2x - \\frac{1}{{4x}}} \\right)\\) = 8, what is the value of \\(\\left( {8{x^3} - \\frac{1}{{64{x^3}}}} \\right)\\) ?",
+      "questionHtml": "If&nbsp;<span class=\"math-tex\">\\(\\left( {2x - \\frac{1}{{4x}}} \\right)\\)</span>&nbsp;= 8, what is the value of&nbsp;<span class=\"math-tex\">\\(\\left( {8{x^3} - \\frac{1}{{64{x^3}}}} \\right)\\)</span>?",
+      "options": [
+        {
+          "id": "A",
+          "text": "524",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">524</font></font>"
+        },
+        {
+          "id": "B",
+          "text": "512",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">512</font></font>"
+        },
+        {
+          "id": "C",
+          "text": "548",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">548</font></font>"
+        },
+        {
+          "id": "D",
+          "text": "500",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">500</font></font>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"\"> </span><span class=\"math-tex\">\\(\\left( {8{x^3} - \\frac{1}{{64{x^3}}}} \\right)\\)</span> <span style=\"color: rgb(33, 37, 41);\">= (2x)</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span><span style=\"color: rgb(33, 37, 41);\"> - (1/4x)</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span></p>\n\n<p>= (2x - 1/4x)<sup>3</sup> + 3(2x)(1/4x)(2x - 1/4x)</p>\n\n<p>= 8<sup>3</sup> + (3/2)(8) = 512 + 12 = 524</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "5f199f997089-q10",
+      "number": 10,
+      "question": "What is the value of \\(\\frac{(2.247)^3+(1.730)^3+(1.023)^3−3 × 2.247 × 1.730 × 1.023}{(2.247)^2+(1.730)^2+(1.023)^2−2.247 × 1.730−1.730 × 1.023−2.247 × 1.023}\\)",
+      "questionHtml": "<p><span style=\"\"><span style=\"font-size:14px;\">What</span> is the value of</span></p>\n\n<p><span class=\"math-tex\">\\(\\frac{(2.247)^3+(1.730)^3+(1.023)^3−3 × 2.247 × 1.730 × 1.023}{(2.247)^2+(1.730)^2+(1.023)^2−2.247 × 1.730−1.730 × 1.023−2.247 × 1.023}\\)</span></p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.730",
+          "html": "1.730"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "D",
+          "text": "5.247",
+          "html": "5.247"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span class=\"math-tex\">\\(\\frac{(2.247)^3+(1.730)^3+(1.023)^3−3 × 2.247 × 1.730 × 1.023}{(2.247)^2+(1.730)^2+(1.023)^2−2.247 × 1.730−1.730 × 1.023−2.247 × 1.023}\\)</span></p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>a<sup>3</sup>&nbsp;+ b<sup>3</sup>&nbsp;+ c<sup>3</sup>&nbsp;- 3abc = (a + b + c)(a<sup>2</sup>&nbsp;+ b<sup>2</sup>&nbsp;+ c<sup>2</sup>&nbsp;- ab - bc - ca)</p>\n\n<p><strong><span style=\"\">Calculation:</span></strong></p>\n\n<p><span class=\"math-tex\">\\(\\frac{(2.247)^3+(1.730)^3+(1.023)^3−3 × 2.247 × 1.730 × 1.023}{(2.247)^2+(1.730)^2+(1.023)^2−2.247 × 1.730−1.730 × 1.023−2.247 × 1.023}\\)</span></p>\n\n<p>We know that,</p>\n\n<p style=\"\">a<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span>&nbsp;+ b<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span>&nbsp;+ c<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span>&nbsp;- 3abc = (a + b + c)(a<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;+ b<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;+ c<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;- ab - bc - ca)</p>\n\n<p style=\"\">&rArr; (a + b + c) = (a<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">3</span>&nbsp;+ b<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">3</span>&nbsp;+ c<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">3</span>&nbsp;- 3abc)/(a<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;+ b<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;+ c<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;- ab - bc - ca) .</p>\n\n<p><span style=\"\">Therefore, the required value&nbsp;&nbsp;</span></p>\n\n<p><span style=\"\">&rArr; (2.247 + 1.730 + 1.023) = 5&nbsp;</span></p>\n\n<p><strong><span style=\"\">&there4; The required value is 5.</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

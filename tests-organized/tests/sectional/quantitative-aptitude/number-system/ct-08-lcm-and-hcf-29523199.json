@@ -1,0 +1,395 @@
+{
+  "id": "29523199892d",
+  "provider": "Testbook",
+  "sourceFile": "CT 08_ LCM and HCF.html",
+  "sourcePath": "Testbook/files/CT 08_ LCM and HCF.html",
+  "title": "CT 08: LCM and HCF",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 12,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "29523199892d-q1",
+      "number": 1,
+      "question": "Sukhiram plants 12544 mango trees in his garden and arranges them so that there are as many rows as there are mango trees in each row. Find the number of rows.",
+      "questionHtml": "Sukhiram plants 12544 mango trees in his garden and arranges them so that there are as many rows as there are mango trees in each row. Find the number of rows.",
+      "options": [
+        {
+          "id": "A",
+          "text": "108",
+          "html": "108"
+        },
+        {
+          "id": "B",
+          "text": "112",
+          "html": "112"
+        },
+        {
+          "id": "C",
+          "text": "118",
+          "html": "118"
+        },
+        {
+          "id": "D",
+          "text": "122",
+          "html": "122"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Total trees = <strong>12544</strong>. Since rows = trees per row, we calculate the <strong>square root</strong>.</p>\n<p>Estimate the range: 110<sup>2</sup> = 12100 and 120<sup>2</sup> = 14400.</p>\n<p>Since the number ends in <strong>4</strong>, the square root must end in <strong>2</strong> or <strong>8</strong>.</p>\n<p>As 12544 is very close to 12100, the square root is <strong>112</strong>.</p>\n<p><strong>∴ The correct answer is 112 rows.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Total number of <strong>mango trees</strong> = <strong>12544</strong></p>\n<p>Condition: <strong>Number of rows</strong> = <strong>Mango trees in each row</strong></p>\n<p><strong>Formula Used:</strong></p>\n<p>Total trees = (Number of rows) × (Trees per row)</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_d2e8e3c9.png/1782885436.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Let the number of <strong>rows</strong> be <strong>x</strong>.</p>\n<p>⇒ Then, <strong>trees per row</strong> = <strong>x</strong>.</p>\n<p>⇒ <strong>x<sup>2</sup></strong> = <strong>12544</strong></p>\n<p>⇒ <strong>x</strong> = √<strong>12544</strong></p>\n<p>⇒ <strong>x</strong> = √(112 × 112)</p>\n<p>⇒ <strong>x</strong> = <strong>112</strong></p>\n<p><strong>∴ The correct answer is 112 rows.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Perfect Square End Digits</p>\n<p style='margin:0 0 8px 0;color:#444444;'>A perfect square never ends with the digits 2, 3, 7, or 8. If it ends in 4, the square root must end in either 2 or 8.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Square Formation Rule</p>\n<p style='margin:0 0 8px 0;color:#444444;'>In any arrangement where the number of rows equals the number of columns, the total quantity is always a <strong>perfect square</strong> (n<sup>2</sup>).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Square Root by Prime Factorization</p>\n<p style='margin:0 0 8px 0;color:#444444;'>12544 = 2<sup>8</sup> × 7<sup>2</sup>. Taking the square root: 2<sup>4</sup> × 7<sup>1</sup> = 16 × 7 = 112.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_d2e8e3c9.png/1782885436.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "29523199892d-q2",
+      "number": 2,
+      "question": "Five clocks ring simultaneously at 5 pm. They ring at regular intervals of 12 min, 15 min, 20 min, 30 min, and 60 min respectively. The time when all five clocks ring together next is:",
+      "questionHtml": "Five clocks ring simultaneously at 5 pm. They ring at regular intervals of 12 min, 15 min, 20 min, 30 min, and 60 min respectively. The time when all five clocks ring together next is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "9 pm",
+          "html": "9 pm"
+        },
+        {
+          "id": "B",
+          "text": "8 pm",
+          "html": "8 pm"
+        },
+        {
+          "id": "C",
+          "text": "7 pm",
+          "html": "7 pm"
+        },
+        {
+          "id": "D",
+          "text": "6 pm",
+          "html": "6 pm"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Find the <strong>LCM</strong> of intervals: 12, 15, 20, 30, and 60 minutes.</p>\n<p><strong>LCM</strong>(12, 15, 20, 30, 60) = 60 minutes.</p>\n<p>60 minutes = <strong>1 hour</strong>.</p>\n<p>Next ring time = 5 pm + 1 hour = <strong>6 pm</strong>.</p>\n<p><strong>∴ The correct answer is 6 pm.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Starting time = <strong>5 pm</strong></p>\n<p>Clocks ring at intervals of 12, 15, 20, 30, and 60 minutes.</p>\n<p><strong>Formula Used:</strong></p>\n<p>Next simultaneous ring = Start time + <strong>LCM</strong> of the time intervals.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_6ee5aaa5.png/1782885445.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Prime factorization of 12 = 2<sup>2</sup> × 3</p>\n<p>⇒ Prime factorization of 15 = 3 × 5</p>\n<p>⇒ Prime factorization of 20 = 2<sup>2</sup> × 5</p>\n<p>⇒ Prime factorization of 30 = 2 × 3 × 5</p>\n<p>⇒ Prime factorization of 60 = 2<sup>2</sup> × 3 × 5</p>\n<p>⇒ <strong>LCM</strong> = 2<sup>2</sup> × 3 × 5 = 4 × 3 × 5 = <strong>60 minutes</strong></p>\n<p>⇒ Convert minutes to hours: 60 minutes ÷ 60 = <strong>1 hour</strong></p>\n<p>⇒ Next ringing time = 5 pm + 1 hour = <strong>6 pm</strong></p>\n<p><strong>∴ The correct answer is 6 pm.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>LCM of Time Intervals</p>\n<p style='margin:0 0 8px 0;color:#444444;'>To determine when multiple periodic events (like bells ringing or traffic lights changing) will coincide again, we find the <strong>Least Common Multiple (LCM)</strong> of their time intervals.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Least Common Multiple (LCM)</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The <strong>LCM</strong> of a group of numbers is the smallest number that is a multiple of each of the numbers. It is found by taking the highest power of all prime factors involved.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Unit Consistency</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Always ensure all given time units are identical (e.g., all in minutes or all in seconds) before performing <strong>LCM</strong> calculations. 1 hour = 60 minutes = 3600 seconds.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_6ee5aaa5.png/1782885445.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "29523199892d-q3",
+      "number": 3,
+      "question": "N 1 = 2 3 &times; 3 4 &times; 5 5 & N 2 = 2 2 &times; 3 3 &times; 5 6. Find the least common multiple (LCM) of N 1 & N 2 .",
+      "questionHtml": "<p>N<sub>1</sub> = 2<sup>3</sup>&nbsp;&times; 3<sup>4</sup>&nbsp;&times; 5<sup>5&nbsp;</sup>&amp; N<sub>2</sub> = 2<sup>2</sup>&nbsp;&times; 3<sup>3</sup>&nbsp;&times; 5<sup>6.</sup>&nbsp;Find the least&nbsp;common multiple (LCM) of&nbsp;N<sub>1</sub>&nbsp;&amp;&nbsp;N<sub>2</sub>.</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 3 &times; 3 4 &times; 5 6",
+          "html": "2<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span>&nbsp;&times; 3<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">4</span>&nbsp;&times; 5<sup>6</sup>"
+        },
+        {
+          "id": "B",
+          "text": "2 3 &times; 3 4 &times; 5 5",
+          "html": "2<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span>&nbsp;&times; 3<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">4</span>&nbsp;&times; 5<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">5</span>"
+        },
+        {
+          "id": "C",
+          "text": "2 2 &times; 3 3 &times; 5 6",
+          "html": "2<sup>2</sup>&nbsp;&times; 3<sup>3</sup>&nbsp;&times; 5<sup>6</sup>"
+        },
+        {
+          "id": "D",
+          "text": "2 3 &times; 3 3 &times; 5 5",
+          "html": "2<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span>&nbsp;&times; 3<sup>3</sup>&nbsp;&times; 5<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">5</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>To find the <strong>Least Common Multiple (LCM)</strong> of numbers in prime factorization form, take the <strong>highest power</strong> of every prime factor present.</p>\n<p>Comparing powers for prime 2: max(3, 2) = 3 → 2<sup>3</sup></p>\n<p>Comparing powers for prime 3: max(4, 3) = 4 → 3<sup>4</sup></p>\n<p>Comparing powers for prime 5: max(5, 6) = 6 → 5<sup>6</sup></p>\n<p>Multiply these highest powers: 2<sup>3</sup> × 3<sup>4</sup> × 5<sup>6</sup>.</p>\n<p><strong>∴ The correct answer is 2<sup>3</sup> × 3<sup>4</sup> × 5<sup>6</sup>.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>N<sub>1</sub> = 2<sup>3</sup> × 3<sup>4</sup> × 5<sup>5</sup></p>\n<p>N<sub>2</sub> = 2<sup>2</sup> × 3<sup>3</sup> × 5<sup>6</sup></p>\n<p><strong>Method:</strong> The <strong>LCM</strong> is the product of the <strong>highest exponents</strong> of all prime factors appearing in the prime factorization of the given numbers.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_5048ff7c.png/1782885448.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Prime factors involved = 2, 3, 5</p>\n<p>⇒ Highest power of 2 in {N<sub>1</sub>, N<sub>2</sub>} = 2<sup>3</sup></p>\n<p>⇒ Highest power of 3 in {N<sub>1</sub>, N<sub>2</sub>} = 3<sup>4</sup></p>\n<p>⇒ Highest power of 5 in {N<sub>1</sub>, N<sub>2</sub>} = 5<sup>6</sup></p>\n<p>⇒ LCM = 2<sup>3</sup> × 3<sup>4</sup> × 5<sup>6</sup></p>\n<p><strong>∴ The correct answer is 2<sup>3</sup> × 3<sup>4</sup> × 5<sup>6</sup>.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">HCF from Prime Factorization</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The <strong>Highest Common Factor (HCF)</strong> is the product of the <strong>lowest powers</strong> of common prime factors. For this problem, HCF = 2<sup>2</sup> × 3<sup>3</sup> × 5<sup>5</sup>.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Relationship between LCM and HCF</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">For any two numbers A and B: <strong>A × B = HCF(A, B) × LCM(A, B)</strong>. This property is used to find one value if the other three are known.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">LCM of Fractions</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">LCM of Fractions = <strong>(LCM of Numerators) ÷ (HCF of Denominators)</strong>. Always simplify fractions to their lowest terms before applying this formula.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_5048ff7c.png/1782885448.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "29523199892d-q4",
+      "number": 4,
+      "question": "There are 44 mangoes, 121 bananas and 11 apples, they have to be arranged in several rows in such a way that every row contains equal number of fruits and each row contains fruit of one type. What is the minimum number of rows?",
+      "questionHtml": "There are 44 mangoes, 121 bananas and 11 apples, they have to be arranged in several rows in such a way that every row contains equal number of fruits and each row contains fruit of one type. What is the minimum number of rows?",
+      "options": [
+        {
+          "id": "A",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "B",
+          "text": "15",
+          "html": "15"
+        },
+        {
+          "id": "C",
+          "text": "14",
+          "html": "14"
+        },
+        {
+          "id": "D",
+          "text": "13",
+          "html": "13"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">The minimum number of rows = Total fruits / GCD</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Total fruits = 44 + 121 + 11 = 176</span></p>\n\n<p>GCD(44, 11) = 11, GCD(11, 121) = 11</p>\n\n<p>Total fruits = 176, Minimum rows = 176 / 11 = 16</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "29523199892d-q5",
+      "number": 5,
+      "question": "The H.C.F and L.C.M of the two numbers are 14 and 140 respectively. If one of these numbers is 28, find the other numbers.",
+      "questionHtml": "The H.C.F and L.C.M of the two numbers are 14 and 140 respectively. If one of these numbers is 28, find the other numbers.",
+      "options": [
+        {
+          "id": "A",
+          "text": "70",
+          "html": "70"
+        },
+        {
+          "id": "B",
+          "text": "140",
+          "html": "140"
+        },
+        {
+          "id": "C",
+          "text": "280",
+          "html": "280"
+        },
+        {
+          "id": "D",
+          "text": "200",
+          "html": "200"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Use the direct formula: <strong>Other Number</strong> = (<strong>H.C.F</strong> × <strong>L.C.M</strong>) ÷ <strong>Given Number</strong></p>\n<p><strong>Other Number</strong> = (14 × 140) ÷ 28</p>\n<p><strong>Other Number</strong> = 140 ÷ 2 = 70</p>\n<p><strong>∴ The correct answer is 70.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p><strong>H.C.F</strong> of two numbers = 14</p>\n<p><strong>L.C.M</strong> of two numbers = 140</p>\n<p><strong>One number (a)</strong> = 28</p>\n<p><strong>Formula Used:</strong></p>\n<p>The product of two numbers is equal to the product of their <strong>H.C.F</strong> and <strong>L.C.M</strong>.</p>\n<p><strong>a × b = H.C.F × L.C.M</strong></p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_06e2c644.png/1782885468.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p><strong>Calculation:</strong></p>\n<p>⇒ Let the other number be <strong>b</strong>.</p>\n<p>⇒ 28 × <strong>b</strong> = 14 × 140</p>\n<p>⇒ 28 × <strong>b</strong> = 1960</p>\n<p>⇒ <strong>b</strong> = 1960 ÷ 28</p>\n<p>⇒ <strong>b</strong> = 70</p>\n<p><strong>∴ The correct answer is 70.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>H.C.F and L.C.M Relation</p>\n<p style='margin:0 0 8px 0;color:#444444;'>For any two numbers <strong>x</strong> and <strong>y</strong>, the property <strong>x × y = HCF(x, y) × LCM(x, y)</strong> holds true. This is only applicable for two numbers.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>H.C.F Property</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The <strong>H.C.F</strong> of two or more numbers is always a factor of their <strong>L.C.M</strong>.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Co-prime Numbers</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If two numbers are <strong>co-prime</strong>, their <strong>H.C.F</strong> is 1 and their <strong>L.C.M</strong> is simply the product of the two numbers.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_06e2c644.png/1782885468.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "29523199892d-q6",
+      "number": 6,
+      "question": "The L.C.M. of \\(\\frac{2}{4}, \\frac{5}{6}, \\frac{10}{8}\\) is:",
+      "questionHtml": "The L.C.M. of&nbsp;<span class=\"math-tex\">\\(\\frac{2}{4}, \\frac{5}{6}, \\frac{10}{8}\\)</span>&nbsp;is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{1}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{5}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{5}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{5}{4}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{4}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{4}{5}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{5}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{5}{2}\\)</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">LCM of Fraction = LCM of Numerator/HCF of Denominator</p>\n\n<p>⇒ LCM of (1, 5, 5) = 5, HCF of (2, 6, 4) = 2  [then final answer is 5/2]</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "29523199892d-q7",
+      "number": 7,
+      "question": "Five light buttons blink at the interval of 6 s, 7 s, 8 s, 2 s, 3 s respectively. If they start blinking together, then how many times would they have blinked together in an hour?",
+      "questionHtml": "Five light buttons blink at the interval of 6 s, 7 s, 8 s, 2 s, 3 s respectively. If they start blinking together, then how many times would they have blinked together in an hour?",
+      "options": [
+        {
+          "id": "A",
+          "text": "24",
+          "html": "24"
+        },
+        {
+          "id": "B",
+          "text": "22",
+          "html": "22"
+        },
+        {
+          "id": "C",
+          "text": "21",
+          "html": "21"
+        },
+        {
+          "id": "D",
+          "text": "20",
+          "html": "20"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Find the <strong>LCM</strong> of the given time intervals: 6, 7, 8, 2, and 3 seconds.</p>\n<p><strong>LCM</strong>(6, 7, 8, 2, 3) = 168 seconds.</p>\n<p><strong>Total time</strong> = 1 hour = 3600 seconds.</p>\n<p>Number of times they blink together = (Total Time ÷ LCM) + 1.</p>\n<p>Number of times = (3600 ÷ 168) + 1 = 21.42 + 1 → 21 + 1 = 22.</p>\n<p><strong>∴ The correct answer is 22.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Intervals of 5 buttons = 6 s, 7 s, 8 s, 2 s, 3 s.</p>\n<p>Total duration = 1 hour.</p>\n<p><strong>Formula Used:</strong></p>\n<p>Blinking Frequency = <strong>LCM</strong> of individual intervals.</p>\n<p>Total occurrences = (Total duration ÷ Blinking Frequency) + 1 (including the start).</p>\n\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_52b7f4bb.png/1782885473.png\" style=\"max-width: 100%; height: auto;\"></div>\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ Prime factors of 6 = 2 × 3</p>\n<p>⇒ Prime factors of 7 = 7</p>\n<p>⇒ Prime factors of 8 = 2<sup>3</sup></p>\n<p>⇒ Prime factors of 2 = 2</p>\n<p>⇒ Prime factors of 3 = 3</p>\n<p>⇒ <strong>LCM</strong> = 2<sup>3</sup> × 3 × 7 = 8 × 3 × 7 = 168 seconds.</p>\n<p>⇒ <strong>Total duration</strong> in seconds = 1 × 60 × 60 = 3600 seconds.</p>\n<p>⇒ Number of intervals = 3600 ÷ 168 = 21.428</p>\n<p>⇒ Since we include the initial blink at 0 seconds, total blinks = 21 + 1 = 22.</p>\n<p><strong>∴ The correct answer is 22.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>LCM in Periodic Events</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The <strong>Least Common Multiple (LCM)</strong> is the fundamental method to find when different events with different periods will coincide again.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Counting the First Event</p>\n<p style='margin:0 0 8px 0;color:#444444;'>In problems where items start together, the total count is always (Total Time ÷ LCM) + 1. If the question asks how many times they blink <i>after</i> starting together, the answer would be (Total Time ÷ LCM).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Time Unit Conversion</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Always ensure the <strong>total time</strong> and the <strong>interval</strong> are in the same units (seconds, minutes, or hours) before performing division.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_52b7f4bb.png/1782885473.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "29523199892d-q8",
+      "number": 8,
+      "question": "HCF of \\({9 \\over 10}, {3 \\over 25}, {6 \\over 15}, {12 \\over 5}\\) is:",
+      "questionHtml": "HCF of&nbsp;<span style=\"font-size:16px;\"><span class=\"math-tex\">\\({9 \\over 10}, {3 \\over 25}, {6 \\over 15}, {12 \\over 5}\\)</span></span>&nbsp;is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "50",
+          "html": "50"
+        },
+        {
+          "id": "B",
+          "text": "\\(1 \\over 150\\)",
+          "html": "<span class=\"math-tex\">\\(1 \\over 150\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(3 \\over 50\\)",
+          "html": "<span class=\"math-tex\">\\(3 \\over 50\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(3 \\over 150\\)",
+          "html": "<span class=\"math-tex\">\\(3 \\over 150\\)</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>To find the <strong>HCF of fractions</strong>, use the direct formula: <strong>HCF (Numerators) ÷ LCM (Denominators)</strong>.</p>\n<p>Numerators: 9, 3, 6, 12 → <strong>HCF = 3</strong> (Highest common factor).</p>\n<p>Denominators: 10, 25, 15, 5 → <strong>LCM = 150</strong> (Least common multiple).</p>\n<p>Resulting HCF = 3/150.</p>\n<p><strong>∴ The correct answer is 3/150.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Fractions are 9/10, 3/25, 6/15, and 12/5.</p>\n<p><strong>Formula Used:</strong></p>\n<p>HCF of Fractions = HCF (Numerators) ÷ LCM (Denominators)</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_1634103a.png/1782885449.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p><strong>Step 1: Calculate HCF of Numerators (9, 3, 6, 12)</strong></p>\n<p>⇒ 3 = 3</p>\n<p>⇒ 6 = 2 × 3</p>\n<p>⇒ 9 = 3 × 3</p>\n<p>⇒ 12 = 2 × 2 × 3</p>\n<p>⇒ Common factor = 3</p>\n<p>⇒ <strong>HCF = 3</strong></p>\n<p><strong>Step 2: Calculate LCM of Denominators (10, 25, 15, 5)</strong></p>\n<p>⇒ 5 = 5</p>\n<p>⇒ 10 = 2 × 5</p>\n<p>⇒ 15 = 3 × 5</p>\n<p>⇒ 25 = 5 × 5</p>\n<p>⇒ LCM = 2 × 3 × 5<sup>2</sup> = 2 × 3 × 25</p>\n<p>⇒ <strong>LCM = 150</strong></p>\n<p><strong>Step 3: Combine to find Fraction HCF</strong></p>\n<p>⇒ HCF of Fractions = 3 / 150</p>\n<p><strong>∴ The correct answer is 3/150.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>LCM of Fractions</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The LCM of fractions is calculated as: LCM of Numerators ÷ HCF of Denominators.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Fundamental Relation</p>\n<p style='margin:0 0 8px 0;color:#444444;'>For any two numbers 'a' and 'b', the product of the numbers is equal to the product of their HCF and LCM: a × b = HCF(a, b) × LCM(a, b).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>HCF of Co-prime Numbers</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The Highest Common Factor (HCF) of any two or more <strong>co-prime numbers</strong> is always 1.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_1634103a.png/1782885449.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "29523199892d-q9",
+      "number": 9,
+      "question": "The Sum of two numbers is 108. HCF of the numbers is 12. What is the difference between the numbers?",
+      "questionHtml": "<p>The Sum of two numbers is 108. HCF of the numbers is 12. What is the difference between the numbers?&nbsp;</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "56",
+          "html": "56"
+        },
+        {
+          "id": "B",
+          "text": "96",
+          "html": "96"
+        },
+        {
+          "id": "C",
+          "text": "78",
+          "html": "78"
+        },
+        {
+          "id": "D",
+          "text": "60",
+          "html": "60"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Ratio sum of the numbers = <strong>Sum</strong> ÷ <strong>HCF</strong> = 108 ÷ 12 = 9.</p>\n<p>Identify <strong>co-prime</strong> ratio pairs (a, b) such that a + b = 9: (1, 8), (2, 7), (4, 5).</p>\n<p>Calculate the <strong>difference</strong> of the ratios: (8−1)=7, (7−2)=5, (5−4)=1.</p>\n<p>Possible actual differences: 12 × 7 = 84, 12 × 5 = 60, or 12 × 1 = 12.</p>\n<p>Comparing with given options, the <strong>difference</strong> is 60.</p>\n<p><strong>∴ The correct answer is 60.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p><strong>Sum</strong> of two numbers = 108</p>\n<p><strong>HCF</strong> (Highest Common Factor) = 12</p>\n<p><strong>Formula Used:</strong></p>\n<p>Let the two <strong>numbers</strong> be 12a and 12b, where <strong>a</strong> and <strong>b</strong> are <strong>co-prime</strong> integers (HCF of a and b is 1).</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_578e7202.png/1782885461.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p><strong>Calculations:</strong></p>\n<p>⇒ 12a + 12b = 108</p>\n<p>⇒ 12(a + b) = 108</p>\n<p>⇒ a + b = 108 ÷ 12</p>\n<p>⇒ a + b = 9</p>\n<p>Possible <strong>co-prime</strong> pairs (a, b) that sum to 9 are:</p>\n<p>⇒ Case 1: (1, 8) → Numbers = 12, 96 | <strong>Difference</strong> = 84</p>\n<p>⇒ Case 2: (2, 7) → Numbers = 24, 84 | <strong>Difference</strong> = 60</p>\n<p>⇒ Case 3: (4, 5) → Numbers = 48, 60 | <strong>Difference</strong> = 12</p>\n<p>According to the given options, the value 60 is the correct <strong>difference</strong>.</p>\n<p><strong>∴ The correct answer is 60.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>HCF and Numbers Property</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Any two numbers can be represented as HCF × a and HCF × b, where a and b are always <strong>co-prime</strong> (HCF(a, b) = 1).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Fundamental Relation</p>\n<p style='margin:0 0 8px 0;color:#444444;'>For any two numbers x and y, their product is always equal to the product of their HCF and LCM: x × y = HCF × LCM.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Sum and Difference Rule</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The HCF of two numbers also divides their <strong>sum</strong> and their <strong>difference</strong>. Here, 108 ÷ 12 = 9 and 60 ÷ 12 = 5.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_578e7202.png/1782885461.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "29523199892d-q10",
+      "number": 10,
+      "question": "The ratio of two numbers is 3 ∶ 4 and their LCM is 72, then the sum of the two numbers is.",
+      "questionHtml": "<p>The ratio of two numbers is 3 ∶ 4 and their LCM is 72, then the sum of the two numbers is.</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "56",
+          "html": "56"
+        },
+        {
+          "id": "B",
+          "text": "42",
+          "html": "42"
+        },
+        {
+          "id": "C",
+          "text": "49",
+          "html": "49"
+        },
+        {
+          "id": "D",
+          "text": "63",
+          "html": "63"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p><strong>Ratio</strong> of numbers = 3 : 4</p>\n<p>LCM in units = 3 × 4 = 12 units</p>\n<p>Given, 12 units = 72 ⇒ 1 unit = 6</p>\n<p><strong>Sum</strong> of numbers in units = 3 + 4 = 7 units</p>\n<p>Sum = 7 × 6 = 42</p>\n<p><strong>∴ The correct answer is 42.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Ratio of two numbers = 3 : 4</p>\n<p><strong>LCM</strong> of numbers = 72</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_8b937e6f.png/1782885436.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p>Let the two numbers be 3x and 4x, where x is the <strong>HCF</strong>.</p>\n<p>⇒ LCM of (3x, 4x) = 3 × 4 × x = 12x</p>\n<p>⇒ 12x = 72</p>\n<p>⇒ x = 72 ÷ 12</p>\n<p>⇒ x = 6</p>\n<p>⇒ First number = 3 × 6 = 18</p>\n<p>⇒ Second number = 4 × 6 = 24</p>\n<p>⇒ <strong>Sum</strong> = 18 + 24 = 42</p>\n<p><strong>∴ The correct answer is 42.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Product of Two Numbers</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The product of two numbers is always equal to the product of their <strong>HCF</strong> and <strong>LCM</strong>. (Product = HCF × LCM)</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>HCF and Ratio Relationship</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If two numbers are in the ratio a : b, their <strong>LCM</strong> is a × b × HCF, and their <strong>Sum</strong> is (a + b) × HCF.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Co-prime Numbers</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If two numbers are co-prime (HCF = 1), then their <strong>LCM</strong> is simply the product of the two numbers.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_8b937e6f.png/1782885436.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

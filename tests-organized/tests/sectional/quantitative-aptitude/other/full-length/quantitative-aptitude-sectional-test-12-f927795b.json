@@ -1,0 +1,943 @@
+{
+  "id": "f927795b7ab8",
+  "provider": "Testbook",
+  "sourceFile": "Quantitative Aptitude Sectional Test - 12.html",
+  "sourcePath": "Testbook/files/Quantitative Aptitude Sectional Test - 12.html",
+  "title": "Quantitative Aptitude Sectional Test - 12",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 28,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "f927795b7ab8-q1",
+      "number": 1,
+      "question": "A company offers three types of successive discounts: First offer: 25% and 5%, Second offer: 20% and 10%, Third offer: 15% and 15%. Which offer is the best for a customer?",
+      "questionHtml": "A company offers three types of successive discounts: First offer: 25% and 5%, Second offer: 20% and 10%, Third offer: 15% and 15%. Which offer is the best for a customer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "All are equally good",
+          "html": "All are equally good"
+        },
+        {
+          "id": "B",
+          "text": "Third offer",
+          "html": "Third offer"
+        },
+        {
+          "id": "C",
+          "text": "First offer",
+          "html": "First offer"
+        },
+        {
+          "id": "D",
+          "text": "Second offer",
+          "html": "Second offer"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>When the sum of successive discounts is constant (25+5 = 30, 20+10 = 30, 15+15 = 30), the discount is maximum when the difference between the two values is maximum.</p>\n<p>Difference in First offer: |25 − 5| = 20</p>\n<p>Difference in Second offer: |20 − 10| = 10</p>\n<p>Difference in Third offer: |15 − 15| = 0</p>\n<p>Since the difference is maximum in the First offer, it provides the highest discount for the customer.</p>\n<p><strong>∴ The correct answer is First offer.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p>Given:</p>\n<p>Offer 1: 25% and 5% | Offer 2: 20% and 10% | Offer 3: 15% and 15%</p>\n<p>Formula for equivalent single discount of two successive discounts a% and b% = [a + b − (a × b)/100]%</p>\n<img src=\"https://cdn.testbook.com/temp_806c6d1d11914f01bb760e517bc981ab.png/1780114857.png\" style=\"max-width: 450px;\" />\n<p>⇒ Equivalent Discount for First offer = 25 + 5 − (25 × 5)/100 = 30 − 1.25 = 28.75%</p>\n<p>⇒ Equivalent Discount for Second offer = 20 + 10 − (20 × 10)/100 = 30 − 2 = 28.00%</p>\n<p>⇒ Equivalent Discount for Third offer = 15 + 15 − (15 × 15)/100 = 30 − 2.25 = 27.75%</p>\n<p>⇒ Comparing the three values: 28.75% > 28.00% > 27.75%</p>\n<p><strong>∴ The correct answer is First offer.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Successive Discount Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">For two successive discounts x% and y%, the net discount is (x + y − xy/100)%. For three discounts, calculate the first two and then apply the result with the third one.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Customer vs Retailer Perspective</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The best offer for a customer is the one with the highest net discount percentage, whereas the best offer for a retailer is the one with the lowest net discount percentage.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Relationship with Product of Discounts</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When the sum (x+y) is constant, the discount is maximum when the product (xy) is minimum. In this question, 25 × 5 = 125 is the minimum product compared to 200 and 225.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_806c6d1d11914f01bb760e517bc981ab.png/1780114857.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q2",
+      "number": 2,
+      "question": "Four horses are tethered with a rope, half of the length of the side, at four corners of a square field of side 28m. What will be the area of the ungrazed part of the field?",
+      "questionHtml": "Four horses are tethered with a rope, half of the length of the side, at four corners of a square field of side 28m. What will be the area of the ungrazed part of the field?",
+      "options": [
+        {
+          "id": "A",
+          "text": "169m 2",
+          "html": "169m<sup>2&nbsp;</sup>&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "170m 2",
+          "html": "170m<sup>2</sup>"
+        },
+        {
+          "id": "C",
+          "text": "168m 2",
+          "html": "168m<sup>2</sup>"
+        },
+        {
+          "id": "D",
+          "text": "171m 2",
+          "html": "171m<sup>2&nbsp;</sup>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span><p>Area of ungrazed part = Area of Square − Area of one full circle (as 4 quadrants of 90° form 1 circle).</p><p>Side of square (s) = 28 m, Radius of circle (r) = s ÷ 2 = 14 m.</p><p>Ungrazed Area = s<sup>2</sup> − πr<sup>2</sup></p><p>Ungrazed Area = 28<sup>2</sup> − (22 ÷ 7) × 14 × 14</p><p>Ungrazed Area = 784 − 616 = 168 m<sup>2</sup>.</p><p><strong>∴ The correct answer is 168 m<sup>2</sup>.</strong></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p><p><strong>Given:</strong></p><p>Side of the square field (s) = 28 m</p><p>Length of the rope (radius, r) = 28 ÷ 2 = 14 m</p><p><strong>Formula Used:</strong></p><p>Area of square = side × side</p><p>Area of quadrant = (1 ÷ 4) × π × r<sup>2</sup></p><img src=\"https://cdn.testbook.com/temp_e305880c3a004e1498a87b5cba9ce6dc.png/1780114870.png\" style=\"max-width: 450px;\" /><p><strong>Calculations:</strong></p><p>⇒ Total Area of the square field = 28 × 28 = 784 m<sup>2</sup></p><p>⇒ Total Area grazed by 4 horses = 4 × Area of one quadrant</p><p>⇒ Grazed Area = 4 × (1 ÷ 4) × (22 ÷ 7) × 14 × 14</p><p>⇒ Grazed Area = (22 ÷ 7) × 196</p><p>⇒ Grazed Area = 22 × 28 = 616 m<sup>2</sup></p><p>⇒ Ungrazed Part = Total Area − Grazed Area</p><p>⇒ Ungrazed Part = 784 − 616 = 168 m<sup>2</sup></p><p><strong>∴ The correct answer is 168 m<sup>2</sup>.</strong></p><p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p><p>Area of a Square</p><p>The total space occupied by a square is given by Area = side × side (or s<sup>2</sup>).</p><p>Area of Circle and Sector</p><p>Area of a circle is πr<sup>2</sup>. For a sector with angle θ, the area is (θ ÷ 360) × πr<sup>2</sup>. Since square corners are 90°, each sector is exactly 1 ÷ 4 of a circle.</p><p>Combined Quadrant Rule</p><p>When four equal circles are drawn at the four corners of a square such that each touches two others, the radius is always half the side of the square.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_e305880c3a004e1498a87b5cba9ce6dc.png/1780114870.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q3",
+      "number": 3,
+      "question": "4 &times; &radic;{1296} + 4 &times; &radic;{2116} + 4 &times; &radic;{6561} - 10 &times; &radic;{1225} = k. Then find the value of 'k'?",
+      "questionHtml": "<p>4 &times; &radic;{1296} + 4 &times; &radic;{2116} + 4 &times; &radic;{6561} - 10 &times; &radic;{1225} = k. Then find the value of &#39;k&#39;?&nbsp;</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "303",
+          "html": "303"
+        },
+        {
+          "id": "B",
+          "text": "304",
+          "html": "304"
+        },
+        {
+          "id": "C",
+          "text": "302",
+          "html": "302"
+        },
+        {
+          "id": "D",
+          "text": "301",
+          "html": "301"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n<p><span class=\"math-tex\">\\(4 \\times \\sqrt{1296} + 4 \\times \\sqrt{2116} + 4 \\times \\sqrt{6561} - 10 \\times \\sqrt{1225} = k\\)</span></p>\n<p><strong>Formula used:</strong></p>\n<p><span class=\"math-tex\">\\(\\sqrt{1296} = 36, \\sqrt{2116} = 46, \\sqrt{6561} = 81, \\sqrt{1225} = 35\\)</span></p>\n<p><strong>Calculation:</strong></p>\n<p><span class=\"math-tex\">\\(k = 4 \\times 36 + 4 \\times 46 + 4 \\times 81 - 10 \\times 35\\)</span></p>\n<p>⇒ <span class=\"math-tex\">\\(k = 4 \\times (36 + 46 + 81) - 350\\)</span></p>\n<p>⇒ <span class=\"math-tex\">\\(k = 4 \\times 163 - 350\\)</span></p>\n<p>⇒ <span class=\"math-tex\">\\(k = 652 - 350\\)</span></p>\n<p>⇒ <span class=\"math-tex\">\\(k = 302\\)</span></p>\n<p><strong>∴ The correct answer is option (3).</strong></p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q4",
+      "number": 4,
+      "question": "In a competitive examination held in the year 2000, a total of 6,00,000 (6.0 lakh) students appeared and 40% passed the examination. Forty percent (40%) of the total students. were females and the rest were males. The pass percentage among the males was 50%. Find the pass percentage among the females.",
+      "questionHtml": "In a competitive examination held in the year 2000, a total of 6,00,000 (6.0 lakh) students appeared and 40% passed the examination. Forty percent (40%) of the total students. were females and the rest were males. The pass percentage among the males was 50%. Find the pass percentage among the females.",
+      "options": [
+        {
+          "id": "A",
+          "text": "25%",
+          "html": "25%"
+        },
+        {
+          "id": "B",
+          "text": "30%",
+          "html": "30%"
+        },
+        {
+          "id": "C",
+          "text": "35%",
+          "html": "35%"
+        },
+        {
+          "id": "D",
+          "text": "40%",
+          "html": "40%"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Out of 600000, 40% passed, the total number of passed students 600000 × 40/100 = 240000</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Out of 600000, 40% were female, the total number of females = 240000 and males = 360000</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The pass percentage among the males was 50%, total males passed= 360000/2 = 180000</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, female passed = (240000 - 180000) = 60000</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, female pass% = 60000/240000 × 100 = 25%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q5",
+      "number": 5,
+      "question": "Find the compound interest on Rs. 8000 at 15% per annum for 2 years 4 months, compound annually.",
+      "questionHtml": "<p style=\"\">Find the compound interest on Rs. 8000 at 15% per annum for 2 years 4 months, compound annually.</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs 3109",
+          "html": "Rs 3109"
+        },
+        {
+          "id": "B",
+          "text": "Rs 4209",
+          "html": "Rs 4209"
+        },
+        {
+          "id": "C",
+          "text": "Rs 11109",
+          "html": "Rs 11109"
+        },
+        {
+          "id": "D",
+          "text": "Rs 11990",
+          "html": "Rs 11990"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Rate for 2 years = 15% p.a.; Rate for remaining 4 months = 15% × 4/12 = 5%.</p>\n<p>Successive Multiplier Ratio: (20 → 23) × (20 → 23) × (20 → 21).</p>\n<p>Total Principal Ratio = 20 × 20 × 20 = 8000 units.</p>\n<p>Total Amount Ratio = 23 × 23 × 21 = 11109 units.</p>\n<p>Compound Interest = 11109 − 8000 = 3109 units.</p>\n<p>Given Principal = Rs 8000 ∴ 1 unit = Rs 1; CI = 3109 × 1 = Rs 3109.</p>\n<p><strong>∴ The correct answer is Rs 3109.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Principal (P) = Rs 8000</p>\n<p>Rate (R) = 15% per annum</p>\n<p>Time (T) = 2 years 4 months = 2<sup>1</sup>/<sub>3</sub> years</p>\n<p><strong>Formula Used:</strong></p>\n<p>Amount (A) = P × (1 + R/100)<sup>n</sup> × [1 + (R × t/12)/100]</p>\n<p>Compound Interest (CI) = A − P</p>\n\n<img src=\"https://cdn.testbook.com/temp_af9395fa0ad0425e98d0fda7d4be8eb5.png/1780114807.png\" style=\"max-width: 450px;\" />\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ Time = 2 years + 4/12 years = 2 years + 1/3 years</p>\n<p>⇒ Amount = 8000 × (1 + 15/100)<sup>2</sup> × [1 + (15 × 1/3)/100]</p>\n<p>⇒ Amount = 8000 × (115/100) × (115/100) × (1 + 5/100)</p>\n<p>⇒ Amount = 8000 × (23/20) × (23/20) × (21/20)</p>\n<p>⇒ Amount = 8000 × (529/400) × (21/20)</p>\n<p>⇒ Amount = 8000 × (11109/8000)</p>\n<p>⇒ Amount = Rs 11109</p>\n<p>⇒ CI = Amount − Principal</p>\n<p>⇒ CI = 11109 − 8000</p>\n<p>⇒ CI = Rs 3109</p>\n<p><strong>∴ The correct answer is Rs 3109.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Compound Interest for Fractional Years</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When time is in the form a b/c years, Amount = P(1 + R/100)<sup>a</sup> × [1 + (R × b/c)/100].</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Effective Rate of Interest</p>\n<p style='margin:0 0 8px 0;color:#444444;'>For two successive years with rates R<sub>1</sub> and R<sub>2</sub>, the effective CI rate is R<sub>1</sub> + R<sub>2</sub> + (R<sub>1</sub> × R<sub>2</sub>)/100.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>CI vs SI Difference</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The difference between CI and SI for 2 years is P(R/100)<sup>2</sup>. For 3 years, it is P(R/100)<sup>2</sup> × (3 + R/100).</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_af9395fa0ad0425e98d0fda7d4be8eb5.png/1780114807.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q6",
+      "number": 6,
+      "question": "The average of all prime numbers between 32 and 69 is:",
+      "questionHtml": "The average of all prime numbers between 32 and 69 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "52.5",
+          "html": "52.5"
+        },
+        {
+          "id": "B",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "C",
+          "text": "51",
+          "html": "51"
+        },
+        {
+          "id": "D",
+          "text": "56.5",
+          "html": "56.5"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>List all prime numbers between 32 and 69: 37, 41, 43, 47, 53, 59, 61, 67.</p>\n<p>Total count of prime numbers (n) = 8.</p>\n<p>Sum using pairing: (37+67) + (41+61) + (43+59) + (47+53) = 104 + 102 + 102 + 100 = 408.</p>\n<p>Average = Total Sum ÷ Count = 408 ÷ 8 = 51.</p>\n<p><strong>∴ The correct answer is 51.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Prime numbers between 32 and 69.</p>\n<p><strong>Formula:</strong> Average = (Sum of all observations) ÷ (Total number of observations)</p>\n<img src=\"https://cdn.testbook.com/temp_1aabdd6f01eb49a1a1ff6cf887521660.png/1780114800.png\" style=\"max-width: 450px;\" />\n<p>⇒ Prime numbers between 32 and 69 are: 37, 41, 43, 47, 53, 59, 61, 67</p>\n<p>⇒ Sum of primes = 37 + 41 + 43 + 47 + 53 + 59 + 61 + 67</p>\n<p>⇒ Sum = 408</p>\n<p>⇒ Total count of prime numbers = 8</p>\n<p>⇒ Average = 408 ÷ 8</p>\n<p>⇒ Average = 51</p>\n<p><strong>∴ The correct answer is 51.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Prime Numbers</p>\n<p style='margin:0 0 8px 0;color:#444444;'>A prime number is a natural number greater than 1 that has exactly two divisors: 1 and itself. The only even prime number is 2.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Arithmetic Mean</p>\n<p style='margin:0 0 8px 0;color:#444444;'>For any set of numbers, Average = (Σx) ÷ n, where Σx is the sum of terms and n is the total number of terms.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Checking for Primes</p>\n<p style='margin:0 0 8px 0;color:#444444;'>To verify if a number N is prime, check its divisibility by prime numbers up to √N. If none divide N, then N is prime.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_1aabdd6f01eb49a1a1ff6cf887521660.png/1780114800.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q7",
+      "number": 7,
+      "question": "The ratio of two numbers is 2 : 3 and their product is 726. The smallest number between the two numbers is:",
+      "questionHtml": "The ratio of two numbers is 2 : 3 and their product is 726. The smallest number between the two numbers is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "22",
+          "html": "22"
+        },
+        {
+          "id": "B",
+          "text": "55",
+          "html": "55"
+        },
+        {
+          "id": "C",
+          "text": "33",
+          "html": "33"
+        },
+        {
+          "id": "D",
+          "text": "11",
+          "html": "11"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Ratio of numbers = 2 : 3</p>\n<p>Product of ratio parts = 2 × 3 = 6 units<sup>2</sup></p>\n<p>Value of 6 units<sup>2</sup> = 726</p>\n<p>1 unit<sup>2</sup> = 726 ÷ 6 = 121</p>\n<p>Multiplier (1 unit) = √121 = 11</p>\n<p>Smallest number = 2 × 11 = 22</p>\n<p><strong>∴ The correct answer is 22.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p>Given: Ratio = 2 : 3, Product = 726</p>\n<p>Formula: Product of numbers = (First Part × x) × (Second Part × x)</p>\n<img src=\"https://cdn.testbook.com/temp_b208fd946a5d47859b4728a1bca3cbc8.png/1780114743.png\" style=\"max-width: 450px;\" />\n<p>Let the two numbers be 2x and 3x.</p>\n<p>⇒ 2x × 3x = 726</p>\n<p>⇒ 6x<sup>2</sup> = 726</p>\n<p>⇒ x<sup>2</sup> = 726 ÷ 6</p>\n<p>⇒ x<sup>2</sup> = 121</p>\n<p>⇒ x = √121</p>\n<p>⇒ x = 11</p>\n<p>Smallest number = 2x</p>\n<p>⇒ 2 × 11 = 22</p>\n<p><strong>∴ The correct answer is 22.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Product of Ratios</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When the product of two numbers in ratio a:b is given as P, the common multiplier x is found using x = √(P ÷ (a × b)).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Sum of Ratios</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If the sum S is given, the multiplier x is simpler: x = S ÷ (a + b). No square root is required for sums.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Mean Proportional</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The mean proportional between two numbers a and b is given by the formula √(a × b).</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_b208fd946a5d47859b4728a1bca3cbc8.png/1780114743.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q8",
+      "number": 8,
+      "question": "In the given figure, ABCD and APQR are two parallelograms. If &ang; APQ = 100&deg;, find &ang; CDR.",
+      "questionHtml": "<p>In the given figure, ABCD and APQR are two parallelograms. If <span style=\"\">&ang;</span>APQ = 100&deg;, find <span style=\"\">&ang;</span>CDR.&nbsp;&nbsp;</p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/05/F4_SSC_Arbaz_09-05-2023_Himanshu_D3.png\" style=\"width: 178px; height: 142px;\" /></p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "36&deg;",
+          "html": "<span style=\"\">36&deg;</span>"
+        },
+        {
+          "id": "B",
+          "text": "80&deg;",
+          "html": "<span style=\"\">80&deg;</span>"
+        },
+        {
+          "id": "C",
+          "text": "100&deg;",
+          "html": "<span style=\"\">100&deg;</span>"
+        },
+        {
+          "id": "D",
+          "text": "40&deg;",
+          "html": "<span style=\"\">40&deg;</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n\n<p style=\"color: rgb(33, 37, 41);\">In parallelogram APQR: consecutive angles are supplementary</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; &ang;PAR = 180&deg; &minus; &ang;APQ = 180&deg; &minus; 100&deg; = 80&deg;</p>\n\n<p style=\"color: rgb(33, 37, 41);\">In parallelogram ABCD: AB ∥ CD &rArr; &ang;CDR = &ang;PAR (corresponding angles)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; &ang;CDR = 80&deg;</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">&there4; The correct answer is 80&deg;.</span></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Given:</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">ABCD and APQR are two parallelograms.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&ang;APQ = 100&deg;</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Formula used:</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">Consecutive angles of a parallelogram are supplementary.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Corresponding angles are equal when a transversal intersects two parallel lines.</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Calculation:</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/05/F4_SSC_Arbaz_09-05-2023_Himanshu_D3.png\" style=\"width: 178px; height: 142px;\" /></p>\n\n<p style=\"color: rgb(33, 37, 41);\">In parallelogram APQR,</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; &ang;APQ = 100&deg;</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; &ang;PAR = 180&deg; &minus; 100&deg;</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; &ang;PAR = 80&deg;</p>\n\n<p style=\"color: rgb(33, 37, 41);\">In parallelogram ABCD,</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; AB ∥ CD</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; &ang;PAR = &ang;CDR</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; &ang;CDR = 80&deg;</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">&there4; Option (2) is the correct answer.</span></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Properties of a Parallelogram</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">Opposite sides are equal and parallel. Opposite angles are equal, and any two consecutive angles are supplementary (&ang;A + &ang;B = 180&deg;).</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Diagonals of a Parallelogram</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">The diagonals of a parallelogram bisect each other, meaning they divide each other into two equal parts at the point of intersection.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Area of a Parallelogram</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">The area is calculated as Base &times; Height. If two sides a, b and the included angle &theta; are known, Area = a &times; b &times; sin(&theta;).</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/23/05/F4_SSC_Arbaz_09-05-2023_Himanshu_D3.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q9",
+      "number": 9,
+      "question": "Find the value of cos 47&deg; sec 133&deg; + sin 44&deg; cosec 136&deg;.",
+      "questionHtml": "Find the value of cos 47&deg; sec 133&deg; + sin 44&deg; cosec 136&deg;.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/2",
+          "html": "1/2"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "D",
+          "text": "- 1",
+          "html": "- 1"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">cos 47° sec 133° + sin 44° cosec 136° ⇒ cos 47° × sec (180° - 47) + sin 44° cosec (180° - 44°)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ cos 47° × (- sec 47°) + sin 44° × (cosec 44°) ⇒ -1 + 1 = 0</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q10",
+      "number": 10,
+      "question": "What is the sum of all the exterior angles taken in order of a triangle?",
+      "questionHtml": "What is the sum of all the exterior angles taken in order of a triangle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "90&deg;",
+          "html": "90&deg;"
+        },
+        {
+          "id": "B",
+          "text": "180 &deg;",
+          "html": "180<span style=\"\">&deg;</span>"
+        },
+        {
+          "id": "C",
+          "text": "360 &deg;",
+          "html": "360<span style=\"\">&deg;</span>"
+        },
+        {
+          "id": "D",
+          "text": "can not be determined",
+          "html": "can not be determined"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>The sum of the exterior angles of any convex polygon, including a triangle, taken in order is always a constant 360°.</p>\n<p>This is because walking around the exterior of any closed shape and returning to the starting direction completes exactly one full circle.</p>\n<p>One full circle rotation is equivalent to 360°.</p>\n<p><strong>∴ The correct answer is 360°.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p>Given: A triangle with internal angles A, B, and C.</p>\n<p>Formula Used: Exterior angle + Interior angle = 180° (Linear Pair); Sum of interior angles of a triangle = 180°.</p>\n<img src=\"https://cdn.testbook.com/temp_e3d8207dfe77414e812aede6d560f10a.png/1780114743.png\" style=\"max-width: 450px;\" />\n<p>⇒ Let the three interior angles be A, B, and C.</p>\n<p>⇒ We know that A + B + C = 180°.</p>\n<p>⇒ Exterior angle at vertex A = 180° − A.</p>\n<p>⇒ Exterior angle at vertex B = 180° − B.</p>\n<p>⇒ Exterior angle at vertex C = 180° − C.</p>\n<p>⇒ Sum of exterior angles = (180° − A) + (180° − B) + (180° − C).</p>\n<p>⇒ Sum = (180° + 180° + 180°) − (A + B + C).</p>\n<p>⇒ Sum = 540° − 180°.</p>\n<p>⇒ Sum = 360°.</p>\n<p><strong>∴ The correct answer is 360°.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Sum of Exterior Angles</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">For any convex polygon with n sides, the sum of its exterior angles (one at each vertex) is always 360°.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Sum of Interior Angles</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The sum of the interior angles of a polygon with n sides is calculated as (n − 2) × 180°.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Triangle Exterior Angle Property</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">An exterior angle of a triangle is equal to the sum of the two opposite interior angles of the triangle.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Regular Polygons</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">In a regular polygon, each exterior angle is equal to 360° ÷ n, where n is the number of sides.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_e3d8207dfe77414e812aede6d560f10a.png/1780114743.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q11",
+      "number": 11,
+      "question": "A rectangular plot of grass is 80m long and 60 m broad. From the centre of each side a path of 3 metre wide goes across the centre of the opposite side. What is the area of these paths?",
+      "questionHtml": "A rectangular plot of grass is 80m long and 60 m broad. From the centre of each side a path of 3 metre wide goes across the centre of the opposite side. What is the area of&nbsp;these paths?",
+      "options": [
+        {
+          "id": "A",
+          "text": "420 sqm",
+          "html": "420 sqm"
+        },
+        {
+          "id": "B",
+          "text": "411 sqm",
+          "html": "411 sqm"
+        },
+        {
+          "id": "C",
+          "text": "402 sqm",
+          "html": "402 sqm&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "404 sqm",
+          "html": "404 sqm"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Area of two paths crossing at the center is given by the formula: Area = w(L + B − w).</p>\n<p>Where w = width of path, L = length, B = breadth.</p>\n<p>Given: L = 80 m, B = 60 m, w = 3 m.</p>\n<p>Area = 3 × (80 + 60 − 3) = 3 × 137 = 411 sqm.</p>\n<p><strong>∴ The correct answer is 411 sqm.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Length of the rectangular plot (L) = 80 m</p>\n<p>Breadth of the rectangular plot (B) = 60 m</p>\n<p>Width of each path (w) = 3 m</p>\n<p><strong>Formula Used:</strong></p>\n<p>Total Area of paths = (Area of horizontal path) + (Area of vertical path) − (Area of common intersection)</p>\n<img src=\"https://cdn.testbook.com/temp_4bd9218453274e2eb327300039e1be37.png/1780114768.png\" style=\"max-width: 450px;\" />\n<p><strong>Calculations:</strong></p>\n<p>⇒ Area of the path parallel to the length = 80 m × 3 m = 240 sqm</p>\n<p>⇒ Area of the path parallel to the breadth = 60 m × 3 m = 180 sqm</p>\n<p>⇒ Area of the common square at the center = 3 m × 3 m = 9 sqm</p>\n<p>⇒ Total Area of paths = 240 + 180 − 9</p>\n<p>⇒ Total Area = 420 − 9 = 411 sqm</p>\n<p><strong>∴ The correct answer is 411 sqm.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Path Around Outside of Rectangle</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Area of a path of width 'w' running outside a rectangle of length L and breadth B = 2w(L + B + 2w).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Path Inside the Rectangle</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Area of a path of width 'w' running inside the boundary of a rectangle = 2w(L + B − 2w).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>General Path Area Concept</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When paths cross, the intersection area must be subtracted once because it is calculated twice in the individual path areas.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_4bd9218453274e2eb327300039e1be37.png/1780114768.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q12",
+      "number": 12,
+      "question": "A cylindrical tank of radius 14 cm is full of water. If 616 litres of water are drawn out, then the water level in the tank is dropped by ______ m. (Take &pi; = (22/7) )",
+      "questionHtml": "A cylindrical tank of radius 14 cm is full of water. If 616 litres of water are drawn out, then the water level in the tank is dropped by ______ m. (Take&nbsp;&pi; = (22/7) )",
+      "options": [
+        {
+          "id": "A",
+          "text": "1000",
+          "html": "1000"
+        },
+        {
+          "id": "B",
+          "text": "100",
+          "html": "100"
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "D",
+          "text": "10",
+          "html": "10"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Volume of water drawn out = πr</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\">h</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span>616000 = (22/7) × 14<sup>2</sup> × h <span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">616000 = 616h</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">h = 616000 / 616 </span><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">h = 1000 cm = 10 m</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q13",
+      "number": 13,
+      "question": "The angle of elevation of a cloud from a point 200 m above a lake is 30&deg; and the angle of depression of its reflection in the lake is 60&deg;. The height of the cloud is",
+      "questionHtml": "The angle of elevation of a cloud from a point 200 m above a lake is 30&deg; and the angle of depression of its reflection in the lake is 60&deg;. The height of the cloud is",
+      "options": [
+        {
+          "id": "A",
+          "text": "200 m",
+          "html": "200 m"
+        },
+        {
+          "id": "B",
+          "text": "300 m",
+          "html": "300 m"
+        },
+        {
+          "id": "C",
+          "text": "400 m",
+          "html": "400 m"
+        },
+        {
+          "id": "D",
+          "text": "600 m",
+          "html": "600 m"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"\"><span style=\"font-weight: 700;\"><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/06/629f81af1b570b15ae212895_16565006806241.png\" style=\"width: 200px; height: 210px;\" /></span></p>\n\n<p style=\"\">Let P be the cloud at a height H m above the level of the water in the lake </p>\n\n<p style=\"\">Q be its image in the water.</p>\n\n<p style=\"\">⇒ BQ = BA = H and ∠ADP = 30° and ∠PDQ = 60°</p>\n\n<p style=\"\">In right-angled ΔADP,</p>\n\n<p style=\"\">⇒ <span class=\"math-tex\">\\(tan30° = \\frac{AP}{DP} = \\frac{H - 200}{DP}\\)</span><span style=\"\">⇒ <span class=\"math-tex\">\\(\\frac{1}{\\sqrt3} = \\frac{H - 200}{DP}\\)</span></span>⇒ DP = <span class=\"math-tex\">\\(\\sqrt3(H - 200)\\)</span> ----- (1)</p>\n\n<p style=\"\">In right angled ΔQPD</p>\n\n<p style=\"\">⇒ <span class=\"math-tex\">\\(tan60° = \\frac{PQ}{DP} = \\frac{H + 200}{DP}\\)</span><span style=\"\"> ⇒<span class=\"math-tex\">\\(\\sqrt3 = \\frac{H \\ + \\ 200}{\\sqrt3(H\\ - \\ 200)}\\)</span></span>  [From equation (1)]</p>\n\n<p style=\"\">⇒ H + 200 = 3(H - 200) ⇒ H + 200 = 3H - 600 ⇒ 2H = 800 <span style=\"\">⇒ H = 400 m</span></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/22/06/629f81af1b570b15ae212895_16565006806241.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q14",
+      "number": 14,
+      "question": "The sum of digits of a two digit number is 8 and the difference between the number and that formed by reversing the digits is 18. What is the difference between the digits of the number?",
+      "questionHtml": "The sum of digits of a two digit number is 8 and the difference between the number and that formed by reversing the digits is 18. What is the difference between the digits of the number?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "4"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let the number be 10x + y, where x is the tens digit and y is the ones digit.</p>\n\n<p>Given: x + y = 8 and (10x + y) - (10y + x) = 18.</p>\n\n<p>From the second equation: (10x + y) - (10y + x) = 18</p>\n\n<p>⇒ 10x + y - 10y - x = 18</p>\n\n<p>⇒ 9x - 9y = 18</p>\n\n<p>⇒ x - y = 2</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q15",
+      "number": 15,
+      "question": "The marked price of a jacket is Rs. 3,500. A shopkeeper offers 5% discount on it and then again offers 15% discount on the new price, and then again offers 20% discount on the new price. How much one has to pay for it?",
+      "questionHtml": "The marked price of a jacket is Rs. 3,500. A shopkeeper offers 5% discount on it and then again offers 15% discount on the new price, and then again offers 20% discount on the new price. How much one has to pay for it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 2,260",
+          "html": "<span style=\"\">Rs. 2,260</span>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 2,261",
+          "html": "<span style=\"\">Rs. 2,261</span>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 2,265",
+          "html": "<span style=\"\">Rs. 2,265</span>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 2,263",
+          "html": "<span style=\"\">Rs. 2,263</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Apply successive discounts directly using fraction multipliers:</p>\n<p>SP = 3500 × 95% × 85% × 80%</p>\n<p>SP = 3500 × 19/20 × 17/20 × 4/5</p>\n<p>SP = (3500 ÷ 2000) × 19 × 17 × 4</p>\n<p>SP = 7/4 × 1292 = 2261</p>\n<p><strong>∴ The correct answer is Rs. 2,261.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Marked Price (MP) of jacket = Rs. 3,500</p>\n<p>Successive discounts = 5%, 15%, and 20%</p>\n<p><strong>Formula Used:</strong></p>\n<p>Selling Price (SP) = MP × (100 − d<sub>1</sub>)/100 × (100 − d<sub>2</sub>)/100 × (100 − d<sub>3</sub>)/100</p>\n\n<svg width=\"420\" height=\"200\" viewBox=\"0 0 420 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <text x=\"45\" y=\"70\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" font-family=\"sans-serif\" fill=\"#2255cc\">MP</text>\n  <rect x=\"15\" y=\"85\" width=\"60\" height=\"30\" rx=\"5\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\"/>\n  <text x=\"45\" y=\"105\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\" fill=\"#222222\">3500</text>\n\n  <line x1=\"75\" y1=\"100\" x2=\"115\" y2=\"100\" stroke=\"#cc5500\" stroke-width=\"1.5\"/>\n  <polygon points=\"120,100 112,96 112,104\" fill=\"#cc5500\"/>\n  <text x=\"97.5\" y=\"90\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\" fill=\"#cc5500\">−5%</text>\n\n  <rect x=\"120\" y=\"85\" width=\"60\" height=\"30\" rx=\"5\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\"/>\n  <text x=\"150\" y=\"105\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\" fill=\"#222222\">3325</text>\n\n  <line x1=\"180\" y1=\"100\" x2=\"220\" y2=\"100\" stroke=\"#cc5500\" stroke-width=\"1.5\"/>\n  <polygon points=\"225,100 217,96 217,104\" fill=\"#cc5500\"/>\n  <text x=\"202.5\" y=\"90\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\" fill=\"#cc5500\">−15%</text>\n\n  <rect x=\"225\" y=\"85\" width=\"80\" height=\"30\" rx=\"5\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\"/>\n  <text x=\"265\" y=\"105\" text-anchor=\"middle\" font-size=\"13\" font-family=\"sans-serif\" fill=\"#222222\">2826.25</text>\n\n  <line x1=\"305\" y1=\"100\" x2=\"345\" y2=\"100\" stroke=\"#cc5500\" stroke-width=\"1.5\"/>\n  <polygon points=\"350,100 342,96 342,104\" fill=\"#cc5500\"/>\n  <text x=\"327.5\" y=\"90\" text-anchor=\"middle\" font-size=\"12\" font-family=\"sans-serif\" fill=\"#cc5500\">−20%</text>\n\n  <text x=\"380\" y=\"70\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" font-family=\"sans-serif\" fill=\"#007700\">Final SP</text>\n  <rect x=\"350\" y=\"85\" width=\"60\" height=\"30\" rx=\"5\" fill=\"#ccffcc\" stroke=\"#007700\" stroke-width=\"1.5\"/>\n  <text x=\"380\" y=\"105\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" font-family=\"sans-serif\" fill=\"#007700\">2261</text>\n</svg>\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ SP = 3500 × (100 − 5)/100 × (100 − 15)/100 × (100 − 20)/100</p>\n<p>⇒ SP = 3500 × 95/100 × 85/100 × 80/100</p>\n<p>⇒ SP = 3500 × 19/20 × 17/20 × 4/5</p>\n<p>⇒ SP = 3500 × (19 × 17 × 4) ÷ (20 × 20 × 5)</p>\n<p>⇒ SP = 3500 × 1292 ÷ 2000</p>\n<p>⇒ SP = (3500 ÷ 2000) × 1292</p>\n<p>⇒ SP = 7/4 × 1292</p>\n<p>⇒ SP = 7 × 323 = 2261</p>\n<p><strong>∴ The correct answer is Rs. 2,261.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Marked Price (MP)</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The marked price is the regular price tag printed on an item. Any discount given by a shopkeeper is always calculated on the MP, not the cost price.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Successive Discount Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When an article has multiple consecutive discounts, the net selling price is derived by multiplying the individual discount factors: SP = MP × (1 − d<sub>1</sub>/100) × (1 − d<sub>2</sub>/100) × ...</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Equivalent Single Discount</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">For two successive discounts of x% and y%, the effective single discount equivalent to both combined is calculated using the net change formula: (x + y − xy/100)%.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q16",
+      "number": 16,
+      "question": "A sum of Rs. 9,350 was taken as a loan. This is paid in two equal instalments. If the rate of interest is 20% per annum compounded annually, then what is the value of each instalment?(approximately)",
+      "questionHtml": "A sum of Rs. 9,350 was taken as a loan. This is paid in two equal instalments. If the rate of interest is 20% per annum compounded annually, then what is the value of each instalment?(approximately)",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 2600",
+          "html": "<span style=\"\">Rs. 2600</span>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 2160",
+          "html": "<span style=\"\">Rs. 2160</span>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 6120",
+          "html": "<span style=\"\">Rs. 6120</span>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 6200",
+          "html": "<span style=\"\">Rs. 6200</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Rate 20% = 1/5 → Principal : Installment ratio for 1st year = 5 : 6</p>\n<p>For 2nd year, square the ratios → Principal : Installment = 5<sup>2</sup> : 6<sup>2</sup> = 25 : 36</p>\n<p>Equalize installments: Multiply 1st year ratio by 6 → (5 × 6) : (6 × 6) = 30 : 36</p>\n<p>Total Principal units = 30 + 25 = 55 units</p>\n<p>55 units = ₹9350 ⇒ 1 unit = ₹170</p>\n<p>Value of each installment = 36 units = 36 × 170 = ₹6120</p>\n<p><strong>∴ The correct answer is ₹6120.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Loan Amount (P) = ₹9350</p>\n<p>Rate of Interest (R) = 20% per annum</p>\n<p>Number of installments (n) = 2</p>\n<p><strong>Formula Used:</strong></p>\n<p>P = [x / (1 + R/100)<sup>1</sup>] + [x / (1 + R/100)<sup>2</sup>] + ... where x is the equal installment.</p>\n<img src=\"https://cdn.testbook.com/temp_7a79049301b647f0a56e3f17915745e0.png/1780114761.png\" style=\"max-width: 450px;\" />\n<p><strong>Calculations:</strong></p>\n<p>⇒ 9350 = x / (1 + 20/100) + x / (1 + 20/100)<sup>2</sup></p>\n<p>⇒ 9350 = x / (1.2) + x / (1.44)</p>\n<p>⇒ 9350 = x / (6/5) + x / (36/25)</p>\n<p>⇒ 9350 = 5x/6 + 25x/36</p>\n<p>⇒ 9350 = (30x + 25x) / 36</p>\n<p>⇒ 9350 = 55x / 36</p>\n<p>⇒ x = (9350 × 36) / 55</p>\n<p>⇒ x = 170 × 36</p>\n<p>⇒ x = ₹6120</p>\n<p><strong>∴ The correct answer is ₹6120.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">CI Installment General Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">For n equal installments, P = x[1/(1+r) + 1/(1+r)<sup>2</sup> + ... + 1/(1+r)<sup>n</sup>], where r is the rate per period in decimal.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">SI vs CI Installments</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">In CI installments, interest is charged on the reducing balance (present value), whereas SI installments often involve interest on the total amount or specific due balances.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Effective Rate of Interest</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If compounded half-yearly, the rate is halved (R/2) and the number of periods is doubled (2n) in the installment formula.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_7a79049301b647f0a56e3f17915745e0.png/1780114761.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q17",
+      "number": 17,
+      "question": "If 20% of a number is (1/6) th of another number, what is the ratio of first number to the second number?",
+      "questionHtml": "If 20% of a number is (1/6)<sup>th</sup> of another number, what is the ratio of first number to the second number?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 ∶ 5",
+          "html": "4&nbsp;∶&nbsp;5"
+        },
+        {
+          "id": "B",
+          "text": "5 ∶ 3",
+          "html": "5&nbsp;∶&nbsp;3"
+        },
+        {
+          "id": "C",
+          "text": "4 ∶ 7",
+          "html": "4&nbsp;∶&nbsp;7&nbsp;&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "5 ∶ 6",
+          "html": "5&nbsp;∶&nbsp;6"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">20% × A = (1/6) × B ⇒ (1/5) ×  A = (1/6) × B ⇒ A/B = 5/6.</span> Required ratio = A : B = 5 : 6</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q18",
+      "number": 18,
+      "question": "Find the simple interest (in ₹) on ₹2500 as a sum borrowed at 3% per year rate of interest for 6 years.",
+      "questionHtml": "Find the simple interest (in ₹) on ₹2500 as a sum borrowed at 3% per year rate of interest for 6 years.",
+      "options": [
+        {
+          "id": "A",
+          "text": "410",
+          "html": "410"
+        },
+        {
+          "id": "B",
+          "text": "390",
+          "html": "390"
+        },
+        {
+          "id": "C",
+          "text": "490",
+          "html": "490"
+        },
+        {
+          "id": "D",
+          "text": "450",
+          "html": "450"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Total interest percentage = Rate × Time</p>\n<p>Interest percentage = 3% × 6 = 18%</p>\n<p>Simple Interest = 18% of 2500 = (18/100) × 2500</p>\n<p>Simple Interest = 18 × 25 = 450</p>\n<p><strong>∴ The correct answer is ₹450.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p>Given: Principal (P) = ₹2500, Rate (R) = 3% per annum, Time (T) = 6 years.</p>\n<p>Formula: Simple Interest (SI) = (P × R × T) ÷ 100</p>\n<img src=\"https://cdn.testbook.com/temp_3e5d3560587b4acdb0477aa6578c415a.png/1780114821.png\" style=\"max-width: 450px;\" />\n<p>⇒ SI = (2500 × 3 × 6) ÷ 100</p>\n<p>⇒ SI = (2500 × 18) ÷ 100</p>\n<p>⇒ SI = 25 × 18</p>\n<p>⇒ SI = 450</p>\n<p><strong>∴ The correct answer is ₹450.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Total Amount (A)</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The total amount to be repaid after the time period is the sum of the Principal and Simple Interest: A = P + SI.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Effective Rate of Interest</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">For simple interest, the total interest percentage over the entire duration is the product of the annual rate and the time in years (R × T).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Standard Units</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Always ensure that the Time (T) is in years. If time is given in months, divide by 12; if in days, divide by 365 (or 366 for leap years).</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_3e5d3560587b4acdb0477aa6578c415a.png/1780114821.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q19",
+      "number": 19,
+      "question": "The age of some students is given in years as 12, 13, 16, 18,14, 19, 13, 17, 15 and 11. The median age (in years) of the students is:",
+      "questionHtml": "The age of some students is given in years as 12, 13, 16, 18,14, 19, 13, 17, 15 and 11. The median age (in years) of the students is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "14",
+          "html": "14"
+        },
+        {
+          "id": "B",
+          "text": "14.5",
+          "html": "14.5"
+        },
+        {
+          "id": "C",
+          "text": "13.5",
+          "html": "13.5"
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "html": "15"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Arrange the given data in ascending order: 11, 12, 13, 13, 14, 15, 16, 17, 18, 19.</p>\n<p>Since the number of terms n = 10 (even), the median is the simple average of the two middle terms.</p>\n<p>Median = Average of the 5<sup>th</sup> and 6<sup>th</sup> terms.</p>\n<p>Median = (14 + 15) ÷ 2 = 14.5.</p>\n<p><strong>∴ The correct answer is 14.5 years.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>The ages of 10 students (in years): 12, 13, 16, 18, 14, 19, 13, 17, 15, and 11.</p>\n<p><strong>Formula Used:</strong></p>\n<p>For an even number of observations n, Median = [(n/2)<sup>th</sup> term + (n/2 + 1)<sup>th</sup> term] ÷ 2</p>\n\n<svg width=\"420\" height=\"150\" viewBox=\"0 0 420 150\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <rect x=\"25\" y=\"40\" width=\"32\" height=\"32\" rx=\"4\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"41\" y=\"61\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" text-anchor=\"middle\">11</text>\n  \n  <rect x=\"62\" y=\"40\" width=\"32\" height=\"32\" rx=\"4\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"78\" y=\"61\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" text-anchor=\"middle\">12</text>\n  \n  <rect x=\"99\" y=\"40\" width=\"32\" height=\"32\" rx=\"4\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"115\" y=\"61\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" text-anchor=\"middle\">13</text>\n  \n  <rect x=\"136\" y=\"40\" width=\"32\" height=\"32\" rx=\"4\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"152\" y=\"61\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" text-anchor=\"middle\">13</text>\n  \n  <rect x=\"173\" y=\"40\" width=\"32\" height=\"32\" rx=\"4\" fill=\"#ccffcc\" stroke=\"#007700\" stroke-width=\"1.5\" />\n  <text x=\"189\" y=\"61\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">14</text>\n  \n  <rect x=\"210\" y=\"40\" width=\"32\" height=\"32\" rx=\"4\" fill=\"#ccffcc\" stroke=\"#007700\" stroke-width=\"1.5\" />\n  <text x=\"226\" y=\"61\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">15</text>\n  \n  <rect x=\"247\" y=\"40\" width=\"32\" height=\"32\" rx=\"4\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"263\" y=\"61\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" text-anchor=\"middle\">16</text>\n  \n  <rect x=\"284\" y=\"40\" width=\"32\" height=\"32\" rx=\"4\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"300\" y=\"61\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" text-anchor=\"middle\">17</text>\n  \n  <rect x=\"321\" y=\"40\" width=\"32\" height=\"32\" rx=\"4\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"337\" y=\"61\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" text-anchor=\"middle\">18</text>\n  \n  <rect x=\"358\" y=\"40\" width=\"32\" height=\"32\" rx=\"4\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"374\" y=\"61\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" text-anchor=\"middle\">19</text>\n\n  <line x1=\"207.5\" y1=\"20\" x2=\"207.5\" y2=\"100\" stroke=\"#cc0000\" stroke-width=\"1.5\" stroke-dasharray=\"5,3\" />\n  <text x=\"207.5\" y=\"15\" fill=\"#cc0000\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\">Median Position</text>\n  \n  <path d=\"M 189 78 Q 207.5 110 226 78\" fill=\"none\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"207.5\" y=\"125\" fill=\"#2255cc\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">Average = 14.5</text>\n</svg>\n\n<p><strong>Calculation:</strong></p>\n<p>⇒ Total number of observations, n = 10 (even number).</p>\n<p>⇒ First, sort the given ages in ascending order:</p>\n<p>⇒ 11, 12, 13, 13, 14, 15, 16, 17, 18, 19</p>\n<p>⇒ Median = [(10/2)<sup>th</sup> term + (10/2 + 1)<sup>th</sup> term] ÷ 2</p>\n<p>⇒ Median = [5<sup>th</sup> term + 6<sup>th</sup> term] ÷ 2</p>\n<p>⇒ Here, the 5<sup>th</sup> term is 14, and the 6<sup>th</sup> term is 15.</p>\n<p>⇒ Median = (14 + 15) ÷ 2</p>\n<p>⇒ Median = 29 ÷ 2 = 14.5</p>\n<p><strong>∴ The correct answer is 14.5 years.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Mean</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The mean is the simple average of a given set of numbers. It is calculated by Mean = Sum of all observations ÷ Total number of observations.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Median</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The median is the exact middle value when a data set is ordered from least to greatest. If n is odd, Median = ((n+1)÷2)<sup>th</sup> term. If n is even, the Median is the average of the two central terms.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Mode</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The mode is the value that appears most frequently in a data set. A set of data may have one mode, multiple modes, or no mode at all.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q20",
+      "number": 20,
+      "question": "Simplify the following expression. 45 - 22 &divide; 2 + 12 + 70 &divide; 35 + 0.4 &divide; 0.8 + 1.5 &divide; 3 + 1",
+      "questionHtml": "<p>Simplify the following expression.&nbsp;</p>\n\n<p>45 - 22&nbsp;&divide; 2 + 12 + 70&nbsp;&divide; 35 + 0.4&nbsp;&divide; 0.8 + 1.5&nbsp;&divide; 3 + 1</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "50",
+          "html": "50"
+        },
+        {
+          "id": "B",
+          "text": "50.5",
+          "html": "50.5"
+        },
+        {
+          "id": "C",
+          "text": "48.5",
+          "html": "48.5"
+        },
+        {
+          "id": "D",
+          "text": "54.5",
+          "html": "54.5"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n<p>45 - 22 ÷ 2 + 12 + 70 ÷ 35 + 0.4 ÷ 0.8 + 1.5 ÷ 3 + 1</p>\n<p><strong>Formula Used:</strong></p>\n<p>BODMAS Rule (Bracket, Of, Division, Multiplication, Addition, Subtraction)</p>\n<p><strong>Calculation:</strong></p>\n<p><span class=\"math-tex\">\\(45 - 22 \\div 2 + 12 + 70 \\div 35 + 0.4 \\div 0.8 + 1.5 \\div 3 + 1\\)</span></p>\n<p>⇒ <span class=\"math-tex\">\\(45 - 11 + 12 + 2 + 0.5 + 0.5 + 1\\)</span></p>\n<p>⇒ <span class=\"math-tex\">\\(34 + 12 + 2 + 1 + 1\\)</span></p>\n<p>⇒ <span class=\"math-tex\">\\(50\\)</span></p>\n<p><strong>∴ The correct answer is option (1).</strong></p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q21",
+      "number": 21,
+      "question": "What is the value of \\(\\left(\\mathrm{k}+\\frac{1}{k}\\right)\\left(\\mathrm{k}-\\frac{1}{\\mathrm{k}}\\right)\\left(\\mathrm{k}^2+\\frac{1}{\\mathrm{k}^2}\\right)\\left(\\mathrm{k}^4+\\frac{1}{\\mathrm{k}^4}\\right)\\) ?",
+      "questionHtml": "What is the value of <span class=\"math-tex\">\\(\\left(\\mathrm{k}+\\frac{1}{k}\\right)\\left(\\mathrm{k}-\\frac{1}{\\mathrm{k}}\\right)\\left(\\mathrm{k}^2+\\frac{1}{\\mathrm{k}^2}\\right)\\left(\\mathrm{k}^4+\\frac{1}{\\mathrm{k}^4}\\right)\\)</span>?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\mathrm{k}^{16}+\\frac{1}{\\mathrm{k}^{16}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\mathrm{k}^{16}+\\frac{1}{\\mathrm{k}^{16}}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\mathrm{k}^{16}-\\frac{1}{\\mathrm{k}^{16}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\mathrm{k}^{16}-\\frac{1}{\\mathrm{k}^{16}}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\mathrm{k}^8-\\frac{1}{\\mathrm{k}^8}\\)",
+          "html": "<span class=\"math-tex\">\\(\\mathrm{k}^8-\\frac{1}{\\mathrm{k}^8}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\mathrm{k}^8+\\frac{1}{\\mathrm{k}^8}\\)",
+          "html": "<span class=\"math-tex\">\\(\\mathrm{k}^8+\\frac{1}{\\mathrm{k}^8}\\)</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Identify the iterative use of the identity (a + b)(a − b) = a<sup>2</sup> − b<sup>2</sup>.</p>\n<p>Each product doubles the power of the variables and keeps the − sign.</p>\n<p>The sequence of powers is: 1 → 2 → 4 → 8.</p>\n<p>The final simplified form will be the square of the highest power terms in the last pair with a minus sign.</p>\n<p><strong>∴ The correct answer is k<sup>8</sup> − 1/k<sup>8</sup>.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p>Given Expression: (k + 1/k)(k − 1/k)(k<sup>2</sup> + 1/k<sup>2</sup>)(k<sup>4</sup> + 1/k<sup>4</sup>)</p>\n<p>Formula Used: (a + b)(a − b) = a<sup>2</sup> − b<sup>2</sup></p>\n<p>⇒ [(k + 1/k)(k − 1/k)] × (k<sup>2</sup> + 1/k<sup>2</sup>) × (k<sup>4</sup> + 1/k<sup>4</sup>)</p>\n<p>⇒ (k<sup>2</sup> − 1/k<sup>2</sup>) × (k<sup>2</sup> + 1/k<sup>2</sup>) × (k<sup>4</sup> + 1/k<sup>4</sup>)</p>\n<p>⇒ [(k<sup>2</sup> − 1/k<sup>2</sup>)(k<sup>2</sup> + 1/k<sup>2</sup>)] × (k<sup>4</sup> + 1/k<sup>4</sup>)</p>\n<p>⇒ (k<sup>4</sup> − 1/k<sup>4</sup>) × (k<sup>4</sup> + 1/k<sup>4</sup>)</p>\n<p>⇒ (k<sup>4</sup>)<sup>2</sup> − (1/k<sup>4</sup>)<sup>2</sup></p>\n<p>⇒ k<sup>8</sup> − 1/k<sup>8</sup></p>\n<p><strong>∴ The correct answer is k<sup>8</sup> − 1/k<sup>8</sup>.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Difference of Squares</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The identity (a + b)(a − b) = a<sup>2</sup> − b<sup>2</sup> is fundamental for simplifying algebraic products involving conjugate pairs.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>General Power Rule</p>\n<p style='margin:0 0 8px 0;color:#444444;'>For an expression of the form (x − y)(x + y)(x<sup>2</sup> + y<sup>2</sup>)(x<sup>4</sup> + y<sup>4</sup>)...(x<sup>2<sup>n−1</sup></sup> + y<sup>2<sup>n−1</sup></sup>), the simplified result is x<sup>2<sup>n</sup></sup> − y<sup>2<sup>n</sup></sup>.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Cubic Identities</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Sum of cubes: (a + b)(a<sup>2</sup> − ab + b<sup>2</sup>) = a<sup>3</sup> + b<sup>3</sup> and Difference of cubes: (a − b)(a<sup>2</sup> + ab + b<sup>2</sup>) = a<sup>3</sup> − b<sup>3</sup>.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q22",
+      "number": 22,
+      "question": "A sum of money doubled itself at certain rate of compound interest in 15 years. In how many years will it become four times of itself?",
+      "questionHtml": "<p>A sum of money doubled itself at certain rate of compound interest in 15 years. In how many years will it become four times of itself?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "45",
+          "html": "<span style=\"\">45</span>"
+        },
+        {
+          "id": "B",
+          "text": "30",
+          "html": "<span style=\"\">30</span>"
+        },
+        {
+          "id": "C",
+          "text": "25",
+          "html": "<span style=\"\">25</span>"
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "html": "<span style=\"\">15</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"\">Let the principle be P and the time at which the sum became four times be T</p>\n\n<p style=\"\">⇒ 2P = <span class=\"math-tex\">\\(P × (1\\ +\\ {R\\over 100})^{15}\\)</span>  ⇒ 2 = <span class=\"math-tex\">\\((1\\ +\\ {R\\over 100})^{15}\\)</span>     <span style=\"\"> ----(1)</span></p>\n\n<p style=\"\">⇒ 4P = <span class=\"math-tex\">\\(P × (1\\ +\\ {R\\over 100})^T\\)</span> ⇒ 2<sup>2</sup> =  <span class=\"math-tex\">\\((1\\ +\\ {R\\over 100})^T\\)</span>     ----(2)</p>\n\n<p style=\"\">By equating (1) and (2) after squaring the eq (1),</p>\n\n<p style=\"\">⇒  (<span class=\"math-tex\">\\( (1\\ +\\ {R\\over 100})^{15}\\)</span>)<sup>2</sup> = <span class=\"math-tex\">\\((1\\ +\\ {R\\over 100})^T\\)</span> <span style=\"\">⇒ </span><span class=\"math-tex\">\\( (1\\ +\\ {R\\over 100})^{30}\\)</span><span style=\"\"> = </span><span class=\"math-tex\">\\( (1\\ +\\ {R\\over 100})^{T}\\)</span></p>\n\n<p style=\"\">By comparing the equations</p>\n\n<p style=\"\">⇒ <strong>T = 30 years</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q23",
+      "number": 23,
+      "question": "Anil sells a table to Kamal at a profit of 10% and Kamal sells it to Rajat at a profit of 12%. If Rajat pays ₹246.40 for it, then how much had Anil paid for it?",
+      "questionHtml": "Anil sells a table to Kamal at a profit of 10% and Kamal sells it to Rajat at a profit of 12%. If Rajat pays ₹246.40 for it, then how much had Anil paid for it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹220",
+          "html": "<span style=\"\">₹220</span>"
+        },
+        {
+          "id": "B",
+          "text": "₹215",
+          "html": "<span style=\"\">₹215</span>"
+        },
+        {
+          "id": "C",
+          "text": "₹200",
+          "html": "<span style=\"\">₹200</span>"
+        },
+        {
+          "id": "D",
+          "text": "₹233",
+          "html": "<span style=\"\">₹233</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Anil to Kamal profit = 10% → Ratio = 10 : 11</p>\n<p>Kamal to Rajat profit = 12% → Ratio = 25 : 28</p>\n<p>Successive Ratio (Anil : Rajat) = (10 × 25) : (11 × 28) = 250 : 308</p>\n<p>308 units = ₹246.40 ⇒ 1 unit = 0.8</p>\n<p>Anil CP = 250 units × 0.8 = ₹200</p>\n<p><strong>∴ The correct answer is ₹200.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Anil profit = 10%</p>\n<p>Kamal profit = 12%</p>\n<p>Rajat payment (Final SP) = ₹246.40</p>\n<img src=\"https://cdn.testbook.com/temp_eddfe74eea3f4a6b9c44050eaa5b1989.png/1780114849.png\" style=\"max-width: 450px;\" />\n<p><strong>Calculations:</strong></p>\n<p>Let the cost price for Anil be ₹ x.</p>\n<p>⇒ Price paid by Kamal = x × (100 + 10) ÷ 100 = 1.1x</p>\n<p>⇒ Price paid by Rajat = 1.1x × (100 + 12) ÷ 100</p>\n<p>⇒ 246.40 = 1.1x × 1.12</p>\n<p>⇒ 246.40 = 1.232x</p>\n<p>⇒ x = 246.40 ÷ 1.232</p>\n<p>⇒ x = 200</p>\n<p><strong>∴ The correct answer is ₹200.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Successive Percentage Change</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When a value changes by a% and then by b%, the effective change is [a + b + (a × b)/100] %.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Chain Selling Formula</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Final Price = Initial CP × (100 ± P<sub>1</sub>/L<sub>1</sub>)/100 × (100 ± P<sub>2</sub>/L<sub>2</sub>)/100 × ...</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Cost Price Calculation</p>\n<p style='margin:0 0 8px 0;color:#444444;'>CP = [SP ÷ (100 + Profit %)] × 100 or CP = [SP ÷ (100 − Loss %)] × 100.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_eddfe74eea3f4a6b9c44050eaa5b1989.png/1780114849.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q24",
+      "number": 24,
+      "question": "The speed of a boat down the stream is 125% of the speed in still water. If the boat takes 30 minutes to cover 20 km in still water, then how much time (in hours) will it take to cover 15 km upstream?",
+      "questionHtml": "The speed of a boat down the stream is 125% of the speed in still water. If the boat takes 30 minutes to cover 20 km in still water, then how much time (in hours) will it take to cover 15 km upstream?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{3}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{3}{4}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{2}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{1}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{4}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Speed ratio Downstream : Still water = 125% : 100% = 5 : 4</p>\n<p>Stream speed ratio = 5 − 4 = 1 part, so Upstream speed ratio = 4 − 1 = 3 parts.</p>\n<p>Speed in still water (4 parts) = 20 km ÷ 0.5 hr = 40 km/h.</p>\n<p>Upstream speed (3 parts) = (40 ÷ 4) × 3 = 30 km/h.</p>\n<p>Time for 15 km upstream = 15 ÷ 30 = 1/2 hour.</p>\n<p><strong>∴ The correct answer is 1/2 hour.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>⇒ Speed downstream = 125% of speed in still water.</p>\n<p>⇒ Time taken to cover 20 km in still water = 30 minutes = 0.5 hours.</p>\n\n<p><strong>Formula Used:</strong></p>\n<p>⇒ Speed = Distance ÷ Time</p>\n<p>⇒ Downstream Speed (D) = Boat Speed (B) + Stream Speed (S)</p>\n<p>⇒ Upstream Speed (U) = Boat Speed (B) − Stream Speed (S)</p>\n\n<img src=\"https://cdn.testbook.com/temp_8e0e7ca2a4e048a6b57fc23733901dbb.png/1777700962.png\" style=\"max-width: 450px;\" />\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ Speed in still water (B) = 20 km ÷ 0.5 hours = 40 km/h</p>\n<p>⇒ Speed downstream (D) = 125% of 40 = 1.25 × 40 = 50 km/h</p>\n<p>⇒ Speed of stream (S) = D − B = 50 − 40 = 10 km/h</p>\n<p>⇒ Speed upstream (U) = B − S = 40 − 10 = 30 km/h</p>\n<p>⇒ Time to cover 15 km upstream = Distance ÷ Upstream Speed</p>\n<p>⇒ Time = 15 ÷ 30 = 1/2 hour</p>\n<p><strong>∴ The correct answer is 1/2 hour.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Speed in Still Water</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">It is the average of downstream and upstream speeds: B = (D + U) ÷ 2</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Speed of Stream</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">It is half the difference between downstream and upstream speeds: S = (D − U) ÷ 2</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Average Speed of Journey</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If a boat goes a certain distance downstream and comes back upstream, the average speed is (2 × D × U) ÷ (D + U).</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_8e0e7ca2a4e048a6b57fc23733901dbb.png/1777700962.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f927795b7ab8-q25",
+      "number": 25,
+      "question": "Which of the following is/are prime numbers? (i) 241 (ii) 337 (iii) 391 (iv) 571",
+      "questionHtml": "<p><span style=\"\">Which of the following is/are prime numbers?</span></p>\n\n<p><span style=\"\">(i) 241 </span></p>\n\n<p><span style=\"\">(ii) 337</span></p>\n\n<p><span style=\"\">(iii) 391</span></p>\n\n<p><span style=\"\">(iv) 571&nbsp;</span></p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only (ii) and (iii)",
+          "html": "<span style=\"\">Only (ii) and (iii)&nbsp;</span>"
+        },
+        {
+          "id": "B",
+          "text": "(ii), (iii) and (iv)",
+          "html": "<span style=\"\">(ii), (iii) and (iv)&nbsp;</span>"
+        },
+        {
+          "id": "C",
+          "text": "(i), (ii) and (iv)",
+          "html": "<span style=\"\">(i), (ii) and (iv)</span>"
+        },
+        {
+          "id": "D",
+          "text": "(i), (ii), (iii) and (iv)",
+          "html": "<span style=\"\">(i), (ii), (iii) and (iv)</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>To check if n is prime, test its divisibility by primes p ≤ √n.</p>\n<p>(i) √241 ≈ 15.5: Not divisible by primes 7, 11, or 13 → Prime.</p>\n<p>(ii) √337 ≈ 18.3: Not divisible by primes 7, 11, 13, or 17 → Prime.</p>\n<p>(iii) 391 ÷ 17 = 23 → Composite; (iv) √571 ≈ 23.9: No prime factors ≤ 23 → Prime.</p>\n<p><strong>∴ The correct answer is (i), (ii) and (iv).</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p>Given numbers: (i) 241, (ii) 337, (iii) 391, (iv) 571.</p>\n<p>Method: A number is prime if it is not divisible by any prime number less than or equal to its square root.</p>\n<p>⇒ For 241: √241 ≈ 15.5. Primes to check: 2, 3, 5, 7, 11, 13. Divisibility check: 241 ÷ 7 = 34.4, 241 ÷ 11 = 21.9, 241 ÷ 13 = 18.5. No factors found, so 241 is Prime.</p>\n<p>⇒ For 337: √337 ≈ 18.3. Primes: 2, 3, 5, 7, 11, 13, 17. Divisibility check: 337 ÷ 13 = 25.9, 337 ÷ 17 = 19.8. No factors found, so 337 is Prime.</p>\n<p>⇒ For 391: √391 ≈ 19.7. Primes up to 19: 2, 3, 5, 7, 11, 13, 17, 19. Checking divisibility: 391 ÷ 17 = 23. Since 17 is a factor, 391 is Composite.</p>\n<p>⇒ For 571: √571 ≈ 23.9. Primes up to 23: 2, 3, 5, 7, 11, 13, 17, 19, 23. Divisibility check: 571 ÷ 19 = 30.05, 571 ÷ 23 = 24.8. No factors found, so 571 is Prime.</p>\n<p>⇒ The prime numbers in the list are 241, 337, and 571.</p>\n<p><strong>∴ The correct answer is (i), (ii) and (iv).</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Prime and Composite Numbers</p>\n<p style='margin:0 0 8px 0;color:#444444;'>A prime number is a natural number greater than 1 that has exactly two factors: 1 and itself. A composite number has more than two factors. 1 is neither prime nor composite.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Even Prime Number</p>\n<p style='margin:0 0 8px 0;color:#444444;'>2 is the smallest prime number and the only even prime number in the entire number system.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Square Root Rule for Primality</p>\n<p style='margin:0 0 8px 0;color:#444444;'>To check if a number N is prime, we only need to test its divisibility by prime numbers up to √N. If no prime factor is found in this range, the number is prime.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

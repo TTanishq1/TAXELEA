@@ -1,0 +1,865 @@
+{
+  "id": "aa62bfc28184",
+  "provider": "RBE_Mocks",
+  "sourceFile": "CGL_2025_Memory_Based_Maths_Test-9.html",
+  "sourcePath": "RBE_MOCKS/CGL_2025_Memory_Based_Maths_Test-9.html",
+  "title": "CGL 2025 Memory Based Maths Test-9",
+  "exam": null,
+  "year": 2025,
+  "tier": null,
+  "shift": null,
+  "duration": 51,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "aa62bfc28184-q1",
+      "number": 1,
+      "question": "What is the smallest number that must be added to 2378 to make it a perfect square?",
+      "questionHtml": "<p>What is the smallest number that must be added to 2378 to make it a perfect square?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "23",
+          "html": "<p>23</p>"
+        },
+        {
+          "id": "B",
+          "text": "24",
+          "html": "<p>24</p>"
+        },
+        {
+          "id": "C",
+          "text": "25",
+          "html": "<p>25</p>"
+        },
+        {
+          "id": "D",
+          "text": "26",
+          "html": "<p>26</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>√2378 ≈ 48.76</p><p>Next perfect square = 49² = 2401</p><p>Difference = 2401 − 2378 = 23.</p><p>Hence, smallest number to be added = 23.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q2",
+      "number": 2,
+      "question": "A bakery produced 5000 cakes at a total cost of ₹250,000. They gave away 500 cakes for a promotional event. For the remaining cakes, they offered a 20% discount on the market price of ₹75 per cake. Additionally, they gave one cake free with every 9 cakes bought. If all 5000 cakes were distributed, what is their overall gain or loss percentage?",
+      "questionHtml": "<p>A bakery produced 5000 cakes at a total cost of ₹250,000. They gave away 500 cakes for a promotional event. For the remaining cakes, they offered a 20% discount on the market price of ₹75 per cake. Additionally, they gave one cake free with every 9 cakes bought. If all 5000 cakes were distributed, what is their overall gain or loss percentage?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4.5 % profit",
+          "html": "<p>4.5 % profit</p>"
+        },
+        {
+          "id": "B",
+          "text": "2.8 % profit",
+          "html": "<p>2.8 % profit</p>"
+        },
+        {
+          "id": "C",
+          "text": "2.8 % loss",
+          "html": "<p>2.8 % loss</p>"
+        },
+        {
+          "id": "D",
+          "text": "4.5 % loss",
+          "html": "<p>4.5 % loss</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Total cost = ₹2,50,000.</p><p>Free cakes (promotional) = 500. Remaining = 4500.</p><p>SP per cake after 20% discount = 75 × 0.8 = ₹60.</p><p>Each group: 9 paid + 1 free = 10 cakes distributed for revenue = 9 × 60 = ₹540.</p><p>Groups in 4500 cakes = 4500/10 = 450.</p><p>Total Revenue = 450 × 540 = ₹2,43,000.</p><p>Loss = 2,50,000 − 2,43,000 = ₹7,000.</p><p>Loss% = (7000/250000) × 100 = 2.8%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q3",
+      "number": 3,
+      "question": "What is the compound interest on Rs. 8000 for 2 year at 10% per annum?",
+      "questionHtml": "<p>What is the compound interest on Rs. 8000 for 2 year at 10% per annum?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1600",
+          "html": "<p>1600</p>"
+        },
+        {
+          "id": "B",
+          "text": "1680",
+          "html": "<p>1680</p>"
+        },
+        {
+          "id": "C",
+          "text": "1650",
+          "html": "<p>1650</p>"
+        },
+        {
+          "id": "D",
+          "text": "1700",
+          "html": "<p>1700</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>A = P(1 + R/100)^n</p><p>= 8000 × (1.10)²</p><p>= 8000 × 1.21</p><p>= 9680</p><p>CI = A − P = 9680 − 8000 = ₹1680.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q4",
+      "number": 4,
+      "question": "A certain sum becomes 4 times itself in 8 years at simple interest. In how many years will it become 12 times itself at the same rate?",
+      "questionHtml": "<p>A certain sum becomes 4 times itself in 8 years at simple interest. In how many years will it become 12 times itself at the same rate?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "29 1/3 years",
+          "html": "<p>29 1/3 years</p>"
+        },
+        {
+          "id": "B",
+          "text": "30 1/6 years",
+          "html": "<p>30 1/6 years</p>"
+        },
+        {
+          "id": "C",
+          "text": "28 2/5 years",
+          "html": "<p>28 2/5 years</p>"
+        },
+        {
+          "id": "D",
+          "text": "27 3/7 years",
+          "html": "<p>27 3/7 years</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Sum becomes 4 times → SI = 3P in 8 yrs.</p><p>3P = P × R × 8/100 → R = 37.5%.</p><p>For 12 times: SI = 11P.</p><p>11P = P × 37.5 × T/100</p><p>T = 1100/37.5 = 29.333... = 29 1/3 years.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q5",
+      "number": 5,
+      "question": "Which of the following is a perfect square and an Integer?",
+      "questionHtml": "<p>Which of the following is a perfect square and an Integer?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Square root of 5",
+          "html": "<p>Square root of 5</p>"
+        },
+        {
+          "id": "B",
+          "text": "Square root of 9",
+          "html": "<p>Square root of 9</p>"
+        },
+        {
+          "id": "C",
+          "text": "3.2",
+          "html": "<p>3.2</p>"
+        },
+        {
+          "id": "D",
+          "text": "3.4",
+          "html": "<p>3.4</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>√5 ≈ 2.236 (irrational, not integer).</p><p>√9 = 3 (integer; 9 is a perfect square).</p><p>3.2 and 3.4 are not integers.</p><p>Hence, √9 is the correct option.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q6",
+      "number": 6,
+      "question": "The speed of a train is 110 kmph. Find the distance covered by the train in 100 seconds.",
+      "questionHtml": "<p>The speed of a train is 110 kmph. Find the distance covered by the train in 100 seconds.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3051 m",
+          "html": "<p>3051 m</p>"
+        },
+        {
+          "id": "B",
+          "text": "3055.56 m",
+          "html": "<p>3055.56 m</p>"
+        },
+        {
+          "id": "C",
+          "text": "3011.56 m",
+          "html": "<p>3011.56 m</p>"
+        },
+        {
+          "id": "D",
+          "text": "3000.56 m",
+          "html": "<p>3000.56 m</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Speed = 110 × (5/18) m/s = 30.555... m/s</p><p>Distance = Speed × Time = 30.555... × 100 = 3055.56 m.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q7",
+      "number": 7,
+      "question": "If the ratio of capital of A and B is 3:2 and the time for which they invested is in the ratio 2:3, then the profit ratio is:",
+      "questionHtml": "<p>If the ratio of capital of A and B is 3:2 and the time for which they invested is in the ratio 2:3, then the profit ratio is:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1:1",
+          "html": "<p>1:1</p>"
+        },
+        {
+          "id": "B",
+          "text": "2:1",
+          "html": "<p>2:1</p>"
+        },
+        {
+          "id": "C",
+          "text": "3:2",
+          "html": "<p>3:2</p>"
+        },
+        {
+          "id": "D",
+          "text": "3:1",
+          "html": "<p>3:1</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Profit ratio = (Capital × Time) of A : (Capital × Time) of B</p><p>= (3 × 2) : (2 × 3)</p><p>= 6 : 6</p><p>= 1 : 1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q8",
+      "number": 8,
+      "question": "A company designs a new chocolate box in the shape of a regular right pyramid with a square base. The base side of the box is 10 cm and its height is 12 cm. Due to packaging constraints, the box can only be filled up to 90% of its total volume. If the company wants to estimate the total cost of chocolate, knowing that 1 cm³ of chocolate costs ₹0.50, what is the cost of chocolate to fill one such box?",
+      "questionHtml": "<p>A company designs a new chocolate box in the shape of a regular right pyramid with a square base. The base side of the box is 10 cm and its height is 12 cm. Due to packaging constraints, the box can only be filled up to 90% of its total volume. If the company wants to estimate the total cost of chocolate, knowing that 1 cm³ of chocolate costs ₹0.50, what is the cost of chocolate to fill one such box?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹180",
+          "html": "<p>₹180</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹225",
+          "html": "<p>₹225</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹270",
+          "html": "<p>₹270</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹300",
+          "html": "<p>₹300</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Volume of pyramid = (1/3) × base area × height</p><p>= (1/3) × (10×10) × 12</p><p>= (1/3) × 100 × 12</p><p>= 400 cm³</p><p>Filled volume = 90% of 400 = 360 cm³.</p><p>Cost = 360 × ₹0.50 = ₹180.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q9",
+      "number": 9,
+      "question": "Consider a right trapezoidal field. Its two parallel sides are 30 meters and 50 meters long. One of its non-parallel sides, which acts as the height, measures 20 meters. What is the area of this field?",
+      "questionHtml": "<p>Consider a right trapezoidal field. Its two parallel sides are 30 meters and 50 meters long. One of its non-parallel sides, which acts as the height, measures 20 meters. What is the area of this field?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "700 square meters",
+          "html": "<p>700 square meters</p>"
+        },
+        {
+          "id": "B",
+          "text": "800 square meters",
+          "html": "<p>800 square meters</p>"
+        },
+        {
+          "id": "C",
+          "text": "840 square meters",
+          "html": "<p>840 square meters</p>"
+        },
+        {
+          "id": "D",
+          "text": "900 square meters",
+          "html": "<p>900 square meters</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Area of trapezium = (1/2) × (sum of parallel sides) × height</p><p>= (1/2) × (30 + 50) × 20</p><p>= (1/2) × 80 × 20</p><p>= 800 m².</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q10",
+      "number": 10,
+      "question": "A hexagon is drawn inside a circle with a radius of 21 cm. Determine the approximate area of the hexagon.",
+      "questionHtml": "<p>A hexagon is drawn inside a circle with a radius of 21 cm. Determine the approximate area of the hexagon.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1145 cm²",
+          "html": "<p>1145 cm²</p>"
+        },
+        {
+          "id": "B",
+          "text": "1845 cm²",
+          "html": "<p>1845 cm²</p>"
+        },
+        {
+          "id": "C",
+          "text": "165 cm²",
+          "html": "<p>165 cm²</p>"
+        },
+        {
+          "id": "D",
+          "text": "172 cm²",
+          "html": "<p>172 cm²</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>For a regular hexagon inscribed in a circle, side = radius = 21 cm.</p><p>Area = (3√3/2) × a²</p><p>= (3 × 1.732 / 2) × 441</p><p>= 2.598 × 441</p><p>≈ 1145.5 cm² ≈ 1145 cm².</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q11",
+      "number": 11,
+      "question": "A town has males and females in a ratio of 3:2. After 5 years, the male population increases by 10%, and the female population by 25%. What is the new ratio?",
+      "questionHtml": "<p>A town has males and females in a ratio of 3:2. After 5 years, the male population increases by 10%, and the female population by 25%. What is the new ratio?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3:2.5",
+          "html": "<p>3:2.5</p>"
+        },
+        {
+          "id": "B",
+          "text": "33:25",
+          "html": "<p>33:25</p>"
+        },
+        {
+          "id": "C",
+          "text": "66:65",
+          "html": "<p>66:65</p>"
+        },
+        {
+          "id": "D",
+          "text": "6:5",
+          "html": "<p>6:5</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let males = 3x, females = 2x.</p><p>New males = 3x × 1.10 = 3.3x.</p><p>New females = 2x × 1.25 = 2.5x.</p><p>Ratio = 3.3 : 2.5 = 33 : 25.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q12",
+      "number": 12,
+      "question": "A triangle has sides 8 cm and 10 cm, and the angle between them is 120°. What is its area?",
+      "questionHtml": "<p>A triangle has sides 8 cm and 10 cm, and the angle between them is 120°. What is its area?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "40 cm²",
+          "html": "<p>40 cm²</p>"
+        },
+        {
+          "id": "B",
+          "text": "20√3 cm²",
+          "html": "<p>20√3 cm²</p>"
+        },
+        {
+          "id": "C",
+          "text": "40√3 cm²",
+          "html": "<p>40√3 cm²</p>"
+        },
+        {
+          "id": "D",
+          "text": "20 cm²",
+          "html": "<p>20 cm²</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Area = (1/2) × a × b × sin C</p><p>= (1/2) × 8 × 10 × sin 120°</p><p>= 40 × (√3/2)</p><p>= 20√3 cm².</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q13",
+      "number": 13,
+      "question": "A man spends 80% of his income. His income has increased by 25%, but his expenditure remains the same. By what percent have his savings increased?",
+      "questionHtml": "<p>A man spends 80% of his income. His income has increased by 25%, but his expenditure remains the same. By what percent have his savings increased?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "125%",
+          "html": "<p>125%</p>"
+        },
+        {
+          "id": "B",
+          "text": "150%",
+          "html": "<p>150%</p>"
+        },
+        {
+          "id": "C",
+          "text": "100%",
+          "html": "<p>100%</p>"
+        },
+        {
+          "id": "D",
+          "text": "200%",
+          "html": "<p>200%</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let income = ₹100 → expenditure = ₹80, savings = ₹20.</p><p>New income = ₹125, expenditure = ₹80, new savings = ₹45.</p><p>Increase in savings = 45 − 20 = ₹25.</p><p>% increase = (25/20) × 100 = 125%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q14",
+      "number": 14,
+      "question": "Sameer can complete a work in 16 days. In how many days will the work be completed by Ajay, if his efficiency is 60% more than that of Sameer?",
+      "questionHtml": "<p>Sameer can complete a work in 16 days. In how many days will the work be completed by Ajay, if his efficiency is 60% more than that of Sameer?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 days",
+          "html": "<p>12 days</p>"
+        },
+        {
+          "id": "B",
+          "text": "10 days",
+          "html": "<p>10 days</p>"
+        },
+        {
+          "id": "C",
+          "text": "13 days",
+          "html": "<p>13 days</p>"
+        },
+        {
+          "id": "D",
+          "text": "15 days",
+          "html": "<p>15 days</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Ajay's efficiency = 1.6 × Sameer's efficiency.</p><p>Time ∝ 1/Efficiency.</p><p>Ajay's time = 16 / 1.6 = 10 days.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q15",
+      "number": 15,
+      "question": "A right prism has a base in the shape of a trapezium with parallel sides 10 cm and 6 cm, and height 4 cm. If the prism height is 15 cm, what is the volume?",
+      "questionHtml": "<p>A right prism has a base in the shape of a trapezium with parallel sides 10 cm and 6 cm, and height 4 cm. If the prism height is 15 cm, what is the volume?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "480 cm³",
+          "html": "<p>480 cm³</p>"
+        },
+        {
+          "id": "B",
+          "text": "240 cm³",
+          "html": "<p>240 cm³</p>"
+        },
+        {
+          "id": "C",
+          "text": "520 cm³",
+          "html": "<p>520 cm³</p>"
+        },
+        {
+          "id": "D",
+          "text": "680 cm³",
+          "html": "<p>680 cm³</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Base area = (1/2) × (10 + 6) × 4 = (1/2) × 16 × 4 = 32 cm².</p><p>Volume = Base area × Prism height = 32 × 15 = 480 cm³.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q16",
+      "number": 16,
+      "question": "The average of a group of 11 numbers is 61. If the first six numbers have an average of 57 and the last six numbers have an average of 65, what is the sixth number?",
+      "questionHtml": "<p>The average of a group of 11 numbers is 61. If the first six numbers have an average of 57 and the last six numbers have an average of 65, what is the sixth number?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "62",
+          "html": "<p>62</p>"
+        },
+        {
+          "id": "B",
+          "text": "61",
+          "html": "<p>61</p>"
+        },
+        {
+          "id": "C",
+          "text": "64",
+          "html": "<p>64</p>"
+        },
+        {
+          "id": "D",
+          "text": "60",
+          "html": "<p>60</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Sum of 11 numbers = 11 × 61 = 671.</p><p>Sum of first 6 = 6 × 57 = 342.</p><p>Sum of last 6 = 6 × 65 = 390.</p><p>Sum of first 6 + last 6 = 342 + 390 = 732 (counts 6th twice).</p><p>6th number = 732 − 671 = 61.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q17",
+      "number": 17,
+      "question": "A chemist prepares 60 liters of antiseptic solution by mixing two liquids 'A' and 'B' in the ratio 2:3. If the cost of 'A' is Rs. 45/liter and 'B' is Rs. 30/liter, what is the average cost per liter of the final solution?",
+      "questionHtml": "<p>A chemist prepares 60 liters of antiseptic solution by mixing two liquids 'A' and 'B' in the ratio 2:3. If the cost of 'A' is Rs. 45/liter and 'B' is Rs. 30/liter, what is the average cost per liter of the final solution?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 36",
+          "html": "<p>Rs. 36</p>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 38",
+          "html": "<p>Rs. 38</p>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 37",
+          "html": "<p>Rs. 37</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 39",
+          "html": "<p>Rs. 39</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Quantity of A = (2/5) × 60 = 24 L. Cost = 24 × 45 = ₹1080.</p><p>Quantity of B = (3/5) × 60 = 36 L. Cost = 36 × 30 = ₹1080.</p><p>Total cost = 1080 + 1080 = ₹2160.</p><p>Avg cost/L = 2160 / 60 = ₹36.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q18",
+      "number": 18,
+      "question": "If sinA + cosA = 1, then find the value of sin⁴A + cos⁴A.",
+      "questionHtml": "<p>If sinA + cosA = 1, then find the value of sin⁴A + cos⁴A.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "<p>1</p>"
+        },
+        {
+          "id": "B",
+          "text": "1/2",
+          "html": "<p>1/2</p>"
+        },
+        {
+          "id": "C",
+          "text": "3/4",
+          "html": "<p>3/4</p>"
+        },
+        {
+          "id": "D",
+          "text": "5/8",
+          "html": "<p>5/8</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Square both sides: (sinA + cosA)² = 1</p><p>sin²A + cos²A + 2 sinA cosA = 1</p><p>1 + 2 sinA cosA = 1 → sinA cosA = 0.</p><p>Now, sin⁴A + cos⁴A = (sin²A + cos²A)² − 2 sin²A cos²A</p><p>= 1 − 2(0)²</p><p>= 1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q19",
+      "number": 19,
+      "question": "If sinA = 0.6 and cosA = 0.8, what is tanA?",
+      "questionHtml": "<p>If sinA = 0.6 and cosA = 0.8, what is tanA?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.56",
+          "html": "<p>0.56</p>"
+        },
+        {
+          "id": "B",
+          "text": "0.75",
+          "html": "<p>0.75</p>"
+        },
+        {
+          "id": "C",
+          "text": "0.45",
+          "html": "<p>0.45</p>"
+        },
+        {
+          "id": "D",
+          "text": "0.52",
+          "html": "<p>0.52</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>tanA = sinA/cosA = 0.6 / 0.8 = 0.75.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q20",
+      "number": 20,
+      "question": "If y = mx + 1 passes through (2,5), find m.",
+      "questionHtml": "<p>If y = mx + 1 passes through (2,5), find m.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "<p>2</p>"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "<p>1</p>"
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "html": "<p>0</p>"
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "html": "<p>3</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Substitute (x, y) = (2, 5):</p><p>5 = m(2) + 1</p><p>5 − 1 = 2m</p><p>4 = 2m → m = 2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q21",
+      "number": 21,
+      "question": "If sinA = 4/5 and A is acute, find cot(90° − A).",
+      "questionHtml": "<p>If sinA = 4/5 and A is acute, find cot(90° − A).</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3/4",
+          "html": "<p>3/4</p>"
+        },
+        {
+          "id": "B",
+          "text": "4/3",
+          "html": "<p>4/3</p>"
+        },
+        {
+          "id": "C",
+          "text": "5/3",
+          "html": "<p>5/3</p>"
+        },
+        {
+          "id": "D",
+          "text": "5/4",
+          "html": "<p>5/4</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>cot(90° − A) = tanA.</p><p>cosA = √(1 − sin²A) = √(1 − 16/25) = √(9/25) = 3/5.</p><p>tanA = sinA/cosA = (4/5)/(3/5) = 4/3.</p><p>Hence, cot(90° − A) = 4/3.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q22",
+      "number": 22,
+      "question": "If the measure of an exterior angle of a regular polygon is 20°, determine the total number of its sides.",
+      "questionHtml": "<p>If the measure of an exterior angle of a regular polygon is 20°, determine the total number of its sides.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "15",
+          "html": "<p>15</p>"
+        },
+        {
+          "id": "B",
+          "text": "18",
+          "html": "<p>18</p>"
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "html": "<p>20</p>"
+        },
+        {
+          "id": "D",
+          "text": "36",
+          "html": "<p>36</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Number of sides = 360° / exterior angle</p><p>= 360° / 20°</p><p>= 18.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q23",
+      "number": 23,
+      "question": "In a triangle with vertices P(x, y), Q(5, -1), and R(2, 6), the Centroid is at G(4, 2). What are the coordinates of vertex P?",
+      "questionHtml": "<p>In a triangle with vertices P(x, y), Q(5, -1), and R(2, 6), the Centroid is at G(4, 2). What are the coordinates of vertex P?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(5, 1)",
+          "html": "<p>(5, 1)</p>"
+        },
+        {
+          "id": "B",
+          "text": "(5, -1)",
+          "html": "<p>(5, -1)</p>"
+        },
+        {
+          "id": "C",
+          "text": "(4, 1)",
+          "html": "<p>(4, 1)</p>"
+        },
+        {
+          "id": "D",
+          "text": "(4, 2)",
+          "html": "<p>(4, 2)</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Centroid formula: G = ((x₁+x₂+x₃)/3, (y₁+y₂+y₃)/3)</p><p>(x + 5 + 2)/3 = 4 → x + 7 = 12 → x = 5.</p><p>(y − 1 + 6)/3 = 2 → y + 5 = 6 → y = 1.</p><p>Hence, P = (5, 1).</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q24",
+      "number": 24,
+      "question": "If x = √2 + 1, find x² − 2.",
+      "questionHtml": "<p>If x = √2 + 1, find x² − 2.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 + 2√2",
+          "html": "<p>1 + 2√2</p>"
+        },
+        {
+          "id": "B",
+          "text": "3 + 2√2",
+          "html": "<p>3 + 2√2</p>"
+        },
+        {
+          "id": "C",
+          "text": "2 + √2",
+          "html": "<p>2 + √2</p>"
+        },
+        {
+          "id": "D",
+          "text": "1 + √2",
+          "html": "<p>1 + √2</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>x² = (√2 + 1)²</p><p>= (√2)² + 2(√2)(1) + 1²</p><p>= 2 + 2√2 + 1</p><p>= 3 + 2√2</p><p>x² − 2 = (3 + 2√2) − 2 = 1 + 2√2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62bfc28184-q25",
+      "number": 25,
+      "question": "In △ABC, a median AD is drawn to side BC. What is the ratio of the area of △ABD to the area of △ACD?",
+      "questionHtml": "<p>In △ABC, a median AD is drawn to side BC. What is the ratio of the area of △ABD to the area of △ACD?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1:1",
+          "html": "<p>1:1</p>"
+        },
+        {
+          "id": "B",
+          "text": "1:2",
+          "html": "<p>1:2</p>"
+        },
+        {
+          "id": "C",
+          "text": "2:1",
+          "html": "<p>2:1</p>"
+        },
+        {
+          "id": "D",
+          "text": "1:3",
+          "html": "<p>1:3</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>A median divides a triangle into two triangles of equal area, because both triangles share the same height from A, and BD = DC.</p><p>Area (△ABD) : Area (△ACD) = 1 : 1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

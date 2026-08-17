@@ -1,0 +1,734 @@
+{
+  "id": "fede2044f91e",
+  "provider": "Testbook",
+  "sourceFile": "Section III _Computer Knowledge_ Sectional Test - 04.html",
+  "sourcePath": "Testbook/files/Section III _Computer Knowledge_ Sectional Test - 04.html",
+  "title": "Section III (Computer Knowledge) Sectional Test - 04",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 20,
+  "questions": [
+    {
+      "id": "fede2044f91e-q1",
+      "number": 1,
+      "question": "Match the following formulas in MS Excel 365 with their respective results. Formulas Results (a) =RIGHT(\"siessies\",4) (i) iessie (b) =REPLACE(\"sies\",3,2,\"sies\") (ii) sies (c) =CONCAT(\"es\",\"sies\",\"sies\", \"es\") (iii) sisies (d) =MID(\"siessies\",2,6) (iv) essiessieses",
+      "questionHtml": "<p><!-- x-tinymce/html -->Match the following formulas in MS Excel 365 with their respective results.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td colspan=\"2\" style=\"width: 144px; height: 12px;\">\n\t\t\t<p align=\"center\"><strong>Formulas</strong></p>\n\t\t\t</td>\n\t\t\t<td colspan=\"2\" style=\"width: 180px; height: 12px;\">\n\t\t\t<p align=\"center\"><strong>Results</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 36px; height: 12px;\">\n\t\t\t<p align=\"center\">(a)</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 108px; height: 12px;\">=RIGHT(&quot;siessies&quot;,4)</td>\n\t\t\t<td style=\"width: 36px; height: 12px;\">\n\t\t\t<p align=\"center\">(i)</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 144px; height: 12px;\">iessie</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 36px; height: 12px;\">\n\t\t\t<p align=\"center\">(b)</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 108px; height: 12px;\">=REPLACE(&quot;sies&quot;,3,2,&quot;sies&quot;)</td>\n\t\t\t<td style=\"width: 36px; height: 12px;\">\n\t\t\t<p align=\"center\">(ii)</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 144px; height: 12px;\">sies</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 36px; height: 13px;\">\n\t\t\t<p align=\"center\">(c)</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 108px; height: 13px;\">=CONCAT(&quot;es&quot;,&quot;sies&quot;,&quot;sies&quot;, &quot;es&quot;)</td>\n\t\t\t<td style=\"width: 36px; height: 13px;\">\n\t\t\t<p align=\"center\">(iii)</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 144px; height: 13px;\">sisies</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width: 36px; height: 12px;\">\n\t\t\t<p align=\"center\">(d)</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 108px; height: 12px;\">=MID(&quot;siessies&quot;,2,6)</td>\n\t\t\t<td style=\"width: 36px; height: 12px;\">\n\t\t\t<p align=\"center\">(iv)</p>\n\t\t\t</td>\n\t\t\t<td style=\"width: 144px; height: 12px;\">essiessieses</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "(a)-(iii),(b)-(i), (c)-(iv), (d)-(ii)",
+          "html": "(a)-(iii),(b)-(i), (c)-(iv), (d)-(ii)"
+        },
+        {
+          "id": "B",
+          "text": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+          "html": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+        },
+        {
+          "id": "C",
+          "text": "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+          "html": "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
+        },
+        {
+          "id": "D",
+          "text": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+          "html": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is <u><strong><span style=\"color: (33, 37, 41);\">Option 2</span></strong></u></p>\n\n<p><u><strong><span style=\"color: (33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></strong></u></p>\n\n<ul>\n\t<li><strong>The formula <code>=RIGHT(&quot;siessies&quot;,4)</code> extracts the last 4 characters from the text &quot;siessies&quot;, resulting in <code>&quot;sies&quot;</code>. Hence, (a) matches (ii).</strong></li>\n\t<li><strong>The formula <code>=REPLACE(&quot;sies&quot;,3,2,&quot;sies&quot;)</code> replaces 2 characters starting from the 3rd position of &quot;sies&quot; with &quot;sies&quot;. The result is <code>&quot;sisies&quot;</code>. Hence, (b) matches (iii).</strong></li>\n\t<li><strong>The formula <code>=CONCAT(&quot;es&quot;,&quot;sies&quot;,&quot;sies&quot;,&quot;es&quot;)</code> concatenates the strings &quot;es&quot;, &quot;sies&quot;, &quot;sies&quot;, and &quot;es&quot;. The result is <code>&quot;essiessieses&quot;</code>. Hence, (c) matches (iv).</strong></li>\n\t<li><strong>The formula <code>=MID(&quot;siessies&quot;,2,6)</code> extracts 6 characters starting from the 2nd position of &quot;siessies&quot;. The result is <code>&quot;iessie&quot;</code>. Hence, (d) matches (i).</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>To summarize the matches:\n\t<ul>\n\t\t<li>(a) = (ii)</li>\n\t\t<li>(b) = (iii)</li>\n\t\t<li>(c) = (iv)</li>\n\t\t<li>(d) = (i)</li>\n\t</ul>\n\t</li>\n\t<li><strong>Correct Answer:</strong> Option 2</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q2",
+      "number": 2,
+      "question": "Which file format is the most reliable for sharing documents when it is crucial that the recipient sees the document exactly as intended, with consistent formatting and layout, regardless of their operating system or the software they use to open it?",
+      "questionHtml": "Which file format is the most reliable for sharing documents when it is crucial that the recipient sees the document exactly as intended, with consistent formatting and layout, regardless of their operating system or the software they use to open it?",
+      "options": [
+        {
+          "id": "A",
+          "text": ".docx",
+          "html": ".docx"
+        },
+        {
+          "id": "B",
+          "text": ".pdf",
+          "html": ".pdf"
+        },
+        {
+          "id": "C",
+          "text": ".odt",
+          "html": ".odt"
+        },
+        {
+          "id": "D",
+          "text": ".exe",
+          "html": ".exe"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is <u><strong>PDF</strong></u>.</p>\n\n<p><span align-items:=\"\" display:=\"\" gap:=\"\" style=\"\"><img cdn.testbook.com=\"\" height=\"\" lms_creative_elements=\"\" resources=\"\" src=\"\" width=\"\" /><strong><span font-size:=\"\" style=\"\" vertical-align:=\"\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>PDF</strong> (Portable Document Format) is a universally accepted file format that ensures the consistent display of documents across different devices, operating systems, and software.</li>\n\t<li>PDF files preserve the original formatting, layout, fonts, and images as intended by the creator, making them ideal for sharing professional documents.</li>\n\t<li>The format is widely supported by various platforms and applications, including free PDF viewers like Adobe Acrobat Reader.</li>\n\t<li>PDFs are secure and can be password-protected or encrypted to prevent unauthorized access or editing.</li>\n\t<li>They are commonly used for contracts, reports, resumes, brochures, and other documents where consistent formatting is critical.</li>\n</ul>\n\n<p><span align-items:=\"\" display:=\"\" gap:=\"\" style=\"\"><img cdn.testbook.com=\"\" height=\"\" lms_creative_elements=\"\" resources=\"\" src=\"\" width=\"\" /><strong><span font-size:=\"\" style=\"\" vertical-align:=\"\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Features of PDF:</strong>\n\n\t<ul>\n\t\t<li>Supports multimedia elements such as audio, video, and hyperlinks.</li>\n\t\t<li>Allows annotations, comments, and electronic signatures for collaboration and approval processes.</li>\n\t\t<li>Compatible with printing, maintaining high-quality output without altering the document&rsquo;s structure.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Comparison with Other Formats:</strong>\n\t<ul>\n\t\t<li><strong>.docx:</strong> While .docx files are editable and widely used, they may not retain consistent formatting across different software versions or devices.</li>\n\t\t<li><strong>.odt:</strong> OpenDocument Text files are suitable for open-source applications but lack universal compatibility and formatting consistency.</li>\n\t\t<li><strong>.exe:</strong> Executable files are not document formats and are used for running software programs, not sharing textual content.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Advantages of Using PDF:</strong>\n\t<ul>\n\t\t<li>Ensures the integrity and professionalism of shared documents.</li>\n\t\t<li>Reduces compatibility issues, making it accessible to a wider audience.</li>\n\t\t<li>Provides security features to protect sensitive information.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Important Points:</strong>\n\t<ul>\n\t\t<li>PDFs are not designed for direct editing; specialized software is required for modifications.</li>\n\t\t<li>They are ideal for final versions of documents meant for distribution, presentation, or archiving.</li>\n\t\t<li>File size optimization tools can be used to reduce the size of large PDFs for easier sharing.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q3",
+      "number": 3,
+      "question": "Gagan Sen is planning to buy a new smartphone, which one of the following aspects should he not be bothered about?",
+      "questionHtml": "<!-- x-tinymce/html -->Gagan Sen is planning to buy a new smartphone, which one of the following aspects should he not be bothered about?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Operating system",
+          "html": "Operating system"
+        },
+        {
+          "id": "B",
+          "text": "Ethernet Port",
+          "html": "Ethernet Port"
+        },
+        {
+          "id": "C",
+          "text": "Internal Memory",
+          "html": "Internal Memory"
+        },
+        {
+          "id": "D",
+          "text": "Camera Pixels",
+          "html": "Camera Pixels"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is <u><strong><span style=\"color: rgb(33, 37, 41);\">Ethernet Port</span></strong></u></p>\n\n<p><u><strong><span style=\"color: rgb(33, 37, 41);\"><span style=\"display: flex; gap: 6px; align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle; font-size: 21px;\"><u>Key Points</u></span></strong> </span> </span> </strong></u></p>\n\n<ul>\n\t<li><strong>The Ethernet port is not a necessary feature in smartphones as they rely on wireless connectivity like Wi-Fi or mobile data.</strong></li>\n\t<li>Smartphones are designed to be portable and lightweight, making Ethernet ports obsolete for regular usage.</li>\n\t<li><strong>Other aspects like the operating system, internal memory, and camera pixels play a critical role in user experience.</strong></li>\n\t<li>The inclusion of an Ethernet port would be impractical and rarely found in modern smartphones.</li>\n</ul>\n\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle; font-size: 21px;\"><u>Additional Information</u></span></strong> </span></p>\n\n<ul>\n\t<li><strong>Operating System:</strong> Determines the interface, features, and compatibility of the smartphone.</li>\n\t<li><strong>Internal Memory:</strong> Affects the storage capacity for apps, photos, and other data.</li>\n\t<li><strong>Camera Pixels:</strong> Impacts the quality of photos and videos taken with the smartphone.</li>\n\t<li><strong>Ethernet Port:</strong> Used in some devices for wired internet connectivity but is not applicable for smartphones.</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q4",
+      "number": 4,
+      "question": "Where as a computer mouse moves over the table surface, the trackball is",
+      "questionHtml": "Where as a computer mouse moves over the table surface, the trackball is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stationary",
+          "html": "Stationary"
+        },
+        {
+          "id": "B",
+          "text": "Difficult to move",
+          "html": "Difficult to move"
+        },
+        {
+          "id": "C",
+          "text": "Dragged",
+          "html": "Dragged"
+        },
+        {
+          "id": "D",
+          "text": "Moved in small steps",
+          "html": "Moved in small steps"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>The correct answer is <u><strong>Stationary</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n\n<ul>\n\t<li>A <strong>trackball</strong> is a pointing device consisting of a ball held by a socket, allowing the user to control the cursor by rotating the ball with their fingers or hand.</li>\n\t<li>Unlike a computer mouse, the <strong>trackball remains stationary</strong> while the user moves the ball to control the pointer on the screen.</li>\n\t<li>This stationary design helps in reducing the required desk space and is more suitable for constrained working areas.</li>\n\t<li>Trackballs are especially helpful for people with repetitive strain injuries (RSI) as they minimize wrist and arm movement.</li>\n\t<li>They are commonly used in specialized applications like CAD (computer-aided design), gaming, and industrial control systems.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Trackball vs Mouse:</strong>\n\n\t<ul>\n\t\t<li>A mouse requires physical movement across a flat surface to track motion, whereas a trackball is operated by rolling the ball, keeping the device stationary.</li>\n\t\t<li>Trackballs are beneficial for users with limited desk space or mobility issues.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Types of Trackballs:</strong>\n\t<ul>\n\t\t<li><strong>Thumb-operated:</strong> The ball is controlled using the thumb, while other fingers manage buttons.</li>\n\t\t<li><strong>Finger-operated:</strong> The ball is controlled using fingers, providing greater precision for detailed tasks.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Advantages of Trackballs:</strong>\n\t<ul>\n\t\t<li>More ergonomic design reduces wrist strain.</li>\n\t\t<li>Does not require a flat surface, making it versatile in various working environments.</li>\n\t\t<li>Offers high precision and control, useful for design and gaming applications.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Limitations of Trackballs:</strong>\n\t<ul>\n\t\t<li>May require a learning curve for users accustomed to traditional mice.</li>\n\t\t<li>Less common in general consumer markets, often making them more expensive.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q5",
+      "number": 5,
+      "question": "_______ can help secure the user data and limit the amount of information that companies can mine from the user browsing habits.",
+      "questionHtml": "_______&nbsp;can help secure the user data and limit the amount of information that companies can mine from the user browsing habits.",
+      "options": [
+        {
+          "id": "A",
+          "text": "VPN",
+          "html": "VPN"
+        },
+        {
+          "id": "B",
+          "text": "Saved password",
+          "html": "Saved password"
+        },
+        {
+          "id": "C",
+          "text": "Cookies",
+          "html": "Cookies"
+        },
+        {
+          "id": "D",
+          "text": "Auto From fill",
+          "html": "Auto From fill"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<div>Correct answer is <strong>VPN.</strong></div>\n\n<div><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></strong></div>\n\n<ul>\n\t<li>The full form of <strong>VPN is Virtual Private Network.</strong> It corresponds to an <strong>encrypted &amp; secure network </strong>that enables you to securely use network resources.</li>\n\t<li>It is a secure network as it is completely isolated from rest of the <strong>internet</strong>.&nbsp;</li>\n\t<li>The government, businesses, military can use this network to use<strong> network</strong> resources securely.</li>\n\t<li><strong>VPN </strong>is free to use and it uses site-to-site and remote access methods to work. It uses an arrangement of <strong>encryption services to establish a secure connection.</strong></li>\n</ul>\n\n<div><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></div>\n\n<ul>\n\t<li>&nbsp;There are various types of computer networks categorized by their size.</li>\n</ul>\n\n<ol>\n\t<li>Personal Area Network(<strong>PAN)</strong></li>\n\t<li>Local Area Network (<strong>LAN)</strong></li>\n\t<li>Wide Area Network (<strong>WAN</strong>)</li>\n\t<li>Wireless Local Area Network (<strong>WLAN</strong>)</li>\n\t<li>Metropolitan Area Network (<strong>MAN</strong>)</li>\n\t<li>Home Area Network (<strong>HAN</strong>)</li>\n</ol>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q6",
+      "number": 6,
+      "question": "Consider the following statements about computer memory: ROM is used to store the BIOS in a computer. EEPROM is a type of memory that can be electrically erased and reprogrammed. Flash memory is a type of volatile memory. Virtual memory increases the effective size of RAM using the hard disk. Which of the above statements are correct?",
+      "questionHtml": "<p>Consider the following statements about computer memory:</p>\n\n<ol>\n\t<li>ROM is used to store the BIOS in a computer.</li>\n\t<li>EEPROM is a type of memory that can be electrically erased and reprogrammed.</li>\n\t<li>Flash memory is a type of volatile memory.</li>\n\t<li>Virtual memory increases the effective size of RAM using the hard disk.</li>\n</ol>\n\n<p>Which of the above statements are correct?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 and 2 only",
+          "html": "1 and 2 only&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "2 and 3 only",
+          "html": "2 and 3 only&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "1, 2, and 4 only",
+          "html": "1, 2, and 4 only&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "All 1, 2, 3, and 4",
+          "html": "All 1, 2, 3, and 4&nbsp;"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"margin-left:.25in;\">Statement 1: True &mdash; ROM stores BIOS.</p>\n\n<p style=\"margin-left:.25in;\">Statement 2: True &mdash; EEPROM can be electrically erased and reprogrammed.</p>\n\n<p style=\"margin-left:.25in;\">Statement 3: False &mdash; Flash memory is <strong>non-volatile</strong>, not volatile.</p>\n\n<p style=\"margin-left:.25in;\">Statement 4: True &mdash; Virtual memory uses the hard disk to extend RAM.</p>\n\n<p>&nbsp;</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q7",
+      "number": 7,
+      "question": "Which of the following is best-suited for remote administration of a computer?",
+      "questionHtml": "Which of the following is best-suited for remote administration of a computer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "WAIS",
+          "html": "WAIS"
+        },
+        {
+          "id": "B",
+          "text": "Browser",
+          "html": "Browser"
+        },
+        {
+          "id": "C",
+          "text": "HTML",
+          "html": "HTML"
+        },
+        {
+          "id": "D",
+          "text": "Telnet",
+          "html": "Telnet"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><u><strong>Explanation:</strong></u></p>\n\n<p><u><strong>Telnet</strong></u></p>\n\n<ul>\n\t<li>Telnet is a protocol used on the Internet or LAN to provide a bidirectional interactive text-oriented communication facility using a virtual terminal connection.</li>\n\t<li>Its security-related shortcomings are that it does not, by default, encrypt any data sent over the connection (including passwords).</li>\n\t<li>A user can login to a TELNET server and interact with programs on the remote TELNET server.</li>\n\t<li><span style=\"font-weight: 700;\">While using TELNET the majority of processes run on the remote host computer.</span></li>\n\t<li>Telnet permits users to connect to a remote computer as if the user&#39;s keyboard and display units are attached directly to the processor unit of the remote computer.</li>\n\t<li>&nbsp;An administrator can use TELNEK 6 have access and control a remote server.</li>\n</ul>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q8",
+      "number": 8,
+      "question": "With respect to the Windows file system, which of the following statements is incorrect?",
+      "questionHtml": "With respect to the Windows file system, which of the following statements is incorrect?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The folder may contain other folders and files.",
+          "html": "The folder may contain other folders and files."
+        },
+        {
+          "id": "B",
+          "text": "The file name can contain both capital and small letters.",
+          "html": "<p>The file name can contain both capital and small letters.</p>\n"
+        },
+        {
+          "id": "C",
+          "text": "File names cannot contain numeric characters.",
+          "html": "File names cannot contain numeric characters."
+        },
+        {
+          "id": "D",
+          "text": "Folders can contain both .doc and .pdf files.",
+          "html": "Folders can contain both .doc and .pdf files."
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "File names in the Windows file system can contain numeric characters, making the statement \"File names cannot contain numeric characters\" incorrect. Windows supports a wide range of characters in file names, including both letters and numbers.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q9",
+      "number": 9,
+      "question": "(BABA) 16 in hexadecimal is what in octal ?",
+      "questionHtml": "(BABA)<sub>16</sub> in hexadecimal is what in octal ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "134272",
+          "html": "134272"
+        },
+        {
+          "id": "B",
+          "text": "132272",
+          "html": "132272"
+        },
+        {
+          "id": "C",
+          "text": "135272",
+          "html": "135272"
+        },
+        {
+          "id": "D",
+          "text": "135242",
+          "html": "135242"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is <u><strong>135272</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span>To convert the hexadecimal number (BABA)₁₆ to its octal equivalent, follow these steps:</p>\n\n<p><strong>Step 1</strong>:<strong> Convert Hexadecimal to Binary</strong></p>\n\n<p>Each hexadecimal digit can be represented by 4 binary digits.</p>\n\n<p>B in hexadecimal is 1011 in binary.</p>\n\n<p>A in hexadecimal is 1010 in binary.</p>\n\n<p>So, (BABA)₁₆ in binary is:<br />\nB&nbsp; &nbsp;A&nbsp; &nbsp;B&nbsp; &nbsp;A<br />\n1011 1010 1011 1010<br />\nCombining these, we get:<br />\n1011101010111010<br />\n<strong>Step 2</strong>: <strong>Group Binary Digits into Sets of Three (for Octal Conversion)</strong><br />\nStarting from the right, group the binary digits into sets of three. If there are not enough digits to make a set of three at the left end, pad with leading zeros.<br />\n001 011 101 010 111 010<br />\n<strong>Step 3</strong>:<strong> Convert Each Binary Group to Octal</strong><br />\nConvert each 3-digit binary group to its octal equivalent:</p>\n\n<p>001₂ = 1₈</p>\n\n<p>011₂ = 3₈</p>\n\n<p>101₂ = 5₈</p>\n\n<p>010₂ = 2₈</p>\n\n<p>111₂ = 7₈</p>\n\n<p>010₂ = 2₈</p>\n\n<p>Combining these, we get:<br />\n1 3 5 2 7 2<br />\nSo, the octal equivalent is (135272)₈.</p>\n\n<p><strong>Step 4</strong>:<strong> Match with Given Options</strong><br />\nThe correct octal equivalent is 135272, which corresponds to option 3.</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q10",
+      "number": 10,
+      "question": "Which of the given options best describes the truth of the following statements? i) In Windows 10, 'Night Light' reduces blue light to help with sleep. ii) In Windows 10, the 'Photos' app can be used for basic image editing. iii) In Windows 10, the 'Windows Store' is used to install third-party software.",
+      "questionHtml": "<p>Which of the given options best describes the truth of the following statements?</p>\n\n<p>i) In Windows 10, &#39;Night Light&#39; reduces blue light to help with sleep.</p>\n\n<p>ii) In Windows 10, the &#39;Photos&#39; app can be used for basic image editing.</p>\n\n<p>iii) In Windows 10, the &#39;Windows Store&#39; is used to install third-party software.</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "i-correct, ii-correct, iii-incorrect",
+          "html": "i-correct, ii-correct, iii-incorrect"
+        },
+        {
+          "id": "B",
+          "text": "i-correct, ii-incorrect, iii-correct",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">i-correct, ii-incorrect, iii-correct</span>"
+        },
+        {
+          "id": "C",
+          "text": "i-correct, ii-correct, iii-correct",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">i-correct, ii-correct, iii-correct</span>"
+        },
+        {
+          "id": "D",
+          "text": "i-incorrect, ii-correct, iii-correct",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">i-incorrect, ii-correct, iii-correct</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is&nbsp;<u><strong><span style=\"color: rgb(33, 37, 41);\">i - correct, ii - correct, iii - correct</span></strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>i) In Windows 10, &#39;Night Light&#39; reduces blue light to help with sleep.</strong>\n\n\t<ul>\n\t\t<li>Explanation: The &#39;Night Light&#39; feature in Windows 10 is designed to reduce blue light emitted from the screen, which can help to reduce eye strain and potentially improve sleep quality by preventing disruption of the circadian rhythm.</li>\n\t\t<li>Verdict: Correct.</li>\n\t</ul>\n\t</li>\n\t<li><strong>ii) In Windows 10, the &#39;Photos&#39; app can be used for basic image editing.</strong>\n\t<ul>\n\t\t<li>Explanation: The &#39;Photos&#39; app in Windows 10 indeed offers basic image editing capabilities such as cropping, rotating, adjusting brightness, contrast, and applying filters.</li>\n\t\t<li>Verdict: Correct.</li>\n\t</ul>\n\t</li>\n\t<li><strong>iii) In Windows 10, the &#39;Windows Store&#39; is used to install third-party software.</strong>\n\t<ul>\n\t\t<li>Explanation: The &#39;Windows Store&#39; (now known as Microsoft Store) in Windows 10 allows users to download and install a variety of third-party applications, games, and other software.</li>\n\t\t<li>Verdict: Correct.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q11",
+      "number": 11,
+      "question": "Which of the following is a cloud storage service provided by Microsoft?",
+      "questionHtml": "Which of the following is a cloud storage service provided by Microsoft?",
+      "options": [
+        {
+          "id": "A",
+          "text": "iCloud",
+          "html": "iCloud"
+        },
+        {
+          "id": "B",
+          "text": "OneDrive",
+          "html": "OneDrive"
+        },
+        {
+          "id": "C",
+          "text": "IDrive",
+          "html": "IDrive"
+        },
+        {
+          "id": "D",
+          "text": "Dropbox",
+          "html": "Dropbox"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>The correct option is (2)</strong></p>\n\n<p>OneDrive</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>File &amp; Picture Sharing with Free Cloud Storage OneDrive by Microsoft.</li>\n\t<li>The Microsoft cloud service that gives you access to all of your files is called OneDrive. It enables you to store and protect your files, share them with others, and access them on all of your devices from anywhere.</li>\n\t<li>In OneDrive for Business, Microsoft does not support files larger than 15 GB. You might need to use a compression tool for larger files. absence of integrations with outside apps.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span><strong>&nbsp;iCloud:-</strong>&nbsp;A cloud storage service provided by Apple, not Microsoft.&nbsp;</p>\n\n<p><strong>IDrive:-</strong>&nbsp;With a single low charge, IDrive offers Online Cloud Backup for PCs, Macs, iPhones, Android, and other Mobile Devices in ONE account.</p>\n\n<p><strong>Dropbox:-</strong>&nbsp;Dropbox is a file hosting service offered by Dropbox Incorporated, an American business.</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q12",
+      "number": 12,
+      "question": "Which of the following is NOT a type of page margin?",
+      "questionHtml": "Which of the following is NOT a type of page margin?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Center",
+          "html": "Center"
+        },
+        {
+          "id": "B",
+          "text": "Top",
+          "html": "Top"
+        },
+        {
+          "id": "C",
+          "text": "Left",
+          "html": "Left"
+        },
+        {
+          "id": "D",
+          "text": "Right",
+          "html": "Right"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Center is NOT a type of page margin in MS Word. Each page in Word has a one-inch margin by default and it offers margins such as Bottom, Left, Right, and Top.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q13",
+      "number": 13,
+      "question": "Word by default, places a tab stop at every______ mark on the ruler.",
+      "questionHtml": "Word by default, places a tab stop at every______ mark on the ruler.",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.25\"",
+          "html": "0.25&quot;"
+        },
+        {
+          "id": "B",
+          "text": "0.5\"",
+          "html": "0.5&quot;"
+        },
+        {
+          "id": "C",
+          "text": "0.75\"",
+          "html": "0.75&quot;"
+        },
+        {
+          "id": "D",
+          "text": "1\"",
+          "html": "1&quot;"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is&nbsp;<u><strong>0.5&quot;</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Word automatically sets default tab stops at every 0.5 inch (half-inch) mark on the ruler</strong>. This means that when you press the<strong> Tab key within a document</strong>, the cursor will jump to the next 0.5-inch position on the horizontal ruler.\n\n\t<ul>\n\t\t<li><strong>Default tab stops:</strong> These are the pre-set 0.5-inch tab stops that Word automatically creates.</li>\n\t\t<li><strong>Custom tab stops:</strong> You can create your own tab stops at specific positions on the ruler to achieve more precise alignment. To do this, click on the ruler where you want to place a new tab stop, or use the Tabs dialog box (found under the Home tab or Paragraph dialog box).</li>\n\t</ul>\n\t</li>\n\t<li><strong>Types of tab stops: </strong>There are different types of tab stops available in Word, each serving a specific purpose:\n\t<ul>\n\t\t<li><strong>Left tab stops: </strong>Align text to the left of the tab stop.</li>\n\t\t<li><strong>Center tab stops: </strong>Center text around the tab stop.</li>\n\t\t<li><strong>Right tab stops:</strong> Align text to the right of the tab stop.</li>\n\t\t<li><strong>Decimal tab stops:</strong> Align numbers by their decimal points.</li>\n\t\t<li><strong>Bar tab stops:</strong> Insert a vertical bar at the tab stop position.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q14",
+      "number": 14,
+      "question": "Which of the following are Windows XP desktop elements? i- Taskbar ii- Desktop Icons iii- Background and other Display Settings iv- Grand Unified Bootloader (GRUB) icon",
+      "questionHtml": "<p>Which of the following are Windows XP desktop elements?</p>\n\n<p>i- Taskbar</p>\n\n<p>ii- Desktop Icons</p>\n\n<p>iii- Background and other Display Settings</p>\n\n<p>iv- Grand Unified Bootloader (GRUB) icon&nbsp;</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "i, ii and iv",
+          "html": "i, ii and iv"
+        },
+        {
+          "id": "B",
+          "text": "ii, iii and iv",
+          "html": "ii, iii and iv&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "Only i",
+          "html": "Only i&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "i, ii and iii",
+          "html": "i, ii and iii"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is <u><strong><span style=\"color: (33, 37, 41);\">Option 4</span></strong></u></p>\n\n<p><u><strong><span style=\"color: (33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></strong></u></p>\n\n<ul>\n\t<li><strong>Windows XP desktop elements include:</strong>\n\n\t<ul>\n\t\t<li><strong>Taskbar:</strong> It is located at the bottom of the desktop and displays open applications, the start menu, and system tray icons.</li>\n\t\t<li><strong>Desktop Icons:</strong> These are shortcuts to applications, files, and folders placed on the desktop for easy access.</li>\n\t\t<li><strong>Background and Display Settings:</strong> These define the appearance of the desktop, such as wallpapers, themes, and display resolution.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Grand Unified Bootloader (GRUB):</strong> This is not a part of the Windows XP desktop environment. GRUB is a bootloader primarily used in Linux-based operating systems, not Windows.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Windows XP was one of the most widely used operating systems developed by Microsoft, offering a user-friendly interface and stable performance.</li>\n\t<li>The desktop serves as the main workspace, allowing users to organize files, folders, and application shortcuts.</li>\n\t<li>The taskbar and desktop icons are integral parts of the user interface, facilitating easy navigation and management of applications.</li>\n\t<li>Background and display settings allow users to personalize their environment to match their preferences.</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q15",
+      "number": 15,
+      "question": "The core part of an operating system which is one of the first programs loaded on start-up and manages computer system resources is:",
+      "questionHtml": "The core part of an operating system which is one of the first programs loaded on start-up and manages computer system resources is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memory management module",
+          "html": "Memory management module"
+        },
+        {
+          "id": "B",
+          "text": "Shell",
+          "html": "Shell"
+        },
+        {
+          "id": "C",
+          "text": "File management tool",
+          "html": "File management tool"
+        },
+        {
+          "id": "D",
+          "text": "Kernel",
+          "html": "Kernel"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is&nbsp;<strong><u>Kernel</u></strong>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>The first program loaded</strong> <strong>on start-up </strong>and manages computer system resources is <strong>Kernel</strong>.</li>\n\t<li><strong>A kernel</strong> is the <strong>central part</strong> of an <strong>operating system</strong>.</li>\n\t<li><strong>It manages the operations of the computer</strong> and <strong>the hardware, most notably memory and CPU time.</strong></li>\n\t<li><strong>There are five types of kernels</strong>:\n\t<ul>\n\t\t<li>A microkernel, which only contains basic functionality</li>\n\t\t<li>A monolithic kernel, which contains many device drivers</li>\n\t\t<li>Hybrid Kernel</li>\n\t\t<li>Exokernel</li>\n\t\t<li>Microkernel</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Resources under the Operating System control</strong>:\n\n\t<ul>\n\t\t<li>The processor.</li>\n\t\t<li>Main memory.</li>\n\t\t<li>Input/Output Device.</li>\n\t\t<li>Secondary storage devices.</li>\n\t\t<li>Communication devices and ports.&nbsp;</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q16",
+      "number": 16,
+      "question": "Identify which of the following statements are true or false: i) High-level programming languages are more abstract and easier for humans to read and write. ii) Debugging is the process of writing code. iii) Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming.",
+      "questionHtml": "<p>Identify which of the following statements are true or false:</p>\n\n<p>i) High-level programming languages are more abstract and easier for humans to read and write.</p>\n\n<p>ii) Debugging is the process of writing code.</p>\n\n<p>iii) Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming.</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "i - True, ii - True, iii - False",
+          "html": "i - True, ii - True, iii - False"
+        },
+        {
+          "id": "B",
+          "text": "i - True, ii - False, iii - True",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">i - True, ii - False, iii - True</span>"
+        },
+        {
+          "id": "C",
+          "text": "i - False, ii - True, iii - True",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">i - False, ii - True, iii - True</span>"
+        },
+        {
+          "id": "D",
+          "text": "i - True, ii - False, iii - False",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">i - True, ii - False, iii - False</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "High-level programming languages are indeed more abstract and user-friendly. Debugging refers to identifying and fixing errors in code, not writing it. Python is versatile and supports various programming paradigms, including procedural, object-oriented, and functional programming. Hence, statements i and iii are true, while ii is false.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q17",
+      "number": 17,
+      "question": "Find out whether the given statements are true or false. (i) MS-Word table has not less than two rows. (ii) MS-Word table has not less than two columns.",
+      "questionHtml": "<p>Find out whether the given statements are true or false.</p>\n\n<p>(i) MS-Word table has not less than two rows.</p>\n\n<p>(ii) MS-Word table has not less than two columns.</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "(i) False, (ii) False",
+          "html": "<span style=\"color: rgb(37, 37, 37);  \">(i) False, (ii) False</span>"
+        },
+        {
+          "id": "B",
+          "text": "(i) True, (ii) True",
+          "html": "<span style=\"color: rgb(37, 37, 37);  \">(i) True, (ii) True</span>"
+        },
+        {
+          "id": "C",
+          "text": "(i) True, (ii) False",
+          "html": "<span style=\"color: rgb(37, 37, 37);  \">(i) True, (ii) False</span>"
+        },
+        {
+          "id": "D",
+          "text": "(i) False, (ii) True",
+          "html": "<span style=\"color: rgb(37, 37, 37);  \">(i) False, (ii) True</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>The correct answer is&nbsp;<u><strong><span style=\"color: rgb(37, 37, 37);\">(i) False, (ii) False</span></strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span><strong>MS-Word</strong>, a component of the <strong>Microsoft Office suite</strong>, is a versatile word processing program that allows the creation and formatting of text documents. Among its many features is the ability to insert tables into documents. Tables in MS-Word are used to organize and present data efficiently, and they are highly customizable.</p>\n\n<p>To address the statements provided:</p>\n\n<ul>\n\t<li><strong>(i) MS-Word table has not less than two rows. </strong>\n\n\t<ul>\n\t\t<li><strong>​</strong>This statement is considered false because MS-Word allows the creation of a table with even a single row.</li>\n\t\t<li>When creating a table, users have the flexibility to specify the number of rows and columns according to their needs, including the option to create a table with only one row.</li>\n\t</ul>\n\t</li>\n\t<li><strong>(ii) MS-Word table has not less than two columns. </strong>\n\t<ul>\n\t\t<li>This statement is also false for similar reasons. MS-Word permits the creation of tables with just one column if desired.</li>\n\t\t<li>The table creation feature is designed to be flexible, accommodating a wide range of table structures from a single cell (1 row x 1 column) to complex grids with multiple rows and columns.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>Therefore, both statements are false because MS-Word&#39;s table feature does not impose a minimum of two rows or two columns, allowing users to create tables with as few as one row or one column. This flexibility makes it easier for users to design documents that meet their specific formatting and data presentation needs.</p>\n\n<p>The correct answer is 1) (i) False, (ii) False, based on the explanations provided above.</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q18",
+      "number": 18,
+      "question": "When entering data into Excel, why is it better to keep one logical item in each cell rather than mixing multiple items in a single cell?",
+      "questionHtml": "When entering data into Excel, why is it better to keep one logical item in each cell rather than mixing multiple items in a single cell?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It reduces the number of rows available",
+          "html": "It reduces the number of rows available"
+        },
+        {
+          "id": "B",
+          "text": "It makes sorting, filtering and analysis easier",
+          "html": "It makes sorting, filtering and analysis easier"
+        },
+        {
+          "id": "C",
+          "text": "It prevents the workbook from opening",
+          "html": "It prevents the workbook from opening"
+        },
+        {
+          "id": "D",
+          "text": "It stops printing of the sheet",
+          "html": "It stops printing of the sheet"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>The correct answer is - <u>It makes sorting, filtering and analysis easier</u></strong></p>\n\n<p><strong><span style=\"display: flex; gap: 6px; align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <span style=\"vertical-align: middle; font-size: 21px;\"><u>Key Points</u></span> </span> </strong></p>\n\n<ul>\n\t<li><strong><u>Data Atomicity</u></strong>\n\n\t<ul>\n\t\t<li>Keeping one logical item per cell (atomic data) ensures that each data point is unique and easily accessible by <strong><u>Excel functions</u></strong>.</li>\n\t\t<li>It allows the <strong><u>Sort</u></strong> feature to arrange data accurately in alphabetical, numerical, or chronological order based on a specific attribute.</li>\n\t\t<li>The <strong><u>Filter</u></strong> tool works most effectively when cells contain distinct values, allowing users to isolate specific records without manual searching.</li>\n\t\t<li>Placing multiple items in a single cell complicates the use of <strong><u>Data Validation</u></strong> and increases the risk of data entry errors.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><strong><span style=\"display: flex; gap: 6px; align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <span style=\"vertical-align: middle; font-size: 21px;\"><u>Additional Information</u></span> </span> </strong></p>\n\n<ul>\n\t<li><strong><u>Data Analysis and Reporting</u></strong>\n\n\t<ul>\n\t\t<li><strong><u>Pivot Tables</u></strong> require clean datasets where each column represents a single category or variable for effective summarization.</li>\n\t\t<li>Mathematical functions like <strong><u>SUMIF</u></strong>, <strong><u>COUNTIF</u></strong>, and <strong><u>AVERAGE</u></strong> cannot process individual components within a mixed-data cell.</li>\n\t\t<li>Separating items prevents the constant need for the <strong><u>Text to Columns</u></strong> tool or complex <strong><u>Flash Fill</u></strong> operations during data cleaning.</li>\n\t</ul>\n\t</li>\n\t<li><strong><u>Lookup Functions</u></strong>\n\t<ul>\n\t\t<li>Functions like <strong><u>VLOOKUP</u></strong>, <strong><u>HLOOKUP</u></strong>, and <strong><u>XLOOKUP</u></strong> rely on exact matches within a cell to retrieve corresponding data.</li>\n\t\t<li>Data organized with one item per cell ensures that <strong><u>relational data management</u></strong> remains consistent across different worksheets.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q19",
+      "number": 19,
+      "question": "In Windows 10/11, which shortcut key combination allows a user to cycle through apps on the Taskbar in the order they are pinned?",
+      "questionHtml": "<p>In Windows 10/11, which shortcut key combination allows a user to cycle through apps on the Taskbar in the order they are pinned?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "Windows Key + Tab",
+          "html": "<p>Windows Key + Tab</p>\n"
+        },
+        {
+          "id": "B",
+          "text": "Alt + Tab",
+          "html": "<p>Alt + Tab</p>\n"
+        },
+        {
+          "id": "C",
+          "text": "Windows Key + T",
+          "html": "<p>Windows Key + T</p>\n"
+        },
+        {
+          "id": "D",
+          "text": "Ctrl + Alt + Tab",
+          "html": "<p>Ctrl + Alt + Tab</p>\n"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is <u><strong>Windows Key + T</strong></u>.</p>  \n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>  \n\n<ul>  \n  <li>The <strong>Windows Key + T</strong> shortcut is used in <strong>Windows 10/11</strong> to cycle through applications pinned on the Taskbar sequentially. This functionality enhances productivity by allowing users to easily navigate apps without using a mouse.</li>  \n  <li>When you press <strong>Windows Key + T</strong>, the focus shifts to the first pinned app on the Taskbar. Subsequent presses move the focus to the next app in the sequence.</li>  \n  <li>Once the desired app is highlighted, you can press <strong>Enter</strong> to open it or activate it if it is already running.</li>  \n  <li>This shortcut is particularly useful for users who prefer keyboard navigation and want to avoid using a mouse to switch between pinned applications.</li>  \n  <li>The functionality is different from <strong>Alt + Tab</strong>, which cycles through all open windows, not just the pinned Taskbar items.</li>  \n</ul>  \n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>  \n\n<ul>  \n  <li><strong>Windows Key + Tab:</strong>  \n    <ul>  \n      <li>This shortcut opens the <strong>Task View</strong>, which displays all open windows and virtual desktops.</li>  \n      <li>It allows users to manage virtual desktops or switch between open applications visually.</li>  \n      <li>The <strong>Task View</strong> was introduced in Windows 10 to enhance multitasking capabilities.</li>  \n    </ul>  \n  </li>  \n\n  <li><strong>Alt + Tab:</strong>  \n    <ul>  \n      <li>The <strong>Alt + Tab</strong> shortcut cycles through all open windows, including apps that are not pinned to the Taskbar.</li>  \n      <li>It provides a quick way to switch between active tasks without using the mouse.</li>  \n      <li>Pressing <strong>Alt</strong> while tapping <strong>Tab</strong> displays a visual preview of all open windows.</li>  \n    </ul>  \n  </li>  \n\n  <li><strong>Ctrl + Alt + Tab:</strong>  \n    <ul>  \n      <li>This shortcut is similar to <strong>Alt + Tab</strong>, but the window selection remains active even after releasing the keys, allowing users to use arrow keys or the mouse to choose a window.</li>  \n      <li>It is designed for users who prefer a slower-paced method for switching between applications.</li>  \n    </ul>  \n  </li>  \n\n  <li><strong>Taskbar Navigation:</strong>  \n    <ul>  \n      <li>Using keyboard shortcuts for Taskbar navigation, such as <strong>Windows Key + T</strong>, improves efficiency for power users.</li>  \n      <li>Other related shortcuts include <strong>Windows Key + Number</strong>, where the number corresponds to the position of the pinned app on the Taskbar (e.g., <strong>Windows Key + 1</strong> opens the first pinned app).</li>  \n    </ul>  \n  </li>  \n</ul>  \n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>  \n\n<ul>  \n  <li><strong>Windows Key + T</strong> is specifically designed for navigating pinned Taskbar items sequentially, making it distinct from other window-switching shortcuts.</li>  \n  <li>Shortcuts like <strong>Alt + Tab</strong> and <strong>Ctrl + Alt + Tab</strong> are focused on all open windows rather than pinned Taskbar applications.</li>  \n  <li>Understanding these keyboard shortcuts can significantly improve multitasking efficiency, especially for users who handle multiple applications simultaneously.</li>  \n  <li>Keyboard navigation is particularly beneficial for individuals with accessibility needs or those working on devices without a mouse or touchpad.</li>  \n</ul>  ",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fede2044f91e-q20",
+      "number": 20,
+      "question": "Which one of the following is NOT a wired broadband?",
+      "questionHtml": "Which one of the following is NOT a wired broadband?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Satellite",
+          "html": "Satellite"
+        },
+        {
+          "id": "B",
+          "text": "Dial-up",
+          "html": "Dial-up"
+        },
+        {
+          "id": "C",
+          "text": "Cable",
+          "html": "Cable"
+        },
+        {
+          "id": "D",
+          "text": "Digital Subscriber Line",
+          "html": "Digital Subscriber Line"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"\">The correct answer is <u><strong>Satellite.</strong></u></p>\n\n<p style=\"\"><u><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></strong></u></p>\n\n<ul>\n\t<li style=\"\">An artificial satellite is an object that people have made and launched into orbit using rockets.</li>\n\t<li>Aryabhata was the first unmanned&nbsp;artificial Earth satellite&nbsp;<span style=\"text-align: justify;\">indigenously&nbsp;</span>built by India.</li>\n\t<li><strong>Hence Satellite is NOT wired broadband.</strong></li>\n</ul>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></strong></p>\n\n<ul>\n\t<li style=\"\"><b><u>A dial-up</u></b> connection uses a&nbsp;<span style=\"font-weight: 700;\">standard phone line and analog&nbsp;modem</span>&nbsp;to access the Internet.\n\n\t<ul>\n\t\t<li>A dial-up connection is established when&nbsp;<span style=\"font-weight: 700;\">two or more communication devices</span>&nbsp;use a public switched telephone network (PSTN) to connect to an Internet service provider (ISP).</li>\n\t</ul>\n\t</li>\n\t<li style=\"\"><b><u>A cable</u></b> is a hardware device that<span style=\"font-weight: 700;\">&nbsp;allows your computer to communicate with an Internet service provider</span>&nbsp;over a landline connection.\n\t<ul>\n\t\t<li>A cable modem is a device that&nbsp;<span style=\"font-weight: 700;\">modulates and demodulates an analog&nbsp;carrier signal to encode and decode digital information</span>&nbsp;that is transmitted.</li>\n\t</ul>\n\t</li>\n\t<li style=\"\"><u><span style=\"font-weight: 700;\">A digital subscriber line (DSL)</span></u>&nbsp;is a technology that transports&nbsp;<span style=\"font-weight: 700;\">high-bandwidth data over a simple telephone line</span>&nbsp;that is directly connected to a modem.\n\t<ul>\n\t\t<li>This allows for&nbsp;<span style=\"font-weight: 700;\">file-sharing</span>, and the transmission of pictures and graphics, multimedia data, audio and video conferencing, and much more.</li>\n\t\t<li>DSL uses the&nbsp;<span style=\"font-weight: 700;\">analog medium</span>, which is reliable and prevents interruptions and heavy packet loss.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "6aba2dadee8d",
+  "provider": "RBE_Mocks",
+  "sourceFile": "Comparison.html",
+  "sourcePath": "RBE_MOCKS/Comparison.html",
+  "title": "Comparison",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 3,
+  "questions": [
+    {
+      "id": "6aba2dadee8d-q1",
+      "number": 1,
+      "question": "Compare the following two addresses. Address 1: Ms. Neha Verma, Flat No. 204, Tower B, Green Acres, Pune – 411045 Address 2: Mrs. Neha Verma, Flat No. 204, Tower B, Green Acres Society, Pune – 411045 Are these likely to be the same?",
+      "questionHtml": "<p>Compare the following two addresses. <br/>Address 1: Ms. Neha Verma, Flat No. 204, Tower B, Green Acres, Pune – 411045 <br/>Address 2: Mrs. Neha Verma, Flat No. 204, Tower B, Green Acres Society, Pune – 411045 <br/>Are these likely to be the same? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "No, the flat numbers are different",
+          "html": "<p>No, the flat numbers are different </p>"
+        },
+        {
+          "id": "B",
+          "text": "Yes, all major details match",
+          "html": "<p>Yes, all major details match </p>"
+        },
+        {
+          "id": "C",
+          "text": "No, the name titles are different",
+          "html": "<p>No, the name titles are different </p>"
+        },
+        {
+          "id": "D",
+          "text": "No, city codes do not match",
+          "html": "<p>No, city codes do not match </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let’s compare the two addresses: </p><p>Flat No. 204, Tower B → ✅ Same in both </p><p>Green Acres vs. Green Acres Society → ✅ Likely the same residential complex; “ Society ” is often added informally </p><p>Pune – 411045 → ✅ Same city and PIN code </p><p>Ms. vs. Mrs. Neha Verma → ⚠️ Title differs, but name and flat details match </p><p>Despite the difference in title (Ms. vs. Mrs.), all major address details match. </p><p>✅ Correct answer: Yes, all major details match </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6aba2dadee8d-q2",
+      "number": 2,
+      "question": "Choose the CORRECT option. Address 1: Mr. Rohit Sharma, 123/A, Rose Villa, Green Park, Delhi – 110016 Address 2: Mr. R. Sharma, 123-A, Rose Villa, Green Park, New Delhi – 110016 Are the two addresses likely to refer to the same person?",
+      "questionHtml": "<p>Choose the CORRECT option. </p><p>Address 1: Mr. Rohit Sharma, 123/A, Rose Villa, Green Park, Delhi – 110016 </p><p>Address 2: Mr. R. Sharma, 123-A, Rose Villa, Green Park, New Delhi – 110016 </p><p>Are the two addresses likely to refer to the same person? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "No, the names are different",
+          "html": "<p>No, the names are different </p>"
+        },
+        {
+          "id": "B",
+          "text": "Yes, both addresses are the same",
+          "html": "<p>Yes, both addresses are the same </p>"
+        },
+        {
+          "id": "C",
+          "text": "No, the cities are different",
+          "html": "<p>No, the cities are different </p>"
+        },
+        {
+          "id": "D",
+          "text": "No, the house numbers don’t match",
+          "html": "<p>No, the house numbers don’t match </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The two addresses contain the same house number (123/A = 123-A) , the same colony (Rose Villa, Green Park) , and the same pin code (110016) . <br/>• The difference between “Delhi” and “New Delhi” is not significant in postal terms — both refer to the same metropolitan region. <br/>• The difference in the names (\"Rohit Sharma\" vs \"R. Sharma\") is also acceptable as initials are often used in addresses. <br/>• Therefore, both addresses are effectively the same and are highly likely to refer to the same person . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6aba2dadee8d-q3",
+      "number": 3,
+      "question": "Address A: Riya Kapoor, 7/2, Lake View Road, Kolkata – 700029 Address B: R. Kapoor, 7/2A, Lake View Rd, Kolkata – 700029 What is the most significant difference between the two addresses?",
+      "questionHtml": "<p>Address A: Riya Kapoor, 7/2, Lake View Road, Kolkata – 700029 Address B: R. Kapoor, 7/2A, Lake View Rd, Kolkata – 700029 </p><p>What is the most significant difference between the two addresses? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Different city",
+          "html": "<p>Different city </p>"
+        },
+        {
+          "id": "B",
+          "text": "Different road",
+          "html": "<p>Different road </p>"
+        },
+        {
+          "id": "C",
+          "text": "Different house number",
+          "html": "<p>Different house number </p>"
+        },
+        {
+          "id": "D",
+          "text": "Different surname",
+          "html": "<p>Different surname </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Step by Step: <br/>• Both addresses are in the same city – Kolkata. <br/>• Both addresses mention the same road – Lake View Road. <br/>• Both addresses have the same surname – Kapoor. <br/>• The only difference is in the house number : 7/2 vs 7/2A. <br/> </p><p>Correct Answer = Different house number </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

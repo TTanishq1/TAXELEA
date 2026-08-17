@@ -1,0 +1,937 @@
+{
+  "id": "6a6bb617085c",
+  "provider": "Testbook",
+  "sourceFile": "Quantitative Aptitude Sectional Test - 1.html",
+  "sourcePath": "Testbook/files/Quantitative Aptitude Sectional Test - 1.html",
+  "title": "Quantitative Aptitude Sectional Test - 1",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 2,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "6a6bb617085c-q1",
+      "number": 1,
+      "question": "Rajeev&rsquo;s age after 15 years will be 5 times his age 5 years back. What is the present age of Rajeev?",
+      "questionHtml": "<span style=\"\">Rajeev&rsquo;s age after 15 years&nbsp;</span><span style=\"\">will be 5 times his age 5 years&nbsp;</span><span style=\"\">back. What is the present age&nbsp;</span><span style=\"\">of Rajeev?</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "B",
+          "text": "10",
+          "html": "10"
+        },
+        {
+          "id": "C",
+          "text": "7",
+          "html": "7"
+        },
+        {
+          "id": "D",
+          "text": "5",
+          "html": "5"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<svg width=\"500\" height=\"260\" viewBox=\"0 0 500 260\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:1px;padding:0;background:#ffffff;border-radius:8px;border:1px solid #cccccc;box-sizing:border-box;\">\n  <defs>\n    <marker id=\"arr\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\">\n      <path d=\"M0,0 L10,5 L0,10 z\" fill=\"#555555\"/>\n    </marker>\n    <marker id=\"arrO\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\">\n      <path d=\"M0,0 L10,5 L0,10 z\" fill=\"#cc5500\"/>\n    </marker>\n  </defs>\n\n  <!-- ZONE 1: Ages Timeline Mechanism -->\n  <line x1=\"40\" y1=\"100\" x2=\"440\" y2=\"100\" stroke=\"#555555\" stroke-width=\"2\" marker-end=\"url(#arr)\"/>\n  \n  <!-- Points: 5 yrs ago, Now, 15 yrs later -->\n  <!-- 5 yrs gap = 60px, 15 yrs gap = 180px -->\n  <circle cx=\"80\" cy=\"100\" r=\"5\" fill=\"#cc0000\"/>\n  <circle cx=\"140\" cy=\"100\" r=\"5\" fill=\"#2255cc\"/>\n  <circle cx=\"320\" cy=\"100\" r=\"5\" fill=\"#cc5500\"/>\n\n  <!-- Silhouettes -->\n  <path d=\"M75,90 Q80,80 85,90 L85,95 L75,95 Z\" fill=\"#ffd6d6\" stroke=\"#cc0000\"/>\n  <path d=\"M135,90 Q140,80 145,90 L145,95 L135,95 Z\" fill=\"#ddeeff\" stroke=\"#2255cc\"/>\n  <path d=\"M315,90 Q320,80 325,90 L325,95 L315,95 Z\" fill=\"#fff0cc\" stroke=\"#cc5500\"/>\n\n  <!-- Labels -->\n  <text x=\"55\" y=\"70\" font-family=\"Arial\" font-size=\"14\" fill=\"#cc0000\">5 Yrs Ago</text>\n  <text x=\"125\" y=\"70\" font-family=\"Arial\" font-size=\"14\" fill=\"#2255cc\">Now</text>\n  <text x=\"290\" y=\"70\" font-family=\"Arial\" font-size=\"14\" fill=\"#cc5500\">15 Yrs Later</text>\n\n  <!-- Brackets & Values -->\n  <path d=\"M80,115 L80,125 L140,125 L140,115\" fill=\"none\" stroke=\"#555555\" stroke-dasharray=\"3,2\"/>\n  <text x=\"95\" y=\"140\" font-family=\"Arial\" font-size=\"12\" fill=\"#555555\">−5 yrs</text>\n\n  <path d=\"M140,115 L140,125 L320,125 L320,115\" fill=\"none\" stroke=\"#555555\" stroke-dasharray=\"3,2\"/>\n  <text x=\"210\" y=\"140\" font-family=\"Arial\" font-size=\"12\" fill=\"#555555\">+15 yrs</text>\n\n  <!-- Relationship Arc -->\n  <path d=\"M80,50 Q200,10 320,50\" fill=\"none\" stroke=\"#cc5500\" stroke-width=\"1.5\" marker-end=\"url(#arrO)\"/>\n  <text x=\"175\" y=\"35\" font-family=\"Arial\" font-size=\"14\" font-weight=\"bold\" fill=\"#cc5500\">Age × 5</text>\n\n  <!-- Equations in Diagram -->\n  <text x=\"75\" y=\"115\" font-family=\"Arial\" font-size=\"14\" fill=\"#cc0000\">x − 5</text>\n  <text x=\"135\" y=\"115\" font-family=\"Arial\" font-size=\"14\" fill=\"#2255cc\">x</text>\n  <text x=\"310\" y=\"115\" font-family=\"Arial\" font-size=\"14\" fill=\"#cc5500\">x + 15</text>\n\n  <!-- ZONE 2: Solution -->\n  <text x=\"30\" y=\"180\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ (x + 15) = 5 × (x − 5)</text>\n  <text x=\"30\" y=\"205\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ 40 = 4x</text>\n  \n  <text x=\"30\" y=\"240\" font-family=\"Arial\" font-size=\"14\" font-weight=\"700\" fill=\"#000000\">∴ Answer = 10 years</text>\n</svg>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q2",
+      "number": 2,
+      "question": "Find a number such that when 15 is subtracted from 7 times the number, the result is 10 more than twice the number",
+      "questionHtml": "<span style=\"\">Find a number such that&nbsp;</span><span style=\"\">when 15 is subtracted from 7&nbsp;</span><span style=\"\">times the number, the result&nbsp;</span><span style=\"\">is 10 more than twice the&nbsp;</span><span style=\"\">number</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "D",
+          "text": "8",
+          "html": "8"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span></p>\n\n<p>For word problems involving equations, verifying the given options is the fastest approach.</p>\n\n<p>Let us check Option 1: The number is 5.</p>\n\n<p>Left Side (15 subtracted from 7 times) &rarr; 7 &times; 5 &minus; 15 = 35 &minus; 15 = 20.</p>\n\n<p>Right Side (10 more than twice) &rarr; 2 &times; 5 + 10 = 10 + 10 = 20.</p>\n\n<p>Since both sides match perfectly (20 = 20), this is the required number.</p>\n\n<p><strong>&there4; The correct answer is 5.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<p><strong>Given:</strong></p>\n\n<p>When 15 is subtracted from 7 times a number, the result is equal to 10 more than twice the same number.</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>Forming a basic linear equation in one variable: ax + b = cx + d</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Let the required number be x.</p>\n\n<p>&rArr; 15 subtracted from 7 times the number = 7x &minus; 15</p>\n\n<p>&rArr; 10 more than twice the number = 2x + 10</p>\n\n<p>According to the given question, we equate both expressions:</p>\n\n<p>&rArr; 7x &minus; 15 = 2x + 10</p>\n\n<p>&rArr; 7x &minus; 2x = 10 + 15</p>\n\n<p>&rArr; 5x = 25</p>\n\n<p>&rArr; x = 25 &divide; 5</p>\n\n<p>&rArr; x = 5</p>\n\n<p><strong>&there4; The correct answer is 5.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Linear Equation in One Variable</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">An equation of the form ax + b = 0, where a and b are constant values and x is a variable, is called a linear equation. It always yields a single unique solution.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Translating Word Problems to Algebra</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">Key phrases like &#39;times&#39; refer to multiplication, &#39;more than&#39; refers to addition, and &#39;subtracted from&#39; means taking away from a base value (e.g., &#39;15 subtracted from y&#39; translates directly to y &minus; 15).</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Checking the Solution</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">Always verify the final algebraic answer by substituting the value back into both sides of the original word problem to ensure the Left Hand Side (LHS) strictly equals the Right Hand Side (RHS).</p>\n\n<p>&nbsp;</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q3",
+      "number": 3,
+      "question": "88% of 370 + 24% of 210 - ? = 118",
+      "questionHtml": "<span style=\"\">88% of 370 + 24% of 210 - ? = 118</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "256",
+          "html": "256"
+        },
+        {
+          "id": "B",
+          "text": "258",
+          "html": "258"
+        },
+        {
+          "id": "C",
+          "text": "268",
+          "html": "268"
+        },
+        {
+          "id": "D",
+          "text": "358",
+          "html": "358"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n<p>88% of 370 + 24% of 210 - ? = 118</p>\n<p><strong>Formula used:</strong></p>\n<p>x% of y = <span class=\"math-tex\">\\(\\frac{x \\times y}{100}\\)</span></p>\n<p><strong>Calculations:</strong></p>\n<p>88% of 370 + 24% of 210 - x = 118</p>\n<p>⇒ <span class=\"math-tex\">\\(\\frac{88 \\times 370}{100} + \\frac{24 \\times 210}{100} - x = 118\\)</span></p>\n<p>⇒ 325.6 + 50.4 - x = 118</p>\n<p>⇒ 376 - x = 118</p>\n<p>⇒ x = 376 - 118</p>\n<p>⇒ x = 258</p>\n<p><strong>∴ The correct answer is option (2).</strong></p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q4",
+      "number": 4,
+      "question": "In an office, 76% of the number of females is equal to the one-third of the number of males. What is the ratio of number of males to that of the females in the office?",
+      "questionHtml": "In an office, 76% of the number of females is equal to the one-third of the number of males. What is the ratio of number of males to that of the females in the office?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "57 : 25",
+          "html": "57 : 25"
+        },
+        {
+          "id": "B",
+          "text": "25 : 57",
+          "html": "25 : 57"
+        },
+        {
+          "id": "C",
+          "text": "43 : 19",
+          "html": "43 : 19"
+        },
+        {
+          "id": "D",
+          "text": "19 : 43",
+          "html": "19 : 43"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Given, 1/3 of Males = 76% of Females</p>\n<p>⇒ M / 3 = (76 / 100) × F</p>\n<p>⇒ M / 3 = (19 / 25) × F</p>\n<p>⇒ M / F = (19 × 3) / 25 = 57 / 25</p>\n<p><strong>∴ The correct answer is 57 : 25.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>76% of the number of females is equal to 1/3 of the number of males.</p>\n<p><strong>Formula Used:</strong></p>\n<p>Percentage value = (Rate ÷ 100) × Base value</p>\n\n<img src=\"https://cdn.testbook.com/temp_3a2090598514450096e868d2af22a2c2.png/1777717067.png\" style=\"max-width: 450px;\" />\n\n<p><strong>Calculations:</strong></p>\n<p>Let the total number of males be M and the total number of females be F.</p>\n<p>⇒ 76% of F = (1 / 3) × M</p>\n<p>⇒ (76 ÷ 100) × F = M ÷ 3</p>\n<p>⇒ (19 ÷ 25) × F = M ÷ 3</p>\n<p>Rearranging the terms to find the ratio of M to F:</p>\n<p>⇒ M ÷ F = (19 ÷ 25) × 3</p>\n<p>⇒ M ÷ F = 57 ÷ 25</p>\n<p>⇒ M : F = 57 : 25</p>\n<p><strong>∴ The correct answer is 57 : 25.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Ratio & Proportion Basics</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">A ratio compares two quantities of the same kind. The ratio of a to b is written as a : b or a ÷ b. The first term is called the antecedent, and the second term is the consequent.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Percentage to Fraction Conversion</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">To convert a percentage into a fraction, simply divide the percentage value by 100 and simplify. For example, 76% = 76 ÷ 100 = 19 ÷ 25.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Equivalent Ratios</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Multiplying or dividing both terms of a ratio by the same non-zero number does not change the ratio. This property is highly useful to simplify complex fractional equations into simplest form.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_3a2090598514450096e868d2af22a2c2.png/1777717067.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q5",
+      "number": 5,
+      "question": "Ramesh sold his bike for ₹16,384 and incurred a loss of 20%. At what price should he have sold the bike to gain a profit of 30%?",
+      "questionHtml": "Ramesh sold his bike for ₹16,384 and incurred a loss of 20%. At what price should he have sold the bike to gain a profit of 30%?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹27,824",
+          "html": "₹27,824"
+        },
+        {
+          "id": "B",
+          "text": "₹26,724",
+          "html": "₹26,724&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "₹26,624",
+          "html": "₹26,624"
+        },
+        {
+          "id": "D",
+          "text": "₹26,800",
+          "html": "₹26,800"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Selling Price at 20% loss = 80% of CP = ₹16,384</p>\n<p>Required Selling Price at 30% profit = 130% of CP</p>\n<p>New SP = (16384 ÷ 80) × 130</p>\n<p>New SP = 204.8 × 130 = ₹26,624</p>\n<p><strong>∴ The correct answer is ₹26,624.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Initial Selling Price (SP<sub>1</sub>) = ₹16,384</p>\n<p>Loss Percentage = 20%</p>\n<p>Required Profit Percentage = 30%</p>\n<p><strong>Formula Used:</strong></p>\n<p>Cost Price (CP) = SP<sub>1</sub> × [100 ÷ (100 − Loss%)]</p>\n<p>New Selling Price (SP<sub>2</sub>) = CP × [(100 + Profit%) ÷ 100]</p>\n\n<img src=\"https://cdn.testbook.com/temp_b9b50005e930497eaed10754ad918305.png/1777711412.png\" style=\"max-width: 450px;\" />\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ CP = 16384 × [100 ÷ (100 − 20)]</p>\n<p>⇒ CP = 16384 × (100 ÷ 80)</p>\n<p>⇒ CP = 204.8 × 100 = ₹20,480</p>\n<p>⇒ SP<sub>2</sub> = 20480 × [(100 + 30) ÷ 100]</p>\n<p>⇒ SP<sub>2</sub> = 20480 × (130 ÷ 100)</p>\n<p>⇒ SP<sub>2</sub> = 2048 × 13 = ₹26,624</p>\n<p><strong>∴ The correct answer is ₹26,624.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Cost Price (CP)</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">It is the exact price at which goods are originally bought. Profit and loss values are always calculated on the base cost price unless clearly specified otherwise.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Successive Percentage Change</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When a value is updated successively by a% and b%, the total net percentage change is given by the formula: (a + b + ab ÷ 100)%.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Marked Price (MP) & Discount</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Discount is fundamentally given on the marked price or printed price of the item. Consequently, Selling Price = MP − Discount.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_b9b50005e930497eaed10754ad918305.png/1777711412.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q6",
+      "number": 6,
+      "question": "Find the value of 2 cosec 2 23&deg; cot 2 67&deg; - sin 2 23&deg; - sin 2 67&deg; - cot 2 67&deg;",
+      "questionHtml": "Find the value of 2 cosec<sup>2</sup>&nbsp;23&deg; cot<sup>2</sup>&nbsp;67&deg; - sin<sup>2</sup>&nbsp;23&deg; - sin<sup>2</sup>&nbsp;67&deg; - cot<sup>2</sup>&nbsp;67&deg;",
+      "options": [
+        {
+          "id": "A",
+          "text": "sec 2 23&deg;",
+          "html": "sec<sup>2</sup>&nbsp;23&deg;"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "text": "tan 2 23&deg;",
+          "html": "tan<sup>2</sup>&nbsp;23&deg;"
+        },
+        {
+          "id": "D",
+          "text": "0",
+          "html": "0"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span></p>\n\n<p>Convert 67&deg; angles to 23&deg; using cot 67&deg; = tan 23&deg; and sin 67&deg; = cos 23&deg;.</p>\n\n<p>&rArr; 2 cosec<sup>2</sup> 23&deg; tan<sup>2</sup> 23&deg; &minus; (sin<sup>2</sup> 23&deg; + cos<sup>2</sup> 23&deg;) &minus; tan<sup>2</sup> 23&deg;</p>\n\n<p>&rArr; 2(1 / sin<sup>2</sup> 23&deg;) &times; (sin<sup>2</sup> 23&deg; / cos<sup>2</sup> 23&deg;) &minus; 1 &minus; tan<sup>2</sup> 23&deg;</p>\n\n<p>&rArr; 2 sec<sup>2</sup> 23&deg; &minus; 1 &minus; tan<sup>2</sup> 23&deg; = sec<sup>2</sup> 23&deg; + (sec<sup>2</sup> 23&deg; &minus; tan<sup>2</sup> 23&deg;) &minus; 1</p>\n\n<p>&rArr; sec<sup>2</sup> 23&deg; + 1 &minus; 1 = sec<sup>2</sup> 23&deg;</p>\n\n<p><strong>&there4; The correct answer is sec<sup>2</sup> 23&deg;.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<p><strong>Given:</strong></p>\n\n<p>2 cosec<sup>2</sup> 23&deg; cot<sup>2</sup> 67&deg; &minus; sin<sup>2</sup> 23&deg; &minus; sin<sup>2</sup> 67&deg; &minus; cot<sup>2</sup> 67&deg;</p>\n\n<p><strong>Formulas Used:</strong></p>\n\n<p>sin(90&deg; &minus; &theta;) = cos &theta;</p>\n\n<p>cot(90&deg; &minus; &theta;) = tan &theta;</p>\n\n<p>sin<sup>2</sup> &theta; + cos<sup>2</sup> &theta; = 1</p>\n\n<p>sec<sup>2</sup> &theta; &minus; tan<sup>2</sup> &theta; = 1</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>&rArr; 2 cosec<sup>2</sup> 23&deg; cot<sup>2</sup>(90&deg; &minus; 23&deg;) &minus; sin<sup>2</sup> 23&deg; &minus; sin<sup>2</sup>(90&deg; &minus; 23&deg;) &minus; cot<sup>2</sup>(90&deg; &minus; 23&deg;)</p>\n\n<p>&rArr; 2 cosec<sup>2</sup> 23&deg; tan<sup>2</sup> 23&deg; &minus; sin<sup>2</sup> 23&deg; &minus; cos<sup>2</sup> 23&deg; &minus; tan<sup>2</sup> 23&deg;</p>\n\n<p>&rArr; 2(1 / sin<sup>2</sup> 23&deg;) &times; (sin<sup>2</sup> 23&deg; / cos<sup>2</sup> 23&deg;) &minus; (sin<sup>2</sup> 23&deg; + cos<sup>2</sup> 23&deg;) &minus; tan<sup>2</sup> 23&deg;</p>\n\n<p>&rArr; 2(1 / cos<sup>2</sup> 23&deg;) &minus; 1 &minus; tan<sup>2</sup> 23&deg;</p>\n\n<p>&rArr; 2 sec<sup>2</sup> 23&deg; &minus; 1 &minus; tan<sup>2</sup> 23&deg;</p>\n\n<p>&rArr; sec<sup>2</sup> 23&deg; + (sec<sup>2</sup> 23&deg; &minus; tan<sup>2</sup> 23&deg;) &minus; 1</p>\n\n<p>&rArr; sec<sup>2</sup> 23&deg; + 1 &minus; 1</p>\n\n<p>&rArr; sec<sup>2</sup> 23&deg;</p>\n\n<p><strong>&there4; The correct answer is sec<sup>2</sup> 23&deg;.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Trigonometric Identities</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">The fundamental Pythagorean identities are sin<sup>2</sup> &theta; + cos<sup>2</sup> &theta; = 1, sec<sup>2</sup> &theta; &minus; tan<sup>2</sup> &theta; = 1, and cosec<sup>2</sup> &theta; &minus; cot<sup>2</sup> &theta; = 1.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Complementary Angles</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">Two angles are complementary if their sum is 90&deg;. Key relations: sin(90&deg; &minus; &theta;) = cos &theta;, tan(90&deg; &minus; &theta;) = cot &theta;, and sec(90&deg; &minus; &theta;) = cosec &theta;.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Reciprocal Relations</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">Trigonometric ratios are related by reciprocal identities: cosec &theta; = 1 / sin &theta;, sec &theta; = 1 / cos &theta;, and cot &theta; = 1 / tan &theta;.</p>\n\n<p>&nbsp;</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q7",
+      "number": 7,
+      "question": "A can do a work in 8 days and B in 12 days. If they work together on it for 3 days, then the fraction of the work that is left is:",
+      "questionHtml": "&nbsp;A can do a work in 8 days and B in 12 days. If they work together on it for 3 days, then the fraction of the work that is left is:&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{8}{3}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{8}{3}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{7}{8}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{7}{8}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{3}{8}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{3}{8}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{5}{8}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{5}{8}\\)</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Total work = LCM of 8 and 12 = 24 units.</p>\n<p>Combined efficiency of A and B = (24 ÷ 8) + (24 ÷ 12) = 3 + 2 = 5 units/day.</p>\n<p>Work completed in 3 days = 5 × 3 = 15 units.</p>\n<p>Work remaining = 24 − 15 = 9 units.</p>\n<p>Fraction of work left = 9 ÷ 24 = 3/8.</p>\n<p><strong>∴ The correct answer is 3/8.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Time taken by A to complete the work = 8 days</p>\n<p>Time taken by B to complete the work = 12 days</p>\n<p>Time they worked together = 3 days</p>\n\n<p><strong>LCM Method:</strong></p>\n<table border=\"1\" cellpadding=\"6\" cellspacing=\"0\" style=\"border-collapse:collapse;text-align:left;\">\n  <tbody>\n    <tr>\n      <td><strong>Person</strong></td>\n      <td><strong>Days</strong></td>\n      <td><strong>Total Work</strong></td>\n      <td><strong>Efficiency</strong></td>\n    </tr>\n    <tr>\n      <td>A</td>\n      <td>8</td>\n      <td rowspan=\"2\">24</td>\n      <td>3</td>\n    </tr>\n    <tr>\n      <td>B</td>\n      <td>12</td>\n      <td>2</td>\n    </tr>\n  </tbody>\n</table>\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ Total efficiency of A and B together = 3 + 2 = 5 units/day</p>\n<p>⇒ Total work done by A and B in 3 days = Efficiency × Time = 5 × 3 = 15 units</p>\n<p>⇒ Remaining work = Total work − Completed work = 24 − 15 = 9 units</p>\n<p>⇒ Fraction of work left = Remaining work ÷ Total work = 9 ÷ 24 = 3/8</p>\n<p><strong>∴ The correct answer is 3/8.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Work and Wages</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Wages are distributed in proportion to the total work done by each person. If they work for the exact same duration, wages are directly proportional to their efficiencies.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Alternate Day Work</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If two persons work on alternate days, find the total work done in a 2-day cycle and multiply it to get as close to the total work as possible, then add the remaining work for the next respective turn.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Pipes and Cisterns</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">This concept is identical to time and work, with the exception that an emptying pipe has a negative efficiency. Net efficiency = Sum of filling rates − Sum of emptying rates.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q8",
+      "number": 8,
+      "question": "A radii of the bases of the two cylinders are in the ratio 5 : 7 and their height are in the ratio 3 : 5. Find the ratio of their curved surface areas.",
+      "questionHtml": "A radii of the bases of the two cylinders are in the ratio 5 : 7 and their height are in the ratio 3 : 5. Find the ratio of their curved surface areas.&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "9 : 8",
+          "html": "9 : 8"
+        },
+        {
+          "id": "B",
+          "text": "2 : 7",
+          "html": "2 : 7"
+        },
+        {
+          "id": "C",
+          "text": "3 : 5",
+          "html": "3 : 5"
+        },
+        {
+          "id": "D",
+          "text": "3 : 7",
+          "html": "3 : 7"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>The Curved Surface Area (CSA) of a cylinder is proportional to the product of its radius and height.</p>\n<p>⇒ Ratio of CSA = (r<sub>1</sub> × h<sub>1</sub>) : (r<sub>2</sub> × h<sub>2</sub>)</p>\n<p>⇒ Ratio of CSA = (5 × 3) : (7 × 5)</p>\n<p>⇒ Ratio of CSA = 15 : 35</p>\n<p>⇒ Ratio of CSA = 3 : 7</p>\n<p><strong>∴ The correct answer is 3 : 7.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<img src=\"https://cdn.testbook.com/temp_a70030e9ccfd4713bd6b5d1658f42714.png/1777641701.png\" style=\"max-width: 450px;\" />\n\n<p><strong>Given:</strong></p>\n<p>⇒ Let the radii of the two cylinders be r<sub>1</sub> = 5x and r<sub>2</sub> = 7x</p>\n<p>⇒ Let the heights of the two cylinders be h<sub>1</sub> = 3y and h<sub>2</sub> = 5y</p>\n<p><strong>Formula Used:</strong></p>\n<p>⇒ Curved Surface Area of a cylinder = 2πrh</p>\n<p><strong>Calculations:</strong></p>\n<p>⇒ CSA of first cylinder (CSA<sub>1</sub>) = 2 × π × (5x) × (3y) = 30πxy</p>\n<p>⇒ CSA of second cylinder (CSA<sub>2</sub>) = 2 × π × (7x) × (5y) = 70πxy</p>\n<p>⇒ Ratio of their curved surface areas = CSA<sub>1</sub> : CSA<sub>2</sub></p>\n<p>⇒ Ratio = 30πxy / 70πxy</p>\n<p>⇒ Ratio = 30 / 70</p>\n<p>⇒ Ratio = 3 / 7</p>\n<p><strong>∴ The correct answer is 3 : 7.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Curved Surface Area (CSA)</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">It is the area of the curved part of the cylinder, excluding the flat circular bases. Formula: CSA = 2πrh</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Total Surface Area (TSA)</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">It includes the curved surface area plus the area of the two circular bases (top and bottom). Formula: TSA = 2πr(r + h)</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Volume of a Cylinder</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The total space occupied inside the cylinder. Formula: V = πr<sup>2</sup>h</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_a70030e9ccfd4713bd6b5d1658f42714.png/1777641701.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q9",
+      "number": 9,
+      "question": "The system of equations: 2x + 3y = 7 and (a - b)x + (a + b)y = 3a + b - 2 have infinitely many solutions:",
+      "questionHtml": "The system of equations: 2x + 3y = 7 and (a - b)x + (a + b)y = 3a + b - 2 have infinitely many solutions:&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "a = 5, b = 3",
+          "html": "a = 5, b = 3"
+        },
+        {
+          "id": "B",
+          "text": "a = 2, b = 3",
+          "html": "a = 2, b = 3"
+        },
+        {
+          "id": "C",
+          "text": "a = 2, b = 1",
+          "html": "a = 2, b = 1"
+        },
+        {
+          "id": "D",
+          "text": "a = 5, b = 1",
+          "html": "a = 5, b = 1"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>For infinitely many solutions, the ratio of coefficients must be equal: a<sub>1</sub>/a<sub>2</sub> = b<sub>1</sub>/b<sub>2</sub>.</p>\n<p>⇒ 2 / (a − b) = 3 / (a + b)</p>\n<p>⇒ 2a + 2b = 3a − 3b ⇒ a = 5b</p>\n<p>Check options: Only Option 4 has a = 5 and b = 1, which perfectly satisfies a = 5b.</p>\n<p><strong>∴ The correct answer is a = 5, b = 1.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>2x + 3y = 7</p>\n<p>(a − b)x + (a + b)y = 3a + b − 2</p>\n<p><strong>Formula Used:</strong></p>\n<p>For a system of equations to have infinitely many solutions, the ratio of their coefficients must be equal:</p>\n<p>a<sub>1</sub> / a<sub>2</sub> = b<sub>1</sub> / b<sub>2</sub> = c<sub>1</sub> / c<sub>2</sub></p>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Here, a<sub>1</sub> = 2, b<sub>1</sub> = 3, c<sub>1</sub> = 7</p>\n<p>⇒ a<sub>2</sub> = (a − b), b<sub>2</sub> = (a + b), c<sub>2</sub> = (3a + b − 2)</p>\n<p>⇒ 2 / (a − b) = 3 / (a + b) = 7 / (3a + b − 2)</p>\n<p>⇒ Equating the first two parts:</p>\n<p>⇒ 2 / (a − b) = 3 / (a + b)</p>\n<p>⇒ 2(a + b) = 3(a − b)</p>\n<p>⇒ 2a + 2b = 3a − 3b</p>\n<p>⇒ a = 5b  --- (Equation 1)</p>\n<p>⇒ Equating the second and third parts:</p>\n<p>⇒ 3 / (a + b) = 7 / (3a + b − 2)</p>\n<p>⇒ 3(3a + b − 2) = 7(a + b)</p>\n<p>⇒ 9a + 3b − 6 = 7a + 7b</p>\n<p>⇒ 2a − 4b = 6</p>\n<p>⇒ a − 2b = 3  --- (Equation 2)</p>\n<p>⇒ Substituting a = 5b into Equation 2:</p>\n<p>⇒ 5b − 2b = 3</p>\n<p>⇒ 3b = 3 ⇒ b = 1</p>\n<p>⇒ Substitute b = 1 back into Equation 1:</p>\n<p>⇒ a = 5 × 1 = 5</p>\n<p><strong>∴ The correct answer is a = 5, b = 1.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Unique Solution</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">A system of linear equations has a unique solution if the lines intersect at exactly one point. The condition is a<sub>1</sub> / a<sub>2</sub> ≠ b<sub>1</sub> / b<sub>2</sub>.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">No Solution</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">A system of equations has no solution if the lines are parallel and never intersect. The condition is a<sub>1</sub> / a<sub>2</sub> = b<sub>1</sub> / b<sub>2</sub> ≠ c<sub>1</sub> / c<sub>2</sub>.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Infinitely Many Solutions</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">A system of equations has infinitely many solutions if the lines overlap entirely, meaning they represent the exact same line. The condition is a<sub>1</sub> / a<sub>2</sub> = b<sub>1</sub> / b<sub>2</sub> = c<sub>1</sub> / c<sub>2</sub>.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q10",
+      "number": 10,
+      "question": "In a government scheme, if an electricity bill is paid before due date, one gets a reduction of 13.5% on the amount of the bill. By paying the bill before due date, Ritu got a reduction of Rs. 6,075. The amount of her electricity bill was:",
+      "questionHtml": "In a government scheme, if an electricity bill is paid before due date, one gets a reduction of 13.5% on the amount of the bill. By paying the bill before due date, Ritu got a reduction of Rs. 6,075. The amount of her electricity bill was:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 48,000",
+          "html": "Rs. 48,000"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 55,380",
+          "html": "Rs. 55,380"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 60,750",
+          "html": "Rs. 60,750"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 45,000",
+          "html": "Rs. 45,000"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>13.5% of Bill Amount = Rs. 6075</p>\n<p>1% of Bill Amount = 6075 ÷ 13.5 = 450</p>\n<p>100% of Bill Amount = 450 × 100 = 45000</p>\n<p><strong>∴ The correct answer is Rs. 45,000.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Reduction percentage = 13.5%</p>\n<p>Amount of reduction = Rs. 6075</p>\n<p><strong>Formula Used:</strong></p>\n<p>Percentage Value = (Percentage ÷ 100) × Base Value</p>\n<img src=\"https://cdn.testbook.com/temp_c4ff3b3800ad422eb88c28a1ac9b9e0d.png/1777709568.png\" style=\"max-width: 450px;\" />\n<p><strong>Calculations:</strong></p>\n<p>Let the total amount of the electricity bill be x.</p>\n<p>⇒ 13.5% of x = 6075</p>\n<p>⇒ (13.5 ÷ 100) × x = 6075</p>\n<p>⇒ x = (6075 × 100) ÷ 13.5</p>\n<p>⇒ x = 607500 ÷ 13.5</p>\n<p>⇒ x = 6075000 ÷ 135</p>\n<p>⇒ x = 45000</p>\n<p><strong>∴ The correct answer is Rs. 45,000.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Base and Percentage Relationship</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When a specific percentage of a base value is given, the complete base value can be found directly using the relation: Base = (Given Value × 100) ÷ Percentage Rate.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Percentage Increase or Decrease</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">New Value = Original Value × (1 ± r ÷ 100), where r is the percentage rate of change.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Successive Percentage Change</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If an amount is subjected to two successive percentage changes of a% and b%, the net effective change is calculated as: (a + b + ab ÷ 100)%.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_c4ff3b3800ad422eb88c28a1ac9b9e0d.png/1777709568.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q11",
+      "number": 11,
+      "question": "A man sells 10 pens for ₹18 gaining 24%. How many pens should he sell for ₹1,530 to earn a profit of 55%?",
+      "questionHtml": "A man sells 10 pens for ₹18 gaining 24%. How many pens should he sell for ₹1,530 to earn a profit of 55%?",
+      "options": [
+        {
+          "id": "A",
+          "text": "540",
+          "html": "540"
+        },
+        {
+          "id": "B",
+          "text": "620",
+          "html": "620"
+        },
+        {
+          "id": "C",
+          "text": "680",
+          "html": "680"
+        },
+        {
+          "id": "D",
+          "text": "760",
+          "html": "760"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Using the proportional ratio: (Amount ÷ Quantity) ÷ (100 + Profit%) = Constant</p>\n<p>⇒ (18 ÷ 10) ÷ 124 = (1530 ÷ N) ÷ 155</p>\n<p>⇒ 1.8 ÷ 124 = 1530 ÷ (155 × N)</p>\n<p>⇒ N = (1530 × 124) ÷ (1.8 × 155)</p>\n<p>⇒ N = 680</p>\n<p><strong>∴ The correct answer is 680 pens.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Selling Price (SP<sub>1</sub>) of 10 pens = ₹18</p>\n<p>Initial Profit = 24%</p>\n<p>Target Profit = 55%</p>\n<p>Target Amount = ₹1530</p>\n\n<p><strong>Formula Used:</strong></p>\n<p>CP = SP × [100 ÷ (100 + Profit%)]</p>\n<p>New SP = CP × [(100 + New Profit%) ÷ 100]</p>\n\n<img src=\"https://cdn.testbook.com/temp_9c72629a817b4d49bb15645ff9638c74.png/1777711432.png\" style=\"max-width: 450px;\" />\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ SP<sub>1</sub> of 1 pen = 18 ÷ 10 = ₹1.80</p>\n<p>⇒ CP of 1 pen = 1.80 × (100 ÷ 124) = ₹45/31</p>\n<p>⇒ Target SP<sub>2</sub> of 1 pen for 55% profit = CP × (155 ÷ 100)</p>\n<p>⇒ Target SP<sub>2</sub> = (45 ÷ 31) × (155 ÷ 100)</p>\n<p>⇒ Target SP<sub>2</sub> = 45 × (5 ÷ 100) = ₹2.25</p>\n<p>⇒ Number of pens = Total Amount ÷ Target SP<sub>2</sub></p>\n<p>⇒ Number of pens = 1530 ÷ 2.25</p>\n<p>⇒ Number of pens = 680</p>\n<p><strong>∴ The correct answer is 680 pens.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Marked Price and Discount</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Discount is always calculated on the Marked Price (MP). Formula: SP = MP × [1 − (Discount% ÷ 100)].</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Successive Discounts</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If two successive discounts of a% and b% are given, the effective single discount is (a + b − ab ÷ 100)%.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Dishonest Dealer</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When a dealer sells goods at cost price but uses a false weight, the actual Profit% = [Error ÷ (True Value − Error)] × 100.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_9c72629a817b4d49bb15645ff9638c74.png/1777711432.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q12",
+      "number": 12,
+      "question": "The average runs made by a batsman in 10 innings of cricket was 43. How many runs does he have to make in the next inning so that the average of his runs increases by 3?",
+      "questionHtml": "The average runs made by a batsman in 10 innings of cricket was 43. How many runs does he have to make in the next inning so that the average of his runs increases by 3?",
+      "options": [
+        {
+          "id": "A",
+          "text": "83",
+          "html": "83"
+        },
+        {
+          "id": "B",
+          "text": "76",
+          "html": "76"
+        },
+        {
+          "id": "C",
+          "text": "78",
+          "html": "78"
+        },
+        {
+          "id": "D",
+          "text": "91",
+          "html": "91"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Using the average deviation method to find the required runs directly:</p>\n<p>Runs required = Old average + (Total new innings × Increase in average)</p>\n<p>Runs required = 43 + (11 × 3)</p>\n<p>Runs required = 43 + 33 = 76</p>\n<p><strong>∴ The correct answer is 76 runs.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Average runs in the first 10 innings = 43</p>\n<p>Required increase in average = 3</p>\n<p><strong>Formula Used:</strong></p>\n<p>Average = Sum of all observations ÷ Total number of observations</p>\n<svg width=\"420\" height=\"200\" viewBox=\"0 0 420 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <path d=\"M 40,60 L 40,40 L 380,40 L 380,60\" fill=\"none\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"210\" y=\"30\" fill=\"#2255cc\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\">Total 11 Innings → New Average: 46</text>\n  \n  <rect x=\"40\" y=\"70\" width=\"250\" height=\"40\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" rx=\"4\" />\n  <text x=\"165\" y=\"95\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"13\" text-anchor=\"middle\">10 Innings (Avg = 43)</text>\n  \n  <rect x=\"290\" y=\"70\" width=\"90\" height=\"40\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"1.5\" rx=\"4\" />\n  <text x=\"335\" y=\"95\" fill=\"#cc5500\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\">11th = ?</text>\n  \n  <path d=\"M 165,115 L 165,140 L 335,140 L 335,115\" fill=\"none\" stroke=\"#888888\" stroke-dasharray=\"5,3\" stroke-width=\"1.5\" />\n  <text x=\"250\" y=\"160\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"13\" text-anchor=\"middle\">Deviation: 10 innings need +3 runs each</text>\n  <text x=\"250\" y=\"180\" fill=\"#007700\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\">11th Inning = 46 + (10 × 3) = 76</text>\n</svg>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Total runs scored in 10 innings = 10 × 43 = 430 runs</p>\n<p>⇒ Target new average for 11 innings = 43 + 3 = 46 runs</p>\n<p>⇒ Total runs required in 11 innings = 11 × 46 = 506 runs</p>\n<p>⇒ Runs required in the 11th inning = Total runs in 11 innings − Total runs in 10 innings</p>\n<p>⇒ Runs required = 506 − 430 = 76</p>\n<p><strong>∴ The correct answer is 76 runs.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Basic Average Concept</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The average of any set of values is formulated as: Average = Sum of all values ÷ Total count of values.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Deviation Method for Included Items</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When a new item is added to a group, its value can be quickly found without large calculations using: Value of added item = Old Average + (Total new items × Change in Average).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Combined Average</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When two groups of sizes n<sub>1</sub> and n<sub>2</sub> with averages A<sub>1</sub> and A<sub>2</sub> respectively are merged, the combined average is calculated as: (n<sub>1</sub>A<sub>1</sub> + n<sub>2</sub>A<sub>2</sub>) ÷ (n<sub>1</sub> + n<sub>2</sub>).</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q13",
+      "number": 13,
+      "question": "2 tables and 3 chairs together cost ₹12000. When the cost of a table is decreased by 10% and that of a chair is increased by 20%, then 3 tables and 4 chairs together cost ₹17100. What is the total original cost of 1 table and 2 chairs?",
+      "questionHtml": "2 tables and 3 chairs together cost ₹12000. When the cost of a table is decreased by 10% and that of a chair is increased by 20%, then 3 tables and 4 chairs together cost ₹17100. What is the total original cost of 1 table and 2 chairs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹6800",
+          "html": "₹6800"
+        },
+        {
+          "id": "B",
+          "text": "₹6600",
+          "html": "₹6600"
+        },
+        {
+          "id": "C",
+          "text": "₹6500",
+          "html": "₹6500"
+        },
+        {
+          "id": "D",
+          "text": "₹6300",
+          "html": "₹6300"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Let T and C be the original cost of a table and a chair.</p>\n<p>Given: 2T + 3C = 12000 ⇒ (1) and 3(0.9T) + 4(1.2C) = 17100 ⇒ 9T + 16C = 57000 ⇒ (2)</p>\n<p>Applying 16 × (1) − 3 × (2): 32T − 27T = 192000 − 171000 ⇒ 5T = 21000 ⇒ T = 4200.</p>\n<p>Substitute T = 4200 in (1) to get 2(4200) + 3C = 12000 ⇒ 3C = 3600 ⇒ C = 1200.</p>\n<p>Required cost = 1 Table + 2 Chairs = 4200 + 2(1200) = ₹6600.</p>\n<p><strong>∴ The correct answer is ₹6600.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p>Let the original cost of a table be T and a chair be C.</p>\n<p>⇒ 2T + 3C = 12000 ...... (Equation 1)</p>\n<p>Cost of a table decreased by 10% and cost of a chair increased by 20%.</p>\n<img src=\"https://cdn.testbook.com/temp_49fa83379ac94e27b828a3396b6c5499.png/1777709589.png\" style=\"max-width: 450px;\" />\n<p>According to the new condition:</p>\n<p>⇒ 3 × (0.9T) + 4 × (1.2C) = 17100</p>\n<p>⇒ 2.7T + 4.8C = 17100</p>\n<p>Divide the equation by 3:</p>\n<p>⇒ 0.9T + 1.6C = 5700</p>\n<p>Multiply the equation by 10:</p>\n<p>⇒ 9T + 16C = 57000 ...... (Equation 2)</p>\n<p>Multiply Equation 1 by 16 and Equation 2 by 3:</p>\n<p>⇒ 32T + 48C = 192000</p>\n<p>⇒ 27T + 48C = 171000</p>\n<p>Subtract the two modified equations:</p>\n<p>⇒ 5T = 21000</p>\n<p>⇒ T = 4200</p>\n<p>Substitute T = 4200 in Equation 1:</p>\n<p>⇒ 2 × 4200 + 3C = 12000</p>\n<p>⇒ 8400 + 3C = 12000</p>\n<p>⇒ 3C = 3600</p>\n<p>⇒ C = 1200</p>\n<p>The total original cost of 1 table and 2 chairs:</p>\n<p>⇒ T + 2C = 4200 + 2 × 1200 = 4200 + 2400 = 6600</p>\n<p><strong>∴ The correct answer is ₹6600.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Percentage Change</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When a value is increased or decreased by x%, the new value becomes (1 ± x/100) × Original Value.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Linear Equations in Two Variables</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">These can be solved using substitution, elimination, or cross-multiplication to find unique values of unknown variables.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_49fa83379ac94e27b828a3396b6c5499.png/1777709589.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q14",
+      "number": 14,
+      "question": "If 2 men or 4 women or 6 boys can finish a work in 50 days, then how many days will 1 man, 1 woman and 1 boy take to finish the same work?",
+      "questionHtml": "If 2 men or 4 women or 6 boys can finish a work in 50 days, then how many days will 1 man, 1 woman and 1 boy take to finish the same work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(53 \\frac{6}{11}\\) days",
+          "html": "<span class=\"math-tex\">\\(53 \\frac{6}{11}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "B",
+          "text": "\\(54 \\frac{6}{13}\\) days",
+          "html": "<span class=\"math-tex\">\\(54 \\frac{6}{13}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "C",
+          "text": "\\(54 \\frac{5}{11}\\) days",
+          "html": "<span class=\"math-tex\">\\(54 \\frac{5}{11}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "D",
+          "text": "\\(54 \\frac{6}{11}\\) days",
+          "html": "<span class=\"math-tex\">\\(54 \\frac{6}{11}\\)</span>&nbsp;days"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Time = Given Days ÷ [ (M<sub>and</sub> / M<sub>or</sub>) + (W<sub>and</sub> / W<sub>or</sub>) + (B<sub>and</sub> / B<sub>or</sub>) ]</p>\n<p>Time = 50 ÷ [ (1 / 2) + (1 / 4) + (1 / 6) ]</p>\n<p>Time = 50 ÷ [ (6 + 3 + 2) / 12 ]</p>\n<p>Time = 50 × (12 / 11) = 600 / 11</p>\n<p><strong>∴ The correct answer is 54 <sup>6</sup>/<sub>11</sub> days.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>⇒ 2 men complete work in 50 days ⇒ 1 man takes 2 × 50 = 100 days</p>\n<p>⇒ 4 women complete work in 50 days ⇒ 1 woman takes 4 × 50 = 200 days</p>\n<p>⇒ 6 boys complete work in 50 days ⇒ 1 boy takes 6 × 50 = 300 days</p>\n<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;text-align:left;'>\n  <tbody>\n    <tr>\n      <td><strong>Person</strong></td>\n      <td><strong>Days</strong></td>\n      <td><strong>Total Work</strong></td>\n      <td><strong>Efficiency</strong></td>\n    </tr>\n    <tr>\n      <td>1 Man</td>\n      <td>100</td>\n      <td rowspan='3'>600</td>\n      <td>6</td>\n    </tr>\n    <tr>\n      <td>1 Woman</td>\n      <td>200</td>\n      <td>3</td>\n    </tr>\n    <tr>\n      <td>1 Boy</td>\n      <td>300</td>\n      <td>2</td>\n    </tr>\n  </tbody>\n</table>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Combined efficiency of 1 man, 1 woman, and 1 boy = 6 + 3 + 2 = 11 units/day</p>\n<p>⇒ Time taken = Total Work ÷ Combined Efficiency</p>\n<p>⇒ Time taken = 600 ÷ 11 = 54 <sup>6</sup>/<sub>11</sub> days</p>\n<p><strong>∴ The correct answer is 54 <sup>6</sup>/<sub>11</sub> days.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>AND / OR Rule in Time & Work</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When a question states that A OR B can do a work in D days, the time taken by A AND B together is calculated by dividing the given days by the sum of ratios of required workers to given workers.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>MDH Concept</p>\n<p style='margin:0 0 8px 0;color:#444444;'>For group work problems, use the formula M<sub>1</sub> × D<sub>1</sub> × H<sub>1</sub> / W<sub>1</sub> = M<sub>2</sub> × D<sub>2</sub> × H<sub>2</sub> / W<sub>2</sub>, where M is men, D is days, H is hours, and W is work.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Total Work & Efficiency</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Total Work is always equal to the Efficiency (amount of work done per unit time) multiplied by the Total Time taken to complete the job.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q15",
+      "number": 15,
+      "question": "If the area of the base of a right circular cone is 157 cm 2 and its slant height is \\(\\sqrt{491}\\) cm, then the volume of the cone is _______. (Use &pi; = 3.14.)",
+      "questionHtml": "<!-- x-tinymce/html -->\n<p>If the area of the base of a right circular cone is 157 cm<sup>2</sup> and its slant height is <span class=\"math-tex\">\\(\\sqrt{491}\\)</span> cm, then the volume of the cone is _______.</p>\n\n<p>(Use &pi; = 3.14.)</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "997 cm 3",
+          "html": "997 cm<sup>3</sup>"
+        },
+        {
+          "id": "B",
+          "text": "1172 cm 3",
+          "html": "1172 cm<sup>3</sup>"
+        },
+        {
+          "id": "C",
+          "text": "1099 cm 3",
+          "html": "1099 cm<sup>3</sup>"
+        },
+        {
+          "id": "D",
+          "text": "986 cm 3",
+          "html": "986 cm<sup>3</sup>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Given Base Area = 157 cm<sup>2</sup>, so π × r<sup>2</sup> = 157 ⇒ r<sup>2</sup> = 157 ÷ 3.14 = 50.</p>\n<p>Height h = √(l<sup>2</sup> − r<sup>2</sup>) = √(491 − 50) = √441 = 21 cm.</p>\n<p>Volume of cone = (1/3) × Base Area × Height.</p>\n<p>Volume = (1/3) × 157 × 21 = 157 × 7 = 1099 cm<sup>3</sup>.</p>\n<p><strong>∴ The correct answer is 1099 cm<sup>3</sup>.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Base area of the cone = 157 cm<sup>2</sup></p>\n<p>Slant height (l) = √491 cm</p>\n<p>(π = 3.14)</p>\n<p><strong>Formula Used:</strong></p>\n<p>Area of base = π × r<sup>2</sup></p>\n<p>Slant height l = √(r<sup>2</sup> + h<sup>2</sup>)</p>\n<p>Volume of a cone V = 1/3 × π × r<sup>2</sup> × h</p>\n<img src=\"https://cdn.testbook.com/temp_7423db7d6e0b429595a496b1190de061.png/1777641742.png\" style=\"max-width: 450px;\" />\n<p><strong>Calculations:</strong></p>\n<p>⇒ Area of base = π × r<sup>2</sup> = 157</p>\n<p>⇒ 3.14 × r<sup>2</sup> = 157</p>\n<p>⇒ r<sup>2</sup> = 157 ÷ 3.14 = 50</p>\n<p>⇒ We know that, l<sup>2</sup> = r<sup>2</sup> + h<sup>2</sup></p>\n<p>⇒ (√491)<sup>2</sup> = 50 + h<sup>2</sup></p>\n<p>⇒ 491 = 50 + h<sup>2</sup></p>\n<p>⇒ h<sup>2</sup> = 491 − 50 = 441</p>\n<p>⇒ h = √441 = 21 cm</p>\n<p>⇒ Volume of the cone = 1/3 × π × r<sup>2</sup> × h</p>\n<p>⇒ Volume = 1/3 × (3.14 × 50) × 21</p>\n<p>⇒ Volume = 1/3 × 157 × 21</p>\n<p>⇒ Volume = 157 × 7 = 1099 cm<sup>3</sup></p>\n<p><strong>∴ The correct answer is 1099 cm<sup>3</sup>.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Volume of a Cone vs Cylinder</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">A cone's volume is exactly one-third of the volume of a cylinder with the same base radius and height. The formula is V = 1/3 × πr<sup>2</sup>h.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Surface Area of a Cone</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The curved surface area is given by πrl and the total surface area is given by πr(r + l), where r is the radius and l is the slant height.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Frustum of a Cone</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When a cone is sliced parallel to its base, the remaining lower part is called a frustum. Its volume is 1/3 × πh(R<sup>2</sup> + r<sup>2</sup> + Rr).</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_7423db7d6e0b429595a496b1190de061.png/1777641742.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q16",
+      "number": 16,
+      "question": "P, Q, R and S are four points on a circle. PR and QS intersect at a point X such that &ang;QXR = 120&deg; and &ang;XRS = 10&deg;. The measure of &ang;QPR is:",
+      "questionHtml": "P, Q, R and S are four points on a circle. PR and QS intersect at a point X such that &ang;QXR = 120&deg; and &ang;XRS = 10&deg;. The measure of &ang;QPR is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "120&deg;",
+          "html": "120&deg;"
+        },
+        {
+          "id": "B",
+          "text": "90&deg;",
+          "html": "90&deg;"
+        },
+        {
+          "id": "C",
+          "text": "100&deg;",
+          "html": "100&deg;"
+        },
+        {
+          "id": "D",
+          "text": "110&deg;",
+          "html": "110&deg;"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>In ΔSXR, the exterior angle is equal to the sum of the two opposite interior angles.</p>\n<p>⇒ ∠QXR = ∠XSR + ∠XRS</p>\n<p>⇒ 120° = ∠XSR + 10° ⇒ ∠XSR = 110°</p>\n<p>Angles subtended by the same arc (QR) in the same segment of a circle are equal.</p>\n<p>⇒ ∠QPR = ∠QSR = ∠XSR = 110°</p>\n<p><strong>∴ The correct answer is 110°.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>⇒ ∠QXR = 120°</p>\n<p>⇒ ∠XRS = 10°</p>\n<p><strong>Formula Used:</strong></p>\n<p>⇒ Linear pair sum = 180°</p>\n<p>⇒ Sum of angles in a triangle = 180°</p>\n<p>⇒ Angles subtended by the same arc at the circumference are equal.</p>\n\n<svg width=\"420\" height=\"260\" viewBox=\"0 0 420 260\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <circle cx=\"210\" cy=\"130\" r=\"100\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\"/>\n  <polygon points=\"110,130 160,43 193,31 287,66\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"1.5\"/>\n  <line x1=\"160\" y1=\"43\" x2=\"287\" y2=\"66\" stroke=\"#2255cc\" stroke-width=\"1.5\"/>\n  <line x1=\"110\" y1=\"130\" x2=\"193\" y2=\"31\" stroke=\"#2255cc\" stroke-width=\"1.5\"/>\n  \n  <circle cx=\"110\" cy=\"130\" r=\"3\" fill=\"#222222\"/>\n  <circle cx=\"160\" cy=\"43\" r=\"3\" fill=\"#222222\"/>\n  <circle cx=\"193\" cy=\"31\" r=\"3\" fill=\"#222222\"/>\n  <circle cx=\"287\" cy=\"66\" r=\"3\" fill=\"#222222\"/>\n  <circle cx=\"180\" cy=\"47\" r=\"3\" fill=\"#cc5500\"/>\n\n  <text x=\"90\" y=\"135\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\">Q</text>\n  <text x=\"145\" y=\"35\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\">P</text>\n  <text x=\"190\" y=\"18\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\">S</text>\n  <text x=\"295\" y=\"65\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\">R</text>\n  <text x=\"165\" y=\"35\" fill=\"#cc5500\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\">X</text>\n\n  <path d=\"M 194.8 49.6 A 15 15 0 0 1 170.4 58.5\" fill=\"none\" stroke=\"#2255cc\" stroke-width=\"1.5\"/>\n  <text x=\"175\" y=\"80\" fill=\"#2255cc\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"bold\">120°</text>\n\n  <path d=\"M 257.5 60.8 A 30 30 0 0 1 258.8 55.7\" fill=\"none\" stroke=\"#2255cc\" stroke-width=\"1.5\"/>\n  <text x=\"235\" y=\"55\" fill=\"#2255cc\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"bold\">10°</text>\n</svg>\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ Since QS is a straight line segment, ∠SXR and ∠QXR form a linear pair.</p>\n<p>⇒ ∠SXR + ∠QXR = 180°</p>\n<p>⇒ ∠SXR = 180° − 120° = 60°</p>\n<p>⇒ In ΔSXR, the sum of all interior angles is 180°.</p>\n<p>⇒ ∠XSR + ∠SXR + ∠XRS = 180°</p>\n<p>⇒ ∠XSR + 60° + 10° = 180°</p>\n<p>⇒ ∠XSR = 180° − 70° = 110°</p>\n<p>⇒ We know that angles subtended by the same arc at the circumference are equal.</p>\n<p>⇒ Therefore, ∠QPR and ∠QSR (which is the same as ∠XSR) subtending the same arc QR must be equal.</p>\n<p>⇒ ∠QPR = ∠QSR = 110°</p>\n<p><strong>∴ The correct answer is 110°.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Angles in the Same Segment</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Angles subtended by the same arc at any point on the remaining part of the circle are always equal.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Exterior Angle Theorem</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The measure of an exterior angle of a triangle is equal to the sum of the measures of its two remote interior angles.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Cyclic Quadrilateral</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">A quadrilateral formed by four points on a circle is called a cyclic quadrilateral. The sum of its opposite interior angles is always 180°.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q17",
+      "number": 17,
+      "question": "A vendor mixes two types of pulses costing ₹10/kg and ₹22/kg respectively. In what ratio ₹10/kg should be mixed with ₹22/kg to get a mixture of ₹12/kg.",
+      "questionHtml": "A vendor mixes two types of pulses costing ₹10/kg and ₹22/kg respectively. In what ratio ₹10/kg should be mixed with ₹22/kg to get a mixture of ₹12/kg.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 5",
+          "html": "1 : 5"
+        },
+        {
+          "id": "B",
+          "text": "5 : 1",
+          "html": "5 : 1"
+        },
+        {
+          "id": "C",
+          "text": "1 : 10",
+          "html": "1 : 10"
+        },
+        {
+          "id": "D",
+          "text": "10 : 1",
+          "html": "10 : 1"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Using the Alligation Cross Method:</p>\n<p>Ratio of cheaper to dearer = (Price of dearer − Mean price) : (Mean price − Price of cheaper)</p>\n<p>Ratio = (22 − 12) : (12 − 10)</p>\n<p>Ratio = 10 : 2 = 5 : 1</p>\n<p><strong>∴ The correct answer is 5 : 1.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Price of cheaper pulses (C) = ₹10/kg</p>\n<p>Price of dearer pulses (D) = ₹22/kg</p>\n<p>Mean price of mixture (M) = ₹12/kg</p>\n\n<img src=\"https://cdn.testbook.com/temp_412aa48d64144d4c82e7f7fd0f66e127.png/1777644610.png\" style=\"max-width: 450px;\" />\n\n<p><strong>Formula Used:</strong></p>\n<p>According to the rule of alligation:</p>\n<p>Quantity of Cheaper ÷ Quantity of Dearer = (D − M) ÷ (M − C)</p>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Ratio = (22 − 12) ÷ (12 − 10)</p>\n<p>⇒ Ratio = 10 ÷ 2</p>\n<p>⇒ Ratio = 5 : 1</p>\n<p><strong>∴ The correct answer is 5 : 1.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Rule of Alligation</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">It is a quick cross-difference method used to find the ratio in which two ingredients at given prices must be mixed to produce a mixture of a specific target price. The target mean price always lies strictly between the cheaper and dearer prices.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Mean Price</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The mean price is the cost price of a single unit quantity of the combined final mixture. It is calculated as (Total cost of all mixed ingredients) ÷ (Total final quantity of the mixture).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Repeated Replacement Method</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If from a vessel containing 'a' units of pure liquid, 'b' units are drawn out and replaced by water, and this operation is repeated 'n' times, the remaining quantity of pure liquid is given by a × (1 − b/a)<sup>n</sup>.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_412aa48d64144d4c82e7f7fd0f66e127.png/1777644610.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q18",
+      "number": 18,
+      "question": "What is the slope of the line whose equation is x + 2y = 4?",
+      "questionHtml": "What is the slope of the line whose equation is x + 2y = 4?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "-1/2",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">-1/2</span>"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "text": "1/2",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">1/2</span>"
+        },
+        {
+          "id": "D",
+          "text": "-2",
+          "html": "-2"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>For a standard linear equation of the form Ax + By = C, the slope is directly given by −A / B.</p>\n<p>Given equation: x + 2y = 4</p>\n<p>Here, the coefficient of x is A = 1 and the coefficient of y is B = 2.</p>\n<p>Slope = −1 / 2.</p>\n<p><strong>∴ The correct answer is −1/2.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>The equation of the line: x + 2y = 4</p>\n<p><strong>Formula Used:</strong></p>\n<p>The slope-intercept form of a line is y = mx + c, where 'm' represents the slope and 'c' represents the y-intercept.</p>\n<svg width=\"420\" height=\"240\" viewBox=\"0 0 420 240\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <line x1=\"40\" y1=\"180\" x2=\"380\" y2=\"180\" stroke=\"#888888\" stroke-width=\"1.5\" />\n  <line x1=\"150\" y1=\"30\" x2=\"150\" y2=\"220\" stroke=\"#888888\" stroke-width=\"1.5\" />\n  \n  <line x1=\"30\" y1=\"60\" x2=\"350\" y2=\"220\" stroke=\"#2255cc\" stroke-width=\"2\" />\n  \n  <circle cx=\"150\" cy=\"120\" r=\"4\" fill=\"#cc5500\" />\n  <circle cx=\"270\" cy=\"180\" r=\"4\" fill=\"#cc5500\" />\n  \n  <text x=\"370\" y=\"170\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"13\">X</text>\n  <text x=\"160\" y=\"40\" fill=\"#222222\" font-family=\"sans-serif\" font-size=\"13\">Y</text>\n  \n  <text x=\"105\" y=\"125\" fill=\"#cc5500\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\">(0, 2)</text>\n  <text x=\"260\" y=\"200\" fill=\"#cc5500\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\">(4, 0)</text>\n  \n  <text x=\"60\" y=\"90\" fill=\"#2255cc\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\">x + 2y = 4</text>\n  \n  <line x1=\"150\" y1=\"120\" x2=\"270\" y2=\"120\" stroke=\"#007700\" stroke-width=\"1.5\" stroke-dasharray=\"5,3\" />\n  <line x1=\"270\" y1=\"120\" x2=\"270\" y2=\"180\" stroke=\"#007700\" stroke-width=\"1.5\" stroke-dasharray=\"5,3\" />\n  \n  <text x=\"195\" y=\"112\" fill=\"#007700\" font-family=\"sans-serif\" font-size=\"12\">Run = 4</text>\n  <text x=\"280\" y=\"155\" fill=\"#007700\" font-family=\"sans-serif\" font-size=\"12\">Rise = −2</text>\n</svg>\n<p><strong>Calculations:</strong></p>\n<p>⇒ We need to express the given equation in the slope-intercept form (y = mx + c).</p>\n<p>⇒ Start with the given equation: x + 2y = 4</p>\n<p>⇒ Subtract x from both sides to isolate the y term:</p>\n<p>⇒ 2y = −x + 4</p>\n<p>⇒ Divide the entire equation by 2 to solve for y:</p>\n<p>⇒ y = (−1/2)x + (4/2)</p>\n<p>⇒ y = (−1/2)x + 2</p>\n<p>⇒ By comparing this result with y = mx + c, we can identify that the slope m is −1/2 and the y-intercept c is 2.</p>\n<p><strong>∴ The correct answer is −1/2.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Slope of a Line (Gradient)</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The slope measures the steepness and direction of a line. It is calculated as the change in y divided by the change in x. Formula: m = (y<sub>2</sub> − y<sub>1</sub>) ÷ (x<sub>2</sub> − x<sub>1</sub>).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">X and Y Intercepts</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The x-intercept is the point where the line crosses the horizontal x-axis (where y = 0). The y-intercept is the point where it crosses the vertical y-axis (where x = 0).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Parallel and Perpendicular Lines</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Two parallel lines always have equal slopes (m<sub>1</sub> = m<sub>2</sub>). Two perpendicular lines have slopes that are negative reciprocals of each other (m<sub>1</sub> × m<sub>2</sub> = −1).</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q19",
+      "number": 19,
+      "question": "The average of the first five multiples of 3 is:",
+      "questionHtml": "The average of the first five multiples of 3 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "html": "15"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Sum = 3 + 6 + 9 + 12 + 15 = 45</p>\n\n<p>Average = Sum / 5 = 45 / 5 ⇒ Average = 9</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q20",
+      "number": 20,
+      "question": "If a : b = 3 : 4 and b : c = 4 : 1 , then a : b : c = ?",
+      "questionHtml": "If a : b = 3 : 4 and b : c = 4 : 1 , then a : b : c = ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 : 1 : 3",
+          "html": "4 : 1 : 3"
+        },
+        {
+          "id": "B",
+          "text": "4 : 3 : 1",
+          "html": "4 : 3 : 1"
+        },
+        {
+          "id": "C",
+          "text": "3 : 4 : 1",
+          "html": "3 : 4 : 1"
+        },
+        {
+          "id": "D",
+          "text": "3 : 1 : 4",
+          "html": "3 : 1 : 4"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>a : b = 3 : 4 and b : c = 4 : 1</p>\n\n<p>a : b : c = 3 : 4 : (4 × 1 / 4) ⇒ a : b : c = 3 : 4 : 1</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q21",
+      "number": 21,
+      "question": "A invests ₹8,000 and B invests ₹11,000 at the same rate of simple interest per annum. If, at the end of 3 years, B gets ₹720 more interest than A, then find the rate of simple interest per annum.",
+      "questionHtml": "<p>A invests ₹8,000 and B invests ₹11,000 at the same rate of simple interest per annum. If, at the end of 3 years, B gets ₹720 more interest than A, then find the rate of simple interest per annum.</p>\n\n<p>&nbsp;</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "12%",
+          "html": "12%"
+        },
+        {
+          "id": "B",
+          "text": "10%",
+          "html": "10%"
+        },
+        {
+          "id": "C",
+          "text": "6%",
+          "html": "6%"
+        },
+        {
+          "id": "D",
+          "text": "8%",
+          "html": "8%"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>SI<sub>B</sub> - SI<sub>A</sub> = 720 ⇒ ((11000 - 8000) × R × 3)/(100) = 720</p>\n\n<p>⇒ (3000 × R × 3)/(100) = 720 ⇒ (9000R)/(100) = 720</p>\n\n<p>⇒ 90R = 720 ⇒ R = 8%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q22",
+      "number": 22,
+      "question": "Two plumbers, X and Y, are paid a total of ₹660 per day by their employer. If X is paid 120% of the sum paid to Y, then how much is Y paid per day?",
+      "questionHtml": "Two plumbers, X and Y, are paid a total of ₹660 per day by their employer. If X is paid 120% of the sum paid to Y, then how much is Y paid per day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹200",
+          "html": "₹200"
+        },
+        {
+          "id": "B",
+          "text": "₹300",
+          "html": "₹300"
+        },
+        {
+          "id": "C",
+          "text": "₹250",
+          "html": "₹250"
+        },
+        {
+          "id": "D",
+          "text": "₹350",
+          "html": "₹350"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Total payment = 1.2Y + Y ⇒ 660 = 2.2Y</p>\n\n<p>⇒ Y = 660 / 2.2 ⇒ Y = 300</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q23",
+      "number": 23,
+      "question": "A diver rowing at the speed of 3 km/h in still water takes double the time going 50 km upstream compared to going 50 km downstream. The speed of the diver against the stream is",
+      "questionHtml": "A diver rowing at the speed of 3 km/h in still water takes double the time going 50 km upstream compared to going 50 km downstream. The speed of the diver against the stream is",
+      "options": [
+        {
+          "id": "A",
+          "text": "4/3 km/h",
+          "html": "4/3 km/h"
+        },
+        {
+          "id": "B",
+          "text": "1 km/h",
+          "html": "1 km/h"
+        },
+        {
+          "id": "C",
+          "text": "7/3 km/h",
+          "html": "7/3 km/h"
+        },
+        {
+          "id": "D",
+          "text": "2 km/h",
+          "html": "2 km/h"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Let the speed of the stream be v km/h, Speed of diver in still water = u.</span></p>\n\n<p>Time upstream = 50 / (3 - v) ⇒ Time downstream = 50 / (3 + v)</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒</span> 50 / (3 - v) = 2 × (50 / (3 + v)) ⇒ 3 + v = 2 × (3 - v) ⇒ v = 1 km/h</p>\n\n<p>Speed upstream = u - v = 3 - 1 = 2 km/h</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q24",
+      "number": 24,
+      "question": "The radius of a cylinder is 5 cm more than its height. If the curved surface area of the cylinder is 792 cm 2 , then the volume of the cylinder (in cm 3 ), is ________. [Use \\(\\pi = \\frac{22}{7}\\) ]",
+      "questionHtml": "The radius of a cylinder is 5 cm more than its height. If the curved surface area of the cylinder is 792 cm<sup>2</sup>, then the volume of the cylinder (in cm<sup>3</sup>), is ________. [Use&nbsp;<span class=\"math-tex\">\\(\\pi = \\frac{22}{7}\\)</span> ]",
+      "options": [
+        {
+          "id": "A",
+          "text": "5306",
+          "html": "5306"
+        },
+        {
+          "id": "B",
+          "text": "5254",
+          "html": "5254"
+        },
+        {
+          "id": "C",
+          "text": "5544",
+          "html": "5544"
+        },
+        {
+          "id": "D",
+          "text": "5712",
+          "html": "5712"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let height h = 9 cm (solving h² + 5h - 126 = 0) ⇒ Radius r = h + 5 = 9 + 5 = 14 cm.</p>\n\n<p>Volume = πr²h ⇒ (22/7) × 14² × 9 = 5544 cm³.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6a6bb617085c-q25",
+      "number": 25,
+      "question": "A thief running at a speed of 8 km/h is chased by a policeman whose speed is 10 km/h. If the thief is 100 m ahead of the policeman, then the time required for the policeman to catch the thief will be:",
+      "questionHtml": "A thief running at a speed of 8 km/h is chased by a policeman whose speed is 10 km/h. If the thief is 100 m ahead of the policeman, then the time required for the policeman to catch the thief will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 minutes",
+          "html": "3 minutes"
+        },
+        {
+          "id": "B",
+          "text": "2 minutes",
+          "html": "2 minutes"
+        },
+        {
+          "id": "C",
+          "text": "6 minutes",
+          "html": "6 minutes"
+        },
+        {
+          "id": "D",
+          "text": "10 minutes",
+          "html": "10 minutes"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Relative speed = (10 - 8) km/h = 5/9 m/s</p>\n\n<p>Time = 100 ÷ (5/9) = 180 seconds</p>\n\n<p>Time = 180 ÷ 60 = 3 minutes</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

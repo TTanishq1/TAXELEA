@@ -1,0 +1,865 @@
+{
+  "id": "05ab6295bc97",
+  "provider": "RBE_Mocks",
+  "sourceFile": "CGL_2025_Memory_Based_Maths_Test-12.html",
+  "sourcePath": "RBE_MOCKS/CGL_2025_Memory_Based_Maths_Test-12.html",
+  "title": "CGL 2025 Memory Based Maths Test-12",
+  "exam": null,
+  "year": 2025,
+  "tier": null,
+  "shift": null,
+  "duration": 75,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "05ab6295bc97-q1",
+      "number": 1,
+      "question": "What will be the amount to be paid at the end of 5 years on Rs. 4500 at 10% per annum compounded annually?",
+      "questionHtml": "<p>What will be the amount to be paid at the end of 5 years on Rs. 4500 at 10% per annum compounded annually?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "7,265.3",
+          "html": "<p>7,265.3</p>"
+        },
+        {
+          "id": "B",
+          "text": "7,545.3",
+          "html": "<p>7,545.3</p>"
+        },
+        {
+          "id": "C",
+          "text": "7,247.3",
+          "html": "<p>7,247.3</p>"
+        },
+        {
+          "id": "D",
+          "text": "7,145.3",
+          "html": "<p>7,145.3</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>A = P(1 + r/100)ⁿ = 4500 × (1.10)⁵.</p><p>(1.10)⁵ ≈ 1.61051.</p><p>A = 4500 × 1.61051 ≈ ₹7,247.3.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q2",
+      "number": 2,
+      "question": "Which of the following numbers is both a Rational Number and a Terminating Decimal?",
+      "questionHtml": "<p>Which of the following numbers is both a Rational Number and a Terminating Decimal?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/3",
+          "html": "<p>1/3</p>"
+        },
+        {
+          "id": "B",
+          "text": "4/5",
+          "html": "<p>4/5</p>"
+        },
+        {
+          "id": "C",
+          "text": "√3",
+          "html": "<p>√3</p>"
+        },
+        {
+          "id": "D",
+          "text": "π",
+          "html": "<p>π</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>4/5 = 0.8, which is a rational and terminating decimal.</p><p>1/3 = 0.333… (rational but non-terminating).</p><p>√3 and π are irrational.</p><p>Hence 4/5 is correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q3",
+      "number": 3,
+      "question": "Ramesh walks at 5 km/h for 6 km and 6 km/h for 8 km. What is his average speed?",
+      "questionHtml": "<p>Ramesh walks at 5 km/h for 6 km and 6 km/h for 8 km. What is his average speed?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4.7 km/h",
+          "html": "<p>4.7 km/h</p>"
+        },
+        {
+          "id": "B",
+          "text": "6 km/h",
+          "html": "<p>6 km/h</p>"
+        },
+        {
+          "id": "C",
+          "text": "5 km/h",
+          "html": "<p>5 km/h</p>"
+        },
+        {
+          "id": "D",
+          "text": "5.53 km/h",
+          "html": "<p>5.53 km/h</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Time1 = 6/5 = 1.2 h.</p><p>Time2 = 8/6 = 4/3 h.</p><p>Total distance = 14 km. </p><p>Total time = 1.2 + 1.333 = 2.533 h.</p><p>Average speed = 14 / 2.533 ≈ 5.53 km/h.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q4",
+      "number": 4,
+      "question": "The volume of a sphere is 144π cm³. If the radius of the sphere is doubled, by what percentage does the volume increase?",
+      "questionHtml": "<p>The volume of a sphere is 144π cm³. If the radius of the sphere is doubled, by what percentage does the volume increase?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "700%",
+          "html": "<p>700%</p>"
+        },
+        {
+          "id": "B",
+          "text": "300%",
+          "html": "<p>300%</p>"
+        },
+        {
+          "id": "C",
+          "text": "400%",
+          "html": "<p>400%</p>"
+        },
+        {
+          "id": "D",
+          "text": "500%",
+          "html": "<p>500%</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Volume ∝ r³. Doubling r → volume multiplied by 8.</p><p>Increase = 7 × original volume → 700% increase.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q5",
+      "number": 5,
+      "question": "A rectangular plot has a length of 12.75 m and a width of 6.2 m. What is its area?",
+      "questionHtml": "<p>A rectangular plot has a length of 12.75 m and a width of 6.2 m. What is its area?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "79.05 m²",
+          "html": "<p>79.05 m²</p>"
+        },
+        {
+          "id": "B",
+          "text": "78.9 m²",
+          "html": "<p>78.9 m²</p>"
+        },
+        {
+          "id": "C",
+          "text": "80.2 m²",
+          "html": "<p>80.2 m²</p>"
+        },
+        {
+          "id": "D",
+          "text": "81.5 m²",
+          "html": "<p>81.5 m²</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Area = length × width = 12.75 × 6.2 = 79.05 m².</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q6",
+      "number": 6,
+      "question": "A recipe requires 0.625 liters of milk for 5 servings. How many servings can be made with 3.75 liters of milk?",
+      "questionHtml": "<p>A recipe requires 0.625 liters of milk for 5 servings. How many servings can be made with 3.75 liters of milk?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "28",
+          "html": "<p>28</p>"
+        },
+        {
+          "id": "B",
+          "text": "30",
+          "html": "<p>30</p>"
+        },
+        {
+          "id": "C",
+          "text": "32",
+          "html": "<p>32</p>"
+        },
+        {
+          "id": "D",
+          "text": "34",
+          "html": "<p>34</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Ratio: 3.75 / 0.625 = 6 times the recipe.</p><p>Servings = 6 × 5 = 30.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q7",
+      "number": 7,
+      "question": "D and E start a business with equal investments. After 4 months, D adds Rs. 10,000 more. At the end of 1 year, if the total profit is Rs. 33,000, and E's share is Rs. 15,000, what was their initial investment?",
+      "questionHtml": "<p>D and E start a business with equal investments. After 4 months, D adds Rs. 10,000 more. At the end of 1 year, if the total profit is Rs. 33,000, and E's share is Rs. 15,000, what was their initial investment?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 66,333.33",
+          "html": "<p>Rs. 66,333.33</p>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 43,333.33",
+          "html": "<p>Rs. 43,333.33</p>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 33,333.33",
+          "html": "<p>Rs. 33,333.33</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 73,333.33",
+          "html": "<p>Rs. 73,333.33</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let initial investment = x.</p><p>D's effective capital = 4x + 8(x + 10,000) = 12x + 80,000.</p><p>E's effective capital = 12x.</p><p>E's share = 15,000 → D's share = 18,000.</p><p>Ratio D:E = 18:15 = 6:5 → (12x + 80,000)/12x = 6/5.</p><p>5(12x + 80,000) = 6 × 12x → 60x + 4,00,000 = 72x → 12x = 4,00,000 → x ≈ ₹33,333.33.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q8",
+      "number": 8,
+      "question": "If x:y = 2:5, then what is (2x + 3y):(x + y)?",
+      "questionHtml": "<p>If x:y = 2:5, then what is (2x + 3y):(x + y)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "19:7",
+          "html": "<p>19:7</p>"
+        },
+        {
+          "id": "B",
+          "text": "7:19",
+          "html": "<p>7:19</p>"
+        },
+        {
+          "id": "C",
+          "text": "16:7",
+          "html": "<p>16:7</p>"
+        },
+        {
+          "id": "D",
+          "text": "7:16",
+          "html": "<p>7:16</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let x = 2k, y = 5k.</p><p>2x + 3y = 4k + 15k = 19k.</p><p>x + y = 7k.</p><p>Ratio = 19k : 7k = 19 : 7.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q9",
+      "number": 9,
+      "question": "A number is such that if you square it and then subtract twice the number, the result is 80. What is the number?",
+      "questionHtml": "<p>A number is such that if you square it and then subtract twice the number, the result is 80. What is the number?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10",
+          "html": "<p>10</p>"
+        },
+        {
+          "id": "B",
+          "text": "15",
+          "html": "<p>15</p>"
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "html": "<p>20</p>"
+        },
+        {
+          "id": "D",
+          "text": "25",
+          "html": "<p>25</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>x² − 2x = 80 </p><p> x² − 2x − 80 = 0 </p><p> (x − 10)(x + 8) = 0.</p><p>Taking the positive root, x = 10.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q10",
+      "number": 10,
+      "question": "A triangle has vertices at A(2,3), B(7,1), and C(4,6). What is its area?",
+      "questionHtml": "<p>A triangle has vertices at A(2,3), B(7,1), and C(4,6). What is its area?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "11 square units",
+          "html": "<p>11 square units</p>"
+        },
+        {
+          "id": "B",
+          "text": "9.5 square units",
+          "html": "<p>9.5 square units</p>"
+        },
+        {
+          "id": "C",
+          "text": "15.5 square units",
+          "html": "<p>15.5 square units</p>"
+        },
+        {
+          "id": "D",
+          "text": "13 square units",
+          "html": "<p>13 square units</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Area = (1/2)|x_A(y_B − y_C) + x_B(y_C − y_A) + x_C(y_A − y_B)|.</p><p>= (1/2)|2(1 − 6) + 7(6 − 3) + 4(3 − 1)|</p><p>= (1/2)|−10 + 21 + 8|</p><p>= (1/2)(19) = 9.5 sq units.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q11",
+      "number": 11,
+      "question": "A person bought a cycle at a discount of 20% on the marked price. He spent Rs. 400 on repairs and sold it for Rs. 4,800, gaining 25%. What was the marked price?",
+      "questionHtml": "<p>A person bought a cycle at a discount of 20% on the marked price. He spent Rs. 400 on repairs and sold it for Rs. 4,800, gaining 25%. What was the marked price?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 5,500",
+          "html": "<p>Rs. 5,500</p>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 6,000",
+          "html": "<p>Rs. 6,000</p>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 5,600",
+          "html": "<p>Rs. 5,600</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 4,300",
+          "html": "<p>Rs. 4,300</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>SP = ₹4,800 at 25% gain → CP_total = 4800/1.25 = 3,840.</p><p>CP_total = (MP × 0.80) + 400 = 3,840.</p><p>MP × 0.80 = 3,440 → MP = ₹4,300.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q12",
+      "number": 12,
+      "question": "A mixture contains 60% milk. If 20 liters of water is added to the 80-liter mixture, what is the new percentage of milk?",
+      "questionHtml": "<p>A mixture contains 60% milk. If 20 liters of water is added to the 80-liter mixture, what is the new percentage of milk?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "50%",
+          "html": "<p>50%</p>"
+        },
+        {
+          "id": "B",
+          "text": "48%",
+          "html": "<p>48%</p>"
+        },
+        {
+          "id": "C",
+          "text": "45%",
+          "html": "<p>45%</p>"
+        },
+        {
+          "id": "D",
+          "text": "60%",
+          "html": "<p>60%</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Milk = 60% of 80 = 48 L.</p><p>New total volume = 80 + 20 = 100 L.</p><p>New % milk = 48/100 × 100 = 48%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q13",
+      "number": 13,
+      "question": "If 15 boys can build a house in 20 days, in how many days can 20 boys complete the same work?",
+      "questionHtml": "<p>If 15 boys can build a house in 20 days, in how many days can 20 boys complete the same work?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "11",
+          "html": "<p>11</p>"
+        },
+        {
+          "id": "B",
+          "text": "13",
+          "html": "<p>13</p>"
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "html": "<p>20</p>"
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "html": "<p>15</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Total work = 15 × 20 = 300 boy-days.</p><p>Days for 20 boys = 300 / 20 = 15 days.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q14",
+      "number": 14,
+      "question": "20 men can do a piece of work in 45 days. Find the percentage amount of work done by 60 men in 6 days.",
+      "questionHtml": "<p>20 men can do a piece of work in 45 days. Find the percentage amount of work done by 60 men in 6 days.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "35.32%",
+          "html": "<p>35.32%</p>"
+        },
+        {
+          "id": "B",
+          "text": "31.21%",
+          "html": "<p>31.21%</p>"
+        },
+        {
+          "id": "C",
+          "text": "40%",
+          "html": "<p>40%</p>"
+        },
+        {
+          "id": "D",
+          "text": "33.33%",
+          "html": "<p>33.33%</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Total work = 20 × 45 = 900 man-days.</p><p>Work done = 60 × 6 = 360 man-days.</p><p>% work done = 360/900 × 100 = 40%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q15",
+      "number": 15,
+      "question": "The base of a prism is a rectangle whose length is twice its width. The perimeter of the base is 30 cm. The prism's height decreases in an arithmetic progression from 15 cm in the first layer to 9 cm in the fourth layer. What is the total volume of the prism?",
+      "questionHtml": "<p>The base of a prism is a rectangle whose length is twice its width. The perimeter of the base is 30 cm. The prism's height decreases in an arithmetic progression from 15 cm in the first layer to 9 cm in the fourth layer. What is the total volume of the prism?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1800 cm³",
+          "html": "<p>1800 cm³</p>"
+        },
+        {
+          "id": "B",
+          "text": "2100 cm³",
+          "html": "<p>2100 cm³</p>"
+        },
+        {
+          "id": "C",
+          "text": "2400 cm³",
+          "html": "<p>2400 cm³</p>"
+        },
+        {
+          "id": "D",
+          "text": "2700 cm³",
+          "html": "<p>2700 cm³</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Perimeter = 2(L + W) = 30 → L + W = 15. With L = 2W, W = 5, L = 10.</p><p>Base area = 50 cm².</p><p>Heights AP: 15, 13, 11, 9 (four layers).</p><p>Total height = 15 + 13 + 11 + 9 = 48 cm.</p><p>Volume = 50 × 48 = 2,400 cm³.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q16",
+      "number": 16,
+      "question": "A merchant wants to mix two types of tea priced at Rs. 300/kg and Rs. 240/kg. In what ratio should they be mixed to sell the mixture at Rs. 270/kg without profit or loss?",
+      "questionHtml": "<p>A merchant wants to mix two types of tea priced at Rs. 300/kg and Rs. 240/kg. In what ratio should they be mixed to sell the mixture at Rs. 270/kg without profit or loss?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1:1",
+          "html": "<p>1:1</p>"
+        },
+        {
+          "id": "B",
+          "text": "2:1",
+          "html": "<p>2:1</p>"
+        },
+        {
+          "id": "C",
+          "text": "3:2",
+          "html": "<p>3:2</p>"
+        },
+        {
+          "id": "D",
+          "text": "1:2",
+          "html": "<p>1:2</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Alligation: (300 − 270) : (270 − 240) = 30 : 30 = 1 : 1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q17",
+      "number": 17,
+      "question": "The average marks of 30 students in a class is 62. If the marks of one student were wrongly entered as 82 instead of 62, what is the CORRECT average?",
+      "questionHtml": "<p>The average marks of 30 students in a class is 62. If the marks of one student were wrongly entered as 82 instead of 62, what is the CORRECT average?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "61.33",
+          "html": "<p>61.33</p>"
+        },
+        {
+          "id": "B",
+          "text": "61.67",
+          "html": "<p>61.67</p>"
+        },
+        {
+          "id": "C",
+          "text": "61",
+          "html": "<p>61</p>"
+        },
+        {
+          "id": "D",
+          "text": "60.35",
+          "html": "<p>60.35</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Wrong total = 30 × 62 = 1860.</p><p>Difference = 82 − 62 = 20 (over-count).</p><p>Correct total = 1860 − 20 = 1840.</p><p>Correct average = 1840 / 30 ≈ 61.33.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q18",
+      "number": 18,
+      "question": "If sinA + cosA = √2/2, find the value of sin²A + cos²A + 2sinAcosA.",
+      "questionHtml": "<p>If sinA + cosA = √2/2, find the value of sin²A + cos²A + 2sinAcosA.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "<p>1</p>"
+        },
+        {
+          "id": "B",
+          "text": "√2",
+          "html": "<p>√2</p>"
+        },
+        {
+          "id": "C",
+          "text": "3/4",
+          "html": "<p>3/4</p>"
+        },
+        {
+          "id": "D",
+          "text": "1/2",
+          "html": "<p>1/2</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>sin²A + cos²A + 2sinAcosA = (sinA + cosA)².</p><p>= (√2/2)² = 2/4 = 1/2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q19",
+      "number": 19,
+      "question": "Find the point where y = 5x − 10 crosses the x-axis.",
+      "questionHtml": "<p>Find the point where y = 5x − 10 crosses the x-axis.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(2, 0)",
+          "html": "<p>(2, 0)</p>"
+        },
+        {
+          "id": "B",
+          "text": "(0, −10)",
+          "html": "<p>(0, −10)</p>"
+        },
+        {
+          "id": "C",
+          "text": "(−2, 0)",
+          "html": "<p>(−2, 0)</p>"
+        },
+        {
+          "id": "D",
+          "text": "(2, 10)",
+          "html": "<p>(2, 10)</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>A line crosses the x-axis where y = 0.</p><p>0 = 5x − 10 → x = 2.</p><p>Hence the point is (2, 0).</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q20",
+      "number": 20,
+      "question": "The sum of the measures of 7 interior angles of an 8-sided polygon is 1,000°. What is the measure of the 8th exterior angle?",
+      "questionHtml": "<p>The sum of the measures of 7 interior angles of an 8-sided polygon is 1,000°. What is the measure of the 8th exterior angle?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1080°",
+          "html": "<p>1080°</p>"
+        },
+        {
+          "id": "B",
+          "text": "108°",
+          "html": "<p>108°</p>"
+        },
+        {
+          "id": "C",
+          "text": "100°",
+          "html": "<p>100°</p>"
+        },
+        {
+          "id": "D",
+          "text": "80°",
+          "html": "<p>80°</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Sum of all interior angles of an 8-gon = (8 − 2) × 180° = 1080°.</p><p>8th interior angle = 1080° − 1000° = 80°.</p><p>8th exterior angle = 180° − 80° = 100°.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q21",
+      "number": 21,
+      "question": "Two triangles, △PQR and △STU, have PQ = ST, PR = SU, and ∠QPR = ∠TSU. By what rule are they congruent?",
+      "questionHtml": "<p>Two triangles, △PQR and △STU, have PQ = ST, PR = SU, and ∠QPR = ∠TSU. By what rule are they congruent?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "SSS",
+          "html": "<p>SSS</p>"
+        },
+        {
+          "id": "B",
+          "text": "SAS",
+          "html": "<p>SAS</p>"
+        },
+        {
+          "id": "C",
+          "text": "ASA",
+          "html": "<p>ASA</p>"
+        },
+        {
+          "id": "D",
+          "text": "AAS",
+          "html": "<p>AAS</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Two sides and the included angle of one triangle are equal to those of the other.</p><p>This is the SAS (Side-Angle-Side) congruence rule.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q22",
+      "number": 22,
+      "question": "Simplify: [√(5 + 2√6) + √(5 − 2√6)] / √2",
+      "questionHtml": "<p>Simplify: [√(5 + 2√6) + √(5 − 2√6)] / √2</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2√3",
+          "html": "<p>2√3</p>"
+        },
+        {
+          "id": "B",
+          "text": "√6",
+          "html": "<p>√6</p>"
+        },
+        {
+          "id": "C",
+          "text": "√5",
+          "html": "<p>√5</p>"
+        },
+        {
+          "id": "D",
+          "text": "3√2",
+          "html": "<p>3√2</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>5 + 2√6 = (√3 + √2)² → √(5 + 2√6) = √3 + √2.</p><p>5 − 2√6 = (√3 − √2)² → √(5 − 2√6) = √3 − √2.</p><p>Sum = 2√3.</p><p>Divided by √2: 2√3/√2 = √(4 × 3/2) = √6.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q23",
+      "number": 23,
+      "question": "A chord subtends an angle of 70° at the center of a circle. What is the measure of the angle subtended by the same chord at any point on the remaining part of the circle?",
+      "questionHtml": "<p>A chord subtends an angle of 70° at the center of a circle. What is the measure of the angle subtended by the same chord at any point on the remaining part of the circle?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "35°",
+          "html": "<p>35°</p>"
+        },
+        {
+          "id": "B",
+          "text": "70°",
+          "html": "<p>70°</p>"
+        },
+        {
+          "id": "C",
+          "text": "140°",
+          "html": "<p>140°</p>"
+        },
+        {
+          "id": "D",
+          "text": "105°",
+          "html": "<p>105°</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The angle subtended at the centre is twice the angle subtended at the remaining circumference.</p><p>70°/2 = 35°.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q24",
+      "number": 24,
+      "question": "A circle is inscribed in a regular pentagon. What is the angle subtended by one side of the pentagon at the center of the circle?",
+      "questionHtml": "<p>A circle is inscribed in a regular pentagon. What is the angle subtended by one side of the pentagon at the center of the circle?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "36°",
+          "html": "<p>36°</p>"
+        },
+        {
+          "id": "B",
+          "text": "54°",
+          "html": "<p>54°</p>"
+        },
+        {
+          "id": "C",
+          "text": "72°",
+          "html": "<p>72°</p>"
+        },
+        {
+          "id": "D",
+          "text": "108°",
+          "html": "<p>108°</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>A regular pentagon's sides subtend equal angles at the centre of the inscribed circle.</p><p>Total = 360° / 5 = 72°.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "05ab6295bc97-q25",
+      "number": 25,
+      "question": "If sin x = 1/√10, then find sec x in simplest form.",
+      "questionHtml": "<p>If sin x = 1/√10, then find sec x in simplest form.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "√10",
+          "html": "<p>√10</p>"
+        },
+        {
+          "id": "B",
+          "text": "1/√10",
+          "html": "<p>1/√10</p>"
+        },
+        {
+          "id": "C",
+          "text": "√10/3",
+          "html": "<p>√10/3</p>"
+        },
+        {
+          "id": "D",
+          "text": "3/√10",
+          "html": "<p>3/√10</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>sin x = 1/√10 → opp = 1, hyp = √10.</p><p>adj = √(10 − 1) = 3.</p><p>cos x = 3/√10 → sec x = √10/3.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}
