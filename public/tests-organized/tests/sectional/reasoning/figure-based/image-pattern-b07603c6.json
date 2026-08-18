@@ -1,0 +1,1613 @@
+{
+  "id": "b07603c642cb",
+  "provider": "RBE_Mocks",
+  "sourceFile": "Image_pattern.html",
+  "sourcePath": "RBE_MOCKS/Image_pattern.html",
+  "title": "Image pattern",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 47,
+  "questions": [
+    {
+      "id": "b07603c642cb-q1",
+      "number": 1,
+      "question": "Which figure breaks the pattern? ⬜⬜⬛⬜⬜⬛⬜⬜⬛⬜⬛",
+      "questionHtml": "<p>Which figure breaks the pattern? ⬜⬜⬛⬜⬜⬛⬜⬜⬛⬜⬛ </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 th ⬛",
+          "html": "<p>6 th ⬛ </p>"
+        },
+        {
+          "id": "B",
+          "text": "3 rd ⬛",
+          "html": "<p>3 rd ⬛ </p>"
+        },
+        {
+          "id": "C",
+          "text": "9 th ⬛",
+          "html": "<p>9 th ⬛ </p>"
+        },
+        {
+          "id": "D",
+          "text": "11 th ⬛",
+          "html": "<p>11 th ⬛ </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Sequence: ⬜⬜⬛ ⬜⬜⬛ ⬜⬜⬛ ⬜⬛ </p><p>We observe a repeating block: ⬜⬜⬛ repeated three times (positions 1–3, 4–6, 7–9) </p><p>Then comes: ⬜⬛ (positions 10–11) — this breaks the expected pattern. </p><p>So, the 11th ⬛ is the anomaly — it appears too early, disrupting the expected third white square before the black. </p><p>Correct answer: 11th ⬛ </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q2",
+      "number": 2,
+      "question": "P, Q and R together have 180 candies among them. P gives Q and R each as many candies as they already have. After this, R gives Q half as many candies as Q already has, and R also gives P twice as many candies as P already has. Now each of them has the same number of candies with them. What is the ratio of the respective number of candies P and R had initially?",
+      "questionHtml": "<p>P, Q and R together have 180 candies among them. P gives Q and R each as many candies as they already have. After this, R gives Q half as many candies as Q already has, and R also gives P twice as many candies as P already has. Now each of them has the same number of candies with them. What is the ratio of the respective number of candies P and R had initially? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 : 5",
+          "html": "<p>2 : 5 </p>"
+        },
+        {
+          "id": "B",
+          "text": "4 : 1",
+          "html": "<p>4 : 1 </p>"
+        },
+        {
+          "id": "C",
+          "text": "5 : 3",
+          "html": "<p>5 : 3 </p>"
+        },
+        {
+          "id": "D",
+          "text": "3 : 2",
+          "html": "<p>3 : 2 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Given: p + q + r = 180 </p><p>Step 1: P gives Q and R as many candies as they already have </p><p>→ Q = q + q = 2q </p><p>→ R = r + r = 2r </p><p>→ P = p – (q + r) </p><p>Step 2: R gives Q half of Q’s current (2q) → gives q </p><p>→ Q = 2q + q = 3q </p><p>→ R = 2r – q </p><p>Then R gives P twice of P’s current (p – q – r) </p><p>→ gives 2(p – q – r) </p><p>→ P = p – (q + r) + 2(p – q – r) = 3p – 3q – 3r </p><p>→ R = [2r – q] – 2(p – q – r) = 4r + q – 2p </p><p>Final values: P = 3p – 3q – 3r </p><p>Q = 3q </p><p>R = 4r + q – 2p </p><p>All equal ⇒ set P = Q and P = R </p><p>Equation 1: 3p – 3q – 3r = 3q </p><p>⇒ 3p = 6q + 3r </p><p>⇒ p = 2q + r </p><p>Equation 2: 3p – 3q – 3r = 4r + q – 2p ⇒ 5p = 4q + 7r </p><p>Substitute p = 2q + r into Equation 2: 5(2q + r) = 4q + 7r </p><p>⇒ 10q + 5r = 4q + 7r </p><p>⇒ 6q = 2r ⇒ r = 3q </p><p>Then p = 2q + r = 2q + 3q = 5q </p><p>Required ratio: P : R = p : r = 5q : 3q = 5 : 3 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q3",
+      "number": 3,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image001.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image001.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image002.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image002.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image003.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image003.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image004.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image004.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image005.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image005.jpeg"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>? = Rotating in clockwise direction, so the question mark will come in third block. </p><p>Only, option( 4) satisfies. </p><p>Therefore, option( 4) is the answer. </p><p>(Question is ambiguous option( a) could also be the solution. We are providing as per the official answerkey .) </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q4",
+      "number": 4,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image006.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image006.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "B",
+          "html": "<p>B </p>"
+        },
+        {
+          "id": "B",
+          "text": "D",
+          "html": "<p>D </p>"
+        },
+        {
+          "id": "C",
+          "text": "C",
+          "html": "<p>C </p>"
+        },
+        {
+          "id": "D",
+          "text": "A",
+          "html": "<p>A </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>No. of sides of polygon = No. of arrows </p><p>This logic follows in all, except in (c). </p><p>Therefore, (c) is odd one out. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q5",
+      "number": 5,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image007.jpeg",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image007.jpeg",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "<p>3 </p>"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "<p>4 </p>"
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "html": "<p>1 </p>"
+        },
+        {
+          "id": "D",
+          "text": "5",
+          "html": "<p>5 </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Heart can be bifurcated into 2 equal parts that can overlap on top of each other. </p><p>Similarly, the club can also be divided in three parts that can overlap on top of each other. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q6",
+      "number": 6,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image008.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image008.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image009.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image009.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image010.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image010.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image011.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image011.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image012.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image012.jpeg"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Dot appears alternatively in figures. </p><p>The shaded portion moves in clockwise direction. </p><p>Therefore, all other options eliminated, the correct answer is option( b). </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q7",
+      "number": 7,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image013.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image013.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "C",
+          "html": "<p>C </p>"
+        },
+        {
+          "id": "B",
+          "text": "B",
+          "html": "<p>B </p>"
+        },
+        {
+          "id": "C",
+          "text": "D",
+          "html": "<p>D </p>"
+        },
+        {
+          "id": "D",
+          "text": "A",
+          "html": "<p>A </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Shaded circle moves in clockwise direction and square is also moving in clockwise direction. </p><p>Apart from option( d) all other options eliminated. </p><p>Therefore, option( d) is correct answer. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q8",
+      "number": 8,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image014.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image014.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "A",
+          "html": "<p>A </p>"
+        },
+        {
+          "id": "B",
+          "text": "B",
+          "html": "<p>B </p>"
+        },
+        {
+          "id": "C",
+          "text": "C",
+          "html": "<p>C </p>"
+        },
+        {
+          "id": "D",
+          "text": "D",
+          "html": "<p>D </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>In all the figures, the arrows are coming out from the corners of the polygons, except in figure in (c). </p><p>Therefore, option(c) is odd one out. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q9",
+      "number": 9,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image015.jpeg",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image015.jpeg",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "<p>5 </p>"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "<p>6 </p>"
+        },
+        {
+          "id": "C",
+          "text": "7",
+          "html": "<p>7 </p>"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "<p>4 </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Logic: Number of sides of polygon </p><p>Rectangle has four sides. </p><p>Therefore, correct answer is 4. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q10",
+      "number": 10,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image016.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image016.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "B",
+          "html": "<p>B </p>"
+        },
+        {
+          "id": "B",
+          "text": "A",
+          "html": "<p>A </p>"
+        },
+        {
+          "id": "C",
+          "text": "C",
+          "html": "<p>C </p>"
+        },
+        {
+          "id": "D",
+          "text": "D",
+          "html": "<p>D </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Both shaded circle and triangle are moving in clockwise direction. </p><p>Therefore, the correct answer is option( b). </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q11",
+      "number": 11,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image017.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image017.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image018.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image018.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image019.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image019.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image020.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image020.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image021.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image021.jpeg"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image020.jpeg",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q12",
+      "number": 12,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image022.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image022.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "<p>1 </p>"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "<p>2 </p>"
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "html": "<p>3 </p>"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "<p>4 </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The elements are rotating in clockwise direction. </p><p>In each subsequent figure, a new element gets add up. </p><p>Only one element is moving at a time in the figure in arithmetic progression, first 1 space, then 2 spaces, then 3 spaces and soon. </p><p>So, the correct figure is option( d). </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q13",
+      "number": 13,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image023.jpeg",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image023.jpeg",
+      "options": [
+        {
+          "id": "A",
+          "text": "▮",
+          "html": "<p>▮ </p>"
+        },
+        {
+          "id": "B",
+          "text": "▲",
+          "html": "<p>▲ </p>"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image024.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image024.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "⬟",
+          "html": "<p>⬟ </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is option( a). </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q14",
+      "number": 14,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image025.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image025.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cube",
+          "html": "<p>Cube </p>"
+        },
+        {
+          "id": "B",
+          "text": "Cuboid",
+          "html": "<p>Cuboid </p>"
+        },
+        {
+          "id": "C",
+          "text": "Pyramid",
+          "html": "<p>Pyramid </p>"
+        },
+        {
+          "id": "D",
+          "text": "Tetrahedron",
+          "html": "<p>Tetrahedron </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>If we fold the given shape it will give the structure of pyramid. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q15",
+      "number": 15,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image026.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image026.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image027.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image027.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image028.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image028.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image029.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image029.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image030.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image030.jpeg"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is: (b) </p><p>Figure (c), there is square, inside the square there is shaded square. Similarly, in the next figure, there should be a figure inside which there is a shaded figure. Only option( b) satisfies that. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q16",
+      "number": 16,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image031.jpeg",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image031.jpeg",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image032.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image032.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "▮",
+          "html": "<p>▮ </p>"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image033.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image033.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image034.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image034.jpeg"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image032.jpeg",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q17",
+      "number": 17,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image035.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image035.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "C",
+          "html": "<p>C </p>"
+        },
+        {
+          "id": "B",
+          "text": "D",
+          "html": "<p>D </p>"
+        },
+        {
+          "id": "C",
+          "text": "B",
+          "html": "<p>B </p>"
+        },
+        {
+          "id": "D",
+          "text": "A",
+          "html": "<p>A </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The number of triangles increases alternatively and when the triangles add up, there is no movement of the elements and vice-versa. </p><p>Therefore, the correct answer is (b). </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q18",
+      "number": 18,
+      "question": "Which figure breaks the 3D classification rule?",
+      "questionHtml": "<p>Which figure breaks the 3D classification rule? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image036.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image036.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image037.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image037.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image038.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image038.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image039.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image039.jpeg"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Circle has no edges, hence it will be odd one out. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q19",
+      "number": 19,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image040.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image040.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "D",
+          "html": "<p>D </p>"
+        },
+        {
+          "id": "B",
+          "text": "B",
+          "html": "<p>B </p>"
+        },
+        {
+          "id": "C",
+          "text": "C",
+          "html": "<p>C </p>"
+        },
+        {
+          "id": "D",
+          "text": "A",
+          "html": "<p>A </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Z → consonant </p><p>Y → consonant </p><p>A → vowel </p><p>L → consonant </p><p>Here, only A is a vowel , while the others are consonants. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q20",
+      "number": 20,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image041.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image041.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "B",
+          "html": "<p>B </p>"
+        },
+        {
+          "id": "B",
+          "text": "D",
+          "html": "<p>D </p>"
+        },
+        {
+          "id": "C",
+          "text": "C",
+          "html": "<p>C </p>"
+        },
+        {
+          "id": "D",
+          "text": "A",
+          "html": "<p>A </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image042.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q21",
+      "number": 21,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image043.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image043.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "D",
+          "html": "<p>D </p>"
+        },
+        {
+          "id": "B",
+          "text": "C",
+          "html": "<p>C </p>"
+        },
+        {
+          "id": "C",
+          "text": "B",
+          "html": "<p>B </p>"
+        },
+        {
+          "id": "D",
+          "text": "A",
+          "html": "<p>A </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Only figure D contains the digit 1 (bottom row: 1, 2, 3). <br/>Figures A, B, and C have numbers ≥ 3 and do not include 1. Hence D is the odd one out. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q22",
+      "number": 22,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image044.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image044.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "30",
+          "html": "<p>30 </p>"
+        },
+        {
+          "id": "B",
+          "text": "14",
+          "html": "<p>14 </p>"
+        },
+        {
+          "id": "C",
+          "text": "9",
+          "html": "<p>9 </p>"
+        },
+        {
+          "id": "D",
+          "text": "36",
+          "html": "<p>36 </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image045.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q23",
+      "number": 23,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image046.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image046.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image047.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image047.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image048.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image048.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image049.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image049.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image050.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image050.jpeg"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>2 upright triangles → 1 inverted triangle → 2 upright triangles → 1 inverted triangle → … </p><p>Following this sequence, after the last inverted triangle, the next should be: Upright triangle </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q24",
+      "number": 24,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image051.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image051.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "<p>3 </p>"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "<p>1 </p>"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "<p>2 </p>"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "<p>4 </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>4 dots lie opposite to the face having five dots. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q25",
+      "number": 25,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image052.jpeg",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image052.jpeg",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image053.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image053.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image054.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image054.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image055.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image055.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image056.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image056.jpeg"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image053.jpeg",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q26",
+      "number": 26,
+      "question": "Choose the figure which is different from the rest?",
+      "questionHtml": "<p>Choose the figure which is different from the rest? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image057.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image057.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image058.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image058.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image059.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image059.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image060.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image060.jpeg"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image059.jpeg",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q27",
+      "number": 27,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image061.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image061.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image062.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image062.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image063.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image063.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image064.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image064.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image065.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image065.jpeg"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image066.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q28",
+      "number": 28,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image067.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image067.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image068.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image068.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image069.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image069.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image070.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image070.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image071.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image071.jpeg"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Solution: <br/>shows a simple triangle . <br/>adds the internal lines (medians) to the triangle. <br/>shows a simple diamond (square rotated 45°). <br/>So add the internal lines to the diamond → draw its two diagonals . </p><p>Answer: A diamond with both diagonals drawn (forming 4 small triangles inside). </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q29",
+      "number": 29,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image072.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image072.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image073.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image073.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image074.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image074.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image075.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image075.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image076.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image076.jpeg"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image076.jpeg",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q30",
+      "number": 30,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image077.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image077.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image078.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image078.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image079.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image079.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image080.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image080.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image081.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image081.jpeg"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image082.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q31",
+      "number": 31,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image083.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image083.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "C",
+          "html": "<p>C </p>"
+        },
+        {
+          "id": "B",
+          "text": "B",
+          "html": "<p>B </p>"
+        },
+        {
+          "id": "C",
+          "text": "D",
+          "html": "<p>D </p>"
+        },
+        {
+          "id": "D",
+          "text": "A",
+          "html": "<p>A </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Solution: </p><p>Inner polygon increases sides 3 → 4 → 5 → 6 , so next is a hexagon . </p><p>The small black dot stays on the right side (top-right region in the given sequence). </p><p>Hence: hexagon at upper-left, dot at upper-right . </p><p>Answer: B </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q32",
+      "number": 32,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image084.jpeg",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image084.jpeg",
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "html": "<p>4 </p>"
+        },
+        {
+          "id": "B",
+          "text": "7",
+          "html": "<p>7 </p>"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "<p>5 </p>"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "<p>6 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>A triangle has 3 sides . <br/>A pentagon has 5 sides . <br/><br/>So, △ : 3 :: ⬡ : 5. <br/><br/>Correct Answer = 5 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q33",
+      "number": 33,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image085.jpeg",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image085.jpeg",
+      "options": [
+        {
+          "id": "A",
+          "text": "A",
+          "html": "<p>A </p>"
+        },
+        {
+          "id": "B",
+          "text": "C",
+          "html": "<p>C </p>"
+        },
+        {
+          "id": "C",
+          "text": "D",
+          "html": "<p>D </p>"
+        },
+        {
+          "id": "D",
+          "text": "B",
+          "html": "<p>B </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Solution: </p><p>Inner shape sides go 6 → 5 → 4 → _ , so next must have 3 sides → Triangle . </p><p>Black dot moves one corner clockwise : top-right → bottom-right → bottom-left → _ , so next is top-left . </p><p>Hence the next figure is a triangle with the dot at the top-left corner . </p><p>Answer: C </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q34",
+      "number": 34,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image086.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image086.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image087.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image087.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image088.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image088.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image089.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image089.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image090.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image090.jpeg"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>From this, each face’s adjacents are: </p><p>2 is adjacent to 6, 4, 1, 3 ⇒ 2’s opposite = 5 </p><p>3 is adjacent to 1, 2, 5, 6 ⇒ 3’s opposite = 4 </p><p>6 is adjacent to 2, 4, 5, 3 ⇒ 6’s opposite = 1 </p><p>So the opposite pairs are: (2–5), (3–4), (6–1). </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q35",
+      "number": 35,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image091.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image091.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image092.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image092.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image093.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image093.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image094.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image094.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image095.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image095.jpeg"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The 3rd figure (the diamond) is the odd one. <br/>Logic: It’s the only square rotated by 45° (a diamond). The other three are upright squares aligned with the axes. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q36",
+      "number": 36,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image096.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image096.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image097.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image097.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image098.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image098.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image099.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image099.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image100.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image100.jpeg"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image099.jpeg",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q37",
+      "number": 37,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image101.jpeg",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image101.jpeg",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image102.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image102.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image103.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image103.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image104.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image104.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image105.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image105.jpeg"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The sequence is showing a diamond shape with a circle moving around it step by step . At the same time, the lines inside the diamond are increasing one by one . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q38",
+      "number": 38,
+      "question": "Which figure does n’t belong based on vertices?",
+      "questionHtml": "<p>Which figure does n’t belong based on vertices? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image106.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image106.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image107.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image107.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image108.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image108.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image109.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image109.jpeg"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The star (Option 1) is different because it has both concave and convex vertices due to its intersecting structure. The other figures (pentagon, hexagon, octagon) are regular polygons having only convex vertices . Hence, based on vertex property, the odd figure is the star . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q39",
+      "number": 39,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image110.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image110.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image111.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image111.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image112.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image112.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image113.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image113.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image114.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image114.png"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Logic: </p><p>In the 1st step, the shading is done in the next adjacent part (gap of 0). </p><p>In the 2nd step, shading moves with a gap of 1 part . </p><p>In the 3rd step, shading moves with a gap of 2 parts . </p><p>In the 4th step, shading moves with a gap of 3 parts . </p><p>Therefore, in the next step, the shading will move with a gap of 4 parts anticlockwise . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q40",
+      "number": 40,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image115.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image115.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "25",
+          "html": "<p>25 </p>"
+        },
+        {
+          "id": "B",
+          "text": "24",
+          "html": "<p>24 </p>"
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "html": "<p>20 </p>"
+        },
+        {
+          "id": "D",
+          "text": "27",
+          "html": "<p>27 </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Step 1: Count all the smallest triangles = 16. <br/>Step 2: Count all medium-sized triangles (formed by combining 2 or 3 small ones) = 7. <br/>Step 3: Count larger triangles (formed by combining rows) = 3. <br/>Step 4: Count the largest whole triangle = 1. <br/>Total = 16 + 7 + 3 + 1 = 27 triangles . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q41",
+      "number": 41,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image116.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image116.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "10",
+          "html": "<p>10 </p>"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "<p>4 </p>"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "<p>5 </p>"
+        },
+        {
+          "id": "D",
+          "text": "12",
+          "html": "<p>12 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Count the straight lines: - 3 lines of the main triangle (two slanted + base). - 1 vertical line inside the triangle. - 1 slanting line crossing from top left. Total = 5 straight lines . Hence, the correct answer is Option 3 (5) . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q42",
+      "number": 42,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image117.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image117.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image118.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image118.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image119.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image119.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image120.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image120.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image121.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image121.png"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Logic: <br/>In this series, new symbols are being added one by one to the right. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q43",
+      "number": 43,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image122.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image122.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image123.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image123.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image124.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image124.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image125.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image125.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image126.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image126.jpeg"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>In Figure A , the line is outside the square , and in Figure B it moves inside the square . The relationship is \"outside element becomes inside element.\" <br/>Similarly, in Figure C , the arrow is outside the square , so in Figure D , the arrow must appear inside the square at the same relative position. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q44",
+      "number": 44,
+      "question": "Choose the figure which is different from the rest?",
+      "questionHtml": "<p>Choose the figure which is different from the rest? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image127.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image127.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image128.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image128.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image129.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image129.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image130.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image130.jpeg"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Options 1, 2, and 4 follow a balanced arrangement of shapes (equal number of circles, squares, and diamonds). But in Option 3 , the number of circles is more than the others , which breaks the uniform pattern. Therefore, the odd figure is Option 3 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q45",
+      "number": 45,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image131.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image131.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image132.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image132.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image133.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image133.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image134.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image134.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image135.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image135.png"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The circles are moving clockwise around the rectangle in each step. </p><p>1st figure: Two circles are at the top side . </p><p>2nd figure: They move to the top-right corner . </p><p>3rd figure: They move to the right side . </p><p>4th figure: They move to the bottom-right corner . </p><p>5th figure (missing): Next position will be the bottom side . </p><p>Correct answer: Two circles will be at the bottom side of the rectangle. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q46",
+      "number": 46,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image136.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image136.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image137.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image137.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image138.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image138.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image139.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image139.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image140.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image140.jpeg"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>A → B is rotated 90° clockwise . <br/>So, C will also rotate 90° clockwise to form \"┐\"-shaped figure. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b07603c642cb-q47",
+      "number": 47,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image141.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image141.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image142.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image142.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image143.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image143.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image144.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image144.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image145.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756629192636_image145.png"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The figure is rotating 45° anti-clockwise in each step </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

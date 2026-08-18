@@ -1,0 +1,867 @@
+{
+  "id": "dd18d1577a8f",
+  "provider": "Testbook",
+  "sourceFile": "PYST_79_SSC_CGL_2024_Quantitative_Aptitude_Held_On_26_Sept_2024.html",
+  "sourcePath": "Testbook/files/PYST_79_SSC_CGL_2024_Quantitative_Aptitude_Held_On_26_Sept_2024.html",
+  "title": "PYST 79: SSC CGL 2024 - Quantitative Aptitude (Held On 26 Sept, 2024 Shift 1)",
+  "exam": "SSC CGL",
+  "year": 2024,
+  "tier": null,
+  "shift": "Shift 1",
+  "duration": 48,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "dd18d1577a8f-q1",
+      "number": 1,
+      "question": "Annual income of five schools (in lakhs) Source of Income Schools X Y Z U V Tuition Fee 13 26 15 17 16 Semester Fee 43 56 39 89 59 Donation 14 17 14 50 19 Miscellaneous 25 18 29 13 23 Total 95 117 97 169 117 In case of how many schools, the income by semester fee, is less than three times of donation?",
+      "questionHtml": "Annual income of five schools (in lakhs)\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Source of Income</th>\n\t\t\t<th>Schools</th>\n\t\t\t<th>X</th>\n\t\t\t<th>Y</th>\n\t\t\t<th>Z</th>\n\t\t\t<th>U</th>\n\t\t\t<th>V</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Tuition Fee</td>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>13</td>\n\t\t\t<td>26</td>\n\t\t\t<td>15</td>\n\t\t\t<td>17</td>\n\t\t\t<td>16</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Semester Fee</td>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>43</td>\n\t\t\t<td>56</td>\n\t\t\t<td>39</td>\n\t\t\t<td>89</td>\n\t\t\t<td>59</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Donation</td>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>14</td>\n\t\t\t<td>17</td>\n\t\t\t<td>14</td>\n\t\t\t<td>50</td>\n\t\t\t<td>19</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Miscellaneous</td>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>25</td>\n\t\t\t<td>18</td>\n\t\t\t<td>29</td>\n\t\t\t<td>13</td>\n\t\t\t<td>23</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><strong>Total</strong></td>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td>95</td>\n\t\t\t<td>117</td>\n\t\t\t<td>97</td>\n\t\t\t<td>169</td>\n\t\t\t<td>117</td>\n\t\t</tr>\n\t</tbody>\n</table>\nIn case of how many schools, the income by semester fee, is less than three times of donation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "html": "3"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>For School X: SF = 43, D = 14, 3D = 14 × 3 = 42, 43 > 42 (Not satisfied)</p>\n\n<p>For School Y: SF = 56, D = 17, 3D = 17 × 3 = 51, 56 > 51 (Not satisfied)</p>\n\n<p>For School Z: SF = 39, D = 14, 3D = 14 × 3 = 42, 39 < 42 (Satisfied)</p>\n\n<p>For School U: SF = 89, D = 50, 3D = 50 × 3 = 150, 89 < 150 (Satisfied)</p>\n\n<p>For School V: SF = 59, D = 19, 3D = 19 × 3 = 57, 59 > 57 (Not satisfied)</p>\n\n<p>Condition satisfied for 2 schools: Z, U</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q2",
+      "number": 2,
+      "question": "Study the given table and answer the question that follows. The following table shows the percentage distribution of students in four different schools during the years 2021-22. Year School 1 School 2 School 3 School 4 2021 28 25 24 23 2022 27 28 23 22 If there was a total number of 16,000 and 18,000 students during the years 2021 and 2022 respectively, then the difference in number of students in school 4 in 2022 with respect to 2021 is:",
+      "questionHtml": "Study the given table and answer the question that follows.<br />\nThe following table shows the percentage distribution of students in four different schools during the years 2021-22.\n<div class=\"flex max-w-full flex-col flex-grow\">\n<div class=\"min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5\" data-message-author-role=\"assistant\" data-message-id=\"d76b08a8-cfb3-42d7-98e7-4e8f5236eee4\" data-message-model-slug=\"gpt-4o\" dir=\"auto\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\">\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Year</th>\n\t\t\t<th>School 1</th>\n\t\t\t<th>School 2</th>\n\t\t\t<th>School 3</th>\n\t\t\t<th>School 4</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">2021</td>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">25</td>\n\t\t\t<td style=\"text-align: center;\">24</td>\n\t\t\t<td style=\"text-align: center;\">23</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">2022</td>\n\t\t\t<td style=\"text-align: center;\">27</td>\n\t\t\t<td style=\"text-align: center;\">28</td>\n\t\t\t<td style=\"text-align: center;\">23</td>\n\t\t\t<td style=\"text-align: center;\">22</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\nIf there was a total number of 16,000 and 18,000 students during the years 2021 and 2022 respectively, then the difference in number of students in school 4 in 2022 with respect to 2021 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "240",
+          "html": "240"
+        },
+        {
+          "id": "B",
+          "text": "280",
+          "html": "280"
+        },
+        {
+          "id": "C",
+          "text": "180",
+          "html": "180"
+        },
+        {
+          "id": "D",
+          "text": "380",
+          "html": "380"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Students in 2021 = (23 × 16,000) / 100 = 3,680</p>\n\n<p>Students in 2022 = (22 × 18,000) / 100 = 3,960</p>\n\n<p>Difference = 3,960 - 3,680 = 280</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q3",
+      "number": 3,
+      "question": "For triangles, which of the following statement(s) are true? (a) Sum of interior angles is 180&deg;. (b) All interior angles can&rsquo;t be equal. (c) Can have at the most one obtuse angle. (d) Sum of two sides may or may not be equal to the third side.",
+      "questionHtml": "<p>For triangles, which of the following statement(s) are true?<br />\n(a) Sum of interior angles is 180&deg;.<br />\n(b) All interior angles can&rsquo;t be equal.<br />\n(c) Can have at the most one obtuse angle.<br />\n(d) Sum of two sides may or may not be equal to the third side.</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "(a) and (b)",
+          "html": "&nbsp;(a) and (b)"
+        },
+        {
+          "id": "B",
+          "text": "(b), (c) and (d)",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">(b), (c) and (d)</span>"
+        },
+        {
+          "id": "C",
+          "text": "(a), (b) and (d)",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">(a), (b) and (d)</span>"
+        },
+        {
+          "id": "D",
+          "text": "(a) and (c)",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">(a) and (c)</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">(a) The sum of interior angles of a triangle is always 180º.</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">(c) Triangles can have at the most one obtuse angle.</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Correct statements: (a) and (c),</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q4",
+      "number": 4,
+      "question": "One pipe can fill a tank four times as fast as another pipe. If together the two pipes can fill the tank in 48 minutes, the slower pipe alone will be able to fill the tank in:",
+      "questionHtml": "One pipe can fill a tank four times as fast as another pipe. If together the two pipes can fill the tank in 48 minutes, the slower&nbsp;pipe alone will be able to fill the tank in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "192 minutes",
+          "html": "192 minutes"
+        },
+        {
+          "id": "B",
+          "text": "288 minutes",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">288 minutes</span>"
+        },
+        {
+          "id": "C",
+          "text": "240 minutes",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">240 minutes</span>"
+        },
+        {
+          "id": "D",
+          "text": "144 minutes",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">144 minutes</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">If the faster pipe fills the tank in time t</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">1</span><span style=\"color: rgb(33, 37, 41);\">, then the slower pipe takes t</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\"> = 4 × t</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">1</span><span style=\"color: rgb(33, 37, 41);\">.</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span>(1/t<sub>1</sub>) + (1/(4t<sub>1</sub>)) = 1/48</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span>t<sub>1</sub> = (5×48)/4 = 60 min</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">t</span><sub style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sub><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> = 4×t</span><sub style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">1</sub><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> = 4×60 = 240 min</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q5",
+      "number": 5,
+      "question": "A number whose fifth part increased by 5 is equal to its third part decreased by 7. Find half of the number.",
+      "questionHtml": "A number whose fifth part increased by 5 is equal to its third part decreased by 7. Find half of the number.",
+      "options": [
+        {
+          "id": "A",
+          "text": "45",
+          "html": "45"
+        },
+        {
+          "id": "B",
+          "text": "150",
+          "html": "150"
+        },
+        {
+          "id": "C",
+          "text": "80",
+          "html": "80"
+        },
+        {
+          "id": "D",
+          "text": "60",
+          "html": "60"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span>(x/5) + 5 = (x/3) - 7 ⇒ x/5 - x/3 = -12 ⇒ (3x - 5x) / 15 = -12</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">-2x / 15 = -12 ⇒ x = 90</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Half of x = 90 / 2 = 45</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q6",
+      "number": 6,
+      "question": "What is the total surface area of a cone whose curved surface area is 550 cm&sup2; and radius is 7 cm ? ( Take &pi; = 22/7).",
+      "questionHtml": "What is the total surface area of a cone whose curved surface area is 550 cm&sup2; and radius is 7 cm ? ( Take&nbsp;&pi;&nbsp;= 22/7).",
+      "options": [
+        {
+          "id": "A",
+          "text": "764.71 cm&sup2;",
+          "html": "764.71 cm&sup2;"
+        },
+        {
+          "id": "B",
+          "text": "704.00 cm&sup2;",
+          "html": "704.00 cm&sup2;"
+        },
+        {
+          "id": "C",
+          "text": "682.60 cm&sup2;",
+          "html": "682.60 cm&sup2;"
+        },
+        {
+          "id": "D",
+          "text": "714.05 cm&sup2;",
+          "html": "714.05 cm&sup2;"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Slant height (l): 550 = (22/7) × 7 × l ⇒ l = 25 cm</p>\n\n<p>Base area = (22/7) × 7<sup>2</sup> = 154 cm<sup>2</sup></p>\n\n<p>TSA = 550 + 154 = 704 cm<sup>2</sup></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q7",
+      "number": 7,
+      "question": "Two successive percentage decrease of 25% each is by what percentage less than two successive percentage increase of 25% each? (Round to two decimal places.)",
+      "questionHtml": "Two successive percentage decrease of 25% each is by what percentage less than two successive percentage increase of 25% each? (Round to two decimal places.)",
+      "options": [
+        {
+          "id": "A",
+          "text": "50%",
+          "html": "50%"
+        },
+        {
+          "id": "B",
+          "text": "43.75%",
+          "html": "43.75%"
+        },
+        {
+          "id": "C",
+          "text": "22.22%",
+          "html": "22.22%"
+        },
+        {
+          "id": "D",
+          "text": "56.25%",
+          "html": "56.25%"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Two successive decreases of 25% = 100 × (0.75)<sup>2</sup> = 56.25</p>\n\n<p>Decrease =100 - 56.25 = 43.75%</p>\n\n<p>Two successive increases of 25% = 100 × (1.25)<sup>2</sup> = 156.25</p>\n\n<p>Increase: 156.25 - 100 = 56.25%</p>\n\n<p>Percentage less: (56.25 - 43.75) / 56.25 × 100 = 22.22%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q8",
+      "number": 8,
+      "question": "If (48&deg; + k) is an acute angle and sin(48&deg; + k) = cos13&deg;, what is the value of k(in &deg;)?",
+      "questionHtml": "If (48&deg; + k) is an acute angle and sin(48&deg; + k) = cos13&deg;, what is the value of k(in &deg;)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "17",
+          "html": "17"
+        },
+        {
+          "id": "B",
+          "text": "23",
+          "html": "23"
+        },
+        {
+          "id": "C",
+          "text": "29",
+          "html": "29"
+        },
+        {
+          "id": "D",
+          "text": "37",
+          "html": "37"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>sin(48º + k) = cos(13º)</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">48º + k = 90º - 13º </span><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">k = 77º - 48º </span><span style=\"color: rgb(33, 37, 41);\">⇒ k </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">= 29º</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q9",
+      "number": 9,
+      "question": "If the angles of a triangle are in the ratio 7 : 8 : 3, then the value of the largest angle is:",
+      "questionHtml": "If the angles of a triangle are in the ratio 7 : 8 : 3, then the value of the largest angle is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "120&deg;",
+          "html": "120&deg;"
+        },
+        {
+          "id": "B",
+          "text": "80&deg;",
+          "html": "80&deg;"
+        },
+        {
+          "id": "C",
+          "text": "100&deg;",
+          "html": "100&deg;"
+        },
+        {
+          "id": "D",
+          "text": "60&deg;",
+          "html": "60&deg;"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let angles be 7x, 8x, 3x.</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">7x + 8x + 3x = 180º</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">x = 180º / 18 = 10º</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Largest angle = 8x = 8 × 10º = 80º</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q10",
+      "number": 10,
+      "question": "Evaluate the given expression: \\(\\frac{5}{1 + \\cot^2\\theta} + \\frac{3}{1 + \\tan^2\\theta} + 2\\cos^2\\theta \\)",
+      "questionHtml": "Evaluate the given expression:&nbsp;<span class=\"math-tex\">\\(\\frac{5}{1 + \\cot^2\\theta} + \\frac{3}{1 + \\tan^2\\theta} + 2\\cos^2\\theta \\)</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span>(5)/(1 + cot<sup>2</sup>θ) + (3)/(1 + tan<sup>2</sup>θ) + 2cos<sup>2</sup>θ</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">5sin</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">θ + 3cos</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">θ + 2cos</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">θ</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">5sin</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">θ + 5cos</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">θ </span><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">5(sin</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">θ + cos</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">θ) = 5</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q11",
+      "number": 11,
+      "question": "Study the below table and answer the question that follows. Year 2017 2018 2019 2020 2021 Company P 2000 4000 2000 3000 4000 Company Q 1500 3000 1500 3000 3000 Company R 1400 2000 2000 3000 3000 For which of the following pairs of years are the total exports from the three companies together, equal?",
+      "questionHtml": "Study the below table and answer the question that follows.\n<div class=\"flex max-w-full flex-col flex-grow\">\n<div class=\"min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5\" data-message-author-role=\"assistant\" data-message-id=\"c29c9d78-b272-4b1b-9bab-600e30174b7f\" data-message-model-slug=\"gpt-4o\" dir=\"auto\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\">\n<div class=\"markdown prose w-full break-words dark:prose-invert light\">\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Year</th>\n\t\t\t<th>2017</th>\n\t\t\t<th>2018</th>\n\t\t\t<th>2019</th>\n\t\t\t<th>2020</th>\n\t\t\t<th>2021</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Company P</td>\n\t\t\t<td>2000</td>\n\t\t\t<td>4000</td>\n\t\t\t<td>2000</td>\n\t\t\t<td>3000</td>\n\t\t\t<td>4000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Company Q</td>\n\t\t\t<td>1500</td>\n\t\t\t<td>3000</td>\n\t\t\t<td>1500</td>\n\t\t\t<td>3000</td>\n\t\t\t<td>3000</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Company R</td>\n\t\t\t<td>1400</td>\n\t\t\t<td>2000</td>\n\t\t\t<td>2000</td>\n\t\t\t<td>3000</td>\n\t\t\t<td>3000</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\nFor which of the following pairs of years are the total exports from the three companies together, equal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2020 and 2021",
+          "html": "2020 and 2021"
+        },
+        {
+          "id": "B",
+          "text": "2018 and 2019",
+          "html": "2018 and 2019"
+        },
+        {
+          "id": "C",
+          "text": "2017 and 2018",
+          "html": "2017 and 2018"
+        },
+        {
+          "id": "D",
+          "text": "2018 and 2020",
+          "html": "2018 and 2020"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>2017: 2000 + 1500 + 1400 = 4900</p>\n\n<p>2018: 4000 + 3000 + 2000 = 9000</p>\n\n<p>2019: 2000 + 1500 + 2000 = 5500</p>\n\n<p>2020: 3000 + 3000 + 3000 = 9000</p>\n\n<p>2021: 4000 + 3000 + 3000 = 10000</p>\n\n<p>2018 and 2020: 9000 = 9000</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q12",
+      "number": 12,
+      "question": "The following figure shows the production of mobiles in lakh units of four cities in different years. Study the figure and answer the question that follows. What is the ratio between the average production in Delhi and Kolkata during the period of 2019 to 2022?",
+      "questionHtml": "The following figure shows the production of mobiles in lakh units of four cities in different years. Study the figure and answer the question that follows.<br />\n<img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/25/01/F1_PriyaSs_SSC_18_12_24_D31.png\" style=\"width: 537px; height: 249px;\" /><br />\nWhat is the ratio between the average production in Delhi and Kolkata during the period of 2019 to 2022?<br />\n&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "13 : 9",
+          "html": "13 : 9"
+        },
+        {
+          "id": "B",
+          "text": "13 : 7",
+          "html": "13 : 7"
+        },
+        {
+          "id": "C",
+          "text": "11 : 7",
+          "html": "11 : 7"
+        },
+        {
+          "id": "D",
+          "text": "11 : 9",
+          "html": "11 : 9"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>&nbsp;</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>Step 1: Total production for Delhi (2019 to 2022):</p>\n\n<p>Delhi (2019): 600</p>\n\n<p>Delhi (2020): 450</p>\n\n<p>Delhi (2021): 350</p>\n\n<p>Delhi (2022): 800</p>\n\n<p>Total = 600 + 450&nbsp;+ 350&nbsp;+ 800 = 2200</p>\n\n<p>Average production for Delhi = 2200 / 4 = 550</p>\n\n<p>Step 2: Total production for Kolkata (2019 to 2022):</p>\n\n<p>Kolkata (2019): 500</p>\n\n<p>Kolkata (2020): 400</p>\n\n<p>Kolkata (2021): 250</p>\n\n<p>Kolkata (2022): 650</p>\n\n<p>Total = 500&nbsp;+ 400&nbsp;+ 250 + 650&nbsp;= 1800</p>\n\n<p>Average production for Kolkata = 1800&nbsp;/ 4 = 450</p>\n\n<p>Step 3: Calculate the ratio:</p>\n\n<p>Ratio = Average production of Delhi : Average production of Kolkata</p>\n\n<p>&rArr; Ratio = 550&nbsp;: 450</p>\n\n<p>&rArr; Ratio = 11 : 9</p>\n\n<p><strong>&there4; The ratio between the average production in Delhi and Kolkata during 2019 to 2022 is </strong><span style=\"color: rgb(33, 37, 41);\">&nbsp;<strong>11 : 9</strong></span></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/25/01/F1_PriyaSs_SSC_18_12_24_D31.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q13",
+      "number": 13,
+      "question": "In a room, there are some chairs and some people. If on each chair, only one person is seated, then there is no chair for exactly one person. If on each chair, two persons sit, then there is one vacant chair. What is the number of chairs in the room?",
+      "questionHtml": "In a room, there are some chairs and some people. If on each chair, only one person is seated, then there is no chair for exactly one person. If on each chair, two persons sit, then there is one vacant chair. What is the number of chairs in the room?",
+      "options": [
+        {
+          "id": "A",
+          "text": "7",
+          "html": "7"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "6"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>P = C + 1, <span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">P = 2(C - 1)</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Substitute P in the second condition:</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">C + 1 = 2(C - 1)</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">C = 3</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q14",
+      "number": 14,
+      "question": "A person first increases the price of a commodity by 8% and then he announces a discount of 18%. The actual discount (in%) on the original price is:",
+      "questionHtml": "A person first increases the price of a commodity by 8% and then he announces a discount of 18%. The actual discount (in%) on the original price is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "11.44",
+          "html": "11.44"
+        },
+        {
+          "id": "B",
+          "text": "14.44",
+          "html": "14.44"
+        },
+        {
+          "id": "C",
+          "text": "9.44",
+          "html": "9.44"
+        },
+        {
+          "id": "D",
+          "text": "8.44",
+          "html": "8.44"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Let the original price be ₹100</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span>Increased price = 100 × 1.08 = ₹108</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Discounted price = 108 × 0.82 = ₹88.56</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> Actual discount = (100 - 88.56) / 100 × 100% = 11.44%.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q15",
+      "number": 15,
+      "question": "Two athletes are participating in a race on a circular track of 220 m. Ravi runs at the speed of 22 m/s, while Kapil runs at the speed of 11 m/s. They start from the same point, at the same time and in the same direction. After how many seconds will they meet for the first time?",
+      "questionHtml": "Two athletes are participating in a race on a circular track of 220 m. Ravi runs at the speed of 22 m/s, while Kapil runs at the speed of 11 m/s. They start from the same point, at the same time and in the same direction. After how many seconds will they meet for the first time?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15 seconds",
+          "html": "15 seconds"
+        },
+        {
+          "id": "B",
+          "text": "16 seconds",
+          "html": "16 seconds"
+        },
+        {
+          "id": "C",
+          "text": "20 seconds",
+          "html": "20 seconds"
+        },
+        {
+          "id": "D",
+          "text": "24 seconds",
+          "html": "24 seconds"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Relative speed = 22 m/s - 11 m/s = 11 m/s</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Time = 220 m / 11 m/s = 20 seconds</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q16",
+      "number": 16,
+      "question": "If books bought at prices ranging from ₹200 to ₹260 are sold at prices ranging from ₹250 to 300, what is the greatest possible profit that might be made in selling 25 books?",
+      "questionHtml": "If books bought at prices ranging from ₹200 to ₹260 are sold at prices ranging from ₹250 to 300, what is the greatest&nbsp;possible profit that might be made in selling 25 books?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹2,300",
+          "html": "₹2,300"
+        },
+        {
+          "id": "B",
+          "text": "₹2,500",
+          "html": "₹2,500"
+        },
+        {
+          "id": "C",
+          "text": "₹1,800",
+          "html": "₹1,800"
+        },
+        {
+          "id": "D",
+          "text": "₹2,700",
+          "html": "₹2,700"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Greatest possible profit per book = Highest selling price - Lowest buying price</span></p>\n\n<p>Greatest possible profit per book = ₹300 - ₹200 = ₹100</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total profit for 25 books = 25 × ₹100 = ₹2500</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q17",
+      "number": 17,
+      "question": "Three people, A, B and C, invest in a business in the ratio 2 : 3 : 5. It was decided that 9% of the profits will go to charity. If the total profit was ₹2,50,000, then find the share of C in the profit (in ₹).",
+      "questionHtml": "Three people, A, B and C, invest in a business in the ratio 2 : 3 : 5. It was decided that 9% of the profits will go to charity. If&nbsp;the total profit was ₹2,50,000, then find the share of C in the profit (in ₹).",
+      "options": [
+        {
+          "id": "A",
+          "text": "1,26,950",
+          "html": "1,26,950"
+        },
+        {
+          "id": "B",
+          "text": "1,11,650",
+          "html": "1,11,650"
+        },
+        {
+          "id": "C",
+          "text": "1,21,850",
+          "html": "1,21,850"
+        },
+        {
+          "id": "D",
+          "text": "1,13,750",
+          "html": "1,13,750"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Charity = 9% of ₹2,50,000 = ₹22,500</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Remaining profit = ₹2,50,000 - ₹22,500 = ₹2,27,500</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Share of C = (5 / 10) × ₹2,27,500 = ₹1,13,750</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q18",
+      "number": 18,
+      "question": "In a class of 150 students (boys and girls only), the girls are 60. The average weight of boys is 52 kg and that of girls is 48 kg. What is the average weight (in kg) of the whole class?",
+      "questionHtml": "In a class of 150 students (boys and girls only), the girls are 60. The average weight of boys is 52 kg and that of girls is 48 kg. What is the average weight (in kg) of the whole class?",
+      "options": [
+        {
+          "id": "A",
+          "text": "50.4",
+          "html": "50.4"
+        },
+        {
+          "id": "B",
+          "text": "48.8",
+          "html": "48.8"
+        },
+        {
+          "id": "C",
+          "text": "49.6",
+          "html": "49.6"
+        },
+        {
+          "id": "D",
+          "text": "51.2",
+          "html": "51.2"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Boys' total weight = 90 × 52 = 4680 kg</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Girls' total weight = 60 × 48 = 2880 kg</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Total weight = 4680 + 2880 = 7560 kg</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Average weight = 7560 / 150 = 50.4 kg</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q19",
+      "number": 19,
+      "question": "If \\(\\frac{3(16^3 - 6^3)}{16^2 + 6^2 + Q} = 30\\) , then find the value of Q.",
+      "questionHtml": "If <span class=\"math-tex\">\\(\\frac{3(16^3 - 6^3)}{16^2 + 6^2 + Q} = 30\\)</span>, then find the value of Q.",
+      "options": [
+        {
+          "id": "A",
+          "text": "96",
+          "html": "96"
+        },
+        {
+          "id": "B",
+          "text": "98",
+          "html": "98"
+        },
+        {
+          "id": "C",
+          "text": "112",
+          "html": "112"
+        },
+        {
+          "id": "D",
+          "text": "108",
+          "html": "108"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>(3(16<sup>3</sup> - 6<sup>3</sup>))/(16<sup>2</sup> + 6<sup>2</sup> + Q) = 30 ⇒ (3(4096 - 216))/(256 + 36 + Q) = 30 </p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">⇒ (3(3880))/(292 + Q) = 30</span> = 11,640 - 8,760 = 30Q </p>\n⇒ Q = 2,880/ 30 = 96 ",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q20",
+      "number": 20,
+      "question": "&Delta;ABC is a right-angled triangle with &ang;ABC = 90&deg;. If m(AB) = 28 cm, and m(BC) = 96 cm, find the area (in cm&sup2;) of the circumcircle of &Delta;ABC. (Use &pi; = 3.14.)",
+      "questionHtml": "&Delta;ABC is a right-angled triangle with &ang;ABC = 90&deg;. If m(AB) = 28 cm, and m(BC) = 96 cm, find the area (in cm&sup2;) of the circumcircle of &Delta;ABC. (Use &pi; = 3.14.)",
+      "options": [
+        {
+          "id": "A",
+          "text": "7,850",
+          "html": "7,850"
+        },
+        {
+          "id": "B",
+          "text": "8,164",
+          "html": "8,164"
+        },
+        {
+          "id": "C",
+          "text": "7,693",
+          "html": "7,693"
+        },
+        {
+          "id": "D",
+          "text": "7,536",
+          "html": "7,536"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Using Pythagoras theorem: AC<sup>2</sup> = AB<sup>2</sup> + BC<sup>2</sup> </p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span>AC<sup>2</sup> = 28<sup>2</sup> + 96<sup>2</sup> = 100 cm</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Radius (r) = AC / 2 = 100 / 2 = 50 cm</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Area = πr</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2 </sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">= 3.14 × 50</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> = 7850 cm</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q21",
+      "number": 21,
+      "question": "If ₹1,875 becomes ₹2,625 in 4 years, what will ₹24,000 become at the end of 9 years at the same rate of interest, under simple interest?",
+      "questionHtml": "If ₹1,875 becomes ₹2,625 in 4 years, what will ₹24,000 become at the end of 9 years at the same rate of interest, under simple interest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹45,600",
+          "html": "₹45,600"
+        },
+        {
+          "id": "B",
+          "text": "₹21,600",
+          "html": "₹21,600"
+        },
+        {
+          "id": "C",
+          "text": "₹34,800",
+          "html": "₹34,800"
+        },
+        {
+          "id": "D",
+          "text": "₹43,200",
+          "html": "₹43,200"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>2625 = 1875 + (1875 × R × 4) / 100 <span style=\"color: rgb(33, 37, 41);\">⇒</span> R = 10%</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Amount (A) = P + (P × R × T) / 100</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">A = 24000 + (24000 × 10 × 9) / 100 = 45600</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q22",
+      "number": 22,
+      "question": "If A is an acute angle and tanA + cotA = 2, find the value of 7tan 8 A - 6cot 8 A + 8sec 2 A.",
+      "questionHtml": "If A is an acute angle and tanA + cotA = 2, find the value of 7tan<sup>8</sup>A - 6cot<sup>8</sup>A + 8sec<sup>2</sup>A.",
+      "options": [
+        {
+          "id": "A",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "B",
+          "text": "17",
+          "html": "17"
+        },
+        {
+          "id": "C",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "D",
+          "text": "7",
+          "html": "7"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>If tanA + cotA = 2 ⇒ tanA = cotA = 1</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">sec</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">A = 1 + tan</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">A = 2</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">7tan</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">8</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">A - 6cot</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">8</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">A + 8sec</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">A = 7(1</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">8</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">) - 6(1</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">8</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">) + 8(2) = 17</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q23",
+      "number": 23,
+      "question": "Given a linear equation in two variables: 5x + 7y - 8 = 0, which of the following linear equations, along with the given equation, forms a system of linear equations having no solution?",
+      "questionHtml": "Given a linear equation in two variables: 5x + 7y - 8 = 0, which of the following linear equations, along with the given&nbsp;equation, forms a system of linear equations having no solution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5x + 7y - 16 = 0",
+          "html": "5x + 7y - 16 = 0"
+        },
+        {
+          "id": "B",
+          "text": "7x + 5y - 8 = 0",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">7x + 5y - 8 = 0</span>"
+        },
+        {
+          "id": "C",
+          "text": "5x - 7y - 8 = 0",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">5x - 7y - 8 = 0</span>"
+        },
+        {
+          "id": "D",
+          "text": "10x + 14y - 16 = 0",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">10x + 14y - 16 = 0</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">5x + 7y - 8 = 0, Slope = -5/7,</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">5x + 7y - 16 = 0, Slope = -5/7 (same slope, different intercept),</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">7x + 5y - 8 = 0, Slope = -7/5 (different slope)</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">5x - 7y - 8 = 0, Slope = 5/7 (different slope)</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">10x + 14y - 16 = 0, Slope = -10/14 = -5/7 (same slope same intercept)</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Correct answer is </span><span style=\"color: rgb(33, 37, 41);\">5x + 7y - 16 = 0.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q24",
+      "number": 24,
+      "question": "Find the remainder when 9 20 + 2 is divided by 4.",
+      "questionHtml": "Find the remainder when 9<sup>20&nbsp;</sup>+ 2 is divided by 4.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>9 ≡ 1 mod 4, 9<sup>20</sup> ≡ 1<sup>20</sup> mod 4 ≡ 1 mod 4</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span>(9<sup>20</sup> + 2) mod 4 = (1 + 2) mod 4 = 3</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "dd18d1577a8f-q25",
+      "number": 25,
+      "question": "From a point A, which is at a distance of 17 cm from the centre C of a circle with radius 8 cm, the pair of tangents AB and AD to the circle are drawn. The area of the quadrilateral ABCD is ____ cm&sup2;.",
+      "questionHtml": "From a point A, which is at a distance of 17 cm from the centre C of a circle with radius 8 cm, the pair of tangents AB and AD to the circle are drawn. The area of the quadrilateral ABCD is ____ cm&sup2;.",
+      "options": [
+        {
+          "id": "A",
+          "text": "192",
+          "html": "192"
+        },
+        {
+          "id": "B",
+          "text": "120",
+          "html": "120"
+        },
+        {
+          "id": "C",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "D",
+          "text": "360",
+          "html": "360"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Length of tangent AB = √(17</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> - 8</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">) = 15 cm</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Area of each triangle = (1/2) × 8 × 15 = 60 cm</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Area of quadrilateral ABCD = 2 × 60 = 120 cm</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

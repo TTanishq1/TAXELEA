@@ -1,0 +1,1732 @@
+{
+  "id": "62b8cf27e1f3",
+  "provider": "Testbook",
+  "sourceFile": "Time and Work - Miscellaneous - 01.html",
+  "sourcePath": "Testbook/files/Time and Work - Miscellaneous - 01.html",
+  "title": "Time and Work - Miscellaneous - 01",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 7,
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "62b8cf27e1f3-q1",
+      "number": 1,
+      "question": "A can complete a work in 20 days, while B can complete the same work in 25 days. Both worked together for 10 days and then C alone completed the remaining work in 10 days. In how many days will A, B and C together complete the same work?",
+      "questionHtml": "A can complete a work in 20 days, while B can complete the same work in 25 days. Both worked together for 10 days and then C alone completed the remaining work in 10 days. In how many days will A, B and C together complete the same work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 days",
+          "html": "12 days"
+        },
+        {
+          "id": "B",
+          "text": "8 days",
+          "html": "8 days"
+        },
+        {
+          "id": "C",
+          "text": "5 days",
+          "html": "5 days"
+        },
+        {
+          "id": "D",
+          "text": "10 days",
+          "html": "10 days"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"\"><span style=\"font-weight: 700;\">Given:</span>&nbsp;</p>\n\n<p style=\"\"><span style=\"\">A can complete a work in 20 days.</span></p>\n\n<p style=\"\"><span style=\"\">B can complete the same work in 25 days.</span></p>\n\n<p style=\"\"><span style=\"\">Both worked together for 10 days and&nbsp;then C alone completed the remaining work in 10 days.</span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Concept used:</span></p>\n\n<p style=\"\">Entire work = Work done each day&nbsp;&times; Time taken to finish the entire work&nbsp;</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\">LCM (20, 25) = 100</p>\n\n<p style=\"\">Let the entire work be given by the LCM of the time taken by A &amp; B.</p>\n\n<p style=\"\">So, the entire work = 100 units</p>\n\n<p style=\"\">Now,</p>\n\n<p style=\"\">A does each day = 100&nbsp;&divide; 20 = 5 units</p>\n\n<p style=\"\">B does each day = 100&nbsp;&divide; 25 = 4 units</p>\n\n<p style=\"\">So, in 10 days A and B together do = (5 + 4)&nbsp;&times; 10 = 90 units</p>\n\n<p style=\"\">Remaining work = (100 - 90) = 10 units</p>\n\n<p style=\"\">So, C does each day = (10&nbsp;&divide; 10) = 1 unit</p>\n\n<p style=\"\">Then, A, B and C together do each day = (5 + 4 + 1) = 10 units</p>\n\n<p style=\"\">So, the time is taken by them to finish the work together = (100&nbsp;&divide; 10) = 10 days</p>\n\n<p style=\"\"><strong>&there4;&nbsp;<span style=\"\">In 10 days A, B and C together will complete the same work.</span></strong></p>\n\n<p style=\"\"><strong><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span></span></strong>&nbsp;A&nbsp;&times; 20 = B&nbsp;&times; 25, A/B = 5/4&nbsp; &nbsp; &nbsp; &nbsp;....(efficiency ratio)</p>\n\n<p style=\"\">(A + B)&nbsp;&times; 10 + C &times; 10 = A &times; 20&nbsp; &nbsp; &nbsp; ....(1)</p>\n\n<p style=\"\">Put the value of A and B</p>\n\n<p style=\"\">9&nbsp;&times; 10 + C&nbsp;&times; 10 = 5&nbsp;&times; 20, C = (100 - 90)/10, C = 1</p>\n\n<p style=\"\">Total work = (A + B + C) &times; d = 5&nbsp;&times; 20</p>\n\n<p style=\"\">(5 + 4 + 1)&nbsp;&times; d = 100, <strong>d = 10</strong></p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q2",
+      "number": 2,
+      "question": "14 persons can build a house in 60 days. How long will it take 30 persons to build the same house, provided that they all work at the same rate?",
+      "questionHtml": "14 persons can build a house in 60 days. How long will it take 30 persons to build the same house, provided that they all work at the same rate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "28 days",
+          "html": "28 days"
+        },
+        {
+          "id": "B",
+          "text": "30 days",
+          "html": "30 days"
+        },
+        {
+          "id": "C",
+          "text": "32 days",
+          "html": "32 days"
+        },
+        {
+          "id": "D",
+          "text": "56 days",
+          "html": "56 days"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given :&nbsp;</strong></p>\n\n<p>14 persons can build a house in 60 days.</p>\n\n<p><strong>Calculation :&nbsp;</strong></p>\n\n<p>&rArr;&nbsp;14P&times; 60 = 30P &times; x</p>\n\n<p>&rArr; x = 14P&nbsp;&times; 60/30P</p>\n\n<p>&rArr; x = 14&nbsp;&times; 2</p>\n\n<p>&rArr; x = 28</p>\n\n<p><strong>&there4; The correct answer is 28 days.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q3",
+      "number": 3,
+      "question": "A can do a piece of work in 10 days. B can do it in 15 days. With the assistance of C they completed the work in 5 days. Find in how many days C alone can do it?",
+      "questionHtml": "A can do a piece of work in 10 days. B can do it in 15 days. With the assistance of C they completed the work in 5 days. Find in how many days C alone can do it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "B",
+          "text": "25",
+          "html": "25"
+        },
+        {
+          "id": "C",
+          "text": "30",
+          "html": "30"
+        },
+        {
+          "id": "D",
+          "text": "35",
+          "html": "35"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong><span style=\"\">Given:</span></strong></p>\n\n<p><span style=\"\">A can do a piece of work in 10 days.</span></p>\n\n<p><span style=\"\">B can do it in 15 days. </span></p>\n\n<p><span style=\"\">With the assistance of C, they completed the work in 5 days</span></p>\n\n<p><span style=\"\"><strong>Formula Used:</strong></span></p>\n\n<p><span style=\"\">Total work = Efficiency x Time taken</span></p>\n\n<p><span style=\"\"><strong>Calculations:</strong></span></p>\n\n<p>&rArr; A can-do work = 10 days</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>B can do the work = 15 days</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>A + B + C can do the work = 5 days</p>\n\n<p>For total work</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>Total work = LCM of (10, 15, 5) = 30</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>Efficiency of A = Total Work / Time taken = 30/10 = 3 unit</p>\n\n<p><span style=\"\">&rArr;&nbsp;Efficiency of B = Total Work / Time taken = 30/15 = 2&nbsp;unit</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;Efficiency of A + B + C= Total Work / Time taken = 30/5&nbsp;= 6&nbsp;unit</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>The efficiency of C =&nbsp;<span style=\"\">Efficiency of A + B + C&nbsp;- Efficiency of A -&nbsp;Efficiency of B = 6 - 3 - 2 = 1</span></p>\n\n<p><span style=\"\">Time taken by C to do the work alone</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;Time taken = Total Work/Efficiency = 30/1 = 30 days</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;<strong>Hence, C can do the work alone in 30 days.</strong></span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q4",
+      "number": 4,
+      "question": "Ravi can complete a task in 6 days and Mohan can complete the task in 9 days. In how many days can Ravi and Mohan together complete the same task?",
+      "questionHtml": "Ravi can complete a task in 6 days and Mohan can complete the task in 9 days. In how many days can Ravi and Mohan together complete the same task?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(3\\frac{3}{5}\\) days",
+          "html": "<span class=\"math-tex\">\\(3\\frac{3}{5}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "B",
+          "text": "9 days",
+          "html": "9 days"
+        },
+        {
+          "id": "C",
+          "text": "15 days",
+          "html": "15 days"
+        },
+        {
+          "id": "D",
+          "text": "\\(3\\frac{2}{5}\\) days",
+          "html": "<span class=\"math-tex\">\\(3\\frac{2}{5}\\)</span>&nbsp;days"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Ravi can complete the task in 6 days</p>\n\n<p>Mohan can complete the task in 9 days</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Total work = Efficiency &times; Time</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Taking L.C.M of 6 and 9</p>\n\n<p>&rArr; L.C.M of 6 and 9 = 18</p>\n\n<p>&rArr; Efficiency of Ravi = (18/6) = 3</p>\n\n<p>&rArr; Efficiency of Mohan = (18/9) = 2</p>\n\n<p>Time taken by Ravi and Mohan together to complete the work = 18/(3 + 2) = 18/5</p>\n\n<p>&rArr; 18/5 =&nbsp;<span class=\"math-tex\">\\(3\\frac{3}{5}\\;days\\)</span></p>\n\n<p><b><span style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&there4;</span><span style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"> Ravi and Mohan together can complete the&nbsp;task in&nbsp;<span class=\"math-tex\">\\(3\\frac{3}{5}\\;days\\)</span></span></b>.<br />\n&nbsp;<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span><br />\nRavi and Mohan together can complete the&nbsp;task in<br />\n<br />\n= (R&nbsp;&times; M)/(R+M) = (6&nbsp;&times; 9)/(6 + 9) = 54/15 = 18/5</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q5",
+      "number": 5,
+      "question": "A can do a work in 12 days while B can do same work in 18 days. How long (in days) will it take if they do the work together?",
+      "questionHtml": "A can do a work in 12 days while B can do same work in 18 days. How long (in days) will it take if they do the work together?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(5\\frac{3}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(5\\frac{3}{4}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(7\\frac{1}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(7\\frac{1}{5}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(6\\frac{1}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(6\\frac{1}{4}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(6\\frac{2}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(6\\frac{2}{5}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>A alone can complete the work in = 12 days</p>\n\n<p>A&rsquo;s one day work = 1/12</p>\n\n<p>B alone can complete the work in = 18 days</p>\n\n<p>B&rsquo;s one day work = 1/18</p>\n\n<p>(A + B)&rsquo;s one day work = 1/12 + 1/18 = (3 + 5)/36 = 5/36</p>\n(A + B) together can complete the whole work in = 36/5 = <span class=\"math-tex\">\\(7\\frac{1}{5}\\)</span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q6",
+      "number": 6,
+      "question": "Reena, Veena and Vimla can do a work in 4 h, 8 h and 12 h respectively. In how much time will they finish the work working together?",
+      "questionHtml": "Reena, Veena and Vimla can do a work in 4 h, 8 h and 12 h respectively. In how much time will they finish the work working together?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\({2\\over11}\\ h\\)",
+          "html": "<span class=\"math-tex\">\\({2\\over11}\\ h\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(5{2\\over11}\\ h\\)",
+          "html": "<span class=\"math-tex\">\\(5{2\\over11}\\ h\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(3{2\\over11}\\ h\\)",
+          "html": "<span class=\"math-tex\">\\(3{2\\over11}\\ h\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(2{2\\over11}\\ h\\)",
+          "html": "<span class=\"math-tex\">\\(2{2\\over11}\\ h\\)</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Efficiency of Reena = 24/4 = 6, Efficiency of Veena = 24/8 = 3, Efficiency of Vimla = 24/12 = 2 </p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total efficiencies of three of them = 6 + 3 + 2 = 11</p>\n\n<p style=\"color: rgb(33, 37, 41);\">No. of days taken by them = 24/11 = <span class=\"math-tex\">\\(2{2\\over11}\\ h\\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q7",
+      "number": 7,
+      "question": "If 450 men can finish construction of an apartment in 20 days, then how many men are needed to complete the same work in 30 days?",
+      "questionHtml": "If 450 men can finish construction of an apartment in 20 days, then how many men are needed to complete the same work in 30 days?",
+      "options": [
+        {
+          "id": "A",
+          "text": "150",
+          "html": "150"
+        },
+        {
+          "id": "B",
+          "text": "300",
+          "html": "300"
+        },
+        {
+          "id": "C",
+          "text": "400",
+          "html": "400"
+        },
+        {
+          "id": "D",
+          "text": "250",
+          "html": "250"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Efficiency of each man = M.</p>\n\n<p>Total work = 450 × M × 20 = 9000M</p>\n\n<p>Men required to complete the task = 9000M ÷ (M × 30) = 300</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q8",
+      "number": 8,
+      "question": "If 25 persons can complete a work in 140 days, then how many persons will be required to complete the same work in 70 days?",
+      "questionHtml": "If 25 persons can complete a work in 140 days, then how many persons will be required to complete the same work in 70 days?",
+      "options": [
+        {
+          "id": "A",
+          "text": "70",
+          "html": "<span style=\"\"><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">70</font></font></span>"
+        },
+        {
+          "id": "B",
+          "text": "50",
+          "html": "<span style=\"\"><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">50</font></font></span>"
+        },
+        {
+          "id": "C",
+          "text": "40",
+          "html": "<span style=\"\"><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">40</font></font></span>"
+        },
+        {
+          "id": "D",
+          "text": "80",
+          "html": "<span style=\"\"><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">80</font></font></span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong><span style=\"\">Given:</span></strong></p>\n\n<p><span style=\"\">If 25 persons can complete a work in 140 days</span></p>\n\n<p><strong><span style=\"\">Concept used:</span></strong></p>\n\n<p><span style=\"\">Inverse proportionality&nbsp;</span></p>\n\n<p><span style=\"\">M<sub>1</sub>D<sub>1</sub> = M<sub>2</sub>D<sub>2</sub></span></p>\n\n<p><strong><span style=\"\">Calculation:</span></strong></p>\n\n<p><span style=\"\">According to the question,</span></p>\n\n<p><span style=\"\">25&nbsp;&times; 140&nbsp;= 70&nbsp;&times; M<sub>2</sub></span></p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>M<sub>2</sub> =&nbsp;<span class=\"math-tex\">\\(\\frac{(25 × 140)}{70}\\)</span></p>\n\n<p>&rArr; M<sub>2</sub> = 25&nbsp;&times; 2 = 50 men</p>\n\n<p><strong>&there4; 50 men will be required to complete the work in 70 days.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q9",
+      "number": 9,
+      "question": "A,B and C can do a work in 10 days, 15 days, and 20 days, respectively. They finished that work together and got Rs. 2,600 as wages. Find C's wage.",
+      "questionHtml": "A,B and C can do a work in 10 days, 15 days, and 20 days, respectively. They finished that work together and got <span style=\"color: rgb(33, 37, 41);\">Rs.&nbsp;</span>2,600 as wages. Find C&#39;s wage.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 550",
+          "html": "Rs. 550"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 600",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">Rs.&nbsp;</span>600"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 575",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">Rs.&nbsp;</span>575"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 625",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">Rs.&nbsp;</span>625"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style=\"color: rgb(33, 37, 41);   \">Ratio of their wages = A : B : C = 1/10 : 1/15 : 1/20 = 6 : 4 : 3</span><br style=\"box-sizing: border-box;  \" />\n<br style=\"box-sizing: border-box;  \" />\n<span style=\"color: rgb(33, 37, 41);   \">C’s earns = 3/13 × 2600 = 600.</span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q10",
+      "number": 10,
+      "question": "Ravi, Mohan, and Govind can complete a task in 12 days, 10 days and 15 days, respectively. In how many days can Ravi, Mohan and Govind together complete the same task?",
+      "questionHtml": "Ravi, Mohan, and Govind can complete a task in 12 days, 10 days and 15 days, respectively. In how many days can Ravi, Mohan and Govind together complete the same task?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Ravi, Mohan, and Govind can complete a task in 12 days, 10 days and 15 days, respectively.</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Ravi can complete a task in 12 days</p>\n\n<p>&rArr; Ravi can do one day work = 1/12 &nbsp;</p>\n\n<p>Mohan can complete a task in 10&nbsp;days</p>\n\n<p>&rArr; Mohan&nbsp;can do one day work = 1/10&nbsp;&nbsp;</p>\n\n<p>Govind can complete a task in 15&nbsp;days</p>\n\n<p>&rArr; Govind&nbsp;can do one day work = 1/15</p>\n\n<p>Ravi, Mohan and Govind work together in one day&nbsp;</p>\n\n<p>&rArr; 1/12 + 1/10 + 1/15</p>\n\n<p>&rArr; (5 + 6 + 4)/60</p>\n\n<p>&rArr; 1/4</p>\n\n<p>Ravi, Mohan and Govind can finish the wrok in</p>\n\n<p>&rArr; 4 days</p>\n\n<p><strong>&there4;&nbsp;Ravi, Mohan and Govind together complete the same task in 4 days.</strong></p>\n\n<p><img height=\"46px\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage37.png\" width=\"240px\" /></p>\n\n<p>Ravi, Mohan, and Govind can complete a task in x days, y days and z days.</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>The three person work together, they can finish the work in xyz/(xy + yz + zx)</p>\n\n<p>The number of days taken by&nbsp;Ravi, Mohan and Govind together complete the same task</p>\n\n<p>&rArr; 12&nbsp;&times; 10&nbsp;&times; 15/(12 &times; 10 + 10 &times; 15 + 15 &times; 12)</p>\n\n<p>&rArr; 1800/450</p>\n\n<p>&rArr; 4 days</p>\n\n<p><strong>&there4;&nbsp;Ravi, Mohan and Govind together complete the same task in 4 days.</strong></p>\n\n<p><img height=\"31px\" src=\"//cdn.testbook.com/images/production/quesImage5.png\" width=\"147px\" />&nbsp;</p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/21/03/F1_Suraj_Madhuri_08.03.2021_D5.PNG\" style=\"width: 353px; height: 164px;\" /></p>\n\n<p>Ravi + Mohan + Govind work together = total work unit/per day unit</p>\n\n<p>&rArr; 180/(15 + 18 + 12)</p>\n\n<p>&rArr; 180/45</p>\n\n<p>&rArr; 4 days</p>\n\n<p><span style=\"font-weight: 700;\">&there4;&nbsp;Ravi, Mohan and Govind together complete the same task in 4 days.</span></p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/quesImage37.png",
+        "//cdn.testbook.com/images/production/quesImage5.png",
+        "https://storage.googleapis.com/tb-img/production/21/03/F1_Suraj_Madhuri_08.03.2021_D5.PNG"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q11",
+      "number": 11,
+      "question": "Raj alone can complete a work in 20 days and Pratap alone can complete the same work in half of the time taken by Raj. In how many days will both together complete 3/5 part of the total work?",
+      "questionHtml": "Raj alone can complete a work in 20 days and Pratap alone can complete the same work in half of the time taken by Raj. In how many days will both together complete 3/5 part of the total work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 days",
+          "html": "6 days"
+        },
+        {
+          "id": "B",
+          "text": "4 days",
+          "html": "4&nbsp;<span style=\"\">days</span>"
+        },
+        {
+          "id": "C",
+          "text": "10 days",
+          "html": "10&nbsp;<span style=\"\">days</span>"
+        },
+        {
+          "id": "D",
+          "text": "8 days",
+          "html": "8&nbsp;<span style=\"\">days</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">LCM of 10, 20 is 20.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Raj's work rate = 20/20 = 1, Pratap's work rate =20/10 = 2</p>\n\n<p style=\"color: rgb(33, 37, 41);\">To calculate the number of days required to complete 3/5 of the total work</p>\n\n<p style=\"color: rgb(33, 37, 41);\">= (20 × 3/5)/3 = 12/3 = 4</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q12",
+      "number": 12,
+      "question": "24 persons can do a piece of work in 20 days. In how many days can 30 persons do the same work?",
+      "questionHtml": "24 persons can do a piece of work in 20 days. In how many days can 30 persons do the same work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "18",
+          "html": "18"
+        },
+        {
+          "id": "B",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "C",
+          "text": "14",
+          "html": "14"
+        },
+        {
+          "id": "D",
+          "text": "12",
+          "html": "12"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Time taken by 24 persons to do a work = 20 days&nbsp;</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Total work = Persons&nbsp;&times; Days&nbsp;</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Total work = 24&nbsp;&times; 20&nbsp;</p>\n\n<p>No of days taken by 30 persons = (24&nbsp;&times; 20)/30 = 16&nbsp;</p>\n\n<p><strong>&there4; The required no of days = 16&nbsp;</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q13",
+      "number": 13,
+      "question": "40 persons take 6 days to complete a certain task, working 10 hours a day. How many hours a day will be sufficient for 30 persons to complete the same task in 10 days?",
+      "questionHtml": "<p>40 persons take 6 days to complete a certain task, working 10 hours a day. How many hours a day will be sufficient for 30 persons to complete the same task in 10 days?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "B",
+          "text": "10",
+          "html": "10"
+        },
+        {
+          "id": "C",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "6"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">40 persons take 6 days to complete a certain task, working 10 hours a day</span></p>\n\n<p><strong><span style=\"\">Formula used:</span></strong></p>\n\n<p><span style=\"\">(M<sub>1</sub>&nbsp;&times; D<sub>1</sub>&nbsp;&times; H<sub>1</sub>)/W<sub>1</sub>&nbsp;= (M<sub>2</sub>&nbsp;&times; D<sub>2</sub>&nbsp;&times; H<sub>2</sub>)/W<sub>2</sub></span></p>\n\n<p><span style=\"\">Where, M, D, H and W is the number of men, days, hours and amount of the work respectively.</span></p>\n\n<p><strong><span style=\"\">Calculation:</span></strong></p>\n\n<p><span style=\"\">Let the number of hours&nbsp;required to complete the task by 30 persons working 10 days be H respectively.</span></p>\n\n<p>According to the question</p>\n\n<p><span style=\"\">(M</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">1</span><span style=\"\">&nbsp;&times; D</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">1</span><span style=\"\">&nbsp;&times; H</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">1</span><span style=\"\">)/W</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">1</span><span style=\"\">&nbsp;= (M</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;&times; D</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;&times; H</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">2</span><span style=\"\">)/W<sub>2</sub></span></p>\n\n<p>&rArr; (40&nbsp;&times; 6&nbsp;&times; 10)/1 = (30&nbsp;&times; 10&nbsp;&times; H)/1</p>\n\n<p>&rArr; (2400) = 300H</p>\n\n<p>&rArr; H = (2400/300)</p>\n\n<p>&rArr; H = 8</p>\n\n<p><strong>&there4; T</strong><span style=\"\"><strong>he number of hours&nbsp;required to complete the task by 30 persons working 10 days is 8</strong>&nbsp;</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q14",
+      "number": 14,
+      "question": "A man can complete a work in 20 days, and a woman can complete the same work in 10 days. If they work on it together for 5 days, then how many days will the woman take to complete the rest of the work?",
+      "questionHtml": "A man can complete a work in 20 days, and a woman can complete the same work in 10 days. If they work on it together for 5 days, then how many days will the woman take to complete the rest of the work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(2 \\frac{1}{2}\\)",
+          "html": "<strong><span class=\"math-tex\">\\(2 \\frac{1}{2}\\)</span></strong>"
+        },
+        {
+          "id": "B",
+          "text": "\\(1 \\frac{1}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(1 \\frac{1}{4}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(3 \\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(3 \\frac{1}{2}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(1 \\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(1 \\frac{1}{2}\\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">A man can complete a work in 20 days</span></p>\n\n<p><span style=\"\">A woman can complete the same work in 10 days. </span></p>\n\n<p><span style=\"\">They work on it together for 5 days</span></p>\n\n<p><strong><span style=\"\">Calculation:</span></strong></p>\n\n<p><span style=\"\">According to the question,</span></p>\n\n<p><span style=\"\">1- day work of man&nbsp;=&nbsp;1/20</span></p>\n\n<p><span style=\"\">1- day work of woman&nbsp;=&nbsp;1/10</span></p>\n\n<p><span style=\"\">When they work together = 1/20 + 1/10 = 3/20</span></p>\n\n<p>They did work together for 5 days = 5&nbsp;&times; 3/20 = 3/4</p>\n\n<p>Remaining work = 1 - 3/4 = 1/4</p>\n\n<p>Time to complete 1/4 work only by woman = (1/4) &divide; (1/10) = 10/4 = 5/2</p>\n\n<p><strong>&there4; T<span style=\"\">he woman will take&nbsp;</span>5/2 or&nbsp;<span class=\"math-tex\">\\(2 \\frac{1}{2}\\)</span> <span style=\"\">to complete the rest of the work.</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q15",
+      "number": 15,
+      "question": "Aarush and Maahi together can do a piece of work in 10 days. If Aarush alone can do the same work in 15 days, then how many days Maahi alone will take to do the same work?",
+      "questionHtml": "Aarush and Maahi together can do a piece of work in 10 days. If Aarush alone can do the same work in 15 days, then how many days Maahi alone will take to do the same work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "25",
+          "html": "25"
+        },
+        {
+          "id": "B",
+          "text": "15",
+          "html": "15"
+        },
+        {
+          "id": "C",
+          "text": "30",
+          "html": "30"
+        },
+        {
+          "id": "D",
+          "text": "20",
+          "html": "20"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Total work = LCM of (10, 15) = 30 unit</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Efficiency of Aarush and Maahi = 30 /10 = 3 unit/day and efficiency of Aarush = 30/15 = 2 unit/day</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, efficiency of Maahi = 3 - 2 = 1 unit/day</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Now, Maahi can do the work in = Total unit/Efficiency = 30/1 = 30 days </p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q16",
+      "number": 16,
+      "question": "P can do a work in 10 days and Q can do the same work in 15 days. If they work on it together for 3 days, then the fraction of the work that is left is:",
+      "questionHtml": "P can do a work in 10 days and Q can do the same work in 15 days. If they work on it together for 3 days, then the fraction of the work that is left is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/2",
+          "html": "1/2"
+        },
+        {
+          "id": "B",
+          "text": "1/3",
+          "html": "1/3"
+        },
+        {
+          "id": "C",
+          "text": "2/3",
+          "html": "2/3"
+        },
+        {
+          "id": "D",
+          "text": "4/3",
+          "html": "4/3"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong><span style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Given:</span></strong></p>\n\n<p><span style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">P can do a work in 10 days</span></p>\n\n<p><span style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Q can do the work in 15 days</span></p>\n\n<p><strong><span style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Calculation:</span></strong></p>\n\n<p>Amount of work P can do in 1 day = 1/10</p>\n\n<p>Amount of work Q can do in 1 day = 1/15</p>\n\n<p>Amount of work P and Q can do in 1 day = 1/10 + 1/15 = 5/30</p>\n\n<p>Amount of work P and Q can do in 3&nbsp;day&nbsp;= 15/30 = 1/2</p>\n\n<p><span style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Fraction of work left =&nbsp;</span>1&nbsp;&ndash; 1/2 = 1/2</p>\n\n<p><strong>&there4; 1/2 of the work&nbsp;is left</strong></p>\n\n<p><strong><img height=\"46px\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage37.png\" width=\"240px\" /></strong></p>\n\n<p>LCM of 10 and 15 is 30</p>\n\n<p>Efficiency of P = 30/10 = 3</p>\n\n<p>Efficiency of P = 30/15&nbsp;= 2</p>\n\n<p>Total work done by P and Q in 3 days = [(3 + 2)&nbsp;&times; 3]</p>\n\n<p>&rArr; 15</p>\n\n<p>Remaining work = 30&nbsp;&ndash; 15 = 15</p>\n\n<p>Fraction of work left = 15/30 = 1/2</p>\n\n<p><span style=\"font-weight: 700;\">&there4; 1/2 of the work&nbsp;is left</span></p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/quesImage37.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q17",
+      "number": 17,
+      "question": "A, B and C can independently complete the same task in 4, 6 and 12 days, respectively. In how many days will they be able to complete the same task if they work together?",
+      "questionHtml": "A, B and C can independently complete the same task in 4, 6 and 12 days, respectively. In how many days will they be able to complete the same task if they work together?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "C",
+          "text": "\\(2\\frac{1}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(2\\frac{1}{4}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(2\\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(2\\frac{1}{2}\\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>A can do in 4 days</p>\n\n<p>B can do in 6 days</p>\n\n<p>C can do in 12 days</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>One day work of x = 1/b</p>\n\n<p>Here b = time to taken to complete the work</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>A&#39;s one day work = 1/4</p>\n\n<p>B&#39;s one day work = 1/6</p>\n\n<p>C&#39;s one day work = 1/12</p>\n\n<p>A + B + C one work = 1/4 + 1/6 + 1/12</p>\n\n<p>&rArr; (3 + 2 + 1)/12</p>\n\n<p>&rArr; 6/12</p>\n\n<p>&rArr; 1/2</p>\n\n<p>&rArr; Time = 2 days</p>\n\n<p><strong>&there4; They will complete in 2 days</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span></strong><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/21/12/F1_Pooja%20S_08-12-21_Savita_D1.png\" style=\"width: 238px; height: 159px;\" /></p>\n\n<p>Total efficiency = 6</p>\n\n<p>So, work will be complete in 12/6 = 2 days</p>\n\n<p><span style=\"font-weight: 700;\">&there4; They will complete in 2 days</span></p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "https://storage.googleapis.com/tb-img/production/21/12/F1_Pooja%20S_08-12-21_Savita_D1.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q18",
+      "number": 18,
+      "question": "A can do a piece of work in 12 days and B can do the same work in 15 days. If both do the work together, then in how many days will the work be completed?",
+      "questionHtml": "A can do a piece of work in 12 days and B can do the same work in 15 days. If both do the work together, then in how many days will the work be completed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "7 \\(\\frac{2}{3}\\)",
+          "html": "7<span class=\"math-tex\">\\(\\frac{2}{3}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "6 \\(\\frac{2}{3}\\)",
+          "html": "6<span class=\"math-tex\">\\(\\frac{2}{3}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "5 \\(\\frac{2}{3}\\)",
+          "html": "5<span class=\"math-tex\">\\(\\frac{2}{3}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "8 \\(\\frac{2}{3}\\)",
+          "html": "8<span class=\"math-tex\">\\(\\frac{2}{3}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">If they work together then do in 1 day</p>\n\n<p style=\"color: rgb(33, 37, 41);\"> <span class=\"math-tex\">\\(\\frac{1}{12}\\)</span> + <span class=\"math-tex\">\\(\\frac{1}{15}\\)</span> = 3/20 part</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total work will be done in, 20 / 3 days = <span style=\"color: rgb(33, 37, 41);\">6</span><span class=\"math-tex\">\\(\\frac{2}{3}\\)</span> days</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q19",
+      "number": 19,
+      "question": "Brijesh can complete a work in 4 days, Ashish in 5 days, and Anand in 10 days. What will be the time taken by Brijesh, Ashish, and Anand to complete the work together?",
+      "questionHtml": "Brijesh can complete a work in 4 days, Ashish in 5 days, and Anand in 10 days. What will be the time taken by Brijesh, Ashish, and Anand to complete the work together?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 \\(\\frac{9}{11}\\) days",
+          "html": "1<span class=\"math-tex\">\\(\\frac{9}{11}\\)</span> days"
+        },
+        {
+          "id": "B",
+          "text": "2 days",
+          "html": "2&nbsp;<span data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">days</span>"
+        },
+        {
+          "id": "C",
+          "text": "1 day",
+          "html": "1&nbsp;<span data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">day</span>"
+        },
+        {
+          "id": "D",
+          "text": "2 \\(\\frac{9}{11}\\) days",
+          "html": "2<span class=\"math-tex\">\\(\\frac{9}{11}\\)</span>&nbsp;<span data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">days</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p data-darkreader-inline-color=\"\" style=\"color: rgb(30, 43, 51); user-select: text !important; pointer-events: initial !important; --darkreader-inline-color: #cecac4;\"><span data-darkreader-inline-color=\"\" style=\"color: rgb(30, 43, 51); --darkreader-inline-color: #cecac4;\">Let the entire work be </span>LCM (4, 5 and 10) = 20</p>\n\n<p data-darkreader-inline-color=\"\" style=\"color: rgb(30, 43, 51); user-select: text !important; pointer-events: initial !important; --darkreader-inline-color: #cecac4;\"><span data-darkreader-inline-color=\"\" style=\"color: rgb(30, 43, 51); --darkreader-inline-color: #cecac4;\">Brijesh </span>does each day = 20 ÷ 4 = 5 units</p>\n\n<p data-darkreader-inline-color=\"\" style=\"color: rgb(30, 43, 51); user-select: text !important; pointer-events: initial !important; --darkreader-inline-color: #cecac4;\">Ashish does each day = <span data-darkreader-inline-color=\"\" style=\"color: rgb(30, 43, 51); --darkreader-inline-color: #cecac4;\">20 ÷ 5</span> = 4 units</p>\n\n<p data-darkreader-inline-color=\"\" style=\"color: rgb(30, 43, 51); user-select: text !important; pointer-events: initial !important; --darkreader-inline-color: #cecac4;\"><span data-darkreader-inline-color=\"\" style=\"color: rgb(30, 43, 51); --darkreader-inline-color: #cecac4;\">Anand does each day = </span><span data-darkreader-inline-color=\"\" style=\"color: rgb(30, 43, 51); --darkreader-inline-color: #cecac4;\">20 ÷ 10</span><span data-darkreader-inline-color=\"\" style=\"color: rgb(30, 43, 51); --darkreader-inline-color: #cecac4;\"> = 2 units</span></p>\n\n<p data-darkreader-inline-color=\"\" style=\"color: rgb(30, 43, 51); user-select: text !important; pointer-events: initial !important; --darkreader-inline-color: #cecac4;\">Together they will do the remaining work = 20/11 = 1(9/11) days</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q20",
+      "number": 20,
+      "question": "24 men can complete a work in 15 days. How many men are needed to complete the same work in 10 days?",
+      "questionHtml": "24 men can complete a work in 15 days. How many men are needed to complete the same work in 10 days?",
+      "options": [
+        {
+          "id": "A",
+          "text": "16",
+          "html": "<span style=\"\"><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">16</font></font></span>"
+        },
+        {
+          "id": "B",
+          "text": "20",
+          "html": "<span style=\"\"><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">20</font></font></span>"
+        },
+        {
+          "id": "C",
+          "text": "36",
+          "html": "<span style=\"\"><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">36</font></font></span>"
+        },
+        {
+          "id": "D",
+          "text": "25",
+          "html": "<span style=\"\"><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">25</font></font></span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">24 men can complete a work in 15 days</span></p>\n\n<p><strong>Concept Used:</strong></p>\n\n<p><span style=\"\">(M</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">1</span><span style=\"\">&nbsp;</span><span style=\"\">&times; D</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">1</span><span style=\"\">) = (</span><span style=\"\">M</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">&times; D</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">2</span><span style=\"\">)</span></p>\n\n<p><span style=\"\">M</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">1</span>&nbsp;= Initial men, D<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">1</span>&nbsp;= Initial day, M<sub>2</sub>&nbsp;= Final men, D<sub>2</sub>&nbsp;= Final day</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>&rArr; (M<sub>1</sub>&nbsp;&times; D<sub>1</sub>) = (M<sub>2</sub>&nbsp;&times; D<sub>2</sub>)</p>\n\n<p><span style=\"\">&rArr; 24&nbsp;&times; 15 = M</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">2&nbsp;</span><span style=\"\">&times; 10</span></p>\n\n<p><span style=\"\">&rArr; M</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">2&nbsp;</span>= 36</p>\n\n<p><strong>Therefore, 36&nbsp;<span style=\"\">men will complete the same work in 10 days.</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q21",
+      "number": 21,
+      "question": "Working together, A, B and C can finish a piece of work in 3 hours. A finishes the same work in 8 hours and B finishes it in 6 hours. How long will it take for C alone to finish the same work?",
+      "questionHtml": "Working together, A, B and C can finish a piece of work in 3 hours. A finishes the same work in 8 hours and B finishes it in 6 hours. How long will it take for C alone to finish the same work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15 hours",
+          "html": "15 hours"
+        },
+        {
+          "id": "B",
+          "text": "12 hours",
+          "html": "12&nbsp;hours"
+        },
+        {
+          "id": "C",
+          "text": "24 hours",
+          "html": "24&nbsp;hours"
+        },
+        {
+          "id": "D",
+          "text": "18 hours",
+          "html": "18&nbsp;hours"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>No of days taken by A, B &amp; C = 3 hours&nbsp;</p>\n\n<p>No of days taken by A = 8 hours</p>\n\n<p>No of days taken by B = 6 hours&nbsp;</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Time = Total work/Efficiency</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let the total work be the LCM of 3, 8, and 6 = 24 units&nbsp;</p>\n\n<p>No of hours&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Work&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Efficiency&nbsp;</p>\n\n<p>A + B + C = 3 hours&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 8&nbsp;</p>\n\n<p>A&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; = 8 hours&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 24 units&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3</p>\n\n<p>B&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; = 6 hours&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4&nbsp;</p>\n\n<p>&rArr; C&#39;s efficiency = 8 - 3 - 4 = 1 unit per day&nbsp;</p>\n\n<p><strong>&there4; The required no of hours taken by C = 24/1 = 24 hours&nbsp;</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q22",
+      "number": 22,
+      "question": "Ankita can write a manuscript in 20 days. Ankita, along her friend Somya, can write the manuscript in 12 days. In how many days can Somya alone write the manuscript?",
+      "questionHtml": "Ankita can write a manuscript in 20 days. Ankita, along her friend Somya, can write the manuscript in 12 days. In how many days can Somya alone write the manuscript?",
+      "options": [
+        {
+          "id": "A",
+          "text": "22",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">22</font></font>"
+        },
+        {
+          "id": "B",
+          "text": "32",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">32</font></font>"
+        },
+        {
+          "id": "C",
+          "text": "28",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">28</font></font>"
+        },
+        {
+          "id": "D",
+          "text": "30",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">30</font></font>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">Ankita(A) can write a manuscript in</span>&nbsp;= 20 days</p>\n\n<p>Ankita(A) + Somya(S)&nbsp;<span style=\"\">can write the manuscript in</span> = 12 days</p>\n\n<p><strong>Solution:</strong></p>\n\n<p><span class=\"math-tex\">\\(\\frac{1}{20} + \\frac{1}{S} = \\frac{1}{12}\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\frac{1}{S} = \\frac{1}{12} - \\frac{1}{20}\\)</span></p>\n\n<p>S =&nbsp;<span class=\"math-tex\">\\(\\frac{240}{8}\\)</span> = 30</p>\n\n<p>Somya alone can write the manuscript in 30 days.</p>\n\n<p><strong>Hence, the correct answer is <span style=\"\">30</span>.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q23",
+      "number": 23,
+      "question": "Kamal and Anil can dig a pond in 8 days and 14 days, respectively. If the total wages of digging is ₹ 4,400 then how much money will Anil earn?",
+      "questionHtml": "Kamal and Anil can dig a pond in 8 days and 14 days, respectively. If the total wages of digging is&nbsp;₹ 4,400 then how much money will Anil earn?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 1,400",
+          "html": "Rs. 1,400"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 1,600",
+          "html": "Rs. 1,600"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 1,500",
+          "html": "Rs. 1,500"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 1,300",
+          "html": "Rs. 1,300"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Days Kamal takes to dig a pond = 8 days</p>\n\n<p>Days Anil takes to dig a pond = 14 days</p>\n\n<p>The expense of digging a pond = ₹ 4,400</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Wages = Efficiency &times; Time period</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Taking L.C.M of 8 and 14</p>\n\n<p>&rArr; L.C.M of 8 and 14 = 56</p>\n\n<p>&rArr; Efficiency of Kamal = (56/8) = 7</p>\n\n<p>&rArr; Efficiency of Anil = (56/14) = 4</p>\n\n<p>As both worked for the equal time period</p>\n\n<p>Wages ratio = 7 : 4</p>\n\n<p>&rArr; Total wages in terms of ratio = 7 + 4 = 11 units</p>\n\n<p>Actual wages = Rs.&nbsp;4,400</p>\n\n<p>&rArr; Money earned by Anil = (4400/11) &times; 4 = 1,600</p>\n\n<p><strong>&there4; The money earned by Anil is Rs.</strong><strong>&nbsp;1,600.&nbsp;</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q24",
+      "number": 24,
+      "question": "Aditya can complete the work of painting a grill in 20 hours while Vinay can complete the same work in 15 hours. If Aditya and Vinay both work together, then in how many hours will the grill painting work be completed?",
+      "questionHtml": "Aditya can complete the work of painting a grill in 20 hours while Vinay can complete the same work in 15 hours. If Aditya and Vinay both work together, then in how many hours will the grill painting work be completed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(10{2 \\over 3}\\)",
+          "html": "<span class=\"math-tex\">\\(10{2 \\over 3}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "10",
+          "html": "10"
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "D",
+          "text": "\\(8{4 \\over 7}\\)",
+          "html": "<span class=\"math-tex\">\\(8{4 \\over 7}\\)</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Total work = LCM of 20 and 15 = 60</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Efficiency of Aditya = 60/20 = 3</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Efficiency of Vinay = 60/15 = 4</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Time taken together = 60/(3 + 4) = 60/7 = 8(4/7) hours</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q25",
+      "number": 25,
+      "question": "A can do a work in 15 days and B can do it in 10 days. If they work together for 4 days, then the fraction of the work left is:",
+      "questionHtml": "A can do a work in 15 days and B can do it in 10 days. If they work together for 4 days, then the fraction of the work left is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{3}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{3}{4}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{2}{3}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{2}{3}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{1}{3}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{3}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{1}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{4}\\)</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given&nbsp;</strong></p>\n\n<p>A can do work = 15 days&nbsp;</p>\n\n<p>B can do work = 10 days&nbsp;</p>\n\n<p><strong>Formula</strong></p>\n\n<p>Work = time&nbsp;&times; Efficiency&nbsp;</p>\n\n<p><strong>Calculation&nbsp;</strong></p>\n\n<p>&rArr;&nbsp;&nbsp;Take LCM of (10,15) = 30&nbsp;</p>\n\n<p>&rArr; Let the total work be 30&nbsp;</p>\n\n<p>&rArr; Efficiency of A = 30/15 = 2&nbsp;</p>\n\n<p>&rArr; Efficiency of B = 30/10 = 3&nbsp;</p>\n\n<p>&rArr; A and B can do work in 4 days = 5&nbsp;&times; 4 = 20</p>\n\n<p>&rArr; Remaining work = 30 - 20 = 10&nbsp;</p>\n\n<p>&rArr; Fraction of the left work = 10/30 = 1/3&nbsp;</p>\n\n<p>&there4; The fraction of the remaining work is 1/3&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q26",
+      "number": 26,
+      "question": "A man can finish a work in 10 days and a woman can finish it in 12 days. In how many days will the work be finished by a man and a woman, working together every day?",
+      "questionHtml": "A man can finish a work in 10 days and a woman can finish it in 12 days. In how many days will the work be finished by a man and a woman, working together every day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{60}{11}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{60}{11}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{61}{10}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{61}{10}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{31}{10}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{31}{10}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{30}{11}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{30}{11}\\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\"> </p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Time</td>\n\t\t\t<td>Total work</td>\n\t\t\t<td>Efficiency</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(Man) 10</td>\n\t\t\t<td colspan=\"1\" rowspan=\"2\">60</td>\n\t\t\t<td>6</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>(Woman) 12</td>\n\t\t\t<td>5</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p> </p>\n\n<p><span style=\"color: rgb(30, 43, 51);\">They will together complete the work in </span>= 60/(6 + 5) = 60/11 days.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q27",
+      "number": 27,
+      "question": "A worker completes \\(\\frac{3}{5}\\) of a work in 12 days. In how many days will he complete \\(\\frac{3}{4}\\) of the work?",
+      "questionHtml": "A worker completes&nbsp;<span class=\"math-tex\">\\(\\frac{3}{5}\\)</span> of a work in 12 days. In how many days will he complete&nbsp;<span class=\"math-tex\">\\(\\frac{3}{4}\\)</span>&nbsp;of the work?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "18",
+          "html": "18"
+        },
+        {
+          "id": "B",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "C",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "html": "15"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\">Time taken by worker to complete 3/5 part of a work = 12 days</p>\n\n<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\">Time taken by worker to complete whole work = 12 × 5/3 = 20 days</p>\n\n<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\">Time taken by worker to complete 3/4 part of a work = 15 days</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q28",
+      "number": 28,
+      "question": "A man, a boy and a woman can finish a work in 10 days, 15 days and 30 days, respectively. In how many days can the work be finished by a man, a woman and a boy when all of them work together?",
+      "questionHtml": "A man, a boy and a woman can finish a work in 10 days, 15 days and 30 days, respectively. In how many days can the work be finished by a man, a woman and a boy when all of them work together?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10",
+          "html": "10"
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "6"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(30, 43, 51);  \">1 Man × 10 days = 1 Woman × 30 days = 1 Boy × 15 days</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">⇒ 2 Man = 6 Woman = 3 Boy</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">∴ The ratio of efficiency of a man, woman and boy = 3 ∶ 1 ∶ 2</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Work done = 1<span style=\"color: rgb(30, 43, 51);\"> × 3 × 10 days ⇒ 30</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"color: rgb(30, 43, 51);\">Together they will complete the work in: ⇒ 30 / (3 + 1 + 2) ⇒ 5 days</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q29",
+      "number": 29,
+      "question": "A can complete a work in 8 days and B can complete the same work in 11 days. How long will they take, if both work together?",
+      "questionHtml": "A can complete a work in 8 days and B can complete the same work in 11 days. How long will they take, if both work together?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 \\({12 \\over 17}\\) days",
+          "html": "4<span class=\"math-tex\">\\({12 \\over 17}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "B",
+          "text": "5 \\({12 \\over 19}\\) days",
+          "html": "5<span class=\"math-tex\">\\({12 \\over 19}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "C",
+          "text": "4 \\({11 \\over 19}\\) days",
+          "html": "4<span class=\"math-tex\">\\({11 \\over 19}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "D",
+          "text": "4 \\({12 \\over 19}\\) days",
+          "html": "4<span class=\"math-tex\">\\({12 \\over 19}\\)</span>&nbsp;days"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">LCM of 8 and 11 = 88. </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">The efficiency of A = Total work / time taken ⇒ 88 / 8 = 11 unit. </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">The efficiency of B = </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">88 / 11 = 8 unit</span></p>\n\n<p>Efficiency of A and B together = Efficiency of A + Efficiency of B ⇒ 11 + 8 = 19 unit/day</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Time taken = Total work / Efficiency of both ⇒ 88 / 19 = <span class=\"math-tex\">\\(4\\frac{12}{19}\\)</span> days</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q30",
+      "number": 30,
+      "question": "If 50 boys can finish a work in 30 days by working 6 hours per day, then how many hours per day should 25 boys work to finish that work within 24 days?",
+      "questionHtml": "If 50 boys can finish a work in 30 days by working 6 hours per day, then how many hours per day should 25 boys work to finish that work within 24 days?",
+      "options": [
+        {
+          "id": "A",
+          "text": "18 hours",
+          "html": "18&nbsp;hours"
+        },
+        {
+          "id": "B",
+          "text": "10 hours",
+          "html": "10&nbsp;hours"
+        },
+        {
+          "id": "C",
+          "text": "12 hours",
+          "html": "12&nbsp;hours"
+        },
+        {
+          "id": "D",
+          "text": "15 hours",
+          "html": "15&nbsp;hours"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">(50 × 6 × 30) = (25 × 24 × H</span><span style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align); position: relative; line-height: 0; vertical-align: baseline; bottom: -0.25em; font-size: 10.5px;\">2</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">) ⇒ H</span><span style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align); position: relative; line-height: 0; vertical-align: baseline; bottom: -0.25em; font-size: 10.5px;\">2</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> = (50 × 6 × 30)/(25 × 24) ⇒ H</span><span style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align); position: relative; line-height: 0; vertical-align: baseline; bottom: -0.25em; font-size: 10.5px;\">2</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> = 15</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q31",
+      "number": 31,
+      "question": "A alone can complete a work in 40 days. 20 percent of the same work will be completed by A in how many days?",
+      "questionHtml": "A alone can complete a work in 40 days. 20 percent of the same work will be completed by A in how many days?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8 days",
+          "html": "8 days"
+        },
+        {
+          "id": "B",
+          "text": "10 days",
+          "html": "10 days"
+        },
+        {
+          "id": "C",
+          "text": "5 days",
+          "html": "5 days"
+        },
+        {
+          "id": "D",
+          "text": "6 days",
+          "html": "6 days"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">A's rate is 1/40 of the work per day.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Time for 20% of work is: Time = 0.20 / (1/40) = 8 days.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, A takes 8 days to complete 20% of the work.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q32",
+      "number": 32,
+      "question": "A and B together can do a piece of work in 12 days, while A alone can complete the same work in 18 days. How long will B alone take to complete the work?",
+      "questionHtml": "<div>A and B together can do a piece of work in 12 days, while A alone can complete the same work in 18 days. How long will B alone take to complete the work?</div>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 days",
+          "html": "<span style=\"\">6 days</span>"
+        },
+        {
+          "id": "B",
+          "text": "12 days",
+          "html": "<span style=\"\">12 days&nbsp;</span>"
+        },
+        {
+          "id": "C",
+          "text": "24 days",
+          "html": "<span style=\"\">24 days</span>"
+        },
+        {
+          "id": "D",
+          "text": "36 days",
+          "html": "<span style=\"\">36 days</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">One day work of B = (One day Work of A + B) - (One day Work of A) </p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ B = 1/12 - 1/18 ⇒ B = (3 - 2)/ 36 ⇒ B = 1/36 = 36 days</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q33",
+      "number": 33,
+      "question": "A and B can complete a work in 36 days and 45 days respectively. They worked together for 2 days and then A left the work. In how many days will B complete the remaining work?",
+      "questionHtml": "A and B can complete a work in 36 days and 45 days respectively. They worked together for 2 days and then A left the work. In how many days will B complete the remaining work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "41.5",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">41.5</font></font>"
+        },
+        {
+          "id": "B",
+          "text": "40",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">40</font></font>"
+        },
+        {
+          "id": "C",
+          "text": "41",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">41</font></font>"
+        },
+        {
+          "id": "D",
+          "text": "40.5",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">40.5</font></font>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Efficiency of A = Total work / Efficiency = 180/36 = 5 unit, Efficiency of B = Total work / Efficiency = 180/45 = 4 unit</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ The efficiency of Both = Efficiency of A + Efficiency of B = 4 + 5 = 9 unit</p>\n\n<p style=\"color: rgb(33, 37, 41);\">As they work for 2 days ⇒ Work completed in 2 days = 9 x 2 = 18 unit work</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ Remaining work = 180 - 18 = 162 unit work</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"color: rgb(33, 37, 41);\">Time was taken by B to complete the work = Total work / Efficiency = 162 / 4 = 40.5 days</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q34",
+      "number": 34,
+      "question": "A, B and C together can finish a piece of work in 20 days. A alone can finish the work in 40 days. What part of the work B and C together can finish in a day?",
+      "questionHtml": "A, B and C together can finish a piece of work in 20 days. A alone can finish the work in 40 days. What part of the work B and C together can finish in a day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/5",
+          "html": "<span style=\"\">1/5</span>"
+        },
+        {
+          "id": "B",
+          "text": "1/20",
+          "html": "<span style=\"\">1/20</span>"
+        },
+        {
+          "id": "C",
+          "text": "1/10",
+          "html": "<span style=\"\">1/10</span>"
+        },
+        {
+          "id": "D",
+          "text": "1/40",
+          "html": "<span style=\"\">1/40</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">A's work per day = 1/40 of the total work.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">A, B and C's combined work per day = 1/20 of the total work.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">B and C's combined work per day = A, B and C's combined work per day - A's work per day = 1/20 - 1/40 = 1/40 of the total work.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q35",
+      "number": 35,
+      "question": "Ali, Avtar Singh and Ashok working together can finish a work in 8 days. Ali alone can do it in 20 days and Avtar Singh alone can do it in 24 days. In how many days can Ashok alone do the same work?",
+      "questionHtml": "Ali, Avtar Singh and Ashok working together can finish a work in 8 days. Ali alone can do it in 20 days and Avtar Singh alone can do it in 24 days. In how many days can Ashok alone do the same work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "30",
+          "html": "30"
+        },
+        {
+          "id": "B",
+          "text": "28",
+          "html": "28"
+        },
+        {
+          "id": "C",
+          "text": "26",
+          "html": "26"
+        },
+        {
+          "id": "D",
+          "text": "25",
+          "html": "25"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Total work = LCM of 8, 20 and 24 = 120 units</p>\n\n<p>Total efficiency = 120/8 = 15 unit/day</p>\n\n<p>Ali's <span style=\"color: rgb(33, 37, 41);\">efficiency = 120/20 = 6 unit/day</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Avtar's </span><span style=\"color: rgb(33, 37, 41);\">efficiency = 120/24 = 5 unit/day</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Time taken by Ashok = 120/[15 - (6 + 5)] = 15 days</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q36",
+      "number": 36,
+      "question": "How many men will be required to plough 50 acres of land in 10 days if 15 men are required 6 days to plough 10 acres of land?",
+      "questionHtml": "How many men will be required to plough 50 acres of land in 10 days if 15 men are required 6 days to plough 10 acres of land?",
+      "options": [
+        {
+          "id": "A",
+          "text": "45",
+          "html": "45"
+        },
+        {
+          "id": "B",
+          "text": "40",
+          "html": "40"
+        },
+        {
+          "id": "C",
+          "text": "55",
+          "html": "55"
+        },
+        {
+          "id": "D",
+          "text": "50",
+          "html": "50"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>15 men required 6 days to plough 10 acres of land</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>M&shy;<sub>1</sub>D<sub>1</sub>/W<sub>1</sub> = M&shy;<sub>2</sub>D<sub>2</sub>/W<sub>2</sub></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>&rArr; M&shy;<sub>1 </sub>= 15, D<sub>1 </sub>= 6, W<sub>1</sub> = 10</p>\n\n<p>&rArr; M&shy;<sub>2 </sub>=? ,<span style=\"\">D</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">2</span><sub> </sub>= 10, <span style=\"\">W</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">2</span>= 50</p>\n\n<p>&rArr; 15 &times; 6/10 = M<sub>2</sub> &times; 10/50</p>\n\n<p>&rArr; M<sub>2</sub> = 45</p>\n\n<p>&there4; The total men required is 45</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q37",
+      "number": 37,
+      "question": "X does a work in 6 days, while Y does it in 12 days. If they work alternatively and X begins, in how many days will the work be finished?",
+      "questionHtml": "<p>X does a work in 6 days, while Y does it in 12 days. If they work alternatively and X begins, in how many days will the work be&nbsp;finished?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "7",
+          "html": "7"
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "6"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Work Efficiency for X = units/day, Work Efficiency for Y = units/day</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Work starts with X First day work by X = 3 units,</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Second day work by Y = 1.5 units</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Same way, working alternatively number of days taken to complete the work = <span class=\"math-tex\">\\(\\frac{18}{4.5}\\times 2=8\\)</span> days</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q38",
+      "number": 38,
+      "question": "15 boys can complete a work in 28 days, then in how many days can 21 boys complete the same work?",
+      "questionHtml": "15 boys can complete a work in 28 days, then in how many days can 21 boys complete the same work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "18",
+          "html": "18"
+        },
+        {
+          "id": "B",
+          "text": "24",
+          "html": "24"
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "D",
+          "text": "21",
+          "html": "21"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Let total work will be 28 × 15 = 420 units</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So it would be done by 21 boys by 420 / 21 = 20 days</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q39",
+      "number": 39,
+      "question": "A and B can do a piece of work in eight days and B alone can do it in 16 days. In how many days, can A do it alone?",
+      "questionHtml": "A and B can do a piece of work in eight days and B alone can do it in 16 days. In how many days, can A do it alone?",
+      "options": [
+        {
+          "id": "A",
+          "text": "18 days",
+          "html": "18 days"
+        },
+        {
+          "id": "B",
+          "text": "24 days",
+          "html": "24 days"
+        },
+        {
+          "id": "C",
+          "text": "16 days",
+          "html": "16 days"
+        },
+        {
+          "id": "D",
+          "text": "10 days",
+          "html": "10 days"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Work by A and B in one day = 1/8, Work by B alone in one day = 1/16,</p>\n\n<p>Work by A in one day = (1/8) - (1/16), = (2/16) - (1/16), = 1/16,</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Days A alone can do the work = 1 / (1/16), = 16 days</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q40",
+      "number": 40,
+      "question": "A and B can complete a work in 10 days and 15 days, respectively. They got a total of Rs. 1,250 for that work. What will be B&rsquo;s share?",
+      "questionHtml": "A and B can complete a work in 10 days and 15 days, respectively. They got a total of Rs. 1,250 for that work. What will be B&rsquo;s share?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 400",
+          "html": "Rs. 400"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 500",
+          "html": "Rs. 500"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 600",
+          "html": "Rs. 600"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 200",
+          "html": "Rs. 200"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Total work = LCM of 10, 15 = 30units</p>\n\n<p><span style=\"\">⇒ </span>Efficiency of A, and B are  3 and 2 unit work in one day</p>\n\n<p><span style=\"\">⇒ The efficiency of both = Efficiency of A + Efficiency of B = 5  ⇒ Amount per day = Total amount / Efficiency of both = 1250 / 5 = Rs. 250</span></p>\n\n<p><span style=\"\">⇒ The amount B get = Amount per day</span><span style=\"\"> x Efficiency of B = 250 x 2 = Rs. 500</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q41",
+      "number": 41,
+      "question": "A can do a work in 12 days and B can do the same work in 16 days. If they work on it together for 4 days. Then the fraction of the work that is left is:",
+      "questionHtml": "A can do a work in 12 days and B can do the same work in 16 days. If they work on it together for 4 days. Then the fraction of the work that is left is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "7/8",
+          "html": "7/8"
+        },
+        {
+          "id": "B",
+          "text": "9/16",
+          "html": "9/16"
+        },
+        {
+          "id": "C",
+          "text": "3/5",
+          "html": "3/5"
+        },
+        {
+          "id": "D",
+          "text": "5/12",
+          "html": "5/12"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given-</strong></p>\n\n<p>Time is taken by A to&nbsp;do a work =&nbsp;12 days</p>\n\n<p>Time is taken by B to&nbsp;do the same work =&nbsp;16 days</p>\n\n<p><strong>Concept Used-</strong></p>\n\n<p>Total Work = Efficiency&nbsp;&times; Total Time</p>\n\n<p><strong>Calculation-</strong>&nbsp;</p>\n\n<p>Let the total work be 48 units.</p>\n\n<p>Efficiency of A = 48/12</p>\n\n<p>&rArr; 4</p>\n\n<p>Efficiency of B&nbsp;= 48/16</p>\n\n<p>&rArr; 3</p>\n\n<p>Work done them in 4 days = 4 &times; (4 + 3)</p>\n\n<p>&rArr; 28 units</p>\n\n<p>Left Work = 48 - 28</p>\n\n<p>&rArr; 20 units</p>\n\n<p>&there4; Fraction of work that is left =&nbsp;20/48</p>\n\n<p>&rArr; 5/12</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q42",
+      "number": 42,
+      "question": "If 7 people working 4 hours a day can complete a task in 14 days. The number of days taken by 12 people working 8 hours a day will be:",
+      "questionHtml": "If 7 people working 4 hours a day can complete a task in 14 days. The number of days taken by 12 people working 8 hours a day will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 \\(\\frac{1}{8}\\) days",
+          "html": "5<span class=\"math-tex\">\\(\\frac{1}{8}\\)</span>&nbsp;<span data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">days</span>"
+        },
+        {
+          "id": "B",
+          "text": "8 days",
+          "html": "8 days"
+        },
+        {
+          "id": "C",
+          "text": "4 \\(\\frac{1}{12}\\) days",
+          "html": "4<span class=\"math-tex\">\\(\\frac{1}{12}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "D",
+          "text": "7 \\(\\frac{1}{4}\\) days",
+          "html": "7<span class=\"math-tex\">\\(\\frac{1}{4}\\)</span>&nbsp;<span data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">days</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">The total work wil be 14 × 7 × 4 units </p>\n\n<p data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">So the required number of days,</p>\n\n<p data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">⇒ 14 × 7 × 4 / 12 × 8 = 49/12 = <span data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">4</span><span class=\"math-tex\">\\(\\frac{1}{12}\\)</span><span data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\"> </span><span data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">days</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q43",
+      "number": 43,
+      "question": "Rani can do a work in 10 days, Priya can do the same work in 15 days and Guddu can do the same work in 12 days. If they do that work together and they are paid Rs. 9000, then what is the share of Priya?",
+      "questionHtml": "Rani can do a work in 10 days, Priya can do the same work in 15 days and Guddu can do the same work in 12 days. If they do that work together and they are paid Rs. 9000, then what is the share of Priya?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 2400",
+          "html": "<span style=\"\">Rs. 2400</span>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 3000",
+          "html": "<span style=\"\">Rs. 3000</span>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 3500",
+          "html": "<span style=\"\">Rs. 3500</span>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 3600",
+          "html": "<span style=\"\">Rs. 3600</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Ratio of work done by Rani, Priya, and C:</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Rani : Priya : Guddu = 1/10 : 1/15 : 1/12 ⇒ 18 : 12 : 15 <span style=\"color: rgb(33, 37, 41);\">⇒ </span>6 : 4 : 5</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total amount paid to them = Rs. 9000</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Share of Priya = Rs. 9000 × (4)/(6 + 4 + 5) = <span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> Rs. 2400</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q44",
+      "number": 44,
+      "question": "A and B together can complete a piece of work in 15 days and B alone can complete it in 21 days. In how many days can A complete it alone?",
+      "questionHtml": "A and B together can complete a piece of work in 15 days and B alone can complete it in 21 days. In how many days can A complete it alone?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(41\\frac{1}{2}\\) days",
+          "html": "<span class=\"math-tex\">\\(41\\frac{1}{2}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "B",
+          "text": "\\(52\\frac{1}{2}\\) days",
+          "html": "<span class=\"math-tex\">\\(52\\frac{1}{2}\\)</span>days"
+        },
+        {
+          "id": "C",
+          "text": "\\(31\\frac{1}{2}\\) days",
+          "html": "<span class=\"math-tex\">\\(31\\frac{1}{2}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "D",
+          "text": "\\(57\\frac{1}{2}\\) days",
+          "html": "<span class=\"math-tex\">\\(57\\frac{1}{2}\\)</span>&nbsp;days"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(30, 43, 51);  \">Let the total work be <span style=\"color: rgb(30, 43, 51);\">LCM of (15, 21) = </span>105 </p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Efficiency of A and B = 105/15 = 7   </p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Efficiency of B  = <span style=\"color: rgb(30, 43, 51);\">105/21</span> = 5   </p>\n\n<p style=\"color: rgb(30, 43, 51);  \"> A alone can complete the work in days = 105/(7 - 5) = 52(1/2) days </p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q45",
+      "number": 45,
+      "question": "36 persons working 8 hours a day can do 3 units of work in 12 days. How many persons are required to do 5 units of that work in 16 days, if they work for 6 hours a day?",
+      "questionHtml": "36 persons working 8 hours a day can do 3 units of work in 12 days. How many persons are required to do 5 units of that work in 16 days, if they work for 6 hours a day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "50",
+          "html": "50"
+        },
+        {
+          "id": "B",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "C",
+          "text": "55",
+          "html": "55"
+        },
+        {
+          "id": "D",
+          "text": "45",
+          "html": "45"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let the number of persons be x</p>\n\n<p>As we know, Total work = Total work, so</p>\n\n<p>(M<sub>1</sub> &times; D<sub>1</sub> &times; T<sub>1</sub>)/W<sub>1</sub> = (M<sub>2</sub> &times; D<sub>2</sub> &times; T<sub>2</sub>)/W<sub>2</sub></p>\n\n<p>Given, M<sub>1</sub> = 36 person, D<sub>1</sub> = 12 days, W<sub>1</sub> = 3 units, T&shy;<sub>1</sub> = 8 hrs M<sub>2</sub> = x person, D<sub>2</sub> = 16 days, W<sub>2</sub> = 5, and T<sub>2</sub> = 6 hrs</p>\n\n<p>(M<sub>1</sub> &times; D<sub>1</sub> &times; T<sub>1</sub>)/W<sub>1</sub> = (M<sub>2</sub> &times; D<sub>2</sub> &times; T<sub>2</sub>)/W<sub>3</sub></p>\n\n<p>(36 &times; 12 &times; 8)/3 = (x &times; 16 &times; 6)/5</p>\nx = 60 persons",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q46",
+      "number": 46,
+      "question": "P alone can complete a piece of work in 12 days and Q can complete the same work in 18 days. With the help of R, all three finish the work in 6 days. In how many days can R alone complete the work?",
+      "questionHtml": "P alone can complete a piece of work in 12 days and Q can complete the same work in 18 days. With the help of R, all three finish the work in 6 days. In how many days can R alone complete the work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "36 days",
+          "html": "36 days"
+        },
+        {
+          "id": "B",
+          "text": "28 days",
+          "html": "28 days"
+        },
+        {
+          "id": "C",
+          "text": "25 days",
+          "html": "25 days"
+        },
+        {
+          "id": "D",
+          "text": "30 days",
+          "html": "30 days"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>P alone completes a piece of work in12 days</p>\n\n<p>Q completes the same work in18 days</p>\n\n<p>With the help of R, they finish in 6 days.</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>If a person does work in &lsquo;n&rsquo; days then, one day of work by a person is 1/n part of work.</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>One day work by &lsquo;P&rsquo; = 1/12&nbsp;part of the work</p>\n\n<p>One day work by &lsquo;Q&rsquo; = 1/18&nbsp;part of the work</p>\n\n<p>One day work by (P&nbsp;+ Q&nbsp;+ R) = 1/6 part of work</p>\n\n<p>&rArr; One day work by &lsquo;P&rsquo; + One day work by &lsquo;Q&rsquo; + One day work by &lsquo;R&rsquo; = 1/9</p>\n\n<p>&rArr; (1/12) + (1/18) + (1/R) = (1/6)</p>\n\n<p>&rArr; 1/R&nbsp;= (1/6) &ndash; (1/18) &ndash; (1/12)</p>\n\n<p>&rArr; 1/R&nbsp;= (6 &ndash; 2 &ndash; 3)/36</p>\n\n<p>&rArr; 1/R&nbsp;= 1/36</p>\n\n<p>&rArr; R&nbsp;= 36 days</p>\n\n<p><strong>&there4;</strong><strong> &lsquo;R&rsquo; alone can complete&nbsp;a work&nbsp;in 36 days.</strong></p>\n\n<p><strong><img height=\"46px\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage37.png\" width=\"240px\" /> </strong></p>\n\n<table align=\"left\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:68px;height:27px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:46px;height:27px;\">\n\t\t\t<p align=\"center\"><strong>Time</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:103px;height:27px;\">\n\t\t\t<p align=\"center\"><strong>Total work</strong></p>\n\n\t\t\t<p align=\"center\"><strong>(LCM of time)</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:74px;height:27px;\">\n\t\t\t<p align=\"center\"><strong>Efficiency</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:68px;height:26px;\">\n\t\t\t<p align=\"center\"><strong>P</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:46px;height:26px;\">\n\t\t\t<p>&nbsp; &nbsp;12</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:103px;height:26px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:74px;height:26px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:68px;height:27px;\">\n\t\t\t<p align=\"center\"><strong>Q</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:46px;height:27px;\">\n\t\t\t<p align=\"center\">18</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:103px;height:27px;\">\n\t\t\t<p align=\"center\">36</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:74px;height:27px;\">\n\t\t\t<p align=\"center\">2</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:68px;height:26px;\">\n\t\t\t<p align=\"center\"><strong>P + Q + R</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:46px;height:26px;\">\n\t\t\t<p align=\"center\">6</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:103px;height:26px;\">\n\t\t\t<p align=\"center\">&nbsp;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:74px;height:26px;\">\n\t\t\t<p align=\"center\">6</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Efficiency of R = 6 - 3 - 2 = 1</p>\n\n<p>Time is taken by R to complete the work alone</p>\n\n<p>36/1 = 36 days</p>\n\n<p><strong>&there4;</strong><strong> &lsquo;R&rsquo; alone can complete&nbsp;a work&nbsp;in 36 days.</strong></p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/quesImage37.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q47",
+      "number": 47,
+      "question": "Tim is thrice as good a workman as Joya and together they finish a piece of work in 75 days. In how many days will Tim alone finish the work?",
+      "questionHtml": "Tim is thrice as good a workman as Joya and together they finish a piece of work in 75 days. In how many days will Tim alone finish the work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "25 days",
+          "html": "25 days"
+        },
+        {
+          "id": "B",
+          "text": "100 days",
+          "html": "100 days"
+        },
+        {
+          "id": "C",
+          "text": "50 days",
+          "html": "50 days"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{1}{100}\\) days",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{100}\\)</span>&nbsp;days"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">Tim is thrice as good a workman as Joya and together they finish a piece of work in 75 days.</span><br />\n<strong>Formula used:</strong></p>\n\n<p>If A finishes work in a day, then in a day he does the work.<br />\n<strong>Calculation:</strong><br />\nTogether, Tim and Joya can complete part of the work in a day.</p>\n\n<p>&nbsp;Let Tim alone do the work in a day. Then, Joya alone does the work in a day.</p>\n\n<p>Therefore,&nbsp;<span class=\"math-tex\">\\(\\frac{1}{x}+\\frac{1}{3x}=\\frac{1}{75}\\)</span></p>\n\n<p>Solving for x,</p>\n\n<p><span class=\"math-tex\">\\(\\frac{4}{3x}=\\frac{1}{75}\\)</span></p>\n\n<p>&nbsp;<span class=\"math-tex\">\\(x=\\frac{4× 75}{3}=100\\)</span></p>\n\n<p><strong>&there4;&nbsp;<span style=\"\">Tim alone can finish the work in 100 days.</span></strong></p>\n\n<p><strong><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span></span></strong></p>\n\n<p>Tim = 3 joy, Tim/joy = 3/1&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;( efficiency ratio)</p>\n\n<p>Total work = (3 + 1)&nbsp;&times; 75 = 300</p>\n\n<p>So Tim alone can finish the work in 300/3 = 100 days</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q48",
+      "number": 48,
+      "question": "If Mohit can complete \\(\\frac{2}{3}\\) rd of a work in 24 days, then in how many days can \\(\\rm\\frac{1}{9}^{th}\\) of the work be completed by him?",
+      "questionHtml": "If Mohit can complete&nbsp;<span class=\"math-tex\">\\(\\frac{2}{3}\\)</span><sup>rd</sup>&nbsp;of a work in&nbsp;24 days, then in how many days can&nbsp;<span class=\"math-tex\">\\(\\rm\\frac{1}{9}^{th}\\)</span>&nbsp;of the work be completed by him?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "D",
+          "text": "5",
+          "html": "5"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given :&nbsp;</strong></p>\n\n<p>Mohit can complete&nbsp;<span class=\"math-tex\">\\(\\frac{2}{3}\\)</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">rd</span>&nbsp;of a work&nbsp;in&nbsp;24 days.</p>\n\n<p><b>Calculation :&nbsp;</b></p>\n\n<p>Let the time taken be x,</p>\n\n<p>According to question,</p>\n\n<p>&rArr; M&nbsp;&times; 24/2/3 = M&nbsp;&times; x/1/9</p>\n\n<p>&rArr; M&nbsp;&times; 24&nbsp;&times; 3/2 = M&nbsp;&times; x&nbsp;&times; 9</p>\n\n<p>&rArr; 24&nbsp;&times; 3/2 = x&nbsp;&times; 9</p>\n\n<p>&rArr; 12&nbsp;&times; 3 = x &times; 9</p>\n\n<p>&rArr; x = 4 days</p>\n\n<p><strong>&there4; The correct answer is 4 days.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q49",
+      "number": 49,
+      "question": "A can complete a work in 5 days and B can complete the same work in 10 days. If A and B work alternately, starting with A, in how many days will they complete the work?",
+      "questionHtml": "A can complete a work in 5 days and B can complete the same work in 10 days. If A and B work alternately, starting with A, in how many days will they complete the work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(6\\frac{2}{5}\\) days",
+          "html": "<span class=\"math-tex\">\\(6\\frac{2}{5}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "B",
+          "text": "\\(6\\frac{1}{2}\\) days",
+          "html": "<span class=\"math-tex\">\\(6\\frac{1}{2}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "C",
+          "text": "\\(7\\frac{2}{5}\\) days",
+          "html": "<span class=\"math-tex\">\\(7\\frac{2}{5}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "D",
+          "text": "\\(7\\frac{1}{2}\\) days",
+          "html": "<span class=\"math-tex\">\\(7\\frac{1}{2}\\)</span>&nbsp;days"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">A's 1 day work = 1/5 , B complete the work in 10 days ⇒ B's 1 day work = 1/10</p>\n\n<p style=\"color: rgb(33, 37, 41);\">( A + B )'s work in 2 days =  ( 1/5 + 1/10)= 3/10 </p>\n\n<p style=\"color: rgb(33, 37, 41);\">In 3 pairs of 2 days they will complete 3/10 × 3 = 9/10</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Hence, after 3 × 2 = 6 days, 1 - 9/10 = 1/10 work is left which will be done by A alone.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">A  does 1 work in 5 days  ⇒ A does 1/10 work in 5 × 1/10 = 1/2 days</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total number of days =  6 + 1/2 = 6 <span class=\"math-tex\">\\(1\\over 2\\)</span>days</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "62b8cf27e1f3-q50",
+      "number": 50,
+      "question": "A can do a certain work in 9 days. B is 80% more efficient than A. How many days will B and A together take to do the same work ?",
+      "questionHtml": "A can do a certain work in 9 days. B is 80% more efficient than A. How many days will B and A together take to do the&nbsp;same work ?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "45/14 Days",
+          "html": "45/14 Days"
+        },
+        {
+          "id": "B",
+          "text": "54/13 Days",
+          "html": "54/13 Days"
+        },
+        {
+          "id": "C",
+          "text": "47/14 Days",
+          "html": "47/14 Days"
+        },
+        {
+          "id": "D",
+          "text": "44/13 Days",
+          "html": "44/13 Days"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">B is 80% more efficient than A.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Efficiency ratio of A and B = 100 : 180 ⇒ 5 : 9</p>\n\n<p style=\"color: rgb(33, 37, 41);\">A can do a certain work in 9 days.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total work = 9 × 5 = 45 units, Total efficiency of A and B = 5 + 9 = 14</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total work completed by A and B together = 45/14 days</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

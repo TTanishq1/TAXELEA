@@ -1,0 +1,865 @@
+{
+  "id": "aa62c27d1a44",
+  "provider": "RBE_Mocks",
+  "sourceFile": "Maths_Sectional_Mock_Test-15.html",
+  "sourcePath": "RBE_MOCKS/Maths_Sectional_Mock_Test-15.html",
+  "title": "Maths Sectional Mock Test-15",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 36,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "aa62c27d1a44-q1",
+      "number": 1,
+      "question": "If the number 4A306768B2 is divisible by both 8 and 11, then the smallest possible values of A and B will be:",
+      "questionHtml": "<p>If the number 4A306768B2 is divisible by both 8 and 11, then the smallest possible values of A and B will be:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A = 5, B = 4",
+          "html": "<p>A = 5, B = 4</p>"
+        },
+        {
+          "id": "B",
+          "text": "A = 5, B = 2",
+          "html": "<p>A = 5, B = 2</p>"
+        },
+        {
+          "id": "C",
+          "text": "A = 3, B = 5",
+          "html": "<p>A = 3, B = 5</p>"
+        },
+        {
+          "id": "D",
+          "text": "A = 5, B = 3",
+          "html": "<p>A = 5, B = 3</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The given number 4A306768B2 is divisible by 8 and 11 both.</p><p>By divisibility rule of 8,</p><p>8B2 is divisible by 8</p><p>So, B = 3</p><p>Now the number becomes:</p><p>4A30676832</p><p>By divisibility rule of 11,</p><p>(4 + 3 + 6 + 6 + 3) - (A + 0 + 7 + 8 + 2) = 0</p><p>22 - (A + 17) = 0</p><p>22 - A - 17 = 0</p><p>5 - A = 0</p><p>A = 5</p><p>Hence, the values of A and B are 5 and 3 respectively.</p><p>Answer: (d) A = 5, B = 3</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q2",
+      "number": 2,
+      "question": "If a + b + 4 = 0, then find the value of a³ + b³ - 12ab + 14.",
+      "questionHtml": "<p>If a + b + 4 = 0, then find the value of a³ + b³ - 12ab + 14.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "-60",
+          "html": "<p>-60</p>"
+        },
+        {
+          "id": "B",
+          "text": "-34",
+          "html": "<p>-34</p>"
+        },
+        {
+          "id": "C",
+          "text": "-50",
+          "html": "<p>-50</p>"
+        },
+        {
+          "id": "D",
+          "text": "-44",
+          "html": "<p>-44</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>a + b + 4 = 0</p><p>a + b = -4</p><p>a³ + b³ = (a + b)³ - 3ab(a + b)</p><p>a³ + b³ = (-4)³ - 3ab(-4)</p><p>a³ + b³ = -64 + 12ab</p><p>Now,</p><p>a³ + b³ - 12ab + 14</p><p>= -64 + 12ab - 12ab + 14</p><p>= -50</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q3",
+      "number": 3,
+      "question": "A cylindrical copper wire of radius 1 mm and length 36 m is melted and recast into a solid sphere of radius R cm. What is the value of R?",
+      "questionHtml": "<p>A cylindrical copper wire of radius 1 mm and length 36 m is melted and recast into a solid sphere of radius R cm. What is the value of R?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 cm",
+          "html": "<p>2 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "3 cm",
+          "html": "<p>3 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "4 cm",
+          "html": "<p>4 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "5 cm",
+          "html": "<p>5 cm</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image001.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q4",
+      "number": 4,
+      "question": "How many numbers less than 450 are multiples of both 5 and 6?",
+      "questionHtml": "<p>How many numbers less than 450 are multiples of both 5 and 6?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "14",
+          "html": "<p>14</p>"
+        },
+        {
+          "id": "B",
+          "text": "15",
+          "html": "<p>15</p>"
+        },
+        {
+          "id": "C",
+          "text": "16",
+          "html": "<p>16</p>"
+        },
+        {
+          "id": "D",
+          "text": "17",
+          "html": "<p>17</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image002.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q5",
+      "number": 5,
+      "question": "If the equation of a line is 2x - 7y = 14, what is the equation of the line perpendicular to it that passes through the point (4, 1)?",
+      "questionHtml": "<p>If the equation of a line is 2x - 7y = 14, what is the equation of the line perpendicular to it that passes through the point (4, 1)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2x + 7y = 15",
+          "html": "<p>2x + 7y = 15</p>"
+        },
+        {
+          "id": "B",
+          "text": "7x + 2y = 30",
+          "html": "<p>7x + 2y = 30</p>"
+        },
+        {
+          "id": "C",
+          "text": "7x - 2y = 26",
+          "html": "<p>7x - 2y = 26</p>"
+        },
+        {
+          "id": "D",
+          "text": "2x - 7y = 1",
+          "html": "<p>2x - 7y = 1</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Given line:</p><p>2x - 7y = 14</p><p>-7y = -2x + 14</p><p>y = 2x/7 - 2</p><p>Slope of given line = 2/7</p><p>Slope of perpendicular line = -7/2</p><p>Using point-slope form:</p><p>y - 1 = -7/2(x - 4)</p><p>2(y - 1) = -7(x - 4)</p><p>2y - 2 = -7x + 28</p><p>7x + 2y = 30</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q6",
+      "number": 6,
+      "question": "The area of a sector of a circle with a central angle of 45° is A. The total circumference of the entire circle is C. What is the value of A in terms of C and π?",
+      "questionHtml": "<p>The area of a sector of a circle with a central angle of 45° is A. The total circumference of the entire circle is C. What is the value of A in terms of C and π?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A = C²/16π",
+          "html": "<p>A = C²/16π</p>"
+        },
+        {
+          "id": "B",
+          "text": "A = C²/32π",
+          "html": "<p>A = C²/32π</p>"
+        },
+        {
+          "id": "C",
+          "text": "A = C² / 64π",
+          "html": "<p>A = C² / 64π</p>"
+        },
+        {
+          "id": "D",
+          "text": "A = C² / 8π",
+          "html": "<p>A = C² / 8π</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image003.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q7",
+      "number": 7,
+      "question": "Aisha had blue marbles and red marbles in her collection bag in the ratio 5 : 8. After she gave away 6 blue marbles and 6 red marbles to her brother, the new ratio of blue marbles to red marbles became 4 : 7. How many blue marbles does she have now?",
+      "questionHtml": "<p>Aisha had blue marbles and red marbles in her collection bag in the ratio 5 : 8. After she gave away 6 blue marbles and 6 red marbles to her brother, the new ratio of blue marbles to red marbles became 4 : 7. How many blue marbles does she have now?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20",
+          "html": "<p>20</p>"
+        },
+        {
+          "id": "B",
+          "text": "24",
+          "html": "<p>24</p>"
+        },
+        {
+          "id": "C",
+          "text": "28",
+          "html": "<p>28</p>"
+        },
+        {
+          "id": "D",
+          "text": "32",
+          "html": "<p>32</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image008.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q8",
+      "number": 8,
+      "question": "Rohan buys 400 apples for ₹1500. Some of these apples are bruised and thrown away. He sells the remaining apples at ₹5 each and makes a profit of ₹250. Find the percentage of apples thrown away.",
+      "questionHtml": "<p>Rohan buys 400 apples for ₹1500. Some of these apples are bruised and thrown away. He sells the remaining apples at ₹5 each and makes a profit of ₹250. Find the percentage of apples thrown away.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12%",
+          "html": "<p>12%</p>"
+        },
+        {
+          "id": "B",
+          "text": "10%",
+          "html": "<p>10%</p>"
+        },
+        {
+          "id": "C",
+          "text": "10.5%",
+          "html": "<p>10.5%</p>"
+        },
+        {
+          "id": "D",
+          "text": "12.5%",
+          "html": "<p>12.5%</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image009.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q9",
+      "number": 9,
+      "question": "A shopkeeper bought 80 calculators for ₹150 each. He sold 60 of them at a loss of 5%. At what percent profit should he sell the remaining calculators so that he gains 10% on the entire transaction?",
+      "questionHtml": "<p>A shopkeeper bought 80 calculators for ₹150 each. He sold 60 of them at a loss of 5%. At what percent profit should he sell the remaining calculators so that he gains 10% on the entire transaction?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "45%",
+          "html": "<p>45%</p>"
+        },
+        {
+          "id": "B",
+          "text": "50%",
+          "html": "<p>50%</p>"
+        },
+        {
+          "id": "C",
+          "text": "55%",
+          "html": "<p>55%</p>"
+        },
+        {
+          "id": "D",
+          "text": "60%",
+          "html": "<p>60%</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image010.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q10",
+      "number": 10,
+      "question": "Suresh borrowed ₹15,000 at a rate of 12% simple interest per year. How much total amount will Suresh pay in 4 years to repay the loan?",
+      "questionHtml": "<p>Suresh borrowed ₹15,000 at a rate of 12% simple interest per year. How much total amount will Suresh pay in 4 years to repay the loan?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹20,200",
+          "html": "<p>₹20,200</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹21,200",
+          "html": "<p>₹21,200</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹22,200",
+          "html": "<p>₹22,200</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹23,200",
+          "html": "<p>₹23,200</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image013.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q11",
+      "number": 11,
+      "question": "₹25000 is lent at 12% per annum compound interest. What is the difference between the compound interest for the second year and the third year?",
+      "questionHtml": "<p>₹25000 is lent at 12% per annum compound interest. What is the difference between the compound interest for the second year and the third year?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹384.20",
+          "html": "<p>₹384.20</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹403.20",
+          "html": "<p>₹403.20</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹420.30",
+          "html": "<p>₹420.30</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹448.40",
+          "html": "<p>₹448.40</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image014.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q12",
+      "number": 12,
+      "question": "Rice worth Rs. 84 per kg and Rs. 96 per kg are mixed with a third variety in the ratio 3 : 1 : 4. If the final mixture is worth Rs. 102 per kg, the price of the third variety per kg will be:",
+      "questionHtml": "<p>Rice worth Rs. 84 per kg and Rs. 96 per kg are mixed with a third variety in the ratio 3 : 1 : 4. If the final mixture is worth Rs. 102 per kg, the price of the third variety per kg will be:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 108 per kg",
+          "html": "<p>Rs. 108 per kg</p>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 112 per kg",
+          "html": "<p>Rs. 112 per kg</p>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 117 per kg",
+          "html": "<p>Rs. 117 per kg</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 120 per kg",
+          "html": "<p>Rs. 120 per kg</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image015.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q13",
+      "number": 13,
+      "question": "Two inlets P and Q are connected to a tank. P and Q can fill the tank in 24 hours and 36 hours respectively. If both the pipes, starting with P, are opened one by one for 1 hour alternately, then in what time will the tank be filled in hours, rounded to the nearest integer?",
+      "questionHtml": "<p>Two inlets P and Q are connected to a tank. P and Q can fill the tank in 24 hours and 36 hours respectively. If both the pipes, starting with P, are opened one by one for 1 hour alternately, then in what time will the tank be filled in hours, rounded to the nearest integer?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "27 hr",
+          "html": "<p>27 hr</p>"
+        },
+        {
+          "id": "B",
+          "text": "28 hr",
+          "html": "<p>28 hr</p>"
+        },
+        {
+          "id": "C",
+          "text": "29 hr",
+          "html": "<p>29 hr</p>"
+        },
+        {
+          "id": "D",
+          "text": "30 hr",
+          "html": "<p>30 hr</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>P fills tank in 24 hours<br/>Q fills tank in 36 hours</p><p>LCM of 24 and 36 = 72</p><p>So, total work = 72 units</p><p>P’s 1-hour work = 72/24 = 3 units<br/>Q’s 1-hour work = 72/36 = 2 units</p><p>In 2 hours, P + Q fill:</p><p>3 + 2 = 5 units</p><p>In 28 hours = 14 cycles</p><p>Work done = 14 × 5 = 70 units</p><p>Remaining work = 72 - 70 = 2 units</p><p>Next turn is P.</p><p>P fills 3 units in 1 hour, so time for 2 units:</p><p>2/3 hour</p><p>Total time = 28 + 2/3 = 28.67 hours</p><p>Nearest integer = 29 hours</p><p>Answer: 29 hours</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q14",
+      "number": 14,
+      "question": "A person travelled from station X to station Y at 60 km/h and returned from Y to X at 40 km/h. If the entire round-trip journey took 7.5 hours, what is the distance in km between X and Y?",
+      "questionHtml": "<p>A person travelled from station X to station Y at 60 km/h and returned from Y to X at 40 km/h. If the entire round-trip journey took 7.5 hours, what is the distance in km between X and Y?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "160 km",
+          "html": "<p>160 km</p>"
+        },
+        {
+          "id": "B",
+          "text": "180 km",
+          "html": "<p>180 km</p>"
+        },
+        {
+          "id": "C",
+          "text": "200 km",
+          "html": "<p>200 km</p>"
+        },
+        {
+          "id": "D",
+          "text": "220 km",
+          "html": "<p>220 km</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image017.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q15",
+      "number": 15,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image020.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image020.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "112 : 79",
+          "html": "<p>112 : 79</p>"
+        },
+        {
+          "id": "B",
+          "text": "116 : 79",
+          "html": "<p>116 : 79</p>"
+        },
+        {
+          "id": "C",
+          "text": "79 : 116",
+          "html": "<p>79 : 116</p>"
+        },
+        {
+          "id": "D",
+          "text": "56 : 79",
+          "html": "<p>56 : 79</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Total income of P and R in 2020 = 49 + 63 = 112</p><p>Total income of Q, S and T in 2020 = 50 + 56 + 52 = 158</p><p>Required ratio = 112 : 158</p><p>Divide by 2:</p><p>112 : 158 = 56 : 79</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q16",
+      "number": 16,
+      "question": "Rohan can row his boat in still water at a speed of 8 km/h. If the speed of the stream is 3 km/h, how long will he take to cover a distance of 55 km downstream?",
+      "questionHtml": "<p>Rohan can row his boat in still water at a speed of 8 km/h. If the speed of the stream is 3 km/h, how long will he take to cover a distance of 55 km downstream?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 hours",
+          "html": "<p>3 hours</p>"
+        },
+        {
+          "id": "B",
+          "text": "4 hours",
+          "html": "<p>4 hours</p>"
+        },
+        {
+          "id": "C",
+          "text": "5 hours",
+          "html": "<p>5 hours</p>"
+        },
+        {
+          "id": "D",
+          "text": "6 hours",
+          "html": "<p>6 hours</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image021.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q17",
+      "number": 17,
+      "question": "A batsman scored 45, 12, 0, 78, 45, 102, 56, 45, 12, 23, and 67 runs in 11 consecutive cricket matches. What is the median of the given data?",
+      "questionHtml": "<p>A batsman scored 45, 12, 0, 78, 45, 102, 56, 45, 12, 23, and 67 runs in 11 consecutive cricket matches. What is the median of the given data?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "23",
+          "html": "<p>23</p>"
+        },
+        {
+          "id": "B",
+          "text": "67",
+          "html": "<p>67</p>"
+        },
+        {
+          "id": "C",
+          "text": "56",
+          "html": "<p>56</p>"
+        },
+        {
+          "id": "D",
+          "text": "45",
+          "html": "<p>45</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image023.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q18",
+      "number": 18,
+      "question": "A woman returns from her store at one-third of the speed at which she goes to her store. If the average speed during the whole round trip is 18 km/h, then what would have been her speed while going to the store?",
+      "questionHtml": "<p>A woman returns from her store at one-third of the speed at which she goes to her store. If the average speed during the whole round trip is 18 km/h, then what would have been her speed while going to the store?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "24 km/h",
+          "html": "<p>24 km/h</p>"
+        },
+        {
+          "id": "B",
+          "text": "30 km/h",
+          "html": "<p>30 km/h</p>"
+        },
+        {
+          "id": "C",
+          "text": "36 km/h",
+          "html": "<p>36 km/h</p>"
+        },
+        {
+          "id": "D",
+          "text": "42 km/h",
+          "html": "<p>42 km/h</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image025.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q19",
+      "number": 19,
+      "question": "A rhombus has all sides equal to 13 cm and one diagonal is 10 cm. What is the length of the other diagonal?",
+      "questionHtml": "<p>A rhombus has all sides equal to 13 cm and one diagonal is 10 cm. What is the length of the other diagonal?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 cm",
+          "html": "<p>12 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "16 cm",
+          "html": "<p>16 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "24 cm",
+          "html": "<p>24 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "22 cm",
+          "html": "<p>22 cm</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>In a rhombus, diagonals bisect at 90°.</p><p>Side = 13 cm<br/>One diagonal = 10 cm</p><p>Half diagonal = 5 cm</p><p>Now use Pythagorean triplet:</p><p>5, 12, 13</p><p>So, half of other diagonal = 12 cm</p><p>Other diagonal = 12 × 2 = 24 cm</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q20",
+      "number": 20,
+      "question": "A retailer offers 2 successive discounts of 20% and 10% on a product marked at Rs. 1,500. If his cost price is Rs. 900, what is his profit or loss percentage?",
+      "questionHtml": "<p>A retailer offers 2 successive discounts of 20% and 10% on a product marked at Rs. 1,500. If his cost price is Rs. 900, what is his profit or loss percentage?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20% profit",
+          "html": "<p>20% profit</p>"
+        },
+        {
+          "id": "B",
+          "text": "20% loss",
+          "html": "<p>20% loss</p>"
+        },
+        {
+          "id": "C",
+          "text": "25% profit",
+          "html": "<p>25% profit</p>"
+        },
+        {
+          "id": "D",
+          "text": "25% loss",
+          "html": "<p>25% loss</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image029.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q21",
+      "number": 21,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image032.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image032.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image033.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image033.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image034.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image034.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image035.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image035.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image036.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image036.png"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image037.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q22",
+      "number": 22,
+      "question": "Simplify: (843 + 818)² - 4 × 843 × 818",
+      "questionHtml": "<p>Simplify: (843 + 818)² - 4 × 843 × 818</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "625",
+          "html": "<p>625</p>"
+        },
+        {
+          "id": "B",
+          "text": "525",
+          "html": "<p>525</p>"
+        },
+        {
+          "id": "C",
+          "text": "575",
+          "html": "<p>575</p>"
+        },
+        {
+          "id": "D",
+          "text": "600",
+          "html": "<p>600</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Use identity:<br/>(a + b)² - 4ab = (a - b)²</p><p>Here,<br/>a = 843, b = 818</p><p>So,<br/>(843 + 818)² - 4 × 843 × 818<br/>= (843 - 818)²<br/>= 25²<br/>= 625</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q23",
+      "number": 23,
+      "question": "X and Y working alone can complete a piece of work in 12 days and 24 days, respectively. They started working together, but X left 3 days before the completion of the work. In how many days was the work completed?",
+      "questionHtml": "<p>X and Y working alone can complete a piece of work in 12 days and 24 days, respectively. They started working together, but X left 3 days before the completion of the work. In how many days was the work completed?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "7 days",
+          "html": "<p>7 days</p>"
+        },
+        {
+          "id": "B",
+          "text": "8 days",
+          "html": "<p>8 days</p>"
+        },
+        {
+          "id": "C",
+          "text": "9 days",
+          "html": "<p>9 days</p>"
+        },
+        {
+          "id": "D",
+          "text": "10 days",
+          "html": "<p>10 days</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image040.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q24",
+      "number": 24,
+      "question": "The number 823p2q is exactly divisible by 7, 11 and 13. What is the value of (p – q)?",
+      "questionHtml": "<p>The number 823p2q is exactly divisible by 7, 11 and 13. What is the value of (p – q)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "7",
+          "html": "<p>7</p>"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "<p>4</p>"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "<p>5</p>"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "<p>6</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image043.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "aa62c27d1a44-q25",
+      "number": 25,
+      "question": "Each interior angle of a regular polygon exceeds its exterior angle by 140°. Determine the number of sides of the polygon.",
+      "questionHtml": "<p>Each interior angle of a regular polygon exceeds its exterior angle by 140°. Determine the number of sides of the polygon.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "html": "<p>12</p>"
+        },
+        {
+          "id": "B",
+          "text": "15",
+          "html": "<p>15</p>"
+        },
+        {
+          "id": "C",
+          "text": "18",
+          "html": "<p>18</p>"
+        },
+        {
+          "id": "D",
+          "text": "20",
+          "html": "<p>20</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780222310061_image044.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

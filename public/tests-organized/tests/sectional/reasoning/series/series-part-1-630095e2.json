@@ -1,0 +1,1715 @@
+{
+  "id": "630095e22ca9",
+  "provider": "RBE_Mocks",
+  "sourceFile": "Series_Part_1.html",
+  "sourcePath": "RBE_MOCKS/Series_Part_1.html",
+  "title": "Series Part 1",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 11,
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "630095e22ca9-q1",
+      "number": 1,
+      "question": "Find the next term in the given series. K1F, M3E, O8D, Q19C, ?",
+      "questionHtml": "<p>Find the next term in the given series. <br/>K1F, M3E, O8D, Q19C, ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "S47B",
+          "html": "<p>S47B </p>"
+        },
+        {
+          "id": "B",
+          "text": "T42A",
+          "html": "<p>T42A </p>"
+        },
+        {
+          "id": "C",
+          "text": "S42 B",
+          "html": "<p>S42 B </p>"
+        },
+        {
+          "id": "D",
+          "text": "S37C",
+          "html": "<p>S37C </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Series: K1F, M3E, O8D, Q19C, ? </p><p>First letter pattern </p><p>K → M → O → Q → ? </p><p>Alphabet positions: 11, 13, 15, 17 → next is 19 → S </p><p>Number pattern </p><p>1 → 3 → 8 → 19 → ? </p><p>Pattern: </p><p>1 × 2 + 1 = 3 </p><p>3 × 2 + 2 = 8 </p><p>8 × 2 + 3 = 19 </p><p>19 × 2 + 4 = 42 </p><p>Last letter pattern </p><p>F → E → D → C → ? </p><p>Reverse alphabetical order → next is B </p><p>Final term: S42B </p><p>Correct answer: S42B </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q2",
+      "number": 2,
+      "question": "Find the next term in the given series. B, DE, HJK, ?, WXYZB",
+      "questionHtml": "<p>Find the next term in the given series. <br/>B, DE, HJK, ?, WXYZB </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "S37T",
+          "html": "<p>S37T </p>"
+        },
+        {
+          "id": "B",
+          "text": "T89Z",
+          "html": "<p>T89Z </p>"
+        },
+        {
+          "id": "C",
+          "text": "OPQR",
+          "html": "<p>OPQR </p>"
+        },
+        {
+          "id": "D",
+          "text": "R74A",
+          "html": "<p>R74A </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Pattern is based on increasing group of consecutive letters: </p><p>B → 1 letter </p><p>DE → 2 letters </p><p>HJK → 3 letters (skipping G, I) </p><p>OPQR → 4 letters </p><p>WXYZB → 5 letters (wraps around to B) </p><p>Next term: OPQR </p><p>(All other options contains numbers, hence they all are eliminated.) </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q3",
+      "number": 3,
+      "question": "Complete this series: 131, 137, 149, 163, 181, ?",
+      "questionHtml": "<p>Complete this series: 131, 137, 149, 163, 181, ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "211",
+          "html": "<p>211 </p>"
+        },
+        {
+          "id": "B",
+          "text": "197",
+          "html": "<p>197 </p>"
+        },
+        {
+          "id": "C",
+          "text": "191",
+          "html": "<p>191 </p>"
+        },
+        {
+          "id": "D",
+          "text": "193",
+          "html": "<p>193 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Series: 131, 137, 149, 163, 181, ? </p><p>Check if all terms are prime numbers → Yes, all are prime. </p><p>Find the next prime after 181 → Next prime = 191 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q4",
+      "number": 4,
+      "question": "Select the correct option that will complete the series. (2, 3), (5, 24), (8, 63), ?, (14, 195)",
+      "questionHtml": "<p>Select the correct option that will complete the series. (2, 3), (5, 24), (8, 63), ?, (14, 195) </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(11, 120)",
+          "html": "<p>(11, 120) </p>"
+        },
+        {
+          "id": "B",
+          "text": "(9, 95)",
+          "html": "<p>(9, 95) </p>"
+        },
+        {
+          "id": "C",
+          "text": "(10, 57)",
+          "html": "<p>(10, 57) </p>"
+        },
+        {
+          "id": "D",
+          "text": "(12, 136)",
+          "html": "<p>(12, 136) </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Logic : Second number = (First number)² − 1 </p><p>Apply this to each pair: </p><p>(2, 3) → 2² − 1 = 4 − 1 = 3 </p><p>(5, 24) → 5² − 1 = 25 − 1 = 24 </p><p>(8, 63) → 8² − 1 = 64 − 1 = 63 </p><p>(11, ?) → 11² − 1 = 121 − 1 = 120 </p><p>(14, 195) → 14² − 1 = 196 − 1 = 195 </p><p>Answer: (11, 120) </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q5",
+      "number": 5,
+      "question": "Find the missing term in the following series. ACE, BDF, CE G , D FH , ?",
+      "questionHtml": "<p>Find the missing term in the following series. <br/>ACE, BDF, CE G , D FH , ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "EGI",
+          "html": "<p>EGI </p>"
+        },
+        {
+          "id": "B",
+          "text": "EIM",
+          "html": "<p>EIM </p>"
+        },
+        {
+          "id": "C",
+          "text": "EHL",
+          "html": "<p>EHL </p>"
+        },
+        {
+          "id": "D",
+          "text": "EIK",
+          "html": "<p>EIK </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>We observe a consistent pattern: </p><p>First letters: A, B, C, D → increasing by 1 </p><p>Second letters: C, D, E, F → increasing by 1 </p><p>Third letters: E, F, G, H → increasing by 1 </p><p>So the next term should be: </p><p>First letter: E </p><p>Second letter: G </p><p>Third letter: I </p><p>→ EGI </p><p>Correct answer: EGI </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q6",
+      "number": 6,
+      "question": "Choose the missing number in the below series. 100, 95, 90, 85, ?, 75",
+      "questionHtml": "<p>Choose the missing number in the below series. </p><p>100, 95, 90, 85, ?, 75 </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "82",
+          "html": "<p>82 </p>"
+        },
+        {
+          "id": "B",
+          "text": "85",
+          "html": "<p>85 </p>"
+        },
+        {
+          "id": "C",
+          "text": "78",
+          "html": "<p>78 </p>"
+        },
+        {
+          "id": "D",
+          "text": "80",
+          "html": "<p>80 </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Explanation: This is a simple arithmetic sequence where each number decreases by 5: </p><p>100 → 95 (−5) </p><p>95 → 90 (−5) </p><p>90 → 85 (−5) </p><p>85 → 80 (−5) </p><p>80 → 75 (−5) </p><p>So, the missing number is 80 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q7",
+      "number": 7,
+      "question": "Select the correct option that will complete the series. (2, 7), (3, 13), (5, 31), ?, (11, 133)",
+      "questionHtml": "<p>Select the correct option that will complete the series. (2, 7), (3, 13), (5, 31), ?, (11, 133) </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(9, 91)",
+          "html": "<p>(9, 91) </p>"
+        },
+        {
+          "id": "B",
+          "text": "(7, 57)",
+          "html": "<p>(7, 57) </p>"
+        },
+        {
+          "id": "C",
+          "text": "(10, 101)",
+          "html": "<p>(10, 101) </p>"
+        },
+        {
+          "id": "D",
+          "text": "(8, 76)",
+          "html": "<p>(8, 76) </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Series: (2, 7), (3, 13), (5, 31), ?, (11, 133) </p><p>Logic: Second number = x² + (x + 1) </p><p>Check each pair: (2, 7) → 2² + (2 + 1) = 4 + 3 = 7 </p><p>(3, 13) → 3² + (3 + 1) = &gt; 9 + 4 = &gt; 13 </p><p>(5, 31) → 5² + (5 + 1) = &gt; 25 + 6 = &gt; 31 </p><p>(7, ?) → 7² + (7 + 1) = &gt; 49 + 8 = &gt; 57 </p><p>(11, 133) → 11² + (11 + 1) = &gt; 121 + 12 = &gt; 133 </p><p>Correct missing pair: (7, 57) </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q8",
+      "number": 8,
+      "question": "Choose the number that is different from others.",
+      "questionHtml": "<p>Choose the number that is different from others. </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "32",
+          "html": "<p>32 </p>"
+        },
+        {
+          "id": "B",
+          "text": "48",
+          "html": "<p>48 </p>"
+        },
+        {
+          "id": "C",
+          "text": "49",
+          "html": "<p>49 </p>"
+        },
+        {
+          "id": "D",
+          "text": "64",
+          "html": "<p>64 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Explanation: </p><p>Check the nature of each number: </p><p>32 → Even, and a power of 2 (2⁵) </p><p>48 → Even, divisible by 2 and 3 </p><p>64 → Even, and a power of 2 (2⁶) </p><p>49 → Odd , and a square of 7 (7²) </p><p>All others are even numbers , while 49 is odd and also the only perfect square in the list. </p><p>Final answer: 49 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q9",
+      "number": 9,
+      "question": "Find the number that doesn’t belong:",
+      "questionHtml": "<p>Find the number that doesn’t belong: </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 3, 5, 7",
+          "html": "<p>2, 3, 5, 7 </p>"
+        },
+        {
+          "id": "B",
+          "text": "11, 13, 17, 19",
+          "html": "<p>11, 13, 17, 19 </p>"
+        },
+        {
+          "id": "C",
+          "text": "23, 29, 31, 33",
+          "html": "<p>23, 29, 31, 33 </p>"
+        },
+        {
+          "id": "D",
+          "text": "37, 41, 43, 47",
+          "html": "<p>37, 41, 43, 47 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>All numbers listed are prime numbers , except for one. </p><p>Group 1: </p><p>2, 3, 5, 7 → ✅ All are prime </p><p>Group 2: </p><p>11, 13, 17, 19 → ✅ All are prime </p><p>Group 3: </p><p>23, 29, 31, 33 → ❌ 33 is not prime 33 = 3 × 11 </p><p>Group 4: </p><p>37, 41, 43, 47 → ✅ All are prime </p><p>✅ Correct answer: 33 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q10",
+      "number": 10,
+      "question": "Identify the missing number in the series. 1, 1, 2, 3, 5, 8, 13, ?",
+      "questionHtml": "<p>Identify the missing number in the series. </p><p>1, 1, 2, 3, 5, 8, 13, ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "24",
+          "html": "<p>24 </p>"
+        },
+        {
+          "id": "B",
+          "text": "21",
+          "html": "<p>21 </p>"
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "html": "<p>20 </p>"
+        },
+        {
+          "id": "D",
+          "text": "22",
+          "html": "<p>22 </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let’s verify: </p><p>1 + 1 = 2 </p><p>1 + 2 = 3 </p><p>2 + 3 = 5 </p><p>3 + 5 = 8 </p><p>5 + 8 = 13 </p><p>8 + 13 = 21 </p><p>✅ Correct answer: 21 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q11",
+      "number": 11,
+      "question": "Identify the number that is unlike the rest:",
+      "questionHtml": "<p>Identify the number that is unlike the rest: </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "19",
+          "html": "<p>19 </p>"
+        },
+        {
+          "id": "B",
+          "text": "21",
+          "html": "<p>21 </p>"
+        },
+        {
+          "id": "C",
+          "text": "17",
+          "html": "<p>17 </p>"
+        },
+        {
+          "id": "D",
+          "text": "13",
+          "html": "<p>13 </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>19, 17, and 13 are prime numbers — they have no divisors other than 1 and themselves. </p><p>21 is not a prime number — it is divisible by 3 and 7. </p><p>So, 21 stands out as the only composite number among the options. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q12",
+      "number": 12,
+      "question": "In each of these questions, a number series is given. In each series, only one number is wrong number. Find out the wrong number. 2, 7, 25, 108, 531, 3193",
+      "questionHtml": "<p>In each of these questions, a number series is given. In each series, only one number is wrong number. Find out the wrong number. 2, 7, 25, 108, 531, 3193 </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "531",
+          "html": "<p>531 </p>"
+        },
+        {
+          "id": "B",
+          "text": "3193",
+          "html": "<p>3193 </p>"
+        },
+        {
+          "id": "C",
+          "text": "25",
+          "html": "<p>25 </p>"
+        },
+        {
+          "id": "D",
+          "text": "108",
+          "html": "<p>108 </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756625395196_image001.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q13",
+      "number": 13,
+      "question": "Find the next term in the given letter series: AAGHGHGH, GAAHGHGH, GHAAHGHG, GHGHAAHG, GHGHGAAH, ______.",
+      "questionHtml": "<p>Find the next term in the given letter series: AAGHGHGH, GAAHGHGH, GHAAHGHG, GHGHAAHG, GHGHGAAH, ______. </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "GHGHGAAH",
+          "html": "<p>GHGHGAAH </p>"
+        },
+        {
+          "id": "B",
+          "text": "GAAHGHGH",
+          "html": "<p>GAAHGHGH </p>"
+        },
+        {
+          "id": "C",
+          "text": "AAGHGHGH",
+          "html": "<p>AAGHGHGH </p>"
+        },
+        {
+          "id": "D",
+          "text": "GHGHGHAA",
+          "html": "<p>GHGHGHAA </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>We can see that the block \"AA\" is shifting one position to the right in each term: </p><p>Term 1: AA at position 1–2 → AAGHGHGH </p><p>Term 2: AA at position 2–3 → GAAHGHGH </p><p>Term 3: AA at position 3–4 → GHAAHGHG </p><p>Term 4: AA at position 4–5 → GHGHAAHG </p><p>Term 5: AA at position 5–6 → GHGHGAAH </p><p>Term 6: AA at position 6–7 → GHGHGHAA </p><p>✅ Final answer: GHGHGHAA </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q14",
+      "number": 14,
+      "question": "Find the next term in the given letter series: ZZPQPQPO, PZZPQQQP, PQZZPQOQ, PQPZZPQP, PQPQZZPQ, ______.",
+      "questionHtml": "<p>Find the next term in the given letter series: ZZPQPQPO, PZZPQQQP, PQZZPQOQ, PQPZZPQP, PQPQZZPQ, ______. </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "PQPQZZPQ",
+          "html": "<p>PQPQZZPQ </p>"
+        },
+        {
+          "id": "B",
+          "text": "PQPQPZZP",
+          "html": "<p>PQPQPZZP </p>"
+        },
+        {
+          "id": "C",
+          "text": "ZZPQPQPQ",
+          "html": "<p>ZZPQPQPQ </p>"
+        },
+        {
+          "id": "D",
+          "text": "PZZPQ PQP",
+          "html": "<p>PZZPQ PQP </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Each term is 8 letters long. Notice how \"ZZ\" shifts one position to the right in each term: </p><p>Term </p><p>Position of \"ZZ\" </p><p>1 </p><p>1st &amp;amp; 2nd </p><p>2 </p><p>2nd &amp;amp; 3rd </p><p>3 </p><p>3rd &amp;amp; 4th </p><p>4 </p><p>4th &amp;amp; 5th </p><p>5 </p><p>5th &amp;amp; 6th </p><p>6 </p><p>Should be 6th &amp;amp; 7th </p><p>So , the next term should have \"ZZ\" at positions 6 and 7 . </p><p>Now take the base structure: PQPQPQPQ Insert \"ZZ\" at positions 6 and 7 → PQPQP ZZ P </p><p>So , the next term is: PQPQPZZP . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q15",
+      "number": 15,
+      "question": "Observe the following incomplete letter sequence carefully. A specific pattern governs the order and repetition of the letters. Choose the option that best fills the blanks to complete the sequence logically and symmetrically. ab_dcb_ab_dc_a",
+      "questionHtml": "<p>Observe the following incomplete letter sequence carefully. A specific pattern governs the order and repetition of the letters. Choose the option that best fills the blanks to complete the sequence logically and symmetrically. ab_dcb_ab_dc_a </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "cabc",
+          "html": "<p>cabc </p>"
+        },
+        {
+          "id": "B",
+          "text": "cacb",
+          "html": "<p>cacb </p>"
+        },
+        {
+          "id": "C",
+          "text": "ccab",
+          "html": "<p>ccab </p>"
+        },
+        {
+          "id": "D",
+          "text": "caca",
+          "html": "<p>caca </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>a b c d / cb a / ab c d / c b a </p><p>The pattern abcd and cba repeats. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q16",
+      "number": 16,
+      "question": "Fill in the blank: 6, 24, 60, 120, ___",
+      "questionHtml": "<p>Fill in the blank: 6, 24, 60, 120, ___ </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "210",
+          "html": "<p>210 </p>"
+        },
+        {
+          "id": "B",
+          "text": "110",
+          "html": "<p>110 </p>"
+        },
+        {
+          "id": "C",
+          "text": "200",
+          "html": "<p>200 </p>"
+        },
+        {
+          "id": "D",
+          "text": "170",
+          "html": "<p>170 </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756625395196_image002.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q17",
+      "number": 17,
+      "question": "Fill in the blank: 1, 2, 6, 24, 120, ___",
+      "questionHtml": "<p>Fill in the blank: 1, 2, 6, 24, 120, ___ </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "840",
+          "html": "<p>840 </p>"
+        },
+        {
+          "id": "B",
+          "text": "720",
+          "html": "<p>720 </p>"
+        },
+        {
+          "id": "C",
+          "text": "960",
+          "html": "<p>960 </p>"
+        },
+        {
+          "id": "D",
+          "text": "600",
+          "html": "<p>600 </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756625395196_image003.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q18",
+      "number": 18,
+      "question": "What number will be present in place of the question mark?: 4, 18, 48, 100, 180, ?",
+      "questionHtml": "<p>What number will be present in place of the question mark?: 4, 18, 48, 100, 180, ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "374",
+          "html": "<p>374 </p>"
+        },
+        {
+          "id": "B",
+          "text": "374",
+          "html": "<p>374 </p>"
+        },
+        {
+          "id": "C",
+          "text": "254",
+          "html": "<p>254 </p>"
+        },
+        {
+          "id": "D",
+          "text": "294",
+          "html": "<p>294 </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756625395196_image004.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q19",
+      "number": 19,
+      "question": "In each of these questions, a number series is given. In each series, only one number is wrong number. Find out the wrong number. 4, 12, 42, 196, 1005, 6066, 42511.",
+      "questionHtml": "<p>In each of these questions, a number series is given. In each series, only one number is wrong number. Find out the wrong number. <br/>4, 12, 42, 196, 1005, 6066, 42511. </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "html": "<p>12 </p>"
+        },
+        {
+          "id": "B",
+          "text": "1005",
+          "html": "<p>1005 </p>"
+        },
+        {
+          "id": "C",
+          "text": "42",
+          "html": "<p>42 </p>"
+        },
+        {
+          "id": "D",
+          "text": "196",
+          "html": "<p>196 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756625395196_image005.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q20",
+      "number": 20,
+      "question": "In the following series, a specific pattern is followed for both the letters and the numbers. Identify the set of numbers that correctly fills the blanks in the given sequence. Z, 51, X, 68, V, ___, T, 84, R, 83, P, ___, N, 63, L, 44",
+      "questionHtml": "<p>In the following series, a specific pattern is followed for both the letters and the numbers. Identify the set of numbers that correctly fills the blanks in the given sequence. </p><p>Z, 51, X, 68, V, ___, T, 84, R, 83, P, ___, N, 63, L, 44 </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(85, 106)",
+          "html": "<p>(85, 106) </p>"
+        },
+        {
+          "id": "B",
+          "text": "(70, 65)",
+          "html": "<p>(70, 65) </p>"
+        },
+        {
+          "id": "C",
+          "text": "(79, 76)",
+          "html": "<p>(79, 76) </p>"
+        },
+        {
+          "id": "D",
+          "text": "(75, 70)",
+          "html": "<p>(75, 70) </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756625395196_image006.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q21",
+      "number": 21,
+      "question": "Find the next term in the g iven series. 2Z, 4X, 8U, 14Q , ?",
+      "questionHtml": "<p>Find the next term in the g iven series. 2Z, 4X, 8U, 14Q , ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "11M",
+          "html": "<p>11M </p>"
+        },
+        {
+          "id": "B",
+          "text": "44N",
+          "html": "<p>44N </p>"
+        },
+        {
+          "id": "C",
+          "text": "33K",
+          "html": "<p>33K </p>"
+        },
+        {
+          "id": "D",
+          "text": "22L",
+          "html": "<p>22L </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Number pattern </p><p>Numbers are: 2, 4, 8, 14 , ? <br/>Differences: 2 → 4 (+2), 4 → 8 (+4), 8 → 14 (+6) <br/>Next difference = +8 <br/>So, 14 + 8 = 22 </p><p>Letter pattern </p><p>Letters are: Z, X, U, Q , ? </p><p>Positions in alphabet: <br/>Z = 26 <br/>X = 24 <br/>U = 21 <br/>Q = 17 </p><p>Differences: −2, −3, −4 … so next difference = −5 <br/>17 − 5 = 12 → Letter L </p><p>Combine </p><p>Next term = 22L </p><p>✅ Correct Option: 22L </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q22",
+      "number": 22,
+      "question": "What will be the next number in the series: 8, 12, 24, 60 , ?",
+      "questionHtml": "<p>What will be the next number in the series: 8, 12, 24, 60 , ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "120",
+          "html": "<p>120 </p>"
+        },
+        {
+          "id": "B",
+          "text": "150",
+          "html": "<p>150 </p>"
+        },
+        {
+          "id": "C",
+          "text": "180",
+          "html": "<p>180 </p>"
+        },
+        {
+          "id": "D",
+          "text": "100",
+          "html": "<p>100 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>8, 12, 24, 60 , ? </p><p>8 → 12 : 8×1.5=128 × 1.5 = 12 </p><p>12 → 24 : 12×2=2412 × 2 = 24 </p><p>24 → 60 : 24×2.5=6024 × 2.5 = 60 </p><p>So the multipliers are increasing by 0.5 each time: ×1.5, ×2, ×2.5 ... </p><p>Next multiplier should be ×3 : 60 × 3 = 180 </p><p>Correct answer: 180 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q23",
+      "number": 23,
+      "question": "In each of the following questions, a number series is given. In each series, only one number is incorrect. Identify the wr ong number. 2, 4, 8, 16, 34, 64",
+      "questionHtml": "<p>In each of the following questions, a number series is given. In each series, only one number is incorrect. Identify the wr ong number. <br/>2, 4, 8, 16, 34, 64 </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "64",
+          "html": "<p>64 </p>"
+        },
+        {
+          "id": "B",
+          "text": "34",
+          "html": "<p>34 </p>"
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "html": "<p>8 </p>"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "<p>4 </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Explanation: </p><p>2 × 2 = 4 </p><p>4 × 2 = 8 </p><p>8 × 2 = 16 </p><p>16 × 2 = 32 ← Expected </p><p>32 × 2 = 64 </p><p>But in the series, we see 34 instead of 32 . </p><p>Incorrect number: 34 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q24",
+      "number": 24,
+      "question": "Find the number that doesn’t belong:",
+      "questionHtml": "<p>Find the number that doesn’t belong: </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "109",
+          "html": "<p>109 </p>"
+        },
+        {
+          "id": "B",
+          "text": "111",
+          "html": "<p>111 </p>"
+        },
+        {
+          "id": "C",
+          "text": "107",
+          "html": "<p>107 </p>"
+        },
+        {
+          "id": "D",
+          "text": "103",
+          "html": "<p>103 </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>All except 111 are prime numbers : </p><p>103 → Prime </p><p>107 → Prime </p><p>109 → Prime </p><p>111 → Not prime (divisible by 3 and 37) </p><p>✅ Correct answer: 111 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q25",
+      "number": 25,
+      "question": "What should come in the place of question mark (?) in the following alpha numeric series? 2A-50, 5Z-46, 8B-42, 11Y-38, ?",
+      "questionHtml": "<p>What should come in the place of question mark (?) in the following alpha numeric series? 2A-50, 5Z-46, 8B-42, 11Y-38, ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "14F-30",
+          "html": "<p>14F-30 </p>"
+        },
+        {
+          "id": "B",
+          "text": "14D-34",
+          "html": "<p>14D-34 </p>"
+        },
+        {
+          "id": "C",
+          "text": "14X-34",
+          "html": "<p>14X-34 </p>"
+        },
+        {
+          "id": "D",
+          "text": "14C-34",
+          "html": "<p>14C-34 </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Numeric Part: 2, 5, 8, 11, ? This increases by +3 each time: → 2 → 5 → 8 → 11 → 14 </p><p>Alphabet Part: A, Z, B, Y, ? Observe the alternating pattern: </p><p>A → B → (forward by 1) </p><p>Z → Y → (backward by 1) </p><p>So , the next letter should be: </p><p>B → C (forward) </p><p>Y → X (backward) But since the pattern alternates, and the last was Y (backward), the next should be forward → C </p><p>Number Part: 50, 46, 42, 38, ? Decreasing by –4 each time: → 50 → 46 → 42 → 38 → 34 </p><p>So , the complete term is: 14C-34 </p><p>✅ Correct answer: 14C-34 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q26",
+      "number": 26,
+      "question": "Complete the series: 2, 6, 14, 30, 62, ?",
+      "questionHtml": "<p>Complete the series: 2, 6, 14, 30, 62, ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "122",
+          "html": "<p>122 </p>"
+        },
+        {
+          "id": "B",
+          "text": "124",
+          "html": "<p>124 </p>"
+        },
+        {
+          "id": "C",
+          "text": "126",
+          "html": "<p>126 </p>"
+        },
+        {
+          "id": "D",
+          "text": "120",
+          "html": "<p>120 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Series : 2, 6, 14, 30, 62, ? </p><p>Observe the differences between terms: </p><p>6 − 2 = 4 </p><p>14 − 6 = 8 </p><p>30 − 14 = 16 </p><p>62 − 30 = 32 </p><p>So , the differences are: +4, +8, +16, +32 → doubling each time </p><p>Next difference = 32 × 2 = 64 </p><p>Add to last term: 62 + 64 = 126 </p><p>✅ Correct answer: 126 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q27",
+      "number": 27,
+      "question": "Complete the series: 6, 11, 21, 36, 56, ?",
+      "questionHtml": "<p>Complete the series: 6, 11, 21, 36, 56, ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "81",
+          "html": "<p>81 </p>"
+        },
+        {
+          "id": "B",
+          "text": "75",
+          "html": "<p>75 </p>"
+        },
+        {
+          "id": "C",
+          "text": "80",
+          "html": "<p>80 </p>"
+        },
+        {
+          "id": "D",
+          "text": "76",
+          "html": "<p>76 </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Series : 6, 11, 21, 36, 56, ? </p><p>Now check the differences between terms: </p><p>11 − 6 = 5 </p><p>21 − 11 = 10 </p><p>36 − 21 = 15 </p><p>56 − 36 = 20 </p><p>So , the differences are increasing by +5 each time. </p><p>Next difference = 25 </p><p>Add to last term: 56 + 25 = 81 </p><p>✅ Correct answer: 81 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q28",
+      "number": 28,
+      "question": "In each of these questions, a number series is given. In each series, only one number is wrong number. Find out the wrong number. 5, 11, 21, 43, 86, 171",
+      "questionHtml": "<p>In each of these questions, a number series is given. In each series, only one number is wrong number. Find out the wrong number. <br/>5, 11, 21, 43, 86, 171 </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "43",
+          "html": "<p>43 </p>"
+        },
+        {
+          "id": "B",
+          "text": "172",
+          "html": "<p>172 </p>"
+        },
+        {
+          "id": "C",
+          "text": "86",
+          "html": "<p>86 </p>"
+        },
+        {
+          "id": "D",
+          "text": "5",
+          "html": "<p>5 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756625395196_image007.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q29",
+      "number": 29,
+      "question": "Fill in the blank: 4, 12, 6, 18, 9, __________.",
+      "questionHtml": "<p>Fill in the blank: 4, 12, 6, 18, 9, __________. </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "27",
+          "html": "<p>27 </p>"
+        },
+        {
+          "id": "B",
+          "text": "12",
+          "html": "<p>12 </p>"
+        },
+        {
+          "id": "C",
+          "text": "18",
+          "html": "<p>18 </p>"
+        },
+        {
+          "id": "D",
+          "text": "36",
+          "html": "<p>36 </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Sequence : 4, 12, 6, 18, 9, ___ </p><p>Break it into pairs: </p><p>4 → 12 (×3) </p><p>6 → 18 (×3) </p><p>9 → ___ (×3) </p><p>So , each number is followed by its triple. </p><p>Thus, 9 × 3 = 27 </p><p>✅ Correct answer: 27 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q30",
+      "number": 30,
+      "question": "Observe the following incomplete letter sequence carefully. A specific pattern governs the order and repetition of the letters. Choose the option that best fills the blanks to complete the sequence logically and symmetrically. a a a_ bc _ a a b b_a aa _abbc",
+      "questionHtml": "<p>Observe the following incomplete letter sequence carefully. A specific pattern governs the order and repetition of the letters. <br/>Choose the option that best fills the blanks to complete the sequence logically and symmetrically. <br/>a a a_ bc _ a a b b_a aa _abbc </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "cabd",
+          "html": "<p>cabd </p>"
+        },
+        {
+          "id": "B",
+          "text": "a bcb",
+          "html": "<p>a bcb </p>"
+        },
+        {
+          "id": "C",
+          "text": "baca",
+          "html": "<p>baca </p>"
+        },
+        {
+          "id": "D",
+          "text": "b ca b",
+          "html": "<p>b ca b </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>a a a / bbc / a aa a / bb c/ a aaa a/bbc </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q31",
+      "number": 31,
+      "question": "In the following questions, which one set of letters/numbers when sequentially placed at the gaps in the given letter series shall complete it?",
+      "questionHtml": "<p>In the following questions, which one set of letters/numbers when sequentially placed at the gaps in the given letter series shall complete it? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "e16f20hk",
+          "html": "<p>e16f20hk </p>"
+        },
+        {
+          "id": "B",
+          "text": "e121620h j",
+          "html": "<p>e121620h j </p>"
+        },
+        {
+          "id": "C",
+          "text": "e12f20hj",
+          "html": "<p>e12f20hj </p>"
+        },
+        {
+          "id": "D",
+          "text": "e121820ij",
+          "html": "<p>e121820ij </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>d8 e12 f 16 g 20h 24i28 j is the correct series. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q32",
+      "number": 32,
+      "question": "Observe the following incomplete letter sequence carefully. A specific pattern governs the order and repetition of the letters. Choose the option that best fills the blanks to complete the sequence logically and symmetrically. xy_z_y_x_yz_zyx",
+      "questionHtml": "<p>Observe the following incomplete letter sequence carefully. A specific pattern governs the order and repetition of the letters. Choose the option that best fills the blanks to complete the sequence logically and symmetrically. </p><p>xy_z_y_x_yz_zyx </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "xzzz",
+          "html": "<p>xzzz </p>"
+        },
+        {
+          "id": "B",
+          "text": "zzyxz",
+          "html": "<p>zzyxz </p>"
+        },
+        {
+          "id": "C",
+          "text": "zxzyx",
+          "html": "<p>zxzyx </p>"
+        },
+        {
+          "id": "D",
+          "text": "zzyyz",
+          "html": "<p>zzyyz </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The given sequence is xy_z_y_x_yz_zyx . The pattern is symmetrical around the middle. If we carefully observe, letters are being repeated in a mirrored manner. so the sequence becomes xyz zzyyx y yz z zyx . Hence, the correct option is zzyyz . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q33",
+      "number": 33,
+      "question": "Complete the series: 10, 14, 23, 39, 64, ?",
+      "questionHtml": "<p>Complete the series: 10, 14, 23, 39, 64, ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "71",
+          "html": "<p>71 </p>"
+        },
+        {
+          "id": "B",
+          "text": "68",
+          "html": "<p>68 </p>"
+        },
+        {
+          "id": "C",
+          "text": "52",
+          "html": "<p>52 </p>"
+        },
+        {
+          "id": "D",
+          "text": "100",
+          "html": "<p>100 </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Find the differences between consecutive terms: <br/>14 - 10 = 4 <br/>23 - 14 = 9 <br/>39 - 23 = 16 <br/>64 - 39 = 25 </p><p>The differences are: 4, 9, 16, 25… which are perfect squares (2², 3², 4², 5²). <br/>The next difference will be 6² = 36. <br/>Add 36 to the last term: 64 + 36 = 100. <br/><br/>Therefore, the next term in the series is 100 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q34",
+      "number": 34,
+      "question": "In the following question, which one set of letters and numbers, when sequentially placed in the blanks of the given letter-number series, will complete it logically? _ 25 v _ w _ x 40 _ _ z",
+      "questionHtml": "<p>In the following question, which one set of letters and numbers, when sequentially placed in the blanks of the given letter-number series, will complete it logically? </p><p>_ 25 v _ w _ x 40 _ _ z </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "u30 35 y45",
+          "html": "<p>u30 35 y45 </p>"
+        },
+        {
+          "id": "B",
+          "text": "u35 30 y45",
+          "html": "<p>u35 30 y45 </p>"
+        },
+        {
+          "id": "C",
+          "text": "u30 35 x50",
+          "html": "<p>u30 35 x50 </p>"
+        },
+        {
+          "id": "D",
+          "text": "v20 u25 y40",
+          "html": "<p>v20 u25 y40 </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>u 25 v 30 w 35 x 40 y 45 z </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q35",
+      "number": 35,
+      "question": "Find the next term in the given series: B2, E4, H6, K8, N10, ?",
+      "questionHtml": "<p>Find the next term in the given series: <br/>B2, E4, H6, K8, N10, ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Q12",
+          "html": "<p>Q12 </p>"
+        },
+        {
+          "id": "B",
+          "text": "R12",
+          "html": "<p>R12 </p>"
+        },
+        {
+          "id": "C",
+          "text": "P11",
+          "html": "<p>P11 </p>"
+        },
+        {
+          "id": "D",
+          "text": "S14",
+          "html": "<p>S14 </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Solution : </p><p>Letters: B, E, H, K, N → positions 2, 5, 8, 11, 14 → each step +3 . </p><p>Next = 17th letter = Q . </p><p>Numbers: 2, 4, 6, 8, 10 → simple sequence +2 . </p><p>Next = 12 . </p><p>So the next term is Q12 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q36",
+      "number": 36,
+      "question": "Complete the series: 0, 1, 1, 2, 3, 5, 8, ?",
+      "questionHtml": "<p>Complete the series: 0, 1, 1, 2, 3, 5, 8, ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "11",
+          "html": "<p>11 </p>"
+        },
+        {
+          "id": "B",
+          "text": "15",
+          "html": "<p>15 </p>"
+        },
+        {
+          "id": "C",
+          "text": "13",
+          "html": "<p>13 </p>"
+        },
+        {
+          "id": "D",
+          "text": "12",
+          "html": "<p>12 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The given sequence is a Fibonacci Series , where each term is the sum of the previous two terms. <br/>0, 1 → 0+1=1 <br/>1, 1 → 1+1=2 <br/>1, 2 → 1+2=3 <br/>2, 3 → 2+3=5 <br/>3, 5 → 3+5=8 <br/>5, 8 → 5+8= 13 <br/><br/>Hence, the missing number is 13 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q37",
+      "number": 37,
+      "question": "Select the correct option that will complete the series. (3, 10), (5, 28), (7, 54), ?, (13, 180 )",
+      "questionHtml": "<p>Select the correct option that will complete the series. </p><p>(3, 10), (5, 28), (7, 54), ?, (13, 180 ) </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(9, 81)",
+          "html": "<p>(9, 81) </p>"
+        },
+        {
+          "id": "B",
+          "text": "(11, 130 )",
+          "html": "<p>(11, 130 ) </p>"
+        },
+        {
+          "id": "C",
+          "text": "(10, 95)",
+          "html": "<p>(10, 95) </p>"
+        },
+        {
+          "id": "D",
+          "text": "(8, 72)",
+          "html": "<p>(8, 72) </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>First term is a prime number increasing: 3, 5, 7, 11, 13 … </p><p>Second term = (prime number)² + (prime number − 2). </p><p>Check: </p><p>3 → 3² + (3−2) = 9 + 1 = 10 ✔ </p><p>5 → 5² + (5−2) = 25 + 3 = 28 ✔ </p><p>7 → 7² + (7−2) = 49 + 5 = 54 ✔ </p><p>Next prime after 7 is 11 → 11² + (11−2) = 121 + 9 = 130 ✔ </p><p>Next given 13 → 13² + (13−2) = 169 + 11 = 180 ✔ </p><p>So missing pair = (11, 130) . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q38",
+      "number": 38,
+      "question": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. P _ A A _ _ Z A _V _ _ A _ _",
+      "questionHtml": "<p>Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. </p><p>P _ A A _ _ Z A _V _ _ A _ _ </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "VPZZPVAP",
+          "html": "<p>VPZZPVAP </p>"
+        },
+        {
+          "id": "B",
+          "text": "ZPVVAPVZ",
+          "html": "<p>ZPVVAPVZ </p>"
+        },
+        {
+          "id": "C",
+          "text": "ZVPAPZAV",
+          "html": "<p>ZVPAPZAV </p>"
+        },
+        {
+          "id": "D",
+          "text": "VZAAPVPZ",
+          "html": "<p>VZAAPVPZ </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>P Z A A V P Z A A V PZ A AV </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q39",
+      "number": 39,
+      "question": "Fill in the blank: 2, 6, 15, 31, 56, ___",
+      "questionHtml": "<p>Fill in the blank: 2, 6, 15, 31, 56, ___ </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "85",
+          "html": "<p>85 </p>"
+        },
+        {
+          "id": "B",
+          "text": "104",
+          "html": "<p>104 </p>"
+        },
+        {
+          "id": "C",
+          "text": "100",
+          "html": "<p>100 </p>"
+        },
+        {
+          "id": "D",
+          "text": "92",
+          "html": "<p>92 </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>- The given series: 2, 6, 15, 31, 56, ? <br/>- Differences between terms: <br/>6 – 2 = 4 <br/>15 – 6 = 9 <br/>31 – 15 = 16 <br/>56 – 31 = 25 <br/>- The differences are 4, 9, 16, 25 which are perfect squares (2², 3², 4², 5²). <br/>- The next difference should be 6² = 36 . <br/>- So, next term = 56 + 36 = 92 . <br/><br/>Hence, the missing number is 92 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q40",
+      "number": 40,
+      "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
+      "questionHtml": "<p>Find the next number in the series: 2, 6, 12, 20, 30, ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "36",
+          "html": "<p>36 </p>"
+        },
+        {
+          "id": "B",
+          "text": "40",
+          "html": "<p>40 </p>"
+        },
+        {
+          "id": "C",
+          "text": "42",
+          "html": "<p>42 </p>"
+        },
+        {
+          "id": "D",
+          "text": "44",
+          "html": "<p>44 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The given series is: 2, 6, 12, 20, 30 , ? <br/><br/>• The differences between consecutive terms are: 6 – 2 = 4, 12 – 6 = 6, 20 – 12 = 8, 30 – 20 = 10. <br/>• So, the differences are increasing by 2 each time (4, 6, 8, 10…). <br/>• The next difference should be 12 . <br/>• Therefore, 30 + 12 = 42 . <br/><br/>Hence, the next number in the series is 42 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q41",
+      "number": 41,
+      "question": "Find the next term in the given series. 3A, 6C, 13F, 28J, ?",
+      "questionHtml": "<p>Find the next term in the given series. 3A, 6C, 13F, 28J, ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "56P",
+          "html": "<p>56P </p>"
+        },
+        {
+          "id": "B",
+          "text": "62L",
+          "html": "<p>62L </p>"
+        },
+        {
+          "id": "C",
+          "text": "59O",
+          "html": "<p>59O </p>"
+        },
+        {
+          "id": "D",
+          "text": "54N",
+          "html": "<p>54N </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The given series is: 3A, 6C, 13F, 28J , ? <br/><br/>• Number pattern: 3, 6, 13, 28 … The differences are 3, 7, 15 … which are doubling each time (×2 + 1 rule). So, the next number is 28 + 31 = 59 . <br/>• Letter pattern: A, C, F, J … positions are 1, 3, 6, 10 … which are triangular numbers. The next triangular number is 15 → corresponding letter is O . <br/>• Therefore, the next term is 59O . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q42",
+      "number": 42,
+      "question": "In each of the following questions, a number series is given. In each series, only one number is incorrect. Identify the wrong number. 1, 4, 9, 16, 26, 36",
+      "questionHtml": "<p>In each of the following questions, a number series is given. In each series, only one number is incorrect. Identify the wrong number. </p><p>1, 4, 9, 16, 26, 36 </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "26",
+          "html": "<p>26 </p>"
+        },
+        {
+          "id": "B",
+          "text": "9",
+          "html": "<p>9 </p>"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "<p>4 </p>"
+        },
+        {
+          "id": "D",
+          "text": "16",
+          "html": "<p>16 </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The given series should represent perfect squares : <br/>• 1 = 1² <br/>• 4 = 2² <br/>• 9 = 3² <br/>• 16 = 4² <br/>• 25 = 5² <br/>• 36 = 6² <br/><br/>In the series, instead of 25 , the number 26 is given. <br/>• Hence, the wrong number is 26 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q43",
+      "number": 43,
+      "question": "C, 6, F, 24, I, 54, L, __ , O, __ , R, 216, U, 294, X, 384",
+      "questionHtml": "<p>C, 6, F, 24, I, 54, L, __ , O, __ , R, 216, U, 294, X, 384 </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(90, 145)",
+          "html": "<p>(90, 145) </p>"
+        },
+        {
+          "id": "B",
+          "text": "(96, 150)",
+          "html": "<p>(96, 150) </p>"
+        },
+        {
+          "id": "C",
+          "text": "(140, 220)",
+          "html": "<p>(140, 220) </p>"
+        },
+        {
+          "id": "D",
+          "text": "(132, 210)",
+          "html": "<p>(132, 210) </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Solution: </p><p>The letters move in steps of +3 in the alphabet: C(3), F(6), I(9), L(12), O(15), R(18), U(21), X(24). </p><p>The numbers form a sequence whose first differences are increasing by 12 : 24−6=18, 54−24=30, then 42, 54, 66, 78, 90. </p><p>Hence the missing numbers are 96 (54+42) and 150 (96+54). <br/>Answer: C, 6, F, 24, I, 54, L, 96 , O, 150 , R, 216, U, 294, X, 384 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q44",
+      "number": 44,
+      "question": "What will be the next number in the series: 19, 37, 73, 145, ?",
+      "questionHtml": "<p>What will be the next number in the series: 19, 37, 73, 145, ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "289",
+          "html": "<p>289 </p>"
+        },
+        {
+          "id": "B",
+          "text": "286",
+          "html": "<p>286 </p>"
+        },
+        {
+          "id": "C",
+          "text": "290",
+          "html": "<p>290 </p>"
+        },
+        {
+          "id": "D",
+          "text": "288",
+          "html": "<p>288 </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Step by Step: <br/>• Observe the series: 19, 37, 73, 145 , ? <br/>• Differences between terms: <br/>37 - 19 = 18 <br/>73 - 37 = 36 <br/>145 - 73 = 72 <br/>• Pattern: differences are doubling each time → 18, 36, 72, ... <br/>• Next difference = 72 × 2 = 144 <br/>• So, next term = 145 + 144 = 289 <br/>Correct Answer = 289 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q45",
+      "number": 45,
+      "question": "What number will be present in place of the question mark: 13, 17, 25, 41, 73, ?",
+      "questionHtml": "<p>What number will be present in place of the question mark: </p><p>13, 17, 25, 41, 73, ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "137",
+          "html": "<p>137 </p>"
+        },
+        {
+          "id": "B",
+          "text": "101",
+          "html": "<p>101 </p>"
+        },
+        {
+          "id": "C",
+          "text": "97",
+          "html": "<p>97 </p>"
+        },
+        {
+          "id": "D",
+          "text": "125",
+          "html": "<p>125 </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>1) Find successive differences: 17−13= 4 , 25−17= 8 , 41−25= 16 , 73−41= 32 . <br/>2) The difference pattern is doubling each time: 4, 8, 16, 32 → next should be 64 . <br/>3) Add the next difference to the last term: 73 + 64 = 137 . <br/>4) Therefore, the required number is 137 , so the correct option is Option 1 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q46",
+      "number": 46,
+      "question": "Complete the following series: C, E, H, L, Q, ?",
+      "questionHtml": "<p>Complete the following series: C, E, H, L, Q, ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "X",
+          "html": "<p>X </p>"
+        },
+        {
+          "id": "B",
+          "text": "V",
+          "html": "<p>V </p>"
+        },
+        {
+          "id": "C",
+          "text": "W",
+          "html": "<p>W </p>"
+        },
+        {
+          "id": "D",
+          "text": "U",
+          "html": "<p>U </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>– Write letter positions: C=3, E=5, H=8, L=12, Q=17 . <br/>– Observe the gaps: +2, +3, +4, +5 (increasing by 1 each time). <br/>– Next gap +6 ⇒ 17 + 6 = 23 , which is W . <br/>– Hence the missing term is W → Option 3 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q47",
+      "number": 47,
+      "question": "What will be the next number in the series: 1, 4, 13, 40, 121, ?",
+      "questionHtml": "<p>What will be the next number in the series: 1, 4, 13, 40, 121, ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "362",
+          "html": "<p>362 </p>"
+        },
+        {
+          "id": "B",
+          "text": "365",
+          "html": "<p>365 </p>"
+        },
+        {
+          "id": "C",
+          "text": "364",
+          "html": "<p>364 </p>"
+        },
+        {
+          "id": "D",
+          "text": "370",
+          "html": "<p>370 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Observe the pattern: each term is (previous term × 3) + 1 . </p><p>Check: 1→1×3+1=4, </p><p>4→4×3+1=13, </p><p>13→13×3+1=40, </p><p>40→40×3+1=121. </p><p>Therefore, the next term is 121×3+1 = 364 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q48",
+      "number": 48,
+      "question": "What number will be present in place of the question mark?: 5, 24, 61, 122, 21 3 , ?",
+      "questionHtml": "<p>What number will be present in place of the question mark?: </p><p>5, 24, 61, 122, 21 3 , ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "342",
+          "html": "<p>342 </p>"
+        },
+        {
+          "id": "B",
+          "text": "330",
+          "html": "<p>330 </p>"
+        },
+        {
+          "id": "C",
+          "text": "340",
+          "html": "<p>340 </p>"
+        },
+        {
+          "id": "D",
+          "text": "331",
+          "html": "<p>331 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756625395196_image008.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q49",
+      "number": 49,
+      "question": "Complete the f ollowing series: M, O, R, V, ?",
+      "questionHtml": "<p>Complete the f ollowing series: M, O, R, V, ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A",
+          "html": "<p>A </p>"
+        },
+        {
+          "id": "B",
+          "text": "X",
+          "html": "<p>X </p>"
+        },
+        {
+          "id": "C",
+          "text": "Y",
+          "html": "<p>Y </p>"
+        },
+        {
+          "id": "D",
+          "text": "Z",
+          "html": "<p>Z </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Positions: M=13, O=15, R=18, V=22. Differences: +2, +3, +4 → next should be +5 . So 22 + 5 = 27 → wraps to 1 (since 26 letters), which is A . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "630095e22ca9-q50",
+      "number": 50,
+      "question": "Complete the series: 3, 6, 11, 18, 27 , ?",
+      "questionHtml": "<p>Complete the series: 3, 6, 11, 18, 27 , ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "37",
+          "html": "<p>37 </p>"
+        },
+        {
+          "id": "B",
+          "text": "35",
+          "html": "<p>35 </p>"
+        },
+        {
+          "id": "C",
+          "text": "38",
+          "html": "<p>38 </p>"
+        },
+        {
+          "id": "D",
+          "text": "36",
+          "html": "<p>36 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Differences are +3, +5, +7, +9 (consecutive odd numbers). Next difference = +11 ⇒ 27 + 11 = 38 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

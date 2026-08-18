@@ -1,0 +1,1747 @@
+{
+  "id": "34fc5b320267",
+  "provider": "Testbook",
+  "sourceFile": "Simplification - Bodmas Rule - 03.html",
+  "sourcePath": "Testbook/files/Simplification - Bodmas Rule - 03.html",
+  "title": "Simplification - Bodmas Rule - 03",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 212,
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "34fc5b320267-q1",
+      "number": 1,
+      "question": "(-4) &times; (-8) &divide; (-2) + 3 &times; 5 is equal to:",
+      "questionHtml": "(-4) &times; (-8) &divide; (-2) + 3 &times; 5 is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-1",
+          "html": "-1"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "text": "31",
+          "html": "31"
+        },
+        {
+          "id": "D",
+          "text": "-31",
+          "html": "-31"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>(-4) &times; (-8) &divide; (-2) + 3 &times; 5</p>\n\n<p>(-4) &times; 4 + 15</p>\n\n<p>-16 + 15</p>\n\n<p>-1</p>\n\n<p>Follow BODMAS rule to solve this question, as per the order given below :<br />\nStep-1: Parts of an equation enclosed in &#39;Brackets&#39; must be solved first, and in the bracket,</p>\n\n<p>Step-2: Any mathematical &#39;Of&#39; or &#39;Exponent&#39; must be solved next,</p>\n\n<p>Step-3: Next, the parts of the equation that contain &#39;Division&#39; and &#39;Multiplication&#39; are calculated,</p>\n\n<p>Step-4: Last but not least, the parts of the equation that contain &#39;Addition&#39; and &#39;Subtraction&#39; should be calculated.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q2",
+      "number": 2,
+      "question": "Simplify: [25 - 48 &divide; 6 + 12 &times; 2] + 78 - [5 + 3 of (25 - 2 &times; 10)]",
+      "questionHtml": "Simplify: [25 - 48 &divide; 6 + 12 &times; 2] + 78 - [5 + 3 of (25 - 2 &times; 10)]",
+      "options": [
+        {
+          "id": "A",
+          "text": "98",
+          "html": "98"
+        },
+        {
+          "id": "B",
+          "text": "90",
+          "html": "90"
+        },
+        {
+          "id": "C",
+          "text": "99",
+          "html": "99"
+        },
+        {
+          "id": "D",
+          "text": "89",
+          "html": "89"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>First solve inside the brackets: [25 - 48 ÷ 6 + 12 × 2] <span style=\"color: rgb(33, 37, 41);\">⇒</span> 25 - 8 + 24 = 41</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Next solve the second bracket: [5 + 3 of (25 - 2 × 10)] </span><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">5 + 3(25 - 20) = 20</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Substitute back: 41 + 78 - 20 = 99</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q3",
+      "number": 3,
+      "question": "If the mathematical symbols in the expression given below are changed from '+' to '&divide;', '-' to '&times;', '&divide;' to '-', and '&times;' to '+', then what will be the value of the expression? 87 &times; 256 + 16 - 77 &divide; 1359",
+      "questionHtml": "<p>If the mathematical symbols in the expression given below are changed from &#39;+&#39; to &#39;&divide;&#39;, &#39;-&#39; to &#39;&times;&#39;, &#39;&divide;&#39; to &#39;-&#39;, and &#39;&times;&#39; to &#39;+&#39;, then what will be the value of the expression?</p>\n\n<p>87 &times; 256 + 16 - 77 <span style=\"display: none;\">&nbsp;</span>&divide;<span style=\"display: none;\">&nbsp;</span> 1359</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "B",
+          "text": "-40",
+          "html": "-40"
+        },
+        {
+          "id": "C",
+          "text": "40",
+          "html": "40"
+        },
+        {
+          "id": "D",
+          "text": "-20",
+          "html": "-20"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>87 × 256 + 16 - 77 ÷ 1359</p>\n\n<p>After changing the signs:</p>\n\n<p>⇒ <span style=\"color: rgb(33, 37, 41);\">87 + 256 ÷ 16 × 77 - 1359 ⇒ 87 + 16 </span><span style=\"color: rgb(33, 37, 41);\">×</span><span style=\"color: rgb(33, 37, 41);\"> 77 - 1359 ⇒ 87 + 1232 - 1359 ⇒ 1319 - 1359 = - 40</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q4",
+      "number": 4,
+      "question": "Simplify. 325 + 276 &divide; [150 &minus; {9 &times; 9 + (83 &minus; 4 &times; 15)}]",
+      "questionHtml": "<p>Simplify.</p>\n\n<p>325 + 276&nbsp;&divide; [150 &minus; {9 &times;&nbsp;9 + (83 &minus; 4 &times;&nbsp;15)}]</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "332",
+          "html": "332"
+        },
+        {
+          "id": "B",
+          "text": "333",
+          "html": "333"
+        },
+        {
+          "id": "C",
+          "text": "334",
+          "html": "334"
+        },
+        {
+          "id": "D",
+          "text": "331",
+          "html": "331"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">325 + 276 ÷ [150 − {9 × 9 + (83 − 4 × 15)}]</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ 325 + 276 ÷ [150 − {9 × 9 + 23}]</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ 325 + 276 ÷ [150 − 104]</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ 325 + 276 ÷ 46 ⇒  325 + 6  = 331</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q5",
+      "number": 5,
+      "question": "Find the value of \\(309 \\div [(\\frac{3}{2})\\) of \\((25 + 35) - 12 \\frac{3}{4}].\\)",
+      "questionHtml": "Find the value of&nbsp;<span class=\"math-tex\">\\(309 \\div [(\\frac{3}{2})\\)</span>&nbsp;of&nbsp;<span class=\"math-tex\">\\((25 + 35) - 12 \\frac{3}{4}].\\)</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "B",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "D",
+          "text": "8",
+          "html": "8"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span class=\"math-tex\">\\(309 ÷ [(\\frac{3}{2})\\)</span>&nbsp;of&nbsp;<span class=\"math-tex\">\\((25 + 35) - 12 \\frac{3}{4}].\\)</span></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Follow the <strong>BODMAS</strong> rule as given in the table below:</p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/21/01/image%20%284%29%20%281%29.png\" style=\"width: 440px; height: 247px;\" /></p>\n\n<p><span style=\"\">&rArr;&nbsp;</span><span class=\"math-tex\">\\(309 ÷ [(\\frac{3}{2})\\)</span>&nbsp;&times; 60&nbsp;- 51/4]</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>309&nbsp;&divide; [(180/2) - (51/4)]</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>309&nbsp;&divide; [(360/4) - (51/4)]</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>309&nbsp;&divide; [(360 - 51)/4]</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>309&nbsp;&divide; (309/4)</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>309&nbsp;&times; (4/309)</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>4</p>\n\n<p><strong>&there4; The correct answer is 4.</strong></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/21/01/image%20%284%29%20%281%29.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q6",
+      "number": 6,
+      "question": "Simplify: (36 &divide; 6) &divide; 3 + (18 &divide; 9) &times; 4 - (12 &divide; 6) &times; (5 &divide; 2) =",
+      "questionHtml": "<p>Simplify:</p>\n\n<p>(36 &divide; 6) &divide; 3 + (18 &divide; 9) &times; 4 - (12 &divide; 6) &times; (5 &divide; 2) =</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "10",
+          "html": "10"
+        },
+        {
+          "id": "B",
+          "text": "15",
+          "html": "15"
+        },
+        {
+          "id": "C",
+          "text": "21",
+          "html": "21"
+        },
+        {
+          "id": "D",
+          "text": "5",
+          "html": "5"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>(36 ÷ 6) ÷ 3 + (18 ÷ 9) × 4 - (12 ÷ 6) × (5 ÷ 2)</p>\n\n<p>6 ÷ 3 + 2 × 4 - 2 × 2.5 ⇒ 2 + 8 - 5 = 5</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q7",
+      "number": 7,
+      "question": "Simplify : [0.08 - {3.5 - 4.9 - (12.5 - 7.8 - 4.6)}]",
+      "questionHtml": "Simplify : [0.08 - {3.5 - 4.9 - (12.5 - 7.8 - 4.6)}]",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.58",
+          "html": "1.58"
+        },
+        {
+          "id": "B",
+          "text": "0.08",
+          "html": "0.08"
+        },
+        {
+          "id": "C",
+          "text": "2.58",
+          "html": "2.58"
+        },
+        {
+          "id": "D",
+          "text": "12.58",
+          "html": "12.58"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\">[0.08 - {3.5 - 4.9 - (12.5 - 7.8 - 4.6)}] ⇒ [0.08 - {3.5 - 4.9 - (0.1)}] <span style=\"user-select: text !important; pointer-events: initial !important;\">⇒ </span><span style=\"color: rgb(30, 43, 51);\">[0.08 - {3.5 - 5}]</span> ⇒ 0.08 + 1.5 ⇒ 1.58</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q8",
+      "number": 8,
+      "question": "Solve the following: \\(\\left[ (2.5 + 1.5)^2 \\div 4 \\, \\text{ of } \\, \\frac{1}{2} \\times 8 - 1 \\right] \\)",
+      "questionHtml": "Solve the following:<br />\n<span class=\"math-tex\">\\(\\left[ (2.5 + 1.5)^2 \\div 4 \\, \\text{ of } \\, \\frac{1}{2} \\times 8 - 1 \\right] \\)</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "B",
+          "text": "81",
+          "html": "81"
+        },
+        {
+          "id": "C",
+          "text": "27.1",
+          "html": "27.1"
+        },
+        {
+          "id": "D",
+          "text": "63",
+          "html": "63"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>(2.5 + 1.5)<sup>2</sup> = 4<sup>2</sup> = 16 </p>\n\n<p>16 ÷ 2 = 8 </p>\n\n<p>8 × 8 = 64 </p>\n\n<p>64 - 1 =<strong> 63</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q9",
+      "number": 9,
+      "question": "7.5 &times; 17.2 &divide; 8.6 + (59.5) of \\(\\frac{1}{17} - \\frac{7}{2}\\) of 5 = ?",
+      "questionHtml": "7.5 &times; 17.2 &divide; 8.6 + (59.5) of&nbsp;<span class=\"math-tex\">\\(\\frac{1}{17} - \\frac{7}{2}\\)</span> of 5 = ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\">7.5 × 17.2 ÷ 8.6 + (59.5) of <span class=\"math-tex\">\\(\\frac{1}{17} - \\frac{7}{2}\\)</span> of 5 <span class=\"math-tex\" style=\"user-select: text !important; pointer-events: initial !important;\"><mjx-container class=\"MathJax CtxtMenu_Attached_0\" ctxtmenu_counter=\"11\" jax=\"CHTML\" style=\"user-select: text !important; pointer-events: initial !important; line-height: 0;  position: relative;\" tabindex=\"0\"><mjx-assistive-mml display=\"inline\" style=\"top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); user-select: text !important; position: absolute !important; padding: 1px 0px 0px !important; border: 0px !important; display: block !important; width: auto !important; overflow: hidden !important; pointer-events: initial !important;\" unselectable=\"on\"><span class=\"MathJax\" data-mathml=\"<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo></mo></math>\" id=\"MathJax-Element-17-Frame\" role=\"presentation\" style=\"position: relative;\" tabindex=\"0\"><nobr aria-hidden=\"true\"></nobr><span class=\"MJX_Assistive_MathML\" role=\"presentation\"><span class=\"MathJax\" data-mathml=\"<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo></mo></math>\" id=\"MathJax-Element-46-Frame\" role=\"presentation\" style=\"position: relative;\" tabindex=\"0\"><nobr aria-hidden=\"true\"></nobr><span class=\"MJX_Assistive_MathML\" role=\"presentation\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo></mo></math></span></span>\n<script id=\"MathJax-Element-46\" type=\"math/mml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo></mo></math></script>\n</span></span> <script id=\"MathJax-Element-17\" type=\"math/mml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo></mo></math></script> </mjx-assistive-mml></mjx-container></span></p>\n\n<p><font color=\"#1e2b33\">= </font>7.5 × 17.2 ÷ 8.6 + 3.5 - 17.5  ⇒ <span style=\"color: rgb(33, 37, 41);\">7.5 × 2 + 3.5 - 17.5</span> ⇒ <span style=\"color: rgb(33, 37, 41);\">15 + 3.5 - 17.5 </span><span style=\"color: rgb(30, 43, 51);\">⇒ </span><span style=\"color: rgb(33, 37, 41);\">15 - 14 </span><span style=\"color: rgb(30, 43, 51);\">⇒ 1</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q10",
+      "number": 10,
+      "question": "Simplify the expression 720 + 48 &divide; 8 &times; 5 - 6 &times; 3.",
+      "questionHtml": "Simplify the expression 720 + 48 &divide; 8 &times; 5 - 6 &times; 3.",
+      "options": [
+        {
+          "id": "A",
+          "text": "(112)/(5)",
+          "html": "(112)/(5)"
+        },
+        {
+          "id": "B",
+          "text": "732",
+          "html": "732"
+        },
+        {
+          "id": "C",
+          "text": "161",
+          "html": "161"
+        },
+        {
+          "id": "D",
+          "text": "242",
+          "html": "242"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">720 + 48 ÷ 8 × 5 - 6 × 3 ⇒ 720 + 6 × 5 - 18  ⇒</span><span style=\"color: rgb(33, 37, 41);\"> 750 -18 = 732</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q11",
+      "number": 11,
+      "question": "What is the value of \\(\\frac{\\frac{5}{12} \\text { of } \\frac{6}{25}−\\frac{5}{6} \\times \\frac{12}{33}+\\frac{5}{11} \\div \\frac{25}{33}}{\\frac{1}{6} \\div \\frac{1}{2}+\\frac{1}{6} \\times \\frac{1}{2}−\\frac{1}{2} \\text { of } \\frac{1}{6}}\\) ?",
+      "questionHtml": "What is the value of <span class=\"math-tex\">\\(\\frac{\\frac{5}{12} \\text { of } \\frac{6}{25}−\\frac{5}{6} \\times \\frac{12}{33}+\\frac{5}{11} \\div \\frac{25}{33}}{\\frac{1}{6} \\div \\frac{1}{2}+\\frac{1}{6} \\times \\frac{1}{2}−\\frac{1}{2} \\text { of } \\frac{1}{6}}\\)</span>?",
+      "options": [
+        {
+          "id": "A",
+          "text": "131/110",
+          "html": "131/110"
+        },
+        {
+          "id": "B",
+          "text": "125/117",
+          "html": "125/117"
+        },
+        {
+          "id": "C",
+          "text": "121/112",
+          "html": "121/112"
+        },
+        {
+          "id": "D",
+          "text": "133/115",
+          "html": "133/115"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><b>Given:</b></p>\n\n<p><b><span class=\"math-tex\">\\(\\frac{\\frac{5}{12} \\text { of } \\frac{6}{25}−\\frac{5}{6} \\times \\frac{12}{33}+\\frac{5}{11} \\div \\frac{25}{33}}{\\frac{1}{6} \\div \\frac{1}{2}+\\frac{1}{6} \\times \\frac{1}{2}−\\frac{1}{2} \\text { of } \\frac{1}{6}}\\)</span></b></p>\n\n<p><b>Concept used:</b></p>\n\n<p><img alt=\"\" src=\"https:https://storage.googleapis.com/tb-img/production/22/08/image%20%282%29.png\" style=\"color: rgb(33, 37, 41); width: 350px; height: 196px;\" /></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><span class=\"math-tex\">\\(\\frac{\\frac{5}{12} \\text { of } \\frac{6}{25}−\\frac{5}{6} \\times \\frac{12}{33}+\\frac{5}{11} \\div \\frac{25}{33}}{\\frac{1}{6} \\div \\frac{1}{2}+\\frac{1}{6} \\times \\frac{1}{2}−\\frac{1}{2} \\text { of } \\frac{1}{6}}\\)</span></p>\n\n<p><b><span class=\"math-tex\">\\(\\frac{\\frac{5}{12} \\times \\frac{6}{25}−\\frac{5}{6} \\times \\frac{12}{33}+\\frac{5}{11} \\times \\frac{33}{25}}{\\frac{1}{6} \\times 2+\\frac{1}{6} \\times \\frac{1}{2}−\\frac{1}{2} \\times \\frac{1}{6}}\\)</span></b></p>\n\n<p><b><span class=\"math-tex\">\\(\\frac{\\frac{1}{10} −\\frac{10}{33}+\\frac{3}{5}}{\\frac{1}{3}+\\frac{1}{12}−\\frac{1}{12}}\\)</span></b></p>\n\n<p><span class=\"math-tex\">\\(\\frac{\\frac{33-100+198}{330}}{\\frac{1}{3}}\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\frac{131}{110}\\)</span></p>\n\n<p><strong><span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; line-height: normal; \">&there4;</span> Option 1 is the correct answer.</strong></p>\n",
+      "images": [
+        "https:https://storage.googleapis.com/tb-img/production/22/08/image%20%282%29.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q12",
+      "number": 12,
+      "question": "What is the value of x if it is given that \\(4 \\left\\{2\\left(\\frac{3}{4} \\ \\text{of} \\ 24 - 1\\right) + 3 (7\\div x) - 5 \\times 8 + 1 \\right\\} = 20^2 ?\\)",
+      "questionHtml": "<p>What is the value of x if it is given that</p>\n\n<p><span class=\"math-tex\">\\(4 \\left\\{2\\left(\\frac{3}{4} \\ \\text{of} \\ 24 - 1\\right) + 3 (7\\div x) - 5 \\times 8 + 1 \\right\\} = 20^2 ?\\)</span></p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.2",
+          "html": "0.2"
+        },
+        {
+          "id": "B",
+          "text": "0.625",
+          "html": "0.625"
+        },
+        {
+          "id": "C",
+          "text": "0.4",
+          "html": "0.4"
+        },
+        {
+          "id": "D",
+          "text": "0.75",
+          "html": "0.75"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span class=\"math-tex\">\\(4 \\left\\{2\\left(\\frac{3}{4} \\ \\text{of} \\ 24 - 1\\right) + 3 (7\\div x) - 5 × 8 + 1 \\right\\} = 20^2 ?\\)</span></p>\n\n<p><strong>Concept used:</strong></p>\n\n<p><strong><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/02/Bodmas%20dtp.png\" style=\"width: 400px; height: 225px;\" /></strong></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><span class=\"math-tex\">\\(4 \\left\\{2\\left(\\frac{3}{4} \\ \\text{of} \\ 24 - 1\\right) + 3 (7\\div x) - 5 × 8 + 1 \\right\\} = 20^2 ?\\)</span></p>\n\n<p>&rArr; 4{2(3/4 &times; 24 - 1) + 3 &times; 7/x - 5 &times; 8 + 1} = 20<sup>2</sup></p>\n\n<p><span style=\"\">&rArr; 4{2(18&nbsp;- 1) + 3 &times; 7/x - 5 &times; 8 + 1} = 20</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></p>\n\n<p><span style=\"\">&rArr; 4{34&nbsp;+ 3 &times; 7/x - 5 &times; 8 + 1} = 20</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></p>\n\n<p><span style=\"\">&rArr; 4{34&nbsp;+ 21/x - 40&nbsp;+ 1} = 400</span></p>\n\n<p><span style=\"\">&rArr; {34&nbsp;+ 21</span><span style=\"\">/x - 40</span><span style=\"\">&nbsp;+ 1} = 100</span></p>\n\n<p><span style=\"\">&rArr; 21/x</span><span style=\"\">&nbsp;= 100&nbsp;+ 40 - 34 - 1</span></p>\n\n<p><span style=\"\">&rArr; 21/x</span><span style=\"\">&nbsp;= 105</span></p>\n\n<p><span style=\"\">&rArr; x = 1/5 = 0.2</span></p>\n\n<p><strong>&there4; Requried answer is 0.2</strong></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/22/02/Bodmas%20dtp.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q13",
+      "number": 13,
+      "question": "If 45 &divide; 3 + 4 &times; A &ndash; 48 &divide; 24 + 4 = 1, then the value of A is:",
+      "questionHtml": "<p>If 45 &divide; 3 + 4 &times; A &ndash; 48 &divide; 24 + 4 = 1, then the value of A is:</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "-2",
+          "html": "-2"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "D",
+          "text": "-4",
+          "html": "-4"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>45 ÷ 3 + 4A – 48 ÷ 24 + 4 = 1</p>\n\n<p>15 + 4A – 2 + 4 = 1</p>\n\n<p>17 + 4A = 1</p>\n\n<p>4A = -16</p>\n\n<p><strong>A = -4</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q14",
+      "number": 14,
+      "question": "The value of 40 &divide; 5 of 2 &times; [18 &divide; 6 &times; (12 &minus; 9) of 5 &minus; (3 &minus; 8)] &divide; 25 is:",
+      "questionHtml": "The value of 40&nbsp;&divide; 5 of&nbsp;2&nbsp;&times; [18&nbsp;&divide; 6&nbsp;&times; (12 &minus; 9) of 5&nbsp;&minus; (3 &minus; 8)]&nbsp;&divide; 25 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "B",
+          "text": "7",
+          "html": "7"
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "4"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">40 ÷ 5 of 2 × [18 ÷ 6 × (12 − 9) of 5 − (3 − 8)] ÷ 25</p>\n\n<p style=\"color: rgb(33, 37, 41);\">= 40 ÷ 10 × [18 ÷ 6 × 3 of 5 − (- 5)] ÷ 25 = 4 × [18 ÷ 6 × 3 of 5 + 5] ÷ 25</p>\n\n<p style=\"color: rgb(33, 37, 41);\">= 4 × [18 ÷ 6 × 15 + 5] ÷ 25 = 4 × [3 × 15 + 5] ÷ 25</p>\n\n<p style=\"color: rgb(33, 37, 41);\">= 4 × [45 + 5] ÷ 25 = 4 × 50 ÷ 25</p>\n\n<p style=\"color: rgb(33, 37, 41);\">= 4 × 2 = 8</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q15",
+      "number": 15,
+      "question": "If &lsquo;+&rsquo; means &lsquo;-&lsquo;, &lsquo;-&lsquo; means &lsquo;+&rsquo;, &lsquo;&times;&rsquo; means &lsquo;&divide;&rsquo; and &lsquo;&divide;&rsquo; means &lsquo;&times;&rsquo;, then the value of \\(\\frac{{42 - 12 \\times 3 + 8 \\div 2 + 15}}{{8 \\times 2 - 4 + 9 \\div 3}}\\) is:",
+      "questionHtml": "If &lsquo;+&rsquo; means &lsquo;-&lsquo;, &lsquo;-&lsquo; means &lsquo;+&rsquo;, &lsquo;&times;&rsquo; means &lsquo;&divide;&rsquo; and &lsquo;&divide;&rsquo; means &lsquo;&times;&rsquo;, then the value of <span class=\"math-tex\">\\(\\frac{{42 - 12 \\times 3 + 8 \\div 2 + 15}}{{8 \\times 2 - 4 + 9 \\div 3}}\\)</span>&nbsp;is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "15/19",
+          "html": "15/19"
+        },
+        {
+          "id": "B",
+          "text": "5/3",
+          "html": "5/3"
+        },
+        {
+          "id": "C",
+          "text": "-15/19",
+          "html": "-15/19"
+        },
+        {
+          "id": "D",
+          "text": "-5/3",
+          "html": "-5/3"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Calculation:</strong></p>\n\n<p>According to the question</p>\n\n<p><span class=\"math-tex\">\\(\\frac{{42 + 12 \\div 3 - 8 \\times 2 - 15}}{{8 \\div 2 + 4 - 9 \\times 3}}\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\Rightarrow {\\rm{\\;}}\\frac{{42 + 4 - 16 - 15}}{{4 + 4 - 27}}\\)</span></p>\n\n<p>⇒ -(15/19)</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q16",
+      "number": 16,
+      "question": "If 42 &divide; 3 + k &times; 3 &ndash; 22 &divide; 11 + 4 = 28, then the value of k is:",
+      "questionHtml": "If 42 &divide; 3 + k &times; 3 &ndash; 22 &divide; 11 + 4 = 28, then the value of k is:&nbsp;&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>42 &divide; 3 + k &times; 3 &ndash; 22 &divide; 11 + 4 = 28</p>\n\n<p><strong>Concept:</strong></p>\n\n<p>To find the value of k, we need to solve the equation by performing the arithmetic operations step-by-step.</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>We have,</p>\n\n<p>&rArr; 42 &divide; 3 + k &times; 3 &ndash; 22 &divide; 11 + 4 = 28</p>\n\n<p>First, perform the division operations:</p>\n\n<p>&rArr; 14 + k &times; 3 &ndash; 2 + 4 = 28</p>\n\n<p>Next, simplify the constants:</p>\n\n<p>&rArr; 14 &ndash; 2 + 4 = 16</p>\n\n<p>&rArr; 16 + k &times; 3 = 28</p>\n\n<p>Isolate the term with k:</p>\n\n<p>&rArr; k &times; 3 = 28 &ndash; 16</p>\n\n<p>&rArr; k &times; 3 = 12</p>\n\n<p>Solve for k:</p>\n\n<p>&rArr; k = 12 &divide; 3</p>\n\n<p>&rArr; k = 4</p>\n\n<p><strong>&there4; The value of k is 4.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q17",
+      "number": 17,
+      "question": "Simplify \\( {{3294}\\over{(226+506) \\ of\\ {3\\over4}}}+500\\)",
+      "questionHtml": "Simplify&nbsp;<span class=\"math-tex\">\\( {{3294}\\over{(226+506) \\ of\\ {3\\over4}}}+500\\)</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "506",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">506</font></font>"
+        },
+        {
+          "id": "B",
+          "text": "444",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">444</font></font>"
+        },
+        {
+          "id": "C",
+          "text": "501",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">501</font></font>"
+        },
+        {
+          "id": "D",
+          "text": "502",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">502</font></font>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Concept Used:</strong><br />\n<img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/01/605dc40b3ea2577baa117125_16418870897921.png\" style=\"\" /></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><strong>&rArr;&nbsp;<span class=\"math-tex\">\\( {{3294}\\over{(226+506) \\ of\\ {3\\over4}}}+500\\)</span></strong></p>\n\n<p><strong>&rArr;&nbsp;<span class=\"math-tex\">\\( {{3294}\\over{732 \\times\\ {3\\over4}}}+500\\)</span></strong></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{3294}{549}+500=6+500=506\\)</span></p>\n\n<p><strong>Hence, the simplified value of the expression is 506</strong></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/22/01/605dc40b3ea2577baa117125_16418870897921.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q18",
+      "number": 18,
+      "question": "If &lsquo;+&rsquo; means &lsquo;-', '-' means &lsquo;+&rsquo;, &lsquo;&times;&rsquo; means &lsquo;&divide;&rsquo; and &lsquo;&divide;&rsquo; means &lsquo;&times;&rsquo; then the value of \\(\\frac{{\\left[ {\\left( {30 \\times 5} \\right) + \\left( {84\\; \\times \\;6} \\right)} \\right] \\div 5}}{{\\left[ {\\frac{2}{3} \\div 18} \\right] - \\left[ {4 \\div 2} \\right]}}\\)",
+      "questionHtml": "If &lsquo;+&rsquo; means &lsquo;-&#39;, &#39;-&#39; means &lsquo;+&rsquo;, &lsquo;&times;&rsquo; means &lsquo;&divide;&rsquo; and &lsquo;&divide;&rsquo; means &lsquo;&times;&rsquo; then the value of&nbsp;<span class=\"math-tex\">\\(\\frac{{\\left[ {\\left( {30 \\times 5} \\right) + \\left( {84\\; \\times \\;6} \\right)} \\right] \\div 5}}{{\\left[ {\\frac{2}{3} \\div 18} \\right] - \\left[ {4 \\div 2} \\right]}}\\)</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "-2",
+          "html": "-2"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "D",
+          "text": "-1",
+          "html": "-1"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span class=\"math-tex\">\\(\\frac{{\\left[ {\\left( {30 \\times 5} \\right) + \\left( {84\\; \\times \\;6} \\right)} \\right] \\div 5}}{{\\left[ {\\frac{2}{3} \\div 18} \\right] - \\left[ {4 \\div 2} \\right]}}\\)</span></p>\n\n<p>If &lsquo;+&rsquo; means &lsquo;-&#39;, &#39;-&#39; means &lsquo;+&rsquo;, &lsquo;&times;&rsquo; means &lsquo;&divide;&rsquo; and &lsquo;&divide;&rsquo; means &lsquo;&times;&rsquo; then</p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{{\\left[ {\\left( {30 \\div 5} \\right) - \\left( {84 \\div \\;6} \\right)} \\right] \\times 5}}{{\\left[ {\\frac{2}{3} \\times 18} \\right] + \\left[ {4 \\times 2} \\right]}}\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\Rightarrow \\frac{{\\left[ {6 - 14} \\right] \\times 5}}{{12 + 8}}\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\Rightarrow \\frac{{ - 8 \\times 5}}{{20}}\\)</span></p>\n&rArr; -2",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q19",
+      "number": 19,
+      "question": "Find the value of the given expression. 1755 &divide; 39 &times; (8 &minus; 28 &divide; 4) &minus; 2",
+      "questionHtml": "<p>Find the value of the given expression.</p>\n\n<p>1755 &divide; 39 &times; (8 &minus; 28 &divide; 4) &minus; 2</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "&minus;315",
+          "html": "&minus;315"
+        },
+        {
+          "id": "B",
+          "text": "&minus;45",
+          "html": "&minus;45"
+        },
+        {
+          "id": "C",
+          "text": "270",
+          "html": "270"
+        },
+        {
+          "id": "D",
+          "text": "43",
+          "html": "43"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">1755 ÷ 39 × (8 − 28 ÷ 4) − 2 ⇒ 45 × (8 - 7) - 2 ⇒ 45 × 1 - 2 ⇒ 43</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q20",
+      "number": 20,
+      "question": "Simplify the following expression. 133 &divide; 19 &times; 3 &ndash; 48 &times; 2 &divide; 24 + 841 &divide; { 45 &ndash; 16}",
+      "questionHtml": "Simplify the following expression. 133 &divide; 19 &times; 3 &ndash; 48 &times; 2 &divide; 24 + 841 &divide; { 45 &ndash; 16}",
+      "options": [
+        {
+          "id": "A",
+          "text": "46",
+          "html": "46"
+        },
+        {
+          "id": "B",
+          "text": "21",
+          "html": "21"
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "D",
+          "text": "42",
+          "html": "42"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>First solve the bracket:</p>\n\n<p>45 - 16 = 29</p>\n\n<p>Then simplify step by step:</p>\n\n<p>133 ÷ 19 × 3 - 48 × 2 ÷ 24 + 841 ÷ 29</p>\n\n<p>133 ÷ 19 × 3 - 96 ÷ 24 + 29 = 7 × 3 - 4 + 29</p>\n\n<p>21 - 4 + 29 = 17 + 29 = <strong>46</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q21",
+      "number": 21,
+      "question": "Simplify the given expression. \\(\\frac{12.43 \\times 12.43 \\times 12.43+19.57 \\times 19.57 \\times 19.57}{12.43 \\times 12.43-12.43 \\times 19.57+19.57 \\times 19.57}\\)",
+      "questionHtml": "<p>Simplify the given expression.</p>\n\n<p><span class=\"math-tex\">\\(\\frac{12.43 \\times 12.43 \\times 12.43+19.57 \\times 19.57 \\times 19.57}{12.43 \\times 12.43-12.43 \\times 19.57+19.57 \\times 19.57}\\)</span></p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "36",
+          "html": "36"
+        },
+        {
+          "id": "B",
+          "text": "30",
+          "html": "30"
+        },
+        {
+          "id": "C",
+          "text": "32",
+          "html": "32"
+        },
+        {
+          "id": "D",
+          "text": "34",
+          "html": "34"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Given: (12.43<sup>3</sup> + 19.57<sup>3</sup>) / (12.43<sup>2</sup> - 12.43 × 19.57 + 19.57<sup>2</sup>) ,Apply: (a<sup>3</sup> + b<sup>3</sup>) / (a<sup>2</sup> - ab + b<sup>2</sup>) = a + b</p>\n\n<p>Here: a = 12.43, b = 19.57 ,Then: 12.43 + 19.57 = 32</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q22",
+      "number": 22,
+      "question": "Simplify 2.5 &times; [144 &divide; 198 &times; {121 &times; 81 &divide; (11 &times; 9)}]",
+      "questionHtml": "<p>Simplify</p>\n\n<p>2.5&nbsp;&times;&nbsp;[144 &divide;&nbsp;198 &times; {121 &times; 81 &divide; (11 &times; 9)}]&nbsp;&nbsp;</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "180",
+          "html": "180"
+        },
+        {
+          "id": "B",
+          "text": "175",
+          "html": "175"
+        },
+        {
+          "id": "C",
+          "text": "185",
+          "html": "185"
+        },
+        {
+          "id": "D",
+          "text": "190",
+          "html": "190"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p data-darkreader-inline-color=\"\" style=\"color: rgb(30, 43, 51); --darkreader-inline-color: #cecac4;\">2.5 × [144 ÷ 198 × {121 × 81 ÷ (11 × 9)}] </p>\n\n<p data-darkreader-inline-color=\"\" style=\"color: rgb(30, 43, 51); --darkreader-inline-color: #cecac4;\">⇒ <span data-darkreader-inline-color=\"\" style=\"color: rgb(30, 43, 51); --darkreader-inline-color: #cecac4;\">2.5 × [144 ÷ 198 × {121 × 81 ÷ 99}]  ⇒ 2.5 × [144 ÷ 198 × {99}]  ⇒ 2.5 × [72]  ⇒ 180</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q23",
+      "number": 23,
+      "question": "Simplify the following expression. 72 &minus; 42 &divide; 6 of 7 &times; 4 of 3 &divide; 4 &times; 3 &minus; 5",
+      "questionHtml": "<p>Simplify the following expression.</p>\n\n<p>72 &minus; 42 &divide; 6 of 7 &times; 4 of 3 &divide; 4 &times; 3 &minus; 5</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "32",
+          "html": "32"
+        },
+        {
+          "id": "B",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "C",
+          "text": "58",
+          "html": "58"
+        },
+        {
+          "id": "D",
+          "text": "45",
+          "html": "45"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong><span style=\"\">Given:</span></strong></p>\n\n<p><span style=\"\">72 &minus; 42 &divide; 6 of 7 &times; 4 of 3 &divide; 4 &times; 3 &minus; 5</span></p>\n\n<p><span style=\"\"><strong>Concept Used:</strong></span></p>\n\n<p>Follow the BODMAS rule according to the table given below:</p>\n\n<p><img alt=\"\" src=\"https:https://storage.googleapis.com/tb-img/production/22/08/image%20%282%29.png\" style=\"width: 350px; height: 196px;\" /></p>\n\n<p><span style=\"\"><strong>Calculations:</strong></span></p>\n\n<p><span style=\"\">&rArr; 72 &minus; 42 &divide; 6 of 7 &times; 4 of 3 &divide; 4 &times; 3 &minus; 5</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;72 &minus; 42 &divide; 42 &times; 12 &divide; 4 &times; 3 &minus; 5&nbsp;&nbsp;</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;72 &minus; 1 &times; 3 &times; 3 &minus; 5&nbsp; &nbsp;&nbsp;</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;72 &minus; 9 &minus; 5&nbsp; &nbsp;</span></p>\n\n<p style=\"\">&rArr;&nbsp;72 &minus; 14<span style=\"\">&nbsp;</span></p>\n\n<p style=\"\"><span style=\"\">&rArr;&nbsp;58</span></p>\n\n<p style=\"\"><span style=\"\"><strong>&rArr;&nbsp;</strong><strong>Hence, The value of above is 58.</strong></span></p>\n",
+      "images": [
+        "https:https://storage.googleapis.com/tb-img/production/22/08/image%20%282%29.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q24",
+      "number": 24,
+      "question": "Simplify the given expression. y + 2x - [y - (y - x + y) - (x + y) + y] - 2y.",
+      "questionHtml": "<p>Simplify the given expression.</p>\n\n<p>y + 2x - [y - (y - x + y) - (x + y) + y] - 2y.&nbsp;</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "-y",
+          "html": "-y"
+        },
+        {
+          "id": "B",
+          "text": "-2x",
+          "html": "-2x"
+        },
+        {
+          "id": "C",
+          "text": "Y",
+          "html": "Y"
+        },
+        {
+          "id": "D",
+          "text": "2x",
+          "html": "2x"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(30, 43, 51);\"><span style=\"font-weight: bolder; line-height: 20px;\">Given:</span></p>\n\n<p style=\"color: rgb(30, 43, 51);\">y + 2x - [y - (y - x + y) - (x + y) + y] - 2y</p>\n\n<p style=\"color: rgb(30, 43, 51);\"><span style=\"font-weight: 700;\">Concept used:</span></p>\n\n<p style=\"color: rgb(30, 43, 51);\">Follow the BODMAS rule according to the table given below:</p>\n\n<p style=\"color: rgb(30, 43, 51);\"><img alt=\"quesImage162\" src=\"https://cdn.testbook.com/images/production/quesImages/quesImage162.png\" style=\"border-style: none; max-width: 100%; height: auto;\" /></p>\n\n<p style=\"color: rgb(30, 43, 51);\"><span style=\"font-weight: bolder; line-height: 20px;\">Calculation:</span></p>\n\n<p style=\"color: rgb(30, 43, 51);\">y + 2x - [y - (y - x + y) - (x + y) + y] - 2y</p>\n\n<p style=\"color: rgb(30, 43, 51);\">&rArr;&nbsp;y + 2x - [y - y +&nbsp;x -&nbsp;y&nbsp;- x - y&nbsp;+ y] - 2y</p>\n\n<p style=\"color: rgb(30, 43, 51);\"><span style=\"color: rgb(30, 43, 51);\">&rArr;&nbsp;y + 2x - [- y</span><span style=\"color: rgb(30, 43, 51);\">] - 2y</span></p>\n\n<p style=\"color: rgb(30, 43, 51);\"><span style=\"color: rgb(30, 43, 51);\">&rArr;&nbsp;y + 2x +&nbsp;</span><span style=\"color: rgb(30, 43, 51);\">y&nbsp;- 2y</span></p>\n\n<p style=\"color: rgb(30, 43, 51);\"><span style=\"color: rgb(30, 43, 51);\">&rArr; <strong>2x</strong></span></p>\n",
+      "images": [
+        "https://cdn.testbook.com/images/production/quesImages/quesImage162.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q25",
+      "number": 25,
+      "question": "The value of 4 + [3{35 + (42 + 10 &divide; 2 &times; 3 - 40)} + 7] is :",
+      "questionHtml": "The value of 4 + [3{35 + (42 + 10 &divide; 2 &times; 3 - 40)} + 7] is :",
+      "options": [
+        {
+          "id": "A",
+          "text": "167",
+          "html": "167"
+        },
+        {
+          "id": "B",
+          "text": "163",
+          "html": "163"
+        },
+        {
+          "id": "C",
+          "text": "157",
+          "html": "157"
+        },
+        {
+          "id": "D",
+          "text": "185",
+          "html": "185"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>4 + [3 {35 + (42 + 10 &divide; 2 &times; 3 - 40)} + 7]</p>\n\n<p><strong>Formula:</strong></p>\n\n<p><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/qImage32016.png\" /></p>\n\n<p><b>Calculation:</b></p>\n\n<p>4 + [3 {35 + (42 + 10 &divide; 2 &times; 3 - 40)} + 7]</p>\n\n<p>&rArr; 4 + [3 {35 + (42 + 5&nbsp;&times; 3 - 40)} + 7]</p>\n\n<p>&rArr; 4 + [3 {35 + (42 + 15&nbsp;- 40)} + 7]</p>\n\n<p>&rArr; 4 + [3 {35 + 17} + 7]</p>\n\n<p>&rArr; 4 + [3&nbsp;&times; 52 + 7]</p>\n\n<p>&rArr; 4 + [156 + 7]</p>\n\n<p>&rArr; 4 + 163</p>\n\n<p>&rArr; 167</p>\n\n<p><strong>&there4; The correct answer is 167</strong></p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/qImage32016.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q26",
+      "number": 26,
+      "question": "Simplify the following : 6 &times; {6 of (6 + 6)} &divide; {(6 &divide; 6) &times; (600% of 6)}",
+      "questionHtml": "Simplify the following : 6&nbsp;&times; {6 of (6 + 6)} &divide; {(6&nbsp;&divide;&nbsp; 6) <span style=\"\">&times;</span> (600% of 6)}&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "B",
+          "text": "15552",
+          "html": "15552"
+        },
+        {
+          "id": "C",
+          "text": "108",
+          "html": "108"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "6"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>6&nbsp;&times; {6 of ( 6+ 6)}&nbsp;&divide; {( 6&nbsp;&divide; 6)&nbsp;&times; ( 600 % of 6)}</p>\n\n<p><b>Formula&nbsp;used:</b></p>\n\n<p><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/qImage25485.png\" style=\"height: 163px; width: 300px;\" /></p>\n\n<p><strong>CALCULATION :</strong></p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>6&nbsp;&times; {6&nbsp; of ( 6 + 6 ) }&nbsp;&divide; { ( 6&nbsp;&divide; 6 )&nbsp;&times; ( 600 % of 6 ) }</p>\n\n<p>&rArr; 6&nbsp;&times; { 6 of 12}&nbsp;&divide; {1&nbsp;&times; 36}</p>\n\n<p>&rArr; 6&nbsp;&times; 72&nbsp;&divide; 36</p>\n\n<p>&rArr; 6&times; 2 = 12.</p>\n\n<p><strong>&there4; The correct answer is 12.</strong></p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/qImage25485.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q27",
+      "number": 27,
+      "question": "What will come at place of x, (x < 10) for \\(\\frac{(132 \\div 12 \\times x - 3 \\times 3)}{(5^2 - 6 \\times 4 + x^2)} = 1\\) ?",
+      "questionHtml": "What will come at place of x, (x &lt; 10) for <span class=\"math-tex\">\\(\\frac{(132 \\div 12 \\times x - 3 \\times 3)}{(5^2 - 6 \\times 4 + x^2)} = 1\\)</span>?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Calculations :</strong></p>\n\n<p><strong><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/21/03/bodmas.png\" style=\"width: 440px; height: 247px;\" /></strong></p>\n\n<p>Use above given table to solve this problem&nbsp;</p>\n\n<p>Solving numerator first&nbsp;</p>\n\n<p>132&nbsp;&divide; 12&nbsp;&times; x - 3&nbsp;&times; 3&nbsp;</p>\n\n<p>&rArr; 11&nbsp;&times; x - 9</p>\n\n<p>&rArr; 11x - 9&nbsp;</p>\n\n<p>Now solving denominator&nbsp;</p>\n\n<p>5<sup>2</sup>&nbsp;- 6&nbsp;&times;&nbsp;4 + x<sup>2</sup></p>\n\n<p>&rArr; 25 - 6&nbsp;&times; 4 + x<sup>2</sup>&nbsp;</p>\n\n<p>&rArr; 25 - 24 + x<sup>2</sup></p>\n\n<p>&rArr; x<sup>2</sup>&nbsp;+ 1&nbsp;</p>\n\n<p>Now according to the question&nbsp;</p>\n\n<p>(11x - 9)/(x<sup>2</sup>&nbsp;+ 1) = 1&nbsp;</p>\n\n<p>11x - 9 = x<sup>2</sup>&nbsp;+ 1&nbsp;</p>\n\n<p>x<sup>2</sup> + 1 + 9 - 11x = 0</p>\n\n<p>x<sup>2</sup> - 11x + 10 = 0&nbsp;</p>\n\n<p>&rArr; x<sup>2</sup> - 10x - x + 10 = 0&nbsp;</p>\n\n<p>&rArr; x.(x - 10) -1(x - 10) = 0&nbsp;</p>\n\n<p>&rArr; (x - 1).(x - 10) = 0&nbsp;</p>\n\n<p>&rArr; x = 1 or 10&nbsp;</p>\n\n<p>But x &lt; 10&nbsp;</p>\n\n<p>So,&nbsp;</p>\n\n<p>&rArr; x = 1&nbsp;</p>\n\n<p><strong>&there4; The value of x will be 1.</strong></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/21/03/bodmas.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q28",
+      "number": 28,
+      "question": "If &lsquo;&divide;&rsquo; means &lsquo;&times;&rsquo;, &lsquo;&times;&rsquo; means &lsquo;&divide;&rsquo;, &lsquo;+&rsquo; means &lsquo;&minus;&rsquo;, &lsquo;&minus;&rsquo; means &lsquo;+&rsquo;, then 47 &divide; (10 &times; 5) + (4 &minus; 5) &minus; 6 is:",
+      "questionHtml": "If &lsquo;&divide;&rsquo; means &lsquo;&times;&rsquo;, &lsquo;&times;&rsquo; means &lsquo;&divide;&rsquo;, &lsquo;+&rsquo; means &lsquo;&minus;&rsquo;, &lsquo;&minus;&rsquo; means &lsquo;+&rsquo;, then 47 &divide; (10 &times; 5) + (4 &minus; 5) &minus; 6 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "100",
+          "html": "100"
+        },
+        {
+          "id": "B",
+          "text": "59",
+          "html": "59"
+        },
+        {
+          "id": "C",
+          "text": "91",
+          "html": "91"
+        },
+        {
+          "id": "D",
+          "text": "79",
+          "html": "79"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>If &#39;&divide;&#39; means &#39;&times;&#39;, &#39;&times;&#39; means &#39;&divide;&#39;, &#39;+&#39; means &#39;-&#39;, &#39;-&#39; means &#39;+&#39;, then 47 &divide; (10 &times; 5) + (4 - 5) - 6 is:</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Replace the symbols according to the given conditions.</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Given expression: 47 &divide; (10 &times; 5) + (4 - 5) - 6 becomes,</p>\n\n<p>&rArr; 47&nbsp;&times; (10&nbsp;&divide; 5) - (4 + 5) + 6</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">&rArr; 47&nbsp;&times; 2&nbsp;- 9+ 6</span></p>\n\n<p>&rArr; 94 - 3</p>\n\n<p>&rArr; 91</p>\n\n<p><strong>Therefore, the correct answer is option (3)</strong>.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q29",
+      "number": 29,
+      "question": "Simplify the following expression. 99 - [169 &divide; (13 &times; 13) - (-4) - {3 - 17 + 10}]",
+      "questionHtml": "<p><!-- x-tinymce/html -->Simplify the following expression.</p>\n\n<p>99 - [169&nbsp;&divide;&nbsp;(13 &times;&nbsp;13) - (-4) - {3 - 17 + 10}]</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "107",
+          "html": "107"
+        },
+        {
+          "id": "B",
+          "text": "90",
+          "html": "90"
+        },
+        {
+          "id": "C",
+          "text": "80",
+          "html": "80"
+        },
+        {
+          "id": "D",
+          "text": "87",
+          "html": "87"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>99 - [169 ÷ (13 × 13) - (-4) - {3 - 17 + 10}] ⇒ <span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">99 - [169 ÷ 169 - (-4) - {-4}]</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">99 - [1 + 4 + 4] ⇒ </span>99 - 9 = 90</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q30",
+      "number": 30,
+      "question": "7 &ndash; {4 &times; 3 &ndash; (-10) &times; 8 &divide; (-4)} is equal to∶",
+      "questionHtml": "7 &ndash; {4 &times; 3 &ndash; (-10) &times; 8 &divide; (-4)} is equal to∶",
+      "options": [
+        {
+          "id": "A",
+          "text": "-1",
+          "html": "-1"
+        },
+        {
+          "id": "B",
+          "text": "53",
+          "html": "53"
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "html": "15"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Follow BODMAS rule to solve this question, as per the order given below∶<br />\nStep-1∶ Parts of an equation enclosed in &#39;Brackets&#39; must be solved first, and in the bracket,</p>\n\n<p>Step-2∶ Any mathematical &#39;Of&#39; or &#39;Exponent&#39; must be solved next,</p>\n\n<p>Step-3∶ Next, the parts of the equation that contain &#39;Division&#39; and &#39;Multiplication&#39; are calculated,</p>\n\n<p>Step-4∶ Last but not least, the parts of the equation that contain &#39;Addition&#39; and &#39;Subtraction&#39; should be calculated.</p>\n\n<p>&rArr; 7 &ndash; {4 &times; 3 &ndash; (-10) &times; 8 &divide; (-4)}</p>\n\n<p>&rArr; 7 &ndash; {12 &ndash; (-10) &times; (-2)}</p>\n\n<p>&rArr; 7 &ndash; {12 &ndash; 20}</p>\n\n<p>&rArr; 7 &ndash; (-8)</p>\n\n<p>&rArr; 7 + 8</p>\n&rArr; 15",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q31",
+      "number": 31,
+      "question": "96 \\(\\div\\) 48 \\(\\times\\) \\(29\\over2\\) + 5 2 - (1 + 2 + 3 + 4)=?",
+      "questionHtml": "<p>96&nbsp;<span class=\"math-tex\">\\(\\div\\)</span>&nbsp;48&nbsp;<span class=\"math-tex\">\\(\\times\\)</span>&nbsp;<span class=\"math-tex\">\\(29\\over2\\)</span>&nbsp;+ 5<sup>2</sup>&nbsp;- (1 + 2 + 3 + 4)=?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "64",
+          "html": "64"
+        },
+        {
+          "id": "B",
+          "text": "44",
+          "html": "44"
+        },
+        {
+          "id": "C",
+          "text": "34",
+          "html": "34"
+        },
+        {
+          "id": "D",
+          "text": "54",
+          "html": "54"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>&nbsp;</p>\n\n<p><span style=\"\"><strong>Concept used:</strong></span></p>\n\n<p><span style=\"\">BODMAS</span></p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/07/6203fea433474e3b330f0951_22-7-22_Shashi%20Savita_D1.png\" style=\"color: rgb(33, 37, 41); width: 368px; height: 193px;\" /></p>\n\n<p><span style=\"\"><strong>Calculations:</strong></span></p>\n\n<p><span style=\"\">&rArr; 96&nbsp;</span><span class=\"math-tex\">\\(\\div\\)</span><span style=\"\">&nbsp;48&nbsp;</span><span class=\"math-tex\">\\(\\times\\)</span><span style=\"\">&nbsp;</span><span class=\"math-tex\">\\(29\\over2\\)</span><span style=\"\">&nbsp;+ 5</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;- (1 + 2 + 3 + 4)</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;96&nbsp;</span><span class=\"math-tex\">\\(\\div\\)</span><span style=\"\">&nbsp;48&nbsp;</span><span class=\"math-tex\">\\(\\times\\)</span><span style=\"\">&nbsp;</span><span class=\"math-tex\">\\(29\\over2\\)</span><span style=\"\">&nbsp;+ 5</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;- (10)</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;<span class=\"math-tex\">\\(2×\\frac{29}{2}\\)</span></span>&nbsp;+ 25 - 10</p>\n\n<p><span style=\"\">&rArr;</span> 29 + 25 - 10</p>\n\n<p><span style=\"\">&rArr;</span> 54 - 10</p>\n\n<p><span style=\"\">&rArr;</span> 44</p>\n\n<p><strong>&there4;&nbsp;Required simplified value is 44.</strong></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/23/07/6203fea433474e3b330f0951_22-7-22_Shashi%20Savita_D1.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q32",
+      "number": 32,
+      "question": "The value of \\(\\frac{{\\left[ {54 - \\left( {5 \\div 2} \\right)\\; \\times \\;8} \\right]\\; + \\;13}}{{48 - 4 \\div 3\\; \\times \\;8 - 2}}\\)",
+      "questionHtml": "<p>The value of&nbsp;<span class=\"math-tex\">\\(\\frac{{\\left[ {54 - \\left( {5 \\div 2} \\right)\\; \\times \\;8} \\right]\\; + \\;13}}{{48 - 4 \\div 3\\; \\times \\;8 - 2}}\\)</span></p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "141/127",
+          "html": "141/127"
+        },
+        {
+          "id": "B",
+          "text": "89/106",
+          "html": "89/106"
+        },
+        {
+          "id": "C",
+          "text": "89/127",
+          "html": "89/127"
+        },
+        {
+          "id": "D",
+          "text": "141/106",
+          "html": "141/106"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Concept used:</strong></p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/21/05/BODMAS.png\" style=\"color: rgb(33, 37, 41); width: 440px; height: 247px;\" /></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><span class=\"math-tex\">\\(\\frac{{\\left[ {54 - \\left( {5 \\div 2} \\right)\\; \\times \\;8} \\right]\\; + \\;13}}{{48 - 4 \\div 3\\; \\times \\;8 - 2}}\\)</span></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow {\\rm{\\;}}\\frac{{\\left[ {54 - \\frac{5}{2}\\; \\times \\;8} \\right]\\; + \\;13}}{{48 - \\frac{4}{3}\\; \\times \\;8 - 2}}\\)</span></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow {\\rm{\\;}}\\frac{{\\left[ {54 - 20} \\right]\\; + \\;13}}{{48 - \\frac{{32}}{3} - 2}}\\)</span></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow {\\rm{\\;}}\\frac{{34\\; + \\;13}}{{46 - \\frac{{32}}{3}}}\\)</span></p>\n\n<p>&rArr; (47 &times; 3)/(138 &ndash; 32)</p>\n\n<p>&rArr; 141/106</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/21/05/BODMAS.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q33",
+      "number": 33,
+      "question": "What is the value of \\(\\frac{\\left[\\frac{1}{4} \\div \\frac{1}{4} \\times \\frac{1}{4}\\right] \\times \\frac{1}{4}}{\\left[\\frac{1}{8}+\\frac{1}{8} \\times \\frac{1}{8}\\right]}\\) + \\(\\left(1-\\frac{4}{9}\\right)\\) ?",
+      "questionHtml": "What is the value of&nbsp;<span class=\"math-tex\">\\(\\frac{\\left[\\frac{1}{4} \\div \\frac{1}{4} \\times \\frac{1}{4}\\right] \\times \\frac{1}{4}}{\\left[\\frac{1}{8}+\\frac{1}{8} \\times \\frac{1}{8}\\right]}\\)</span> +&nbsp;<span class=\"math-tex\">\\(\\left(1-\\frac{4}{9}\\right)\\)</span>?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Solution:</strong></p>\n\n<p>We are given the expression:</p>\n\n<p><span class=\"math-tex\">\\(\\frac{\\left[\\frac{1}{4} \\div \\frac{1}{4} \\times \\frac{1}{4}\\right] \\times \\frac{1}{4}}{\\left[\\frac{1}{8} + \\frac{1}{8} \\times \\frac{1}{8}\\right]} + \\left(1 - \\frac{4}{9}\\right)\\)</span></p>\n\n<p><strong>Step 1: Simplify the numerator</strong></p>\n\n<p><span class=\"math-tex\">\\(\\frac{1}{4} \\div \\frac{1}{4} \\times \\frac{1}{4} = 1 \\times \\frac{1}{4} = \\frac{1}{4}\\)</span></p>\n\n<p>Now multiply by&nbsp;<span class=\"math-tex\">\\(\\frac{1}{4}\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\frac{1}{4} \\times \\frac{1}{4} = \\frac{1}{16}\\)</span></p>\n\n<p><strong>Step 2: Simplify the denominator</strong></p>\n\n<p><span class=\"math-tex\">\\(\\frac{1}{8} + \\frac{1}{8} \\times \\frac{1}{8} = \\frac{1}{8} + \\frac{1}{64} = \\frac{9}{64}\\)</span></p>\n\n<p><strong>Step 3: Divide the numerator by the denominator</strong></p>\n\n<p><span class=\"math-tex\">\\(\\frac{\\frac{1}{16}}{\\frac{9}{64}} = \\frac{64}{144} = \\frac{4}{9}\\)</span></p>\n\n<p><strong>Step 4: Simplify the second part</strong></p>\n\n<p><span class=\"math-tex\">\\(1 - \\frac{4}{9} = \\frac{5}{9}\\)</span></p>\n\n<p><strong>Step 5: Add the two parts</strong></p>\n\n<p><span class=\"math-tex\">\\(\\frac{4}{9} + \\frac{5}{9} = 1\\)</span></p>\n\n<p><strong>&there4; The value of the expression is 1.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q34",
+      "number": 34,
+      "question": "simplify: \\(\\left[\\frac{1}{5}\\ of\\ (35-5)+4\\right]^2-[9-\\{7+(2-3)\\}+5]^2\\)",
+      "questionHtml": "<p>simplify:&nbsp;</p>\n\n<p><span class=\"math-tex\">\\(\\left[\\frac{1}{5}\\ of\\ (35-5)+4\\right]^2-[9-\\{7+(2-3)\\}+5]^2\\)</span></p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "100",
+          "html": "100"
+        },
+        {
+          "id": "B",
+          "text": "36",
+          "html": "36"
+        },
+        {
+          "id": "C",
+          "text": "25",
+          "html": "25"
+        },
+        {
+          "id": "D",
+          "text": "64",
+          "html": "64"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><strong><span class=\"math-tex\">\\(\\left[\\frac{1}{5}\\ of\\ (35-5)+4\\right]^2-[9-\\{7+(2-3)\\}+5]^2\\)</span></strong></p>\n\n<p><strong>Concept:</strong></p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/04/Bodmas%20dtp.png\" style=\"color: rgb(33, 37, 41); width: 400px; height: 225px;\" /></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><strong><span class=\"math-tex\">\\(\\left[\\frac{1}{5}\\ of\\ (35-5)+4\\right]^2-[9-\\{7+(2-3)\\}+5]^2\\)</span></strong></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\left[\\frac{1}{5}\\ of\\ 30+4\\right]^2-[9-\\{7+(-1)\\}+5]^2\\)</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">&rArr;&nbsp;</span>(6 + 4)<sup>2</sup> - [9 - 6 + 5]<sup>2</sup></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">&rArr;&nbsp;</span>10<sup>2&nbsp;</sup>- 8<sup>2&nbsp;</sup></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">&rArr;&nbsp;</span>100 - 64 = 36</p>\n\n<p><strong>&there4; The simplified value&nbsp;is 36</strong></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/22/04/Bodmas%20dtp.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q35",
+      "number": 35,
+      "question": "What is the value of \\(\\frac{\\frac{3}{4} \\div \\frac{9}{64}+\\frac{7}{11} \\times \\frac{121}{14}-\\frac{9}{13} \\times \\frac{65}{36}}{\\frac{1}{2} \\div \\frac{4}{5}+\\frac{3}{4} \\times \\frac{16}{15}}\\) ?",
+      "questionHtml": "What is the value of <span class=\"math-tex\">\\(\\frac{\\frac{3}{4} \\div \\frac{9}{64}+\\frac{7}{11} \\times \\frac{121}{14}-\\frac{9}{13} \\times \\frac{65}{36}}{\\frac{1}{2} \\div \\frac{4}{5}+\\frac{3}{4} \\times \\frac{16}{15}}\\)</span>?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1169/143",
+          "html": "<span style=\"\">1169/143</span>"
+        },
+        {
+          "id": "B",
+          "text": "1150/171",
+          "html": "<span style=\"\">1150/171</span>"
+        },
+        {
+          "id": "C",
+          "text": "1413/157",
+          "html": "<span style=\"\">1413/157</span>"
+        },
+        {
+          "id": "D",
+          "text": "1216/141",
+          "html": "<span style=\"\">1216/141</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span class=\"math-tex\">\\(\\frac{\\frac{3}{4} \\div \\frac{9}{64}+\\frac{7}{11} \\times \\frac{121}{14}-\\frac{9}{13} \\times \\frac{65}{36}}{\\frac{1}{2} \\div \\frac{4}{5}+\\frac{3}{4} \\times \\frac{16}{15}}\\)</span></p>\n\n<p><strong>Concept used:</strong></p>\n\n<p><img alt=\"\" src=\"https:https://storage.googleapis.com/tb-img/production/22/08/image%20%282%29.png\" style=\"color: rgb(33, 37, 41); width: 350px; height: 196px;\" /></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><strong><span class=\"math-tex\">\\(\\frac{\\frac{3}{4} \\div \\frac{9}{64}+\\frac{7}{11} \\times \\frac{121}{14}-\\frac{9}{13} \\times \\frac{65}{36}}{\\frac{1}{2} \\div \\frac{4}{5}+\\frac{3}{4} \\times \\frac{16}{15}}\\)</span></strong></p>\n\n<p>&rArr;&nbsp;<strong><span class=\"math-tex\">\\(\\frac{\\frac{3}{4} \\times \\frac{64}{9}+\\frac{11}{2} -\\frac{5}{4}}{\\frac{1}{2} \\times \\frac{5}{4}+\\frac{4}{5} }\\)</span></strong></p>\n\n<p>&rArr;&nbsp;<strong><span class=\"math-tex\">\\(\\frac{\\frac{16}{3}+\\frac{17}{4}}{ \\frac{5}{8}+\\frac{4}{5} }\\)</span></strong></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{\\frac{64 + 51}{12}}{ \\frac{25 + 32}{40} }\\)</span></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{\\frac{115}{12}}{ \\frac{57}{40} }\\)</span></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{115 \\times 40}{12 \\times 57}\\)</span></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{1150}{171}\\)</span></p>\n\n<p class=\"p1\" style=\"margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal;  line-height: normal; \"><strong><span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; line-height: normal; \">&there4;</span> Option 2 is the correct answer.</strong></p>\n",
+      "images": [
+        "https:https://storage.googleapis.com/tb-img/production/22/08/image%20%282%29.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q36",
+      "number": 36,
+      "question": "Simplify the following. 72 &divide; 8 &times; 4 +40 - 35 &divide; 5 + 15",
+      "questionHtml": "Simplify the following. 72 &divide; 8 &times; 4 +40 - 35 &divide; 5 + 15",
+      "options": [
+        {
+          "id": "A",
+          "text": "24",
+          "html": "24"
+        },
+        {
+          "id": "B",
+          "text": "84",
+          "html": "84"
+        },
+        {
+          "id": "C",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "D",
+          "text": "48",
+          "html": "48"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>72 &divide; 8 &times; 4 + 40 - 35 &divide; 5 + 15</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Concept used:</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/03/Bodmas%20dtp.png\" style=\"width: 440px; height: 247px;\" /></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>72 &divide; 8 &times; 4 + 40 - 35 &divide; 5 + 15</p>\n\n<p>&rArr; 9 &times; 4 + 40 - 7 + 15</p>\n\n<p>&rArr; 36 + 40 - 7 + 15</p>\n\n<p>&rArr; 76 - 7 + 15</p>\n\n<p>&rArr; 69 + 15</p>\n\n<p>&rArr; 84</p>\n\n<p><strong>&there4; The correct answer is option (2).</strong></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/23/03/Bodmas%20dtp.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q37",
+      "number": 37,
+      "question": "\\(9\\frac{3}{4} + \\left[ {2\\frac{1}{6} + \\left\\{ {4\\frac{1}{3} - \\left( {2\\frac{1}{2} + \\frac{3}{4}} \\right)} \\right\\}} \\right] = ?\\)",
+      "questionHtml": "<span class=\"math-tex\">\\(9\\frac{3}{4} + \\left[ {2\\frac{1}{6} + \\left\\{ {4\\frac{1}{3} - \\left( {2\\frac{1}{2} + \\frac{3}{4}} \\right)} \\right\\}} \\right] = ?\\)</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "13",
+          "html": "13"
+        },
+        {
+          "id": "B",
+          "text": "15/4",
+          "html": "15/4"
+        },
+        {
+          "id": "C",
+          "text": "14",
+          "html": "14"
+        },
+        {
+          "id": "D",
+          "text": "17/4",
+          "html": "17/4"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span class=\"math-tex\">\\(9\\frac{3}{4} + \\left[ {2\\frac{1}{6} + \\left\\{ {4\\frac{1}{3} - \\left( {2\\frac{1}{2} + \\frac{3}{4}} \\right)} \\right\\}} \\right]\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\Rightarrow \\frac{{39}}{4} + \\left[ {\\frac{{13}}{6} + \\left\\{ {\\frac{{13}}{3} - \\left( {\\frac{5}{2} + \\frac{3}{4}} \\right)} \\right\\}} \\right]\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\Rightarrow \\frac{{39}}{4} + \\left[ {\\frac{{13}}{6} + \\left\\{ {\\frac{{13}}{3} - \\frac{{13}}{4}} \\right\\}} \\right]\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\Rightarrow \\frac{{39}}{4} + 13\\left[ {\\frac{1}{6} + \\left\\{ {\\frac{1}{3} - \\frac{1}{4}} \\right\\}} \\right]\\)</span></p>\n&rArr; 39/4 + 39/12 = 13",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q38",
+      "number": 38,
+      "question": "If \\(1 \\frac{1}{3} \\div \\frac{2}{5} \\times \\frac{x}{5} = 1 \\frac{1}{4} \\times \\frac{2}{3} \\div \\frac{1}{6}\\) , then the value of x is:",
+      "questionHtml": "If&nbsp;&nbsp;<span class=\"math-tex\">\\(1 \\frac{1}{3} \\div \\frac{2}{5} \\times \\frac{x}{5} = 1 \\frac{1}{4} \\times \\frac{2}{3} \\div \\frac{1}{6}\\)</span>, then the value of x is:&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "5.5",
+          "html": "5.5&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "7.5",
+          "html": "7.5"
+        },
+        {
+          "id": "C",
+          "text": "7.0",
+          "html": "7.0"
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "html": "15"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span class=\"math-tex\">\\(1 \\frac{1}{3} \\div \\frac{2}{5} \\times \\frac{x}{5} = 1 \\frac{1}{4} \\times \\frac{2}{3} \\div \\frac{1}{6}\\)</span></p>\n\n<p>⇒ <span class=\"math-tex\">\\( \\frac{4}{3} \\div \\frac{2}{5} \\times \\frac{x}{5} = \\frac{5}{4} \\times \\frac{2}{3} \\div \\frac{1}{6}\\)</span>⇒ <span class=\"math-tex\">\\(\\frac{2x}{3} = \\frac{5}{4} \\times 4\\)</span> ⇒ <span class=\"math-tex\">\\(2x =15\\)</span> ⇒ x = 7.5</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q39",
+      "number": 39,
+      "question": "What is the value of 12 - 8 &divide; 2 - {16 of (-2) + (3 &times; 5 - 4)}?",
+      "questionHtml": "What is the value of 12 - 8 &divide; 2 - {16 of (-2) + (3 &times; 5 - 4)}?",
+      "options": [
+        {
+          "id": "A",
+          "text": "29",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">29</font></font>"
+        },
+        {
+          "id": "B",
+          "text": "45",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">45</font></font>"
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">1</font></font>"
+        },
+        {
+          "id": "D",
+          "text": "0",
+          "html": "0"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">12 - 8 &divide; 2 - {16 of (-2) + (3 &times; 5 - 4)}</span></p>\n\n<p><strong>Concept Used:</strong></p>\n\n<p>Follow the BODMAS rule according to the table given below:</p>\n\n<p><img alt=\"\" src=\"https:https://storage.googleapis.com/tb-img/production/22/08/image%20%282%29.png\" style=\"width: 350px; height: 196px;\" /></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><span style=\"\">12 &ndash; 8 &divide; 2 &ndash;&nbsp;{16 of (&ndash;2) + (3 &times; 5 &ndash;&nbsp;4)}</span></p>\n\n<p><span style=\"\">&rArr; 12&nbsp;&ndash;&nbsp;</span><span style=\"\">8 &divide; 2&nbsp;</span><span style=\"\">&ndash;&nbsp;</span><span style=\"\">{</span><span style=\"\">&ndash;32</span><span style=\"\">&nbsp;+ (15&nbsp;</span><span style=\"\">&ndash;</span><span style=\"\">&nbsp;4)}</span></p>\n\n<p><span style=\"\">&rArr; 12&nbsp;&ndash;&nbsp;</span><span style=\"\">8 &divide; 2&nbsp;</span><span style=\"\">&ndash;&nbsp;</span><span style=\"\">{</span><span style=\"\">&ndash;32</span><span style=\"\">&nbsp;+ 11</span><span style=\"\">}</span></p>\n\n<p><span style=\"\">&rArr; 12&nbsp;&ndash;&nbsp;</span><span style=\"\">8 &divide; 2&nbsp;</span><span style=\"\">&ndash;&nbsp;</span><span style=\"\">{</span><span style=\"\">&ndash;</span><span style=\"\">21</span><span style=\"\">}</span></p>\n\n<p><span style=\"\">&rArr; 12&nbsp;&ndash;&nbsp;</span><span style=\"\">8 &divide; 2 +&nbsp;</span><span style=\"\">21</span></p>\n\n<p><span style=\"\">&rArr; 12&nbsp;&ndash; 4</span><span style=\"\">&nbsp;+&nbsp;</span><span style=\"\">21 = 29</span></p>\n\n<p><strong>&there4; The value of&nbsp;<span style=\"\">12 - 8 &divide; 2 -{16 of (-2) + (3 &times; 5 - 4)}</span>&nbsp;is 29.</strong></p>\n",
+      "images": [
+        "https:https://storage.googleapis.com/tb-img/production/22/08/image%20%282%29.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q40",
+      "number": 40,
+      "question": "Simplify 21 - [6 + 7 - {3.22 - (1.1 &times; 0.2)}].",
+      "questionHtml": "Simplify 21 - [6 + 7 - {3.22 - (1.1 <span style=\"color: rgb(33, 37, 41);\">&times;</span> 0.2)}].",
+      "options": [
+        {
+          "id": "A",
+          "text": "13",
+          "html": "13"
+        },
+        {
+          "id": "B",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "C",
+          "text": "11",
+          "html": "11"
+        },
+        {
+          "id": "D",
+          "text": "10",
+          "html": "10"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"mord\">21 </span><span class=\"mbin\">− </span></span><span class=\"base\"><span class=\"mopen\">[</span><span class=\"mord\">6 </span><span class=\"mbin\">+ </span></span><span class=\"base\"><span class=\"mord\">7 </span><span class=\"mbin\">− </span></span><span class=\"base\"><span class=\"mopen\">{</span><span class=\"mord\">3.22 </span><span class=\"mbin\">− </span></span><span class=\"base\"><span class=\"mopen\">(</span><span class=\"mord\">1.1 </span><span class=\"mbin\">× </span></span><span class=\"base\"><span class=\"mord\">0.2</span><span class=\"mclose\">)}] </span><span class=\"mrel\">= </span></span><span class=\"base\"><span class=\"mord\">21 </span><span class=\"mbin\">− </span></span><span class=\"base\"><span class=\"mopen\">[</span><span class=\"mord\">6 </span><span class=\"mbin\">+ </span></span><span class=\"base\"><span class=\"mord\">7 </span><span class=\"mbin\">− </span></span><span class=\"base\"><span class=\"mord\">3</span><span class=\"mclose\">] </span><span class=\"mrel\">= </span></span><span class=\"base\"><span class=\"mord\">21 </span><span class=\"mbin\">− </span></span><span class=\"base\"><span class=\"mord\">10 </span><span class=\"mrel\">= </span></span><span class=\"base\"><span class=\"mord\">11</span></span></span></span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q41",
+      "number": 41,
+      "question": "What is the value of 3126 &divide; 4 of 521 + 5 &times; 3?",
+      "questionHtml": "What is the value of 3126 &divide; 4 of 521 + 5 &times; 3?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15.5",
+          "html": "<span style=\"\">15.5</span>"
+        },
+        {
+          "id": "B",
+          "text": "14.5",
+          "html": "<span style=\"\">14.5</span>"
+        },
+        {
+          "id": "C",
+          "text": "13.5",
+          "html": "<span style=\"\">13.5</span>"
+        },
+        {
+          "id": "D",
+          "text": "16.5",
+          "html": "<span style=\"\">16.5</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">3126 ÷ 4 x 521 + 5 x 3 = 3126/2084 + 15</p>\n\n<p style=\"color: rgb(33, 37, 41);\">= 1.5 + 15 = 16.5</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q42",
+      "number": 42,
+      "question": "\\(4\\frac{4}{5} \\div \\frac{3}{7}\\;of\\;7 + \\frac{4}{5} \\times \\frac{3}{{10}} - \\frac{1}{5}\\) is equal to∶",
+      "questionHtml": "<span class=\"math-tex\">\\(4\\frac{4}{5} \\div \\frac{3}{7}\\;of\\;7 + \\frac{4}{5} \\times \\frac{3}{{10}} - \\frac{1}{5}\\)</span>&nbsp;is equal to∶",
+      "options": [
+        {
+          "id": "A",
+          "text": "7/5",
+          "html": "7/5"
+        },
+        {
+          "id": "B",
+          "text": "8/5",
+          "html": "8/5"
+        },
+        {
+          "id": "C",
+          "text": "34/25",
+          "html": "34/25"
+        },
+        {
+          "id": "D",
+          "text": "41/25",
+          "html": "41/25"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span class=\"math-tex\">\\(4\\frac{4}{5} \\div \\frac{3}{7}\\;of\\;7 + \\frac{4}{5} \\times \\frac{3}{{10}} - \\frac{1}{5}\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\Rightarrow \\frac{{24}}{5}\\; \\div \\left( {\\frac{3}{7} \\times 7} \\right) + \\frac{4}{5} \\times \\frac{3}{{10}} - \\frac{1}{5} = \\frac{{24}}{5}\\; \\div 3 + \\frac{4}{5} \\times \\frac{3}{{10}} - \\frac{1}{5}\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\Rightarrow \\frac{{24}}{5} \\times \\frac{1}{3} + \\frac{4}{5} \\times \\frac{3}{{10}} - \\frac{1}{5}\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\Rightarrow \\frac{8}{5} + \\frac{6}{{25}} - \\frac{1}{5} = \\frac{{46}}{{25}} - \\frac{1}{5} = \\frac{{41}}{{25}}\\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q43",
+      "number": 43,
+      "question": "The value of 25% of 720 + 57 &divide; 19 &times; \\(\\frac{1}{3}\\) of ​​ \\(\\frac{100}{11}\\) of \\(\\frac{33}{25}\\) &minus; 15% of 300 is:",
+      "questionHtml": "The value of 25% of 720&nbsp;+ 57 &divide; 19&nbsp;&times;&nbsp;<span class=\"math-tex\">\\(\\frac{1}{3}\\)</span>&nbsp;of ​​<span class=\"math-tex\">\\(\\frac{100}{11}\\)</span>&nbsp;of&nbsp;<span class=\"math-tex\">\\(\\frac{33}{25}\\)</span>&minus; 15% of 300 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "191",
+          "html": "191"
+        },
+        {
+          "id": "B",
+          "text": "157",
+          "html": "157"
+        },
+        {
+          "id": "C",
+          "text": "127",
+          "html": "127"
+        },
+        {
+          "id": "D",
+          "text": "147",
+          "html": "147"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span class=\"math-tex\">\\(\\frac{25}{100}\\times 720 + \\frac{57}{19} \\times \\frac{1}{3}\\times \\frac{100}{11}\\times \\frac{33}{25}-\\frac{15}{100}\\times 300\\)</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span class=\"math-tex\">\\(180 + 3 \\times \\frac{1}{3}\\times 4\\times 3-45\\)</span> <span style=\"color: rgb(33, 37, 41);\">⇒ </span><span class=\"math-tex\">\\(180 + 1\\times 4\\times 3-45\\)</span> <span style=\"color: rgb(33, 37, 41);\">⇒ </span><span class=\"math-tex\">\\(147\\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q44",
+      "number": 44,
+      "question": "Simplify the given expression. 18 &divide; 3 of 2 &times; 5 + 72 &divide; 18 of 2 &times; 3 - 4 &divide; 8 &times; 2",
+      "questionHtml": "<p>Simplify the given expression.</p>\n\n<p>18 &divide;&nbsp;3 of 2&nbsp;&times;&nbsp;5 + 72 &divide; 18 of 2 &times; 3 - 4 &divide; 8 &times; 2</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{20}{3}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{20}{3}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{25}{3}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{25}{3}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "25",
+          "html": "25"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(30, 43, 51);\">18 ÷ 3 of 2 × 5 + 72 ÷ 18 of 2 × 3 - 4 ÷ 8 × 2 ⇒ 18 ÷ 6 × 5 + 72 ÷ 36 × 3 - 4 ÷ 8 × 2 <span style=\"color: rgb(30, 43, 51);\">⇒ 3 × 5 + 2 × 3 - 1/2 × 2 ⇒ 20</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q45",
+      "number": 45,
+      "question": "(9 + 3 &ndash; 16 &divide; 4 + 10) + {(3 + 5 &times; 2 &divide; 10)} &times; (18 &ndash; 4 of 5) = ?",
+      "questionHtml": "(9 + 3 &ndash; 16 &divide; 4 + 10) + {(3 + 5 &times; 2 &divide; 10)} &times; (18 &ndash; 4 of 5) = ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "B",
+          "text": "10",
+          "html": "10"
+        },
+        {
+          "id": "C",
+          "text": "15",
+          "html": "15"
+        },
+        {
+          "id": "D",
+          "text": "8",
+          "html": "8"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Concept used:</strong></p>\n\n<p><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage42.png\" /></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>(9 + 3 &ndash; 16&nbsp;&divide; 4 + 10) + {(3 + 5&nbsp;&times;&nbsp;2&nbsp;&divide; 10)}&nbsp;&times; (18 &ndash; 4 of 5)</p>\n\n<p>&rArr; (9 + 3 &ndash; 4 + 10) + {(3 + 5&nbsp;&times; 1/5)}&nbsp;&times; (18 &ndash; 20)</p>\n\n<p>&rArr; 18 + 4&nbsp;&times; (18 &ndash; 20)</p>\n\n<p>&rArr; 18 + 4&nbsp;&times; (-2)&nbsp;</p>\n\n<p>&rArr; 18 &ndash; 8 = 10</p>\n\n<p><strong>&there4; The value is 10.</strong></p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/quesImage42.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q46",
+      "number": 46,
+      "question": "Simplify \\(\\frac{1-\\frac{3}{7}\\div\\frac{9}{49}\\times \\frac{3}{14}}{1+\\frac{3}{5}\\div\\frac{1}{25}\\times\\frac{1}{30}}\\)",
+      "questionHtml": "Simplify&nbsp;<span class=\"math-tex\">\\(\\frac{1-\\frac{3}{7}\\div\\frac{9}{49}\\times \\frac{3}{14}}{1+\\frac{3}{5}\\div\\frac{1}{25}\\times\\frac{1}{30}}\\)</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{1}{7}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{7}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{1}{6}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{6}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{1}{3}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{3}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{1}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{5}\\)</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span class=\"math-tex\">\\(\\frac{1-\\frac{3}{7}\\div\\frac{9}{49}\\times \\frac{3}{14}}{1+\\frac{3}{5}\\div\\frac{1}{25}\\times\\frac{1}{30}}\\)</span>⇒ <span class=\"math-tex\">\\(\\frac{1-\\frac{3}{7}\\times\\frac{49}{9}\\times \\frac{3}{14}}{1+\\frac{3}{5}\\times\\frac{25}{1}\\times\\frac{1}{30}}\\)</span> <span style=\"color: rgb(33, 37, 41);\">⇒</span><span style=\"font-weight: bolder;\"><span class=\"math-tex\">\\(\\frac{1-\\frac{1}{2}}{1+\\frac{1}{2}}\\)</span></span> <span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-weight: bolder;\"><span class=\"math-tex\">\\(\\frac{\\frac{2 -1}{2}}{\\frac{2+1}{2}}\\)</span> </span><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-weight: bolder;\"><span class=\"math-tex\">\\(\\frac{1}{3}\\)</span></span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q47",
+      "number": 47,
+      "question": "If 720 &divide; 8 + 915 &divide; 15 &minus; m + 32 &times; 5 = 1104 &divide; 16 &times; 111 &divide; 37, then the value of m is:",
+      "questionHtml": "If 720 &divide; 8 + 915 &divide; 15 &minus; m + 32 &times; 5 = 1104 &divide; 16 &times; 111 &divide; 37, then the value of m is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "104",
+          "html": "104"
+        },
+        {
+          "id": "B",
+          "text": "518",
+          "html": "518"
+        },
+        {
+          "id": "C",
+          "text": "207",
+          "html": "207"
+        },
+        {
+          "id": "D",
+          "text": "311",
+          "html": "311"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(30, 43, 51);\">720 ÷ 8 + 915 ÷ 15 − m + 32 × 5 = 1104 ÷ 16 × 111 ÷ 37 ⇒ 90 + 61 - m + 160 =  69 <span style=\"color: rgb(30, 43, 51);\">× 3</span> ⇒ <span style=\"color: rgb(30, 43, 51);\">151 </span><span style=\"color: rgb(30, 43, 51);\">- </span><span style=\"color: rgb(30, 43, 51);\">m + 160 =  207 </span> m = 311 - 207 ⇒ 104</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q48",
+      "number": 48,
+      "question": "\\(3\\frac{1}{5} - \\left[ {2\\frac{1}{2} - \\left\\{ {\\frac{5}{6} - \\left( {\\frac{2}{5} + \\frac{3}{{10}} - \\frac{4}{{15}}} \\right)} \\right\\}} \\right] = ?\\)",
+      "questionHtml": "<span class=\"math-tex\">\\(3\\frac{1}{5} - \\left[ {2\\frac{1}{2} - \\left\\{ {\\frac{5}{6} - \\left( {\\frac{2}{5} + \\frac{3}{{10}} - \\frac{4}{{15}}} \\right)} \\right\\}} \\right] = ?\\)</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "11/10",
+          "html": "11/10"
+        },
+        {
+          "id": "B",
+          "text": "9/10",
+          "html": "9/10"
+        },
+        {
+          "id": "C",
+          "text": "13/5",
+          "html": "13/5"
+        },
+        {
+          "id": "D",
+          "text": "6/5",
+          "html": "6/5"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p> </p>\n\n<p><span class=\"math-tex\">\\(3\\frac{1}{5} - \\left[ {2\\frac{1}{2} - \\left\\{ {\\frac{5}{6} - \\left( {\\frac{2}{5} + \\frac{3}{{10}} - \\frac{4}{{15}}} \\right)} \\right\\}} \\right]\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\frac{{16}}{5} - \\left[ {\\frac{5}{2} - \\left\\{ {\\frac{5}{6} - \\left( {\\frac{{12 + 9 - 8}}{{30}}} \\right)} \\right\\}} \\right]\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\frac{{16}}{5} - \\left[ {\\frac{5}{2} - \\left\\{ {\\frac{5}{6} - \\frac{{13}}{{30}}} \\right\\}} \\right]\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\frac{{16}}{5} - \\left[ {\\frac{5}{2} - \\left\\{ {\\frac{{25 - 13}}{{30}}} \\right\\}} \\right]\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\frac{{16}}{5} - \\left[ {\\frac{5}{2} - \\frac{{12}}{{30}}} \\right]\\)</span></p>\n\n<p>[16/5] - [(75 - 12)/30]</p>\n\n<p>[16/5] - [63/30]</p>\n\n<p>16/5 - 21/10</p>\n\n<p>(32 - 21)/10</p>\n11/10",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q49",
+      "number": 49,
+      "question": "The value of (12 + 18) &divide; 2 &minus; 11 + 16 &times; 4 &minus; 28 + 13(&minus;18 + 15) is:",
+      "questionHtml": "The value of (12 + 18) &divide; 2 &minus; 11 + 16 &times; 4 &minus; 28 + 13(&minus;18 + 15) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "B",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>The value of (12 + 18) &divide; 2 - 11 + 16 &times; 4 - 28 + 13(-18 + 15) is:</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Follow the order of operations (PEMDAS/BODMAS): Parentheses, Exponents, Multiplication and Division (left to right), Addition and Subtraction (left to right).</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>(12 + 18) &divide; 2 - 11 + 16 &times; 4 - 28 + 13(-18 + 15)</p>\n\n<p>&rArr; (30) &divide; 2 - 11 + 16 &times; 4 - 28 + 13(-3)</p>\n\n<p>&rArr; 15 - 11 + 16 &times; 4 - 28 + 13(-3)</p>\n\n<p>&rArr; 15 - 11 + 64 - 28 + 13(-3)</p>\n\n<p>&rArr; 15 - 11 + 64 - 28 - 39</p>\n\n<p>&rArr; 4 + 64 - 28 - 39</p>\n\n<p>&rArr; 68 - 28 - 39</p>\n\n<p>&rArr; 40 - 39</p>\n\n<p>&rArr; 1</p>\n\n<p><strong>&there4; The correct answer is option (3).</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "34fc5b320267-q50",
+      "number": 50,
+      "question": "The value of (17 + 15) &divide; 2 - 11 + 16 &times; 4 - 28 + 13 (-16 + 13) is:",
+      "questionHtml": "The value of (17 + 15) &divide; 2 - 11 + 16 &times; 4 - 28 + 13 (-16 + 13) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "B",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>(17 + 15) ÷ 2 - 11 + 16 × 4 - 28 + 13 (-16 + 13)</p>\n\n<p>32 ÷ 2 - 11 + 16 × 4 - 28 + 13 (-3) ⇒ 16 - 11 + 64 - 28 - 39</p>\n\n<p>5 + 64 - 28 - 39<span style=\"color: rgb(33, 37, 41);\"> ⇒ </span>69 - 28 - 39<span style=\"color: rgb(33, 37, 41);\"> ⇒ </span>41 - 39 = 2</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "id": "b365393bda79",
+  "provider": "Testbook",
+  "sourceFile": "CGL Tier II CT 05_ Rational or Irrational Numbers.html",
+  "sourcePath": "Testbook/files/CGL Tier II CT 05_ Rational or Irrational Numbers.html",
+  "title": "CGL Tier II CT 05: Rational or Irrational Numbers",
+  "exam": null,
+  "year": null,
+  "tier": "Tier I",
+  "shift": null,
+  "duration": 20,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "b365393bda79-q1",
+      "number": 1,
+      "question": "The value of \\(\\frac{1}{3-\\sqrt{8}}-\\frac{1}{\\sqrt{8}-\\sqrt{7}}+\\frac{1}{\\sqrt{7}-\\sqrt{6}}-\\frac{1}{\\sqrt{6}-\\sqrt{5}}+\\frac{1}{\\sqrt{5}-2}\\) is equal to:",
+      "questionHtml": "The value of&nbsp;<span class=\"math-tex\">\\(\\frac{1}{3-\\sqrt{8}}-\\frac{1}{\\sqrt{8}-\\sqrt{7}}+\\frac{1}{\\sqrt{7}-\\sqrt{6}}-\\frac{1}{\\sqrt{6}-\\sqrt{5}}+\\frac{1}{\\sqrt{5}-2}\\)</span>&nbsp;is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "D",
+          "text": "5",
+          "html": "5"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span class=\"math-tex\">\\(\\frac{1}{3 - \\sqrt{8}}=\\frac{1}{3 - \\sqrt{8}}\\times \\frac{3 + \\sqrt{8}}{3 + \\sqrt{8}}=3 + \\sqrt8\\)</span></p>\n\n<p>Similarly, we can get</p>\n\n<p><span class=\"math-tex\">\\(\\frac{1}{\\sqrt{8}-\\sqrt{7}}=\\sqrt{8}+\\sqrt{7}\\)</span> ⇒ <span class=\"math-tex\">\\(\\frac{1}{\\sqrt{7}-\\sqrt{6}}=\\sqrt{7}+\\sqrt{6}\\)</span> <span style=\"\">⇒ <span class=\"math-tex\">\\(\\frac{1}{\\sqrt{6}-\\sqrt{5}}=\\sqrt{6}+\\sqrt{5}\\)</span> ⇒ <span class=\"math-tex\">\\(\\frac{1}{\\sqrt{5}-2}=\\sqrt{5}+2\\)</span></span></p>\n\n<p>On putting these values in the question,</p>\n\n<p><span style=\"\">3 + √8 - √8 - √7 + √7 + √6 - √6 - √5 + √5 + 2 = 5</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b365393bda79-q2",
+      "number": 2,
+      "question": "The decimal expansion of the rational number \\(\\frac{{2457}}{{8750}}\\) will terminate after",
+      "questionHtml": "<span style=\"\">The decimal expansion of the rational number&nbsp;<span class=\"math-tex\">\\(\\frac{{2457}}{{8750}}\\)</span> will terminate after</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "One decimal place",
+          "html": "<span style=\"\">One decimal place</span>"
+        },
+        {
+          "id": "B",
+          "text": "Two decimal places",
+          "html": "<span style=\"\">Two decimal places</span>"
+        },
+        {
+          "id": "C",
+          "text": "Four decimal places",
+          "html": "<span style=\"\">Four decimal places</span>"
+        },
+        {
+          "id": "D",
+          "text": "Six decimal places",
+          "html": "<span style=\"\">Six decimal places</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">The decimal expansion of the rational number&nbsp;</span><span class=\"math-tex\" style=\"outline: yellow solid 2px; cursor: default; ;;\">\\(\\frac{{2457}}{{8750}}\\)</span><span style=\"\">&nbsp;</span></p>\n\n<p><span style=\"\"><strong>Concept Used:</strong></span></p>\n\n<p><span style=\"\">Convert the given fraction into decimal.</span></p>\n\n<p><span style=\"\"><strong>Calculation:</strong></span></p>\n\n<p><span style=\"\">The rational number&nbsp;</span><span class=\"math-tex\" style=\"outline: yellow solid 2px; cursor: default; ;;\">\\(\\frac{{2457}}{{8750}}\\)</span><span style=\"\">&nbsp;</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{{2457}}{{8750}}\\)</span></span>&nbsp;=&nbsp;<span class=\"math-tex\">\\(\\frac{{2457}}{{10 × 5^3 × 7}}\\)</span>&nbsp;=&nbsp;<span class=\"math-tex\">\\(\\frac{{351 × 2^3}}{{10 × 5^3 × 2^3 }}\\)</span>&nbsp;=&nbsp;<span class=\"math-tex\">\\(\\frac{{​​2808}}{{10000 }}\\)</span>&nbsp;= 0.2808</p>\n\n<p><strong><span style=\"\">&there4; The decimal expansion of the rational number&nbsp;</span><span class=\"math-tex\">\\(\\frac{{2457}}{{8750}}\\)</span><span style=\"\">&nbsp;will terminate after four decimal places</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b365393bda79-q3",
+      "number": 3,
+      "question": "The value of \\(7.1\\overline{5}\\) is:",
+      "questionHtml": "The value of&nbsp;<span class=\"math-tex\">\\(7.1\\overline{5}\\)</span>&nbsp;is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(6\\frac{7}{45}\\)",
+          "html": "<span class=\"math-tex\">\\(6\\frac{7}{45}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(9\\frac{7}{45}\\)",
+          "html": "<span class=\"math-tex\">\\(9\\frac{7}{45}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(7\\frac{7}{45}\\)",
+          "html": "<span class=\"math-tex\">\\(7\\frac{7}{45}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(8\\frac{9}{45}\\)",
+          "html": "<span class=\"math-tex\">\\(8\\frac{9}{45}\\)</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Given:</p>\n\n<p>A =&nbsp;<span style=\"\">&nbsp;</span><span class=\"math-tex\">\\(7.1\\overline{5}\\)</span><span style=\"\">&nbsp;</span></p>\n\n<p><span style=\"\">Calculation:</span></p>\n\n<p><span style=\"\">A = 7.15555555&nbsp; .........(1)</span></p>\n\n<p>Multiply&nbsp;equation&nbsp;1 with 10</p>\n\n<p>10 A = 71.55555&nbsp; ........(2)</p>\n\n<p><span style=\"\">Multiply&nbsp;equation</span><span style=\"\">&nbsp;1 with 100</span></p>\n\n<p><span style=\"\">100 A = 715.55555&nbsp; ........(3)</span></p>\n\n<p>Subtracting equation 2&nbsp;from equation 3</p>\n\n<p>90 A = 715 - 71</p>\n\n<p><strong>A = 644/90</strong></p>\n\n<p><strong>&there4; The correct answer is&nbsp;<span class=\"math-tex\">\\(\\)</span><span class=\"math-tex\" style=\"box-sizing: border-box; outline: rgb(170, 204, 238) solid 2px; ;;;\">\\(7\\frac{7}{45}\\)</span>.</strong></p>\n<img src=\"data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==\" style=\"background-color: rgb(255, 255, 255); width: 22px; height: 22px;\" />\n<p>&nbsp;</p>\n",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw=="
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b365393bda79-q4",
+      "number": 4,
+      "question": "If a 20 m long rope is cut into pieces of 1.6 m each, what percentage of the rope will be left over?",
+      "questionHtml": "If a 20 m long rope is cut into pieces of 1.6 m each, what percentage of the rope will be left over?<span style=\"display: none;\">&nbsp;</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "B",
+          "text": "8%",
+          "html": "8%"
+        },
+        {
+          "id": "C",
+          "text": "4%",
+          "html": "4%"
+        },
+        {
+          "id": "D",
+          "text": "10%",
+          "html": "10%"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Total pieces = 20 ÷ 1.6 = 12.5 pieces.</p>\n<p>Full pieces cut = 12. Remainder = 0.5 pieces.</p>\n<p>Length of leftover = 0.5 × 1.6 = 0.8 m.</p>\n<p>Leftover percentage = (0.8 ÷ 20) × 100 = 4%.</p>\n<p>In decimal form, 4% is expressed as 0.04.</p>\n<p><strong>∴ The correct option is C.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p>Given: Total length = 20 m, Piece length = 1.6 m.</p>\n<p>Formula used: Remainder = Total length − (Number of whole pieces × Length of one piece)</p>\n<svg width=\"420\" height=\"200\" viewBox=\"0 0 420 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <rect x=\"40\" y=\"80\" width=\"340\" height=\"30\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"2\"/>\n  <rect x=\"366\" y=\"80\" width=\"14\" height=\"30\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"1.5\"/>\n  <line x1=\"67\" y1=\"80\" x2=\"67\" y2=\"110\" stroke=\"#cc0000\" stroke-dasharray=\"5,3\"/>\n  <line x1=\"94\" y1=\"80\" x2=\"94\" y2=\"110\" stroke=\"#cc0000\" stroke-dasharray=\"5,3\"/>\n  <line x1=\"366\" y1=\"80\" x2=\"366\" y2=\"110\" stroke=\"#cc0000\" stroke-dasharray=\"5,3\"/>\n  <text x=\"40\" y=\"70\" fill=\"#2255cc\" font-size=\"12\">0 m</text>\n  <text x=\"360\" y=\"70\" fill=\"#2255cc\" font-size=\"12\">19.2 m</text>\n  <text x=\"380\" y=\"70\" fill=\"#2255cc\" font-size=\"12\">20 m</text>\n  <text x=\"140\" y=\"100\" fill=\"#222222\" font-size=\"12\">12 Full Pieces (1.6 m each)</text>\n  <text x=\"320\" y=\"140\" fill=\"#cc5500\" font-weight=\"bold\" font-size=\"12\">Leftover = 0.8 m</text>\n  <text x=\"160\" y=\"175\" fill=\"#2255cc\" font-weight=\"bold\" font-size=\"14\">Total Rope Length = 20 m</text>\n</svg>\n<p>⇒ Number of complete pieces = 20 ÷ 1.6 = 12.5</p>\n<p>⇒ Total pieces = 12 (since only whole pieces are cut)</p>\n<p>⇒ Length of 12 pieces = 12 × 1.6 = 19.2 m</p>\n<p>⇒ Length of leftover rope = 20 − 19.2 = 0.8 m</p>\n<p>⇒ Percentage of leftover = (Leftover ÷ Total Length) × 100</p>\n<p>⇒ Percentage = (0.8 ÷ 20) × 100 = 4%</p>\n<p>⇒ Expressed in options as a decimal: 4/100 = 0.04</p>\n<p><strong>∴ The correct option is C.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Percentage to Decimal</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">To convert a percentage into a decimal, divide the number by 100. Example: x% = x/100.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Division and Remainder</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Dividend = (Divisor × Quotient) + Remainder. Here, 20 = (1.6 × 12) + 0.8.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Percentage Change</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Percentage change = (Change ÷ Original Value) × 100. This is used to find leftovers or profit/loss ratios.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b365393bda79-q5",
+      "number": 5,
+      "question": "Express \\(4.\\overline{142}\\) in the form \\(\\frac{p}{q}\\) , where p and q are integers and q &ne; 0.",
+      "questionHtml": "Express&nbsp;<span class=\"math-tex\">\\(4.\\overline{142}\\)</span> in the form <span class=\"math-tex\">\\(\\frac{p}{q}\\)</span>, where p and q are integers and q&nbsp;&ne; 0.",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{4136}{999}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{4136}{999}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{4140}{999}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{4140}{999}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{4142}{999}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{4142}{999}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{4138}{999}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{4138}{999}\\)</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Let, x = <span class=\"math-tex\">\\(4.142142\\)</span>.................. (1)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">multiply eq (1) by 1000, and we get   ( because there are three digits that have bar means are repeating)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">1000x = 4142.142142....... (2)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Now subtract eq (1) by eq (2)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">1000x - x = 4142.142142 - 4.142142, 999x = 4138, x = <span class=\"math-tex\">\\(\\frac{4138}{999}\\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b365393bda79-q6",
+      "number": 6,
+      "question": "0.12112111211112 ______ is a number, which is?",
+      "questionHtml": "0.12112111211112 ______ is a number, which is?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rational",
+          "html": "Rational&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "Irrational",
+          "html": "Irrational&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "Non-real",
+          "html": "Non-real&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "None of these",
+          "html": "None of these&nbsp;"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Explanation</strong> -</p>\n\n<p>The pattern seems to repeat a sequence of numbers: 121, 1211, 12111, and so on, with an additional 2 at the end.</p>\n\n<p>This type of sequence, where each segment extends by adding one more digit to the end, repeating the previous pattern, suggests an irrational number.</p>\n\n<p>Irrational numbers are decimal numbers that neither terminate nor repeat in a specific pattern.</p>\n\n<p>In this case, while there&#39;s a repeating structure within the sequence, the addition of a new digit at each step makes it non-repeating and non-terminating, fitting the definition of an irrational number.</p>\n\n<p><strong>Hence Option (2) is correct.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b365393bda79-q7",
+      "number": 7,
+      "question": "Let x = \\(\\frac{6}{5}\\) , then arrange the numbers 6x, \\(\\frac{37}{6}\\) , 6 - x and 5 + x in ascending order.",
+      "questionHtml": "Let x =&nbsp;<span class=\"math-tex\">\\(\\frac{6}{5}\\)</span>, then arrange the numbers 6x,&nbsp;<span class=\"math-tex\">\\(\\frac{37}{6}\\)</span>&nbsp;, 6 - x and 5 + x in ascending order.",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 - x, \\(\\frac{37}{6}\\) , 5 + x, 6x",
+          "html": "6 - x,&nbsp;<span class=\"math-tex\">\\(\\frac{37}{6}\\)</span>, 5 + x, 6x"
+        },
+        {
+          "id": "B",
+          "text": "6 - x, 5 + x, 6x, \\(\\frac{37}{6}\\)",
+          "html": "6 - x, 5 + x, 6x,&nbsp;<span class=\"math-tex\">\\(\\frac{37}{6}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "6 - x, 5 + x, \\(\\frac{37}{6}\\) , 6x",
+          "html": "6 - x, 5 + x,&nbsp;<span class=\"math-tex\">\\(\\frac{37}{6}\\)</span>, 6x"
+        },
+        {
+          "id": "D",
+          "text": "6 - x, \\(\\frac{37}{6}\\) , 6x, 5 + x",
+          "html": "6 - x,&nbsp;<span class=\"math-tex\">\\(\\frac{37}{6}\\)</span>, 6x, 5 + x"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>x = 6/5</p>\n\n<p>Numbers: 6x, 37/6, 6 - x, 5 + x</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>6x = 6 &times; (6/5) = 36/5 = 7.2</p>\n\n<p>6 - x = 6 - (6/5) = (30/5) - (6/5) = 24/5 = 4.8</p>\n\n<p>5 + x = 5 + (6/5) = (25/5) + (6/5) = 31/5 = 6.2</p>\n\n<p>37/6 = 6.1666...</p>\n\n<p>The numbers are in ascending order:</p>\n\n<p>4.8 &lt; 6.1666... &lt; 6.2 &lt; 7.2</p>\n\n<p>24/5 &lt; 37/6 &lt; 31/5 &lt; 36/5</p>\n\n<p>6 - x &lt; 37/6 &lt; 5 + x &lt; 6x</p>\n\n<p><strong>&there4; The ascending order is: 6 - x, 37/6, 5 + x, 6x.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b365393bda79-q8",
+      "number": 8,
+      "question": "\\({\\rm{Simplify}}\\,\\frac{{\\sqrt 5 \\, - \\,\\sqrt 3 }}{{\\sqrt 5 \\, + \\,\\sqrt 3 }}\\, - \\,\\frac{{\\sqrt 5 \\, + \\,\\sqrt 3 }}{{\\sqrt 5 \\, - \\,\\sqrt 3 }}:\\)",
+      "questionHtml": "<span class=\"math-tex\">\\({\\rm{Simplify}}\\,\\frac{{\\sqrt 5 \\, - \\,\\sqrt 3 }}{{\\sqrt 5 \\, + \\,\\sqrt 3 }}\\, - \\,\\frac{{\\sqrt 5 \\, + \\,\\sqrt 3 }}{{\\sqrt 5 \\, - \\,\\sqrt 3 }}:\\)</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(- 2\\sqrt {15} \\)",
+          "html": "<span class=\"math-tex\">\\(- 2\\sqrt {15} \\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\( - \\frac{{17}}{4}\\)",
+          "html": "<span class=\"math-tex\">\\( - \\frac{{17}}{4}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "-1",
+          "html": "-1"
+        },
+        {
+          "id": "D",
+          "text": "\\(2\\sqrt {15} \\)",
+          "html": "<span class=\"math-tex\">\\(2\\sqrt {15} \\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"> <span class=\"math-tex\">\\(\\frac{{\\sqrt 5 \\, - \\,\\sqrt 3 }}{{\\sqrt 5 \\, + \\,\\sqrt 3 }}\\, - \\,\\frac{{\\sqrt 5 \\, + \\,\\sqrt 3 }}{{\\sqrt 5 \\, - \\,\\sqrt 3 }}:\\)</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ <span class=\"math-tex\">\\((\\sqrt5-\\sqrt3)^2 -(\\sqrt5+\\sqrt3)^2\\over(\\sqrt5)^2 - (\\sqrt3)^2\\)</span> <span style=\"color: rgb(33, 37, 41);\">⇒ </span><span class=\"math-tex\">\\(5 + 3 -2\\sqrt15-5-3-2\\sqrt15\\over5-3\\)</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> </span><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span class=\"math-tex\">\\(-4\\sqrt15\\over2\\)</span><span style=\"color: rgb(33, 37, 41);\"> =</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> <span class=\"math-tex\">\\(- 2\\sqrt {15} \\)</span></span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b365393bda79-q9",
+      "number": 9,
+      "question": "Express \\(\\frac{4a^2}{\\sqrt{4a^2+b^2}+b}\\) with rational denominator.",
+      "questionHtml": "Express&nbsp;<span class=\"math-tex\">\\(\\frac{4a^2}{\\sqrt{4a^2+b^2}+b}\\)</span>&nbsp;with rational denominator.&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{\\sqrt{4a^2+b^2}}{b^2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{\\sqrt{4a^2+b^2}}{b^2}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\sqrt{4a^2+b^2}-b\\)",
+          "html": "<span class=\"math-tex\">\\(\\sqrt{4a^2+b^2}-b\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{2a^2+b}{b}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{2a^2+b}{b}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "4a 2 (2a - b)",
+          "html": "4a<sup>2</sup>(2a - b)"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given :</strong></p>\n\n<p>Rationalise the expression&nbsp;<span class=\"math-tex\">\\(\\dfrac{4a^2}{\\sqrt{4a^2+b^2}+b}\\)</span></p>\n\n<p><strong>Calculation :</strong></p>\n\n<p><span class=\"math-tex\">\\(\\dfrac{4a^2}{\\sqrt{4a^2+b^2}+b}\\)</span></p>\n\n<p>&rArr;&nbsp;&nbsp;<span class=\"math-tex\">\\(\\dfrac{4a^2\\times (\\sqrt{4a^2+b^2}-b)}{(\\sqrt{4a^2+b^2}+b)\\times (\\sqrt{4a^2+b^2}-b }\\)</span></p>\n\n<p>&rArr;&nbsp;&nbsp;<span class=\"math-tex\">\\(\\dfrac{4a^2\\times (\\sqrt{4a^2+b^2}-b)}{4a^2+b^2-b^2 }\\)</span></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\dfrac{4a^2\\times (\\sqrt{4a^2+b^2}-b)}{4a^2}\\)</span></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\sqrt{4a^2+b^2}-b\\)</span></p>\n\n<p><strong>&there4; The answer is&nbsp;<span class=\"math-tex\">\\(\\sqrt{4a^2+b^2}-b\\)</span>&nbsp;.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b365393bda79-q10",
+      "number": 10,
+      "question": "Which is the greatest in \\(15\\frac{1}{3}\\) %, \\(\\frac{4}{5}\\) and 0.25",
+      "questionHtml": "Which is the greatest in&nbsp;<span class=\"math-tex\">\\(15\\frac{1}{3}\\)</span>&nbsp;%,&nbsp;<span class=\"math-tex\">\\(\\frac{4}{5}\\)</span>&nbsp;and 0.25",
+      "options": [
+        {
+          "id": "A",
+          "text": "4/5",
+          "html": "4/5"
+        },
+        {
+          "id": "B",
+          "text": "1/4",
+          "html": "1/4"
+        },
+        {
+          "id": "C",
+          "text": "1/2",
+          "html": "1/2"
+        },
+        {
+          "id": "D",
+          "text": "3/4",
+          "html": "3/4"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">&nbsp;</span><span class=\"math-tex\">\\(15\\frac{1}{3}\\)</span><span style=\"\">&nbsp;%,&nbsp;</span><span class=\"math-tex\">\\(\\frac{4}{5}\\)</span><span style=\"\">&nbsp;and 0.25</span></p>\n\n<p><strong><span style=\"\">Calculation:</span></strong></p>\n\n<p><span style=\"font-size:16px;\"><span class=\"math-tex\">\\(15\\frac{1}{3}\\%\\)</span></span>&nbsp;=&nbsp;<span style=\"font-size:16px;\"><span class=\"math-tex\">\\(\\frac{46}{3}\\%\\)</span></span></p>\n\n<p>=&nbsp;<span style=\"font-size:16px;\"><span class=\"math-tex\">\\(\\frac{46}{300}\\)</span></span></p>\n\n<p>= 0.1534(approx.)</p>\n\n<p><span style=\"font-size:16px;\"><span class=\"math-tex\">\\(\\frac{4}{5}\\)</span></span>&nbsp;= 0.8</p>\n\n<p>0.8 &gt;&nbsp;<span style=\"\">0.25 &gt;&nbsp;0.1534</span></p>\n\n<p><span style=\"\">4/5 is the greatest.</span></p>\n\n<p><strong><span style=\"\">Answer is 4/5.</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

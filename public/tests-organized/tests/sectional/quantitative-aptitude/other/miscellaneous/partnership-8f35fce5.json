@@ -1,0 +1,897 @@
+{
+  "id": "8f35fce588f2",
+  "provider": "Testbook",
+  "sourceFile": "Partnership.html",
+  "sourcePath": "Testbook/files/Partnership.html",
+  "title": "Partnership",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 0,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "8f35fce588f2-q1",
+      "number": 1,
+      "question": "A got double the profit than B in a business. A and B invested Rs. 3200 and 2800 respectively. Find the ratio of the number of years A and B invested their amount?",
+      "questionHtml": "A got double the profit than B in a business. A and B invested Rs. 3200 and 2800 respectively. Find the ratio of the number of years A and B invested their amount?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 : 7",
+          "html": "5 : 7"
+        },
+        {
+          "id": "B",
+          "text": "7 : 5",
+          "html": "7 : 5"
+        },
+        {
+          "id": "C",
+          "text": "5 : 4",
+          "html": "5 : 4"
+        },
+        {
+          "id": "D",
+          "text": "7 : 4",
+          "html": "7 : 4"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<svg width=\"480\" height=\"300\" viewBox=\"0 0 480 300\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:1px;padding:0;background:#ffffff;border-radius:8px;border:1px solid #cccccc;box-sizing:border-box;\">\n  <defs>\n    <marker id=\"arr\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#2255cc\"/></marker>\n  </defs>\n\n  <!-- ZONE 1: Partnership Mechanism (Capital × Time = Profit) -->\n  <!-- Axis and Icons -->\n  <line x1=\"40\" y1=\"20\" x2=\"40\" y2=\"150\" stroke=\"#555555\" stroke-width=\"1\" stroke-dasharray=\"4,2\" />\n  <line x1=\"40\" y1=\"150\" x2=\"380\" y2=\"150\" stroke=\"#555555\" stroke-width=\"1\" stroke-dasharray=\"4,2\" />\n  \n  <!-- Capital Symbol (Coin) -->\n  <circle cx=\"25\" cy=\"30\" r=\"10\" fill=\"#f0f0f0\" stroke=\"#555555\" />\n  <text x=\"20\" y=\"35\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">₹</text>\n  \n  <!-- Time Symbol (Clock) -->\n  <circle cx=\"395\" cy=\"150\" r=\"10\" fill=\"#f0f0f0\" stroke=\"#555555\" />\n  <circle cx=\"395\" cy=\"150\" r=\"8\" fill=\"none\" stroke=\"#555555\" />\n  <path d=\"M395 150 L395 145 M395 150 L398 150\" stroke=\"#555555\" fill=\"none\" />\n\n  <!-- Partner A's Bar (Area = Profit = 2 units) -->\n  <rect x=\"60\" y=\"40\" width=\"140\" height=\"80\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"2\" />\n  <text x=\"85\" y=\"85\" font-family=\"Arial\" font-size=\"14\" fill=\"#2255cc\" font-weight=\"bold\">Profit = 2</text>\n  \n  <!-- Partner B's Bar (Area = Profit = 1 unit) -->\n  <rect x=\"230\" y=\"50\" width=\"80\" height=\"70\" fill=\"#ede7f6\" stroke=\"#6a1b9a\" stroke-width=\"2\" />\n  <text x=\"235\" y=\"90\" font-family=\"Arial\" font-size=\"14\" fill=\"#6a1b9a\" font-weight=\"bold\">Profit = 1</text>\n\n  <!-- Dimension Labels for A -->\n  <path d=\"M 55 40 L 50 40 L 50 120 L 55 120\" stroke=\"#2255cc\" fill=\"none\" />\n  <text x=\"1\" y=\"85\" font-family=\"Arial\" font-size=\"14\" fill=\"#2255cc\">3200</text>\n  <path d=\"M 60 125 L 60 130 L 200 130 L 200 125\" stroke=\"#2255cc\" fill=\"none\" />\n  <text x=\"120\" y=\"145\" font-family=\"Arial\" font-size=\"14\" fill=\"#2255cc\">T<tspan baseline-shift=\"sub\" font-size=\"10\">A</tspan></text>\n\n  <!-- Dimension Labels for B -->\n  <path d=\"M 225 50 L 220 50 L 220 120 L 225 120\" stroke=\"#6a1b9a\" fill=\"none\" />\n  <text x=\"180\" y=\"65\" font-family=\"Arial\" font-size=\"14\" fill=\"#6a1b9a\">2800</text>\n  <path d=\"M 230 125 L 230 130 L 310 130 L 310 125\" stroke=\"#6a1b9a\" fill=\"none\" />\n  <text x=\"260\" y=\"145\" font-family=\"Arial\" font-size=\"14\" fill=\"#6a1b9a\">T<tspan baseline-shift=\"sub\" font-size=\"10\">B</tspan></text>\n\n  <!-- ZONE 2: Solution lines -->\n  <text x=\"30\" y=\"190\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ Profit ∝ Capital × Time → Time ∝ Profit ÷ Capital</text>\n  <text x=\"30\" y=\"220\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ T<tspan baseline-shift=\"sub\" font-size=\"10\">A</tspan> : T<tspan baseline-shift=\"sub\" font-size=\"10\">B</tspan> = (2 / 3200) : (1 / 2800) = (2 / 8) : (1 / 7)</text>\n  <text x=\"30\" y=\"250\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ T<tspan baseline-shift=\"sub\" font-size=\"10\">A</tspan> : T<tspan baseline-shift=\"sub\" font-size=\"10\">B</tspan> = 1/4 : 1/7 = 7 : 4</text>\n\n  <text x=\"30\" y=\"285\" font-family=\"Arial\" font-size=\"14\" font-weight=\"700\" fill=\"#000000\">∴ Answer = 7 : 4</text>\n</svg>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q2",
+      "number": 2,
+      "question": "P and R started a business together by investing Rs. 20000 and Rs. 15000 respectively. Total profit is Rs. 5600 after 1 year, but P donate 10% of his profit and R donate 15% of his profit. Find the total donated amount?",
+      "questionHtml": "P and R started a business together by investing Rs. 20000 and Rs. 15000 respectively. Total profit is Rs. 5600 after 1 year, but P donate 10% of his profit and R donate 15% of his profit. Find the total donated amount?",
+      "options": [
+        {
+          "id": "A",
+          "text": "620",
+          "html": "620"
+        },
+        {
+          "id": "B",
+          "text": "680",
+          "html": "680"
+        },
+        {
+          "id": "C",
+          "text": "660",
+          "html": "660"
+        },
+        {
+          "id": "D",
+          "text": "640",
+          "html": "640"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Ratio of <strong>investment</strong> of P and R = 20,000 : 15,000 = 4 : 3</p>\n<p>Total profit units = 4 + 3 = 7 units → ₹5,600, so 1 unit = ₹800</p>\n<p><strong>P's share</strong> = 4 units = ₹3,200 | <strong>R's share</strong> = 3 units = ₹2,400</p>\n<p>Total <strong>donated amount</strong> = (10% of 3,200) + (15% of 2,400) = 320 + 360 = ₹680</p>\n<p><strong>∴ The correct answer is ₹680.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Investment of <strong>P</strong> = ₹20,000</p>\n<p>Investment of <strong>R</strong> = ₹15,000</p>\n<p><strong>Total Profit</strong> = ₹5,600</p>\n<p><strong>Donation</strong> by P = 10% of his profit</p>\n<p><strong>Donation</strong> by R = 15% of his profit</p>\n<p><strong>Formula Used:</strong></p>\n<p>Profit Ratio = (Capital<sub>P</sub> × Time<sub>P</sub>) : (Capital<sub>R</sub> × Time<sub>R</sub>)</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_67364283.png/1784053269.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Ratio of profits of <strong>P</strong> and <strong>R</strong> = 20,000 : 15,000 = 4 : 3</p>\n<p>⇒ <strong>P's share</strong> in profit = (4 / 7) × 5,600 = ₹3,200</p>\n<p>⇒ <strong>R's share</strong> in profit = (3 / 7) × 5,600 = ₹2,400</p>\n<p>⇒ <strong>Amount donated</strong> by P = 10% of 3,200 = (10 / 100) × 3,200 = ₹320</p>\n<p>⇒ <strong>Amount donated</strong> by R = 15% of 2,400 = (15 / 100) × 2,400 = ₹360</p>\n<p>⇒ <strong>Total donated amount</strong> = 320 + 360 = ₹680</p>\n<p><strong>∴ The correct answer is ₹680.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Profit Sharing Rule</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The <strong>profit</strong> of a partnership business is always shared in the ratio of the product of <strong>Capital</strong> and <strong>Time Period</strong> of investment.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Active vs Sleeping Partner</p>\n<p style='margin:0 0 8px 0;color:#444444;'>An <strong>active partner</strong> manages the business and may take a salary or a fixed <strong>percentage</strong> of profit before the remaining profit is distributed among partners.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Effective Capital</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When capital changes during the year, <strong>effective capital</strong> is calculated as Σ(Amount × Duration) to determine the final profit ratio.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_67364283.png/1784053269.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q3",
+      "number": 3,
+      "question": "Three partners P, Q and R start a business. Twice P's capital is equal to thrice Q's capital and Q's capital is equal to four times R's capital. Out of total profit of ₹ 27,500 at the end of the year, R's share is:",
+      "questionHtml": "Three partners P, Q and R start a business. Twice P&#39;s capital is equal to thrice Q&#39;s capital and Q&#39;s capital is equal to four times R&#39;s capital. Out of total profit of ₹ 27,500 at the end of the year, R&#39;s share is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹ 5,000",
+          "html": "₹ 5,000"
+        },
+        {
+          "id": "B",
+          "text": "₹ 7,000",
+          "html": "₹ 7,000&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "₹ 15,000",
+          "html": "₹ 15,000"
+        },
+        {
+          "id": "D",
+          "text": "₹ 2,500",
+          "html": "₹ 2,500"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Given, 2P = 3Q ⇒ P : Q = 3 : 2 = 6 : 4</p>\n<p>Given, Q = 4R ⇒ Q : R = 4 : 1</p>\n<p>Combined profit sharing ratio P : Q : R = 6 : 4 : 1</p>\n<p>Total profit = 11 parts = ₹27,500</p>\n<p>R's share = 1 part = 27,500 ÷ 11 = ₹2,500</p>\n<p><strong>∴ The correct answer is ₹2,500.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>⇒ 2 × P's capital = 3 × Q's capital</p>\n<p>⇒ Q's capital = 4 × R's capital</p>\n<p>⇒ Total profit = ₹27,500</p>\n<p><strong>Formula Used:</strong></p>\n<p>⇒ Profit Ratio = Capital Ratio (since the time period is identical for all partners)</p>\n\n<svg width='420' height='200' viewBox='0 0 420 200' xmlns='http://www.w3.org/2000/svg' style='display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;'>\n  <text x='210' y='25' fill='#222222' font-family='sans-serif' font-size='14' font-weight='bold' text-anchor='middle'>Profit Sharing Ratio (P : Q : R = 6 : 4 : 1)</text>\n  \n  <text x='20' y='65' fill='#222222' font-family='sans-serif' font-size='13'>P (6 parts)</text>\n  <rect x='100' y='50' width='240' height='20' fill='#ddeeff' stroke='#2255cc' stroke-width='1.5' />\n  \n  <text x='20' y='105' fill='#222222' font-family='sans-serif' font-size='13'>Q (4 parts)</text>\n  <rect x='100' y='90' width='160' height='20' fill='#fff0cc' stroke='#cc5500' stroke-width='1.5' />\n  \n  <text x='20' y='145' fill='#222222' font-family='sans-serif' font-size='13'>R (1 part)</text>\n  <rect x='100' y='130' width='40' height='20' fill='#ccffcc' stroke='#007700' stroke-width='1.5' />\n\n  <text x='210' y='180' fill='#2255cc' font-family='sans-serif' font-size='13' font-weight='bold' text-anchor='middle'>Total Profit = 11 parts = ₹27,500</text>\n</svg>\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ 2 × P = 3 × Q ⇒ P / Q = 3 / 2 ⇒ P : Q = 3 : 2</p>\n<p>⇒ Q = 4 × R ⇒ Q / R = 4 / 1 ⇒ Q : R = 4 : 1</p>\n<p>⇒ To balance the ratios, we make the value of Q identical in both cases by multiplying P : Q by 2</p>\n<p>⇒ P : Q = (3 × 2) : (2 × 2) = 6 : 4</p>\n<p>⇒ Now, combined ratio P : Q : R = 6 : 4 : 1</p>\n<p>⇒ Total ratio parts = 6 + 4 + 1 = 11 parts</p>\n<p>⇒ 11 parts = ₹27,500</p>\n<p>⇒ 1 part = 27,500 ÷ 11 = ₹2,500</p>\n<p>⇒ R's share = 1 part = ₹2,500</p>\n<p><strong>∴ The correct answer is ₹2,500.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Partnership with Same Time Period</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When investments are made for the same duration, the generated profit is distributed strictly in proportion to their invested capital.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Partnership with Different Time Periods</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If partners invest their capital for different durations, the active profit-sharing ratio equates to (Capital<sub>1</sub> × Time<sub>1</sub>) : (Capital<sub>2</sub> × Time<sub>2</sub>).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Working vs Sleeping Partner</p>\n<p style='margin:0 0 8px 0;color:#444444;'>A working partner typically takes a fixed salary or a direct percentage out of the total profit for active management. The remaining residual profit is then shared among all partners according to their standard profit ratio.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q4",
+      "number": 4,
+      "question": "X and Y invest Rs. 5200 and Rs. 6200 respectively in a business. If X doubles his capital after 6 months. In what ratio should X and Y divide that year's profit ?",
+      "questionHtml": "X and Y invest Rs. 5200 and Rs. 6200 respectively in a business. If X doubles his capital after 6 months. In what ratio should X and Y divide that year&#39;s profit ?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "39 ∶ 37",
+          "html": "39 ∶ 37"
+        },
+        {
+          "id": "B",
+          "text": "39 ∶ 31",
+          "html": "39<span data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">&nbsp;∶&nbsp;</span>31"
+        },
+        {
+          "id": "C",
+          "text": "39 ∶ 32",
+          "html": "39<span data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">&nbsp;∶&nbsp;</span>32"
+        },
+        {
+          "id": "D",
+          "text": "31 ∶ 39",
+          "html": "31<span data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">&nbsp;∶&nbsp;</span>39"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p><strong>X's</strong> effective capital for 6 months = 5200 + 10400 = 15600</p>\n<p><strong>Y's</strong> effective capital for 6 months = 6200 × 2 = 12400</p>\n<p>Required Ratio = 15600 : 12400</p>\n<p>Simplifying the ratio: 156 : 124 = 39 : 31</p>\n<p><strong>∴ The correct answer is 39  ∶  31.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Initial investment of <strong>X</strong> = ₹5200</p>\n<p>Initial investment of <strong>Y</strong> = ₹6200</p>\n<p><strong>X</strong> doubles his capital after <strong>6 months</strong>.</p>\n<p>Total time period = <strong>1 year (12 months)</strong>.</p>\n<p><strong>Formula Used:</strong></p>\n<p>Profit Ratio = (Capital<sub>1</sub> × Time<sub>1</sub>) : (Capital<sub>2</sub> × Time<sub>2</sub>)</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_33e2f2d1.png/1784054928.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Total investment units of <strong>X</strong> = (5200 × 6) + (5200 × 2 × 6)</p>\n<p>⇒ Total investment units of <strong>X</strong> = 31200 + 62400 = 93600</p>\n<p>⇒ Total investment units of <strong>Y</strong> = 6200 × 12 = 74400</p>\n<p>⇒ <strong>Profit Ratio</strong> (X : Y) = 93600 : 74400</p>\n<p>⇒ <strong>Profit Ratio</strong> = 936 : 744</p>\n<p>⇒ Dividing both by 24: 936 ÷ 24 = 39 and 744 ÷ 24 = 31</p>\n<p>⇒ <strong>Profit Ratio</strong> = 39 : 31</p>\n<p><strong>∴ The correct answer is 39  ∶  31.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Partnership Profit Sharing Rule</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Profit is always distributed in the ratio of the product of <strong>Capital</strong> and <strong>Time Period</strong> (P = C × T).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Compound Partnership</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When capital changes over time, calculate equivalent monthly capital: Σ(Capital<sub>i</sub> × Months<sub>i</sub>).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Capital Ratio Formula</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If profits and time are known, the ratio of investments is C<sub>1</sub> : C<sub>2</sub> = (P<sub>1</sub>/T<sub>1</sub>) : (P<sub>2</sub>/T<sub>2</sub>).</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_33e2f2d1.png/1784054928.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q5",
+      "number": 5,
+      "question": "Three friends A, B, C invested in a business in the ratio of 3 ∶ 2 ∶ 6. After 6 months C withdraw half his capital. If the total profit earned for the year is Rs.53010 (in Rs.).Then Profit made by A is",
+      "questionHtml": "Three friends A, B, C invested in a business in the ratio of 3 ∶ 2 ∶ 6. After 6 months C withdraw half his capital. If the total profit earned for the year is Rs.53010 (in Rs.).Then Profit made by A is",
+      "options": [
+        {
+          "id": "A",
+          "text": "16740",
+          "html": "16740"
+        },
+        {
+          "id": "B",
+          "text": "19740",
+          "html": "19740"
+        },
+        {
+          "id": "C",
+          "text": "17740",
+          "html": "17740"
+        },
+        {
+          "id": "D",
+          "text": "18740",
+          "html": "18740"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<svg width=\"550\" height=\"290\" viewBox=\"0 0 550 290\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:1px;background:#ffffff;border-radius:8px;border:1px solid #cccccc;box-sizing:border-box;\">\n  <defs>\n    <marker id=\"arr\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#555555\"/></marker>\n  </defs>\n\n  <!-- ZONE 1: Partnership Visual (Area = Capital x Time) -->\n  <!-- Partner A Bar -->\n  <text x=\"20\" y=\"45\" font-family=\"Arial\" font-size=\"14\" fill=\"#2255cc\" font-weight=\"bold\">A</text>\n  <rect x=\"50\" y=\"25\" width=\"240\" height=\"30\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"130\" y=\"45\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">Cap: 3 × Time: 12 = 36</text>\n\n  <!-- Partner B Bar -->\n  <text x=\"20\" y=\"85\" font-family=\"Arial\" font-size=\"14\" fill=\"#6a1b9a\" font-weight=\"bold\">B</text>\n  <rect x=\"50\" y=\"65\" width=\"240\" height=\"20\" fill=\"#ede7f6\" stroke=\"#6a1b9a\" stroke-width=\"1.5\" />\n  <text x=\"130\" y=\"80\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">Cap: 2 × Time: 12 = 24</text>\n\n  <!-- Partner C Bar (Staged Capital) -->\n  <text x=\"20\" y=\"130\" font-family=\"Arial\" font-size=\"14\" fill=\"#008080\" font-weight=\"bold\">C</text>\n  <path d=\"M 50 160 L 50 100 L 170 100 L 170 130 L 290 130 L 290 160 Z\" fill=\"#d9f2f2\" stroke=\"#008080\" stroke-width=\"1.5\" />\n  <text x=\"65\" y=\"120\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">6 × 6</text>\n  <text x=\"200\" y=\"150\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">3 × 6</text>\n  <text x=\"300\" y=\"135\" font-family=\"Arial\" font-size=\"14\" fill=\"#008080\">= 54 units</text>\n\n  <!-- Time Axis -->\n  <line x1=\"50\" y1=\"175\" x2=\"290\" y2=\"175\" stroke=\"#555555\" stroke-width=\"1\" marker-end=\"url(#arr)\" />\n  <text x=\"130\" y=\"192\" font-family=\"Arial\" font-size=\"14\" fill=\"#555555\">Time (12 Months)</text>\n\n  <!-- ZONE 2: Calculation -->\n  <text x=\"30\" y=\"215\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ Ratio A : B : C = 36 : 24 : 54 = 6 : 4 : 9</text>\n  <text x=\"30\" y=\"240\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ Total 19 units = Rs. 53010 ⇒ 1 unit = Rs. 2790</text>\n  \n  <text x=\"30\" y=\"270\" font-family=\"Arial\" font-size=\"14\" font-weight=\"700\" fill=\"#000000\">∴ Answer = Rs. 16740</text>\n</svg>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q6",
+      "number": 6,
+      "question": "A sum of 12540 is divided among A, B and C in such a way that the ratio between the share of A and that of B and C together is 3 : 7 and that of B and that of A and C together is in the ratio 2 : 9. What is the share of C?",
+      "questionHtml": "A sum of 12540 is divided among A, B and C in such a way that the ratio between the share of A and that of B and C together is 3 : 7 and that of B and that of A and C together is in the ratio 2 : 9. What is the share of C?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2280",
+          "html": "<span style=\"\">2280</span>"
+        },
+        {
+          "id": "B",
+          "text": "3762",
+          "html": "<span style=\"\">3762</span>"
+        },
+        {
+          "id": "C",
+          "text": "6389",
+          "html": "<span style=\"\">6389</span>"
+        },
+        {
+          "id": "D",
+          "text": "6498",
+          "html": "<span style=\"\"><span style=\"display: none;\">&nbsp;</span>6498</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<svg width=\"480\" height=\"280\" viewBox=\"0 0 480 280\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:1px;background:#ffffff;border-radius:8px;border:1px solid #cccccc;box-sizing:border-box;\">\n  <defs>\n    <marker id=\"arr\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\">\n      <path d=\"M0,0 L10,5 L0,10 z\" fill=\"#2255cc\"/>\n    </marker>\n  </defs>\n\n  <!-- ZONE 1: Ratio Bar Mechanism -->\n  <!-- Ratio labels showing the balancing logic -->\n  <text x=\"40\" y=\"30\" font-family=\"Arial\" font-size=\"14\" fill=\"#555555\">A : (B+C) = 3:7 (×11) → 33:77</text>\n  <text x=\"40\" y=\"50\" font-family=\"Arial\" font-size=\"14\" fill=\"#555555\">B : (A+C) = 2:9 (×10) → 20:90</text>\n  \n  <!-- Master Balanced Bar -->\n  <rect x=\"40\" y=\"70\" width=\"120\" height=\"40\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\"/>\n  <text x=\"75\" y=\"95\" font-family=\"Arial\" font-size=\"14\" fill=\"#2255cc\">A=33</text>\n  \n  <rect x=\"160\" y=\"70\" width=\"73\" height=\"40\" fill=\"#ede7f6\" stroke=\"#6a1b9a\" stroke-width=\"1.5\"/>\n  <text x=\"182\" y=\"95\" font-family=\"Arial\" font-size=\"14\" fill=\"#6a1b9a\">B=20</text>\n  \n  <rect x=\"233\" y=\"70\" width=\"207\" height=\"40\" fill=\"#d9f2f2\" stroke=\"#008080\" stroke-width=\"1.5\"/>\n  <text x=\"315\" y=\"95\" font-family=\"Arial\" font-size=\"14\" fill=\"#008080\">C=57</text>\n\n  <!-- Total Sum Brace -->\n  <path d=\"M 40,115 Q 40,125 50,125 L 230,125 Q 240,125 240,135 Q 240,125 250,125 L 430,125 Q 440,125 440,115\" fill=\"none\" stroke=\"#555555\" stroke-width=\"1.5\"/>\n  <text x=\"195\" y=\"150\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\" font-weight=\"700\">Total = 110 units = 12540</text>\n\n  <!-- ZONE 2: Solution Lines -->\n  <text x=\"40\" y=\"190\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ Total parts balanced at 110 units</text>\n  <text x=\"40\" y=\"215\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ C’s share = (12540 ÷ 110) × 57</text>\n  <text x=\"40\" y=\"240\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ C’s share = 114 × 57</text>\n\n  <text x=\"40\" y=\"270\" font-family=\"Arial\" font-size=\"14\" font-weight=\"700\" fill=\"#000000\">∴ Answer = 6498</text>\n</svg>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q7",
+      "number": 7,
+      "question": "A starts a business with ₹75,000 and B joins the business 5 months later with an investment of ₹80,000. After 1 year, they earn a profit of ₹4,08,800. Find the share of A and B (in ₹).",
+      "questionHtml": "A starts a business with ₹75,000 and B joins the business 5 months later with an investment of ₹80,000. After 1 year, they earn a profit of ₹4,08,800. Find the share of A and B (in ₹).",
+      "options": [
+        {
+          "id": "A",
+          "text": "2,52,000 and 1,56,800",
+          "html": "2,52,000 and 1,56,800"
+        },
+        {
+          "id": "B",
+          "text": "2,50,000 and 1,58,800",
+          "html": "2,50,000 and 1,58,800"
+        },
+        {
+          "id": "C",
+          "text": "2,48,000 and 1,60,800",
+          "html": "2,48,000 and 1,60,800"
+        },
+        {
+          "id": "D",
+          "text": "2,49,500 and 1,59,300",
+          "html": "2,49,500 and 1,59,300"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">A's share = (₹75,000 x 12) / (₹1,55,000 x 12) x ₹4,08,800 = ₹2,52,000<br />\nB's share = (₹80,000 x 7) / (₹1,55,000 x 12) x ₹4,08,800 = ₹1,56,800</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q8",
+      "number": 8,
+      "question": "A, B and C subscribe to a business of Rs. 50,000. B subscribes Rs. 6,000 more than C and A subscribes Rs. 2,000 more than B. What will be A's share of profit out of a total profit of Rs. 10,000?",
+      "questionHtml": "A, B and C subscribe to a business of Rs. 50,000. B subscribes <span style=\"\">Rs.&nbsp;</span>6,000 more than C and A subscribes <span style=\"\">Rs.&nbsp;</span>2,000 more than B. What will be A&#39;s share of profit out of a total profit of <span style=\"\">Rs.&nbsp;</span>10,000?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 2,000",
+          "html": "<span style=\"\">Rs. 2,000</span>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 2,500",
+          "html": "<span style=\"\">Rs. 2,500</span>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 3,250",
+          "html": "<span style=\"\">Rs. 3,250</span>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 4,000",
+          "html": "<span style=\"\">Rs. 4,000</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<svg width=\"450\" height=\"290\" viewBox=\"0 0 450 290\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:1px;background:#ffffff;border-radius:8px;border:1px solid #cccccc;box-sizing:border-box;\">\n  <defs>\n    <marker id=\"arr\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\">\n      <path d=\"M0,0 L10,5 L0,10 z\" fill=\"#2255cc\"/>\n    </marker>\n  </defs>\n\n  <!-- ZONE 1: Partnership Vertical Bars -->\n  <!-- Person A -->\n  <rect x=\"50\" y=\"40\" width=\"60\" height=\"100\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"2\"/>\n  <text x=\"80\" y=\"30\" font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\" fill=\"#2255cc\" font-weight=\"700\">A</text>\n  <text x=\"80\" y=\"95\" font-family=\"Arial\" font-size=\"12\" text-anchor=\"middle\" fill=\"#2255cc\">₹20k</text>\n  \n  <!-- Person B -->\n  <rect x=\"140\" y=\"50\" width=\"60\" height=\"90\" fill=\"#ede7f6\" stroke=\"#6a1b9a\" stroke-width=\"2\"/>\n  <text x=\"170\" y=\"40\" font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\" fill=\"#6a1b9a\" font-weight=\"700\">B</text>\n  <text x=\"170\" y=\"100\" font-family=\"Arial\" font-size=\"12\" text-anchor=\"middle\" fill=\"#6a1b9a\">₹18k</text>\n\n  <!-- Person C -->\n  <rect x=\"230\" y=\"80\" width=\"60\" height=\"60\" fill=\"#d9f2f2\" stroke=\"#008080\" stroke-width=\"2\"/>\n  <text x=\"260\" y=\"70\" font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\" fill=\"#008080\" font-weight=\"700\">C</text>\n  <text x=\"260\" y=\"115\" font-family=\"Arial\" font-size=\"12\" text-anchor=\"middle\" fill=\"#008080\">₹12k</text>\n\n  <!-- Relationship Arrows/Brackets -->\n  <path d=\"M205,140 L205,50\" stroke=\"#888888\" stroke-dasharray=\"4,2\"/>\n  <path d=\"M115,140 L115,40\" stroke=\"#888888\" stroke-dasharray=\"4,2\"/>\n  \n  <text x=\"215\" y=\"65\" font-family=\"Arial\" font-size=\"11\" fill=\"#cc5500\">+₹6k</text>\n  <path d=\"M225,80 Q215,80 215,70\" stroke=\"#cc5500\" fill=\"none\" marker-end=\"url(#arrO)\"/>\n  \n  <text x=\"125\" y=\"45\" font-family=\"Arial\" font-size=\"11\" fill=\"#cc5500\">+₹2k</text>\n\n  <!-- Total Summary -->\n  <path d=\"M50,150 L290,150\" stroke=\"#555555\" stroke-width=\"1.5\"/>\n  <path d=\"M50,155 L50,165 M290,155 L290,165\" stroke=\"#555555\" stroke-width=\"1.5\"/>\n  <text x=\"170\" y=\"175\" font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\" fill=\"#555555\">Total Capital = ₹50,000</text>\n  \n  <rect x=\"330\" y=\"60\" width=\"90\" height=\"40\" rx=\"5\" fill=\"#ccffcc\" stroke=\"#007700\" stroke-width=\"1.5\"/>\n  <text x=\"375\" y=\"78\" font-family=\"Arial\" font-size=\"12\" text-anchor=\"middle\" fill=\"#007700\">Total Profit</text>\n  <text x=\"375\" y=\"93\" font-family=\"Arial\" font-size=\"12\" text-anchor=\"middle\" fill=\"#007700\" font-weight=\"700\">₹10,000</text>\n\n  <!-- ZONE 2: Solution -->\n  <text x=\"30\" y=\"210\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ 3C + 14,000 = 50,000 ⇒ C = 12,000, A = 20,000</text>\n  <text x=\"30\" y=\"235\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ Ratio A : B : C = 20 : 18 : 12 = 10 : 9 : 6</text>\n  <text x=\"30\" y=\"260\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ A's share = (10 ÷ 25) × 10,000</text>\n  \n  <text x=\"30\" y=\"285\" font-family=\"Arial\" font-size=\"14\" font-weight=\"700\" fill=\"#000000\">∴ Answer = Rs. 4,000</text>\n</svg>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q9",
+      "number": 9,
+      "question": "A, B and C invest in a business in the ratio 5 : 2 : 4 . If 23% of the total profit goes to charity and share of A is INR 700, find the total profit.",
+      "questionHtml": "A, B and C invest in a business in the ratio 5 : 2 : 4 . If 23% of the total profit goes to charity and share of A is INR 700, find the total profit.&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "INR 2000",
+          "html": "INR 2000"
+        },
+        {
+          "id": "B",
+          "text": "INR 3500",
+          "html": "INR 3500"
+        },
+        {
+          "id": "C",
+          "text": "INR 2500",
+          "html": "INR 2500"
+        },
+        {
+          "id": "D",
+          "text": "INR 2100",
+          "html": "INR 2100"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<svg width=\"480\" height=\"300\" viewBox=\"0 0 480 300\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:1px;background:#ffffff;border-radius:8px;border:1px solid #cccccc;box-sizing:border-box;\">\n  <defs>\n    <marker id=\"arr\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#2255cc\"/></marker>\n    <marker id=\"arrR\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#cc0000\"/></marker>\n  </defs>\n\n  <!-- ZONE 1: Partnership and Percentage Visual -->\n  <!-- Distributed Profit Section (A, B, C) -->\n  <rect x=\"30\" y=\"55\" width=\"50\" height=\"100\" fill=\"#ccffcc\" stroke=\"#007700\" stroke-width=\"2\" />\n  <text x=\"55\" y=\"110\" font-family=\"Arial\" font-size=\"14\" fill=\"#007700\" text-anchor=\"middle\">A</text>\n  <text x=\"55\" y=\"45\" font-family=\"Arial\" font-size=\"14\" fill=\"#007700\" text-anchor=\"middle\">5u</text>\n  <path d=\"M30 35 L80 35\" stroke=\"#007700\" stroke-width=\"1\" marker-end=\"url(#arrG)\" />\n  <text x=\"55\" y=\"25\" font-family=\"Arial\" font-size=\"14\" fill=\"#007700\" text-anchor=\"middle\">₹ 700</text>\n\n  <rect x=\"90\" y=\"115\" width=\"50\" height=\"40\" fill=\"#ede7f6\" stroke=\"#6a1b9a\" stroke-width=\"2\" />\n  <text x=\"115\" y=\"140\" font-family=\"Arial\" font-size=\"14\" fill=\"#6a1b9a\" text-anchor=\"middle\">B</text>\n  <text x=\"115\" y=\"105\" font-family=\"Arial\" font-size=\"14\" fill=\"#6a1b9a\" text-anchor=\"middle\">2u</text>\n\n  <rect x=\"150\" y=\"75\" width=\"50\" height=\"80\" fill=\"#d9f2f2\" stroke=\"#008080\" stroke-width=\"2\" />\n  <text x=\"175\" y=\"120\" font-family=\"Arial\" font-size=\"14\" fill=\"#008080\" text-anchor=\"middle\">C</text>\n  <text x=\"175\" y=\"65\" font-family=\"Arial\" font-size=\"14\" fill=\"#008080\" text-anchor=\"middle\">4u</text>\n\n  <!-- Charity Section -->\n  <rect x=\"250\" y=\"55\" width=\"60\" height=\"100\" fill=\"#ffd6d6\" stroke=\"#cc0000\" stroke-width=\"2\" stroke-dasharray=\"4,2\" />\n  <text x=\"280\" y=\"110\" font-family=\"Arial\" font-size=\"14\" fill=\"#cc0000\" text-anchor=\"middle\">Charity</text>\n  <text x=\"280\" y=\"45\" font-family=\"Arial\" font-size=\"14\" fill=\"#cc0000\" text-anchor=\"middle\">23%</text>\n\n  <!-- Grouping Braces/Labels -->\n  <path d=\"M30 165 L30 175 L200 175 L200 165\" fill=\"none\" stroke=\"#555555\" stroke-width=\"1.5\" />\n  <text x=\"115\" y=\"192\" font-family=\"Arial\" font-size=\"14\" fill=\"#555555\" text-anchor=\"middle\">Distributed Profit = 77% (11 units)</text>\n  \n  <path d=\"M30 15 L310 15\" stroke=\"#888888\" stroke-width=\"1\" stroke-dasharray=\"5,5\" />\n  <text x=\"340\" y=\"20\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">Total = 100%</text>\n\n  <!-- ZONE 2: Solution Lines -->\n  <text x=\"30\" y=\"220\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ A's share = 5 units = INR 700 → 1 unit = INR 140</text>\n  <text x=\"30\" y=\"245\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ Distributed (77%) = 11 units × 140 = INR 1540</text>\n  <text x=\"30\" y=\"270\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ Total Profit = (1540 ÷ 77) × 100</text>\n\n  <text x=\"30\" y=\"295\" font-family=\"Arial\" font-size=\"14\" font-weight=\"700\" fill=\"#000000\">∴ Answer = INR 2000</text>\n</svg>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q10",
+      "number": 10,
+      "question": "A starts a business with Rs. 4500 and after 4 months, B joins with some capital. At the end of the year, the profit is divided in the ratio 3 : 4. What is B's contribution to the business?",
+      "questionHtml": "<span style=\" line-height: 107%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">A starts a business with Rs. 4500 and after 4 months, B joins with some capital. At the end of the year, the profit is divided in the ratio 3 : 4. What is B&#39;s contribution to the business?</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "6500",
+          "html": "6500"
+        },
+        {
+          "id": "B",
+          "text": "9000",
+          "html": "9000"
+        },
+        {
+          "id": "C",
+          "text": "7500",
+          "html": "7500"
+        },
+        {
+          "id": "D",
+          "text": "10000",
+          "html": "10000"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Formula used:</strong></p>\n\n<p><span class=\"math-tex\">\\(\\frac{{Capital\\;of\\;A\\; \\times \\;Time\\;period\\;of\\;A\\;}}{{Capital\\;of\\;B\\; \\times \\;Time\\;period\\;of\\;B}}\\; = \\;\\frac{{Profit\\;of\\;A\\;}}{{Profit\\;of\\;B}}\\)</span></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let the Contribution of B is Rs. x</p>\n\n<p>A invested for 12 months and B invested for (12 – 4) = 8 months</p>\n\n<p>⇒ (4500 × 12)/(x × 8) = ¾</p>\n\n<p>⇒ (4500 × 12 × 4)/(3 × 8) = x</p>\n\n<p>⇒ x = 9000</p>\n\n<p><strong>∴ Contribution of B to the business is 9000</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q11",
+      "number": 11,
+      "question": "A starts a business with a capital of Rs. 1200. B and C join the business with some investment after 3 and 6 months respectively. If end of the year their profit is divided in the ratio of 2 : 3 : 5, what is the investment of B in the business?",
+      "questionHtml": "A starts a business with a capital of Rs. 1200. B and C join the business with some investment after 3 and 6 months respectively. If end of the year their profit is divided in the ratio of 2 : 3 : 5, what is the investment of B in the business?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 3600",
+          "html": "<span style=\"\">Rs. 3600</span>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 1800",
+          "html": "<span style=\"\">Rs. 1800</span>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 2400",
+          "html": "<span style=\"\">Rs. 2400</span>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 6000",
+          "html": "<span style=\"\">Rs. 6000</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>A's equivalent capital for 12 months = 1200 × 12 = 14400</p>\n<p>Since A gets 2 parts of profit, 1 part equivalent capital = 14400 ÷ 2 = 7200</p>\n<p>B gets 3 parts of profit, so B's equivalent capital = 7200 × 3 = 21600</p>\n<p>B invested for 9 months (12 − 3), so B's actual investment = 21600 ÷ 9 = 2400</p>\n<p><strong>∴ The correct answer is Rs. 2400.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Capital of A = Rs. 1200, Time of A = 12 months</p>\n<p>Time of B = 12 − 3 = 9 months</p>\n<p>Time of C = 12 − 6 = 6 months</p>\n<p>Profit ratio of A : B : C = 2 : 3 : 5</p>\n<p><strong>Formula Used:</strong></p>\n<p>Profit Ratio = (Capital of A × Time of A) : (Capital of B × Time of B) : (Capital of C × Time of C)</p>\n\n<svg width=\"420\" height=\"200\" viewBox=\"0 0 420 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\">\n  <rect x=\"60\" y=\"40\" width=\"300\" height=\"30\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <rect x=\"135\" y=\"90\" width=\"225\" height=\"30\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"1.5\" />\n  <rect x=\"210\" y=\"140\" width=\"150\" height=\"30\" fill=\"#ccffcc\" stroke=\"#007700\" stroke-width=\"1.5\" />\n  \n  <text x=\"20\" y=\"60\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#222222\" font-weight=\"bold\">A</text>\n  <text x=\"20\" y=\"110\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#222222\" font-weight=\"bold\">B</text>\n  <text x=\"20\" y=\"160\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#222222\" font-weight=\"bold\">C</text>\n  \n  <text x=\"70\" y=\"60\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#222222\">12 months | Cap: 1200</text>\n  <text x=\"145\" y=\"110\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#222222\">9 months | Cap: x</text>\n  <text x=\"220\" y=\"160\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#222222\">6 months | Cap: y</text>\n\n  <line x1=\"60\" y1=\"20\" x2=\"60\" y2=\"180\" stroke=\"#888888\" stroke-dasharray=\"5,3\" />\n  <line x1=\"135\" y1=\"20\" x2=\"135\" y2=\"180\" stroke=\"#888888\" stroke-dasharray=\"5,3\" />\n  <line x1=\"210\" y1=\"20\" x2=\"210\" y2=\"180\" stroke=\"#888888\" stroke-dasharray=\"5,3\" />\n  <line x1=\"360\" y1=\"20\" x2=\"360\" y2=\"180\" stroke=\"#888888\" stroke-dasharray=\"5,3\" />\n\n  <text x=\"50\" y=\"15\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#cc5500\">0m</text>\n  <text x=\"125\" y=\"15\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#cc5500\">3m</text>\n  <text x=\"200\" y=\"15\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#cc5500\">6m</text>\n  <text x=\"350\" y=\"15\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#cc5500\">12m</text>\n</svg>\n\n<p><strong>Calculations:</strong></p>\n<p>Let the investment of B be x.</p>\n<p>⇒ Profit of A : Profit of B = (1200 × 12) : (x × 9)</p>\n<p>⇒ 14400 : 9x = 2 : 3</p>\n<p>⇒ 14400 / 9x = 2 / 3</p>\n<p>⇒ 1600 / x = 2 / 3</p>\n<p>⇒ 2x = 1600 × 3</p>\n<p>⇒ 2x = 4800</p>\n<p>⇒ x = 2400</p>\n<p><strong>∴ The correct answer is Rs. 2400.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Compound Partnership</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When partners invest their capitals for different time periods, the profit is divided in the ratio of the product of their capital and time invested.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Joining Mid-way</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If a partner joins a business after t months in a financial year, their investment is considered active for (12 − t) months during profit distribution.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Active and Sleeping Partner</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">An active partner may receive an extra salary or percentage of the total profit for managing the business, while a sleeping partner only receives profit based on their capital investment.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q12",
+      "number": 12,
+      "question": "Anil and Sunil started a business investing equal amounts, Anil left after 9 months. They earned an annual profit of Rs. 28,000. What is Sunil&rsquo;s share of annual profit?",
+      "questionHtml": "Anil and Sunil started a business investing equal amounts, Anil left after 9 months. They earned an annual profit of Rs. 28,000. What is Sunil&rsquo;s share of annual profit?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 15,000",
+          "html": "Rs. 15,000"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 16,000",
+          "html": "<span style=\"\">Rs.&nbsp;</span>16,000"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 12,000",
+          "html": "<span style=\"\">Rs.&nbsp;</span>12,000"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 13,000",
+          "html": "Rs. 13,000"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Since <strong>investments</strong> are equal, the <strong>profit ratio</strong> depends only on the <strong>time ratio</strong>.</p>\n<p>Anil (9 months) : Sunil (12 months) ⇒ 9 : 12 = 3 : 4.</p>\n<p>Total ratio sum = 3 + 4 = 7 units.</p>\n<p>7 units = ₹28,000 ⇒ 1 unit = ₹4,000.</p>\n<p>Sunil’s share = 4 units × ₹4,000 = ₹16,000.</p>\n<p><strong>∴ The correct answer is ₹16,000.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Investment of <strong>Anil</strong> = Investment of <strong>Sunil</strong> = P</p>\n<p>Time period for <strong>Anil</strong> (T<sub>A</sub>) = 9 months</p>\n<p>Time period for <strong>Sunil</strong> (T<sub>S</sub>) = 12 months (1 year)</p>\n<p>Total annual <strong>profit</strong> = ₹28,000</p>\n<p><strong>Formula Used:</strong></p>\n<p>Profit Ratio = (Investment<sub>1</sub> × Time<sub>1</sub>) : (Investment<sub>2</sub> × Time<sub>2</sub>)</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_6425ae94.png/1784051681.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Profit Ratio (Anil : Sunil) = (P × 9) : (P × 12)</p>\n<p>⇒ Profit Ratio = 9 : 12 = 3 : 4</p>\n<p>⇒ Let Anil’s profit be 3x and Sunil’s profit be 4x</p>\n<p>⇒ 3x + 4x = 28,000</p>\n<p>⇒ 7x = 28,000</p>\n<p>⇒ x = 28,000 ÷ 7 = 4,000</p>\n<p>⇒ Sunil’s share = 4x = 4 × 4,000</p>\n<p>⇒ Sunil’s share = ₹16,000</p>\n<p><strong>∴ The correct answer is ₹16,000.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Basic Partnership Rule</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">In any business partnership, the <strong>Profit (P)</strong> is directly proportional to the product of <strong>Capital (C)</strong> and <strong>Time (T)</strong>. Formula: P<sub>1</sub> : P<sub>2</sub> = C<sub>1</sub>T<sub>1</sub> : C<sub>2</sub>T<sub>2</sub>.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Simple vs Compound Partnership</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">A <strong>Simple Partnership</strong> involves equal time periods for all partners. a <strong>Compound Partnership</strong> involves different capital investments for different time durations.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Working and Sleeping Partner</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">A <strong>Working Partner</strong> manages the business and may receive an extra salary, while a <strong>Sleeping Partner</strong> only provides capital and shares profit based on the investment ratio.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_6425ae94.png/1784051681.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q13",
+      "number": 13,
+      "question": "&lsquo;A&rsquo; started a business with a capital of Rs. 54,000 and admitted &lsquo;B&rsquo; and &lsquo;C&rsquo; after 4 months and 6 months, respectively. At the end of the year, the profit was divided in the ratio 1∶ 4 ∶ 5. What is the difference between the capitals invested by &lsquo;B&rsquo; and &lsquo;C&rsquo;?",
+      "questionHtml": "&lsquo;A&rsquo; started a business with a capital of Rs. 54,000 and admitted &lsquo;B&rsquo; and &lsquo;C&rsquo; after 4 months and 6 months, respectively. At the end of the year, the profit was divided in the ratio 1∶ 4 ∶ 5. What is the difference between the capitals invested by &lsquo;B&rsquo; and &lsquo;C&rsquo;?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 1,08,000",
+          "html": "Rs. 1,08,000"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 2,16,000",
+          "html": "Rs. 2,16,000"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 3,24,000",
+          "html": "Rs. 3,24,000"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 1,62,000",
+          "html": "Rs. 1,62,000"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>A started a business with a capital of = 54,000</p>\n\n<p>Let the capital of B be x and capital of C be y. B invested his capital for 8 months and C invested his capital for 6 months, then</p>\n\n<p>According to the question,</p>\n\n<p>(54000 × 12)/(x × 8) = 1/4</p>\n\n<p>⇒ x = (54000 × 12 × 4)/8</p>\n\n<p>⇒ x = 54000 × 6</p>\n\n<p>Similarly,</p>\n\n<p>(54000 × 12) / (y × 6) = 1/5</p>\n\n<p>⇒ y × 6 = (54000 × 12 × 5)/6</p>\n\n<p>⇒ y = 54000 × 10</p>\n\n<p>Difference of capital B and C = y - x = 54000 × 10 - 54000 × 6 = 54000 (10 - 6) = 216000</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q14",
+      "number": 14,
+      "question": "A and B jointly start a business. The investment of A is equal to seven times the investment of B. Find the share of A (in ₹) in the annual profit of ₹2,75,000.",
+      "questionHtml": "A and B jointly start a business. The investment of A is equal to seven times the investment of B. Find the share of A (in ₹) in the annual profit of ₹2,75,000.",
+      "options": [
+        {
+          "id": "A",
+          "text": "2,40,625",
+          "html": "2,40,625"
+        },
+        {
+          "id": "B",
+          "text": "2,45,625",
+          "html": "2,45,625"
+        },
+        {
+          "id": "C",
+          "text": "2,42,365",
+          "html": "2,42,365"
+        },
+        {
+          "id": "D",
+          "text": "2,41,225",
+          "html": "2,41,225"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Here, A and B both invest for same time, so their profit will be distributed according to their invest ratio</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, Investment of A : Investment of B = 7 : 1</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, the share of A from the profit = 7/8 × 275000 = 240625</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q15",
+      "number": 15,
+      "question": "A and B contribute to a business investment in the ratio 3:5. They earn a profit of ₹64,000. A is a working partner and receives 10% of the profit extra. What is A's total share?",
+      "questionHtml": "A and B contribute to a business investment in the ratio 3:5. They earn a profit of ₹64,000. A is a working partner and receives 10% of the profit extra. What is A&#39;s total share?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹26,500",
+          "html": "₹26,500"
+        },
+        {
+          "id": "B",
+          "text": "₹28,000",
+          "html": "₹28,000"
+        },
+        {
+          "id": "C",
+          "text": "₹38,500",
+          "html": "₹38,500"
+        },
+        {
+          "id": "D",
+          "text": "₹36,000",
+          "html": "₹36,000"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>⇒ 10% × ₹64,000 = ₹6,400</p>\n\n<p>⇒ Remaining profit = ₹64,000 − ₹6,400 = ₹57,600</p>\n\n<p>⇒ A's share = (3 ÷ 8) × ₹57,600 = ₹21,600</p>\n\n<p>⇒ A's total = ₹21,600 + ₹6,400 = ₹28,000</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q16",
+      "number": 16,
+      "question": "A is a working partner and B is a sleeping partner in a business. A invested ₹30,000 and B invested ₹50,000. A receives 20% of the profit for managing the business and the rest is divided in proportion to their capital. What does B get out of the profit of ₹10,000?",
+      "questionHtml": "A is a working partner and B is a sleeping partner in a business. A invested ₹30,000 and B invested ₹50,000. A receives 20% of the profit for managing the business and the rest is divided in proportion to their capital. What does B get out of the profit of ₹10,000?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹5,500",
+          "html": "₹5,500"
+        },
+        {
+          "id": "B",
+          "text": "₹5,000",
+          "html": "₹5,000"
+        },
+        {
+          "id": "C",
+          "text": "₹4,500",
+          "html": "₹4,500"
+        },
+        {
+          "id": "D",
+          "text": "₹4,000",
+          "html": "₹4,000"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">A receives 20% profit = 1/5</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Let he total profit is 5 </p>\n\n<p style=\"color: rgb(33, 37, 41);\">So value of 5 units = 10000</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ 1unit = 10000 / 5 ⇒ 2000</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So remaining 10000 - 2000 = 8000 is divided among A and B</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So share of B is ⇒ 8000 × 5/8⇒ 1000 × 5 = Rs 5000</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q17",
+      "number": 17,
+      "question": "X and Y invest in a business in the ratio \\( 5 : 7 \\) . If \\( 8\\% \\) of the total profit is donated to charity and X gets \\( ₹ 1,150 \\) as profit, find the total profit.",
+      "questionHtml": "<span style='color: rgb(33, 37, 41);'>X and Y invest in a business in the ratio <span class='math-tex'>\\( 5 : 7 \\)</span>. If <span class='math-tex'>\\( 8\\% \\)</span> of the total profit is donated to charity and X gets <span class='math-tex'>\\( ₹ 1,150 \\)</span> as profit, find the total profit.</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\( ₹ 3,400 \\)",
+          "html": "<span style='color: rgb(33, 37, 41);'><span class='math-tex'>\\( ₹ 3,400 \\)</span></span>"
+        },
+        {
+          "id": "B",
+          "text": "\\( ₹ 2,800 \\)",
+          "html": "<span style='color: rgb(33, 37, 41);'><span class='math-tex'>\\( ₹ 2,800 \\)</span></span>"
+        },
+        {
+          "id": "C",
+          "text": "\\( ₹ 3,200 \\)",
+          "html": "<span style='color: rgb(33, 37, 41);'><span class='math-tex'>\\( ₹ 3,200 \\)</span></span>"
+        },
+        {
+          "id": "D",
+          "text": "\\( ₹ 3,000 \\)",
+          "html": "<span style='color: rgb(33, 37, 41);'><span class='math-tex'>\\( ₹ 3,000 \\)</span></span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Profit distribution ratio X : Y = 5 : 7.</p>\n<p>X's share of 5 units = ₹1,150 → 1 unit = ₹230.</p>\n<p>Total distributed profit (12 units) = 12 × 230 = ₹2,760.</p>\n<p>This distributed profit is 92% (100% − 8% charity) of total profit.</p>\n<p>Total Profit = (2,760 ÷ 92) × 100 = ₹3,000.</p>\n<p><strong>∴ The correct answer is ₹3,000.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Investment Ratio X : Y = 5 : 7</p>\n<p>Charity Donation = 8% of total profit</p>\n<p>X's Profit Share = ₹1,150</p>\n<p><strong>Formula Used:</strong></p>\n<p>Profit Share = (Individual Ratio ÷ Sum of Ratios) × Distributed Profit</p>\n<p>Total Profit = Distributed Profit ÷ (1 − Charity%)</p>\n\n<img src=\"https://cdn.testbook.com/tb_solImg_0125e945.png/1778750229.png\" style=\"max-width: 100%; height: auto;\">\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ Let the total profit be P and distributed profit be D.</p>\n<p>⇒ D = P − (8% of P) = 0.92 × P</p>\n<p>⇒ Profit is divided in the ratio 5 : 7.</p>\n<p>⇒ X's share = (5 / (5 + 7)) × D = 5/12 × D</p>\n<p>⇒ 1,150 = (5/12) × D</p>\n<p>⇒ D = (1,150 × 12) ÷ 5</p>\n<p>⇒ D = 230 × 12 = ₹2,760</p>\n<p>⇒ Now, 0.92 × P = 2,760</p>\n<p>⇒ P = 2,760 ÷ 0.92 = ₹3,000</p>\n<p><strong>∴ The correct answer is ₹3,000.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Profit Sharing Rule</p>\n<p style='margin:0 0 8px 0;color:#444444;'>In a partnership, profit is distributed based on the product of investment and time: P<sub>1</sub> : P<sub>2</sub> = C<sub>1</sub> × T<sub>1</sub> : C<sub>2</sub> × T<sub>2</sub>. If time is constant, profit ratio equals investment ratio.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Working and Sleeping Partners</p>\n<p style='margin:0 0 8px 0;color:#444444;'>A working partner manages the business and may receive a salary or a fixed percentage of profit before the remaining profit is shared according to the investment ratio.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Charity and Tax Adjustments</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When a portion of profit is donated or taxed, always calculate the distributed amount as (100 − percentage)% of the total gross profit first.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_0125e945.png/1778750229.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q18",
+      "number": 18,
+      "question": "Three partners invested in a business in the ratio 3:9:8. They invested their capitals for 10 months, 1 months and 4 months, respectively. What was the ratio of their profits?",
+      "questionHtml": "Three partners invested in a business in the ratio 3:9:8. They invested their capitals for 10 months, 1 months and 4 months, respectively. What was the ratio of their profits?",
+      "options": [
+        {
+          "id": "A",
+          "text": "30 : 9 : 32",
+          "html": "30 : 9 : 32"
+        },
+        {
+          "id": "B",
+          "text": "31 : 9 : 32",
+          "html": "31 : 9 : 32"
+        },
+        {
+          "id": "C",
+          "text": "32 : 9 : 32",
+          "html": "32 : 9 : 32"
+        },
+        {
+          "id": "D",
+          "text": "28 : 9 : 32",
+          "html": "28 : 9 : 32"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Given investment ratio = 3 : 9 : 8,</p>\n\n<p>Time durations (months) = 10 : 1: 4</p>\n\n<p>Profit ratio = Investment × Time ⇒ 3 × 10 : 9 × 1 : 8 × 4 ⇒ 30 : 9 : 32</p>\n\n<p>∴ Final ratio = 30 : 9 : 32</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q19",
+      "number": 19,
+      "question": "P, Q, and R started a business by investing ₹2,030, ₹1,700, and ₹1,010, respectively. If Q's share of the profit earned by them is ₹975, what is the difference (in ₹) in the profits earned by P and R?",
+      "questionHtml": "P, Q, and R started a business by investing ₹2,030, ₹1,700, and ₹1,010, respectively. If Q&#39;s share of the profit earned by them is ₹975, what is the difference (in ₹) in the profits earned by P and R?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹585",
+          "html": "₹585"
+        },
+        {
+          "id": "B",
+          "text": "₹586",
+          "html": "₹586"
+        },
+        {
+          "id": "C",
+          "text": "₹584",
+          "html": "₹584"
+        },
+        {
+          "id": "D",
+          "text": "₹583",
+          "html": "₹583"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Profit ratio ⇒ 2,030 : 1,700 : 1,010 ⇒ 203 : 170 : 101.</p>\n\n<p>Total profit ⇒ (975 ÷ 170) × 474 = ₹2,722.50.</p>\n\n<p>P's profit ⇒ (203 ÷ 474) × 2,722.50 = ₹1,165.50; R's profit ⇒ (101 ÷ 474) × 2,722.50 = ₹580.50.</p>\n\n<p>Difference ⇒ ₹1,165.50 − ₹580.50 = ₹585.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q20",
+      "number": 20,
+      "question": "A', 'B', and 'C' formed a consulting firm. Their capital investments were Rs. 6,00,000, Rs. 4,00,000, and Rs. 5,00,000, respectively. After 3 months, 'A' withdrew Rs. 1,00,000, and 'B' added Rs. 1,00,000. The partnership lasted for 9 months. What was the ratio of their effective capital contributions?",
+      "questionHtml": "A&#39;, &#39;B&#39;, and &#39;C&#39; formed a consulting firm. Their capital investments were Rs. 6,00,000, Rs. 4,00,000, and Rs. 5,00,000, respectively. After 3 months, &#39;A&#39; withdrew Rs. 1,00,000, and &#39;B&#39; added Rs. 1,00,000. The partnership lasted for 9 months. What was the ratio of their effective capital contributions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "16:14:15",
+          "html": "16:14:15"
+        },
+        {
+          "id": "B",
+          "text": "16:15:14",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">16:15:14</span>"
+        },
+        {
+          "id": "C",
+          "text": "14:15:16",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">14:15:16</span>"
+        },
+        {
+          "id": "D",
+          "text": "14:16:15",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">14:16:15</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span></p>\n\n<p>Effective Capital = Capital &times; Time</p>\n\n<p>A&#39;s effective capital = (6 &times; 3) + (5 &times; 6) = 18 + 30 = 48</p>\n\n<p>B&#39;s effective capital = (4 &times; 3) + (5 &times; 6) = 12 + 30 = 42</p>\n\n<p>C&#39;s effective capital = 5 &times; 9 = 45</p>\n\n<p>Ratio = 48 : 42 : 45 = 16 : 14 : 15</p>\n\n<p><strong>&there4; The correct answer is 16:14:15.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<p><strong>Given:</strong></p>\n\n<p>Initial investments: A = Rs. 6,00,000, B = Rs. 4,00,000, C = Rs. 5,00,000</p>\n\n<p>After 3 months: A withdrew Rs. 1,00,000; B added Rs. 1,00,000</p>\n\n<p>Total time of partnership = 9 months</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>Ratio of Profit = Ratio of Effective Capital = (C<sub>1</sub> &times; T<sub>1</sub>) : (C<sub>2</sub> &times; T<sub>2</sub>) : (C<sub>3</sub> &times; T<sub>3</sub>)</p>\n<svg height=\"240\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\" viewbox=\"0 0 420 240\" width=\"420\" xmlns=\"http://www.w3.org/2000/svg\"> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" x=\"20\" y=\"70\">A</text> <rect fill=\"#ddeeff\" height=\"30\" rx=\"4\" stroke=\"#2255cc\" stroke-width=\"1.5\" width=\"120\" x=\"50\" y=\"50\"></rect> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\" x=\"110\" y=\"70\">6L &times; 3m</text> <rect fill=\"#fff0cc\" height=\"25\" rx=\"4\" stroke=\"#cc5500\" stroke-width=\"1.5\" width=\"240\" x=\"170\" y=\"55\"></rect> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\" x=\"290\" y=\"72\">5L &times; 6m</text> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" x=\"20\" y=\"130\">B</text> <rect fill=\"#ddeeff\" height=\"20\" rx=\"4\" stroke=\"#2255cc\" stroke-width=\"1.5\" width=\"120\" x=\"50\" y=\"115\"></rect> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\" x=\"110\" y=\"130\">4L &times; 3m</text> <rect fill=\"#fff0cc\" height=\"25\" rx=\"4\" stroke=\"#cc5500\" stroke-width=\"1.5\" width=\"240\" x=\"170\" y=\"110\"></rect> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\" x=\"290\" y=\"127\">5L &times; 6m</text> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" x=\"20\" y=\"190\">C</text> <rect fill=\"#ddeeff\" height=\"25\" rx=\"4\" stroke=\"#2255cc\" stroke-width=\"1.5\" width=\"360\" x=\"50\" y=\"170\"></rect> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"12\" text-anchor=\"middle\" x=\"230\" y=\"187\">5L &times; 9m</text> <line stroke=\"#888888\" stroke-dasharray=\"5,3\" stroke-width=\"1.5\" x1=\"50\" x2=\"410\" y1=\"215\" y2=\"215\"></line> <circle cx=\"50\" cy=\"215\" fill=\"#cc5500\" r=\"3\"></circle> <text fill=\"#444444\" font-family=\"sans-serif\" font-size=\"11\" text-anchor=\"middle\" x=\"50\" y=\"230\">0</text> <circle cx=\"170\" cy=\"215\" fill=\"#cc5500\" r=\"3\"></circle> <text fill=\"#444444\" font-family=\"sans-serif\" font-size=\"11\" text-anchor=\"middle\" x=\"170\" y=\"230\">3 Months</text> <circle cx=\"410\" cy=\"215\" fill=\"#cc5500\" r=\"3\"></circle> <text fill=\"#444444\" font-family=\"sans-serif\" font-size=\"11\" text-anchor=\"middle\" x=\"410\" y=\"230\">9 Months</text> </svg>\n\n<p><strong>Calculations:</strong></p>\n\n<p>&rArr; A&#39;s investment for first 3 months = Rs. 6,00,000</p>\n\n<p>&rArr; A&#39;s investment for remaining 6 months = 6,00,000 &minus; 1,00,000 = Rs. 5,00,000</p>\n\n<p>&rArr; A&#39;s effective capital = (6,00,000 &times; 3) + (5,00,000 &times; 6) = 18,00,000 + 30,00,000 = Rs. 48,00,000</p>\n&nbsp;\n\n<p>&rArr; B&#39;s investment for first 3 months = Rs. 4,00,000</p>\n\n<p>&rArr; B&#39;s investment for remaining 6 months = 4,00,000 + 1,00,000 = Rs. 5,00,000</p>\n\n<p>&rArr; B&#39;s effective capital = (4,00,000 &times; 3) + (5,00,000 &times; 6) = 12,00,000 + 30,00,000 = Rs. 42,00,000</p>\n&nbsp;\n\n<p>&rArr; C&#39;s investment for entire 9 months = Rs. 5,00,000</p>\n\n<p>&rArr; C&#39;s effective capital = 5,00,000 &times; 9 = Rs. 45,00,000</p>\n&nbsp;\n\n<p>&rArr; Ratio of their effective capitals = 48,00,000 : 42,00,000 : 45,00,000</p>\n\n<p>&rArr; Canceling 1,00,000 from all terms, Ratio = 48 : 42 : 45</p>\n\n<p>&rArr; Dividing by 3, Ratio = 16 : 14 : 15</p>\n\n<p><strong>&there4; The correct answer is 16:14:15.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Simple Partnership</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">When all partners invest their capital for the exact same period, profits are distributed strictly in the ratio of their original investments.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Compound Partnership</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">When partners invest different amounts for different time periods, profits are distributed in the ratio of their effective capitals (calculated as Capital &times; Time).</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Active and Sleeping Partners</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">An active partner receives a fixed salary or a certain percentage of total profit for managing the business operations, while the remaining profit is shared among all partners according to their effective capital ratios.</p>\n\n<p>&nbsp;</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q21",
+      "number": 21,
+      "question": "X and Y enter into a partnership with capitals in the ratio 5 : 8. If the profit at the end of the year is divided in the ratio 5 : 4 and X invested for 12 months, for how many months did Y invest?",
+      "questionHtml": "<p>X and Y enter into a partnership with capitals in the ratio 5 : 8. If the profit at the end of the year is divided in the ratio 5 : 4 and X invested for 12 months, for how many months did Y invest?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 months",
+          "html": "4 months"
+        },
+        {
+          "id": "B",
+          "text": "5 months",
+          "html": "5 months"
+        },
+        {
+          "id": "C",
+          "text": "6 months",
+          "html": "6 months"
+        },
+        {
+          "id": "D",
+          "text": "8 months",
+          "html": "8 months"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>⇒ (5 × 12) : (8 × Time<sub>Y</sub>) = 5 : 4</p>\n\n<p>⇒ 60 ÷ (8 × Time<sub>Y</sub>) = 5 ÷ 4</p>\n\n<p>⇒ 240 = 40 × Time<sub>Y</sub></p>\n\n<p>⇒ Time<sub>Y</sub> = 240 ÷ 40 = 6 months</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q22",
+      "number": 22,
+      "question": "M and N start a business. M invests ₹17,000 more than N for 6 months and N invests for 5 months. M's share is ₹498 more than that of N, out of a total profit of ₹1,494. Find the capital contributed by M.",
+      "questionHtml": "M and N start a business. M invests ₹17,000 more than N for 6 months and N invests for 5 months. M&#39;s share is ₹498 more than that of N, out of a total profit of ₹1,494. Find the capital contributed by M.&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹42,500",
+          "html": "₹42,500"
+        },
+        {
+          "id": "B",
+          "text": "₹42,326",
+          "html": "&nbsp;₹42,326&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "₹42,661",
+          "html": "₹42,661&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "₹42,304",
+          "html": "₹42,304"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Let N's capital = x, ⇒ M's capital = x + 17000.</p>\n\n<p>N's investment value = x × 5 = 5x, M's investment value = (x + 17000) × 6 = 6x + 102000.</p>\n\n<p>Total ratio value = (6x + 102000) + 5x = 11x + 102000.</p>\n\n<p>M's share − N's share = 498, ⇒ (6x + 102000) − 5x = x + 102000.</p>\n\n<p>498 = 1494 × (x + 102000) ÷ (11x + 102000).</p>\n\n<p>498(11x + 102000) = 1494(x + 102000), ⇒ 11x + 102000 = 3(x + 102000).</p>\n\n<p>11x + 102000 = 3x + 306000, ⇒ 8x = 204000, ⇒ x = 25500.</p>\n\n<p>M's capital = x + 17000 = 25500 + 17000 = 42500.</p>\n\n<p>∴ M contributed ₹42,500.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q23",
+      "number": 23,
+      "question": "Rahul invested 1,20,000 in a business. After 4 months, Suresh joined with 90,000. After another 4 months, Rahul withdrew 40,000. Find their profit sharing ratio after 1 year.",
+      "questionHtml": "Rahul invested 1,20,000 in a business. After 4 months, Suresh joined with 90,000. After another 4 months, Rahul withdrew 40,000. Find their profit sharing ratio after 1 year.",
+      "options": [
+        {
+          "id": "A",
+          "text": "5:4",
+          "html": "5:4"
+        },
+        {
+          "id": "B",
+          "text": "3:2",
+          "html": "3:2"
+        },
+        {
+          "id": "C",
+          "text": "16:9",
+          "html": "16:9"
+        },
+        {
+          "id": "D",
+          "text": "6:5",
+          "html": "6:5"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Rahul's money for first 8 months: 120000 × 8 ⇒ 960000.</p>\n\n<p>Rahul withdraws 40000: New investment = 80000; last 4 months: 80000 × 4 ⇒ 320000.</p>\n\n<p>Total Rahul investment value: 960000 + 320000 ⇒ 1280000.</p>\n\n<p>Suresh invests after 4 months: duration = 8 months; Suresh investment value = 90000 × 8 ⇒ 720000.</p>\n\n<p>Ratio Rahul : Suresh = 1280000 : 720000 ⇒ 16 : 9.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q24",
+      "number": 24,
+      "question": "A startup has three stakeholders. A brought 40% of the capital, and B brought the rest. C joined later and was promised 20% of the total profit for branding. If total profit was Rs. 2,50,000, how much was B's share?",
+      "questionHtml": "A startup has three stakeholders. A brought 40% of the capital, and B brought the rest. C joined later and was promised 20% of the total profit for branding. If total profit was Rs. 2,50,000, how much was B&#39;s share?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 1,20,000",
+          "html": "Rs. 1,20,000"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 1,00,000",
+          "html": "Rs. 1,00,000"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 90,000",
+          "html": "Rs. 90,000"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 1,10,000",
+          "html": "Rs. 1,10,000"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<svg width=\"500\" height=\"260\" viewBox=\"0 0 500 260\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:1px;padding:0;background:#ffffff;border-radius:8px;border:1px solid #cccccc;box-sizing:border-box;\">\n  <defs>\n    <marker id=\"arr\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#2255cc\"/></marker>\n  </defs>\n\n  <!-- ZONE 1: Partnership Profit Distribution -->\n  <!-- Partner C: Branding Share -->\n  <rect x=\"40\" y=\"110\" width=\"80\" height=\"50\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"2\" />\n  <circle cx=\"80\" cy=\"100\" r=\"8\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"1.5\" />\n  <path d=\"M72,110 Q80,100 88,110\" fill=\"none\" stroke=\"#cc5500\" stroke-width=\"1.5\" />\n  <text x=\"50\" y=\"140\" font-family=\"Arial\" font-size=\"14\" fill=\"#cc5500\">C: 20%</text>\n  <text x=\"55\" y=\"175\" font-family=\"Arial\" font-size=\"12\" fill=\"#555555\">Branding</text>\n\n  <!-- Partner A: Capital Share -->\n  <rect x=\"160\" y=\"80\" width=\"80\" height=\"80\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"2\" />\n  <circle cx=\"200\" cy=\"70\" r=\"8\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <path d=\"M192,80 Q200,70 208,80\" fill=\"none\" stroke=\"#2255cc\" stroke-width=\"1.5\" />\n  <text x=\"170\" y=\"125\" font-family=\"Arial\" font-size=\"14\" fill=\"#2255cc\">A: 40%</text>\n  <text x=\"175\" y=\"175\" font-family=\"Arial\" font-size=\"12\" fill=\"#555555\">Capital</text>\n\n  <!-- Partner B: Capital Share -->\n  <rect x=\"280\" y=\"40\" width=\"80\" height=\"120\" fill=\"#ede7f6\" stroke=\"#6a1b9a\" stroke-width=\"2\" />\n  <circle cx=\"320\" cy=\"30\" r=\"8\" fill=\"#ede7f6\" stroke=\"#6a1b9a\" stroke-width=\"1.5\" />\n  <path d=\"M312,40 Q320,30 328,40\" fill=\"none\" stroke=\"#6a1b9a\" stroke-width=\"1.5\" />\n  <text x=\"290\" y=\"105\" font-family=\"Arial\" font-size=\"14\" fill=\"#6a1b9a\">B: 60%</text>\n  <text x=\"295\" y=\"175\" font-family=\"Arial\" font-size=\"12\" fill=\"#555555\">Capital</text>\n\n  <!-- Brackets and Total -->\n  <path d=\"M160,185 L160,195 L360,195 L360,185\" fill=\"none\" stroke=\"#555555\" stroke-width=\"1\" />\n  <text x=\"180\" y=\"210\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">Remaining 80% of Profit</text>\n  \n  <text x=\"380\" y=\"100\" font-family=\"Arial\" font-size=\"14\" fill=\"#555555\">Total Profit</text>\n  <text x=\"380\" y=\"120\" font-family=\"Arial\" font-size=\"14\" font-weight=\"700\" fill=\"#222222\">₹ 2,50,000</text>\n\n  <!-- ZONE 2: Solution -->\n  <text x=\"30\" y=\"215\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ Remaining Profit for A & B = 80% of 2,50,000 = ₹ 2,00,000</text>\n  <text x=\"30\" y=\"235\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ B's share = 60% of 2,00,000</text>\n  <text x=\"30\" y=\"255\" font-family=\"Arial\" font-size=\"14\" font-weight=\"700\" fill=\"#000000\">∴ Answer = Rs. 1,20,000</text>\n</svg>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "8f35fce588f2-q25",
+      "number": 25,
+      "question": "A' and 'B' entered a joint venture. 'A' brought Rs. 1,50,000 and 'B' Rs. 2,00,000. 'A' also contributed skilled labor equivalent to Rs. 50,000. At the end of the year, they earned Rs. 1,20,000 in profit. If they agreed to divide the profit in proportion to their effective contributions, what was A's share?",
+      "questionHtml": "A&#39; and &#39;B&#39; entered a joint venture. &#39;A&#39; brought Rs. 1,50,000 and &#39;B&#39; Rs. 2,00,000. &#39;A&#39; also contributed skilled labor equivalent to Rs. 50,000. At the end of the year, they earned Rs. 1,20,000 in profit. If they agreed to divide the profit in proportion to their effective contributions, what was A&#39;s share?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 55,000",
+          "html": "Rs. 55,000"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 60,000",
+          "html": "Rs. 60,000"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 62,500",
+          "html": "Rs. 62,500"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 65,000",
+          "html": "Rs. 65,000"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>⇒ Effective contribution of A = 150000 + 50000 = 200000</p>\n\n<p>⇒ Effective contribution of B = 200000</p>\n\n<p>⇒ A's share = 120000 × 1 ÷ 2 = 60000</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

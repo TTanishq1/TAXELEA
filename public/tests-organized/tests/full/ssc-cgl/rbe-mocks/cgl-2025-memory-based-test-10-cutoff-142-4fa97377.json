@@ -1,0 +1,3415 @@
+{
+  "id": "4fa9737766a6",
+  "provider": "RBE_Mocks",
+  "sourceFile": "CGL_2025_Memory_Based_Test-10_Cutoff-142_.html",
+  "sourcePath": "RBE_MOCKS/CGL_2025_Memory_Based_Test-10_Cutoff-142_.html",
+  "title": "CGL 2025 Memory Based Test-10 (Cutoff-142)",
+  "exam": null,
+  "year": 2025,
+  "tier": null,
+  "shift": null,
+  "duration": 72,
+  "questionCount": 100,
+  "questions": [
+    {
+      "id": "4fa9737766a6-q1",
+      "number": 1,
+      "question": "Choose the address that is the same as the one given below. Sample Address: No. 38, Orchid Residency, Garia, Kolkata, West Bengal - 700084",
+      "questionHtml": "<p>Choose the address that is the same as the one given below.</p><p>Sample Address: No. 38, Orchid Residency, Garia, Kolkata, West Bengal - 700084</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "No. 38, Orchid Residency, Garia, Kolkata, West Bengal - 700084",
+          "html": "<p>No. 38, Orchid Residency, Garia, Kolkata, West Bengal - 700084</p>"
+        },
+        {
+          "id": "B",
+          "text": "38, Orchid Residency, Garia, Kolkata, West Bengal - 700084",
+          "html": "<p>38, Orchid Residency, Garia, Kolkata, West Bengal - 700084</p>"
+        },
+        {
+          "id": "C",
+          "text": "No. 38, Orchid Residncy, Garia, Kolkata, West Bengal - 700084",
+          "html": "<p>No. 38, Orchid Residncy, Garia, Kolkata, West Bengal - 700084</p>"
+        },
+        {
+          "id": "D",
+          "text": "No. 38, Orchid Residency, Garia, Kolkatta, West Bengal - 700084",
+          "html": "<p>No. 38, Orchid Residency, Garia, Kolkatta, West Bengal - 700084</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Compare each part of the address with the sample.</p><p>Option 1 matches every element exactly: No. 38, Orchid Residency, Garia, Kolkata, West Bengal - 700084.</p><p>Option 2 drops 'No.' before 38.</p><p>Option 3 misspells 'Residency' as 'Residncy'.</p><p>Option 4 misspells 'Kolkata' as 'Kolkatta'.</p><p>Only option 1 is identical.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q2",
+      "number": 2,
+      "question": "A statement is given followed by two conclusions. Find which conclusion is TRUE based on the given statement. Statement: C < A ≤ T = D ≥ O; G ≥ D < S; T ≥ A Conclusions: I: A ≤ O II: C < G",
+      "questionHtml": "<p>A statement is given followed by two conclusions. Find which conclusion is TRUE based on the given statement.</p><p>Statement: C &lt; A ≤ T = D ≥ O; G ≥ D &lt; S; T ≥ A</p><p>Conclusions:</p><p>I: A ≤ O</p><p>II: C &lt; G</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Either I or II",
+          "html": "<p>Either I or II</p>"
+        },
+        {
+          "id": "B",
+          "text": "Neither I nor II",
+          "html": "<p>Neither I nor II</p>"
+        },
+        {
+          "id": "C",
+          "text": "Only I",
+          "html": "<p>Only I</p>"
+        },
+        {
+          "id": "D",
+          "text": "Only II",
+          "html": "<p>Only II</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>From the statement: A ≤ T = D and D ≥ O.</p><p>Conclusion I (A ≤ O): A ≤ D and D ≥ O give no fixed relation between A and O, so I does not follow.</p><p>Conclusion II (C &lt; G): C &lt; A ≤ T = D and G ≥ D, so G ≥ D ≥ A &gt; C, giving C &lt; G. II follows.</p><p>Hence, only II is true.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q3",
+      "number": 3,
+      "question": "The given statements are followed by two conclusions. Find out which conclusion is FALSE based on the given statements. Statements: J > K = L, M ≥ N < K, O < J < P, N > Q > R Conclusions: I. P > M II. N < P",
+      "questionHtml": "<p>The given statements are followed by two conclusions. Find out which conclusion is FALSE based on the given statements.</p><p>Statements: J &gt; K = L, M ≥ N &lt; K, O &lt; J &lt; P, N &gt; Q &gt; R</p><p>Conclusions:</p><p>I. P &gt; M</p><p>II. N &lt; P</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only conclusion II is false",
+          "html": "<p>Only conclusion II is false</p>"
+        },
+        {
+          "id": "B",
+          "text": "Both conclusion I and II are false",
+          "html": "<p>Both conclusion I and II are false</p>"
+        },
+        {
+          "id": "C",
+          "text": "Only conclusion I is false",
+          "html": "<p>Only conclusion I is false</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither conclusion I nor II is false",
+          "html": "<p>Neither conclusion I nor II is false</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Chain: N &lt; K, K &lt; J, J &lt; P, so N &lt; K &lt; J &lt; P.</p><p>Conclusion II (N &lt; P): true, since N &lt; P is established.</p><p>Conclusion I (P &gt; M): M ≥ N only, so M and P cannot be compared; P &gt; M is not established, hence false.</p><p>Therefore only conclusion I is false.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q4",
+      "number": 4,
+      "question": "B is the daughter of A. A is the son of C. How is C related to B?",
+      "questionHtml": "<p>B is the daughter of A. A is the son of C. How is C related to B?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mother",
+          "html": "<p>Mother</p>"
+        },
+        {
+          "id": "B",
+          "text": "Father",
+          "html": "<p>Father</p>"
+        },
+        {
+          "id": "C",
+          "text": "Grandparent",
+          "html": "<p>Grandparent</p>"
+        },
+        {
+          "id": "D",
+          "text": "Uncle",
+          "html": "<p>Uncle</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>A is the parent of B (B is A's daughter).</p><p>C is the parent of A (A is C's son).</p><p>So C is the parent of B's parent = grandparent of B.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q5",
+      "number": 5,
+      "question": "A − B means A is the sister of B. A × B means A is the mother of B. A ÷ B means A is the father of B. A + B means A is the brother of B. What is the relation in A × B + C?",
+      "questionHtml": "<p>A − B means A is the sister of B.</p><p>A × B means A is the mother of B.</p><p>A ÷ B means A is the father of B.</p><p>A + B means A is the brother of B.</p><p>What is the relation in A × B + C?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A is the mother of C",
+          "html": "<p>A is the mother of C</p>"
+        },
+        {
+          "id": "B",
+          "text": "B is the father of C",
+          "html": "<p>B is the father of C</p>"
+        },
+        {
+          "id": "C",
+          "text": "C is the mother of B",
+          "html": "<p>C is the mother of B</p>"
+        },
+        {
+          "id": "D",
+          "text": "B is the brother of A",
+          "html": "<p>B is the brother of A</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>A × B: A is the mother of B.</p><p>B + C: B is the brother of C, so B and C are siblings.</p><p>A is mother of B, and C is sibling of B, so A is also the mother of C.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q6",
+      "number": 6,
+      "question": "Read the following statement carefully and identify the action that follows. Statement: Road accidents have increased in the city during the last six months. Course of Action: 1. Traffic police should be instructed to strictly monitor driving rules. 2. Public should be educated about road safety.",
+      "questionHtml": "<p>Read the following statement carefully and identify the action that follows.</p><p>Statement: Road accidents have increased in the city during the last six months.</p><p>Course of Action:</p><p>1. Traffic police should be instructed to strictly monitor driving rules.</p><p>2. Public should be educated about road safety.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both follow",
+          "html": "<p>Both follow</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only 1 follows",
+          "html": "<p>Only 1 follows</p>"
+        },
+        {
+          "id": "C",
+          "text": "Only 2 follows",
+          "html": "<p>Only 2 follows</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither follows",
+          "html": "<p>Neither follows</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The problem is rising road accidents.</p><p>Action 1 (strict monitoring of rules) directly reduces accidents.</p><p>Action 2 (educating the public on safety) prevents accidents in the long run.</p><p>Both are valid corrective measures, so both follow.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q7",
+      "number": 7,
+      "question": "Find the odd one out:",
+      "questionHtml": "<p>Find the odd one out:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "x1 $",
+          "html": "<p>x1 $</p>"
+        },
+        {
+          "id": "B",
+          "text": "Y2 $",
+          "html": "<p>Y2 $</p>"
+        },
+        {
+          "id": "C",
+          "text": "Z3 $",
+          "html": "<p>Z3 $</p>"
+        },
+        {
+          "id": "D",
+          "text": "w4 $",
+          "html": "<p>w4 $</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Letter positions: x = 24, Y = 25, Z = 26 — three consecutive letters paired with numbers 1, 2, 3.</p><p>Following the pattern, the next term should use the 27th letter, which does not exist.</p><p>w = 23 with number 4 breaks the consecutive sequence.</p><p>So w4 is the odd one out.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q8",
+      "number": 8,
+      "question": "Read the following statement carefully and identify the conclusion that follows. Statement: All birds are animals. Some animals are tigers. No tiger is a bird. Conclusions: I. Some tigers are birds. II. Some animals are not birds.",
+      "questionHtml": "<p>Read the following statement carefully and identify the conclusion that follows.</p><p>Statement: All birds are animals. Some animals are tigers. No tiger is a bird.</p><p>Conclusions:</p><p>I. Some tigers are birds.</p><p>II. Some animals are not birds.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only I follows",
+          "html": "<p>Only I follows</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only II follows",
+          "html": "<p>Only II follows</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both I and II follow",
+          "html": "<p>Both I and II follow</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither I nor II follows",
+          "html": "<p>Neither I nor II follows</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780464437162_image001.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q9",
+      "number": 9,
+      "question": "What comes next? Z, X, U, Q, ?",
+      "questionHtml": "<p>What comes next?</p><p>Z, X, U, Q, ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "L",
+          "html": "<p>L</p>"
+        },
+        {
+          "id": "B",
+          "text": "M",
+          "html": "<p>M</p>"
+        },
+        {
+          "id": "C",
+          "text": "N",
+          "html": "<p>N</p>"
+        },
+        {
+          "id": "D",
+          "text": "P",
+          "html": "<p>P</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Z(26), X(24), U(21), Q(17), ?</p><p>Gaps between letters: -2, -3, -4, then -5.</p><p>17 - 5 = 12 = L.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q10",
+      "number": 10,
+      "question": "In the following question, select the word that can be formed using the letters of the given word. PITCHINGS",
+      "questionHtml": "<p>In the following question, select the word that can be formed using the letters of the given word.</p><p>PITCHINGS</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "HINGS",
+          "html": "<p>HINGS</p>"
+        },
+        {
+          "id": "B",
+          "text": "HANGS",
+          "html": "<p>HANGS</p>"
+        },
+        {
+          "id": "C",
+          "text": "HUNG",
+          "html": "<p>HUNG</p>"
+        },
+        {
+          "id": "D",
+          "text": "HECK",
+          "html": "<p>HECK</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Letters available: P, I, T, C, H, I, N, G, S.</p><p>HINGS uses H, I, N, G, S — all present.</p><p>HANGS needs 'A', HUNG needs 'U', HECK needs 'E' and 'K' — none available.</p><p>So only HINGS can be formed.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q11",
+      "number": 11,
+      "question": "Fill in the missing letter based on an alphabetical pattern. A, C, E, ?, I",
+      "questionHtml": "<p>Fill in the missing letter based on an alphabetical pattern.</p><p>A, C, E, ?, I</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "F",
+          "html": "<p>F</p>"
+        },
+        {
+          "id": "B",
+          "text": "G",
+          "html": "<p>G</p>"
+        },
+        {
+          "id": "C",
+          "text": "H",
+          "html": "<p>H</p>"
+        },
+        {
+          "id": "D",
+          "text": "J",
+          "html": "<p>J</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>A(1), C(3), E(5), ?, I(9).</p><p>The pattern increases by +2 each time.</p><p>5 + 2 = 7 = G.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q12",
+      "number": 12,
+      "question": "In a certain code, PLANE is written as QMBOF. How is TRAIN written in that code?",
+      "questionHtml": "<p>In a certain code, PLANE is written as QMBOF. How is TRAIN written in that code?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "USBJO",
+          "html": "<p>USBJO</p>"
+        },
+        {
+          "id": "B",
+          "text": "USQJO",
+          "html": "<p>USQJO</p>"
+        },
+        {
+          "id": "C",
+          "text": "USBOJ",
+          "html": "<p>USBOJ</p>"
+        },
+        {
+          "id": "D",
+          "text": "URBJO",
+          "html": "<p>URBJO</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Each letter moves +1: P→Q, L→M, A→B, N→O, E→F.</p><p>Apply +1 to TRAIN: T→U, R→S, A→B, I→J, N→O.</p><p>TRAIN → USBJO.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q13",
+      "number": 13,
+      "question": "Find the odd one out from the given alternatives",
+      "questionHtml": "<p>Find the odd one out from the given alternatives</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Classical Languages",
+          "html": "<p>Classical Languages</p>"
+        },
+        {
+          "id": "B",
+          "text": "Tamil",
+          "html": "<p>Tamil</p>"
+        },
+        {
+          "id": "C",
+          "text": "Sanskrit",
+          "html": "<p>Sanskrit</p>"
+        },
+        {
+          "id": "D",
+          "text": "Kannada",
+          "html": "<p>Kannada</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Tamil, Sanskrit and Kannada are individual classical languages.</p><p>'Classical Languages' is the broad category that includes the others.</p><p>So 'Classical Languages' is the odd one out.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q14",
+      "number": 14,
+      "question": "What comes next: ZY, XW, VU, TS, ?",
+      "questionHtml": "<p>What comes next: ZY, XW, VU, TS, ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "RQ",
+          "html": "<p>RQ</p>"
+        },
+        {
+          "id": "B",
+          "text": "PQ",
+          "html": "<p>PQ</p>"
+        },
+        {
+          "id": "C",
+          "text": "PR",
+          "html": "<p>PR</p>"
+        },
+        {
+          "id": "D",
+          "text": "QP",
+          "html": "<p>QP</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Each pair drops by 2 letters: ZY → XW → VU → TS.</p><p>Next pair: R(18), Q(17).</p><p>So the answer is RQ.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q15",
+      "number": 15,
+      "question": "The sum of three consecutive even numbers is 72. What is the largest of these three numbers?",
+      "questionHtml": "<p>The sum of three consecutive even numbers is 72. What is the largest of these three numbers?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "22",
+          "html": "<p>22</p>"
+        },
+        {
+          "id": "B",
+          "text": "24",
+          "html": "<p>24</p>"
+        },
+        {
+          "id": "C",
+          "text": "26",
+          "html": "<p>26</p>"
+        },
+        {
+          "id": "D",
+          "text": "28",
+          "html": "<p>28</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let the numbers be x, x+2, x+4.</p><p>x + (x+2) + (x+4) = 72</p><p>3x + 6 = 72, so 3x = 66, x = 22.</p><p>Numbers: 22, 24, 26. Largest = 26.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q16",
+      "number": 16,
+      "question": "Eligibility Criteria: Should have passed 12th with minimum 60% marks. 40 WPM typing speed is a must. Should have completed certificate course in Typing or Data Entry. Age should be between 18 to 28 years only. Case: Raj has passed 12th with 65%, possesses a 38 WPM typing speed, and is a certified Data Entry professional. He is 24 years old.",
+      "questionHtml": "<p>Eligibility Criteria:</p><p>Should have passed 12th with minimum 60% marks.</p><p>40 WPM typing speed is a must.</p><p>Should have completed certificate course in Typing or Data Entry.</p><p>Age should be between 18 to 28 years only.</p><p>Case: Raj has passed 12th with 65%, possesses a 38 WPM typing speed, and is a certified Data Entry professional. He is 24 years old.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eligible",
+          "html": "<p>Eligible</p>"
+        },
+        {
+          "id": "B",
+          "text": "Not eligible due to age",
+          "html": "<p>Not eligible due to age</p>"
+        },
+        {
+          "id": "C",
+          "text": "Not eligible due to typing speed",
+          "html": "<p>Not eligible due to typing speed</p>"
+        },
+        {
+          "id": "D",
+          "text": "Not eligible due to missing certification",
+          "html": "<p>Not eligible due to missing certification</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Marks: 65% ≥ 60% — satisfied.</p><p>Typing speed: 38 WPM &lt; 40 WPM — not satisfied.</p><p>Certification: certified Data Entry professional — satisfied.</p><p>Age: 24 years, within 18–28 — satisfied.</p><p>Only the typing-speed criterion fails, so Raj is not eligible due to typing speed.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q17",
+      "number": 17,
+      "question": "If 'P' denotes '+', 'Q' denotes '×', 'R' denotes '−', and 'S' denotes '÷', what is the value of the following expression? 6 Q 2 P 4 R 3 S 1 = ?",
+      "questionHtml": "<p>If 'P' denotes '+', 'Q' denotes '×', 'R' denotes '−', and 'S' denotes '÷',</p><p>what is the value of the following expression?</p><p>6 Q 2 P 4 R 3 S 1 = ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "16",
+          "html": "<p>16</p>"
+        },
+        {
+          "id": "B",
+          "text": "13",
+          "html": "<p>13</p>"
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "html": "<p>12</p>"
+        },
+        {
+          "id": "D",
+          "text": "10",
+          "html": "<p>10</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Replace symbols: 6 × 2 + 4 − 3 ÷ 1.</p><p>Apply BODMAS: 6 × 2 = 12 and 3 ÷ 1 = 3.</p><p>12 + 4 − 3 = 13.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q18",
+      "number": 18,
+      "question": "If the signs are interchanged as follows: '+' means '×' '−' means '÷' '×' means '+' '÷' means '−' Choose the correct equation from the options below.",
+      "questionHtml": "<p>If the signs are interchanged as follows:</p><p>'+' means '×'</p><p>'−' means '÷'</p><p>'×' means '+'</p><p>'÷' means '−'</p><p>Choose the correct equation from the options below.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "8×4÷5=7",
+          "html": "<p>8×4÷5=7</p>"
+        },
+        {
+          "id": "B",
+          "text": "12+3−6=10",
+          "html": "<p>12+3−6=10</p>"
+        },
+        {
+          "id": "C",
+          "text": "18÷6+3=5",
+          "html": "<p>18÷6+3=5</p>"
+        },
+        {
+          "id": "D",
+          "text": "7−2+3=12",
+          "html": "<p>7−2+3=12</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Apply the new meanings: ×→+, ÷→−, +→×, −→÷.</p><p>Option 1: 8×4÷5 → 8+4−5 = 7. Correct (LHS = RHS).</p><p>Option 2: 12+3−6 → 12×3÷6 = 6 ≠ 10.</p><p>Option 3: 18÷6+3 → 18−6×3 = 0 ≠ 5.</p><p>Option 4: 7−2+3 → 7÷2×3 = 10.5 ≠ 12.</p><p>Only option 1 holds true.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q19",
+      "number": 19,
+      "question": "A patient with a contagious disease is admitted. What is your first step?",
+      "questionHtml": "<p>A patient with a contagious disease is admitted. What is your first step?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Isolate the patient and inform the doctor",
+          "html": "<p>Isolate the patient and inform the doctor</p>"
+        },
+        {
+          "id": "B",
+          "text": "Ask them to wait",
+          "html": "<p>Ask them to wait</p>"
+        },
+        {
+          "id": "C",
+          "text": "Inform the media",
+          "html": "<p>Inform the media</p>"
+        },
+        {
+          "id": "D",
+          "text": "Discharge them immediately",
+          "html": "<p>Discharge them immediately</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>A contagious disease can spread to others, so the priority is to contain it.</p><p>Isolating the patient stops the spread, and informing the doctor ensures proper treatment.</p><p>The other options either delay care or are irrelevant/harmful.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q20",
+      "number": 20,
+      "question": "Given below is an equation which has to be solved by following the interchange i.e., + becomes − and − becomes + × becomes ÷ and ÷ becomes × Then what is the value of 100 ÷ 5 + 20 − 10 × 2 = ?",
+      "questionHtml": "<p>Given below is an equation which has to be solved by following the interchange i.e.,</p><p>+ becomes − and − becomes +</p><p>× becomes ÷ and ÷ becomes ×</p><p>Then what is the value of</p><p>100 ÷ 5 + 20 − 10 × 2 = ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "534",
+          "html": "<p>534</p>"
+        },
+        {
+          "id": "B",
+          "text": "330",
+          "html": "<p>330</p>"
+        },
+        {
+          "id": "C",
+          "text": "22",
+          "html": "<p>22</p>"
+        },
+        {
+          "id": "D",
+          "text": "485",
+          "html": "<p>485</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Apply interchange: ÷→×, +→−, −→+, ×→÷.</p><p>Expression becomes 100 × 5 − 20 + 10 ÷ 2.</p><p>100 × 5 = 500 and 10 ÷ 2 = 5.</p><p>500 − 20 + 5 = 485.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q21",
+      "number": 21,
+      "question": "What should come at the place of question mark? 100, 97, 91, 82, ?, 55",
+      "questionHtml": "<p>What should come at the place of question mark?</p><p>100, 97, 91, 82, ?, 55</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "68",
+          "html": "<p>68</p>"
+        },
+        {
+          "id": "B",
+          "text": "70",
+          "html": "<p>70</p>"
+        },
+        {
+          "id": "C",
+          "text": "64",
+          "html": "<p>64</p>"
+        },
+        {
+          "id": "D",
+          "text": "60",
+          "html": "<p>60</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Differences are -3, -6, -9, -12, -15.</p><p>100−3=97, 97−6=91, 91−9=82, 82−12=70, 70−15=55.</p><p>So the missing term is 70.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q22",
+      "number": 22,
+      "question": "Statements: All dogs are cats. Some cats are rats. Conclusions: I. Some rats are dogs. II. All dogs are rats.",
+      "questionHtml": "<p>Statements: All dogs are cats. Some cats are rats.</p><p>Conclusions:</p><p>I. Some rats are dogs.</p><p>II. All dogs are rats.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neither I nor II follows",
+          "html": "<p>Neither I nor II follows</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only Conclusion II follows",
+          "html": "<p>Only Conclusion II follows</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both I and II follow",
+          "html": "<p>Both I and II follow</p>"
+        },
+        {
+          "id": "D",
+          "text": "Only Conclusion I follows",
+          "html": "<p>Only Conclusion I follows</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780464437162_image002.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q23",
+      "number": 23,
+      "question": "If 'CAT' is coded as '3-1-20', how will 'TAC' be coded?",
+      "questionHtml": "<p>If 'CAT' is coded as '3-1-20', how will 'TAC' be coded?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20-1-3",
+          "html": "<p>20-1-3</p>"
+        },
+        {
+          "id": "B",
+          "text": "3-20-1",
+          "html": "<p>3-20-1</p>"
+        },
+        {
+          "id": "C",
+          "text": "1-3-20",
+          "html": "<p>1-3-20</p>"
+        },
+        {
+          "id": "D",
+          "text": "20-3-1",
+          "html": "<p>20-3-1</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Each letter is replaced by its position: C=3, A=1, T=20.</p><p>For TAC: T=20, A=1, C=3.</p><p>So TAC = 20-1-3.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q24",
+      "number": 24,
+      "question": "If GARDEN is coded as FZQCDM, how is FZQCDM coded?",
+      "questionHtml": "<p>If GARDEN is coded as FZQCDM, how is FZQCDM coded?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "EYPCBJ",
+          "html": "<p>EYPCBJ</p>"
+        },
+        {
+          "id": "B",
+          "text": "EYPBCL",
+          "html": "<p>EYPBCL</p>"
+        },
+        {
+          "id": "C",
+          "text": "EYPCBL",
+          "html": "<p>EYPCBL</p>"
+        },
+        {
+          "id": "D",
+          "text": "FZQCDN",
+          "html": "<p>FZQCDN</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>GARDEN → FZQCDM: every letter shifts by −1 (G→F, A→Z, R→Q, D→C, E→D, N→M).</p><p>Apply the same −1 shift to FZQCDM: F→E, Z→Y, Q→P, C→B, D→C, M→L.</p><p>Result: EYPBCL.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q25",
+      "number": 25,
+      "question": "The series given below contains a sequence of numbers. Accordingly identify the incorrect combination. 4, 9, 12, 12, 36, 16, 108, 18, 323, 21",
+      "questionHtml": "<p>The series given below contains a sequence of numbers. Accordingly identify the incorrect combination.</p><p>4, 9, 12, 12, 36, 16, 108, 18, 323, 21</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "18, 323",
+          "html": "<p>18, 323</p>"
+        },
+        {
+          "id": "B",
+          "text": "36, 16",
+          "html": "<p>36, 16</p>"
+        },
+        {
+          "id": "C",
+          "text": "16, 323",
+          "html": "<p>16, 323</p>"
+        },
+        {
+          "id": "D",
+          "text": "36, 108",
+          "html": "<p>36, 108</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Take the alternate (odd-position) terms: 4, 12, 36, 108, 323.</p><p>Each term should be multiplied by 3: 4×3=12, 12×3=36, 36×3=108, 108×3=324.</p><p>The series shows 323 instead of 324, so 323 is the incorrect value.</p><p>Hence the combination containing 323 (i.e. 16, 323) is the incorrect one.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q26",
+      "number": 26,
+      "question": "India's first interplanetary mission is:",
+      "questionHtml": "<p>India's first interplanetary mission is:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chandrayaan-1",
+          "html": "<p>Chandrayaan-1</p>"
+        },
+        {
+          "id": "B",
+          "text": "Gaganyaan",
+          "html": "<p>Gaganyaan</p>"
+        },
+        {
+          "id": "C",
+          "text": "Aditya-L1",
+          "html": "<p>Aditya-L1</p>"
+        },
+        {
+          "id": "D",
+          "text": "Mangalyaan (Mars Orbiter Mission)",
+          "html": "<p>Mangalyaan (Mars Orbiter Mission)</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Mangalyaan (Mars Orbiter Mission), launched in 2013, was India's first mission to another planet (Mars).</p><p>Chandrayaan-1 was a lunar mission (Moon, not another planet).</p><p>Gaganyaan is a planned human spaceflight mission.</p><p>Aditya-L1 is a solar observation mission.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q27",
+      "number": 27,
+      "question": "Which BRICS country has the longest coastline?",
+      "questionHtml": "<p>Which BRICS country has the longest coastline?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Russia",
+          "html": "<p>Russia</p>"
+        },
+        {
+          "id": "B",
+          "text": "Brazil",
+          "html": "<p>Brazil</p>"
+        },
+        {
+          "id": "C",
+          "text": "China",
+          "html": "<p>China</p>"
+        },
+        {
+          "id": "D",
+          "text": "South Africa",
+          "html": "<p>South Africa</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Russia has the longest coastline among BRICS nations (and one of the longest in the world).</p><p>Brazil, China and South Africa have much shorter coastlines.</p><p>Hence the answer is Russia.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q28",
+      "number": 28,
+      "question": "Which Indian martial art involves the use of a flexible sword called 'Urumi'?",
+      "questionHtml": "<p>Which Indian martial art involves the use of a flexible sword called 'Urumi'?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Silambam",
+          "html": "<p>Silambam</p>"
+        },
+        {
+          "id": "B",
+          "text": "Kalaripayattu",
+          "html": "<p>Kalaripayattu</p>"
+        },
+        {
+          "id": "C",
+          "text": "Gatka",
+          "html": "<p>Gatka</p>"
+        },
+        {
+          "id": "D",
+          "text": "Thang-Ta",
+          "html": "<p>Thang-Ta</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Kalaripayattu, from Kerala, uses the flexible whip-like sword called 'Urumi'.</p><p>Silambam (Tamil Nadu) is a stick-based art.</p><p>Gatka (Punjab) is a Sikh sword art; Thang-Ta is from Manipur.</p><p>Hence the answer is Kalaripayattu.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q29",
+      "number": 29,
+      "question": "In which city did India win its first-ever Test series against England in 1952?",
+      "questionHtml": "<p>In which city did India win its first-ever Test series against England in 1952?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chennai",
+          "html": "<p>Chennai</p>"
+        },
+        {
+          "id": "B",
+          "text": "Mumbai",
+          "html": "<p>Mumbai</p>"
+        },
+        {
+          "id": "C",
+          "text": "New Delhi",
+          "html": "<p>New Delhi</p>"
+        },
+        {
+          "id": "D",
+          "text": "Kolkata",
+          "html": "<p>Kolkata</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>India recorded its first Test victory against England at Madras (Chennai) in February 1952.</p><p>The other cities are not associated with this maiden win.</p><p>Hence the answer is Chennai.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q30",
+      "number": 30,
+      "question": "Which tribal community celebrates the 'Wangala' festival?",
+      "questionHtml": "<p>Which tribal community celebrates the 'Wangala' festival?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bodo",
+          "html": "<p>Bodo</p>"
+        },
+        {
+          "id": "B",
+          "text": "Santhal",
+          "html": "<p>Santhal</p>"
+        },
+        {
+          "id": "C",
+          "text": "Mizo",
+          "html": "<p>Mizo</p>"
+        },
+        {
+          "id": "D",
+          "text": "Garo",
+          "html": "<p>Garo</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The Wangala (post-harvest 'Hundred Drums') festival is celebrated by the Garo tribe of Meghalaya.</p><p>Bodo, Santhal and Mizo communities have their own distinct festivals.</p><p>Hence the answer is Garo.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q31",
+      "number": 31,
+      "question": "The Bharatiya Sakshya Adhiniyam, 2023 has been enacted to replace which previous law?",
+      "questionHtml": "<p>The Bharatiya Sakshya Adhiniyam, 2023 has been enacted to replace which previous law?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indian Penal Code",
+          "html": "<p>Indian Penal Code</p>"
+        },
+        {
+          "id": "B",
+          "text": "Contract Act, 1872",
+          "html": "<p>Contract Act, 1872</p>"
+        },
+        {
+          "id": "C",
+          "text": "Consumer Protection Act",
+          "html": "<p>Consumer Protection Act</p>"
+        },
+        {
+          "id": "D",
+          "text": "Indian Evidence Act, 1872",
+          "html": "<p>Indian Evidence Act, 1872</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The Bharatiya Sakshya Adhiniyam, 2023 replaces the Indian Evidence Act, 1872.</p><p>The Indian Penal Code was replaced by the Bharatiya Nyaya Sanhita.</p><p>The Contract Act and Consumer Protection Act are unrelated to this reform.</p><p>Hence the answer is Indian Evidence Act, 1872.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q32",
+      "number": 32,
+      "question": "Who was appointed as the Chief Justice of the High Court of Jammu and Kashmir and Ladakh in April 2025?",
+      "questionHtml": "<p>Who was appointed as the Chief Justice of the High Court of Jammu and Kashmir and Ladakh in April 2025?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Justice Hima Kohli",
+          "html": "<p>Justice Hima Kohli</p>"
+        },
+        {
+          "id": "B",
+          "text": "Justice Dinesh Maheshwari",
+          "html": "<p>Justice Dinesh Maheshwari</p>"
+        },
+        {
+          "id": "C",
+          "text": "Justice Arun Palli",
+          "html": "<p>Justice Arun Palli</p>"
+        },
+        {
+          "id": "D",
+          "text": "Justice Joymalya Bagchi",
+          "html": "<p>Justice Joymalya Bagchi</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Justice Arun Palli was appointed Chief Justice of the High Court of Jammu &amp; Kashmir and Ladakh in April 2025.</p><p>The other named judges held different positions.</p><p>Hence the answer is Justice Arun Palli.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q33",
+      "number": 33,
+      "question": "In India, the Shola ecosystem is characterised by: 1. Arid and semi-arid climate zones 2. Growth of trees in the depressions and folds of valleys surrounded by extensive areas of grasslands 3. Dominance of conifers in areas of dense vegetation Which one of the above statements is/are CORRECT?",
+      "questionHtml": "<p>In India, the Shola ecosystem is characterised by:</p><p>1. Arid and semi-arid climate zones</p><p>2. Growth of trees in the depressions and folds of valleys surrounded by extensive areas of grasslands</p><p>3. Dominance of conifers in areas of dense vegetation</p><p>Which one of the above statements is/are CORRECT?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 only",
+          "html": "<p>2 only</p>"
+        },
+        {
+          "id": "B",
+          "text": "1 and 3 only",
+          "html": "<p>1 and 3 only</p>"
+        },
+        {
+          "id": "C",
+          "text": "1 only",
+          "html": "<p>1 only</p>"
+        },
+        {
+          "id": "D",
+          "text": "All of these",
+          "html": "<p>All of these</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Shola forests are patches of stunted evergreen trees in valley folds, surrounded by rolling grasslands (Western Ghats).</p><p>Statement 2 correctly describes this; statement 1 (arid/semi-arid) is wrong as Sholas occur in high-rainfall hills.</p><p>Statement 3 (dominance of conifers) is wrong; Sholas are broadleaved evergreen, not coniferous.</p><p>Hence only statement 2 is correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q34",
+      "number": 34,
+      "question": "Approximately how many water bodies originally existed in Chittorgarh Fort?",
+      "questionHtml": "<p>Approximately how many water bodies originally existed in Chittorgarh Fort?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "22",
+          "html": "<p>22</p>"
+        },
+        {
+          "id": "B",
+          "text": "50",
+          "html": "<p>50</p>"
+        },
+        {
+          "id": "C",
+          "text": "84",
+          "html": "<p>84</p>"
+        },
+        {
+          "id": "D",
+          "text": "100",
+          "html": "<p>100</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Chittorgarh Fort originally had about 84 water bodies (tanks, wells and step-wells).</p><p>The other figures do not match the historical record.</p><p>Hence the answer is 84.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q35",
+      "number": 35,
+      "question": "The Rigveda is divided into how many Mandalas?",
+      "questionHtml": "<p>The Rigveda is divided into how many Mandalas?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "<p>5</p>"
+        },
+        {
+          "id": "B",
+          "text": "7",
+          "html": "<p>7</p>"
+        },
+        {
+          "id": "C",
+          "text": "10",
+          "html": "<p>10</p>"
+        },
+        {
+          "id": "D",
+          "text": "12",
+          "html": "<p>12</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The Rigveda is divided into 10 Mandalas (books).</p><p>The other figures are incorrect.</p><p>Hence the answer is 10.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q36",
+      "number": 36,
+      "question": "What does the term 'Ur' refer to in the context of early South Indian villages?",
+      "questionHtml": "<p>What does the term 'Ur' refer to in the context of early South Indian villages?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A tax official in the Chola kingdom",
+          "html": "<p>A tax official in the Chola kingdom</p>"
+        },
+        {
+          "id": "B",
+          "text": "A temple priest",
+          "html": "<p>A temple priest</p>"
+        },
+        {
+          "id": "C",
+          "text": "A village assembly or council",
+          "html": "<p>A village assembly or council</p>"
+        },
+        {
+          "id": "D",
+          "text": "A military commander",
+          "html": "<p>A military commander</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>'Ur' was the assembly of non-Brahmin landholding villagers in early South Indian (including Chola) villages.</p><p>It was a local self-governing council, not an official, priest or commander.</p><p>Hence the answer is a village assembly or council.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q37",
+      "number": 37,
+      "question": "Under which Act was a Law Commission first established in India to codify and consolidate Indian laws?",
+      "questionHtml": "<p>Under which Act was a Law Commission first established in India to codify and consolidate Indian laws?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Government of India Act, 1858",
+          "html": "<p>Government of India Act, 1858</p>"
+        },
+        {
+          "id": "B",
+          "text": "Indian Councils Act, 1861",
+          "html": "<p>Indian Councils Act, 1861</p>"
+        },
+        {
+          "id": "C",
+          "text": "Regulating Act, 1773",
+          "html": "<p>Regulating Act, 1773</p>"
+        },
+        {
+          "id": "D",
+          "text": "Charter Act, 1833",
+          "html": "<p>Charter Act, 1833</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The Charter Act of 1833 established the first Law Commission in India (chaired by Lord Macaulay).</p><p>The Government of India Act 1858 transferred power to the Crown; the Indian Councils Act 1861 dealt with legislative councils; the Regulating Act 1773 set up early company governance.</p><p>Hence the answer is the Charter Act, 1833.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q38",
+      "number": 38,
+      "question": "Fill in the blanks: India made its Olympic debut in _______ at the 2016 Games, marking the return of the sport to the Olympics after more than a century.",
+      "questionHtml": "<p>Fill in the blanks:</p><p>India made its Olympic debut in _______ at the 2016 Games, marking the return of the sport to the Olympics after more than a century.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Swimming",
+          "html": "<p>Swimming</p>"
+        },
+        {
+          "id": "B",
+          "text": "Rugby",
+          "html": "<p>Rugby</p>"
+        },
+        {
+          "id": "C",
+          "text": "Polo",
+          "html": "<p>Polo</p>"
+        },
+        {
+          "id": "D",
+          "text": "Golf",
+          "html": "<p>Golf</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Golf returned to the Olympic programme at Rio 2016 after an absence of over 100 years (last held in 1904).</p><p>India fielded golfers, making its Olympic golf debut.</p><p>Swimming, rugby and polo do not fit this 'return after a century' clue.</p><p>Hence the answer is Golf.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q39",
+      "number": 39,
+      "question": "Consider the following statements about the book 'The Absolutely True Diary of a Part-Time Indian': 1) It received the Pulitzer Prize for Fiction due to its unique narrative style and significant influence on American historical literature. 2) The novel won the National Book Award for its deep portrayal of Native American identity and youth struggles. Which of the above statements is/are correct?",
+      "questionHtml": "<p>Consider the following statements about the book 'The Absolutely True Diary of a Part-Time Indian':</p><p>1) It received the Pulitzer Prize for Fiction due to its unique narrative style and significant influence on American historical literature.</p><p>2) The novel won the National Book Award for its deep portrayal of Native American identity and youth struggles.</p><p>Which of the above statements is/are correct?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only statement 1 is correct",
+          "html": "<p>Only statement 1 is correct</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only statement 2 is correct",
+          "html": "<p>Only statement 2 is correct</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both statements 1 and 2 are correct",
+          "html": "<p>Both statements 1 and 2 are correct</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither statement 1 nor 2 is correct",
+          "html": "<p>Neither statement 1 nor 2 is correct</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The book by Sherman Alexie won the National Book Award for Young People's Literature (2007), so statement 2 is correct.</p><p>It did not win the Pulitzer Prize for Fiction, so statement 1 is incorrect.</p><p>Hence only statement 2 is correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q40",
+      "number": 40,
+      "question": "The Finance Commission is established under which Article of the Indian Constitution?",
+      "questionHtml": "<p>The Finance Commission is established under which Article of the Indian Constitution?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "280",
+          "html": "<p>280</p>"
+        },
+        {
+          "id": "B",
+          "text": "268",
+          "html": "<p>268</p>"
+        },
+        {
+          "id": "C",
+          "text": "246",
+          "html": "<p>246</p>"
+        },
+        {
+          "id": "D",
+          "text": "365",
+          "html": "<p>365</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The Finance Commission is constituted under Article 280 of the Constitution.</p><p>Article 268 deals with duties levied by the Union but collected by States; Article 246 covers distribution of legislative powers; Article 365 relates to failure to comply with Union directions.</p><p>Hence the answer is Article 280.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q41",
+      "number": 41,
+      "question": "As we move to higher energy levels (larger 'n' values) in the Bohr model of a hydrogen atom, the energy difference between successive levels:",
+      "questionHtml": "<p>As we move to higher energy levels (larger 'n' values) in the Bohr model of a hydrogen atom, the energy difference between successive levels:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increases continuously",
+          "html": "<p>Increases continuously</p>"
+        },
+        {
+          "id": "B",
+          "text": "Decreases continuously",
+          "html": "<p>Decreases continuously</p>"
+        },
+        {
+          "id": "C",
+          "text": "Remains constant",
+          "html": "<p>Remains constant</p>"
+        },
+        {
+          "id": "D",
+          "text": "First increases, then decreases",
+          "html": "<p>First increases, then decreases</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Energy levels in hydrogen are given by E ∝ −1/n².</p><p>As n increases, the levels crowd closer together.</p><p>So the gap between successive levels decreases continuously.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q42",
+      "number": 42,
+      "question": "The National Beekeeping and Honey Mission is implemented under the purview of which Union Ministry?",
+      "questionHtml": "<p>The National Beekeeping and Honey Mission is implemented under the purview of which Union Ministry?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ministry of Finance",
+          "html": "<p>Ministry of Finance</p>"
+        },
+        {
+          "id": "B",
+          "text": "Ministry of Rural Development",
+          "html": "<p>Ministry of Rural Development</p>"
+        },
+        {
+          "id": "C",
+          "text": "Ministry of Agriculture & Farmers Welfare",
+          "html": "<p>Ministry of Agriculture &amp; Farmers Welfare</p>"
+        },
+        {
+          "id": "D",
+          "text": "Ministry of Health and Family Welfare",
+          "html": "<p>Ministry of Health and Family Welfare</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The National Beekeeping and Honey Mission (NBHM) is implemented by the Ministry of Agriculture &amp; Farmers Welfare.</p><p>It promotes scientific beekeeping and 'Sweet Revolution'.</p><p>Hence the answer is the Ministry of Agriculture &amp; Farmers Welfare.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q43",
+      "number": 43,
+      "question": "According to the Global Gender Gap Report 2025, which region currently leads in closing its overall gender gap?",
+      "questionHtml": "<p>According to the Global Gender Gap Report 2025, which region currently leads in closing its overall gender gap?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "North American Economies",
+          "html": "<p>North American Economies</p>"
+        },
+        {
+          "id": "B",
+          "text": "European Union Nations",
+          "html": "<p>European Union Nations</p>"
+        },
+        {
+          "id": "C",
+          "text": "East Asian Countries",
+          "html": "<p>East Asian Countries</p>"
+        },
+        {
+          "id": "D",
+          "text": "Latin American Regions",
+          "html": "<p>Latin American Regions</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>As per the Global Gender Gap Report 2025 (answer key), North American Economies lead in closing the overall gender gap.</p><p>The remaining regions are ranked lower in the same report.</p><p>Hence the answer is North American Economies.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q44",
+      "number": 44,
+      "question": "Which of the following is usually excluded when measuring a country's Gross Domestic Product (GDP)?",
+      "questionHtml": "<p>Which of the following is usually excluded when measuring a country's Gross Domestic Product (GDP)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Consumer spending on final goods and services.",
+          "html": "<p>Consumer spending on final goods and services.</p>"
+        },
+        {
+          "id": "B",
+          "text": "Government expenditure on public services.",
+          "html": "<p>Government expenditure on public services.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The value of intermediate goods used in production.",
+          "html": "<p>The value of intermediate goods used in production.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Net exports (Exports - Imports).",
+          "html": "<p>Net exports (Exports - Imports).</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>GDP counts only the value of final goods and services to avoid double counting.</p><p>The value of intermediate goods is excluded because it is already embedded in the price of final goods.</p><p>Consumption, government spending and net exports are all included components of GDP.</p><p>Hence the answer is the value of intermediate goods.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q45",
+      "number": 45,
+      "question": "Arrange the performance segments of Paika Nritya: 1. Blowing the war conch (shankha) 2. Shield-sword sparring drills 3. Acrobatic somersaults 4. Group victory shout of 'Jai Jagannath'",
+      "questionHtml": "<p>Arrange the performance segments of Paika Nritya:</p><p>1. Blowing the war conch (shankha)</p><p>2. Shield-sword sparring drills</p><p>3. Acrobatic somersaults</p><p>4. Group victory shout of 'Jai Jagannath'</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1-2-3-4",
+          "html": "<p>1-2-3-4</p>"
+        },
+        {
+          "id": "B",
+          "text": "2-1-3-4",
+          "html": "<p>2-1-3-4</p>"
+        },
+        {
+          "id": "C",
+          "text": "1-3-2-4",
+          "html": "<p>1-3-2-4</p>"
+        },
+        {
+          "id": "D",
+          "text": "3-2-1-4",
+          "html": "<p>3-2-1-4</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>A war dance opens with the call to battle — blowing the conch (1).</p><p>This is followed by combat-style shield-sword drills (2).</p><p>Then come the acrobatic somersaults (3).</p><p>It ends with the group victory shout 'Jai Jagannath' (4).</p><p>Correct order: 1-2-3-4.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q46",
+      "number": 46,
+      "question": "Who is credited with hoisting the first version of the Indian flag at the International Socialist Congress in Stuttgart, Germany, in 1907?",
+      "questionHtml": "<p>Who is credited with hoisting the first version of the Indian flag at the International Socialist Congress in Stuttgart, Germany, in 1907?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aruna Asaf Ali",
+          "html": "<p>Aruna Asaf Ali</p>"
+        },
+        {
+          "id": "B",
+          "text": "Kamaladevi Chattopadhyay",
+          "html": "<p>Kamaladevi Chattopadhyay</p>"
+        },
+        {
+          "id": "C",
+          "text": "Bhikaji Cama",
+          "html": "<p>Bhikaji Cama</p>"
+        },
+        {
+          "id": "D",
+          "text": "Sarojini Naidu",
+          "html": "<p>Sarojini Naidu</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Madame Bhikaji Cama hoisted an early version of the Indian flag at Stuttgart, Germany, in 1907.</p><p>Aruna Asaf Ali, Kamaladevi Chattopadhyay and Sarojini Naidu are not associated with this event.</p><p>Hence the answer is Bhikaji Cama.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q47",
+      "number": 47,
+      "question": "What initiative in Visakhapatnam aims to provide an inclusive space for differently abled children?",
+      "questionHtml": "<p>What initiative in Visakhapatnam aims to provide an inclusive space for differently abled children?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Smart School Initiative",
+          "html": "<p>Smart School Initiative</p>"
+        },
+        {
+          "id": "B",
+          "text": "Solar Post Light Project",
+          "html": "<p>Solar Post Light Project</p>"
+        },
+        {
+          "id": "C",
+          "text": "All-Abilities Park",
+          "html": "<p>All-Abilities Park</p>"
+        },
+        {
+          "id": "D",
+          "text": "Green Mobility Project",
+          "html": "<p>Green Mobility Project</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The 'All-Abilities Park' in Visakhapatnam is designed as an inclusive space for differently abled children.</p><p>The other listed projects are unrelated to inclusive play spaces.</p><p>Hence the answer is the All-Abilities Park.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q48",
+      "number": 48,
+      "question": "Which of the following statements best describes Kiran Mazumdar-Shaw's achievement?",
+      "questionHtml": "<p>Which of the following statements best describes Kiran Mazumdar-Shaw's achievement?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "She founded Infosys Biotech in 1981.",
+          "html": "<p>She founded Infosys Biotech in 1981.</p>"
+        },
+        {
+          "id": "B",
+          "text": "She is India's first woman to head a top biotech company.",
+          "html": "<p>She is India's first woman to head a top biotech company.</p>"
+        },
+        {
+          "id": "C",
+          "text": "She was honored for developing India's COVID vaccine.",
+          "html": "<p>She was honored for developing India's COVID vaccine.</p>"
+        },
+        {
+          "id": "D",
+          "text": "She launched India's first nanotechnology research hub.",
+          "html": "<p>She launched India's first nanotechnology research hub.</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Kiran Mazumdar-Shaw is best known as the founder and head of Biocon, becoming India's first woman to lead a top biotechnology company.</p><p>She founded Biocon (not 'Infosys Biotech'), so option 1 is wrong.</p><p>She is not credited with developing the COVID vaccine or launching a nanotechnology hub.</p><p>Hence option 2 is the best description.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q49",
+      "number": 49,
+      "question": "Which statement best reflects the failure of structural transformation in Indian agriculture between 1950-1990?",
+      "questionHtml": "<p>Which statement best reflects the failure of structural transformation in Indian agriculture between 1950-1990?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agricultural GDP doubled",
+          "html": "<p>Agricultural GDP doubled</p>"
+        },
+        {
+          "id": "B",
+          "text": "Agricultural workforce declined rapidly",
+          "html": "<p>Agricultural workforce declined rapidly</p>"
+        },
+        {
+          "id": "C",
+          "text": "Industrial sector absorbed excess labour",
+          "html": "<p>Industrial sector absorbed excess labour</p>"
+        },
+        {
+          "id": "D",
+          "text": "65% of population remained in agriculture",
+          "html": "<p>65% of population remained in agriculture</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Structural transformation means a shift of workforce from agriculture to industry/services.</p><p>Its failure is shown by the fact that even by 1990 around 65% of the population still depended on agriculture.</p><p>The other options describe success or did not happen.</p><p>Hence the answer is '65% of population remained in agriculture'.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q50",
+      "number": 50,
+      "question": "Consider the following statements: 1. Inter-State Council was established in 1990 on the recommendation of Sarkaria Commission. 2. It is a constitutional body under Article 263. 3. It has powers to enforce compliance among States. Which of the above is/are correct?",
+      "questionHtml": "<p>Consider the following statements:</p><p>1. Inter-State Council was established in 1990 on the recommendation of Sarkaria Commission.</p><p>2. It is a constitutional body under Article 263.</p><p>3. It has powers to enforce compliance among States.</p><p>Which of the above is/are correct?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 and 2 only",
+          "html": "<p>1 and 2 only</p>"
+        },
+        {
+          "id": "B",
+          "text": "2 and 3 only",
+          "html": "<p>2 and 3 only</p>"
+        },
+        {
+          "id": "C",
+          "text": "1 and 3 only",
+          "html": "<p>1 and 3 only</p>"
+        },
+        {
+          "id": "D",
+          "text": "1, 2 and 3",
+          "html": "<p>1, 2 and 3</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Statement 1: correct — the Inter-State Council was set up in 1990 on the Sarkaria Commission's recommendation.</p><p>Statement 2: correct — it is established under Article 263 of the Constitution.</p><p>Statement 3: incorrect — it is a recommendatory body and cannot enforce compliance.</p><p>Hence only 1 and 2 are correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q51",
+      "number": 51,
+      "question": "A sum of money becomes three times itself in 3 years at compound interest. What is the rate of interest?",
+      "questionHtml": "<p>A sum of money becomes three times itself in 3 years at compound interest.</p><p>What is the rate of interest?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "44.2%",
+          "html": "<p>44.2%</p>"
+        },
+        {
+          "id": "B",
+          "text": "33.3%",
+          "html": "<p>33.3%</p>"
+        },
+        {
+          "id": "C",
+          "text": "100%",
+          "html": "<p>100%</p>"
+        },
+        {
+          "id": "D",
+          "text": "88%",
+          "html": "<p>88%</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780464437162_image003.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q52",
+      "number": 52,
+      "question": "Which of the following numbers has a terminating decimal representation?",
+      "questionHtml": "<p>Which of the following numbers has a terminating decimal representation?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3/8",
+          "html": "<p>3/8</p>"
+        },
+        {
+          "id": "B",
+          "text": "1/6",
+          "html": "<p>1/6</p>"
+        },
+        {
+          "id": "C",
+          "text": "2/7",
+          "html": "<p>2/7</p>"
+        },
+        {
+          "id": "D",
+          "text": "4/9",
+          "html": "<p>4/9</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>A fraction terminates only if its denominator (in lowest terms) has prime factors 2 and/or 5 only.</p><p>3/8: denominator 8 = 2³, so it terminates (= 0.375).</p><p>1/6 has factor 3, 2/7 has factor 7, 4/9 has factor 3 — all non-terminating.</p><p>Hence the answer is 3/8.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q53",
+      "number": 53,
+      "question": "Ajay and Vijay start from the same point and walk at 4 km/h and 5 km/h respectively, in the same direction. What will be the distance between them after 2 hours?",
+      "questionHtml": "<p>Ajay and Vijay start from the same point and walk at 4 km/h and 5 km/h respectively, in the same direction.</p><p>What will be the distance between them after 2 hours?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.5 km",
+          "html": "<p>2.5 km</p>"
+        },
+        {
+          "id": "B",
+          "text": "3 km",
+          "html": "<p>3 km</p>"
+        },
+        {
+          "id": "C",
+          "text": "2 km",
+          "html": "<p>2 km</p>"
+        },
+        {
+          "id": "D",
+          "text": "4 km",
+          "html": "<p>4 km</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Same direction, so use relative speed = 5 − 4 = 1 km/h.</p><p>Distance apart = relative speed × time = 1 × 2 = 2 km.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q54",
+      "number": 54,
+      "question": "A spherical balloon is inflated, causing its radius to grow by 10%. By what percentage does its surface area increase?",
+      "questionHtml": "<p>A spherical balloon is inflated, causing its radius to grow by 10%. By what percentage does its surface area increase?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%",
+          "html": "<p>10%</p>"
+        },
+        {
+          "id": "B",
+          "text": "20%",
+          "html": "<p>20%</p>"
+        },
+        {
+          "id": "C",
+          "text": "21%",
+          "html": "<p>21%</p>"
+        },
+        {
+          "id": "D",
+          "text": "25%",
+          "html": "<p>25%</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Surface area of a sphere ∝ r².</p><p>New radius factor = 1.10, so area factor = (1.10)² = 1.21.</p><p>Increase = 1.21 − 1 = 0.21 = 21%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q55",
+      "number": 55,
+      "question": "A bucket can hold 6.25 liters of water. How many such buckets are needed to fill a 1 cubic meter tank?",
+      "questionHtml": "<p>A bucket can hold 6.25 liters of water. How many such buckets are needed to fill a 1 cubic meter tank?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "150",
+          "html": "<p>150</p>"
+        },
+        {
+          "id": "B",
+          "text": "160",
+          "html": "<p>160</p>"
+        },
+        {
+          "id": "C",
+          "text": "165",
+          "html": "<p>165</p>"
+        },
+        {
+          "id": "D",
+          "text": "170",
+          "html": "<p>170</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>1 cubic metre = 1000 litres.</p><p>Number of buckets = 1000 ÷ 6.25 = 160.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q56",
+      "number": 56,
+      "question": "A and B started a business by investing Rs. 75,000 and Rs. 45,000 respectively. After 3 months, C joined with Rs. 60,000. At the end of the year, what is C's share in a profit of Rs. 40,000 (approx.)?",
+      "questionHtml": "<p>A and B started a business by investing Rs. 75,000 and Rs. 45,000 respectively. After 3 months, C joined with Rs. 60,000. At the end of the year, what is C's share in a profit of Rs. 40,000 (approx.)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 10,909",
+          "html": "<p>Rs. 10,909</p>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 10,109",
+          "html": "<p>Rs. 10,109</p>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 15,909",
+          "html": "<p>Rs. 15,909</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 15,109",
+          "html": "<p>Rs. 15,109</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Capital × time ratio: A = 75000×12 = 900000; B = 45000×12 = 540000; C = 60000×9 = 540000.</p><p>Total ratio units = 900000 + 540000 + 540000 = 1980000.</p><p>C's share = 40000 × (540000/1980000) ≈ 40000 × 0.2727 ≈ Rs. 10,909.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q57",
+      "number": 57,
+      "question": "Two numbers are in the ratio 6:5. If the difference between them is 11, find the numbers.",
+      "questionHtml": "<p>Two numbers are in the ratio 6:5. If the difference between them is 11, find the numbers.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "66 and 55",
+          "html": "<p>66 and 55</p>"
+        },
+        {
+          "id": "B",
+          "text": "60 and 49",
+          "html": "<p>60 and 49</p>"
+        },
+        {
+          "id": "C",
+          "text": "72 and 61",
+          "html": "<p>72 and 61</p>"
+        },
+        {
+          "id": "D",
+          "text": "88 and 77",
+          "html": "<p>88 and 77</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let the numbers be 6x and 5x.</p><p>Difference = 6x − 5x = x = 11.</p><p>Numbers = 6×11 = 66 and 5×11 = 55.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q58",
+      "number": 58,
+      "question": "A rectangular sheet has an area equal to a square plot. If the sheet measures 72 m in length and 50 m in breadth, and the square plot has an area equal to the sheet, find the perimeter of the square plot.",
+      "questionHtml": "<p>A rectangular sheet has an area equal to a square plot. If the sheet measures 72 m in length and 50 m in breadth, and the square plot has an area equal to the sheet, find the perimeter of the square plot.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "112 m",
+          "html": "<p>112 m</p>"
+        },
+        {
+          "id": "B",
+          "text": "120 m",
+          "html": "<p>120 m</p>"
+        },
+        {
+          "id": "C",
+          "text": "240 m",
+          "html": "<p>240 m</p>"
+        },
+        {
+          "id": "D",
+          "text": "220 m",
+          "html": "<p>220 m</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Area of sheet = 72 × 50 = 3600 m².</p><p>Square side = √3600 = 60 m.</p><p>Perimeter = 4 × 60 = 240 m.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q59",
+      "number": 59,
+      "question": "The area of a regular triangle increases by 44%. By what percentage did the side length increase?",
+      "questionHtml": "<p>The area of a regular triangle increases by 44%. By what percentage did the side length increase?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20%",
+          "html": "<p>20%</p>"
+        },
+        {
+          "id": "B",
+          "text": "44%",
+          "html": "<p>44%</p>"
+        },
+        {
+          "id": "C",
+          "text": "54%",
+          "html": "<p>54%</p>"
+        },
+        {
+          "id": "D",
+          "text": "10%",
+          "html": "<p>10%</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Area of an equilateral triangle ∝ side².</p><p>New area factor = 1.44, so side factor = √1.44 = 1.2.</p><p>Increase in side = 1.2 − 1 = 0.2 = 20%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q60",
+      "number": 60,
+      "question": "The difference between 20% of a number and 10% of the same number is 120. What is the number?",
+      "questionHtml": "<p>The difference between 20% of a number and 10% of the same number is 120. What is the number?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1000",
+          "html": "<p>1000</p>"
+        },
+        {
+          "id": "B",
+          "text": "1100",
+          "html": "<p>1100</p>"
+        },
+        {
+          "id": "C",
+          "text": "1200",
+          "html": "<p>1200</p>"
+        },
+        {
+          "id": "D",
+          "text": "1400",
+          "html": "<p>1400</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>20% − 10% = 10% of the number = 120.</p><p>0.10 × x = 120.</p><p>x = 120 ÷ 0.10 = 1200.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q61",
+      "number": 61,
+      "question": "A man buys a set of 3 identical watches at a total cost of Rs. 4,500. He sells them at Rs. 1,800, Rs. 1,700, and Rs. 1,600, respectively. What is the overall profit or loss?",
+      "questionHtml": "<p>A man buys a set of 3 identical watches at a total cost of Rs. 4,500. He sells them at Rs. 1,800, Rs. 1,700, and Rs. 1,600, respectively. What is the overall profit or loss?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 100 loss",
+          "html": "<p>Rs. 100 loss</p>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 100 profit",
+          "html": "<p>Rs. 100 profit</p>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 600 profit",
+          "html": "<p>Rs. 600 profit</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 600 loss",
+          "html": "<p>Rs. 600 loss</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Total selling price = 1800 + 1700 + 1600 = Rs. 5100.</p><p>Total cost price = Rs. 4500.</p><p>Profit = 5100 − 4500 = Rs. 600.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q62",
+      "number": 62,
+      "question": "35 men can do a piece of work in 8 days. Find the time required by 16 men to do four times the work.",
+      "questionHtml": "<p>35 men can do a piece of work in 8 days. Find the time required by 16 men to do four times the work.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "70 Days",
+          "html": "<p>70 Days</p>"
+        },
+        {
+          "id": "B",
+          "text": "65 Days",
+          "html": "<p>65 Days</p>"
+        },
+        {
+          "id": "C",
+          "text": "60 Days",
+          "html": "<p>60 Days</p>"
+        },
+        {
+          "id": "D",
+          "text": "66 Days",
+          "html": "<p>66 Days</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Total work for 1 job = 35 × 8 = 280 man-days.</p><p>Four times the work = 4 × 280 = 1120 man-days.</p><p>Time for 16 men = 1120 ÷ 16 = 70 days.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q63",
+      "number": 63,
+      "question": "Dhaval and Dhiraj together can do a piece of work in 12 days. Dhaval alone can do it in 20 days. In how many days can Dhiraj alone do it?",
+      "questionHtml": "<p>Dhaval and Dhiraj together can do a piece of work in 12 days. Dhaval alone can do it in 20 days. In how many days can Dhiraj alone do it?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "30",
+          "html": "<p>30</p>"
+        },
+        {
+          "id": "B",
+          "text": "28",
+          "html": "<p>28</p>"
+        },
+        {
+          "id": "C",
+          "text": "29",
+          "html": "<p>29</p>"
+        },
+        {
+          "id": "D",
+          "text": "27",
+          "html": "<p>27</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>LCM of 12 and 20 = 60</p><p>Total work = 60 units</p><p>Dhaval + Dhiraj’s 1 day work = 60/12 = 5 units<br/>Dhaval’s 1 day work = 60/20 = 3 units</p><p>Dhiraj’s 1 day work = 5 - 3 = 2 units</p><p>So, Dhiraj alone = 60/2 = 30 days</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q64",
+      "number": 64,
+      "question": "The average salary of 40 workers in a factory is Rs. 24,000. If the salary of a supervisor is added, the average rises to Rs. 24,500. What is the supervisor's salary?",
+      "questionHtml": "<p>The average salary of 40 workers in a factory is Rs. 24,000. If the salary of a supervisor is added, the average rises to Rs. 24,500. What is the supervisor's salary?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 44,000",
+          "html": "<p>Rs. 44,000</p>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 54,000",
+          "html": "<p>Rs. 54,000</p>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 44,500",
+          "html": "<p>Rs. 44,500</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 54,500",
+          "html": "<p>Rs. 54,500</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Total salary of 40 workers = 40 × 24000 = Rs. 9,60,000.</p><p>New total of 41 people = 41 × 24500 = Rs. 10,04,500.</p><p>Supervisor's salary = 10,04,500 − 9,60,000 = Rs. 44,500.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q65",
+      "number": 65,
+      "question": "Two right prisms have the same height of 10 cm. One has a regular hexagonal base with side 6 cm, and the other has a square base with side 6 cm. What is the ratio of their volumes?",
+      "questionHtml": "<p>Two right prisms have the same height of 10 cm. One has a regular hexagonal base with side 6 cm, and the other has a square base with side 6 cm. What is the ratio of their volumes?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "√3 : 1",
+          "html": "<p>√3 : 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "3√3 : 2",
+          "html": "<p>3√3 : 2</p>"
+        },
+        {
+          "id": "C",
+          "text": "(3√3)/2 : 1",
+          "html": "<p>(3√3)/2 : 1</p>"
+        },
+        {
+          "id": "D",
+          "text": "3 : 2√3",
+          "html": "<p>3 : 2√3</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Equal heights, so volume ratio = base-area ratio.</p><p>Hexagon area = (3√3/2) × 6² = 54√3; square area = 6² = 36.</p><p>Ratio = 54√3 : 36 = 3√3 : 2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q66",
+      "number": 66,
+      "question": "A 45-litre mixture of kerosene and diesel contains kerosene and diesel in the ratio 4:5. How much diesel must be added to make the ratio 4:6?",
+      "questionHtml": "<p>A 45-litre mixture of kerosene and diesel contains kerosene and diesel in the ratio 4:5. How much diesel must be added to make the ratio 4:6?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 L",
+          "html": "<p>3 L</p>"
+        },
+        {
+          "id": "B",
+          "text": "5 L",
+          "html": "<p>5 L</p>"
+        },
+        {
+          "id": "C",
+          "text": "6 L",
+          "html": "<p>6 L</p>"
+        },
+        {
+          "id": "D",
+          "text": "7.5 L",
+          "html": "<p>7.5 L</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>In 45 L at 4:5, kerosene = 20 L and diesel = 25 L.</p><p>New ratio 4:6 keeps kerosene at 20 L, so 20 : diesel = 4 : 6.</p><p>Required diesel = (6/4) × 20 = 30 L.</p><p>Diesel to add = 30 − 25 = 5 L.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q67",
+      "number": 67,
+      "question": "If sinA = 5/13 and A lies in 2nd quadrant, then find the value of sinA × secA.",
+      "questionHtml": "<p>If sinA = 5/13 and A lies in 2nd quadrant, then find the value of sinA × secA.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5/12",
+          "html": "<p>5/12</p>"
+        },
+        {
+          "id": "B",
+          "text": "−5/12",
+          "html": "<p>−5/12</p>"
+        },
+        {
+          "id": "C",
+          "text": "25/12",
+          "html": "<p>25/12</p>"
+        },
+        {
+          "id": "D",
+          "text": "25/13",
+          "html": "<p>25/13</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780464437162_image004.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q68",
+      "number": 68,
+      "question": "What is the length of the segment joining (1,2) and (4,6)?",
+      "questionHtml": "<p>What is the length of the segment joining (1,2) and (4,6)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "<p>5</p>"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "<p>2</p>"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "<p>4</p>"
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "html": "<p>3</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780464437162_image007.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q69",
+      "number": 69,
+      "question": "In a triangle ABC, side BC is extended to a point D. The exterior angle at C is 105°. The interior angles at A and B are in the ratio 2:5. What is the measure of the largest interior angle of the triangle?",
+      "questionHtml": "<p>In a triangle ABC, side BC is extended to a point D. The exterior angle at C is 105°. The interior angles at A and B are in the ratio 2:5. What is the measure of the largest interior angle of the triangle?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "30°",
+          "html": "<p>30°</p>"
+        },
+        {
+          "id": "B",
+          "text": "75°",
+          "html": "<p>75°</p>"
+        },
+        {
+          "id": "C",
+          "text": "105°",
+          "html": "<p>105°</p>"
+        },
+        {
+          "id": "D",
+          "text": "15°",
+          "html": "<p>15°</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Exterior angle = sum of two opposite interior angles: A + B = 105°.</p><p>A : B = 2 : 5, so A = (2/7)×105 = 30° and B = (5/7)×105 = 75°.</p><p>Angle C = 180° − 105° = 75°.</p><p>Largest interior angle = 75°.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q70",
+      "number": 70,
+      "question": "Consider two triangles, △ABC and △DEF. It is stated that these two triangles are congruent to each other, denoted as △ABC ≅ △DEF and ∠A = 50°. What is the measure of ∠D?",
+      "questionHtml": "<p>Consider two triangles, △ABC and △DEF. It is stated that these two triangles are congruent to each other, denoted as △ABC ≅ △DEF and ∠A = 50°. What is the measure of ∠D?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "40°",
+          "html": "<p>40°</p>"
+        },
+        {
+          "id": "B",
+          "text": "50°",
+          "html": "<p>50°</p>"
+        },
+        {
+          "id": "C",
+          "text": "60°",
+          "html": "<p>60°</p>"
+        },
+        {
+          "id": "D",
+          "text": "130°",
+          "html": "<p>130°</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>In △ABC ≅ △DEF, corresponding vertices are A↔D, B↔E, C↔F.</p><p>So ∠A = ∠D.</p><p>Therefore ∠D = 50°.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q71",
+      "number": 71,
+      "question": "Given, x + 1/x = 5, then determine the value of 2x/(x² − 1).",
+      "questionHtml": "<p>Given, x + 1/x = 5, then determine the value of 2x/(x² − 1).</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2√21/21",
+          "html": "<p>2√21/21</p>"
+        },
+        {
+          "id": "B",
+          "text": "2√21/25",
+          "html": "<p>2√21/25</p>"
+        },
+        {
+          "id": "C",
+          "text": "7√21/25",
+          "html": "<p>7√21/25</p>"
+        },
+        {
+          "id": "D",
+          "text": "9√21/29",
+          "html": "<p>9√21/29</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780464437162_image009.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q72",
+      "number": 72,
+      "question": "A chord of length 24 cm lies 7 cm away from the center of a circle. What is the approximate radius of the circle?",
+      "questionHtml": "<p>A chord of length 24 cm lies 7 cm away from the center of a circle. What is the approximate radius of the circle?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 cm",
+          "html": "<p>10 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "14 cm",
+          "html": "<p>14 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "17 cm",
+          "html": "<p>17 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "25 cm",
+          "html": "<p>25 cm</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780464437162_image013.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q73",
+      "number": 73,
+      "question": "A chord AB of a circle has a length of 10 cm. The angle subtended by the chord at a point C on the major arc is 30°. Find the radius of the circle.",
+      "questionHtml": "<p>A chord AB of a circle has a length of 10 cm. The angle subtended by the chord at a point C on the major arc is 30°. Find the radius of the circle.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "7 cm",
+          "html": "<p>7 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "10 cm",
+          "html": "<p>10 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "11 cm",
+          "html": "<p>11 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "17 cm",
+          "html": "<p>17 cm</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>By the extended sine rule, chord / sin(inscribed angle) = 2R.</p><p>10 / sin30° = 2R, so 10 / 0.5 = 20 = 2R.</p><p>R = 10 cm.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q74",
+      "number": 74,
+      "question": "If sinA = m/n and A ∈ (0, π/2), then what is cosA in terms of m and n?",
+      "questionHtml": "<p>If sinA = m/n and A ∈ (0, π/2), then what is cosA in terms of m and n?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "√(n²−m²)/n",
+          "html": "<p>√(n²−m²)/n</p>"
+        },
+        {
+          "id": "B",
+          "text": "m/√(n²−m²)",
+          "html": "<p>m/√(n²−m²)</p>"
+        },
+        {
+          "id": "C",
+          "text": "n/√(n²−m²)",
+          "html": "<p>n/√(n²−m²)</p>"
+        },
+        {
+          "id": "D",
+          "text": "√(m²−n²)/n",
+          "html": "<p>√(m²−n²)/n</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780464437162_image014.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q75",
+      "number": 75,
+      "question": "You earn $52.50 in 3.5 hours. Find your hourly wage as a fraction.",
+      "questionHtml": "<p>You earn $52.50 in 3.5 hours. Find your hourly wage as a fraction.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "15/1",
+          "html": "<p>15/1</p>"
+        },
+        {
+          "id": "B",
+          "text": "12/1",
+          "html": "<p>12/1</p>"
+        },
+        {
+          "id": "C",
+          "text": "15/4",
+          "html": "<p>15/4</p>"
+        },
+        {
+          "id": "D",
+          "text": "17/4",
+          "html": "<p>17/4</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Hourly wage = 52.50 ÷ 3.5.</p><p>= 15.</p><p>As a fraction = 15/1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q76",
+      "number": 76,
+      "question": "Select the most appropriate synonym of the given word: SENTIENT",
+      "questionHtml": "<p>Select the most appropriate synonym of the given word: SENTIENT</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lifeless",
+          "html": "<p>Lifeless</p>"
+        },
+        {
+          "id": "B",
+          "text": "Dead",
+          "html": "<p>Dead</p>"
+        },
+        {
+          "id": "C",
+          "text": "Unaware",
+          "html": "<p>Unaware</p>"
+        },
+        {
+          "id": "D",
+          "text": "Conscious",
+          "html": "<p>Conscious</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>'Sentient' means able to perceive or feel things — i.e. aware/conscious.</p><p>'Conscious' is the closest synonym.</p><p>'Lifeless', 'Dead' and 'Unaware' are opposite in meaning.</p><p>Hence the answer is Conscious.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q77",
+      "number": 77,
+      "question": "Select the most appropriate antonym of the given word: Dissemble",
+      "questionHtml": "<p>Select the most appropriate antonym of the given word: Dissemble</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Disguise",
+          "html": "<p>Disguise</p>"
+        },
+        {
+          "id": "B",
+          "text": "Reveal",
+          "html": "<p>Reveal</p>"
+        },
+        {
+          "id": "C",
+          "text": "Obscure",
+          "html": "<p>Obscure</p>"
+        },
+        {
+          "id": "D",
+          "text": "Pretend",
+          "html": "<p>Pretend</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>'Dissemble' means to conceal or disguise one's true feelings or intentions.</p><p>Its opposite is to make known — 'Reveal'.</p><p>'Disguise', 'Obscure' and 'Pretend' are synonyms, not antonyms.</p><p>Hence the answer is Reveal.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q78",
+      "number": 78,
+      "question": "Choose the correct meaning of idiom: Cook someone's goose",
+      "questionHtml": "<p>Choose the correct meaning of idiom: Cook someone's goose</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Help someone succeed",
+          "html": "<p>Help someone succeed</p>"
+        },
+        {
+          "id": "B",
+          "text": "Ruin someone's plans or prospects",
+          "html": "<p>Ruin someone's plans or prospects</p>"
+        },
+        {
+          "id": "C",
+          "text": "Save someone from trouble",
+          "html": "<p>Save someone from trouble</p>"
+        },
+        {
+          "id": "D",
+          "text": "Make fun of someone",
+          "html": "<p>Make fun of someone</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>'Cook someone's goose' means to ruin their chances or spoil their plans.</p><p>Options 1 and 3 suggest the opposite; option 4 is unrelated.</p><p>Hence the meaning is 'ruin someone's plans or prospects'.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q79",
+      "number": 79,
+      "question": "Choose the correct meaning of idiom: To sup with the devil",
+      "questionHtml": "<p>Choose the correct meaning of idiom: To sup with the devil</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "To confess in secret",
+          "html": "<p>To confess in secret</p>"
+        },
+        {
+          "id": "B",
+          "text": "To act with false modesty",
+          "html": "<p>To act with false modesty</p>"
+        },
+        {
+          "id": "C",
+          "text": "To collaborate with someone morally compromised",
+          "html": "<p>To collaborate with someone morally compromised</p>"
+        },
+        {
+          "id": "D",
+          "text": "To punish without justice",
+          "html": "<p>To punish without justice</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>'To sup with the devil' means to associate or deal with a wicked or dangerous person.</p><p>This matches 'to collaborate with someone morally compromised'.</p><p>The other options do not capture the sense of dealing with an evil party.</p><p>Hence option 3 is correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q80",
+      "number": 80,
+      "question": "Select the correct spelling of a word meaning 'having a strong, regular beat'.",
+      "questionHtml": "<p>Select the correct spelling of a word meaning 'having a strong, regular beat'.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rythmic",
+          "html": "<p>Rythmic</p>"
+        },
+        {
+          "id": "B",
+          "text": "Rhythmic",
+          "html": "<p>Rhythmic</p>"
+        },
+        {
+          "id": "C",
+          "text": "Rhythimic",
+          "html": "<p>Rhythimic</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rhytmic",
+          "html": "<p>Rhytmic</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct spelling is 'Rhythmic' (rhyth-mic).</p><p>'Rythmic', 'Rhythimic' and 'Rhytmic' all have missing or extra letters.</p><p>Hence the answer is Rhythmic.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q81",
+      "number": 81,
+      "question": "Select the correct spelling of a word meaning 'undoubtedly true'.",
+      "questionHtml": "<p>Select the correct spelling of a word meaning 'undoubtedly true'.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Incontrovertible",
+          "html": "<p>Incontrovertible</p>"
+        },
+        {
+          "id": "B",
+          "text": "Incontrovartible",
+          "html": "<p>Incontrovartible</p>"
+        },
+        {
+          "id": "C",
+          "text": "Incontrovatible",
+          "html": "<p>Incontrovatible</p>"
+        },
+        {
+          "id": "D",
+          "text": "Incontrovurtible",
+          "html": "<p>Incontrovurtible</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct spelling is 'Incontrovertible' (in-contro-vert-ible).</p><p>The other options misspell the 'vert' part of the word.</p><p>Hence the answer is Incontrovertible.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q82",
+      "number": 82,
+      "question": "Choose the correct one-word substitute for: 'Fear of confined spaces'.",
+      "questionHtml": "<p>Choose the correct one-word substitute for: 'Fear of confined spaces'.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agoraphobia",
+          "html": "<p>Agoraphobia</p>"
+        },
+        {
+          "id": "B",
+          "text": "Hydrophobia",
+          "html": "<p>Hydrophobia</p>"
+        },
+        {
+          "id": "C",
+          "text": "Claustrophobia",
+          "html": "<p>Claustrophobia</p>"
+        },
+        {
+          "id": "D",
+          "text": "Acrophobia",
+          "html": "<p>Acrophobia</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>'Claustrophobia' is the fear of confined or enclosed spaces.</p><p>Agoraphobia = fear of open spaces; Hydrophobia = fear of water; Acrophobia = fear of heights.</p><p>Hence the answer is Claustrophobia.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q83",
+      "number": 83,
+      "question": "Choose the correct one-word substitute for: 'A place where coins are made'.",
+      "questionHtml": "<p>Choose the correct one-word substitute for: 'A place where coins are made'.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Smithy",
+          "html": "<p>Smithy</p>"
+        },
+        {
+          "id": "B",
+          "text": "Foundry",
+          "html": "<p>Foundry</p>"
+        },
+        {
+          "id": "C",
+          "text": "Mint",
+          "html": "<p>Mint</p>"
+        },
+        {
+          "id": "D",
+          "text": "Furnace",
+          "html": "<p>Furnace</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>A 'Mint' is the place where coins are manufactured.</p><p>A smithy is for metalwork by a blacksmith; a foundry casts metal; a furnace heats material.</p><p>Hence the answer is Mint.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q84",
+      "number": 84,
+      "question": "In the given passage, some words have been deleted. Read the passage and choose the most appropriate option to fill in each blank. Passage: Global sustainability discourse has not so much evolved as ossified into a lexicon of managerial (1) _____ — terms engineered more for reputational lubrication than ecological redress. What was once a moral reckoning with planetary precarity now traffics in dashboards and metrics, calibrated less to redistribute power than to launder it. Words like 'resilience,' 'stakeholder engagement,' and 'net-zero' populate position papers, their meanings stretched until they acquire the elasticity of (2) _____. In this semantic economy, language ceases to be revelatory and becomes performative. Reports teeter on euphemism; declarations bristle with procedural piety. Crises are not named; they are (3) _____ into 'developmental challenges.' The grammar of suffering is bleached, even as the facts remain uncompromising. What emerges is not truth, but a choreography of credibility — an affective simulation of care. Meanwhile, epistemic asymmetries persist: indigenous knowledge is (4) _____ as 'local insight,' offered just enough space to decorate, never to reorient. Environmental justice, once confrontational, now wears a diplomatic smile, folded neatly into intergovernmental communiqués. If sustainability is to escape the orbit of self-congratulation, it must surrender its obsession with optics and inhabit the discomfort of history. Anything less is not stewardship — it is semantic (5) _____ masquerading as progress. What should come in the place of blank number (1)?",
+      "questionHtml": "<p>In the given passage, some words have been deleted. Read the passage and choose the most appropriate option to fill in each blank.</p><p>Passage: Global sustainability discourse has not so much evolved as ossified into a lexicon of managerial (1) _____ — terms engineered more for reputational lubrication than ecological redress. What was once a moral reckoning with planetary precarity now traffics in dashboards and metrics, calibrated less to redistribute power than to launder it. Words like 'resilience,' 'stakeholder engagement,' and 'net-zero' populate position papers, their meanings stretched until they acquire the elasticity of (2) _____. In this semantic economy, language ceases to be revelatory and becomes performative. Reports teeter on euphemism; declarations bristle with procedural piety. Crises are not named; they are (3) _____ into 'developmental challenges.' The grammar of suffering is bleached, even as the facts remain uncompromising. What emerges is not truth, but a choreography of credibility — an affective simulation of care. Meanwhile, epistemic asymmetries persist: indigenous knowledge is (4) _____ as 'local insight,' offered just enough space to decorate, never to reorient. Environmental justice, once confrontational, now wears a diplomatic smile, folded neatly into intergovernmental communiqués. If sustainability is to escape the orbit of self-congratulation, it must surrender its obsession with optics and inhabit the discomfort of history. Anything less is not stewardship — it is semantic (5) _____ masquerading as progress.</p><p>What should come in the place of blank number (1)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "artifacts",
+          "html": "<p>artifacts</p>"
+        },
+        {
+          "id": "B",
+          "text": "lubricants",
+          "html": "<p>lubricants</p>"
+        },
+        {
+          "id": "C",
+          "text": "monologues",
+          "html": "<p>monologues</p>"
+        },
+        {
+          "id": "D",
+          "text": "alignments",
+          "html": "<p>alignments</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The clue 'terms engineered more for reputational lubrication' echoes the missing word.</p><p>'Lubricants' fits a 'lexicon of managerial lubricants' — words used to smooth reputations.</p><p>'Artifacts', 'monologues' and 'alignments' do not connect with 'lubrication'.</p><p>Hence the answer is lubricants.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q85",
+      "number": 85,
+      "question": "In the given passage, some words have been deleted. (Refer to the passage in .) What should come in the place of blank number (2)?",
+      "questionHtml": "<p>In the given passage, some words have been deleted. (Refer to the passage in .)</p><p>What should come in the place of blank number (2)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "rhetoric",
+          "html": "<p>rhetoric</p>"
+        },
+        {
+          "id": "B",
+          "text": "science",
+          "html": "<p>science</p>"
+        },
+        {
+          "id": "C",
+          "text": "sovereignty",
+          "html": "<p>sovereignty</p>"
+        },
+        {
+          "id": "D",
+          "text": "urgency",
+          "html": "<p>urgency</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The sentence says the meanings of buzzwords are 'stretched until they acquire the elasticity of ____'.</p><p>Flexible, stretchable language is 'rhetoric'.</p><p>'Science' implies precision (opposite), and 'sovereignty'/'urgency' do not fit 'elasticity'.</p><p>Hence the answer is rhetoric.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q86",
+      "number": 86,
+      "question": "In the given passage, some words have been deleted. (Refer to the passage in .) What should come in the place of blank number (3)?",
+      "questionHtml": "<p>In the given passage, some words have been deleted. (Refer to the passage in .)</p><p>What should come in the place of blank number (3)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "confronted",
+          "html": "<p>confronted</p>"
+        },
+        {
+          "id": "B",
+          "text": "domesticated",
+          "html": "<p>domesticated</p>"
+        },
+        {
+          "id": "C",
+          "text": "pluralized",
+          "html": "<p>pluralized</p>"
+        },
+        {
+          "id": "D",
+          "text": "aggravated",
+          "html": "<p>aggravated</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>'Crises are not named; they are ____ into developmental challenges' — the crisis is tamed/softened.</p><p>'Domesticated' (made tame/harmless) fits this idea of softening.</p><p>'Confronted' and 'aggravated' suggest the opposite; 'pluralized' is irrelevant.</p><p>Hence the answer is domesticated.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q87",
+      "number": 87,
+      "question": "In the given passage, some words have been deleted. (Refer to the passage in .) What should come in the place of blank number (4)?",
+      "questionHtml": "<p>In the given passage, some words have been deleted. (Refer to the passage in .)</p><p>What should come in the place of blank number (4)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "silenced",
+          "html": "<p>silenced</p>"
+        },
+        {
+          "id": "B",
+          "text": "extracted",
+          "html": "<p>extracted</p>"
+        },
+        {
+          "id": "C",
+          "text": "tokenized",
+          "html": "<p>tokenized</p>"
+        },
+        {
+          "id": "D",
+          "text": "discarded",
+          "html": "<p>discarded</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Indigenous knowledge is given 'just enough space to decorate, never to reorient' — i.e. used only symbolically.</p><p>'Tokenized' means included merely as a token/symbol, matching this sense.</p><p>'Silenced'/'discarded' mean fully removed; 'extracted' does not fit the decorative idea.</p><p>Hence the answer is tokenized.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q88",
+      "number": 88,
+      "question": "In the given passage, some words have been deleted. (Refer to the passage in .) What should come in the place of blank number (5)?",
+      "questionHtml": "<p>In the given passage, some words have been deleted. (Refer to the passage in .)</p><p>What should come in the place of blank number (5)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "inflation",
+          "html": "<p>inflation</p>"
+        },
+        {
+          "id": "B",
+          "text": "camouflage",
+          "html": "<p>camouflage</p>"
+        },
+        {
+          "id": "C",
+          "text": "paralysis",
+          "html": "<p>paralysis</p>"
+        },
+        {
+          "id": "D",
+          "text": "betrayal",
+          "html": "<p>betrayal</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The closing line says it is 'semantic ____ masquerading as progress' — language disguising the truth.</p><p>'Camouflage' means a disguise that hides reality, fitting 'masquerading'.</p><p>'Inflation', 'paralysis' and 'betrayal' do not match the idea of disguise.</p><p>Hence the answer is camouflage.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q89",
+      "number": 89,
+      "question": "Select the correct option: The director objected to the scene, deeming it ___ gratuitous for a family audience.",
+      "questionHtml": "<p>Select the correct option:</p><p>The director objected to the scene, deeming it ___ gratuitous for a family audience.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "far",
+          "html": "<p>far</p>"
+        },
+        {
+          "id": "B",
+          "text": "much",
+          "html": "<p>much</p>"
+        },
+        {
+          "id": "C",
+          "text": "too",
+          "html": "<p>too</p>"
+        },
+        {
+          "id": "D",
+          "text": "very",
+          "html": "<p>very</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The structure 'too + adjective + for' expresses excess: 'too gratuitous for a family audience'.</p><p>'far' and 'much' are used with comparatives, not directly before this adjective here.</p><p>'very' does not carry the sense of 'excessively, beyond an acceptable limit'.</p><p>Hence the answer is too.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q90",
+      "number": 90,
+      "question": "Select the correct option: The advisory committee issued a set of guidelines so meticulously worded that any deviation would be tantamount ___ defiance.",
+      "questionHtml": "<p>Select the correct option:</p><p>The advisory committee issued a set of guidelines so meticulously worded that any deviation would be tantamount ___ defiance.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "with",
+          "html": "<p>with</p>"
+        },
+        {
+          "id": "B",
+          "text": "to",
+          "html": "<p>to</p>"
+        },
+        {
+          "id": "C",
+          "text": "for",
+          "html": "<p>for</p>"
+        },
+        {
+          "id": "D",
+          "text": "at",
+          "html": "<p>at</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The fixed collocation is 'tantamount to' (equivalent to).</p><p>'tantamount with/for/at' are all incorrect prepositions.</p><p>Hence the answer is to.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q91",
+      "number": 91,
+      "question": "Find the part of the sentence that contains an error: Neither the manager nor the employees (1)/ has submitted (2)/ their performance logs (3)/ for the current quarter. (4)/",
+      "questionHtml": "<p>Find the part of the sentence that contains an error:</p><p>Neither the manager nor the employees (1)/ has submitted (2)/ their performance logs (3)/ for the current quarter. (4)/</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(1)",
+          "html": "<p>(1)</p>"
+        },
+        {
+          "id": "B",
+          "text": "(2)",
+          "html": "<p>(2)</p>"
+        },
+        {
+          "id": "C",
+          "text": "(3)",
+          "html": "<p>(3)</p>"
+        },
+        {
+          "id": "D",
+          "text": "(4)",
+          "html": "<p>(4)</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>With 'Neither ... nor ...', the verb agrees with the nearer subject — here 'the employees' (plural).</p><p>So 'has submitted' should be 'have submitted'.</p><p>The error lies in part (2).</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q92",
+      "number": 92,
+      "question": "Change the following from active to passive: Historians considered the reforms emblematic of the regime's insecurity.",
+      "questionHtml": "<p>Change the following from active to passive:</p><p>Historians considered the reforms emblematic of the regime's insecurity.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The reforms were emblematic of the regime's insecurity.",
+          "html": "<p>The reforms were emblematic of the regime's insecurity.</p>"
+        },
+        {
+          "id": "B",
+          "text": "The reforms were considered emblematic of the regime's insecurity by historians.",
+          "html": "<p>The reforms were considered emblematic of the regime's insecurity by historians.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The regime's insecurity was considered to be shown by reforms.",
+          "html": "<p>The regime's insecurity was considered to be shown by reforms.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Emblematic reforms were considered part of regime insecurity.",
+          "html": "<p>Emblematic reforms were considered part of regime insecurity.</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>In passive, the object 'the reforms' becomes the subject and the verb 'considered' becomes 'were considered'.</p><p>The agent 'historians' moves to a 'by'-phrase.</p><p>'The reforms were considered emblematic of the regime's insecurity by historians' keeps the exact meaning.</p><p>Hence option 2 is correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q93",
+      "number": 93,
+      "question": "Select the sentence containing the homonym of the highlighted word: The monk documented the breviarium with precise annotations.",
+      "questionHtml": "<p>Select the sentence containing the homonym of the highlighted word:</p><p>The monk documented the breviarium with precise annotations.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The breviarium contained psalms for daily recitation.",
+          "html": "<p>The breviarium contained psalms for daily recitation.</p>"
+        },
+        {
+          "id": "B",
+          "text": "The scholar studied a Gothic breviarium from Prague.",
+          "html": "<p>The scholar studied a Gothic breviarium from Prague.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The technician calibrated the breviarium using voltmeters.",
+          "html": "<p>The technician calibrated the breviarium using voltmeters.</p>"
+        },
+        {
+          "id": "D",
+          "text": "The liturgist chanted directly from the breviarium.",
+          "html": "<p>The liturgist chanted directly from the breviarium.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>In the given sentence, 'breviarium' refers to the religious/liturgical book (breviary).</p><p>A homonym uses the same form in a clearly different sense.</p><p>'The technician calibrated the breviarium using voltmeters' uses it as a technical instrument — a different meaning.</p><p>Options 1, 2 and 4 all use the religious-book meaning, so option 3 is correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q94",
+      "number": 94,
+      "question": "Convert the sentence provided below from its passive voice structure to an active voice structure: A bonus will be given to all employees by the management next month.",
+      "questionHtml": "<p>Convert the sentence provided below from its passive voice structure to an active voice structure:</p><p>A bonus will be given to all employees by the management next month.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The management gives a bonus to all employees.",
+          "html": "<p>The management gives a bonus to all employees.</p>"
+        },
+        {
+          "id": "B",
+          "text": "The management had given a bonus to all employees.",
+          "html": "<p>The management had given a bonus to all employees.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The management will give a bonus to all employees next month.",
+          "html": "<p>The management will give a bonus to all employees next month.</p>"
+        },
+        {
+          "id": "D",
+          "text": "A bonus was given by the management to all employees.",
+          "html": "<p>A bonus was given by the management to all employees.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The agent 'the management' becomes the subject in active voice.</p><p>'will be given' (future) becomes 'will give', keeping the future tense and 'next month'.</p><p>Hence the correct active form is 'The management will give a bonus to all employees next month'.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q95",
+      "number": 95,
+      "question": "Choose the most suitable option to replace the highlighted part of the sentence: The man died by a heart attack.",
+      "questionHtml": "<p>Choose the most suitable option to replace the highlighted part of the sentence:</p><p>The man died by a heart attack.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "is died with",
+          "html": "<p>is died with</p>"
+        },
+        {
+          "id": "B",
+          "text": "died of",
+          "html": "<p>died of</p>"
+        },
+        {
+          "id": "C",
+          "text": "was died due to",
+          "html": "<p>was died due to</p>"
+        },
+        {
+          "id": "D",
+          "text": "dead from",
+          "html": "<p>dead from</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct collocation is 'died of' a disease/illness such as a heart attack.</p><p>'died' is an intransitive verb, so passive forms like 'is/was died' are wrong.</p><p>'dead from' changes the verb to an adjective and is ungrammatical here.</p><p>Hence the answer is 'died of'.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q96",
+      "number": 96,
+      "question": "Choose the most suitable option to replace the highlighted part of the sentence: The police is investigating the matter seriously.",
+      "questionHtml": "<p>Choose the most suitable option to replace the highlighted part of the sentence:</p><p>The police is investigating the matter seriously.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "are investigating the matter seriously",
+          "html": "<p>are investigating the matter seriously</p>"
+        },
+        {
+          "id": "B",
+          "text": "investigates the matter",
+          "html": "<p>investigates the matter</p>"
+        },
+        {
+          "id": "C",
+          "text": "were investigating seriously the matter",
+          "html": "<p>were investigating seriously the matter</p>"
+        },
+        {
+          "id": "D",
+          "text": "is in investigation",
+          "html": "<p>is in investigation</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>'Police' is a plural noun and takes a plural verb — 'are', not 'is'.</p><p>'are investigating the matter seriously' keeps correct word order and present continuous tense.</p><p>Option 3 misplaces the adverb; options 2 and 4 distort the meaning/tense.</p><p>Hence the answer is option 1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q97",
+      "number": 97,
+      "question": "A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech. The geologist explained that tectonic shifts were inevitable.",
+      "questionHtml": "<p>A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech.</p><p>The geologist explained that tectonic shifts were inevitable.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The geologist said, \"Tectonic shifts are inevitable.\"",
+          "html": "<p>The geologist said, \"Tectonic shifts are inevitable.\"</p>"
+        },
+        {
+          "id": "B",
+          "text": "\"Tectonic shifts were inevitable,\" said the geologist.",
+          "html": "<p>\"Tectonic shifts were inevitable,\" said the geologist.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The geologist explained, \"Tectonic shifts will occur.\"",
+          "html": "<p>The geologist explained, \"Tectonic shifts will occur.\"</p>"
+        },
+        {
+          "id": "D",
+          "text": "\"Inevitably, tectonic shifts occur,\" he said.",
+          "html": "<p>\"Inevitably, tectonic shifts occur,\" he said.</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The reported clause 'tectonic shifts were inevitable' is converted back to direct speech within quotation marks.</p><p>Keeping the wording and tense gives: \"Tectonic shifts were inevitable,\" said the geologist.</p><p>Options 3 and 4 change the content; option 1 alters the tense unnecessarily.</p><p>Hence option 2 most accurately conveys the direct speech.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q98",
+      "number": 98,
+      "question": "A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech. Rita said, “Alas! I am ruined.”",
+      "questionHtml": "<p>A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech.</p><p>Rita said, “Alas! I am ruined.”</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rita said she was ruined.",
+          "html": "<p>Rita said she was ruined.</p>"
+        },
+        {
+          "id": "B",
+          "text": "Rita exclaimed with sorrow that she was ruined.",
+          "html": "<p>Rita exclaimed with sorrow that she was ruined.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Rita said that she ruined.",
+          "html": "<p>Rita said that she ruined.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rita exclaimed sadly that I am ruined.",
+          "html": "<p>Rita exclaimed sadly that I am ruined.</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>'Alas!' is an exclamation of sorrow, so the reporting verb becomes 'exclaimed with sorrow'.</p><p>'I am ruined' changes to 'she was ruined' (pronoun and tense shift).</p><p>Option 1 drops the exclamation; option 3 omits 'was'; option 4 wrongly keeps 'I am'.</p><p>Hence option 2 is correct.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q99",
+      "number": 99,
+      "question": "Rearrange the following sentences to form a meaningful passage: 1. The Renaissance marked a revival of classical learning. 2. Artists focused on realism and human emotion. 3. Patronage from wealthy families fueled cultural output. 4. This period reshaped Europe's intellectual landscape.",
+      "questionHtml": "<p>Rearrange the following sentences to form a meaningful passage:</p><p>1. The Renaissance marked a revival of classical learning.</p><p>2. Artists focused on realism and human emotion.</p><p>3. Patronage from wealthy families fueled cultural output.</p><p>4. This period reshaped Europe's intellectual landscape.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1-3-2-4",
+          "html": "<p>1-3-2-4</p>"
+        },
+        {
+          "id": "B",
+          "text": "2-1-3-4",
+          "html": "<p>2-1-3-4</p>"
+        },
+        {
+          "id": "C",
+          "text": "2-3-1-4",
+          "html": "<p>2-3-1-4</p>"
+        },
+        {
+          "id": "D",
+          "text": "1-2-3-4",
+          "html": "<p>1-2-3-4</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Sentence 1 introduces the topic (the Renaissance and revival of learning).</p><p>Sentence 3 explains the driving force (patronage fueling output).</p><p>Sentence 2 gives the result in art (focus on realism and emotion).</p><p>Sentence 4 concludes with the overall impact on Europe.</p><p>Correct order: 1-3-2-4.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4fa9737766a6-q100",
+      "number": 100,
+      "question": "Rearrange the following sentences in correct order to make a logical passage. 1. This led to significant breakthroughs in medicine. 2. The discovery of penicillin marked a new era. 3. It revolutionized the treatment of bacterial infections. 4. Many previously fatal diseases became curable.",
+      "questionHtml": "<p>Rearrange the following sentences in correct order to make a logical passage.</p><p>1. This led to significant breakthroughs in medicine.</p><p>2. The discovery of penicillin marked a new era.</p><p>3. It revolutionized the treatment of bacterial infections.</p><p>4. Many previously fatal diseases became curable.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2-1-3-4",
+          "html": "<p>2-1-3-4</p>"
+        },
+        {
+          "id": "B",
+          "text": "2-4-1-3",
+          "html": "<p>2-4-1-3</p>"
+        },
+        {
+          "id": "C",
+          "text": "3-4-2-1",
+          "html": "<p>3-4-2-1</p>"
+        },
+        {
+          "id": "D",
+          "text": "2-3-4-1",
+          "html": "<p>2-3-4-1</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Sentence 2 opens the passage (discovery of penicillin begins a new era).</p><p>Sentence 3 follows logically (it revolutionized treatment of infections).</p><p>Sentence 4 gives the outcome (fatal diseases became curable).</p><p>Sentence 1 concludes (this led to wider medical breakthroughs).</p><p>Correct order: 2-3-4-1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

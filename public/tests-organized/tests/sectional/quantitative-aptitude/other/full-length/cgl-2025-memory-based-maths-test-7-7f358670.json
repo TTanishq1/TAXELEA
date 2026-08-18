@@ -1,0 +1,865 @@
+{
+  "id": "7f3586707b3c",
+  "provider": "RBE_Mocks",
+  "sourceFile": "CGL_2025_Memory_Based_Maths_Test-7.html",
+  "sourcePath": "RBE_MOCKS/CGL_2025_Memory_Based_Maths_Test-7.html",
+  "title": "CGL 2025 Memory Based Maths Test-7",
+  "exam": null,
+  "year": 2025,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "7f3586707b3c-q1",
+      "number": 1,
+      "question": "If P : Q = 6 : 11, Q : R = 5 : 4, and R : S = 9 : 7, find P : Q : R : S.",
+      "questionHtml": "<p>If P : Q = 6 : 11, Q : R = 5 : 4, and R : S = 9 : 7, find P : Q : R : S.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "270 : 495 : 396 : 308",
+          "html": "<p>270 : 495 : 396 : 308</p>"
+        },
+        {
+          "id": "B",
+          "text": "6 : 11 : 4 : 7",
+          "html": "<p>6 : 11 : 4 : 7</p>"
+        },
+        {
+          "id": "C",
+          "text": "30 : 55 : 44 : 35",
+          "html": "<p>30 : 55 : 44 : 35</p>"
+        },
+        {
+          "id": "D",
+          "text": "270 : 396 : 495 : 308",
+          "html": "<p>270 : 396 : 495 : 308</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Make Q common in P:Q and Q:R. LCM of 11 and 5 = 55.</p><p>P : Q = 30 : 55; Q : R = 55 : 44.</p><p>Make R common in Q:R and R:S. LCM of 44 and 9 = 396.</p><p>P : Q : R = 270 : 495 : 396; R : S = 396 : 308.</p><p>Hence P : Q : R : S = 270 : 495 : 396 : 308.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q2",
+      "number": 2,
+      "question": "A bag contains ₹10, ₹5, and ₹2 coins in the ratio 1 : 2 : 3. If the total amount of money in the bag is ₹390, find the number of coins of each kind.",
+      "questionHtml": "<p>A bag contains ₹10, ₹5, and ₹2 coins in the ratio 1 : 2 : 3. If the total amount of money in the bag is ₹390, find the number of coins of each kind.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 coins of ₹10, 20 of ₹5, and 30 of ₹2",
+          "html": "<p>10 coins of ₹10, 20 of ₹5, and 30 of ₹2</p>"
+        },
+        {
+          "id": "B",
+          "text": "15 coins of ₹10, 30 of ₹5, and 45 of ₹2",
+          "html": "<p>15 coins of ₹10, 30 of ₹5, and 45 of ₹2</p>"
+        },
+        {
+          "id": "C",
+          "text": "20 coins of ₹10, 40 of ₹5, and 60 of ₹2",
+          "html": "<p>20 coins of ₹10, 40 of ₹5, and 60 of ₹2</p>"
+        },
+        {
+          "id": "D",
+          "text": "12 coins of ₹10, 24 of ₹5, and 36 of ₹2",
+          "html": "<p>12 coins of ₹10, 24 of ₹5, and 36 of ₹2</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let coins be x, 2x, 3x.</p><p>Total value = 10x + 5(2x) + 2(3x) = 26x.</p><p>26x = 390 ⇒ x = 15.</p><p>Hence 15 coins of ₹10, 30 of ₹5, 45 of ₹2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q3",
+      "number": 3,
+      "question": "A tank holds 5 3/4 liters of water. If 2.375 liters are drained twice, how much water remains?",
+      "questionHtml": "<p>A tank holds 5 3/4 liters of water. If 2.375 liters are drained twice, how much water remains?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "<p>1</p>"
+        },
+        {
+          "id": "B",
+          "text": "1 1/4",
+          "html": "<p>1 1/4</p>"
+        },
+        {
+          "id": "C",
+          "text": "1 3/8",
+          "html": "<p>1 3/8</p>"
+        },
+        {
+          "id": "D",
+          "text": "1 1/2",
+          "html": "<p>1 1/2</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>5 3/4 = 5.75 L.</p><p>Water drained = 2.375 × 2 = 4.75 L.</p><p>Remaining = 5.75 − 4.75 = 1 L.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q4",
+      "number": 4,
+      "question": "Simplify: [(2/3) + (4/5 ÷ 2/7)] ÷ [(3/2) − (5/6 × 3/4)]",
+      "questionHtml": "<p>Simplify: [(2/3) + (4/5 ÷ 2/7)] ÷ [(3/2) − (5/6 × 3/4)]</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "416/105",
+          "html": "<p>416/105</p>"
+        },
+        {
+          "id": "B",
+          "text": "418/110",
+          "html": "<p>418/110</p>"
+        },
+        {
+          "id": "C",
+          "text": "425/250",
+          "html": "<p>425/250</p>"
+        },
+        {
+          "id": "D",
+          "text": "526/350",
+          "html": "<p>526/350</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Numerator: 2/3 + (4/5 × 7/2) = 2/3 + 14/5 = (10 + 42)/15 = 52/15.</p><p>Denominator: 3/2 − (15/24) = 3/2 − 5/8 = (12 − 5)/8 = 7/8.</p><p>Result = (52/15) ÷ (7/8) = (52/15) × (8/7) = 416/105.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q5",
+      "number": 5,
+      "question": "Simplify: (2 1/2 + 3.6) ÷ 0.75 + (1.25 × 4/5)",
+      "questionHtml": "<p>Simplify: (2 1/2 + 3.6) ÷ 0.75 + (1.25 × 4/5)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "137/15",
+          "html": "<p>137/15</p>"
+        },
+        {
+          "id": "B",
+          "text": "160/15",
+          "html": "<p>160/15</p>"
+        },
+        {
+          "id": "C",
+          "text": "127/15",
+          "html": "<p>127/15</p>"
+        },
+        {
+          "id": "D",
+          "text": "148/15",
+          "html": "<p>148/15</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>2 1/2 + 3.6 = 6.1.</p><p>6.1 ÷ 0.75 = 6.1 × 4/3 = 24.4/3 = 122/15.</p><p>1.25 × 4/5 = 1 = 15/15.</p><p>Result = 122/15 + 15/15 = 137/15.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q6",
+      "number": 6,
+      "question": "A and B invested in a business in the ratio 5:6. The profit ratio was 10:9. If B invested his money for 12 months, for how many months did A invest?",
+      "questionHtml": "<p>A and B invested in a business in the ratio 5:6. The profit ratio was 10:9. If B invested his money for 12 months, for how many months did A invest?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "15 months",
+          "html": "<p>15 months</p>"
+        },
+        {
+          "id": "B",
+          "text": "16 months",
+          "html": "<p>16 months</p>"
+        },
+        {
+          "id": "C",
+          "text": "17 months",
+          "html": "<p>17 months</p>"
+        },
+        {
+          "id": "D",
+          "text": "18 months",
+          "html": "<p>18 months</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Profit ∝ Investment × Time.</p><p>(5 × t_A)/(6 × 12) = 10/9.</p><p>5 × t_A × 9 = 10 × 6 × 12.</p><p>45 t_A = 720 ⇒ t_A = 16 months.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q7",
+      "number": 7,
+      "question": "The average of 9 numbers is 56. When one number is removed, the average becomes 54. What number was removed?",
+      "questionHtml": "<p>The average of 9 numbers is 56. When one number is removed, the average becomes 54. What number was removed?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "52",
+          "html": "<p>52</p>"
+        },
+        {
+          "id": "B",
+          "text": "72",
+          "html": "<p>72</p>"
+        },
+        {
+          "id": "C",
+          "text": "82",
+          "html": "<p>82</p>"
+        },
+        {
+          "id": "D",
+          "text": "92",
+          "html": "<p>92</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Sum of 9 numbers = 9 × 56 = 504.</p><p>Sum of 8 numbers = 8 × 54 = 432.</p><p>Removed number = 504 − 432 = 72.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q8",
+      "number": 8,
+      "question": "Table – Weekly Fuel Usage (litres) Vehicle Mon Tue Wed Thu Fri Truck1 18 20 22 21 19 Truck 2 25 24 26 23 24 Q: What is the overall average daily fuel usage for both trucks?",
+      "questionHtml": "<p>Table – Weekly Fuel Usage (litres)</p><p>Vehicle</p><p>Mon</p><p>Tue</p><p>Wed</p><p>Thu</p><p>Fri</p><p>Truck1</p><p>18</p><p>20</p><p>22</p><p>21</p><p>19</p><p>Truck 2</p><p>25</p><p>24</p><p>26</p><p>23</p><p>24</p><p>Q: What is the overall average daily fuel usage for both trucks?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "27 litres",
+          "html": "<p>27 litres</p>"
+        },
+        {
+          "id": "B",
+          "text": "22.2 litres",
+          "html": "<p>22.2 litres</p>"
+        },
+        {
+          "id": "C",
+          "text": "28 litres",
+          "html": "<p>28 litres</p>"
+        },
+        {
+          "id": "D",
+          "text": "21.5 litres",
+          "html": "<p>21.5 litres</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Total for Truck1 = 18+20+22+21+19 = 100.</p><p>Total for Truck2 = 25+24+26+23+24 = 122.</p><p>Grand total = 222 over 5 days × 2 trucks = 10 readings.</p><p>Average = 222/10 = 22.2 litres.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q9",
+      "number": 9,
+      "question": "A sum becomes ₹12100 in 2 years at 10% Compound Interest annually. Find the principal.",
+      "questionHtml": "<p>A sum becomes ₹12100 in 2 years at 10% Compound Interest annually. Find the principal.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹10000",
+          "html": "<p>₹10000</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹11000",
+          "html": "<p>₹11000</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹11500",
+          "html": "<p>₹11500</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹10500",
+          "html": "<p>₹10500</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>A = P(1 + r/100)^n.</p><p>12100 = P × (1.1)² = 1.21 P.</p><p>P = 12100/1.21 = ₹10,000.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q10",
+      "number": 10,
+      "question": "A grocer purchased 50 kg of rice at ₹40 per kg and 20 kg of another variety of rice at ₹55 per kg. He mixed the two varieties and sold the entire mixture at ₹48 per kg. Find his total profit or loss in this transaction.",
+      "questionHtml": "<p>A grocer purchased 50 kg of rice at ₹40 per kg and 20 kg of another variety of rice at ₹55 per kg. He mixed the two varieties and sold the entire mixture at ₹48 per kg. Find his total profit or loss in this transaction.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Loss of ₹260",
+          "html": "<p>Loss of ₹260</p>"
+        },
+        {
+          "id": "B",
+          "text": "Loss of ₹240",
+          "html": "<p>Loss of ₹240</p>"
+        },
+        {
+          "id": "C",
+          "text": "Profit of ₹260",
+          "html": "<p>Profit of ₹260</p>"
+        },
+        {
+          "id": "D",
+          "text": "Loss of ₹290",
+          "html": "<p>Loss of ₹290</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Total CP = 50 × 40 + 20 × 55 = 2000 + 1100 = ₹3100.</p><p>Total SP = (50 + 20) × 48 = 70 × 48 = ₹3360.</p><p>Profit = 3360 − 3100 = ₹260.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q11",
+      "number": 11,
+      "question": "A television set has a marked price of ₹20,000. It is sold after two successive discounts. If the first discount is 15% and the final selling price is ₹15,300, what is the percentage of the second discount?",
+      "questionHtml": "<p>A television set has a marked price of ₹20,000. It is sold after two successive discounts. If the first discount is 15% and the final selling price is ₹15,300, what is the percentage of the second discount?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%",
+          "html": "<p>10%</p>"
+        },
+        {
+          "id": "B",
+          "text": "12%",
+          "html": "<p>12%</p>"
+        },
+        {
+          "id": "C",
+          "text": "14%",
+          "html": "<p>14%</p>"
+        },
+        {
+          "id": "D",
+          "text": "15%",
+          "html": "<p>15%</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>After first 15% discount: 20000 × 0.85 = 17000.</p><p>Let second discount be x%.</p><p>17000 × (1 − x/100) = 15300 ⇒ (1 − x/100) = 0.9 ⇒ x = 10%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q12",
+      "number": 12,
+      "question": "A manufacturer marked a product 30% above its cost price. He provided a discount to a customer, which resulted in him making a profit of 17%. What was the rate of discount given by the manufacturer?",
+      "questionHtml": "<p>A manufacturer marked a product 30% above its cost price. He provided a discount to a customer, which resulted in him making a profit of 17%. What was the rate of discount given by the manufacturer?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "24%",
+          "html": "<p>24%</p>"
+        },
+        {
+          "id": "B",
+          "text": "50%",
+          "html": "<p>50%</p>"
+        },
+        {
+          "id": "C",
+          "text": "60%",
+          "html": "<p>60%</p>"
+        },
+        {
+          "id": "D",
+          "text": "10%",
+          "html": "<p>10%</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Let CP = 100. MP = 130. SP for 17% profit = 117.</p><p>Discount = 130 − 117 = 13.</p><p>Discount % on MP = (13/130) × 100 = 10%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q13",
+      "number": 13,
+      "question": "Two containers, A and B, contain mixtures of alcohol and water. Container A has alcohol and water in the ratio 4:1, while Container B has them in the ratio 5:2. If 10 liters are drawn from Container A and 14 liters from Container B, and the contents are mixed in a third container, what is the ratio of alcohol to water in the new mixture?",
+      "questionHtml": "<p>Two containers, A and B, contain mixtures of alcohol and water. Container A has alcohol and water in the ratio 4:1, while Container B has them in the ratio 5:2. If 10 liters are drawn from Container A and 14 liters from Container B, and the contents are mixed in a third container, what is the ratio of alcohol to water in the new mixture?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 : 1",
+          "html": "<p>3 : 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "7 : 2",
+          "html": "<p>7 : 2</p>"
+        },
+        {
+          "id": "C",
+          "text": "9 : 4",
+          "html": "<p>9 : 4</p>"
+        },
+        {
+          "id": "D",
+          "text": "11 : 3",
+          "html": "<p>11 : 3</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>From A (10 L, ratio 4:1): alcohol = 8, water = 2.</p><p>From B (14 L, ratio 5:2): alcohol = 10, water = 4.</p><p>Total: alcohol = 18, water = 6.</p><p>Ratio = 18 : 6 = 3 : 1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q14",
+      "number": 14,
+      "question": "If the radius of a sphere is increased to twice its original size, what is the ratio of the new surface area to the original surface area, as well as the proportion of the new volume to the original volume?",
+      "questionHtml": "<p>If the radius of a sphere is increased to twice its original size, what is the ratio of the new surface area to the original surface area, as well as the proportion of the new volume to the original volume?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 : 1 and 2 : 1",
+          "html": "<p>4 : 1 and 2 : 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "4 : 1 and 8 : 1",
+          "html": "<p>4 : 1 and 8 : 1</p>"
+        },
+        {
+          "id": "C",
+          "text": "8 : 1 and 4 : 1",
+          "html": "<p>8 : 1 and 4 : 1</p>"
+        },
+        {
+          "id": "D",
+          "text": "2 : 1 and 4 : 1",
+          "html": "<p>2 : 1 and 4 : 1</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Surface area ∝ r², so new SA/old SA = 2² = 4 : 1.</p><p>Volume ∝ r³, so new V/old V = 2³ = 8 : 1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q15",
+      "number": 15,
+      "question": "A hemisphere and a cone share the same base and have equal volumes. Given that their common radius is R, determine the height of the cone.",
+      "questionHtml": "<p>A hemisphere and a cone share the same base and have equal volumes. Given that their common radius is R, determine the height of the cone.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2R",
+          "html": "<p>2R</p>"
+        },
+        {
+          "id": "B",
+          "text": "R",
+          "html": "<p>R</p>"
+        },
+        {
+          "id": "C",
+          "text": "5R",
+          "html": "<p>5R</p>"
+        },
+        {
+          "id": "D",
+          "text": "4R",
+          "html": "<p>4R</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Vol of hemisphere = (2/3)πR³.</p><p>Vol of cone = (1/3)πR²h.</p><p>Equal: (1/3)πR²h = (2/3)πR³ ⇒ h = 2R.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q16",
+      "number": 16,
+      "question": "A solid hemisphere of radius 10 cm is melted into two cones of equal height. If each cone’s radius is 5 cm, what is the height of each cone?",
+      "questionHtml": "<p>A solid hemisphere of radius 10 cm is melted into two cones of equal height. If each cone’s radius is 5 cm, what is the height of each cone?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "40 cm",
+          "html": "<p>40 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "45 cm",
+          "html": "<p>45 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "50 cm",
+          "html": "<p>50 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "55 cm",
+          "html": "<p>55 cm</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Volume of hemisphere = (2/3)π(10)³ = 2000π/3.</p><p>Volume of 2 cones = 2 × (1/3)π(5)²h = (50π/3) h.</p><p>(50π/3) h = 2000π/3 ⇒ h = 40 cm.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q17",
+      "number": 17,
+      "question": "If base perimeter = 40 cm, slant height = 10 cm, what is lateral surface area of square pyramid?",
+      "questionHtml": "<p>If base perimeter = 40 cm, slant height = 10 cm, what is lateral surface area of square pyramid?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "260 cm²",
+          "html": "<p>260 cm²</p>"
+        },
+        {
+          "id": "B",
+          "text": "200 cm²",
+          "html": "<p>200 cm²</p>"
+        },
+        {
+          "id": "C",
+          "text": "400 cm²",
+          "html": "<p>400 cm²</p>"
+        },
+        {
+          "id": "D",
+          "text": "432 cm²",
+          "html": "<p>432 cm²</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Lateral surface area of a regular pyramid = (1/2) × Perimeter × Slant height.</p><p>= (1/2) × 40 × 10 = 200 cm².</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q18",
+      "number": 18,
+      "question": "Two circular pizzas have radii in the ratio 2:3. If the smaller pizza has an area of 100π cm², what is the area of the larger pizza?",
+      "questionHtml": "<p>Two circular pizzas have radii in the ratio 2:3. If the smaller pizza has an area of 100π cm², what is the area of the larger pizza?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "265π cm²",
+          "html": "<p>265π cm²</p>"
+        },
+        {
+          "id": "B",
+          "text": "225π cm²",
+          "html": "<p>225π cm²</p>"
+        },
+        {
+          "id": "C",
+          "text": "215π cm²",
+          "html": "<p>215π cm²</p>"
+        },
+        {
+          "id": "D",
+          "text": "250π cm²",
+          "html": "<p>250π cm²</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Area ∝ r². Ratio of areas = 4 : 9.</p><p>Smaller area = 100π ⇒ larger area = 100π × (9/4) = 225π cm².</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q19",
+      "number": 19,
+      "question": "In a triangle ABC, medians AD and BE intersect at G. If the length of median AD is 12 cm, what is the length of the segment AG?",
+      "questionHtml": "<p>In a triangle ABC, medians AD and BE intersect at G. If the length of median AD is 12 cm, what is the length of the segment AG?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 cm",
+          "html": "<p>4 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "6 cm",
+          "html": "<p>6 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "8 cm",
+          "html": "<p>8 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "9 cm",
+          "html": "<p>9 cm</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>ABCDmidpoint of BCEmidpoint of ACGcentroidAG = 8 cm(2/3 × 12)GD = 4 cm(1/3 × 12)AD = 12 cmCentroid theoremAG : GD = 2 : 1AG = ²⁄₃ × AD = 8 cm</p><p>Centroid divides each median in 2 : 1 from the vertex.</p><p>AG = (2/3) × AD = (2/3) × 12 = 8 cm.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q20",
+      "number": 20,
+      "question": "Two right-angled triangular blocks, ABC and DEF, have ∠B = ∠E = 90°. If the lengths of the hypotenuses AC and DF are equal, and the sides AB and DE are equal, are the triangles congruent? If so, by what rule?",
+      "questionHtml": "<p>Two right-angled triangular blocks, ABC and DEF, have ∠B = ∠E = 90°. If the lengths of the hypotenuses AC and DF are equal, and the sides AB and DE are equal, are the triangles congruent? If so, by what rule?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, by SSS",
+          "html": "<p>Yes, by SSS</p>"
+        },
+        {
+          "id": "B",
+          "text": "Yes, by SAS",
+          "html": "<p>Yes, by SAS</p>"
+        },
+        {
+          "id": "C",
+          "text": "Yes, by RHS",
+          "html": "<p>Yes, by RHS</p>"
+        },
+        {
+          "id": "D",
+          "text": "Yes, by ASA",
+          "html": "<p>Yes, by ASA</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Right angle at B and E, equal hypotenuses AC = DF and equal sides AB = DE satisfy the Right-Hypotenuse-Side (RHS) congruence criterion.</p><p>Hence triangles are congruent by RHS.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q21",
+      "number": 21,
+      "question": "A right triangle ABC is inscribed in a circle with a diameter of 10 cm. An altitude BD is drawn from the vertex B to the hypotenuse AC. If the length of the leg AB is 6 cm, what is the length of the segment AD?",
+      "questionHtml": "<p>A right triangle ABC is inscribed in a circle with a diameter of 10 cm. An altitude BD is drawn from the vertex B to the hypotenuse AC. If the length of the leg AB is 6 cm, what is the length of the segment AD?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.6 cm",
+          "html": "<p>3.6 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "4 cm",
+          "html": "<p>4 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "4.8 cm",
+          "html": "<p>4.8 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "6 cm",
+          "html": "<p>6 cm</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>ACBDOAB = 6 cmBC = 8 cmAD = 3.6 cmDC = 6.4 cmBDAC = 10 cm (diameter)Geometric mean theoremAD = AB² ÷ ACAD = 36 ÷ 10AD = 3.6 cmA∠B = 90° (angle in semicircle)∠BDA = 90° (altitude to hypotenuse)</p><p>Hypotenuse AC = diameter = 10 cm; AB = 6 cm, so BC = √(10² − 6²) = 8 cm.</p><p>In a right triangle, AD = AB²/AC = 36/10 = 3.6 cm.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q22",
+      "number": 22,
+      "question": "Two circles intersect at two points. Which of the following statements is true?",
+      "questionHtml": "<p>Two circles intersect at two points. Which of the following statements is true?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The internal tangent is longer than the external tangent",
+          "html": "<p>The internal tangent is longer than the external tangent</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only two common tangents exist",
+          "html": "<p>Only two common tangents exist</p>"
+        },
+        {
+          "id": "C",
+          "text": "The number of tangents depends on radii",
+          "html": "<p>The number of tangents depends on radii</p>"
+        },
+        {
+          "id": "D",
+          "text": "They must be concentric",
+          "html": "<p>They must be concentric</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Two intersecting circles share exactly two common (external) tangents.</p><p>They have no common internal tangent, are not concentric, and the count does not depend on radii once they intersect.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q23",
+      "number": 23,
+      "question": "Two circles with radii r₁ and r₂ touch each other externally. If the length of their direct common tangent is T, which of the following is the correct relationship between T, r₁, and r₂?",
+      "questionHtml": "<p>Two circles with radii r₁ and r₂ touch each other externally. If the length of their direct common tangent is T, which of the following is the correct relationship between T, r₁, and r₂?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "T = r₁ + r₂",
+          "html": "<p>T = r₁ + r₂</p>"
+        },
+        {
+          "id": "B",
+          "text": "T = 2(r₁ + r₂)",
+          "html": "<p>T = 2(r₁ + r₂)</p>"
+        },
+        {
+          "id": "C",
+          "text": "T = 2√(r₁ r₂)",
+          "html": "<p>T = 2√(r₁ r₂)</p>"
+        },
+        {
+          "id": "D",
+          "text": "T = r₁² + r₂²",
+          "html": "<p>T = r₁² + r₂²</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>For two externally touching circles, distance between centres = r₁ + r₂.</p><p>Direct common tangent length = √(d² − (r₁ − r₂)²) = √((r₁ + r₂)² − (r₁ − r₂)²) = √(4 r₁ r₂) = 2√(r₁ r₂).</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q24",
+      "number": 24,
+      "question": "A chord of a circle has a length of 12 cm. The angle subtended by the chord at a point on the circumference is 30°. What is the distance from the center of the circle to the chord?",
+      "questionHtml": "<p>A chord of a circle has a length of 12 cm. The angle subtended by the chord at a point on the circumference is 30°. What is the distance from the center of the circle to the chord?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "6√3 cm",
+          "html": "<p>6√3 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "3√3 cm",
+          "html": "<p>3√3 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "6 cm",
+          "html": "<p>6 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "3 cm",
+          "html": "<p>3 cm</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>60°30°6 cm6 cmd = 6√3≈ 10.39 cmR = 12R = 12OABMPAB = 12 cmKey relationshipsInscribed ∠ = 30° → central ∠ = 60°chord = 2R sin(30°) → R = 12 cmd² = R² − (chord/2)²d² = 144 − 36 = 108d = 6√3 ≈ 10.39 cmOM ⊥ AB — perpendicular from centre bisects the chord</p><p>Angle at centre = 2 × 30° = 60°.</p><p>Half-chord = r × sin 30° ⇒ 6 = r/2 ⇒ r = 12.</p><p>Distance from centre to chord = r × cos 30° = 12 × √3/2 = 6√3 cm.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7f3586707b3c-q25",
+      "number": 25,
+      "question": "What is the area of the segment formed by a chord in a circle of radius 8 cm, if the angle subtended at the center is 60°?",
+      "questionHtml": "<p>What is the area of the segment formed by a chord in a circle of radius 8 cm, if the angle subtended at the center is 60°?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(32π/3) − 16√3",
+          "html": "<p>(32π/3) − 16√3</p>"
+        },
+        {
+          "id": "B",
+          "text": "64π·3 − 16√3",
+          "html": "<p>64π·3 − 16√3</p>"
+        },
+        {
+          "id": "C",
+          "text": "(32π/3) − 8√3",
+          "html": "<p>(32π/3) − 8√3</p>"
+        },
+        {
+          "id": "D",
+          "text": "(64π/3) − 32√3",
+          "html": "<p>(64π/3) − 32√3</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Area of sector = (60/360) × π × 8² = (1/6) × 64π = 32π/3.</p><p>Area of triangle = (1/2) × 8² × sin 60° = (1/2) × 64 × √3/2 = 16√3.</p><p>Segment area = (32π/3) − 16√3.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

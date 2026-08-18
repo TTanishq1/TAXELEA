@@ -1,0 +1,559 @@
+{
+  "id": "a7ab085ed8b2",
+  "provider": "RBE_Mocks",
+  "sourceFile": "Blood_Relation.html",
+  "sourcePath": "RBE_MOCKS/Blood_Relation.html",
+  "title": "Blood Relation",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 16,
+  "questions": [
+    {
+      "id": "a7ab085ed8b2-q1",
+      "number": 1,
+      "question": "In a certain code, ‘A + B’ means A is the mother of B, ‘A × B’ means A is the father of B, ‘A – B’ means A is the sister of B. What does P × Q – R mean?",
+      "questionHtml": "<p>In a certain code, ‘A + B’ means A is the mother of B, ‘A × B’ means A is the father of B, ‘A – B’ means A is the sister of B. What does P × Q – R mean? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "P is the father of Q and Q is the sister of R P, Q का पिता है और Q, R की बहन है",
+          "html": "<p>P is the father of Q and Q is the sister of R <br/>P, Q का पिता है और Q, R की बहन है </p>"
+        },
+        {
+          "id": "B",
+          "text": "P is the father of R and Q is the sister of R P, R का पिता है और Q, R की बहन है",
+          "html": "<p>P is the father of R and Q is the sister of R <br/>P, R का पिता है और Q, R की बहन है </p>"
+        },
+        {
+          "id": "C",
+          "text": "Q is the sister of R and Q is the sister of R Q, R की बहन है और Q, R की बहन है",
+          "html": "<p>Q is the sister of R and Q is the sister of R <br/>Q, R की बहन है और Q, R की बहन है </p>"
+        },
+        {
+          "id": "D",
+          "text": "P is the brother of R and Q is the sister of R P, R का भाई है और Q, R की बहन है",
+          "html": "<p>P is the brother of R and Q is the sister of R <br/>P, R का भाई है और Q, R की बहन है </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Given code meanings: </p><p>A + B → A is the mother of B </p><p>A × B → A is the father of B </p><p>A − B → A is the sister of B </p><p>Expression: P × Q − R </p><p>Step-by-step interpretation: </p><p>P × Q → P is the father of Q </p><p>Q − R → Q is the sister of R </p><p>So , the full meaning: P is the father of Q, and Q is the sister of R </p><p>Answer: P is the father of Q and Q is the sister of R </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a7ab085ed8b2-q2",
+      "number": 2,
+      "question": "If A is the mother of B, and B is the father of C, then how is A related to C?",
+      "questionHtml": "<p>If A is the mother of B, and B is the father of C, then how is A related to C? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mother",
+          "html": "<p>Mother </p>"
+        },
+        {
+          "id": "B",
+          "text": "Aunt",
+          "html": "<p>Aunt </p>"
+        },
+        {
+          "id": "C",
+          "text": "Sister",
+          "html": "<p>Sister </p>"
+        },
+        {
+          "id": "D",
+          "text": "Grandmother",
+          "html": "<p>Grandmother </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756625344564_image001.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a7ab085ed8b2-q3",
+      "number": 3,
+      "question": "If X is the father of Y and Y is the mother of Z, then how is X related to Z?",
+      "questionHtml": "<p>If X is the father of Y and Y is the mother of Z, then how is X related to Z? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Brother-in-law",
+          "html": "<p>Brother-in-law </p>"
+        },
+        {
+          "id": "B",
+          "text": "Uncle",
+          "html": "<p>Uncle </p>"
+        },
+        {
+          "id": "C",
+          "text": "Father-in-law",
+          "html": "<p>Father-in-law </p>"
+        },
+        {
+          "id": "D",
+          "text": "Grandfather",
+          "html": "<p>Grandfather </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>X is the grandfather of Z. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a7ab085ed8b2-q4",
+      "number": 4,
+      "question": "Ramu said, \"She is the daughter of the only son of my grandfather.\" How is Ramu related to the girl?",
+      "questionHtml": "<p>Ramu said, \"She is the daughter of the only son of my grandfather.\" How is Ramu related to the girl? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cousin",
+          "html": "<p>Cousin </p>"
+        },
+        {
+          "id": "B",
+          "text": "Brother",
+          "html": "<p>Brother </p>"
+        },
+        {
+          "id": "C",
+          "text": "Father",
+          "html": "<p>Father </p>"
+        },
+        {
+          "id": "D",
+          "text": "Uncle",
+          "html": "<p>Uncle </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Ramu says: \"She is the daughter of the only son of my grandfather.\" </p><p>Ramu's grandfather's only son = Ramu's father (since he's the only son). </p><p>So , the girl is the daughter of Ramu's father . </p><p>That means: → The girl is Ramu's sister . </p><p>Correct answer: Brother </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a7ab085ed8b2-q5",
+      "number": 5,
+      "question": "Pointing to a woman, Ravi says, \"She is the daughter of the only son of my father.\" How is the woman related to Ravi?",
+      "questionHtml": "<p>Pointing to a woman, Ravi says, \"She is the daughter of the only son of my father.\" How is the woman related to Ravi? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cousin",
+          "html": "<p>Cousin </p>"
+        },
+        {
+          "id": "B",
+          "text": "Uncle",
+          "html": "<p>Uncle </p>"
+        },
+        {
+          "id": "C",
+          "text": "Daughter",
+          "html": "<p>Daughter </p>"
+        },
+        {
+          "id": "D",
+          "text": "Brother",
+          "html": "<p>Brother </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Statement: \"She is the daughter of the only son of my father.\" </p><p>\"My father’s only son\" = Ravi himself </p><p>So, \"She is the daughter of Ravi\" </p><p>Therefore, the woman is Ravi’s daughter. </p><p>✅ Correct answer: Daughter </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a7ab085ed8b2-q6",
+      "number": 6,
+      "question": "Read the information carefully and identify the correct relationship between the persons mentioned in the question. A is the brother of B . C is the mother of A. D is the daughter of C. E is the father of D. Q uestion: How is B related to E?",
+      "questionHtml": "<p>Read the information carefully and identify the correct relationship between the persons mentioned in the question. <br/>A is the brother of B . <br/>C is the mother of A. <br/>D is the daughter of C. <br/>E is the father of D. <br/>Q uestion: How is B related to E? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Daughter",
+          "html": "<p>Daughter </p>"
+        },
+        {
+          "id": "B",
+          "text": "Cannot be determined",
+          "html": "<p>Cannot be determined </p>"
+        },
+        {
+          "id": "C",
+          "text": "Wife",
+          "html": "<p>Wife </p>"
+        },
+        {
+          "id": "D",
+          "text": "Son",
+          "html": "<p>Son </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>B’s relation to E cannot be determined . </p><p>Reason: </p><p>C and E are the parents of D. </p><p>A is C’s son, so A is also a child of C (and likely of E). </p><p>B is A’s sibling, so B is also C’s child (and likely E’s). </p><p>But the gender of B is not mentioned. B could be E’s son or E’s daughter . </p><p>So, the relation cannot be uniquely identified. </p><p>Correct option: Cannot be determined </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a7ab085ed8b2-q7",
+      "number": 7,
+      "question": "A and B are sisters. C is the brother of A. D is the father of C. How is D related to B?",
+      "questionHtml": "<p>A and B are sisters. C is the brother of A. D is the father of C. How is D related to B? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Uncle",
+          "html": "<p>Uncle </p>"
+        },
+        {
+          "id": "B",
+          "text": "Brother",
+          "html": "<p>Brother </p>"
+        },
+        {
+          "id": "C",
+          "text": "Father",
+          "html": "<p>Father </p>"
+        },
+        {
+          "id": "D",
+          "text": "Father-in-law",
+          "html": "<p>Father-in-law </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>A and B are sisters → They share the same parents. </p><p>C is the brother of A → So C is also the brother of B. </p><p>D is the father of C → Therefore, D is also the father of A and B. </p><p>So, D is the father of B . </p><p>Correct answer: Father </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a7ab085ed8b2-q8",
+      "number": 8,
+      "question": "A is the father of B, and B is the mother of C. How is A related to C?",
+      "questionHtml": "<p>A is the father of B, and B is the mother of C. How is A related to C? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Uncle",
+          "html": "<p>Uncle </p>"
+        },
+        {
+          "id": "B",
+          "text": "Brother",
+          "html": "<p>Brother </p>"
+        },
+        {
+          "id": "C",
+          "text": "Grandfather",
+          "html": "<p>Grandfather </p>"
+        },
+        {
+          "id": "D",
+          "text": "Father",
+          "html": "<p>Father </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>A is the father of B </p><p>B is the mother of C </p><p>⇒ So, A is the maternal grandfather of C </p><p>Correct answer: Grandfather </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a7ab085ed8b2-q9",
+      "number": 9,
+      "question": "A says to B, \"You are the daughter of the only son of my father.\" How is A related to B?",
+      "questionHtml": "<p>A says to B, \"You are the daughter of the only son of my father.\" How is A related to B? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mother",
+          "html": "<p>Mother </p>"
+        },
+        {
+          "id": "B",
+          "text": "Uncle",
+          "html": "<p>Uncle </p>"
+        },
+        {
+          "id": "C",
+          "text": "Aunt",
+          "html": "<p>Aunt </p>"
+        },
+        {
+          "id": "D",
+          "text": "Father",
+          "html": "<p>Father </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>A says \"my father’s only son.\" The only son of A’s father is A himself. So B is the daughter of A. If B is A’s daughter, then A must be B’s father. Therefore, the correct answer is Father . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a7ab085ed8b2-q10",
+      "number": 10,
+      "question": "Introducing a boy, a girl said, \"He is the son of the daughter of my father’s brother.\" How is the boy related to the girl?",
+      "questionHtml": "<p>Introducing a boy, a girl said, \"He is the son of the daughter of my father’s brother.\" How is the boy related to the girl? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cousin",
+          "html": "<p>Cousin </p>"
+        },
+        {
+          "id": "B",
+          "text": "Nephew",
+          "html": "<p>Nephew </p>"
+        },
+        {
+          "id": "C",
+          "text": "Brother",
+          "html": "<p>Brother </p>"
+        },
+        {
+          "id": "D",
+          "text": "Uncle",
+          "html": "<p>Uncle </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>\"My father’s brother\" = Girl’s uncle </p><p>\"Daughter of my father’s brother\" = Uncle’s daughter = Girl’s cousin. </p><p>\"Son of that daughter\" = Cousin’s son. </p><p>A cousin’s son is always considered as Nephew ( भतीजा) in relation to the girl. Therefore, the boy is the Nephew of the girl. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a7ab085ed8b2-q11",
+      "number": 11,
+      "question": "Read the information carefully and identify the correct relationship between the persons mentioned in the question. Rita is the mother of Deepa. Deepa is the sister of Aman. Aman is the father of Kabir. Question: How is Rita related to Kabir?",
+      "questionHtml": "<p>Read the information carefully and identify the correct relationship between the persons mentioned in the question. </p><p>Rita is the mother of Deepa. </p><p>Deepa is the sister of Aman. </p><p>Aman is the father of Kabir. </p><p>Question: How is Rita related to Kabir? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Grandmother दादी",
+          "html": "<p>Grandmother दादी </p>"
+        },
+        {
+          "id": "B",
+          "text": "Aunt चाची",
+          "html": "<p>Aunt चाची </p>"
+        },
+        {
+          "id": "C",
+          "text": "Mother माँ",
+          "html": "<p>Mother माँ </p>"
+        },
+        {
+          "id": "D",
+          "text": "Sister बहन",
+          "html": "<p>Sister बहन </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Step by Step: <br/>• Rita is the mother of Deepa . <br/>• Deepa is the sister of Aman → so Aman is also Rita’s child. <br/>• Aman is the father of Kabir . <br/>• That means Rita is Aman’s mother → hence, Rita is Kabir’s Grandmother . <br/><br/>Correct Answer = Grandmother ( दादी ) </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a7ab085ed8b2-q12",
+      "number": 12,
+      "question": "Pointing to a girl in a photograph, Amit said, \"She is the daughter of the only sister of my father.\" How is the girl related to Amit?",
+      "questionHtml": "<p>Pointing to a girl in a photograph, Amit said, \"She is the daughter of the only sister of my father.\" How is the girl related to Amit? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Niece",
+          "html": "<p>Niece </p>"
+        },
+        {
+          "id": "B",
+          "text": "Aunt",
+          "html": "<p>Aunt </p>"
+        },
+        {
+          "id": "C",
+          "text": "Sister",
+          "html": "<p>Sister </p>"
+        },
+        {
+          "id": "D",
+          "text": "Cousin",
+          "html": "<p>Cousin </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>– Amit’s father’s only sister = Amit’s aunt ( बुआ (. <br/>– The girl is the daughter of Amit’s aunt . <br/>– So the girl is Amit’s cousin ( चचेरी बहन ( <br/>– Correct answer: Cousin → Option 4 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a7ab085ed8b2-q13",
+      "number": 13,
+      "question": "If A is the brother of B, and B is the mother of C, how is A related to C?",
+      "questionHtml": "<p>If A is the brother of B, and B is the mother of C, how is A related to C? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Father",
+          "html": "<p>Father </p>"
+        },
+        {
+          "id": "B",
+          "text": "Uncle",
+          "html": "<p>Uncle </p>"
+        },
+        {
+          "id": "C",
+          "text": "Brother",
+          "html": "<p>Brother </p>"
+        },
+        {
+          "id": "D",
+          "text": "Grandfather",
+          "html": "<p>Grandfather </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>A is B’s brother (male). B is the mother of C, so A is the mother’s brother of C — i.e., maternal uncle . Therefore, A is Uncle to C (Option 2). </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a7ab085ed8b2-q14",
+      "number": 14,
+      "question": "If P says, \"Q is the son of my father's only daughter,\" how is Q related to P?",
+      "questionHtml": "<p>If P says, \"Q is the son of my father's only daughter,\" how is Q related to P? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nephew",
+          "html": "<p>Nephew </p>"
+        },
+        {
+          "id": "B",
+          "text": "Cousin",
+          "html": "<p>Cousin </p>"
+        },
+        {
+          "id": "C",
+          "text": "Son",
+          "html": "<p>Son </p>"
+        },
+        {
+          "id": "D",
+          "text": "Brother",
+          "html": "<p>Brother </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>“My father’s only daughter” refers to P’s sister (the unique daughter of P’s father). Q is the son of P’s sister , so Q is P’s nephew . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a7ab085ed8b2-q15",
+      "number": 15,
+      "question": "Read the information carefully and identify the correct relationship. A is the father of B. C is the son of A. D is the brother of E. E is the daughter of B. Qu estion: How is C related to D ?",
+      "questionHtml": "<p>Read the information carefully and identify the correct relationship. A is the father of B. C is the son of A. D is the brother of E. E is the daughter of B. Qu estion: How is C related to D ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Uncle",
+          "html": "<p>Uncle </p>"
+        },
+        {
+          "id": "B",
+          "text": "Father",
+          "html": "<p>Father </p>"
+        },
+        {
+          "id": "C",
+          "text": "Cousin",
+          "html": "<p>Cousin </p>"
+        },
+        {
+          "id": "D",
+          "text": "Brother",
+          "html": "<p>Brother </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>C is A’s son ⇒ C is sibling of B . E is B’s daughter and D is E’s brother ⇒ D is B’s son . Hence D is the nephew of C, so C is D’s uncle . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a7ab085ed8b2-q16",
+      "number": 16,
+      "question": "Read the information carefully and identify the correct relationship between the persons mentioned in the question. Ravi is the son of Pooja. Pooja is the daughter-in-law of Shyam. Shyam is the father of Karan. Question: How is Karan related to Ravi?",
+      "questionHtml": "<p>Read the information carefully and identify the correct relationship between the persons mentioned in the question. Ravi is the son of Pooja. Pooja is the daughter-in-law of Shyam. Shyam is the father of Karan. Question: How is Karan related to Ravi? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Father",
+          "html": "<p>Father </p>"
+        },
+        {
+          "id": "B",
+          "text": "Grandfather",
+          "html": "<p>Grandfather </p>"
+        },
+        {
+          "id": "C",
+          "text": "Uncle",
+          "html": "<p>Uncle </p>"
+        },
+        {
+          "id": "D",
+          "text": "Brother",
+          "html": "<p>Brother </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Ravi is the son of Pooja. Pooja is Shyam’s daughter-in-law, meaning Pooja is married to Shyam’s son Karan. Hence, Ravi is Karan’s son. So, Karan is the Father of Ravi . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

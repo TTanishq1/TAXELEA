@@ -1,0 +1,380 @@
+{
+  "id": "af43e6fb7a27",
+  "provider": "Testbook",
+  "sourceFile": "CT 42_ Pipe and Cistern.html",
+  "sourcePath": "Testbook/files/CT 42_ Pipe and Cistern.html",
+  "title": "CT 42: Pipe and Cistern",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 792,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "af43e6fb7a27-q1",
+      "number": 1,
+      "question": "Pipe A can fill a tank in 792 minutes and Pipe B can empty the same tank in 990 minutes. If both pipes are opened together, how many hours will it take to fill the empty tank?",
+      "questionHtml": "Pipe A can fill a tank in 792 minutes and Pipe B can empty the same tank in 990 minutes. If both pipes are opened together, how many hours will it take to fill the empty tank?",
+      "options": [
+        {
+          "id": "A",
+          "text": "72",
+          "html": "<span style=\"\">72&nbsp;</span>"
+        },
+        {
+          "id": "B",
+          "text": "70",
+          "html": "<span style=\"\">70</span>"
+        },
+        {
+          "id": "C",
+          "text": "68",
+          "html": "<span style=\"\">68</span>"
+        },
+        {
+          "id": "D",
+          "text": "66",
+          "html": "<span style=\"\">66</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Net time taken (min) = (<strong>A</strong> × <strong>B</strong>) ÷ (<strong>B</strong> − <strong>A</strong>)</p>\n<p>Net time = (792 × 990) ÷ (990 − 792) = (792 × 990) ÷ 198</p>\n<p>Net time = 4 × 990 = 3960 minutes</p>\n<p>Time in <strong>hours</strong> = 3960 ÷ 60 = 66 hr</p>\n<p><strong>∴ The correct answer is 66 hours.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Filling time of <strong>Pipe A</strong> = 792 min, Emptying time of <strong>Pipe B</strong> = 990 min.</p>\n<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;text-align:left;'>\n  <tbody>\n    <tr>\n      <td><strong>Pipe</strong></td>\n      <td><strong>Time (min)</strong></td>\n      <td><strong>Total Work (LCM)</strong></td>\n      <td><strong>Efficiency</strong></td>\n    </tr>\n    <tr>\n      <td>Pipe A (Fill)</td>\n      <td>792</td>\n      <td rowspan='2'>3960</td>\n      <td>+5</td>\n    </tr>\n    <tr>\n      <td>Pipe B (Empty)</td>\n      <td>990</td>\n      <td>−4</td>\n    </tr>\n  </tbody>\n</table>\n<p>⇒ <strong>Total Capacity</strong> of the tank = LCM of 792 and 990 = 3960 units.</p>\n<p>⇒ <strong>Efficiency</strong> of Pipe A = 3960 ÷ 792 = +5 unit/min.</p>\n<p>⇒ <strong>Efficiency</strong> of Pipe B = 3960 ÷ 990 = −4 unit/min.</p>\n<p>⇒ <strong>Net Efficiency</strong> when both are open = 5 − 4 = 1 unit/min.</p>\n<p>⇒ <strong>Total Time</strong> (min) = Total Capacity ÷ Net Efficiency = 3960 ÷ 1 = 3960 min.</p>\n<p>⇒ <strong>Total Time</strong> (hr) = 3960 ÷ 60 = 66 hr.</p>\n<p><strong>∴ The correct answer is 66 hours.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Pipes and Cisterns Convention</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Work done by an <strong>inlet pipe</strong> (filling) is taken as <strong>positive</strong>, and work done by an <strong>outlet pipe</strong> (emptying) is taken as <strong>negative</strong>.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Combined Rate Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If an inlet pipe fills in 'x' hours and an outlet pipe empties in 'y' hours (where y > x), the net time taken to fill the tank is (x × y) ÷ (y − x).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Efficiency Relationship</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Efficiency is <strong>inversely proportional</strong> to the time taken to complete the work (Efficiency = Total Work ÷ Time).</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "af43e6fb7a27-q2",
+      "number": 2,
+      "question": "The capacity of pipe A is thrice that of pipe B. The time taken by pipe A to fill in the tank 16 minutes less than the time taken by B to do the same. If both the pipes A and B work together, how many minutes the tank will be filled in?",
+      "questionHtml": "The capacity of pipe A is thrice that of pipe B. The time taken by pipe A to fill in the tank 16 minutes less than the time taken by B to do the same. If both the pipes A and B work together, how many minutes the tank will be filled in?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "B",
+          "text": "10",
+          "html": "10"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "4"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p><strong>Efficiency Ratio</strong> (A : B) = 3 : 1 ⇒ <strong>Time Ratio</strong> (A : B) = 1 : 3.</p>\n<p>Difference in time units = 3 − 1 = 2 units.</p>\n<p>Given 2 units = 16 min ⇒ 1 unit = 8 min (Time for <strong>Pipe A</strong>) and 3 units = 24 min (Time for <strong>Pipe B</strong>).</p>\n<p>Combined time = (A × B) ÷ (A + B) = (8 × 24) ÷ (8 + 24) = 192 ÷ 32 = 6 min.</p>\n<p><strong>∴ The correct answer is 6 min.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> <strong>Capacity</strong> of <strong>Pipe A</strong> is thrice that of <strong>Pipe B</strong>. <strong>Time difference</strong> between A and B to fill the <strong>tank</strong> is 16 min.</p>\n<p>⇒ Let <strong>Efficiency</strong> of <strong>Pipe B</strong> = 1 unit/min. Then <strong>Efficiency</strong> of <strong>Pipe A</strong> = 3 units/min.</p>\n<p>⇒ Let <strong>Time</strong> taken by <strong>Pipe B</strong> = t min. <strong>Time</strong> taken by <strong>Pipe A</strong> = (t − 16) min.</p>\n<p>⇒ Since <strong>Total Work</strong> is constant: Efficiency<sub>A</sub> × Time<sub>A</sub> = Efficiency<sub>B</sub> × Time<sub>B</sub></p>\n<p>⇒ 3 × (t − 16) = 1 × t ⇒ 3t − 48 = t ⇒ 2t = 48 ⇒ t = 24 min.</p>\n<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;text-align:left;'>\n  <tbody>\n    <tr>\n      <td><strong>Pipe</strong></td>\n      <td><strong>Time (min)</strong></td>\n      <td><strong>Total Work (LCM)</strong></td>\n      <td><strong>Efficiency (units/min)</strong></td>\n    </tr>\n    <tr>\n      <td><strong>Pipe A</strong></td>\n      <td>8</td>\n      <td rowspan='2'>24 units</td>\n      <td>3</td>\n    </tr>\n    <tr>\n      <td><strong>Pipe B</strong></td>\n      <td>24</td>\n      <td>1</td>\n    </tr>\n  </tbody>\n</table>\n<p>⇒ <strong>Combined Efficiency</strong> (A + B) = 3 + 1 = 4 units/min.</p>\n<p>⇒ <strong>Time taken together</strong> = Total Work ÷ Combined Efficiency = 24 ÷ 4 = 6 min.</p>\n<p><strong>∴ The correct answer is 6 min.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Efficiency and Time Relation</p>\n<p style='margin:0 0 8px 0;color:#444444;'>For a fixed work, <strong>Efficiency</strong> is inversely proportional to <strong>Time</strong>. If efficiency ratio is a:b, then time ratio is b:a.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Combined Work Formula</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If two pipes can fill a tank in x and y minutes respectively, then both together can fill it in (xy) ÷ (x + y) minutes.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Work-Efficiency Product</p>\n<p style='margin:0 0 8px 0;color:#444444;'><strong>Total Work</strong> = <strong>Efficiency</strong> × <strong>Time</strong>. This constant product helps in establishing equations between different pipes.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "af43e6fb7a27-q3",
+      "number": 3,
+      "question": "Pipe A can fill an empty cistern in 6 hours while along with Pipe B it can fill it up in 4 hours. Only Pipe B is on for an hour after which Pipe A is also turned on. How much time will it take in all to fill up the cistern?",
+      "questionHtml": "<span style=\"\">Pipe A can fill an empty cistern in 6 hours while along with Pipe B it can fill it up in 4 hours. Only Pipe B is on for an hour after which Pipe A is also turned on. How much time will it take in all to fill up the cistern?</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 hours 40 minutes",
+          "html": "<span style=\"\">4 hours 40 minutes</span>"
+        },
+        {
+          "id": "B",
+          "text": "4 hours",
+          "html": "<span style=\"\">4 hours&nbsp;</span>"
+        },
+        {
+          "id": "C",
+          "text": "4 hours 25 minutes",
+          "html": "<span style=\"\">4 hours 25 minutes</span>"
+        },
+        {
+          "id": "D",
+          "text": "4 hours 15 minutes",
+          "html": "<span style=\"\">4 hours 15 minutes</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Total work = <strong>LCM</strong>(6, 4) = 12 units.</p>\n<p>Efficiency: <strong>Pipe A</strong> = 2, <strong>Pipe A + B</strong> = 3 ⇒ <strong>Pipe B</strong> = 1.</p>\n<p><strong>Pipe B</strong> fills 1 unit in the 1<sup>st</sup> hour.</p>\n<p>Remaining 11 units filled by both at 3 units/hr = 3 hr 40 min.</p>\n<p>Total time = 1 hr + 3 hr 40 min = 4 hr 40 min.</p>\n<p><strong>∴ The correct answer is 4 hr 40 min.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Time taken by <strong>Pipe A</strong> = 6 hr</p>\n<p>Time taken by <strong>Pipe A</strong> and <strong>Pipe B</strong> together = 4 hr</p>\n<p><strong>Method:</strong></p>\n<p>Total capacity of the <strong>cistern</strong> is the <strong>LCM</strong> of individual times.</p>\n<table border=\"1\" cellpadding=\"6\" cellspacing=\"0\" style=\"border-collapse:collapse;text-align:left;\">\n  <tbody>\n    <tr>\n      <td><strong>Person/Pipe</strong></td>\n      <td><strong>Days/Time (hr)</strong></td>\n      <td><strong>Total Work (units)</strong></td>\n      <td><strong>Efficiency (units/hr)</strong></td>\n    </tr>\n    <tr>\n      <td>Pipe A</td>\n      <td>6</td>\n      <td rowspan=\"2\">12</td>\n      <td>12 ÷ 6 = 2</td>\n    </tr>\n    <tr>\n      <td>Pipe A + B</td>\n      <td>4</td>\n      <td>12 ÷ 4 = 3</td>\n    </tr>\n  </tbody>\n</table>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Efficiency of <strong>Pipe B</strong> = (Efficiency of A + B) − (Efficiency of A) = 3 − 2 = 1 unit/hr.</p>\n<p>⇒ Work done by <strong>Pipe B</strong> alone in 1 hour = 1 × 1 = 1 unit.</p>\n<p>⇒ Remaining work to be filled = 12 − 1 = 11 units.</p>\n<p>⇒ Time taken by <strong>Pipe A</strong> and <strong>Pipe B</strong> together to fill remaining = 11 ÷ 3 = 3<sup>2</sup>/<sub>3</sub> hours.</p>\n<p>⇒ Conversion: 2/3 hours = 2/3 × 60 = 40 minutes.</p>\n<p>⇒ Time for remaining part = 3 hr 40 min.</p>\n<p>⇒ Total time taken = 1 hr (initial) + 3 hr 40 min = 4 hr 40 min.</p>\n<p><strong>∴ The correct answer is 4 hr 40 min.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Pipes and Cisterns efficiency</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Efficiency is inversely proportional to the time taken. If a pipe fills a tank in 'x' hours, its 1-hour work is 1/x.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Inlet and Outlet Pipes</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Inlet pipes (filling) are considered positive work, while outlet pipes (emptying) are considered negative work in net efficiency calculations.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Work-Time Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Total Work = Efficiency × Time. For two pipes A and B working together, Total Time = (Total Work) ÷ (Efficiency<sub>A</sub> + Efficiency<sub>B</sub>).</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "af43e6fb7a27-q4",
+      "number": 4,
+      "question": "Three pipes A, B and C can fill a swimming pool in 10 hours, when operated simultaneously. After working for 3 hours, pipe B is closed and the remaining part of the pool is filled by A and C in 14 hours. How much time (in hours) would be taken by pipe B alone to fill the pool completely?",
+      "questionHtml": "Three pipes A, B and C can fill a swimming pool in 10 hours, when operated simultaneously. After working for 3 hours, pipe B is closed and the remaining part of the pool is filled by A and C in 14 hours. How much time (in hours) would be taken by pipe B alone to fill the pool completely?",
+      "options": [
+        {
+          "id": "A",
+          "text": "18",
+          "html": "18"
+        },
+        {
+          "id": "B",
+          "text": "14",
+          "html": "14"
+        },
+        {
+          "id": "C",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "D",
+          "text": "20",
+          "html": "20"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Combined efficiency of <strong>A + B + C</strong> = 1/10 pool/hr.</p>\n<p>In <strong>3 hours</strong>, pool filled = 3 × (1/10) = 3/10.</p>\n<p>Remaining work = 1 − 3/10 = 7/10, completed by <strong>A + C</strong> in <strong>14 hours</strong>.</p>\n<p>Efficiency of <strong>A + C</strong> = (7/10) ÷ 14 = 1/20 pool/hr.</p>\n<p>Efficiency of <strong>B</strong> = (Efficiency of A+B+C) − (Efficiency of A+C) = 1/10 − 1/20 = 1/20 pool/hr.</p>\n<p>Time for <strong>pipe B alone</strong> = 1 ÷ (1/20) = 20 hours.</p>\n<p><strong>∴ The correct answer is 20 hr.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Time for (A + B + C) = 10 hr. After 3 hr, B is closed. Remaining work filled by (A + C) in 14 hr.</p>\n<p><strong>Formula:</strong> Efficiency = Total Work ÷ Time</p>\n<p>⇒ Total time for <strong>A + C</strong> to fill the pool = 14 × (10 ÷ 7) = 20 hr.</p>\n<p>⇒ <strong>Total Work</strong> = LCM of 10 and 20 = 20 units.</p>\n<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;text-align:left;'>\n  <tbody>\n    <tr>\n      <td><strong>Pipe(s)</strong></td>\n      <td><strong>Total Time (hr)</strong></td>\n      <td><strong>Total Work</strong></td>\n      <td><strong>Efficiency</strong></td>\n    </tr>\n    <tr>\n      <td><strong>A + B + C</strong></td>\n      <td>10</td>\n      <td rowspan='2'>20 units</td>\n      <td>2 units/hr</td>\n    </tr>\n    <tr>\n      <td><strong>A + C</strong></td>\n      <td>20</td>\n      <td>1 unit/hr</td>\n    </tr>\n  </tbody>\n</table>\n<p>⇒ Efficiency of <strong>pipe B</strong> = Efficiency of (A + B + C) − Efficiency of (A + C)</p>\n<p>⇒ Efficiency of <strong>pipe B</strong> = 2 − 1 = 1 unit/hr.</p>\n<p>⇒ Time taken by <strong>pipe B alone</strong> = Total Work ÷ Efficiency of B</p>\n<p>⇒ Time taken by <strong>pipe B alone</strong> = 20 ÷ 1 = 20 hr.</p>\n<p><strong>∴ The correct answer is 20 hr.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Pipes and Cisterns Logic</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Filling pipes have <strong>positive efficiency</strong>, while outlet or drain pipes have <strong>negative efficiency</strong>.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Work and Efficiency Relationship</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Total Work = Efficiency × Time. If work is constant, <strong>Time</strong> is inversely proportional to <strong>Efficiency</strong>.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Combined Rate Formula</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If pipe A fills in X hours and pipe B fills in Y hours, together they fill in (X × Y) ÷ (X + Y) hours.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "af43e6fb7a27-q5",
+      "number": 5,
+      "question": "In 1 minute 4/9th of a bucket is filled. The rest of the bucket can be filled in",
+      "questionHtml": "<p>In 1 minute 4/9th of a bucket is filled. The rest of the bucket can be filled in</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 min",
+          "html": "3 min"
+        },
+        {
+          "id": "B",
+          "text": "5/4 min",
+          "html": "5/4 min"
+        },
+        {
+          "id": "C",
+          "text": "3/5 min",
+          "html": "3/5 min"
+        },
+        {
+          "id": "D",
+          "text": "None of these",
+          "html": "None of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>4/9<sup>th</sup> part of bucket is filled, So remaining  part of bucket is 1- 4/9 = 5/9</p>\n\n<p>⇒ 4/9<sup>th</sup> = 1 minute </p>\n\n<p><span style=\"\">⇒ </span>5/9<sup>th </sup>= 1 × 5/9 × 9/4 = 5/4 min</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "af43e6fb7a27-q6",
+      "number": 6,
+      "question": "Pipe A and B can fill a large tub of water in 2.5 min and 3 min respectively and C can carry away 7 liters per min. If all the pipes are open when the tub is full, it is emptied in 45 min, what is the capacity of the tub?",
+      "questionHtml": "Pipe A and B can fill a large tub of water in 2.5 min and 3 min respectively and C can carry away 7 liters per min. If all the pipes are open when the tub is full, it is emptied in 45 min, what is the capacity of the tub?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8.50 liters",
+          "html": "8.50 liters"
+        },
+        {
+          "id": "B",
+          "text": "9.50 liters",
+          "html": "9.50 liters"
+        },
+        {
+          "id": "C",
+          "text": "9.26 liters",
+          "html": "9.26 liters"
+        },
+        {
+          "id": "D",
+          "text": "8.25 liters",
+          "html": "8.25 liters"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Find LCM of 2.5, 3, and 45 to determine the total <strong>capacity</strong> in units: LCM(5/2, 3, 45) = 45 units.</p>\n<p>Filling efficiency of <strong>Pipe A</strong> = 45 ÷ 2.5 = 18 units/min; <strong>Pipe B</strong> = 45 ÷ 3 = 15 units/min.</p>\n<p>Net emptying efficiency of all pipes (<strong>A + B − C</strong>) = 45 ÷ 45 = −1 unit/min.</p>\n<p>Efficiency of <strong>Pipe C</strong> = 18 + 15 + 1 = 34 units/min.</p>\n<p>Since 34 units/min corresponds to <strong>7 liters per min</strong>, the total <strong>capacity</strong> (45 units) = (7 ÷ 34) × 45 = 9.26 liters.</p>\n<p><strong>∴ The correct answer is 9.26 liters.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p><strong>Pipe A</strong> filling time = 2.5 min | <strong>Pipe B</strong> filling time = 3 min | <strong>Pipe C</strong> outflow = <strong>7 liters per min</strong> | <strong>Net emptying time</strong> = 45 min.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_8223cd30.png/1782885680.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p>⇒ Efficiency of <strong>Pipe A</strong> = 1 ÷ 2.5 = 2 / 5 part/min</p>\n<p>⇒ Efficiency of <strong>Pipe B</strong> = 1 ÷ 3 = 1 / 3 part/min</p>\n<p>⇒ Net rate of emptying = 1 ÷ 45 part/min</p>\n<p>⇒ Efficiency of <strong>Pipe C</strong> = (Rate A + Rate B) + Net Emptying Rate</p>\n<p>⇒ Efficiency of <strong>Pipe C</strong> = (2 / 5 + 1 / 3) + 1 / 45</p>\n<p>⇒ Efficiency of <strong>Pipe C</strong> = 11 / 15 + 1 / 45 = (33 + 1) ÷ 45 = 34 / 45 part/min</p>\n<p>⇒ (34 / 45) × <strong>Total Capacity</strong> = 7 liters/min</p>\n<p>⇒ <strong>Total Capacity</strong> = (7 × 45) ÷ 34 = 315 ÷ 34</p>\n<p>⇒ <strong>Total Capacity</strong> ≈ 9.26 liters.</p>\n<p><strong>∴ The correct answer is 9.26 liters.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Inlet & Outlet Concept</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Work done by an <strong>inlet pipe</strong> is positive, while work done by an <strong>outlet pipe</strong> (drain) is negative. Net Rate = ∑(Inlet Rates) − ∑(Outlet Rates).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Capacity Formula</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The total <strong>capacity</strong> of a tub can be calculated as: Capacity = Flow Rate of a pipe ÷ Efficiency part of that same pipe.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Efficiency and Time</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Efficiency is inversely proportional to the time taken to complete a task. Efficiency = 1 ÷ Time.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_8223cd30.png/1782885680.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "af43e6fb7a27-q7",
+      "number": 7,
+      "question": "Three pipes A, B, and C can fill a tank in 20, 28 and 35 hours respectively. If A is opened all the time and B and C are open for one hour each alternatively, the tank will be full in:",
+      "questionHtml": "<p>Three pipes A, B, and C can fill a tank in 20, 28&nbsp;and 35&nbsp;hours respectively. If A is opened all the time and B and C are open for one hour each alternatively, the tank will be full in:</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 hours 10 minutes",
+          "html": "12 hours 10 minutes"
+        },
+        {
+          "id": "B",
+          "text": "10 hours 10 minutes",
+          "html": "10<span style=\"\">&nbsp;hours 10 minutes</span>"
+        },
+        {
+          "id": "C",
+          "text": "13 hours 12 minutes",
+          "html": "13<span style=\"\">&nbsp;hours 12 minutes</span>"
+        },
+        {
+          "id": "D",
+          "text": "20 hours",
+          "html": "20 hours"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Total Capacity of tank = LCM(20, 28, 35) = 140 units.</p>\n<p>Efficiencies: A = 7, B = 5, C = 4.</p>\n<p>Work in a 2-hour cycle = (A + B) + (A + C) = 12 + 11 = 23 units.</p>\n<p>Work in 6 cycles (12 hours) = 23 × 6 = 138 units.</p>\n<p>Remaining 2 units filled by (A + B) in 2/12 = 1/6 hour = 10 minutes.</p>\n<p><strong>∴ The correct option is A.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p>Given: Pipe A = 20 h, Pipe B = 28 h, Pipe C = 35 h.</p>\n<p>Formula: Total Work = Time × Efficiency.</p>\n<table border='1' cellpadding='0' cellspacing='0' dir='ltr' style='table-layout: fixed; width: 320px; border: 1px solid #2255cc; border-collapse: collapse; margin: 12px 0;'>\n        <colgroup>\n                <col width='80' />\n                <col width='80' />\n                <col width='80' />\n                <col width='80' />\n        </colgroup>\n        <tbody>\n                <tr style='height: 24px;'>\n                        <td style='border: 1px solid #2255cc; padding: 4px; text-align: center; color: #444444;'>Pipes</td>\n                        <td style='border: 1px solid #2255cc; padding: 4px; text-align: center; color: #444444;'>Time (h)</td>\n                        <td style='border: 1px solid #2255cc; padding: 4px; text-align: center; color: #444444;'>Capacity</td>\n                        <td style='border: 1px solid #2255cc; padding: 4px; text-align: center; color: #444444;'>Efficiency</td>\n                </tr>\n                <tr style='height: 20px;'>\n                        <td style='border: 1px solid #2255cc; padding: 4px; text-align: center; color: #444444;'>A</td>\n                        <td style='border: 1px solid #2255cc; padding: 4px; text-align: center; color: #444444;'>20</td>\n                        <td colspan='1' rowspan='3' style='border: 1px solid #2255cc; padding: 4px; text-align: center; vertical-align: middle; color: #2255cc; font-weight: bold;'>140</td>\n                        <td style='border: 1px solid #2255cc; padding: 4px; text-align: center; color: #444444;'>7</td>\n                </tr>\n                <tr style='height: 20px;'>\n                        <td style='border: 1px solid #2255cc; padding: 4px; text-align: center; color: #444444;'>B</td>\n                        <td style='border: 1px solid #2255cc; padding: 4px; text-align: center; color: #444444;'>28</td>\n                        <td style='border: 1px solid #2255cc; padding: 4px; text-align: center; color: #444444;'>5</td>\n                </tr>\n                <tr style='height: 20px;'>\n                        <td style='border: 1px solid #2255cc; padding: 4px; text-align: center; color: #444444;'>C</td>\n                        <td style='border: 1px solid #2255cc; padding: 4px; text-align: center; color: #444444;'>35</td>\n                        <td style='border: 1px solid #2255cc; padding: 4px; text-align: center; color: #444444;'>4</td>\n                </tr>\n        </tbody>\n</table>\n<p>Combined efficiency of A + B = 12 units/hr | Combined efficiency of A + C = 11 units/hr</p>\n<p>⇒ Total work done in 2 hours = 12 + 11 = 23 units</p>\n<p>⇒ Work done in 6 such cycles (12 hours) = 23 × 6 = 138 units</p>\n<p>⇒ Remaining work to be filled = 140 − 138 = 2 units</p>\n<p>⇒ Next hour turn is for (A + B) with efficiency 12 units/hr</p>\n<p>⇒ Time taken for remaining 2 units = 2/12 = 1/6 hour</p>\n<p>⇒ Convert 1/6 hour to minutes = (1/6) × 60 = 10 minutes</p>\n<p>⇒ Total time required = 12 hours + 10 minutes = 12 hours 10 minutes</p>\n<p><strong>∴ The correct option is A.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Net Efficiency in Alternate Work</p>\n<p style='margin:0 0 8px 0;color:#444444;'>In alternate work scenarios, calculate the sum of work done in one complete cycle (e.g., 2 hours or 3 hours) and then divide the total capacity by this cycle work to find completed cycles.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Pipes and Cisterns Unitary Method</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If a pipe fills a tank in x hours, its efficiency is 1/x part of the tank per hour. Total capacity is often taken as the LCM of all given times for easier integer calculations.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Handling Partial Cycles</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Always check which pipe is scheduled to work next after full cycles are completed. Time for remaining work = Remaining Units ÷ Efficiency of the active pipe/pair.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "af43e6fb7a27-q8",
+      "number": 8,
+      "question": "Pipe P is twice as fast as Q, and Q is twice as fast as R. Find the ratio of the time taken by P, Q and R to fill a cistern.",
+      "questionHtml": "Pipe P is twice as fast as Q, and Q is twice as fast as R. Find the ratio of the time taken by P, Q&nbsp;and R&nbsp;to fill a cistern.",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 ∶ 1 ∶ 2",
+          "html": "4 ∶ 1&nbsp;∶&nbsp;2"
+        },
+        {
+          "id": "B",
+          "text": "4 ∶ 2 ∶ 1",
+          "html": "4&nbsp;∶&nbsp;2&nbsp;∶&nbsp;1"
+        },
+        {
+          "id": "C",
+          "text": "2 ∶ 1 ∶ 4",
+          "html": "2&nbsp;∶&nbsp;1&nbsp;∶&nbsp;4"
+        },
+        {
+          "id": "D",
+          "text": "1 ∶ 2 ∶ 4",
+          "html": "1&nbsp;∶&nbsp;2&nbsp;∶&nbsp;4"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span>Efficiency ratio P : Q : R = 4 : 2 : 1.</span>\n<span>Time ratio = 1/4 : 1/2 : 1/1.</span>\n<span>Multiplying by LCM (4), the required time ratio is <strong>1 : 2 : 4</strong>.</span></p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "af43e6fb7a27-q9",
+      "number": 9,
+      "question": "Two pipes A and B can empty a full tank in 10 minutes and 15 minutes, respectively, whereas pipe C alone can fill the same (empty) tank in 12 minutes. When the tank is full, A and B are opened for 4 minutes and then only pipe A is closed, and C is opened instantly (with B). How much time (in minutes) will it take now to fill the tank completely ?",
+      "questionHtml": "Two pipes A and B can empty a full tank in 10 minutes and 15 minutes, respectively, whereas pipe C alone can fill the same (empty) tank in 12 minutes. When the tank is full, A and B are opened for 4 minutes&nbsp; and then only pipe A is closed, and C is opened instantly (with B). How much time (in minutes) will it take now to fill the tank completely ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "B",
+          "text": "40",
+          "html": "40"
+        },
+        {
+          "id": "C",
+          "text": "25",
+          "html": "25"
+        },
+        {
+          "id": "D",
+          "text": "30",
+          "html": "30"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Let, total work is = LCM of 10,12 & 15 = 60, Efficiency of A, B, and C  = 6, 4, and 5.</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">So in 4 minutes pipe A and B eliminated together (6 + 4) × 4 = 40 unit of water.</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">The remaining water, 60 - 40 = 20 units.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Now, only pipe A is closed, and C is opened instantly (with B)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">B eliminated 4 units of water in 1 minute and C filled 5 units in 1 minute.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">They are working together,</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Both B and C together filled (5 - 4) = 1 unit of water in 1 minute.</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(32, 33, 36);\">They filled the remaining 60 - 20 = 40 units of water in 40 minutes.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "af43e6fb7a27-q10",
+      "number": 10,
+      "question": "Two pipes A and B can fill a tank in 20 and 30 hours, respectively. Both pipes are opened to fill the tank, but when the tank is one-third full, a leak develops through which one-fourth of the water supplied by both pipes goes out. Find the total time (in hours) taken to fill the tank.",
+      "questionHtml": "Two pipes A and B can fill a tank in 20 and 30 hours, respectively. Both pipes are opened to fill the tank, but when the tank is&nbsp;one-third full, a leak develops through which one-fourth of the water supplied by both pipes goes out. Find the total time (in&nbsp;hours) taken to fill the tank.",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(14 \\frac{2}{3}\\)",
+          "html": "<span class=\"math-tex\">\\(14 \\frac{2}{3}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "14",
+          "html": "14"
+        },
+        {
+          "id": "C",
+          "text": "\\(11 \\frac{2}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(11 \\frac{2}{5}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(12 \\frac{1}{3}\\)",
+          "html": "<span class=\"math-tex\">\\(12 \\frac{1}{3}\\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Rate of A = 1/20, Rate of B = 1/30, Combined rate = 1/12 tank/hour</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Time to fill 1/3 tank = (1/3) / (1/12) = 4 hours</span></p>\n\n<p>Effective rate with leak = (3/4) × (1/12) = 1/16 tank/hour</p>\n\n<p>Time to fill remaining 2/3 tank = (2/3) / (1/16) = 32/3 hours</p>\n\n<p>Total time = 4 + (32/3) = 4 + 10<sup>2</sup>/3 = 14<sup>2</sup>/3 hours</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

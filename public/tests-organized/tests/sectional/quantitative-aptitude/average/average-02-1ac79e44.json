@@ -1,0 +1,1724 @@
+{
+  "id": "1ac79e44ef12",
+  "provider": "Testbook",
+  "sourceFile": "Average - 02.html",
+  "sourcePath": "Testbook/files/Average - 02.html",
+  "title": "Average - 02",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "1ac79e44ef12-q1",
+      "number": 1,
+      "question": "Find the average of natural numbers from 1 to 69. (both included)",
+      "questionHtml": "Find the average of natural numbers from 1 to 69. (both included)",
+      "options": [
+        {
+          "id": "A",
+          "text": "31",
+          "html": "31"
+        },
+        {
+          "id": "B",
+          "text": "33",
+          "html": "33"
+        },
+        {
+          "id": "C",
+          "text": "35",
+          "html": "35"
+        },
+        {
+          "id": "D",
+          "text": "37",
+          "html": "37"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Sum of first 69 natural numbers:</p>\n\n<p>= 69 × (69 + 1) / 2 = 69 × 70 / 2 = 2415</p>\n\n<p>Average = 2415 / 69 = 35</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q2",
+      "number": 2,
+      "question": "The average of 9 consecutive numbers is 20. The smallest of these numbers is:",
+      "questionHtml": "The average of 9 consecutive numbers is 20. The smallest of these numbers is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10",
+          "html": "10"
+        },
+        {
+          "id": "B",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "C",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "D",
+          "text": "12",
+          "html": "12"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(97, 106, 124);\">Average of Consecutive Numbers = 1/2 × (First Term + Last Term)</p>\n\n<p style=\"color: rgb(97, 106, 124);\">(1/2) × (x + x + 8) = 20 ⇒ 2x + 8 = 40 ⇒ x = 16</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q3",
+      "number": 3,
+      "question": "The average of 7 numbers is 4.75. Out of these, the average of two numbers is 4.5 and the average of three numbers is 5.25. What is the average of the remaining two numbers?",
+      "questionHtml": "The average of 7 numbers is 4.75. Out of these, the average of two numbers is 4.5 and the average of three numbers is 5.25. What is the average of the remaining two numbers?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.15",
+          "html": "3.15"
+        },
+        {
+          "id": "B",
+          "text": "4.65",
+          "html": "4.65"
+        },
+        {
+          "id": "C",
+          "text": "3.25",
+          "html": "3.25"
+        },
+        {
+          "id": "D",
+          "text": "4.25",
+          "html": "4.25"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<svg width=\"500\" height=\"295\" viewBox=\"0 0 500 295\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:1px;padding:0;background:#ffffff;border-radius:8px;border:1px solid #cccccc;box-sizing:border-box;\">\n  <defs>\n    <marker id=\"arr\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#2255cc\"/></marker>\n    <marker id=\"arrR\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#cc0000\"/></marker>\n    <marker id=\"arrG\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#007700\"/></marker>\n    <marker id=\"arrO\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#cc5500\"/></marker>\n  </defs>\n\n  <!-- ZONE 1: Averages Deviation Visualization -->\n  <!-- Horizontal Baseline -->\n  <line x1=\"30\" y1=\"175\" x2=\"470\" y2=\"175\" stroke=\"#555555\" stroke-width=\"2\"/>\n  \n  <!-- Overall Average Line (4.75) -->\n  <line x1=\"30\" y1=\"56.25\" x2=\"470\" y2=\"56.25\" stroke=\"#cc0000\" stroke-width=\"1.5\" stroke-dasharray=\"5,3\"/>\n  <text x=\"375\" y=\"50\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#cc0000\">Avg = 4.75</text>\n\n  <!-- Group 1: 2 Numbers (Avg 4.5) -->\n  <rect x=\"50\" y=\"62.5\" width=\"20\" height=\"112.5\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\"/>\n  <rect x=\"75\" y=\"62.5\" width=\"20\" height=\"112.5\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\"/>\n  <text x=\"50\" y=\"195\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#2255cc\">2 Nums (4.5)</text>\n  <text x=\"52\" y=\"80\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#cc0000\">−0.25</text>\n\n  <!-- Group 2: 3 Numbers (Avg 5.25) -->\n  <rect x=\"155\" y=\"43.75\" width=\"20\" height=\"131.25\" fill=\"#ccffcc\" stroke=\"#007700\" stroke-width=\"1.5\"/>\n  <rect x=\"180\" y=\"43.75\" width=\"20\" height=\"131.25\" fill=\"#ccffcc\" stroke=\"#007700\" stroke-width=\"1.5\"/>\n  <rect x=\"205\" y=\"43.75\" width=\"20\" height=\"131.25\" fill=\"#ccffcc\" stroke=\"#007700\" stroke-width=\"1.5\"/>\n  <text x=\"155\" y=\"195\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#007700\">3 Nums (5.25)</text>\n  <text x=\"165\" y=\"38\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#007700\">+0.50</text>\n\n  <!-- Group 3: Remaining 2 Numbers -->\n  <rect x=\"290\" y=\"68.75\" width=\"20\" height=\"106.25\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"1.5\"/>\n  <rect x=\"315\" y=\"68.75\" width=\"20\" height=\"106.25\" fill=\"#fff0cc\" stroke=\"#cc5500\" stroke-width=\"1.5\"/>\n  <text x=\"290\" y=\"195\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#cc5500\">Last 2 (4.25)</text>\n\n  <!-- Gap/Deviation Indicator -->\n  <path d=\"M 230,80 Q 260,80 285,80\" fill=\"none\" stroke=\"#555555\" stroke-width=\"1\" marker-end=\"url(#arrO)\"/>\n  <text x=\"235\" y=\"75\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#555555\">Dev Balance</text>\n\n  <!-- ZONE 2: Solution Lines -->\n  <text x=\"30\" y=\"225\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#222222\">⇒ Total deviation = 2 × (−0.25) + 3 × (+0.50) = +1.0</text>\n  <text x=\"30\" y=\"250\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#222222\">⇒ Average of remaining 2 = 4.75 − (1.0 ÷ 2)</text>\n  <text x=\"30\" y=\"280\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#000000\">∴ Answer = 4.25</text>\n</svg>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q4",
+      "number": 4,
+      "question": "What is the average of all prime numbers between 30 and 50?",
+      "questionHtml": "What is the average of all prime numbers between 30 and 50?",
+      "options": [
+        {
+          "id": "A",
+          "text": "38.5",
+          "html": "38.5"
+        },
+        {
+          "id": "B",
+          "text": "39.8",
+          "html": "39.8"
+        },
+        {
+          "id": "C",
+          "text": "34.2",
+          "html": "34.2"
+        },
+        {
+          "id": "D",
+          "text": "36.5",
+          "html": "36.5"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Prime numbers between 30 and 50: 31, 37, 41, 43, 47</p>\n\n<p>Average = (31 + 37 + 41 + 43 + 47)/5 </p>\n\n<p>Average = 199/5 = 39.8</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q5",
+      "number": 5,
+      "question": "The average score of a batsman in twenty matches is 15 and in twenty-five other matches is 24. Find the average score in all the forty-five matches.",
+      "questionHtml": "The average score of a batsman in twenty matches is 15 and in twenty-five other matches is 24. Find the average score in all&nbsp;the forty-five matches.",
+      "options": [
+        {
+          "id": "A",
+          "text": "21",
+          "html": "21"
+        },
+        {
+          "id": "B",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "C",
+          "text": "19.5",
+          "html": "19.5"
+        },
+        {
+          "id": "D",
+          "text": "22",
+          "html": "22"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Average score in twenty matches = 15 and Average score in twenty</p>\n\n<p>five other matches = 24</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Total score in all matches = 20 × 15 + 25 × 24 = 300 + 600 = 900</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Overall Average = 900 / 45 = 20</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q6",
+      "number": 6,
+      "question": "A student obtained 72 marks in Biology, 84 marks in Hindi, 91 marks in Mathematics, 80 marks in Science and 73 marks in English (out of 100). Find his average marks.",
+      "questionHtml": "A student obtained 72 marks in Biology, 84 marks in Hindi, 91 marks in Mathematics, 80 marks in Science and 73 marks in English (out of 100). Find his average marks.",
+      "options": [
+        {
+          "id": "A",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "B",
+          "text": "70",
+          "html": "70"
+        },
+        {
+          "id": "C",
+          "text": "80",
+          "html": "80"
+        },
+        {
+          "id": "D",
+          "text": "65",
+          "html": "65"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Subject</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Marks</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"\">Biology</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"\">72&nbsp;</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"\">Hindi</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"\">84&nbsp;</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"\">Mathematics</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"\">91&nbsp;</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"\">Science&nbsp;</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"\">80&nbsp;</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><span style=\"\">English&nbsp;</span></td>\n\t\t\t<td style=\"text-align: center;\"><span style=\"\">73&nbsp;</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Total</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>400</strong></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Average = Sum of marks obtained / Total subjects</p>\n\n<p><strong>Solution:</strong></p>\n\n<p>Average = 400/5 = 80</p>\n\n<p><strong>The average marks are 80.&nbsp;</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q7",
+      "number": 7,
+      "question": "The average of 18 integers is found to be 41. It was detected that by mistake the integer 127 was copied as 341, while calculating the average. Then the correct average is:",
+      "questionHtml": "The average of 18 integers is found to be 41. It was detected that by mistake the integer 127 was copied as 341, while calculating the average. Then the correct average is:&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(23\\frac{1}{7}\\)",
+          "html": "<span class=\"math-tex\">\\(23\\frac{1}{7}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(33\\frac{1}{9}\\)",
+          "html": "<span class=\"math-tex\">\\(33\\frac{1}{9}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(29\\frac{1}{9}\\)",
+          "html": "<span class=\"math-tex\">\\(29\\frac{1}{9}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(37\\frac{1}{3}\\)",
+          "html": "<span class=\"math-tex\">\\(37\\frac{1}{3}\\)</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given :</strong></p>\n\n<p>The average of 18 integers = 41</p>\n\n<p>By mistake 127 was copied as 341</p>\n\n<p><strong>Formula Used :</strong></p>\n\n<p>Average = Sum of all values / Total no of values</p>\n\n<p><strong>Calculation :</strong></p>\n\n<p>Using formula, sum of integers = 18&nbsp;&times;&nbsp;41 = 738</p>\n\n<p>Difference between actual value and copied value = 341 - 127 = 214</p>\n\n<p>So, the actual sum = 738 - 214 = 524</p>\n\n<p>Thus, the correct average = 524 / 18 =&nbsp;<span class=\"math-tex\">\\(29 \\frac{1}{9}\\)</span></p>\n\n<p><strong>&there4; The correct average of integers =&nbsp;<span class=\"math-tex\">\\(29 \\frac{1}{9}\\)</span>.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q8",
+      "number": 8,
+      "question": "24 students collected money for donation. The average contribution was Rs. 50. Later on, their teacher also contributed some money. Now the average contribution is Rs. 56. The teacher&rsquo;s contribution is:",
+      "questionHtml": "24 students collected money for donation. The average contribution was Rs. 50. Later on, their teacher also contributed some money. Now the average contribution is Rs. 56. The teacher&rsquo;s contribution is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 56",
+          "html": "Rs. 56"
+        },
+        {
+          "id": "B",
+          "text": "​Rs. 200",
+          "html": "​Rs. 200"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 106",
+          "html": "Rs. 106"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 194",
+          "html": "Rs. 194"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Average contribution of 24 students = 50</p>\n\n<p>Sum of contribution of 24 students = 50 × 24 = 1200</p>\n\n<p>Average contribution of 25 persons (24 students and 1 teacher) = 56</p>\n\n<p>Sum of contribution of 25 persons = 56 × 25 = 1400</p>\n\n<p>∴ Contribution of teacher = 1400 – 1200 = 200</p>\n\n<p><strong>Short Trick:</strong></p>\n\n<p>Contribution of teacher = 24 × (56 – 50) + 56 = 144 + 56 = 200</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q9",
+      "number": 9,
+      "question": "The average age of a team having 12 players is 24 years. If the age of the coach is also included, then the average age increases by 2 years. What is the age of the coach?",
+      "questionHtml": "The average age of a team having 12 players is 24 years. If the age of the coach is also included, then the average age increases by 2 years. What is the age of the coach?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "53 years",
+          "html": "53 years&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "57 years",
+          "html": "57 years&nbsp;&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "50 years",
+          "html": "50 years"
+        },
+        {
+          "id": "D",
+          "text": "52 years",
+          "html": "52 years&nbsp;"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p><strong>Coach's Age</strong> = New Average + (Initial Number of Players × Increase in Average)</p>\n<p>New Average = 24 + 2 = 26 <strong>years</strong></p>\n<p>Coach's Age = 26 + (12 × 2)</p>\n<p>Coach's Age = 26 + 24 = 50 <strong>years</strong></p>\n<p><strong>∴ The correct answer is 50 years.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Initial <strong>Average Age</strong> of 12 players = 24 <strong>years</strong></p>\n<p>Number of <strong>players</strong> = 12</p>\n<p>New <strong>Average Age</strong> (including coach) = 24 + 2 = 26 <strong>years</strong></p>\n<p>Total members including <strong>coach</strong> = 12 + 1 = 13</p>\n\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_65d0c571.png/1784028952.png\" style=\"max-width: 100%; height: auto;\"></div>\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ Total age of 12 players = 12 × 24 = 288 <strong>years</strong></p>\n<p>⇒ Total age including the <strong>coach</strong> = 13 × 26 = 338 <strong>years</strong></p>\n<p>⇒ Age of the <strong>coach</strong> = 338 − 288</p>\n<p>⇒ Age of the <strong>coach</strong> = 50 <strong>years</strong></p>\n<p><strong>∴ The correct answer is 50 years.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Basic Average Formula</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Average = (Sum of all observations) ÷ (Total number of observations).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Net Change in Average</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When a new member is added: Value of new member = Old Average + (New total count × Increase in average).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Sum of Observations</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Sum = Average × Count. This is the primary method to find missing values in groups.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_65d0c571.png/1784028952.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q10",
+      "number": 10,
+      "question": "There are 15 students in a class. Their average weight is 40 kg. When one student leaves the class, the average weight is 39.5 kg. What is the weight of the student who left the class (where kg means kilogram)?",
+      "questionHtml": "There are 15 students in a class. Their average weight is 40 kg. When one student leaves the class, the average weight is 39.5 kg. What is the weight of the student who left the class (where kg means kilogram)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "47 kg",
+          "html": "47 kg"
+        },
+        {
+          "id": "B",
+          "text": "42 kg",
+          "html": "42&nbsp;kg"
+        },
+        {
+          "id": "C",
+          "text": "52 kg",
+          "html": "52&nbsp;kg"
+        },
+        {
+          "id": "D",
+          "text": "48 kg",
+          "html": "48&nbsp;kg"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">The total weight of 15 students is 15 × 40 = 600 kg</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The total weight of 14 students is 14 × 39.5 = 553 kg</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The weight of new students is 600 - 553 = 47 kg</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q11",
+      "number": 11,
+      "question": "In nine innings of cricket, the average of a batsman is 58 runs. How many runs does he need to make in the tenth innings to get the average score 61?",
+      "questionHtml": "In nine innings of cricket, the average of a batsman is 58 runs. How many runs does he need to make in the tenth innings to get the average score 61?",
+      "options": [
+        {
+          "id": "A",
+          "text": "88",
+          "html": "88"
+        },
+        {
+          "id": "B",
+          "text": "69",
+          "html": "69"
+        },
+        {
+          "id": "C",
+          "text": "79",
+          "html": "79"
+        },
+        {
+          "id": "D",
+          "text": "100",
+          "html": "100"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Let the batsman have made 'x' runs in 10th innings</p>\n\n<p style=\"color: rgb(33, 37, 41);\">A/Q, 58 × 9 + x = 61 × 10 ⇒ x = 610 - 522 = 88</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q12",
+      "number": 12,
+      "question": "The average age of 25 girls in a class is 11.2 years and that of the remaining 15 girls is 10 years. Find the average age of all the girls in the class.",
+      "questionHtml": "The average age of 25 girls in a class is 11.2 years and that of the remaining 15 girls is 10 years. Find the average age of all the girls in the class.",
+      "options": [
+        {
+          "id": "A",
+          "text": "10.75 years",
+          "html": "10.75 years"
+        },
+        {
+          "id": "B",
+          "text": "11.35 years",
+          "html": "11.35&nbsp;<span style=\"\">years</span>"
+        },
+        {
+          "id": "C",
+          "text": "10.45 years",
+          "html": "10.45&nbsp;<span style=\"\">years</span>"
+        },
+        {
+          "id": "D",
+          "text": "11.05 years",
+          "html": "11.05&nbsp;<span style=\"\">years</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Sum of ages = Average x Total number of girls = 11.2 x 25 = 280</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The remaining 15 girls are 10 years. Sum = 10 x 15 = 150</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The total sum of ages of all 40 girls  = 280 + 150 = 430.</p>\n\n<p style=\"color: rgb(33, 37, 41);\"> Average = <span class=\"math-tex\">\\(\\frac{sum\\space of\\space Ages}{Total\\space number\\space of \\space girls}=\\frac{430}{40}\\)</span> = 10.75 years</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q13",
+      "number": 13,
+      "question": "The sum of five consecutive numbers is 80. Find the largest number.",
+      "questionHtml": "The sum of five consecutive numbers is 80. Find the largest number.",
+      "options": [
+        {
+          "id": "A",
+          "text": "18",
+          "html": "18"
+        },
+        {
+          "id": "B",
+          "text": "15",
+          "html": "15"
+        },
+        {
+          "id": "C",
+          "text": "19",
+          "html": "19"
+        },
+        {
+          "id": "D",
+          "text": "14",
+          "html": "14"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Sum = (n-2) + (n-1) + n + (n+1) + (n+2)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ Sum = 5n</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Given Sum = 80</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ 5n = 80</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ n = 16</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The five consecutive numbers are 14, 15, 16, 17, 18.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The largest number = 18</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q14",
+      "number": 14,
+      "question": "The average marks scored by a student in 4 subjects is 75. But when the marks of English are added to it, the overall average became 70. How much did he score in English?",
+      "questionHtml": "The average marks scored by a student in 4 subjects is 75. But when the marks of English are added to it, the overall average became 70. How much did he score in English?",
+      "options": [
+        {
+          "id": "A",
+          "text": "50",
+          "html": "50"
+        },
+        {
+          "id": "B",
+          "text": "60",
+          "html": "<span style=\"\">60</span>"
+        },
+        {
+          "id": "C",
+          "text": "55",
+          "html": "55"
+        },
+        {
+          "id": "D",
+          "text": "65",
+          "html": "65"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Total marks of 4 subjects = 75 × 4 = 300</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Let the marks in English be 'x'. New Average = 70</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ <span class=\"math-tex\">\\(\\frac{300 + x}{5}\\)</span> = 70 ⇒ x = 50</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q15",
+      "number": 15,
+      "question": "The average weight of 20 persons is 60 kg. A new person joins the group and the average weight of 21 persons becomes 59 kg. What will be the weight of new person?",
+      "questionHtml": "The average weight of 20 persons is 60 kg. A new person joins the group and the average weight of 21 persons becomes 59 kg. What will be the weight of new person?",
+      "options": [
+        {
+          "id": "A",
+          "text": "41 kg",
+          "html": "41 kg"
+        },
+        {
+          "id": "B",
+          "text": "29 kg",
+          "html": "29 kg"
+        },
+        {
+          "id": "C",
+          "text": "39 kg",
+          "html": "39 kg"
+        },
+        {
+          "id": "D",
+          "text": "40 kg",
+          "html": "40 kg"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">[(Sum of weights of 20 persons) + x]/21 = 59 <span style=\"color: rgb(33, 37, 41);\">⇒ </span>(Sum of weights of 20 persons) + x = 1239</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Substituting the value of the sum of weights of 20 persons (equals to 60), we get: 20 × 60 + x = 1239<br />\nx = 1239 - 1200 <span style=\"color: rgb(33, 37, 41);\">⇒ </span>x = 39</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q16",
+      "number": 16,
+      "question": "The average age of 30 students in a class is 12 years. The average age of a group of 5 of the students is 10 years and that of another group of 5 of them is 14 years. The average of the remaining students is:",
+      "questionHtml": "The average age of 30 students in a class is 12 years. The average age of a group of 5 of the students is 10 years and that of another group of 5 of them is 14 years. The average of the remaining students is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "14 years",
+          "html": "14 years"
+        },
+        {
+          "id": "B",
+          "text": "12 years",
+          "html": "12 years"
+        },
+        {
+          "id": "C",
+          "text": "11 years",
+          "html": "11 years"
+        },
+        {
+          "id": "D",
+          "text": "13 years",
+          "html": "13 years"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">The total  age of 30 students in a class is 30 × 12 = 360 years</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The total age of a group of 5 of the students is 10 × 5 = 50 years .The total age of a group of another 5 of the students is 14 × 5 = 70 years</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The total age of those (5+5) = 10 students is 70 + 50 = 120 years</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The average age of the remaining 20 students is 360-120 / 20 = 12 years</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q17",
+      "number": 17,
+      "question": "A group of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 62. What is the average score of the group?",
+      "questionHtml": "A group of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 62. What is the average score of the group?",
+      "options": [
+        {
+          "id": "A",
+          "text": "62",
+          "html": "62"
+        },
+        {
+          "id": "B",
+          "text": "63",
+          "html": "63"
+        },
+        {
+          "id": "C",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "D",
+          "text": "61",
+          "html": "61"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"> </p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total score of the group = (12 × 62) + (18 × 62)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total number of students = 30</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total score of the group = 744 + 1116  = 1860</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average score of the group = 1860 / 30  = 62</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q18",
+      "number": 18,
+      "question": "In a class there are 26 boys and 24 girls. The Math teacher administered a test and found that the average score of the whole class is 85. If the average score of the boys was 82, find the average score of the girls.",
+      "questionHtml": "<p>In a class there are 26 boys and 24 girls. The Math teacher administered a test and found that the average score of the whole class is 85. If the average score of the boys was 82, find the average score of the girls.</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "82",
+          "html": "82"
+        },
+        {
+          "id": "B",
+          "text": "88.25",
+          "html": "88.25"
+        },
+        {
+          "id": "C",
+          "text": "85",
+          "html": "85"
+        },
+        {
+          "id": "D",
+          "text": "87.5",
+          "html": "87.5"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Using the allegation method: </span><span style=\"color: rgb(33, 37, 41);\">(85 - 82)/(x - 85) = 24/26  </span><br />\n⇒ 3/(x - 85) = 12/13 ⇒12x - 12 × 85 = 39 <br />\n⇒ 12x = 1059 ⇒  x = 88.25</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q19",
+      "number": 19,
+      "question": "The average of the runs of a cricket player in 20 matches is 35. If the average of the first 12 matches is 45, find the average of the last 8 matches.",
+      "questionHtml": "The average of the runs of a cricket player in 20 matches is 35. If the average of the first 12 matches is 45, find the average of the last 8 matches.",
+      "options": [
+        {
+          "id": "A",
+          "text": "18",
+          "html": "18"
+        },
+        {
+          "id": "B",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "D",
+          "text": "22",
+          "html": "22"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p> </p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Sum of runs of player in 20 matches = 35 × 20 = 700</p>\n\n<p>Sum of runs of player in first 12 matches = 12 × 45 = 540</p>\n\n<p>Sum of runs of player in last 8 matches = 700 - 540 = 160</p>\n\n<p>∴ Average runs of player in last 8 matches = 160/8 = 20</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q20",
+      "number": 20,
+      "question": "The average of 10 numbers is 47. What should be the 11 th number added to them to make the average 53?",
+      "questionHtml": "The average of 10 numbers is 47. What should be the 11<sup>th</sup> number added to them to make the average 53?",
+      "options": [
+        {
+          "id": "A",
+          "text": "211",
+          "html": "211"
+        },
+        {
+          "id": "B",
+          "text": "312",
+          "html": "312"
+        },
+        {
+          "id": "C",
+          "text": "113",
+          "html": "113"
+        },
+        {
+          "id": "D",
+          "text": "412",
+          "html": "412"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>GIVEN:</strong></p>\n\n<p>Average of 10 numbers is 47&nbsp;</p>\n\n<p><strong>FORMULA USED:</strong></p>\n\n<p>Average = Sum of values/ No. of values</p>\n\n<p><strong>CALCULATION:</strong></p>\n\n<p>Here, the average of 10 numbers = 47&nbsp;</p>\n\n<p>&rArr; Average = Sum of values/ No. of values&nbsp;</p>\n\n<p>&rArr; 47 = Sum of values / 10&nbsp;</p>\n\n<p>&rArr; Sum of&nbsp; the numbers = 470.</p>\n\n<p>Now, as the new average given is 53 and the total number now is 11.</p>\n\n<p>&rArr; Sum of the new numbers = Average &times; No. of values&nbsp; = 53&nbsp;&times; 11 =&nbsp; 583 .</p>\n\n<p>Now,&nbsp; the number to be added to make the average 53 = ( 583 - 470) = 113.</p>\n\n<p><strong>Hence, the required number to be added is 113.<br />\n<br />\n<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span></strong><br />\nDifference (New average -&nbsp; Old average) = 53 - 47 = 6,<br />\n&nbsp;<span style=\"color: rgb(88, 89, 91);   \">&nbsp;<br />\n11</span><span style=\"box-sizing: border-box;  line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;  font-size:10.5px;\">th</span><span style=\"color: rgb(88, 89, 91);   \">&nbsp;number = average + D&nbsp;&times; total number = 47 + 6&nbsp;&times; 11 =113</span></p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q21",
+      "number": 21,
+      "question": "What is the average of the first six prime numbers?",
+      "questionHtml": "What is the average of the first six prime numbers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(9{1\\over3}\\)",
+          "html": "<span class=\"math-tex\">\\(9{1\\over3}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "7",
+          "html": "7"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "D",
+          "text": "\\(6{5\\over6}\\)",
+          "html": "<span class=\"math-tex\">\\(6{5\\over6}\\)</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Average = (2 + 3 + 5 + 7 + 11 + 13)/6 ⇒ 41/6 ⇒ <span class=\"math-tex\">\\(6{5\\over6}\\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q22",
+      "number": 22,
+      "question": "In a school there are 15 boys and 10 girls in class X. The average age of the boys is 16, while the average age of the girls is 15. Find the average age of the students in the class.",
+      "questionHtml": "In a school there are 15 boys and 10 girls in class X. The average age of the boys is 16, while the average age of the girls is 15. Find the average age of the students in the class.",
+      "options": [
+        {
+          "id": "A",
+          "text": "15.8",
+          "html": "15.8"
+        },
+        {
+          "id": "B",
+          "text": "15.6",
+          "html": "15.6"
+        },
+        {
+          "id": "C",
+          "text": "15.5",
+          "html": "15.5"
+        },
+        {
+          "id": "D",
+          "text": "15.7",
+          "html": "15.7"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Number of boys = 15</p>\n\n<p>Number of girls = 10</p>\n\n<p>Average age of boys = 16</p>\n\n<p>Average age of girls = 15</p>\n\n<p><strong>Concept Used:</strong></p>\n\n<p>Average = Total Sum of the ages&nbsp;&divide; Total number of students</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>&rArr; Total sum of ages of boys = 16&nbsp;&times; 15 = 240</p>\n\n<p>&rArr; Total sum of ages of girls = 15&nbsp;&times; 10 = 150</p>\n\n<p>&rArr; Total sum of ages of boys and girls = 240 + 150 = 390</p>\n\n<p>&rArr; Average age of students in the class =&nbsp;<span class=\"math-tex\">\\(\\frac{390}{15+10}=\\frac{390}{25}=15.6\\)</span></p>\n\n<p><strong>Therefore, the average age of students in the class is 15.6 years.&nbsp;<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick&nbsp;</u></span></strong></span></strong>Let&#39;s assume the common average = 15 (boys and girls both )<br />\n<br />\n&nbsp;We know that the boy&#39;s average is 1 more than the common average<br />\n<br />\nSo extra age = 15(boys) &times; 1(age)&nbsp;= 15<br />\n<br />\nso average age = common average +extra age/total no of candidate average = 15 + 15/25 = 15.60</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q23",
+      "number": 23,
+      "question": "A scored 73, 76, 20 and 7 runs in four out of five innings. What should be his score in the fifth innings, if he has to make an average of 55 runs in five innings?",
+      "questionHtml": "A scored 73, 76, 20 and 7 runs in four out of five innings. What should be his score in the fifth innings, if he has to make an average of 55 runs in five innings?",
+      "options": [
+        {
+          "id": "A",
+          "text": "99",
+          "html": "99"
+        },
+        {
+          "id": "B",
+          "text": "11",
+          "html": "11"
+        },
+        {
+          "id": "C",
+          "text": "55",
+          "html": "55"
+        },
+        {
+          "id": "D",
+          "text": "42",
+          "html": "42"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Let the score in the fifth innings be x.</p>\n\n<p>Average of five innings = 55</p>\n\n<p>Sum of five innings = 55 &times; 5</p>\n\n<p>According to the question</p>\n\n<p>73 + 76 + 20 + 7 + x = 55 &times; 5</p>\n\n<p>176 + x = 275</p>\n&rArr; x = 275 &ndash; 176 = 99",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q24",
+      "number": 24,
+      "question": "The average weight of A, B and C is 65 kg. If the average weight of A and B is 62 kg and that of B and C is 66 kg, then the weight (in kg) of B is:",
+      "questionHtml": "The average weight of A, B and C is 65 kg. If the average weight of A and B is 62 kg and that of B and C is 66 kg, then the weight (in kg) of B is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "64",
+          "html": "64"
+        },
+        {
+          "id": "B",
+          "text": "63",
+          "html": "63"
+        },
+        {
+          "id": "C",
+          "text": "62",
+          "html": "62"
+        },
+        {
+          "id": "D",
+          "text": "61",
+          "html": "61"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Sum of the weight of A, B and C = 65 × 3 = 195 kg, of A and B = 62 × 2 = 124 kg and of B and C = 66 × 2 = 132 kg.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Therefore, x = 195 -124 - 132 + 2x <span style=\"color: rgb(33, 37, 41);\">⇒ </span>x = 61</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q25",
+      "number": 25,
+      "question": "The average weight of 12 persons is increased by 3.5 kg when one of them whose weight is 56 kg is replaced by a new man. The weight of the new man is:",
+      "questionHtml": "The average weight of 12 persons is increased by 3.5 kg when one of them whose weight is 56 kg is replaced by a new man. The weight of the new man is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "90 kg",
+          "html": "90 kg"
+        },
+        {
+          "id": "B",
+          "text": "100 kg",
+          "html": "100 kg"
+        },
+        {
+          "id": "C",
+          "text": "98 kg",
+          "html": "98 kg"
+        },
+        {
+          "id": "D",
+          "text": "95 kg",
+          "html": "95 kg"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(30, 43, 51);  \"><strong>Given:</strong></p>\n\n<p style=\"color: rgb(30, 43, 51);  \">The average weight of 12 persons is increased by 3.5 kg when one of them whose weight is 56 kg is replaced by a new man.</p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"font-weight: bolder;  line-height: 20px;\">Formula Used:</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Average = Total sum of all member&rsquo;s weight/Number of all members</p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"font-weight: bolder;  line-height: 20px;\">Calculation:</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Let the total average and weight of new member be x and y respectively.</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Total = Average&nbsp;&times; Number</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">&rArr; Total = x &times; 12 = 12x</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Now, according to question,</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">x + 3.5 = (12x &ndash; 56 + y)/12</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">&rArr; 12x + 42 = 12x &ndash; 56 + y</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">&rArr; y = 98</p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"font-weight: bolder;  line-height: 20px;\">&there4;</span>&nbsp;<span style=\"font-weight: bolder;  line-height: 20px;\">The</span><span style=\"font-weight: bolder;  line-height: 20px;\">&nbsp;weight of the new person is 98 kg.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q26",
+      "number": 26,
+      "question": "The average of twelve numbers is 25. If each number is added by 6, then the new average will be:",
+      "questionHtml": "The average of twelve numbers is 25. If each number is added by 6, then the new average will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "31",
+          "html": "31"
+        },
+        {
+          "id": "B",
+          "text": "19",
+          "html": "19"
+        },
+        {
+          "id": "C",
+          "text": "25",
+          "html": "25"
+        },
+        {
+          "id": "D",
+          "text": "20",
+          "html": "20"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>GIVEN:</strong></p>\n\n<p>Average of twelve numbers is 25</p>\n\n<p><strong>FORMULA USED:</strong></p>\n\n<p>Average = Sum of values/Number of values</p>\n\n<p><strong>CALCULATION:</strong></p>\n\n<p>Here, average of 12 numbers = 25</p>\n\n<p>&rArr; Average = Sum of values/No. of values</p>\n\n<p>&rArr; 25 = Sum of values/12</p>\n\n<p>&rArr; Sum of values = 25&nbsp;&times; 12 = 300</p>\n\n<p>Now, according to the question,</p>\n\n<p>Each number is added by 6,</p>\n\n<p>&rArr; 12&nbsp;&times; 6 = 72&nbsp;</p>\n\n<p>New sum of values = 300 + 72 = 372</p>\n\n<p>&rArr; New average = 372/12 = 31</p>\n\n<p><strong>Hence, new average is 31.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q27",
+      "number": 27,
+      "question": "The average of all prime numbers between 21 and 50 is (round of to one decimal number)∶",
+      "questionHtml": "The average of all prime numbers between 21 and 50 is (round of to one decimal number)∶",
+      "options": [
+        {
+          "id": "A",
+          "text": "32.9",
+          "html": "32.9"
+        },
+        {
+          "id": "B",
+          "text": "35.9",
+          "html": "35.9"
+        },
+        {
+          "id": "C",
+          "text": "33.7",
+          "html": "33.7"
+        },
+        {
+          "id": "D",
+          "text": "34.8",
+          "html": "34.8"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>All prime numbers between 21 and 50 are 23, 29, 31, 37, 41, 43, 47.</p>\n\n<p>Sum of all prime numbers between 21 and 50 = 23 + 29 + 31 + 37 + 41 + 43 + 47 = 251</p>\nAverage of all prime numbers between 21 and 50 = 251/7 = 35.857 &asymp; 35.9",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q28",
+      "number": 28,
+      "question": "The Group Leader of a group of 6 students reported that their average weight is 46 kg. When the members of the group were asked about their individual weights, 5 of them answered: 50 kg, 52 kg, 40 kg, 44 kg, 48 kg. The 6th member said, &ldquo;I can&rsquo;t recall my weight&rdquo;. What is his weight?",
+      "questionHtml": "The Group Leader of a group of 6 students reported that their average weight is 46 kg. When the members of the group were asked about their individual weights, 5 of them answered: 50 kg, 52 kg, 40 kg, 44 kg, 48 kg. The 6th member said, &ldquo;I can&rsquo;t recall my weight&rdquo;. What is his weight?",
+      "options": [
+        {
+          "id": "A",
+          "text": "43 kg",
+          "html": "43 kg"
+        },
+        {
+          "id": "B",
+          "text": "44 kg",
+          "html": "44<span style=\"\">&nbsp;kg</span>"
+        },
+        {
+          "id": "C",
+          "text": "45 kg",
+          "html": "45<span style=\"\">&nbsp;kg</span>"
+        },
+        {
+          "id": "D",
+          "text": "42 kg",
+          "html": "42<span style=\"\">&nbsp;kg</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Average = <span class=\"math-tex\">\\(\\frac{sum\\space of\\space weight \\space of\\space all\\space student}{total \\space no \\space of\\space student}\\)</span> ⇒ 46 = <span class=\"math-tex\">\\(\\frac{50+52+40+44+48+x}{6}\\)</span> <span style=\"color: rgb(33, 37, 41);\">⇒</span> 276 = 234 + x ⇒ x = 42kg</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q29",
+      "number": 29,
+      "question": "The average age of 14 friends is 14 years. If the age of 15 th friend is added, then the average remains same. What is the age of the 15 th friend?",
+      "questionHtml": "The average age of 14 friends is 14 years. If the age of 15<sup>th</sup> friend is added, then the average remains same. What is the age of the 15<sup>th</sup> friend?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "15 years",
+          "html": "15 years"
+        },
+        {
+          "id": "B",
+          "text": "18 years",
+          "html": "18 years"
+        },
+        {
+          "id": "C",
+          "text": "14 years",
+          "html": "14 years"
+        },
+        {
+          "id": "D",
+          "text": "12 years",
+          "html": "12 years"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong><br />\nAverage age of 14 friends = 14 years</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>The average age of 14 friends is 14 years.</p>\n\n<p>The sum of the ages of all 14 friends = 14 &times;&nbsp; 14 = 196 years.</p>\n\n<p>Now, if the age of the 15th friend is added, the average remains the same.&nbsp;</p>\n\n<p>Let&#39;s denote the age of the 15th friend as &quot;x&quot; years.</p>\n\n<p>The sum of ages of all 15 friends (including the 15th friend) would be 196 years + x years.</p>\n\n<p>According to the given condition, the average remains the same. The new average is still 14 years.</p>\n\n<p>We can set up an equation using the concept of averages:</p>\n\n<p>(196 + x) / 15 = 14</p>\n\n<p>Simplifying the equation:</p>\n\n<p>196 + x = 14 &times;&nbsp; 15</p>\n\n<p>196 + x = 210</p>\n\n<p>x = 210 - 196</p>\n\n<p>x = 14</p>\n\n<p>Therefore, the age of the 15th friend is 14 years.</p>\n\n<p><strong>&there4; Option 3 is the correct answer.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q30",
+      "number": 30,
+      "question": "The average weight of six children is 32.8 kg. If two more children weighing 26.5 kg and 28.3 kg are added to the group, what would be the new average weight in kilograms?",
+      "questionHtml": "The average weight of six children is 32.8 kg. If two more children weighing 26.5 kg and 28.3 kg are added to the group, what would be the new average weight in kilograms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "31.45",
+          "html": "31.45"
+        },
+        {
+          "id": "B",
+          "text": "30.3",
+          "html": "30.3"
+        },
+        {
+          "id": "C",
+          "text": "29.2",
+          "html": "29.2"
+        },
+        {
+          "id": "D",
+          "text": "28.9",
+          "html": "28.9"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Average weight of six children = 32.8 kg.</p>\n\n<p>Sum of weight of six children = 32.8 &times; 6 = 196.8</p>\n\n<p>Sum of two more children who joined the group = 26.5 + 28.3 = 54.8 kg</p>\n\n<p>Sum of weight of all 8 children = 196.8 + 54.8 = 251.6</p>\nAverage weight of all 8 children = 251.6/8 = 31.45 kg",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q31",
+      "number": 31,
+      "question": "The average of the first 10 natural numbers is _______.",
+      "questionHtml": "The average of the first 10 natural numbers is _______.",
+      "options": [
+        {
+          "id": "A",
+          "text": "6.5",
+          "html": "6.5"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "5&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "5.5",
+          "html": "5.5"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Sum of first 10 natural numbers:</p>\n\n<p>10 × (10 + 1)/2 = 10 × 11 / 2 = 55 </p>\n\n<p>Average = 55/10 = 5.5</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q32",
+      "number": 32,
+      "question": "The average weight of A, B and C is 65 kg. If the average weight of A and B is 63.5 kg, and the average weight of A and C is 67.5 kg, then the weight of A (in kg) is:",
+      "questionHtml": "The average weight of A, B and C is 65 kg. If the average weight of A and B is 63.5 kg, and the average weight of A and C is 67.5 kg, then the weight of A (in kg) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "67",
+          "html": "67"
+        },
+        {
+          "id": "B",
+          "text": "65",
+          "html": "65"
+        },
+        {
+          "id": "C",
+          "text": "68",
+          "html": "68"
+        },
+        {
+          "id": "D",
+          "text": "60",
+          "html": "60"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p> </p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>A + B + C = 65 × 3 = 195 kg      ---- (1)</p>\n\n<p>A + B = 63.5 × 2 = 127 kg      ---- (2)</p>\n\n<p>Subtracting (2) from (1), we'll get</p>\n\n<p>A + B + C – (A + B) = 195 – 127</p>\n\n<p>⇒ C = 68 kg</p>\n\n<p>Also, A + C = 67.5 × 2 = 135</p>\n\n<p>⇒ A + 68 = 135</p>\n\n<p>⇒ A = 135 – 68</p>\n\n<p>⇒ 67 kg</p>\n\n<p><strong>∴ Weight of A is 67 kg</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q33",
+      "number": 33,
+      "question": "The average weight of 15 persons is increased by 1.2 kg when one of them whose weight is 51 kg is replaced by a new man. The weight of the new man is:",
+      "questionHtml": "The average weight of 15 persons is increased by 1.2 kg when one of them whose weight is 51 kg is replaced by a new man. The weight of the new man is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "69 kg",
+          "html": "69 kg"
+        },
+        {
+          "id": "B",
+          "text": "70 kg",
+          "html": "70 kg"
+        },
+        {
+          "id": "C",
+          "text": "65 kg",
+          "html": "65 kg"
+        },
+        {
+          "id": "D",
+          "text": "59 kg",
+          "html": "59 kg"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\">Total increase in weight = 15 × 1.2 = 18 kg</p>\n\n<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\"><span style=\"\">The weight of a new person = 51+ 18 = 69 kg.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q34",
+      "number": 34,
+      "question": "The average of six numbers is 4. The average of two of them is 3.5, while the average of the other two is 3.75. What is the average of the remaining two numbers?",
+      "questionHtml": "The average of six numbers is 4. The average of two of them is 3.5, while the average of the other two is 3.75. What is the average of the remaining two numbers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4.65",
+          "html": "4.65"
+        },
+        {
+          "id": "B",
+          "text": "8.375",
+          "html": "8.375"
+        },
+        {
+          "id": "C",
+          "text": "4.85",
+          "html": "4.85"
+        },
+        {
+          "id": "D",
+          "text": "4.75",
+          "html": "4.75"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Sum of six numbers = 6 × 4 = 24,</span>\n\n<p><br />\n<span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Sum of two numbers with average 3.5 = 2 × 3.5 = 7</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Sum of two numbers with average 3.75 = 2 × 3.75 = 7.5</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Sum of remaining two numbers = 24 - (7 + 7.5) = 9.5</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Average of remaining two numbers = 9.5 / 2 = 4.75</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q35",
+      "number": 35,
+      "question": "The average weight of 32 students is 70 kg. If the weight of the teacher is also included, the average weight of the class becomes 70.5 kg. Calculate the weight of the teacher.",
+      "questionHtml": "The average weight of 32 students is 70 kg. If the weight of the teacher is also included, the average weight of the class becomes 70.5 kg. Calculate the weight of the teacher.",
+      "options": [
+        {
+          "id": "A",
+          "text": "88.5 kg",
+          "html": "88.5 kg"
+        },
+        {
+          "id": "B",
+          "text": "84.5 kg",
+          "html": "84.5 kg"
+        },
+        {
+          "id": "C",
+          "text": "82.5 kg",
+          "html": "82.5 kg"
+        },
+        {
+          "id": "D",
+          "text": "86.5 kg",
+          "html": "86.5 kg"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>GIVEN:</strong></p>\n\n<p>The average weight of 32 students is 70 kg&nbsp;</p>\n\n<p>If the weight of the teacher is also included average weight becomes 70.5 kg</p>\n\n<p><strong>FORMULA USED:</strong></p>\n\n<p>Average = Sum of values/ No. of values&nbsp;</p>\n\n<p><strong>CALCULATION:</strong></p>\n\n<p>Here, the average weight of 32 students = 70 kg</p>\n\n<p>&rArr; Sum of weight of&nbsp; students = Average&nbsp;&times; No, of students = 70&nbsp;&times; 32 = 2240&nbsp;</p>\n\n<p>Also, the weight of the teacher and students = 70.5 kg&nbsp;</p>\n\n<p>&rArr; Sum of&nbsp; weight of students and teacher included =&nbsp; 70.5&nbsp;&times; 33 = 2326.5&nbsp;</p>\n\n<p>&rArr; Weight of teacher = ( 2326.5 - 2240 ) = 86.5 kg&nbsp;</p>\n\n<p><strong>Hence, the weight of the teacher is 86.5 kg.&nbsp;</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q36",
+      "number": 36,
+      "question": "In a college, the average weight of 40 boys in a section among 72 students is 33 kg and that of the remaining students is 15 kg. What is the average weight of all the students in the section?",
+      "questionHtml": "In a college, the average weight of 40 boys in a section among 72 students is 33 kg and that of the remaining students is 15 kg. What is the average weight of all the students in the section?",
+      "options": [
+        {
+          "id": "A",
+          "text": "25 kg",
+          "html": "25 kg"
+        },
+        {
+          "id": "B",
+          "text": "18 kg",
+          "html": "18 kg"
+        },
+        {
+          "id": "C",
+          "text": "22 kg",
+          "html": "22 kg"
+        },
+        {
+          "id": "D",
+          "text": "24 kg",
+          "html": "24 kg"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Total weight of boys = 40 × 33 = 1320 kg</p>\n\n<p>Total weight of remaining students = 32 × 15 = 480 kg</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Total weight of all students = 1320 + 480 = 1800 kg</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">So, Average weight = 1800 / 72 = 25 kg</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q37",
+      "number": 37,
+      "question": "The average weight of 30 students in a class is 60 kg. If the weight of the class teacher is included, the average increases by 0.5 kg. The weight (in kg) of the teacher is:",
+      "questionHtml": "The average weight of 30 students in a class is 60 kg. If the weight of the class teacher is included, the average increases by 0.5 kg. The weight (in kg) of the teacher is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "76.5",
+          "html": "76.5"
+        },
+        {
+          "id": "B",
+          "text": "75.5",
+          "html": "75.5"
+        },
+        {
+          "id": "C",
+          "text": "72.5",
+          "html": "72.5"
+        },
+        {
+          "id": "D",
+          "text": "74.5",
+          "html": "74.5"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Calculation:</strong></p>\n\n<p>Let the teachers age be X</p>\n\n<p>The new average = 60 + 0.5 = 60.5</p>\n\n<p>⇒ 60.5 × 31 = 30 × 60 + X</p>\n\n<p>⇒ 60.5 × 31.5 = 1800 + X</p>\n\n<p>⇒ 1875.5 = 1800 + X</p>\n\n<p>⇒ X = 75.5</p>\n\n<p><strong>∴ The required result will be 75.5.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q38",
+      "number": 38,
+      "question": "The average weight of 8 students is 48 kg. If four students of average weight 44 kg and four students of average weight 58 kg is also added, then find the average weight of 16 students.",
+      "questionHtml": "The average weight of 8 students is 48 kg. If four students of average weight 44 kg and four students of average weight 58 kg is also added, then find the average weight of 16 students.&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "49.5 kg",
+          "html": "49.5 kg&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "48 kg",
+          "html": "48 kg"
+        },
+        {
+          "id": "C",
+          "text": "49 kg",
+          "html": "49 kg&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "48.5 kg",
+          "html": "48.5 kg&nbsp;"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">⇒ sum of weight of 8 students =  48 × 8 = 384 kg</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ sum of weight of 4 students = 44 × 4 = 176 kg</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ sum of weight of 4 students = 58 × 4 = 232 kg</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average weight of 16 students = (384 + 176 + 232) ÷ 16 = 49.5 kg</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q39",
+      "number": 39,
+      "question": "The average age of 10 students and their class teacher is 17 years. If the age of the class teacher is excluded, the average age of the 10 students is reduced by 2 years. What is the age of the class teacher?",
+      "questionHtml": "The average age of 10 students and their class teacher is 17 years. If the age of the class teacher is excluded, the average age of the 10 students is reduced by 2 years. What is the age of the class teacher?",
+      "options": [
+        {
+          "id": "A",
+          "text": "38 years",
+          "html": "<span style=\"\">38 years</span>"
+        },
+        {
+          "id": "B",
+          "text": "36 years",
+          "html": "<span style=\"\">36 years</span>"
+        },
+        {
+          "id": "C",
+          "text": "37 years",
+          "html": "<span style=\"\">37 years</span>"
+        },
+        {
+          "id": "D",
+          "text": "35 years",
+          "html": "<span style=\"\">35 years</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">The average age of 10 students and their class teacher is 17 years</span></p>\n\n<p><strong>Concept Used:</strong></p>\n\n<p>Average = (<span class=\"math-tex\">\\(\\frac{Sum\\space of\\space all\\space observation}{number\\space of\\space observations}\\)</span>)</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>&rArr; The sum of the age of 10 students and their teacher is = 11 &times; 17 = 187 years</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>The sum of the age of 10 students =&nbsp;<span style=\"\">10&nbsp;&times; (17 &ndash; 2) = 150 years</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;Now,&nbsp;</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;The age of teacher = 187&nbsp;&ndash; 150 = 37 years</span></p>\n\n<p><strong>Therefore, the age of the class teacher is 37 years.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q40",
+      "number": 40,
+      "question": "The average of six numbers is 3.52. The average of two of them is 3.7, while the average of other two is 2.5. What is the average of the remaining two?",
+      "questionHtml": "The average of six numbers is 3.52. The average of two of them is 3.7, while the average of other two is 2.5. What is the average of the remaining two?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.7",
+          "html": "3.7"
+        },
+        {
+          "id": "B",
+          "text": "2.5",
+          "html": "2.5"
+        },
+        {
+          "id": "C",
+          "text": "4.36",
+          "html": "4.36"
+        },
+        {
+          "id": "D",
+          "text": "3.52",
+          "html": "3.52"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Total sum of six numbers = 3.52 × 6 ⇒ 21.12 </p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total sum of two numbers = 3.7 × 2 ⇒ 7.4</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The total sum of the other two numbers = 2.5 × 2 ⇒ 5 </p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total sum of remaining two numbers = 21.12 - 7.4 - 5 <span style=\"color: rgb(33, 37, 41);\">⇒ </span>8.72</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average of remaining two numbers = 8.72/2 = 4.36</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q41",
+      "number": 41,
+      "question": "The average weight of 8 persons is increased by 2.5 kg when a new person replaces the one whose weight is 45 kg. What is the weight of the new person?",
+      "questionHtml": "The average weight of 8 persons is increased by 2.5 kg when a new person replaces the one whose weight is 45 kg. What is the weight of the new person?",
+      "options": [
+        {
+          "id": "A",
+          "text": "63 kg",
+          "html": "63 kg"
+        },
+        {
+          "id": "B",
+          "text": "60 kg",
+          "html": "60 kg"
+        },
+        {
+          "id": "C",
+          "text": "65 kg",
+          "html": "65 kg"
+        },
+        {
+          "id": "D",
+          "text": "62 kg",
+          "html": "62 kg"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>given:&nbsp;</p>\n\n<p>Total number of persons 8. Is</p>\n\n<p>Average weight increased by 2.5 kg</p>\n\n<p>Calculation:</p>\n\n<p>total weight increased,</p>\n\n<p>8 x 2.5 kg = 20 kg</p>\n\n<p>Replaced person&#39;s weight = 45 kg</p>\n\n<p>new person&#39;s weight,</p>\n\n<p>(45 + 20) kg&nbsp; = 65 kg</p>\n\n<p>The weight of the new person is 65 kg.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q42",
+      "number": 42,
+      "question": "A family consists of two grandparents, two parents and four grandchildren. The average age of the grandparents is 67 years, that of the parents is 35 years and that of the grandchildren is 9 years. What is the average age of the family?",
+      "questionHtml": "A family consists of two grandparents, two parents and four grandchildren. The average age of the grandparents is 67 years, that of the parents is 35 years and that of the grandchildren is 9 years. What is the average age of the family?",
+      "options": [
+        {
+          "id": "A",
+          "text": "40 years",
+          "html": "40 years"
+        },
+        {
+          "id": "B",
+          "text": "30 years",
+          "html": "30&nbsp;<span style=\"\">years</span>"
+        },
+        {
+          "id": "C",
+          "text": "36 years",
+          "html": "36&nbsp;<span style=\"\">years</span>"
+        },
+        {
+          "id": "D",
+          "text": "45 years",
+          "html": "45&nbsp;<span style=\"\">years</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">The sum of the ages of the grandparents = 67 × 2 = 134 years, of parents = 35 × 2 = 70 years and of grandchildren = 9 × 4 = 36 years.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Sum of the ages of all 8 family members = 134 + 70 + 36 = 240 years. Required average = <span class=\"math-tex\">\\(\\frac{240}{8}=30\\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q43",
+      "number": 43,
+      "question": "A class of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 78. What is the average score of the class?",
+      "questionHtml": "A class of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 78. What is the average score of the class?",
+      "options": [
+        {
+          "id": "A",
+          "text": "72.6",
+          "html": "72.6"
+        },
+        {
+          "id": "B",
+          "text": "69.6",
+          "html": "69.6"
+        },
+        {
+          "id": "C",
+          "text": "70.6",
+          "html": "70.6"
+        },
+        {
+          "id": "D",
+          "text": "71.6",
+          "html": "71.6"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Total score of 12 students = 12 × 62 = 744</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Total score of 18 students = 18 × 78 = 1404</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Total score = 744 + 1404 = 2148</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Overall Average = 2148 / 30 = 71.6</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q44",
+      "number": 44,
+      "question": "The average of 32, 34, 38, 21, 26 and x is 30. What will be the value of x?",
+      "questionHtml": "The average of 32, 34, 38, 21, 26 and x is 30. What will be the value of x?&nbsp;&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "31",
+          "html": "31"
+        },
+        {
+          "id": "B",
+          "text": "29",
+          "html": "29"
+        },
+        {
+          "id": "C",
+          "text": "27",
+          "html": "27"
+        },
+        {
+          "id": "D",
+          "text": "28",
+          "html": "28"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The average of these 5 observations and x is 30</p>\n\n<p>⇒ (32 + 34 + 38 + 21 + 26 + x) / 6 = 30</p>\n\n<p>Multiplying both sides by 6, ⇒ 32 + 34 + 38 + 21 + 26 + x = 180, x = 29</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q45",
+      "number": 45,
+      "question": "The average age of 25 students in a class is 14 years. Five new students with an average age of 14.6 years join this class. What is the average age of 30 students in the class?",
+      "questionHtml": "The average age of 25 students in a class is 14 years. Five new students with an average age of 14.6 years join this class. What is the average age of 30 students in the class?",
+      "options": [
+        {
+          "id": "A",
+          "text": "13.1 years",
+          "html": "13.1 years"
+        },
+        {
+          "id": "B",
+          "text": "14.1 years",
+          "html": "14.1 years"
+        },
+        {
+          "id": "C",
+          "text": "15.1 years",
+          "html": "15.1 years"
+        },
+        {
+          "id": "D",
+          "text": "16.1 years",
+          "html": "16.1 years"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Total sum of age of 25 students = 25 × 14 = 350</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Total sum of age of 5 students = 5 × 14.6 = 73</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Total = 350 + 73 = 423</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Average = 423/30 = 14.1 years</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q46",
+      "number": 46,
+      "question": "The average of 25 numbers is 13. If the average of the first 13 numbers is 11.5 and the average of the last 13 numbers is 14.5, then the middle number is:",
+      "questionHtml": "<div>The average of 25 numbers is 13. If the average of the first 13 numbers is 11.5 and the average of the last 13 numbers is 14.5, then the middle number is:</div>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "17",
+          "html": "<span style=\"\">17</span>"
+        },
+        {
+          "id": "B",
+          "text": "19",
+          "html": "<span style=\"\">19</span>"
+        },
+        {
+          "id": "C",
+          "text": "13",
+          "html": "<span style=\"\">13</span>"
+        },
+        {
+          "id": "D",
+          "text": "21",
+          "html": "<span style=\"\">21</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">The sum of the 25 numbers is 25 × 13 = 325, sum of first 13 numbers is 11.5 × 13 = 149.5 and sum of the last 13 numbers is 14.5 × 13 = 188.5</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The first 13 and the last 13 numbers can be added and written as 149.5 + 188.5 -x = 325. Solving for x, x = 149.5 + 188.5 - 325 = 13</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q47",
+      "number": 47,
+      "question": "The average weight of 5 men decreases by 3 kg when one of them weighing 150 kg is replaced by another person. Find the weight of the new person.",
+      "questionHtml": "The average weight of 5 men decreases by 3 kg when one of them weighing 150 kg is replaced by another person. Find the weight of the new person.",
+      "options": [
+        {
+          "id": "A",
+          "text": "125 kg",
+          "html": "125 kg"
+        },
+        {
+          "id": "B",
+          "text": "100 kg",
+          "html": "100&nbsp;<span style=\"\">kg</span>"
+        },
+        {
+          "id": "C",
+          "text": "120 kg",
+          "html": "120&nbsp;<span style=\"\">kg</span>"
+        },
+        {
+          "id": "D",
+          "text": "135 kg",
+          "html": "135&nbsp;<span style=\"\">kg</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>5N - 150 + P = 5(N - 3)</p>\n\n<p><span style=\"\">⇒ P = 150 - 15 ⇒ P = 135</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q48",
+      "number": 48,
+      "question": "Average weight of 15 persons is 30 kg. A new person whose weight is 78 kg joins the group. What will be the average weight of 16 persons?",
+      "questionHtml": "Average weight of 15 persons is 30 kg. A new person whose weight is 78 kg joins the group. What will be the average weight of 16 persons?",
+      "options": [
+        {
+          "id": "A",
+          "text": "31.5 kg",
+          "html": "31.5 kg"
+        },
+        {
+          "id": "B",
+          "text": "34 kg",
+          "html": "34 kg"
+        },
+        {
+          "id": "C",
+          "text": "33 kg",
+          "html": "33 kg"
+        },
+        {
+          "id": "D",
+          "text": "32 kg",
+          "html": "32 kg"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">The total weight of 15 persons is 15 × 30 = 450 kg and when the new person joins the group, the total weight becomes 450 + 78 = 528 kg.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Average weight of 16 persons = 528/16 = 33 kg</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q49",
+      "number": 49,
+      "question": "In a class of 45 students, 40% are girls and the remaining are boys. The average marks of the girls are 64 and that of the boys is 60. What is the average marks of the whole class?",
+      "questionHtml": "In a class of 45 students, 40% are girls and the remaining are boys. The average marks of the girls are 64 and that of the boys is 60. What is the average marks of the whole class?",
+      "options": [
+        {
+          "id": "A",
+          "text": "61.8",
+          "html": "61.8"
+        },
+        {
+          "id": "B",
+          "text": "62.4",
+          "html": "62.4"
+        },
+        {
+          "id": "C",
+          "text": "61.6",
+          "html": "61.6"
+        },
+        {
+          "id": "D",
+          "text": "62.9",
+          "html": "62.9"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Total number of students = 45</p>\n\n<p>Number of girls in class = 45 &times; 40/100 = 18</p>\n\n<p>Number of boys in class = 45 - 18 = 27</p>\n\n<p>Average marks of girls = 64</p>\n\n<p>Sum of marks of girls = 64 &times; 18 = 1152</p>\n\n<p>Average marks of boys = 60</p>\n\n<p>Sum of marks of boys = 60 &times; 27 = 1620</p>\n\n<p>Total sum of marks of all class = 1152 + 1620 = 2772</p>\nAverage marks of whole class = 2772/45 = 61.6",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "1ac79e44ef12-q50",
+      "number": 50,
+      "question": "In a company, the average salary of all the employees is ₹ 20,000. The average salary of group-A employees is ₹ 32,000 while the average salary of group-B employees is ₹ 18,000. What is the number of employees in group-A if there are 72 employees in group-B?",
+      "questionHtml": "In a company, the average salary of all the employees is ₹ 20,000. The average salary of group-A employees is ₹ 32,000 while the average salary of group-B employees is ₹ 18,000. What is the number of employees in group-A if there are 72 employees in group-B?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "B",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "D",
+          "text": "12",
+          "html": "12"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(30, 43, 51);  \"><span style=\"font-weight: bolder;  line-height: 20px;\">Given&nbsp;</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \">The average salary of all employees = Rs 20, 000</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">The average salary of group-A employees is ₹ 32,000 while the average salary of group-B employees is ₹ 18,000.</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">The number of employees in group B is 72.</p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"font-weight: bolder;  line-height: 20px;\">Formula Used&nbsp;</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Percentage = (actual/total) &times;&nbsp;100</p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"font-weight: bolder;  line-height: 20px;\">Calculation</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Let no. of employees in group A be x then no. of employees in group B be (72 + x)</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">&rArr;&nbsp;total salary of all employees</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">= 20, 000 &times; (72 + x)</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">=14, 40, 000 + 20, 000x&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --------------(1)</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">And According to question ,&nbsp;</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Total salary of all employees</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">= Total salary of employees in (group A + group B)</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">= 32, 000x + 18, 000 &times; 72</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">= 32, 000x + 12, 96, 000&nbsp; &nbsp; &nbsp; &nbsp; -----------------(2)</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">From equation (1) and (2), We get:</p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"color: rgb(30, 43, 51); \">14, 40, 000 + 20, 000x =&nbsp;32, 000x + 12, 96, 000</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"color: rgb(30, 43, 51); \">&rArr; 14, 40, 000 - 12, 96, 000 = 32, 000x - 20, 000x</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"color: rgb(30, 43, 51); \">&rArr; 1, 44, 000 = 12, 000x</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"color: rgb(30, 43, 51); \">&rArr; x = 1, 44, 000/12, 000 </span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"color: rgb(30, 43, 51); \">&rArr; x = 12</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><strong>&there4; The number of employees in group A is 12.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

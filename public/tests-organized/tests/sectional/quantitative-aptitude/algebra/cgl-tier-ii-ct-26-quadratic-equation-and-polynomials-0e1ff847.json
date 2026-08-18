@@ -1,0 +1,355 @@
+{
+  "id": "0e1ff847ec10",
+  "provider": "Testbook",
+  "sourceFile": "CGL Tier II CT 26_ Quadratic Equation and Polynomials.html",
+  "sourcePath": "Testbook/files/CGL Tier II CT 26_ Quadratic Equation and Polynomials.html",
+  "title": "CGL Tier II CT 26: Quadratic Equation and Polynomials",
+  "exam": null,
+  "year": null,
+  "tier": "Tier I",
+  "shift": null,
+  "duration": null,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "0e1ff847ec10-q1",
+      "number": 1,
+      "question": "The equation where roots are reciprocal of the roots of x 2 - x - 6 = 0 is",
+      "questionHtml": "<span style=\"\">The equation where roots are reciprocal of the roots of x<sup>2</sup>&nbsp;- x - 6 = 0 is</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "6x 2 + x - 1 = 0",
+          "html": "<span style=\"\">6x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">+ x - 1 = 0</span>"
+        },
+        {
+          "id": "B",
+          "text": "x 2 + 6x - 1 = 0",
+          "html": "<span style=\"\">x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">+ 6x - 1 = 0</span>"
+        },
+        {
+          "id": "C",
+          "text": "x 2 + x - 6 = 0",
+          "html": "<span style=\"\">x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">+ x - 6 = 0</span>"
+        },
+        {
+          "id": "D",
+          "text": "6x 2 + x + 6 = 0",
+          "html": "<span style=\"\">6x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">+&nbsp;</span><span style=\"\">x + 6 = 0</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><b>Given:</b></p>\n\n<p>The quadratic equation&nbsp;<span style=\"\">x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;- x - 6 = 0.</span></p>\n\n<p><span style=\"\"><strong>Concept Used:</strong></span></p>\n\n<p>The general form of quadratic equation x<sup>2</sup>&nbsp;- (p + q)x + pq&nbsp;= 0</p>\n\n<p>Sum of roots = p + q</p>\n\n<p>Product of roots = pq</p>\n\n<p>Where p &amp; q are roots of quadratic equation,</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><span style=\"\">The quadratic equation&nbsp;</span><span style=\"\">x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;- x - 6 = 0</span></p>\n\n<p><span style=\"\">x<sup>2</sup></span>&nbsp;- 3x + 2x - 6 = 0</p>\n\n<p>x(x - 3) + 2(x - 3) = 0</p>\n\n<p>(x - 3) (x + 2) = 0</p>\n\n<p>x = 3, -2</p>\n\n<p>Reciprocal of roots = 1/3, -1/2</p>\n\n<p>Sum of roots = 1/3 + (-1/2) = -1/6</p>\n\n<p>Product of roots = -1/6</p>\n\n<p>&there4;&nbsp;<span style=\"\">The equation where roots are reciprocal of the roots&nbsp;</span>is x<sup>2&nbsp;</sup>-(-1/6)x -1/6 = 0</p>\n<strong>&rArr; 6x<sup>2</sup>&nbsp;+ x - 1 = 0</strong>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0e1ff847ec10-q2",
+      "number": 2,
+      "question": "If x 8 - 32 x 4 + 256 = 0, then the positive value of \\(\\rm \\left(x^2+\\frac{1}{x^2}\\right)\\) is :",
+      "questionHtml": "If x<sup>8</sup>&nbsp;- 32 x<sup>4</sup>&nbsp;+ 256 = 0, then the positive value of&nbsp;<span class=\"math-tex\">\\(\\rm \\left(x^2+\\frac{1}{x^2}\\right)\\)</span>&nbsp;is :",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.25",
+          "html": "2.25&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "5.75",
+          "html": "5.75"
+        },
+        {
+          "id": "C",
+          "text": "3.75",
+          "html": "3.75&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "4.25",
+          "html": "4.25"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>GIVEN:</strong></p>\n\n<p>x<sup>8</sup>&nbsp;- 32x<sup>4</sup>&nbsp;+ 256 = 0&nbsp;</p>\n\n<p><strong>CALCULATION:</strong></p>\n\n<p>Here, we have&nbsp;</p>\n\n<p>x<sup>8</sup>&nbsp;- 32x<sup>4</sup>&nbsp;+ 256 = 0&nbsp;</p>\n\n<p>&rArr; x<sup>8</sup>&nbsp;- 16x<sup>4</sup>&nbsp;-16x<sup>4</sup>&nbsp;+ 256 = 0&nbsp;</p>\n\n<p>&rArr; x<sup>4</sup>&nbsp;( x<sup>4</sup>&nbsp;- 16) - 16 (x<sup>4</sup>&nbsp;- 16) = 0&nbsp;</p>\n\n<p>&rArr; ( x<sup>4</sup>-16) (x<sup>4</sup>&nbsp;- 16) = 0&nbsp;</p>\n\n<p>&rArr; x<sup>4</sup>&nbsp;= 16&nbsp;&nbsp;&hArr; x<sup>2</sup>&nbsp;= 4&nbsp;</p>\n\n<p>Now, (x<sup>2</sup>&nbsp;+ 1/x<sup>2</sup>) = ( 4 + 1/4) = 4.25</p>\n\n<p><strong>Hence, the required value is 4.25 .</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0e1ff847ec10-q3",
+      "number": 3,
+      "question": "If the roots of the equation x 2 - 2ax + a 2 + a - 3 = 0 are real and less than 3, then which one of the following is correct?",
+      "questionHtml": "If the roots of the equation x<sup>2</sup>&nbsp;- 2ax + a<sup>2</sup>&nbsp;+ a - 3 = 0 are real and less than 3, then which one of the following is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "a < 2",
+          "html": "<span style=\"\">a &lt; 2</span>"
+        },
+        {
+          "id": "B",
+          "text": "2 < a < 3",
+          "html": "<span style=\"\">2 &lt; a &lt; 3</span>"
+        },
+        {
+          "id": "C",
+          "text": "3 < a < 4",
+          "html": "<span style=\"\">3 &lt; a &lt; 4</span>"
+        },
+        {
+          "id": "D",
+          "text": "a > 4",
+          "html": "<span style=\"\">a &gt; 4</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">x<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> - 2ax + a<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> + a - 3 = 0 ....(1) ⇒ (x - a)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> = 3 - a</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Since, (x - a)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> ≥ 0 ⇒ 3 - a ≥ 0 ⇒ a ≤ 3</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The roots of the equation (1) is ⇒ x = <span class=\"math-tex\">\\({-(-2 \\pm √{(-2a)^2-4.1.(a^2+a-3)} \\over 2.1}\\)</span> <span style=\"color: rgb(33, 37, 41);\">⇒ x = a ± √(3 - a)</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">Since, roots are less than 3</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ a + √(3 - a) < 3 ⇒ √(3 - a) < 3 - a ⇒ 3 - a < 9 + a<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> - 6a ⇒ a<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> - 5a + 6 > 0 ⇒ (a - 2)(a - 3) > 0 ⇒ a < 2 or a > 3</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0e1ff847ec10-q4",
+      "number": 4,
+      "question": "If &alpha; and &beta; are the zeroes of a quadratic polynomial x 2 - 3x + 7, then the quadratic polynomial whose zeroes are \\(\\frac{1}{α}\\) and \\(\\frac{1}{β}\\) is",
+      "questionHtml": "If &alpha; and &beta;&nbsp; are the zeroes of a quadratic polynomial x<sup>2</sup>&nbsp;- 3x + 7, then the quadratic polynomial whose zeroes are&nbsp;<span class=\"math-tex\">\\(\\frac{1}{α}\\)</span> and <span class=\"math-tex\">\\(\\frac{1}{β}\\)</span> is",
+      "options": [
+        {
+          "id": "A",
+          "text": "x 2 - 3x + 7",
+          "html": "<span style=\"\">x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">- 3x + 7</span>"
+        },
+        {
+          "id": "B",
+          "text": "7x 2 - 3x - 1",
+          "html": "<span style=\"\">7x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">- 3x - 1</span>"
+        },
+        {
+          "id": "C",
+          "text": "7x 2 + 3x + 1",
+          "html": "<span style=\"\">7x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">+ 3x + 1</span>"
+        },
+        {
+          "id": "D",
+          "text": "7x 2 - 3x + 1",
+          "html": "<span style=\"\">7x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">- 3x + 1</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">&alpha; and &beta;&nbsp; are the zeroes of a quadratic polynomial x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;- 3x + 7</span></p>\n\n<p><span style=\"\"><strong>Concept used:</strong></span></p>\n\n<p>If ax<sup>2</sup>&nbsp;+ bx + c = 0 be a quadratic equation, then&nbsp;</p>\n\n<p>Sum of roots = -b/a</p>\n\n<p>Product of roots = c/a</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Here,&nbsp;</p>\n\n<p><span style=\"\">x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;- 3x + 7&nbsp;</span></p>\n\n<p><span style=\"\">Sum of roots&nbsp;&nbsp;(</span><span style=\"\">&alpha; +&nbsp;</span><span style=\"\">&beta;</span><span style=\"\">)</span><span style=\"\">= -(-3)/1 = 3</span></p>\n\n<p><span style=\"\">Product of roots&nbsp;&alpha;</span><span style=\"\">&beta;&nbsp; = 7/1 = 7</span></p>\n\n<p><span style=\"\">&there4; If the quadratic polynomial whose zeroes are&nbsp;</span><span class=\"math-tex\">\\(\\frac{1}{α}\\)</span><span style=\"\">&nbsp;and&nbsp;</span><span class=\"math-tex\">\\(\\frac{1}{β}\\)</span>, then</p>\n\n<p>Sum of roots =&nbsp;<span style=\"\">&nbsp;</span><span class=\"math-tex\">\\(\\frac{1}{α}\\)</span><span style=\"\">&nbsp;+&nbsp;</span><span class=\"math-tex\" style=\"outline: yellow solid 2px; cursor: default; ;;;;;\">\\(\\frac{1}{β}\\)</span><span style=\"\">, = (</span>&alpha; +&nbsp;&beta;)/<span style=\"\">&alpha;</span><span style=\"\">&beta; = 3/7</span></p>\n\n<p>Product of roots =&nbsp;<span style=\"\">&nbsp;</span><span class=\"math-tex\">\\(\\frac{1}{α}\\)</span><span style=\"\">&nbsp;&times;&nbsp;&nbsp;</span><span class=\"math-tex\" style=\"outline: yellow solid 2px; cursor: default; ;;;;\">\\(\\frac{1}{β}\\)</span>&nbsp;= 1/<span style=\"\">&alpha;</span><span style=\"\">&beta; = 1/7</span></p>\n\n<p><span style=\"\">&there4; The quadratic equation is x<sup>2&nbsp;</sup></span>- (3/7)x + 1/7 = 0</p>\n\n<p><strong>&rArr; 7x<sup>2&nbsp;</sup>- 3x + 1 = 0</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0e1ff847ec10-q5",
+      "number": 5,
+      "question": "If x 2 - 15x + 1 = 0, what is the value of x 4 - 223x 2 + 6?",
+      "questionHtml": "If x<sup>2&nbsp;</sup>- 15x + 1 = 0, what is the value of x<sup>4&nbsp;</sup>- 223x<sup>2</sup> + 6?",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "D",
+          "text": "0",
+          "html": "0"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\"> x + 1/x = 15 </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">⇒ x</span><span style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align); position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size: 10.5px;\">2</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> + 1/x</span><span style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align); position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size: 10.5px;\">2</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> = 15</span><span style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align); position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size: 10.5px;\">2</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> - 2 </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">⇒ x</span><span style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align); position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size: 10.5px;\">2</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> + 1/x</span><span style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align); position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size: 10.5px;\">2</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> = 223.</span></p>\n\n<p>x<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">4 </span>- 223x<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> + 6 ⇒ x<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">4 </span>- (x<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> + 1/x<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>) × x<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> + 6 ⇒ x<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">4 </span>- x<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">4</span> - 1 + 6 ⇒ 5</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0e1ff847ec10-q6",
+      "number": 6,
+      "question": "If the factors of the quadratic equation x 2 + 4&radic;2x + 6 = 0 are (x + a&radic;2) and (x + b&radic;2) then find the value of a 2 + ab + b 2",
+      "questionHtml": "If the factors of the quadratic equation&nbsp;x<sup>2</sup>&nbsp;+ 4&radic;2x + 6 = 0 are&nbsp;(x + a&radic;2) and (x + b&radic;2) then find the value of a<sup>2</sup>&nbsp;+ ab + b<sup>2</sup>",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "B",
+          "text": "11",
+          "html": "11"
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "D",
+          "text": "13",
+          "html": "13"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p> <span style=\"\">x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\"> + 4√2x + 6</span> = 0 ⇒ (x + √2) (x + 3√2) = 0 </p>\n\n<p>Comparing with <span style=\"\">(x + a√2) and (x + b√2)</span></p>\n\n<p><span style=\"\">value of a = 1 and b = 3 or a = 3 and b = 1</span></p>\n\n<p><span style=\"\">Now, a</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\"> + ab + b</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> = <span style=\"\">1</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\"> + 1 × 3 + 3</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\"> or 3</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\"> + </span><span style=\"\">1 × 3 </span><span style=\"\">+ 1</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> = 13</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0e1ff847ec10-q7",
+      "number": 7,
+      "question": "The roots of the quadratic equation \\(x+\\frac{1}{x}=3\\) , x &ne; 0 are",
+      "questionHtml": "The roots of the quadratic equation&nbsp;<span class=\"math-tex\">\\(x+\\frac{1}{x}=3\\)</span>, x&nbsp;&ne; 0 are",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 + \\(\\sqrt5\\) , 3 - ​ \\(\\sqrt5\\) ​ ​ ​",
+          "html": "3 +&nbsp;<span class=\"math-tex\">\\(\\sqrt5\\)</span>, 3 -&nbsp;<span>​</span><span class=\"math-tex\">\\(\\sqrt5\\)</span><span>​</span><span style=\"color: rgb(33, 37, 41);\">​</span><span style=\"color: rgb(33, 37, 41);\">​</span>"
+        },
+        {
+          "id": "B",
+          "text": "2 + \\(\\sqrt5\\) , 2 - \\(\\sqrt5\\)",
+          "html": "2 +&nbsp;<span class=\"math-tex\">\\(\\sqrt5\\)</span>, 2 -&nbsp;<span class=\"math-tex\">\\(\\sqrt5\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{3+\\sqrt5}{2}\\) , \\(\\frac{3-\\sqrt5}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{3+\\sqrt5}{2}\\)</span>,&nbsp;<span class=\"math-tex\">\\(\\frac{3-\\sqrt5}{2}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{3+\\sqrt3}{2}\\) , \\(\\frac{3-\\sqrt3}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{3+\\sqrt3}{2}\\)</span>,&nbsp;<span class=\"math-tex\">\\(\\frac{3-\\sqrt3}{2}\\)</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><strong><span class=\"math-tex\">\\(x+\\frac{1}{x}=3\\)</span></strong></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><span class=\"math-tex\">\\(x+\\frac{1}{x}=3\\)</span></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\dfrac{x^2+1}{x}\\)</span>&nbsp;= 3</p>\n\n<p>&rArr; x<sup>2</sup>&nbsp;+ 1 = 3x&nbsp;</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">&rArr;&nbsp;x</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\">&nbsp;- 3x&nbsp;+ 1 = 0</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">We know that,</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Quadratic Equation, ax<sup>2</sup>&nbsp;+ bx + c = 0</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">x =&nbsp;<span class=\"math-tex\">\\(\\dfrac{-b \\pm \\sqrt{b^2-4ac}}{{2a}}\\)</span></span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">x =&nbsp;<span class=\"math-tex\">\\(\\dfrac{-(-3) \\pm \\sqrt{3^2-4\\times 1\\times 1}}{{2\\times1}}\\)</span></span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">&rArr;&nbsp;x =&nbsp;<span class=\"math-tex\">\\(\\dfrac{3 \\pm \\sqrt{5}}{{2}}\\)</span></span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">&there4; x =&nbsp;<span class=\"math-tex\">\\(\\dfrac{3+\\sqrt{5}}{{2}}\\)</span>&nbsp;and&nbsp;<span class=\"math-tex\">\\(\\dfrac{3-\\sqrt{5}}{{2}}\\)</span></span></p>\n\n<p><strong>&there4;&nbsp;Option (3) is the correct answer.&nbsp;</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0e1ff847ec10-q8",
+      "number": 8,
+      "question": "If \\(\\frac{x}{8} + \\frac{8}{x} = 1\\) , then the value of x 3 is :",
+      "questionHtml": "If&nbsp;<span class=\"math-tex\">\\(\\frac{x}{8} + \\frac{8}{x} = 1\\)</span>, then the value of x<sup>3&nbsp;</sup>is :",
+      "options": [
+        {
+          "id": "A",
+          "text": "-256",
+          "html": "-256"
+        },
+        {
+          "id": "B",
+          "text": "-512",
+          "html": "-512"
+        },
+        {
+          "id": "C",
+          "text": "256",
+          "html": "256"
+        },
+        {
+          "id": "D",
+          "text": "512",
+          "html": "512"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span class=\"math-tex\">\\(\\frac{x}{8} + \\frac{8}{x} = 1\\)</span></p>\n\n<p><span style=\"\">⇒ <span class=\"math-tex\">\\(\\frac {x^2 + 64}{8x} = 1\\)</span> ⇒ (x<sup>2</sup> - 8x + 64) = 0 </span></p>\n\n<p><span style=\"\">⇒ (x + 8)(x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\"> - 8x + 64) = 0 × (x + 8) </span></p>\n\n<p><span style=\"\">⇒ (x<sup>3</sup> + 8<sup>3</sup>) = 0 ⇒ x<sup>3</sup> = -512</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0e1ff847ec10-q9",
+      "number": 9,
+      "question": "If &alpha; and &beta; are the roots of equation x 2 &ndash; 6x + 8 = 0, then what is the value of &alpha; 2 /&beta; + &beta; 2 /&alpha;?",
+      "questionHtml": "If &alpha; and &beta; are the roots of equation x<sup>2</sup>&nbsp;&ndash; 6x + 8 = 0, then what is the value of &alpha;<sup>2</sup>/&beta;&nbsp;+ &beta;<sup>2</sup>/&alpha;?",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "B",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "C",
+          "text": "7",
+          "html": "7"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">x<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> – 6x + 8 = 0 </p>\n\n<p data-darkreader-inline-color=\"\" style=\"color: rgb(97, 106, 124); --darkreader-inline-color: #a29a8e;\">αβ = c/a = 8, and α + β = -b/a = 6</p>\n\n<p data-darkreader-inline-color=\"\" style=\"color: rgb(97, 106, 124); --darkreader-inline-color: #a29a8e;\">α<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>/β + β<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>/α = (α<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">3</span> + β<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">3</span>)/αβ ⇒ [(α + β)<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">3</span> - 3αβ(α + β)]/αβ ⇒ [6<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">3</span> - 3 × 8 × 6]/8 ⇒ ​72/8 = 9 </p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0e1ff847ec10-q10",
+      "number": 10,
+      "question": "If \\(\\mathbf{x}+\\left(\\frac{1}{x}\\right)=\\frac{(\\sqrt{3}+1)}{2}\\) then what is the value of x 4 + \\( \\left(\\frac{1}{x^4}\\right)\\) ?",
+      "questionHtml": "<p><span style=\"\">If&nbsp;<span class=\"math-tex\">\\(\\mathbf{x}+\\left(\\frac{1}{x}\\right)=\\frac{(\\sqrt{3}+1)}{2}\\)</span>&nbsp;then what is the value of x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">4</span><span style=\"\">&nbsp;+&nbsp;<span class=\"math-tex\">\\( \\left(\\frac{1}{x^4}\\right)\\)</span>?</span></p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{(4 \\sqrt{3}-1)}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{(4 \\sqrt{3}-1)}{4}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{(4 \\sqrt{3}+1)}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{(4 \\sqrt{3}+1)}{4}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{(-4 \\sqrt{3}-1)}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{(-4 \\sqrt{3}-1)}{4}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{(-4 \\sqrt{3}+1)}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{(-4 \\sqrt{3}+1)}{4}\\)</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span class=\"math-tex\">\\(\\mathbf{x}+\\frac{1}{x}=\\frac{\\sqrt{3}+1}{2}\\)</span></p>\n\n<p><span style=\"\">on squaring&nbsp;<span class=\"math-tex\">\\(\\qquad\\left(x+\\frac{1}{x}\\right)^2=\\left(\\frac{\\sqrt{3}+1}{2}\\right)^2\\)</span></span></p>\n\n<p><span class=\"math-tex\">\\(\\mathbf{x}^2+\\frac{1}{x^2}+2=\\frac{3+1+2 \\sqrt{3}}{4} \\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\mathbf{x}^2+\\frac{1}{x^2}=\\frac{4+2 \\sqrt{3}}{4}-2\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\mathbf{x}^2+\\frac{1}{x^2}=\\frac{\\sqrt{3}-2}{2}\\)</span></p>\n\n<p>on squaring again</p>\n\n<p><span class=\"math-tex\">\\(\\mathbf{x}^4+\\frac{1}{x^4}+2=\\frac{3+4-4 \\sqrt{3}}{4} \\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\mathbf{x}^4+\\frac{1}{x^4}=\\frac{7-4 \\sqrt{3}}{4}-2\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\mathbf{x}^4+\\frac{1}{x^4}=\\frac{-4 \\sqrt{3-1}}{4}\\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

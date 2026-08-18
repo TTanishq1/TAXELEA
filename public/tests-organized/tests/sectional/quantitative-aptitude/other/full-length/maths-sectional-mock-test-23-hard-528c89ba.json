@@ -1,0 +1,865 @@
+{
+  "id": "528c89ba497b",
+  "provider": "RBE_Mocks",
+  "sourceFile": "Maths_Sectional_Mock_Test-23_Hard_.html",
+  "sourcePath": "RBE_MOCKS/Maths_Sectional_Mock_Test-23_Hard_.html",
+  "title": "Maths Sectional Mock Test-23 (Hard)",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 600,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "528c89ba497b-q1",
+      "number": 1,
+      "question": "In a company, a certain number of employees have an average monthly salary. If one new employee with a salary of ₹40,000 joins, the average monthly salary of the company increases by ₹2,000. If another employee with the same salary of ₹40,000 joins, the average monthly salary increases by ₹3,000 compared to the original average. What was the original average monthly salary (in ₹) of the company?",
+      "questionHtml": "<p>In a company, a certain number of employees have an average monthly salary. If one new employee with a salary of ₹40,000 joins, the average monthly salary of the company increases by ₹2,000. If another employee with the same salary of ₹40,000 joins, the average monthly salary increases by ₹3,000 compared to the original average. What was the original average monthly salary (in ₹) of the company?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "36,000",
+          "html": "<p>36,000</p>"
+        },
+        {
+          "id": "B",
+          "text": "28,000",
+          "html": "<p>28,000</p>"
+        },
+        {
+          "id": "C",
+          "text": "34,000",
+          "html": "<p>34,000</p>"
+        },
+        {
+          "id": "D",
+          "text": "39,000",
+          "html": "<p>39,000</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p> Let n = original number of employees</p><p>Let A = original average salary</p><p>After 1st employee (₹40,000) joins:</p><p>(nA + 40,000)/(n + 1) = A + 2,000</p><p>⇒ nA + 40,000 = (A + 2,000)(n + 1) …(1)</p><p>After 2nd employee (₹40,000) joins:</p><p>(nA + 80,000)/(n + 2) = A + 3,000</p><p>⇒ nA + 80,000 = (A + 3,000)(n + 2) …(2)</p><p>Expand (1):</p><p>nA + 40,000 = nA + A + 2,000n + 2,000</p><p>⇒ 40,000 = A + 2,000n + 2,000</p><p>⇒ A = 38,000 − 2,000n …(3)</p><p>Substitute (3) into (2):</p><p>nA + 80,000 = nA + 2A + 3,000n + 6,000</p><p>⇒ 80,000 = 2A + 3,000n + 6,000</p><p>⇒ 2A = 74,000 − 3,000n</p><p>Now plug in A from (3):</p><p>2(38,000 − 2,000n) = 74,000 − 3,000n</p><p>⇒ 76,000 − 4,000n = 74,000 − 3,000n</p><p>⇒ 2,000 = 1,000n ⇒ n = 2</p><p>Then A = 38,000 − 2,000×2 = ₹34,000</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q2",
+      "number": 2,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image001.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image001.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "100",
+          "html": "<p>100</p>"
+        },
+        {
+          "id": "B",
+          "text": "150",
+          "html": "<p>150</p>"
+        },
+        {
+          "id": "C",
+          "text": "200",
+          "html": "<p>200</p>"
+        },
+        {
+          "id": "D",
+          "text": "250",
+          "html": "<p>250</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Investment ratio: A : B : C = 7/8 : 3/2 : 5/6 </p><p>LCM of denominators = 24 </p><p>⇒ A = 21, B = 36, C = 20</p><p>Time:</p><p>A invests ₹21 for 6 months, then increases by p% for 6 months </p><p>B and C invest full amounts for 12 months</p><p>Capital-time:</p><p>A = 21×6 + 21×(1 + p/100)×6 = 252 + (126p/100) </p><p>B = 36×12 = 432 </p><p>C = 20×12 = 240 </p><p>Total = 924 + (126p/100)</p><p>Profit:</p><p>Total = ₹133056, A’s share = ₹57024 </p><p>⇒ 57024 / 133056 = (252 + 126p/100) / (924 + 126p/100) </p><p>⇒ 33/77 = (252 + x) / (924 + x), where x = 126p/100</p><p>Solve:</p><p>77(252 + x) = 33(924 + x) </p><p>⇒ 19404 + 77x = 30492 + 33x </p><p>⇒ 44x = 11088 </p><p>⇒ x = 252 </p><p>⇒ 126p/100 = 252 </p><p>⇒ p = 200</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q3",
+      "number": 3,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image002.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image002.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "<p>0</p>"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "<p>2</p>"
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "html": "<p>1</p>"
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "html": "<p>3</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Expression: {76 − (49 ÷ 7) + 3} mod 11 / ((8 × 3) − (9 × 2))</p><p>Simplify inside the braces</p><p>= {76 − 7 + 3} = 72</p><p>Apply mod 11</p><p>72 mod 11 = remainder when 72 ÷ 11 = 6</p><p>Simplify denominator</p><p>(8 × 3) − (9 × 2) = 24 − 18 = 6</p><p>Final division</p><p>= 6 / 6 = 1</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q4",
+      "number": 4,
+      "question": "Find the area of the region bounded by the two lines: 3x + y = 9 and 3x − y = 3 and the x-axis.",
+      "questionHtml": "<p>Find the area of the region bounded by the two lines:</p><p>3x + y = 9 and 3x − y = 3 and the x-axis.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "<p>1</p>"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "<p>3</p>"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "<p>6</p>"
+        },
+        {
+          "id": "D",
+          "text": "8",
+          "html": "<p>8</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Find the area bounded by the lines: 3x + y = 9 &amp; 3x − y = 3 and the x-axis.</p><p>Find point of intersection </p><p>Add the equations: (3x + y) + (3x − y) = 9 + 3 </p><p>6x = 12 ⇒ x = 2 </p><p>Substitute into first equation: 3(2) + y = 9 ⇒ y = 3 </p><p>Intersection point = (2, 3)</p><p>Find x-intercepts </p><p>For 3x + y = 9: Set y = 0 ⇒ 3x = 9 ⇒ x = 3 → (3, 0) </p><p>For 3x − y = 3: Set y = 0 ⇒ 3x = 3 ⇒ x = 1 → (1, 0)</p><p>Triangle vertices (1, 0), (3, 0), (2, 3)</p><p>Area using determinant formula </p><p>Area = (1/2) × |x₁(y₂ − y₃) + x₂(y₃ − y₁) + x₃(y₁ − y₂)| </p><p>Let: x₁ = 1, y₁ = 0 x₂ = 3, y₂ = 0 x₃ = 2, y₃ = 3 </p><p>Then: Area = (1/2) × |1(0 − 3) + 3(3 − 0) + 2(0 − 0)| </p><p>= (1/2) × |-3 + 9 + 0| = (1/2) × 6 = 3 square units</p><p>Final Answer: Area = 3 square units</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q5",
+      "number": 5,
+      "question": "A certain sum of money amounts to 5/4 of itself in 8 years on simple interest. What is the rate of interest per annum?",
+      "questionHtml": "<p>A certain sum of money amounts to 5/4 of itself in 8 years on simple interest. What is the rate of interest per annum?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4.375%",
+          "html": "<p>4.375%</p>"
+        },
+        {
+          "id": "B",
+          "text": "3.125%",
+          "html": "<p>3.125%</p>"
+        },
+        {
+          "id": "C",
+          "text": "2.875%",
+          "html": "<p>2.875%</p>"
+        },
+        {
+          "id": "D",
+          "text": "6.275%",
+          "html": "<p>6.275%</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Amount = (5/4) × Principal </p><p>Time = 8 years </p><p>Let Principal = ₹100 </p><p>Then Amount = ₹125 ⇒ </p><p>SI = ₹25</p><p>Use formula: SI = (P × R × T) / 100 </p><p>25 = (100 × R × 8) / 100 </p><p>⇒ 25 = 8R </p><p>⇒ R = 25/8 = 3.125%</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q6",
+      "number": 6,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image003.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image003.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "-3/44",
+          "html": "<p>-3/44</p>"
+        },
+        {
+          "id": "B",
+          "text": "-1/11",
+          "html": "<p>-1/11</p>"
+        },
+        {
+          "id": "C",
+          "text": "-2/33",
+          "html": "<p>-2/33</p>"
+        },
+        {
+          "id": "D",
+          "text": "-5/11",
+          "html": "<p>-5/11</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Given: (secθ − tanθ)/(secθ + tanθ) = 1/5</p><p>Let secθ = 1/cosθ, tanθ = sinθ/cosθ </p><p>⇒ (1 − sinθ)/(1 + sinθ) = 1/5 </p><p>⇒ 5(1 − sinθ) = 1 + sinθ </p><p>⇒ 5 − 5sinθ = 1 + sinθ </p><p>⇒ 4 = 6sinθ ⇒ sinθ = 2/3</p><p>cosθ = √(1 − sin²θ) = √(1 − 4/9) = √(5/9) = √5/3 </p><p>tanθ = sinθ/cosθ = (2/3)/(√5/3) = 2/√5 ⇒ tan²θ = 4/5</p><p>Required: (sinθ − tan²θ)/(sinθ + tan²θ) </p><p>= (2/3 − 4/5)/(2/3 + 4/5) </p><p>= (−2/15)/(22/15) = −2/22 = −1/11</p><p>Final Answer: −1/11</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q7",
+      "number": 7,
+      "question": "6 mangoes and 8 bananas weigh 21.6 kg. 10 mangoes and 14 bananas weigh 37.2 kg. What is the total weight of 12 mangoes and 20 bananas?",
+      "questionHtml": "<p>6 mangoes and 8 bananas weigh 21.6 kg. 10 mangoes and 14 bananas weigh 37.2 kg. What is the total weight of 12 mangoes and 20 bananas?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "44.6 kg",
+          "html": "<p>44.6 kg</p>"
+        },
+        {
+          "id": "B",
+          "text": "54.8 kg",
+          "html": "<p>54.8 kg</p>"
+        },
+        {
+          "id": "C",
+          "text": "48.2 kg",
+          "html": "<p>48.2 kg</p>"
+        },
+        {
+          "id": "D",
+          "text": "50.4 kg",
+          "html": "<p>50.4 kg</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Let mango = x kg, banana = y kg</p><p>Equation 1: 6x + 8y = 21.6 </p><p>Equation 2: 10x + 14y = 37.2</p><p>Multiply Eq1 by 5: 30x + 40y = 108 </p><p>Multiply Eq2 by 3: 30x + 42y = 111.6 </p><p>Subtract: 2y = 3.6 ⇒ y = 1.8</p><p>Substitute y = 1.8 into Eq1: </p><p>6x + 8(1.8) = 21.6 ⇒ 6x + 14.4 = 21.6 </p><p>⇒ 6x = 7.2 ⇒ x = 1.2</p><p>Now compute weight of 12 mangoes and 20 bananas: </p><p>= 12x + 20y = 12(1.2) + 20(1.8) = 14.4 + 36 = 50.4 kg</p><p>Final Answer: 50.4 kg</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q8",
+      "number": 8,
+      "question": "AB is a chord of length 48 cm of a circle of radius 26 cm, the tangents at A and B intersect at a point T. Find length of TA.",
+      "questionHtml": "<p>AB is a chord of length 48 cm of a circle of radius 26 cm, the tangents at A and B intersect at a point T. Find length of TA. </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "75.8 cm",
+          "html": "<p>75.8 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "62.4 cm",
+          "html": "<p>62.4 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "56.2 cm",
+          "html": "<p>56.2 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "68.2 cm",
+          "html": "<p>68.2 cm</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image005.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q9",
+      "number": 9,
+      "question": "A thief is noticed by a policeman from a distance of 600 m. The thief starts running and the policeman chases him. The thief and the policeman run at the rate of 10 km/h and 12 km/h, respectively. What is the distance (in metres) between them after 12 minutes?",
+      "questionHtml": "<p>A thief is noticed by a policeman from a distance of 600 m. The thief starts running and the policeman chases him. The thief and the policeman run at the rate of 10 km/h and 12 km/h, respectively. What is the distance (in metres) between them after 12 minutes?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "250 m",
+          "html": "<p>250 m</p>"
+        },
+        {
+          "id": "B",
+          "text": "100 m",
+          "html": "<p>100 m</p>"
+        },
+        {
+          "id": "C",
+          "text": "50 m",
+          "html": "<p>50 m</p>"
+        },
+        {
+          "id": "D",
+          "text": "200 m",
+          "html": "<p>200 m</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Distance between them now = 600 m<br/> Relative speed = (12 -10) = 2 km/h<br/> It means in 12 min the distance reduced =<br/> 2×518×60×12=400</p><p>Note: (convert 12 min into seconds) and (2 km/h into m/s)<br/> <strong>Remaining distance</strong> = 600 – 400 = 200 m</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q10",
+      "number": 10,
+      "question": "When 754, 1003 and 2414 are divided by a two-digit number x, then the remainder in each case is y. If (3x + y) is written as 2^k, what is the value of k?",
+      "questionHtml": "<p>When 754, 1003 and 2414 are divided by a two-digit number x, then the remainder in each case is y. If (3x + y) is written as 2^k, what is the value of k?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "<p>9</p>"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "<p>6</p>"
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "html": "<p>8</p>"
+        },
+        {
+          "id": "D",
+          "text": "7",
+          "html": "<p>7</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>If all three numbers leave the same remainder y when divided by x, then their pairwise differences must be divisible by x:</p><p>1003 − 754 = 249 </p><p>2414 − 1003 = 1411 </p><p>2414 − 754 = 1660</p><p>So, x must divide 249, 1411, and 1660.</p><p>Step 2: Find the Common Divisor</p><p>The HCF of 249, 1411, and 1660 is 83. </p><p>So, x = 83</p><p>Step 3: Find the Common Remainder y</p><p>Divide 754 by 83: </p><p>754 = 83 × 9 + 7 </p><p>So, y = 7</p><p>Step 4: Use the Given Condition</p><p>We are told: 3x + y = 2^k</p><p>Substitute x = 83, y = 7: </p><p>3(83) + 7 = 249 + 7 = 256</p><p>Step 5: Recognize the Power of 2</p><p>256 = 2^8</p><p>So, 2^k = 256 ⇒ k = 8</p><p>Final Answer:</p><p>k = 8</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q11",
+      "number": 11,
+      "question": "A and B can complete a piece of work in 12 days and 16 days, respectively. They start working together, but after 3 days, A leaves the work. How many more days will B take to complete the remaining work?",
+      "questionHtml": "<p>A and B can complete a piece of work in 12 days and 16 days, respectively. They start working together, but after 3 days, A leaves the work. How many more days will B take to complete the remaining work?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 days",
+          "html": "<p>12 days</p>"
+        },
+        {
+          "id": "B",
+          "text": "8 days",
+          "html": "<p>8 days</p>"
+        },
+        {
+          "id": "C",
+          "text": "9 days",
+          "html": "<p>9 days</p>"
+        },
+        {
+          "id": "D",
+          "text": "6 days",
+          "html": "<p>6 days</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Assume total work = LCM of 12 and 16 = 48 units</p><p>A's efficiency = 48 ÷ 12 = 4 units/day </p><p>B's efficiency = 48 ÷ 16 = 3 units/day</p><p>Combined efficiency = 4 + 3 = 7 units/day</p><p>Work done in first 3 days (both working)</p><p>Work = 3 × 7 = 21 units</p><p>Remaining work</p><p>Total work = 48 units </p><p>Remaining = 48 − 21 = 27 units</p><p>Time taken by B alone to finish remaining work</p><p>B's efficiency = 3 units/day </p><p>Time = 27 ÷ 3 = 9 days</p><p>Final Answer: 9 days</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q12",
+      "number": 12,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image010.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image010.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image011.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image011.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image012.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image012.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image013.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image013.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image014.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image014.png"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image015.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q13",
+      "number": 13,
+      "question": "A shopkeeper mixes two types of rice, one costing ₹30 per kg and the other costing ₹50 per kg, in the ratio 3:2. He sells the mixture at ₹45 per kg. What is his profit percentage?",
+      "questionHtml": "<p>A shopkeeper mixes two types of rice, one costing ₹30 per kg and the other costing ₹50 per kg, in the ratio 3:2. He sells the mixture at ₹45 per kg. What is his profit percentage?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "18.42%",
+          "html": "<p>18.42%</p>"
+        },
+        {
+          "id": "B",
+          "text": "20.26%",
+          "html": "<p>20.26%</p>"
+        },
+        {
+          "id": "C",
+          "text": "16.64%",
+          "html": "<p>16.64%</p>"
+        },
+        {
+          "id": "D",
+          "text": "12.24%",
+          "html": "<p>12.24%</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Calculate the cost price of the mixture </p><p>Use weighted average based on the ratio 3:2</p><p>Cost Price (CP) = (3 × 30 + 2 × 50) / (3 + 2) </p><p>=&gt; (90 + 100) / 5 </p><p>=&gt; 190 / 5 = ₹38 per kg</p><p>Selling Price (SP) = ₹45 per kg Profit = SP − CP </p><p>=&gt; 45 − 38 = ₹7</p><p>Profit Percentage Profit% = (Profit / CP) × 100 </p><p>=&gt; (7 / 38) × 100 = 18.42%</p><p>Correct Answer: A) 18.42%</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q14",
+      "number": 14,
+      "question": "A solid hexagonal prism has height 15 cm and side of base 10 cm. A cylindrical hole of diameter 10 cm is drilled vertically through the prism. What is the approximate surface area of the remaining solid?",
+      "questionHtml": "<p>A solid hexagonal prism has height 15 cm and side of base 10 cm. A cylindrical hole of diameter 10 cm is drilled vertically through the prism. What is the approximate surface area of the remaining solid?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image016.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image016.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image017.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image017.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image018.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image018.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image019.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image019.png"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Surface area of hexagonal prism (before drilling) </p><p>Side of base = 10 cm </p><p>Height = 15 cm</p><p>Lateral surface area = perimeter × height = </p><p>(6 × 10) × 15 = 60 × 15 = 900 cm²</p><p>Area of one hexagonal base = (3√3 / 2) × a²</p><p>=&gt; (3√3 / 2) × 10² = (3√3 / 2) × 100 </p><p>=&gt; 150√3 ≈ 150 × 1.732 = 259.8 cm²</p><p>Total base area (top + bottom) = 2 × 259.8 = 519.6 cm²</p><p>Total surface area of prism = 900 + 519.6 = 1419.6 cm²</p><p>Subtract top and bottom circular areas removed </p><p>Diameter of hole = 10 cm → radius = 5 cm </p><p>Area of one circle = π × r² = π × 25 = 25π </p><p>Top + bottom = 2 × 25π = 50π ≈ 157.08 cm²</p><p>Add lateral surface area of cylindrical hole </p><p>Lateral surface area = 2πrh = 2π × 5 × 15 = 150π ≈ 471.24 cm²</p><p>Final Surface Area = </p><p>=&gt; Prism surface area − circular ends + cylindrical wall </p><p>=&gt; 1419.6 − 157.08 + 471.24 = 1733.76 cm² (Ans)</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q15",
+      "number": 15,
+      "question": "A data set contains 5 numbers: the mean is 20 and the range is 8. If all numbers are increased by 3, which of the following is true?",
+      "questionHtml": "<p>A data set contains 5 numbers: the mean is 20 and the range is 8. If all numbers are increased by 3, which of the following is true?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The mean increases by 3, the range stays the same",
+          "html": "<p>The mean increases by 3, the range stays the same</p>"
+        },
+        {
+          "id": "B",
+          "text": "Both the mean and range increase by 3",
+          "html": "<p>Both the mean and range increase by 3</p>"
+        },
+        {
+          "id": "C",
+          "text": "The mean stays the same, the range increases by 3",
+          "html": "<p>The mean stays the same, the range increases by 3</p>"
+        },
+        {
+          "id": "D",
+          "text": "Both the mean and range stay the same",
+          "html": "<p>Both the mean and range stay the same</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let the original numbers be: x₁, x₂, x₃, x₄, x₅ </p><p>Mean = (x₁ + x₂ + x₃ + x₄ + x₅) / 5 = 20 </p><p>→ Sum = 20 × 5 = 100</p><p>Range = maximum − minimum = 8</p><p>Now, increase each number by 3: </p><p>New numbers = x₁ + 3, x₂ + 3, ..., x₅ + 3 </p><p>New mean = (100 + 5×3) / 5 = (100 + 15) / 5 = 115 / 5 = 23</p><p> New range = (max + 3) − (min + 3) = max − min = 8</p><p>Conclusion: Mean increases by 3, range stays the same.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q16",
+      "number": 16,
+      "question": "A right circular cone has a height of 24 cm and the diameter of its base is 10 cm. It is cut by a plane parallel to the base at a height of 16 cm from the vertex. What is the approximate volume of the smaller cone formed on the top?",
+      "questionHtml": "<p>A right circular cone has a height of 24 cm and the diameter of its base is 10 cm. It is cut by a plane parallel to the base at a height of 16 cm from the vertex. What is the approximate volume of the smaller cone formed on the top?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image020.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image020.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image021.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image021.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image022.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image022.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image023.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image023.png"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Original cone </p><p>Height = 24 cm </p><p>Diameter = 10 cm → Radius = 5 cm</p><p>Smaller cone formed on top </p><p>Height from vertex = 16 cm </p><p>Since the cutting plane is parallel to the base, the smaller cone is similar to the original cone.</p><p>Ratio of heights = smaller cone height / original cone height </p><p>= 16 / 24 = 2 / 3</p><p>So, ratio of linear dimensions = 2 / 3 → Ratio of volumes = (2 / 3)³ = 8 / 27</p><p>Volume of original cone </p><p>Volume = (1/3) × π × r² × h </p><p>= (1/3) × π × 5² × 24 </p><p>= (1/3) × π × 25 × 24 </p><p>= (1/3) × π × 600 = 200π cm³</p><p>Volume of smaller cone = (8 / 27) × 200π </p><p>= (1600 / 27)π cm³ ≈ 59.26π cm³ ≈ 186.1 cm³ (using π ≈ 3.1416)</p><p>Final Answer: Volume of smaller cone ≈ 186.1 cm³</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q17",
+      "number": 17,
+      "question": "In triangle ABC, angle C = 60°, side a = 10 cm, and side b = 14 cm. Find the length of side c (opposite to angle C).",
+      "questionHtml": "<p>In triangle ABC, angle C = 60°, side a = 10 cm, and side b = 14 cm. Find the length of side c (opposite to angle C).</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image024.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image024.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image025.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image025.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image026.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image026.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image027.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image027.png"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image028.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q18",
+      "number": 18,
+      "question": "A bag contains 7 red balls, 8 blue balls, and 5 green balls. Two balls are drawn one after another without replacement. What is the probability that both are of different colors?",
+      "questionHtml": "<p>A bag contains 7 red balls, 8 blue balls, and 5 green balls. Two balls are drawn one after another without replacement. What is the probability that both are of different colors?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "143/190",
+          "html": "<p>143/190</p>"
+        },
+        {
+          "id": "B",
+          "text": "167/19",
+          "html": "<p>167/19</p>"
+        },
+        {
+          "id": "C",
+          "text": "131/190",
+          "html": "<p>131/190</p>"
+        },
+        {
+          "id": "D",
+          "text": "2/19",
+          "html": "<p>2/19</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Red balls = 7 </p><p>Blue balls = 8 </p><p>Green balls = 5</p><p>Total balls = 7 + 8 + 5 = 20 </p><p>Total ways to choose 2 balls = 20C2 = (20 × 19) / 2 = 190</p><p>Ways where both balls are the same colour: </p><p>Red–Red = 7C2 = (7 × 6) / 2 = 21 </p><p>Blue–Blue = 8C2 = (8 × 7) / 2 = 28 </p><p>Green–Green = 5C2 = (5 × 4) / 2 = 10</p><p>Total same-colour ways = 21 + 28 + 10 = 59</p><p>Ways where balls are of different colours = 190 – 59 = 131</p><p>Probability that both balls are of different colours = 131 / 190</p><p>Final Answer: 131 / 190</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q19",
+      "number": 19,
+      "question": "A shopkeeper sells an article at a profit of 20%. If he had bought it at 10% less and sold it for ₹30 less, his profit would have been 25%. What is the cost price of the article?",
+      "questionHtml": "<p>A shopkeeper sells an article at a profit of 20%. If he had bought it at 10% less and sold it for ₹30 less, his profit would have been 25%. What is the cost price of the article?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹600",
+          "html": "<p>₹600</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹500",
+          "html": "<p>₹500</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹450",
+          "html": "<p>₹450</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹400",
+          "html": "<p>₹400</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Let the original cost price be ₹x.</p><p>Then, Selling price at 20% profit = x + 20% of x = x + 0.20x = 1.20x</p><p>New cost price = x − 10% of x = x − 0.10x = 0.90x </p><p>New selling price = 1.20x − 30</p><p>Now, profit on new cost price = 25% </p><p>So, </p><p>New selling price = 0.90x + 25% of 0.90x = 0.90x + 0.225x = 1.125x</p><p>Equating both expressions for new selling price: 1.20x − 30 = 1.125x</p><p>Now solve: 1.20x − 1.125x = 30 0.075x = 30 x = 30 / 0.075 x = 400</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q20",
+      "number": 20,
+      "question": "Find value(s) of k for which the points (k, 2), (–3, 6), (2, 8) are collinear.",
+      "questionHtml": "<p>Find value(s) of k for which the points (k, 2), (–3, 6), (2, 8) are collinear.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "-26",
+          "html": "<p>-26</p>"
+        },
+        {
+          "id": "B",
+          "text": "0",
+          "html": "<p>0</p>"
+        },
+        {
+          "id": "C",
+          "text": "13",
+          "html": "<p>13</p>"
+        },
+        {
+          "id": "D",
+          "text": "-13",
+          "html": "<p>-13</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Use the area of triangle formula:</p><p>Area = 0.5 [k(6 – 8) + (–3)(8 – 2) + 2(2 – 6)] = 0<br/>Area = 0.5 [k(–2) + (–3)(6) + 2(–4)]<br/>= 0.5 [–2k – 18 –8]<br/>= 0.5 [–2k – 26]<br/>Set equal to 0:<br/>–2k – 26 = 0 ⇒ 2k = –26 ⇒ k = –13</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q21",
+      "number": 21,
+      "question": "For the data below, find the quartile range: Data (in cm): 9, 12, 14, 15, 17, 18, 21, 23, 25, 27, 29, 31, 33, 35, 37",
+      "questionHtml": "<p>For the data below, find the quartile range:</p><p>Data (in cm):<br/>9, 12, 14, 15, 17, 18, 21, 23, 25, 27, 29, 31, 33, 35, 37</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "html": "<p>12</p>"
+        },
+        {
+          "id": "B",
+          "text": "16",
+          "html": "<p>16</p>"
+        },
+        {
+          "id": "C",
+          "text": "18",
+          "html": "<p>18</p>"
+        },
+        {
+          "id": "D",
+          "text": "20",
+          "html": "<p>20</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image029.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q22",
+      "number": 22,
+      "question": "A vessel contains a mixture of milk and water in the ratio 5:2. If 14 liters of mixture is taken out and replaced with water, then the ratio of milk and water becomes 5:4. What is the total quantity of the mixture?",
+      "questionHtml": "<p>A vessel contains a mixture of milk and water in the ratio 5:2. If 14 liters of mixture is taken out and replaced with water, then the ratio of milk and water becomes 5:4. What is the total quantity of the mixture?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "70 liters",
+          "html": "<p>70 liters</p>"
+        },
+        {
+          "id": "B",
+          "text": "42 liters",
+          "html": "<p>42 liters</p>"
+        },
+        {
+          "id": "C",
+          "text": "63 liters",
+          "html": "<p>63 liters</p>"
+        },
+        {
+          "id": "D",
+          "text": "56 litres",
+          "html": "<p>56 litres</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let total quantity of mixture = x liters</p><p>Initial milk = (5/7) × x </p><p>Initial water = (2/7) × x</p><p>From the 14 liters removed:</p><p>Milk removed = (5/7) × 14 = 10 liters </p><p>Water removed = (2/7) × 14 = 4 liters</p><p>Remaining milk = (5/7)x − 10 </p><p>Remaining water = (2/7)x − 4</p><p>After adding 14 liters of water:</p><p>New water = (2/7)x − 4 + 14 = (2/7)x + 10</p><p>New ratio of milk : water = 5 : 4</p><p>⇒ ((5/7)x − 10) / ((2/7)x + 10) = 5 / 4</p><p>Cross-multiplying:</p><p>4[(5/7)x − 10] = 5[(2/7)x + 10]</p><p>⇒ (20/7)x − 40 = (10/7)x + 50</p><p>⇒ (10/7)x = 90 </p><p>⇒ x = (90 × 7) / 10 = 63 liters</p><p>Final Answer: Total quantity of mixture = 63 liters</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q23",
+      "number": 23,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image030.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image030.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "225",
+          "html": "<p>225</p>"
+        },
+        {
+          "id": "B",
+          "text": "275",
+          "html": "<p>275</p>"
+        },
+        {
+          "id": "C",
+          "text": "200",
+          "html": "<p>200</p>"
+        },
+        {
+          "id": "D",
+          "text": "250",
+          "html": "<p>250</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755337107528_image031.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q24",
+      "number": 24,
+      "question": "The HCF of two numbers is 18 and their LCM is 1080. If one number is 90, what is the other number?",
+      "questionHtml": "<p>The HCF of two numbers is 18 and their LCM is 1080. If one number is 90, what is the other number?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "216",
+          "html": "<p>216</p>"
+        },
+        {
+          "id": "B",
+          "text": "200",
+          "html": "<p>200</p>"
+        },
+        {
+          "id": "C",
+          "text": "250",
+          "html": "<p>250</p>"
+        },
+        {
+          "id": "D",
+          "text": "180",
+          "html": "<p>180</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>We use the identity:</p><p>HCF × LCM = Product of the two numbers</p><p>⇒ 18 × 1080 = 90 × x </p><p>⇒ 19440 = 90x </p><p>⇒ x = 19440 / 90 = 216</p><p>Final Answer: The other number is 216</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "528c89ba497b-q25",
+      "number": 25,
+      "question": "From an external point P, tangents PA and PB are drawn to a circle of radius 5 cm such that the angle between the tangents is 60°. What is the length of PA?",
+      "questionHtml": "<p>From an external point P, tangents PA and PB are drawn to a circle of radius 5 cm such that the angle between the tangents is 60°. What is the length of PA?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "6√3 cm",
+          "html": "<p>6√3 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "5√3 cm",
+          "html": "<p>5√3 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "3√3 cm",
+          "html": "<p>3√3 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "7√3 cm",
+          "html": "<p>7√3 cm</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let O be the centre.<br/>Let the distance from P to O be ‘d’ and OP bisects angle APB. </p><p>For tangents from P:<br/>Length of tangent = √(d² - r²)</p><p>Angle between tangents = θ<br/>Distance OP = r / sin(θ/2)<br/>Given θ = 60° ⇒ θ/2 = 30°</p><p>OP = 5 / sin(30°) = 5 / 0.5 = 10 cm</p><p>Length of tangent PA = √(OP² – r²) = √(100 – 25) = √75 = 5√3 cm</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

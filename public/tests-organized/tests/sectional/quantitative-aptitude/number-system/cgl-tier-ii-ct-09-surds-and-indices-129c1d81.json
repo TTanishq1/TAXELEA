@@ -1,0 +1,355 @@
+{
+  "id": "129c1d816679",
+  "provider": "Testbook",
+  "sourceFile": "CGL Tier II CT 09_ Surds and Indices.html",
+  "sourcePath": "Testbook/files/CGL Tier II CT 09_ Surds and Indices.html",
+  "title": "CGL Tier II CT 09: Surds and Indices",
+  "exam": null,
+  "year": null,
+  "tier": "Tier I",
+  "shift": null,
+  "duration": null,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "129c1d816679-q1",
+      "number": 1,
+      "question": "The value of \\(\\frac{2^{2 k+1}-2^k \\times 2^{k+2}}{2^k \\times 2^{k+3}-2^2 \\times 2^{2 k}}\\) is:",
+      "questionHtml": "The value of&nbsp;<span class=\"math-tex\">\\(\\frac{2^{2 k+1}-2^k \\times 2^{k+2}}{2^k \\times 2^{k+3}-2^2 \\times 2^{2 k}}\\)</span> is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{1}{2^k}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{2^k}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "2 k",
+          "html": "2<sup>k</sup>"
+        },
+        {
+          "id": "C",
+          "text": "\\(-\\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(-\\frac{1}{2}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Using a<sup>m</sup> × a<sup>n</sup> = a<sup>m+n</sup>:</p>\n2<sup>2k+1</sup> - 2<sup>k</sup> × 2<sup>k+2</sup> = 2<sup>2k+1</sup> - 2<sup>2k+1+1</sup>, 2<sup>k</sup> × 2<sup>k+3</sup> - 2<sup>2</sup> × 2<sup>2k</sup> = 2<sup>2k+1+2</sup> - 2<sup>2k+1+1</sup>.\n\n<p>Simplify common terms:</p>\nNumerator: 2<sup>2k+1</sup>(1 - 2), Denominator: 2<sup>2k+1</sup>(4 - 2), Result: (-1)/(2) = -1/2.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "129c1d816679-q2",
+      "number": 2,
+      "question": "Simplify: \\(\\sqrt[6]{4096} +\\sqrt[4]{4096}+\\sqrt[3]{4096}+ \\sqrt{4096}\\)",
+      "questionHtml": "<p>Simplify:</p>\n\n<p><span class=\"math-tex\">\\(\\sqrt[6]{4096} +\\sqrt[4]{4096}+\\sqrt[3]{4096}+ \\sqrt{4096}\\)</span></p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "90",
+          "html": "90"
+        },
+        {
+          "id": "B",
+          "text": "92",
+          "html": "92"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{\\sqrt{2}}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{\\sqrt{2}}{2}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\sqrt{2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\sqrt{2}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"font-weight: 700;\">Given:</span></p>\n\n<p><span style=\"font-weight: 700;\"><span class=\"math-tex\">\\(\\sqrt[6]{4096} +\\sqrt[4]{4096}+\\sqrt[3]{4096}+ \\sqrt{4096}\\)</span></span></p>\n\n<p><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p><span class=\"math-tex\">\\(\\sqrt[6]{4096} +\\sqrt[4]{4096}+\\sqrt[3]{4096}+ \\sqrt{4096}\\)</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;<span class=\"math-tex\">\\(\\sqrt[6]{2^{12}} + \\sqrt[4]{2^{12}} + \\sqrt[3]{2^{12}} + \\sqrt{2^{12}} \\)</span></span></p>\n\n<p><span style=\"\">&rArr;&nbsp;<span class=\"math-tex\">\\(2^{12 \\over 6} + 2^{12 \\over 4} + 2^{12 \\over 3} + 2^{12 \\over 2} \\)</span></span></p>\n\n<p><span style=\"\">&rArr;&nbsp;<span class=\"math-tex\">\\(2^2 + 2^3 + 2^4 + 2^6\\)</span></span></p>\n\n<p><span style=\"\">&rArr; 4 + 8 + 16 + 64</span></p>\n\n<p><span style=\"\">&rArr; 92</span></p>\n\n<p><span style=\"font-weight: 700; \">&there4; The simplified value of&nbsp;<span class=\"math-tex\">\\(\\sqrt[6]{4096} +\\sqrt[4]{4096}+\\sqrt[3]{4096}+ \\sqrt{4096}\\)</span> is 92.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "129c1d816679-q3",
+      "number": 3,
+      "question": "Give simplified form of \\(\\rm \\frac{a^{10}\\times b^{-7} \\times c^{-4}}{a^{-5}\\times b^2\\times c^5}\\) .",
+      "questionHtml": "<span style=\"\">Give simplified form of</span>&nbsp;<span class=\"math-tex\">\\(\\rm \\frac{a^{10}\\times b^{-7} \\times c^{-4}}{a^{-5}\\times b^2\\times c^5}\\)</span>.",
+      "options": [
+        {
+          "id": "A",
+          "text": "a 15 &times; b -9 &times; c -9",
+          "html": "<span style=\"\">a</span><sup><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">15</span></sup><span style=\"\"><sup>&nbsp;</sup>&times; b</span><sup><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">-9</span></sup><span style=\"\"><sup>&nbsp;</sup>&times; c</span><sup><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">-9</span></sup>"
+        },
+        {
+          "id": "B",
+          "text": "a 15 &times; b 9 &times; c 9",
+          "html": "<span style=\"\">a</span><sup><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">15</span></sup><span style=\"\">&nbsp;&times; b</span><sup><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">9</span></sup><span style=\"\">&nbsp;&times; c</span><sup><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">9</span></sup>"
+        },
+        {
+          "id": "C",
+          "text": "a 5 &times; b 9 &times; c -9",
+          "html": "<span style=\"\">a</span><sup><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">5</span></sup><span style=\"\">&nbsp;&times; b</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\"><span style=\"font-size:14px;\"><sup>9</sup></span>&nbsp;</span><span style=\"\">&times; c</span><sup>-9</sup>"
+        },
+        {
+          "id": "D",
+          "text": "a 5 &times; b -9 &times; c -9",
+          "html": "<span style=\"\">a</span><sup><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">5</span></sup><span style=\"\"><sup>&nbsp;</sup>&times; b</span><sup><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">-9</span></sup><span style=\"\">&nbsp;&times; c</span><sup><span style=\"color: rgb(33, 37, 41); \">-9</span></sup>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Here, we have <span class=\"math-tex\">\\(a^{10} \\times b^{-7} \\times c^{-4}\\over a^{-5} \\times b^2 \\times c^5 \\)</span> </p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ a<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">10 -(-5)</span> × b<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">-7-2</span> × c<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">-4-5</span>  [ As t<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">n</span>/t<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">1</span> = t<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">n-1</span>]  ⇒ a<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">15</span> × b<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">-9</span> × c<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">-9 </span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "129c1d816679-q4",
+      "number": 4,
+      "question": "If \\(\\sqrt{5^x}\\) = 15625, find the value of x.",
+      "questionHtml": "If <span class=\"math-tex\">\\(\\sqrt{5^x}\\)</span> = 15625, find the value of x.&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "11",
+          "html": "11"
+        },
+        {
+          "id": "B",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "C",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "html": "15"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>&nbsp;<span class=\"math-tex\">\\(\\sqrt{5^x}\\)</span>&nbsp;= 15625</p>\n\n<p><strong>Concept Used:</strong></p>\n\n<p>a<sup>m</sup>&nbsp;= a<sup>n</sup>, Then m = n</p>\n\n<p>25<sup>3</sup>&nbsp;= 15625</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>&nbsp;<span class=\"math-tex\">\\(\\sqrt{5^x}\\)</span>&nbsp;= 15625</p>\n\n<p>&rArr; (5<sup>x</sup>)<sup>1/2</sup>&nbsp;= 25<sup>3</sup></p>\n\n<p>&rArr; 5<sup>x/2</sup>&nbsp;= (5<sup>2</sup>)<sup>3</sup></p>\n\n<p>&rArr; 5<sup>x/2&nbsp;</sup>= 5<sup>6</sup></p>\n\n<p>According to the concept,</p>\n\n<p>&rArr; x/2 = 6</p>\n\n<p>&rArr; x = 12</p>\n\n<p><strong>&there4; The value of x is 12.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "129c1d816679-q5",
+      "number": 5,
+      "question": "If \\(\\left( {\\frac{{32}}{{243}}} \\right)^k = \\frac{8}{{27}}\\) , then k =________ .",
+      "questionHtml": "If&nbsp;<span class=\"math-tex\">\\(\\left( {\\frac{{32}}{{243}}} \\right)^k = \\frac{8}{{27}}\\)</span>, then k =________ .",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{3}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{3}{5}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{5}{3}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{5}{3}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{3}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{3}{2}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{2}{3}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{2}{3}\\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">(32/243)</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">k</span><span style=\"color: rgb(33, 37, 41);\"> = 8/27 </span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ (2/3)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">5k</span> = (2/3)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span> </p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ 5k = 3 ⇒ k = 3/5 </p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "129c1d816679-q6",
+      "number": 6,
+      "question": "(2 8 &divide; 2 5 ) 2 is equal to:",
+      "questionHtml": "(2<sup>8</sup>&nbsp;&divide; 2<sup>5</sup>)<sup>2</sup> is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "64",
+          "html": "64"
+        },
+        {
+          "id": "B",
+          "text": "8/5",
+          "html": "8/5"
+        },
+        {
+          "id": "C",
+          "text": "32",
+          "html": "32"
+        },
+        {
+          "id": "D",
+          "text": "128",
+          "html": "128"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"\"><span style=\"font-weight: 700;\">Concept:</span></p>\n\n<p style=\"\">According to the surds and indices rule-</p>\n\n<p style=\"\">&rArr;&nbsp;(a<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">m</span>)<sup>n</sup> =&nbsp;a<sup>m &times; n</sup></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\">Using the theorem stated above, we get-</p>\n\n<p style=\"\">&rArr;&nbsp;<span style=\"\">(2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">8</span><span style=\"\">&nbsp;&divide;&nbsp;2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">5</span><span style=\"\">)</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span>=&nbsp;<span style=\"\">(2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">8</span><span style=\"\">)</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2&nbsp;</span><span style=\"\">&divide;</span>&nbsp;<span style=\"\">(2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">5</span><span style=\"\">)</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></p>\n\n<p style=\"\">&rArr; <span style=\"\">2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">16&nbsp;</span><span style=\"\">&divide;</span><span style=\"\">&nbsp;</span><span style=\"\">2</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">10</span>&nbsp;= 2<sup>6</sup></p>\n\n<p style=\"\">&rArr; 64</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">The value of the expression is 64.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "129c1d816679-q7",
+      "number": 7,
+      "question": "\\(\\frac{(27)^4}{(125)^2}\\) &divide; \\(\\left\\{\\left(\\frac{5}{9}\\right)^{-2}\\left(\\frac{3}{5}\\right)^6\\right\\} \\) is equal to :",
+      "questionHtml": "<span class=\"math-tex\">\\(\\frac{(27)^4}{(125)^2}\\)</span>&nbsp;&divide;&nbsp;<span class=\"math-tex\">\\(\\left\\{\\left(\\frac{5}{9}\\right)^{-2}\\left(\\frac{3}{5}\\right)^6\\right\\} \\)</span>&nbsp;is equal to :",
+      "options": [
+        {
+          "id": "A",
+          "text": "125",
+          "html": "125"
+        },
+        {
+          "id": "B",
+          "text": "225",
+          "html": "225"
+        },
+        {
+          "id": "C",
+          "text": "289",
+          "html": "289"
+        },
+        {
+          "id": "D",
+          "text": "300",
+          "html": "300"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Calculations:</strong></p>\n\n<p>(27)<sup>4</sup>/ (125)<sup>2</sup>&nbsp;= 3<sup>12</sup>/5<sup>6</sup></p>\n\n<p>(5/9)<sup>-2</sup>&nbsp;= (9/5)<sup>2</sup></p>\n\n<p><span class=\"math-tex\">\\(\\frac{(27)^4}{(125)^2}\\)</span>&nbsp; &nbsp;/&nbsp;<span class=\"math-tex\">\\(\\left\\{\\left(\\frac{5}{9}\\right)^{-2}\\left(\\frac{3}{5}\\right)^6\\right\\} \\)</span>&nbsp;= (<span style=\"color: rgb(33, 37, 41);\">3</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">12</span><span style=\"color: rgb(33, 37, 41);\">/5</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">6</span>) /&nbsp;<span style=\"color: rgb(33, 37, 41);\">(9/5)</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;&times; (3/5)<sup>6</sup></p>\n\n<p>= 3<sup>12</sup>&nbsp;&nbsp;&times; 5<sup>2</sup>&nbsp;&times; 5<sup>6</sup>&nbsp;/ 3<sup>4</sup>&nbsp;&times; 3<sup>6</sup>&nbsp;= 3<sup>2</sup>&nbsp;&times; 5<sup>2</sup>&nbsp;= 225</p>\n\n<p><strong>Hence, The Correct Answer is option 2.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "129c1d816679-q8",
+      "number": 8,
+      "question": "Which of the following given value is greater than \\(\\sqrt[3]{12} \\) ?",
+      "questionHtml": "Which of the following given value is greater than&nbsp;<span class=\"math-tex\">\\(\\sqrt[3]{12} \\)</span> ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\sqrt[6]{121}\\)",
+          "html": "<span class=\"math-tex\">\\(\\sqrt[6]{121}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\sqrt[12]{33214}\\)",
+          "html": "<span class=\"math-tex\">\\(\\sqrt[12]{33214}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\sqrt[5]{60}\\)",
+          "html": "<span class=\"math-tex\">\\(\\sqrt[5]{60}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\sqrt[9]{1500}\\)",
+          "html": "<span class=\"math-tex\">\\(\\sqrt[9]{1500}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Option(2): <span class=\"math-tex\">\\(\\sqrt[12]{33214}\\)</span> = (33214)<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">1/12</span> ⇒ <span class=\"math-tex\">\\(\\sqrt[3]{12}\\)</span> = (12)<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">1/3</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ LCM(12, 3) = 12 ⇒ (12)<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">[1/3] × 12</span> and (33214)<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">[1/12]× 12</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">I.e., (12)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">4</span> and (33214)<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">1</span>, I.e., (20736)<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">1</span> and (33214)<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">1</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">Since, 33214 > 20736 ⇒ (12)<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">1/3 </span>< (33214)<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">1/12</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "129c1d816679-q9",
+      "number": 9,
+      "question": "Find the value of n if (5 n &times; 5 8 ) &divide; 25 -2 = 5 15",
+      "questionHtml": "Find the value of n if (5<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">n</span>&nbsp;&times; 5<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">8</span>) &divide; 25<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">-2</span>&nbsp;= 5<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">15</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">(5<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">n</span> × 5<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">8</span>) ÷ 25<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">-2</span> = 5<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">15</span> ⇒  (5<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">n</span> × 5<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">8</span>) ÷ 5<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">-4</span> = 5<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">15</span> ⇒  n + 8 + 4 = 15 ⇒  n + 12 = 15 </p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">⇒ n = 3</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "129c1d816679-q10",
+      "number": 10,
+      "question": "What is the square root of 9 + \\(2\\sqrt{14}\\) ?",
+      "questionHtml": "What is<span style=\"\">&nbsp;the square root of 9 +&nbsp;</span><span class=\"math-tex\">\\(2\\sqrt{14}\\)</span>&nbsp;?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 + \\(2\\sqrt 2\\)",
+          "html": "1 +&nbsp;<span class=\"math-tex\">\\(2\\sqrt 2\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\sqrt 3\\) + \\(\\sqrt 6\\)",
+          "html": "<span class=\"math-tex\">\\(\\sqrt 3\\)</span> +&nbsp;<span class=\"math-tex\">\\(\\sqrt 6\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\sqrt 2\\) + \\(\\sqrt 7\\)",
+          "html": "<span class=\"math-tex\">\\(\\sqrt 2\\)</span> +&nbsp;<span class=\"math-tex\">\\(\\sqrt 7\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\sqrt 2\\) + \\(\\sqrt 5\\)",
+          "html": "<span class=\"math-tex\">\\(\\sqrt 2\\)</span> +&nbsp;<span class=\"math-tex\">\\(\\sqrt 5\\)</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>We have,<span style=\"\"> 9 + </span><span class=\"math-tex\">\\(2√{14}\\)</span> </p>\n\n<p>⇒ 2 + 7 + 2√(2 × 7) ⇒ (√2)<sup>2</sup> + (√7)<sup>2</sup> + 2 × √2 × √7 = (√2 + √7)<sup>2</sup></p>\n\n<p>The required square root is <span style=\"\">√2 + √7.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

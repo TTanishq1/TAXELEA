@@ -1,0 +1,363 @@
+{
+  "id": "b288817d682c",
+  "provider": "Testbook",
+  "sourceFile": "CT 21_ Logical Puzzle - Bodmas Rule.html",
+  "sourcePath": "Testbook/files/CT 21_ Logical Puzzle - Bodmas Rule.html",
+  "title": "CT 21: Logical Puzzle - Bodmas Rule",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "b288817d682c-q1",
+      "number": 1,
+      "question": "If &lsquo;&times;&rsquo; denotes &lsquo;+&rsquo;, &lsquo;&divide;&rsquo; denotes &lsquo;&times;&rsquo;, &lsquo;-&rsquo; denotes &lsquo;&divide;&rsquo; and &lsquo;+&rsquo; denotes &lsquo;-&rsquo;, then which of the following is the value of the expression? 66 &times; 9 &ndash; 3 &divide; 13 + 10",
+      "questionHtml": "<p>If &lsquo;&times;&rsquo; denotes &lsquo;+&rsquo;, &lsquo;&divide;&rsquo; denotes &lsquo;&times;&rsquo;, &lsquo;-&rsquo; denotes &lsquo;&divide;&rsquo; and &lsquo;+&rsquo; denotes &lsquo;-&rsquo;, then which of the following is the value of the expression?</p>\n66 &times; 9 &ndash; 3 &divide; 13 + 10",
+      "options": [
+        {
+          "id": "A",
+          "text": "88",
+          "html": "88"
+        },
+        {
+          "id": "B",
+          "text": "101",
+          "html": "101"
+        },
+        {
+          "id": "C",
+          "text": "95",
+          "html": "95"
+        },
+        {
+          "id": "D",
+          "text": "54",
+          "html": "54"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Given: 66 &times; 9 &ndash; 3 &divide; 13 + 10</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:73px;height:25px;\">\n\t\t\t<p align=\"center\"><strong>Symbol</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:105px;height:25px;\">\n\t\t\t<p align=\"center\">&times;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:105px;height:25px;\">\n\t\t\t<p align=\"center\">&divide;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;height:25px;\">\n\t\t\t<p align=\"center\">-</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:65px;height:25px;\">\n\t\t\t<p align=\"center\">+</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:73px;height:26px;\">\n\t\t\t<p align=\"center\"><strong>Meaning</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:105px;height:26px;\">\n\t\t\t<p align=\"center\">+</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:105px;height:26px;\">\n\t\t\t<p align=\"center\">&times;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:89px;height:26px;\">\n\t\t\t<p align=\"center\">&divide;</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:65px;height:26px;\">\n\t\t\t<p align=\"center\">-</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>After changing the expression,</p>\n\n<p>66 + 9 &divide; 3 &times; 13 &ndash; 10</p>\n\n<p>66 + 3 &times; 13 &ndash; 10</p>\n\n<p>66 + 39 &ndash; 10 = 95</p>\n\n<p>Hence, <strong>95</strong> is the correct answer.&nbsp;</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b288817d682c-q2",
+      "number": 2,
+      "question": "Which two numbers should be interchanged to make the given equation correct? 64 + 36 &divide; 3 &times; 9 - 32 = 44",
+      "questionHtml": "<p>Which two numbers should be interchanged to make the given equation correct?</p>\n\n<p>64 + 36 &divide; 3 &times; 9 - 32 = 44</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "64 and 36",
+          "html": "64 and 36"
+        },
+        {
+          "id": "B",
+          "text": "9 and 64",
+          "html": "9 and 64"
+        },
+        {
+          "id": "C",
+          "text": "3 and 9",
+          "html": "3 and 9"
+        },
+        {
+          "id": "D",
+          "text": "32 and 36",
+          "html": "32 and 36"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><u><strong>BODMAS RULE</strong>:</u></p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/03/image.png\" style=\"width: 343px; height: 179px;\" /></p>\n\n<p>Option 1) :&nbsp;<span style=\"\">64 and 36</span></p>\n\n<p><span style=\"\">Given equation:&nbsp;64 + 36 &divide; 3 &times; 9 - 32 = 44</span></p>\n\n<p><span style=\"\">By interchanging 64 and 36 in the given equation.</span></p>\n\n<p><span style=\"\">Interchanged equation is :36 + <strong><u>64&nbsp;&divide; 3</u></strong>&nbsp;&times; 9 - 32 = 44</span></p>\n\n<p><span style=\"\">&rArr; 36 + <u><strong>21.333&nbsp;&times; 9</strong></u> - 32 = 44</span></p>\n\n<p><span style=\"\">&rArr; <u><strong>36 + 191.997</strong></u></span><span style=\"\">&nbsp;- 32 = 44</span></p>\n\n<p><span style=\"\">&rArr; </span><u><strong>227.997</strong></u><span style=\"\"><u><strong>&nbsp;- 32</strong></u> = 44</span></p>\n\n<p>&rArr; 195.997&nbsp;<span style=\"\">&ne; 44</span></p>\n\n<p><span style=\"\">&rArr; LHS&nbsp;&ne; RHS</span></p>\n\n<p><span style=\"\">Option 2) :&nbsp;9 and 64</span></p>\n\n<p style=\"\">Given equation :&nbsp;64 + 36 &divide; 3 &times; 9 - 32 = 44</p>\n\n<p style=\"\">By interchanging 9&nbsp;and 64&nbsp;in given equation.</p>\n\n<p style=\"\">Interchanged equation is:&nbsp;9<span style=\"\">&nbsp;+ <u><strong>36 &divide; 3</strong></u> &times; 64&nbsp;- 32 = 44</span></p>\n\n<p style=\"\"><span style=\"\">&rArr; 9</span><span style=\"\">&nbsp;+ <u><strong>12&nbsp;&times; 64</strong></u>&nbsp;- 32 = 44</span></p>\n\n<p style=\"\"><span style=\"\">&rArr; <u><strong>9</strong></u></span><span style=\"\"><u><strong>&nbsp;+ 768</strong></u>&nbsp;- 32 = 44</span></p>\n\n<p style=\"\"><span style=\"\">&rArr; <u><strong>777</strong></u></span><span style=\"\"><u><strong>&nbsp;- 32</strong></u> = 44</span></p>\n\n<p style=\"\"><span style=\"\">&rArr; 745&nbsp;&ne; 44</span></p>\n\n<p style=\"\"><span style=\"\">&rArr; LHS&nbsp;&ne; RHS</span></p>\n\n<p style=\"\"><span style=\"\">Option 3) :&nbsp;3 and 9</span></p>\n\n<p style=\"\">Given equation :&nbsp;64 + 36 &divide; 3 &times; 9 - 32 = 44</p>\n\n<p style=\"\">By interchanging 3&nbsp;and 9&nbsp;in given equation.</p>\n\n<p style=\"\">Interchanged equation is:&nbsp;<span style=\"\">64 + <u><strong>36 &divide; 9</strong></u>&nbsp;&times; 3&nbsp;- 32 = 44</span></p>\n\n<p style=\"\"><span style=\"\">&rArr;&nbsp;</span><span style=\"\">64 + <u><strong>4&nbsp;&times; 3</strong></u>&nbsp;- 32 = 44</span></p>\n\n<p style=\"\"><span style=\"\">&rArr;&nbsp;</span><span style=\"\"><u><strong>64 + 12</strong></u>&nbsp;- 32 = 44</span></p>\n\n<p style=\"\"><span style=\"\">&rArr; <u><strong>76</strong></u></span><span style=\"\"><u><strong>&nbsp;- 32</strong></u> = 44</span></p>\n\n<p style=\"\"><strong><span style=\"\">&rArr; 44</span><span style=\"\">&nbsp;= 44</span></strong></p>\n\n<p style=\"\"><span style=\"\">&rArr;&nbsp;</span><strong><span style=\"\">LHS = RHS</span></strong></p>\n\n<p style=\"\"><span style=\"\">Option 4) :&nbsp;32 and 36</span></p>\n\n<p style=\"\">Given equation :&nbsp;64 + 36 &divide; 3 &times; 9 - 32 = 44</p>\n\n<p style=\"\">By interchanging 32 and 36&nbsp;in given equation.</p>\n\n<p style=\"\">Interchanged equation is:&nbsp;<span style=\"\">64 + <u><strong>32&nbsp;&divide; 3</strong></u> &times; 9 - 36&nbsp;= 44</span></p>\n\n<p style=\"\"><span style=\"\">&rArr;&nbsp;</span><span style=\"\">64 + <u><strong>10.66&nbsp;&times; 9</strong></u> - 36&nbsp;= 44</span></p>\n\n<p style=\"\"><span style=\"\">&rArr;&nbsp;</span><span style=\"\"><u><strong>64 + 95.94</strong></u> - 36&nbsp;= 44</span></p>\n\n<p style=\"\"><span style=\"\">&rArr; </span><u><strong>159.94</strong></u><span style=\"\"><u><strong>&nbsp;- 36</strong></u>&nbsp;= 44</span></p>\n\n<p style=\"\"><span style=\"\">&rArr; 123.94&nbsp;&ne; 44</span></p>\n\n<p style=\"\"><span style=\"\">&rArr; LHS&nbsp;&ne; RHS</span></p>\n\n<p style=\"\"><span style=\"\">Thus, the correct answer is <strong>&quot;3 and 9&quot;.</strong></span></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/22/03/image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b288817d682c-q3",
+      "number": 3,
+      "question": "If A denotes &lsquo;addition&rsquo;, B denotes &lsquo;multiplication&rsquo;, C denotes &lsquo;subtraction&rsquo;, and D denotes &lsquo;division&rsquo;, then what will be the value of the following expression? (45 D 9) B 5 A 8 B (7 A 3 C 6) C (28 D (4 D 4))",
+      "questionHtml": "<p>If A denotes &lsquo;addition&rsquo;, B denotes &lsquo;multiplication&rsquo;, C denotes &lsquo;subtraction&rsquo;, and D denotes &lsquo;division&rsquo;, then what will be the value of the following expression?</p>\n\n<p>(45 D 9) B 5 A 8 B (7 A 3 C 6) C (28 D (4 D 4))</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "29",
+          "html": "29"
+        },
+        {
+          "id": "B",
+          "text": "38",
+          "html": "38"
+        },
+        {
+          "id": "C",
+          "text": "82",
+          "html": "82"
+        },
+        {
+          "id": "D",
+          "text": "32",
+          "html": "32"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>BODMAS Rule:</strong></p>\n\n<p><span id=\"docs-internal-guid-36bdefaf-7fff-7a49-0b24-14a0688b9b6d\"><span style=\"  background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"border:none;display:inline-block;overflow:hidden;width:351px;height:193px;\"><img height=\"193\" src=\"https://lh3.googleusercontent.com/VRwr3bUSZx2WMmS6VvAtyui22uCql_WSzu83HGb5lvVWkNcSPxINupUELHTuov7hxYbjFK9a3jRebrDrovCor2SEbHj0ckjltwkszQPr7YzXta01HUuI3Lz3t0WcFqtkS7l7RlSvea7lNN3uNZFruA\" style=\"margin-left:0px;margin-top:0px;\" width=\"351\" /></span></span></span></p>\n\n<p>Let us Decode the given sign:</p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:400px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Symbol</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Mathematical Sign</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>A</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>+</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>B</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>&times;&nbsp;</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>C</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>-</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>D</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>&divide;&nbsp;</strong></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Given:&nbsp;<span style=\"\">(45 D 9) B 5 A 8 B (7 A 3 C 6) C (28 D (4 D 4))</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;<u><strong>(45 &divide;&nbsp;9)</strong></u> &times;&nbsp;5 +&nbsp;8 &times;&nbsp;<u><strong>(7 +&nbsp;3 -&nbsp;6)</strong></u> -&nbsp;<u><strong>(28 &divide;&nbsp;(4 &divide;&nbsp;4))</strong></u></span></p>\n\n<p><span style=\"\">&rArr;<u><strong> 5&nbsp;&times;&nbsp;5</strong></u> +&nbsp;<u><strong>8 &times; 4</strong></u> - 28</span></p>\n\n<p><span style=\"\">&rArr; <u><strong>25 + 32</strong></u> - 28</span></p>\n\n<p><span style=\"\">&rArr; <u><strong>57 - 28</strong></u></span></p>\n\n<p><span style=\"\">&rArr; <strong>29</strong></span></p>\n\n<p><span style=\"\">Hence, the correct answer is&nbsp;<strong>&quot;29&quot;.</strong></span></p>\n",
+      "images": [
+        "https://lh3.googleusercontent.com/VRwr3bUSZx2WMmS6VvAtyui22uCql_WSzu83HGb5lvVWkNcSPxINupUELHTuov7hxYbjFK9a3jRebrDrovCor2SEbHj0ckjltwkszQPr7YzXta01HUuI3Lz3t0WcFqtkS7l7RlSvea7lNN3uNZFruA"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b288817d682c-q4",
+      "number": 4,
+      "question": "If A denotes '+', B denotes '&times;', C denotes '&minus;', and D denotes '&divide;', then what will be the value of the following expression? 126 C 6 B 22 A 63 D 9 = ?",
+      "questionHtml": "<p>If A denotes &#39;+&#39;, B denotes &#39;&times;&#39;, C denotes &#39;&minus;&#39;, and D denotes &#39;&divide;&#39;, then what will be the value of the following expression?</p>\n\n<p>126 C 6 B 22 A 63 D 9 = ?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">4</font></font>"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">3</font></font>"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">6</font></font>"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">1</font></font>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style=\"color: rgb(33, 37, 41);\">⇒126 - 6 × 22 + <u><span style=\"font-weight: bolder;\">63 ÷ 9</span></u> = ? ⇒126 - <u><span style=\"font-weight: bolder;\">6 </span></u></span><u style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">×</span></u><span style=\"color: rgb(33, 37, 41);\"><u><span style=\"font-weight: bolder;\"> 22</span></u> + 7 = ? ⇒<u><span style=\"font-weight: bolder;\">126</span></u> - 132<span style=\"font-weight: bolder;\"><span style=\"font-weight: bolder;\"> </span></span><u><span style=\"font-weight: bolder;\">+ 7</span></u> = ? ⇒ <u><span style=\"font-weight: bolder;\">133 - 132</span></u> = ? ⇒ <span style=\"font-weight: bolder;\">1 </span></span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b288817d682c-q5",
+      "number": 5,
+      "question": "What will come in place of the question mark (?) in the following equation if '+' and '&ndash;' are interchanged and '&times;' and '&divide;' are interchanged? 1125 &times; 45 &divide; 39 &ndash; 17 + 19 = ?",
+      "questionHtml": "&nbsp;What will come in place of the question mark (?) in the following equation if &#39;+&#39; and &#39;&ndash;&#39; are interchanged and &#39;&times;&#39; and &#39;&divide;&#39; are interchanged?<br />\n1125 &times; 45 &divide; 39 &ndash; 17 + 19 = ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "379",
+          "html": "379"
+        },
+        {
+          "id": "B",
+          "text": "992",
+          "html": "992"
+        },
+        {
+          "id": "C",
+          "text": "975",
+          "html": "975"
+        },
+        {
+          "id": "D",
+          "text": "973",
+          "html": "973"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">After replacing the symbols with their meanings:</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ <u><span style=\"font-weight: bolder;\">1125 ÷ 45</span></u> × 39 + 17 − 19</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ <u><span style=\"font-weight: bolder;\">25 × 39</span></u> + 17 − 19</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ <u><span style=\"font-weight: bolder;\">975 + 17</span></u> − 19 ⇒ <u><span style=\"font-weight: bolder;\">992 − 19</span></u> ⇒ 973</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b288817d682c-q6",
+      "number": 6,
+      "question": "Which two signs should be interchanged to make the below equation mathematically correct? 56 - 14 + 42 &divide; 5 &times; 10 = 63",
+      "questionHtml": "Which two signs should be interchanged to make the below equation mathematically correct?<br />\n56 - 14 + 42 &divide; 5 &times; 10 = 63",
+      "options": [
+        {
+          "id": "A",
+          "text": "&divide;, +",
+          "html": "&divide;, +"
+        },
+        {
+          "id": "B",
+          "text": "&divide;, -",
+          "html": "&divide;, -"
+        },
+        {
+          "id": "C",
+          "text": "&times;, &divide;",
+          "html": "&times;,&nbsp;&divide;"
+        },
+        {
+          "id": "D",
+          "text": "&times;, +",
+          "html": "&times;, +"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">For </span><strong style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">×, ÷</strong>, After interchanging the signs, we get:</p>\n\n<p>56 - 14 + 42 × 5 ÷ 10 = 56 – 14 + 21 = 77 – 14 = 63.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b288817d682c-q7",
+      "number": 7,
+      "question": "If (division) &divide; is interchanged with (addition) +, and (multiply) &times; is interchange with (substraction) &ndash;, then which of the following equations is correct?",
+      "questionHtml": "If (division) &divide; is interchanged with (addition) +, and (multiply) &times; is interchange with (substraction) &ndash;, then which of the following equations is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "24 + 84 &divide; 12 &ndash; 16 &times; 7 = 129",
+          "html": "24 + 84&nbsp;&divide; 12&nbsp;&ndash; 16&nbsp;&times; 7 = 129"
+        },
+        {
+          "id": "B",
+          "text": "24 &times; 84 + 12 &divide; 16 &ndash; 7 = 129",
+          "html": "24&nbsp;&times; 84 + 12&nbsp;&divide; 16&nbsp;&ndash; 7 = 129"
+        },
+        {
+          "id": "C",
+          "text": "24 &ndash; 84 &divide; 12 + 16 &times; 7 = 129",
+          "html": "24&nbsp;&ndash; 84&nbsp;&divide; 12 + 16&nbsp;&times; 7 = 129"
+        },
+        {
+          "id": "D",
+          "text": "24 &ndash; 84 &divide; 12 &times; 16 + 7 = 129",
+          "html": "<span style=\"\">24&nbsp;&ndash; 84&nbsp;&divide; 12 &times; 16 + 7 = 129</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Given that:</p>\n\n<table style=\"border: none;\">\n\t<colgroup>\n\t\t<col width=\"135\" />\n\t\t<col width=\"48\" />\n\t\t<col width=\"47\" />\n\t</colgroup>\n\t<tbody>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"white-space: pre-wrap;\"><b>Sign</b></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; text-align: center;\">&divide;&nbsp;</td>\n\t\t\t<td style=\"border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word; text-align: center;\">&times;&nbsp;</td>\n\t\t</tr>\n\t\t<tr style=\"height:0pt\">\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"white-space: pre-wrap;\"><b>Interchange Sign</b></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-b00ac829-7fff-1637-edbd-133bcdf2168c\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">+</span></span></p>\n\t\t\t</td>\n\t\t\t<td style=\"border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;\">\n\t\t\t<p dir=\"ltr\" style=\"line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;\"><span id=\"docs-internal-guid-b00ac829-7fff-1637-edbd-133bcdf2168c\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">-</span></span></p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>1) 24 + 84&nbsp;&divide; 12 - 16&nbsp;&times; 7 = 129</p>\n\n<p>Interchanged sign with given mathematical sign, we get :</p>\n\n<p>=&nbsp;<u><strong>24&nbsp;&divide; 84</strong></u> + 12&nbsp;&times; 16 - 7</p>\n\n<p><span style=\"\">=</span>&nbsp;0.285 + <u><strong>12&nbsp;&times; 16</strong></u> - 7</p>\n\n<p><span style=\"\">=</span>&nbsp;<u><strong>0.285 + 192</strong></u> - 7</p>\n\n<p><span style=\"\">=</span>&nbsp;<u><strong>192.285 - 7</strong></u></p>\n\n<p><span style=\"\">=&nbsp;</span>185.285&nbsp;&ne; 129 (False)</p>\n\n<p><strong>2) 24&nbsp;&times; 84 + 12&nbsp;&divide; 16 - 7 = 129</strong></p>\n\n<p><strong><span style=\"\">Interchanged sign with given mathematical sign, we get :</span></strong></p>\n\n<p><span style=\"\">=</span><strong><span style=\"\">&nbsp;24 -<u> 84&nbsp;&divide; 12</u> + 16&nbsp;&times; 7&nbsp;</span></strong></p>\n\n<p><span style=\"\">=</span><strong><span style=\"\">&nbsp;24 - 7 + <u>16&nbsp;&times; 7</u></span></strong></p>\n\n<p><span style=\"\">=</span><strong><span style=\"\">&nbsp;<u>24</u> - 7 <u>+ 112</u></span></strong></p>\n\n<p><span style=\"\">=&nbsp;</span><u><strong><span style=\"\">136 - 7</span></strong></u></p>\n\n<p><span style=\"\">=</span><strong><span style=\"\">&nbsp;129 = 129 (True)</span></strong></p>\n\n<p>3) 24 - 84&nbsp;&divide;&nbsp;12 +16&nbsp;&times; 7 = 129</p>\n\n<p><span style=\"\">Interchanged sign with given mathematical sign, we get&nbsp;</span></p>\n\n<p><span style=\"\">=</span>&nbsp;24&nbsp;&times; 84 + <u><strong>12&nbsp;&divide; 16</strong></u> - 7</p>\n\n<p><span style=\"\">=</span>&nbsp;<u><strong>24&nbsp;&times; 84</strong></u> + 0.75 - 7</p>\n\n<p><span style=\"\">=</span>&nbsp;<u><strong>2016 + 0.75</strong></u> - 7</p>\n\n<p><span style=\"\">=</span>&nbsp;<u><strong>2016.75 - 7</strong></u></p>\n\n<p><span style=\"\">=</span>&nbsp;2009.75&nbsp;&ne; 129 (False)</p>\n\n<p>4) 24 - 84&nbsp;&divide; 12&nbsp;&times; 16 + 7</p>\n\n<p><span style=\"\">Interchanged sign with given mathematical sign, we get&nbsp;</span></p>\n\n<p><span style=\"\">=</span>&nbsp;24&nbsp;&times; 84 + 12 - <u><strong>16&nbsp;&divide; 7</strong></u></p>\n\n<p><span style=\"\">=</span>&nbsp;<u><strong>24&nbsp;&times;&nbsp;84</strong></u> + 12 - 2.285</p>\n\n<p><span style=\"\">=</span>&nbsp;<u><strong>2016 + 12</strong></u> - 2.285</p>\n\n<p><span style=\"\">=</span>&nbsp;<u><strong>2028 - 2.285</strong></u></p>\n\n<p><span style=\"\">=</span>&nbsp;2025.715&nbsp;&ne; 129 (False)</p>\n\n<p>Hence, the correct answer is&nbsp;<strong>&quot;Option 2&quot;.&nbsp;</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b288817d682c-q8",
+      "number": 8,
+      "question": "After interchanging the given two signs what will be the values of equation (I) and (II) respectively? x and &divide; I. 18 &divide; 3 - 4 &times; 2 + 7 II. 18 &times; 3 &divide; 6 - 8 + 4",
+      "questionHtml": "<p>After interchanging the given two signs what will be the values of equation (I) and (II) respectively?</p>\n\n<p><span style=\"display: none;\">&nbsp;</span>x<span style=\"display: none;\">&nbsp;</span> and&nbsp;&divide;&nbsp;</p>\n\n<p>I. 18 &divide; 3 - 4 &times; 2 + 7</p>\n\n<p>II. 18 &times; 3 &divide; 6 - 8 + 4</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "40 and 80",
+          "html": "40 and 80"
+        },
+        {
+          "id": "B",
+          "text": "16 and 30",
+          "html": "16 and 30"
+        },
+        {
+          "id": "C",
+          "text": "59 and 32",
+          "html": "59 and 32"
+        },
+        {
+          "id": "D",
+          "text": "9 and 7",
+          "html": "9 and 7"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>I. 18 × 3 - 4 ÷ 2 + 7 → 18 × 3 - 2 + 7 → 54 - 2 + 7 → 61 - 2 → 59</p>\n\n<p>II. 18 ÷ 3 × 6 - 8 + 4 → 6 × 6 - 8 + 4 → 36 - 8 + 4 → 40 - 8 → 32</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b288817d682c-q9",
+      "number": 9,
+      "question": "Which two numbers from amongst the given options should be interchanged to make the given equation correct? 248 &divide; 4 + 184 &divide; ( 4 &times; 6 &ndash; 2 &times; 8) = 77",
+      "questionHtml": "<p>Which two numbers from amongst the given options should be interchanged to make the given equation correct?</p>\n\n<p>248 &divide; 4 + 184 &divide; ( 4 &times; 6 &ndash; 2 &times; 8) = 77</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "8 and 4",
+          "html": "8&nbsp;and 4"
+        },
+        {
+          "id": "B",
+          "text": "184 and 77",
+          "html": "184&nbsp;and 77"
+        },
+        {
+          "id": "C",
+          "text": "184 and 248",
+          "html": "184&nbsp;and 248"
+        },
+        {
+          "id": "D",
+          "text": "4 and 6",
+          "html": "4&nbsp;and 6"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>We apply the options to the given equation and solve it using BODMAS rule:<br />\n<img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/qImage10661.png\" /></p>\n\n<p>Given equation:&nbsp;<span style=\"\">248 &divide; 4 + 184 &divide; ( 4 &times; 6 &ndash; 2 &times; 8) = 77</span></p>\n\n<p>Option 1)&nbsp;8&nbsp;and 4</p>\n\n<p>After Interchanging:</p>\n\n<p>&rArr; 248 &divide; 8&nbsp;+ 184 &divide; <u><strong>( 4 &times; 6</strong></u> &ndash; <u><strong>2 &times; 4)</strong></u> = 77</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>248 &divide; 8&nbsp;+ 184 &divide;&nbsp;<u style=\"\"><span style=\"font-weight: 700;\">(24</span></u><u><strong>&nbsp;&ndash; 8</strong></u><u style=\"\"><span style=\"font-weight: 700;\">)</span></u>&nbsp;= 77</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span><u><strong>248 &divide; 8</strong></u>&nbsp;+ <u><strong>184 &divide; </strong></u><b><u>16</u></b>&nbsp;= 77</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span><u><strong>31 + 11.5</strong></u> = 77</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>42.5 &ne;&nbsp;77.</p>\n\n<p><span style=\"\">Given equation:&nbsp;</span><span style=\"\">248 &divide; 4 + 184 &divide; ( 4 &times; 6 &ndash; 2 &times; 8) = 77</span></p>\n\n<p><span style=\"\">Option 2)&nbsp;184&nbsp;and 77</span></p>\n\n<p><span style=\"\">After interchanging:</span></p>\n\n<p><span style=\"\">&rArr; 248 &divide; 4 + 77 &divide; <u><strong>( 4 &times; 6</strong></u> &ndash; <u><strong>2 &times; 8)</strong></u> =&nbsp;184</span></p>\n\n<p><span style=\"\">&rArr; 248 &divide; 4 + 77 &divide;&nbsp;</span><u><span style=\"font-weight: 700;\">(24</span><strong><span style=\"\">&nbsp;&ndash; 16</span></strong><span style=\"font-weight: 700;\">)</span></u><span style=\"\">&nbsp;=&nbsp;184</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;</span><u><strong>248 &divide; 4</strong></u> + <u><strong>77 &divide; </strong></u><b><u>8</u></b>&nbsp;=&nbsp;184</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span><u><strong>62 + 9.6</strong></u> = 184</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>71.6 &ne;&nbsp;184.</p>\n\n<p><span style=\"\">Given equation:&nbsp;</span><span style=\"\">248 &divide; 4 + 184 &divide; ( 4 &times; 6 &ndash; 2 &times; 8) = 77</span></p>\n\n<p>Option 3)&nbsp;184&nbsp;and 248</p>\n\n<p>After Interchanging:</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>184&nbsp;&divide; 4 + 248&nbsp;&divide; <u><strong>( 4 &times; 6 &ndash; 2 &times; 8)</strong></u> = 77</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>184&nbsp;&divide; 4 + 248&nbsp;&divide;&nbsp;<u style=\"\"><span style=\"font-weight: 700;\">(24&nbsp;&ndash; 16)</span></u>&nbsp;= 77</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span><u><strong>184&nbsp;&divide; 4</strong></u> + <u><strong>248&nbsp;&divide; </strong></u><b><u>8</u></b>&nbsp;= 77</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span><u><strong>46 + 31</strong></u> = 77</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span><strong>77 = 77.</strong></p>\n\n<p><span style=\"\">Given equation:&nbsp;</span><span style=\"\">248 &divide; 4 + 184 &divide; ( 4 &times; 6 &ndash; 2 &times; 8) = 77</span></p>\n\n<p><span style=\"\">Option 4)&nbsp;4&nbsp;and 6</span></p>\n\n<p><span style=\"\">After Interchanging:</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;248 &divide; 6&nbsp;+ 184 &divide; <u><strong>( 4 &times; 4&nbsp;&ndash; 2 &times; 8)</strong></u> = 77</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;248 &divide; 6&nbsp;+ 184 &divide;&nbsp;</span><u style=\"\"><span style=\"font-weight: 700;\">(16&nbsp;&ndash; 16)</span></u><span style=\"\">&nbsp;= 77</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;<u><strong>248 &divide; 6</strong></u>&nbsp;+ <u><strong>184 &divide;&nbsp;</strong></u></span><u style=\"\"><span style=\"font-weight: 700;\">0</span></u><span style=\"\">&nbsp;= 77</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;<u><strong>41.3 + 0</strong></u> = 77&nbsp;</span></p>\n\n<p><span style=\"\">&rArr;&nbsp;41.3 </span>&ne;<span style=\"\">&nbsp;77</span></p>\n\n<p><span style=\"\">Hence, the correct answer is <strong>&quot;Option 3&quot;.</strong></span></p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/qImage10661.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "b288817d682c-q10",
+      "number": 10,
+      "question": "By interchanging the given two signs and numbers which of the following equation will be correct? + and &ndash;, 2 and 4",
+      "questionHtml": "<p>By interchanging the given two signs and numbers which of the following equation will be correct?</p>\n\n<p>+ and &ndash;, 2 and 4</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "9 &ndash; 5 &divide; 4 &times; 2 + 8 = 80",
+          "html": "9 &ndash; 5 &divide; 4 &times; 2 + 8 = 80"
+        },
+        {
+          "id": "B",
+          "text": "7 &times; 4 &ndash; 2 &divide; 1 + 5 = 13",
+          "html": "7 &times; 4 &ndash; 2 &divide; 1 + 5 = 13"
+        },
+        {
+          "id": "C",
+          "text": "7 &ndash; 8 &divide; 2 + 16 &times; 4 = 18",
+          "html": "7 &ndash; 8 &divide; 2 + 16 &times; 4 = 18"
+        },
+        {
+          "id": "D",
+          "text": "5 + 7 &times; 4 &ndash; 8 &divide; 2 = 5",
+          "html": "5 + 7 &times; 4 &ndash; 8 &divide; 2 = 5"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><img alt=\"\" src=\"https:https://storage.googleapis.com/tb-img/production/22/04/BODMAS.png\" style=\" width: 290px; height: 159px;\" /></p>\n\n<p>According to the question, <strong>b<span style=\"\">y interchanging the given two signs and numbers :</span></strong></p>\n\n<ol>\n\t<li><strong><span style=\"\">+ and &ndash;</span></strong></li>\n\t<li><strong><span style=\"\">2 and 4</span></strong></li>\n</ol>\n\n<p><span style=\"\">​So,</span></p>\n\n<ul>\n\t<li><span style=\"\">Option - (1) :&nbsp;9 &ndash; 5 &divide; 4 &times; 2 + 8 = 80</span></li>\n</ul>\n\n<p><span style=\"\">​9 +&nbsp;<u><strong>5 &divide; 2</strong></u>&nbsp;&times; 4&nbsp;-&nbsp;8 = 80</span></p>\n\n<p><span style=\"\">9 + <u><strong>2.5&nbsp;&times; 4</strong></u></span><span style=\"\">&nbsp;-</span><span style=\"\">&nbsp;8 = 80</span></p>\n\n<p><span style=\"\"><u><strong>9 + 10</strong></u> - 8 = 80</span></p>\n\n<p><span style=\"\"><u><strong>19 - 8</strong></u> = 80</span></p>\n\n<p><strong>11&nbsp;<span style=\"font-weight: 700; \">&ne; 80&nbsp;(LHS&nbsp;&ne;&nbsp;RHS)</span></strong></p>\n\n<ul>\n\t<li>Option - (2) :&nbsp;<span style=\"\">7 &times; 4 &ndash; 2 &divide; 1 + 5 = 13</span></li>\n</ul>\n\n<p><span style=\"\">7 &times; 2&nbsp;+&nbsp;<u><strong>4&nbsp;&divide; 1</strong></u> -&nbsp;5 = 13</span></p>\n\n<p><u><strong><span style=\"\">7 &times; 2</span></strong></u><span style=\"\">&nbsp;+ 4 - 5 = 13</span></p>\n\n<p><span style=\"\"><u><strong>14 + 4</strong></u> - 5 = 13</span></p>\n\n<p><span style=\"\"><u><strong>18 - 5</strong></u> = 13</span></p>\n\n<p><strong>13 = 13 (LHS = RHS)</strong></p>\n\n<ul>\n\t<li>Option - (3) :&nbsp;<span style=\"\">7 &ndash; 8 &divide; 2 + 16 &times; 4 = 18</span></li>\n</ul>\n\n<p><span style=\"\">​7&nbsp;+&nbsp;<u><strong>8 &divide; 4</strong></u>&nbsp;-&nbsp;16 &times; 2&nbsp;= 18</span></p>\n\n<p><span style=\"\">7 + 2 -</span><span style=\"\">&nbsp;<u><strong>16 &times; 2</strong></u></span><span style=\"\">&nbsp;= 18&nbsp;</span></p>\n\n<p><span style=\"\"><u><strong>7 + 2</strong></u> - 32 = 18</span></p>\n\n<p><span style=\"\"><u><strong>14 - 32</strong></u> = 18</span></p>\n\n<p><strong><span style=\"\">-18&nbsp;</span><span style=\"font-weight: 700; \">&ne; 18&nbsp;(LHS&nbsp;&ne;&nbsp;RHS)</span></strong></p>\n\n<ul>\n\t<li>Option - (4) :&nbsp;<span style=\"\">5 + 7 &times; 4 &ndash; 8 &divide; 2 = 5</span></li>\n</ul>\n\n<p>​<span style=\"\">5 -&nbsp;7 &times; 2&nbsp;+&nbsp;<u><strong>8 &divide; 4</strong></u>&nbsp;= 5</span></p>\n\n<p><span style=\"\">5 -</span><span style=\"\">&nbsp;<u><strong>7 &times; 2</strong></u></span><span style=\"\">&nbsp;+ 2 = 5</span></p>\n\n<p><span style=\"\"><u><strong>5 + 2</strong></u> - 14 = 5</span></p>\n\n<p><u><strong>7 - 14</strong></u> = 5</p>\n\n<p><strong>-7&nbsp;<span style=\"font-weight: 700; \">&ne; 5&nbsp;(LHS&nbsp;&ne;&nbsp;RHS)</span></strong></p>\n\n<p>Hence, <strong>&quot;Option - (2)&quot;</strong> is the correct answer.</p>\n",
+      "images": [
+        "https:https://storage.googleapis.com/tb-img/production/22/04/BODMAS.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

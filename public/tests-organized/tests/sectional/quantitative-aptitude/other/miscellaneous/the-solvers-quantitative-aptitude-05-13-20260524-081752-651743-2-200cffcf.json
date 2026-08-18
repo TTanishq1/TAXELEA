@@ -1,0 +1,871 @@
+{
+  "id": "200cffcfc96c",
+  "provider": "Oliveboard",
+  "sourceFile": "@the_solvers_Quantitative_Aptitude_05_13_20260524_081752_651743 (2).html",
+  "sourcePath": "OliveBoard/@the_solvers_Quantitative_Aptitude_05_13_20260524_081752_651743 (2).html",
+  "title": "devgagan",
+  "exam": null,
+  "year": 2026,
+  "tier": null,
+  "shift": null,
+  "duration": 15,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "200cffcfc96c-q1",
+      "number": 1,
+      "question": "Find the unit digit of the given expression: (7) 49 +(8) 98 - (15) 49 &#2342;&#2368; &#2327;&#2312; &#2309;&#2349;&#2367;&#2357;&#2381;&#2351;&#2325;&#2381;&#2340;&#2367; &#2325;&#2366; &#2311;&#2325;&#2366;&#2312; &#2309;&#2306;&#2325; &#2332;&#2381;&#2334;&#2366;&#2340; &#2325;&#2352;&#2375;&#2306;: (7) 49 +(8) 98 - (15) 49",
+      "questionHtml": "<span class=\"eqt\"><p>Find the unit digit of the given expression:</p><p>(7)<sup>49</sup>+(8)<sup>98</sup>  -  (15)<sup>49</sup></p></span><span class=\"hqt\" style=\"display:none\"><p>&#2342;&#2368; &#2327;&#2312; &#2309;&#2349;&#2367;&#2357;&#2381;&#2351;&#2325;&#2381;&#2340;&#2367; &#2325;&#2366; &#2311;&#2325;&#2366;&#2312; &#2309;&#2306;&#2325; &#2332;&#2381;&#2334;&#2366;&#2340; &#2325;&#2352;&#2375;&#2306;:</p><p>(7)<sup>49</sup>+(8)<sup>98</sup> - (15)<sup>49</sup></p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 1",
+          "html": "<span class=\"eqt\">1</span><span class=\"hqt\" style=\"display:none\">1</span>"
+        },
+        {
+          "id": "B",
+          "text": "0 0",
+          "html": "<span class=\"eqt\">0</span><span class=\"hqt\" style=\"display:none\">0</span>"
+        },
+        {
+          "id": "C",
+          "text": "5 5",
+          "html": "<span class=\"eqt\">5</span><span class=\"hqt\" style=\"display:none\">5</span>"
+        },
+        {
+          "id": "D",
+          "text": "6 6",
+          "html": "<span class=\"eqt\">6</span><span class=\"hqt\" style=\"display:none\">6</span>"
+        }
+      ],
+      "correctAnswer": null,
+      "solution": "<p>7</p><p>7x7=..9</p><p>9x7=..3</p><p>3x7=..1</p><p>Remainder of 49/4 is 1</p><p>Unit digit of 7<sup>49</sup> is 7</p><p>8</p><p>8x8=..4</p><p>4x8=..2</p><p>2x8=..6</p><p>6x8=..8</p><p>Remainder of 98/4 is 2</p><p>Unit digit of 8<sup>98</sup> is 4</p><p>And unit digit of 15<sup>49</sup> is 5</p><p>The required unit digit= 7+4-5 =6</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q2",
+      "number": 2,
+      "question": "If P: Q = 3: 4 and Q: R = 5: 6, then P: Q: R is &#2351;&#2342;&#2367; P: Q = 3: 4 &#2324;&#2352; Q: R = 5: 6 &#2361;&#2376;&#2306;, &#2340;&#2379; P: Q: R &#2325;&#2381;&#2351;&#2366; &#2361;&#2379;&#2327;&#2366;|",
+      "questionHtml": "<span class=\"eqt\"><p>If P: Q = 3: 4 and Q: R = 5: 6, then P: Q: R is</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2351;&#2342;&#2367; P: Q = 3: 4 &#2324;&#2352; Q: R = 5: 6 &#2361;&#2376;&#2306;, &#2340;&#2379; P: Q: R &#2325;&#2381;&#2351;&#2366; &#2361;&#2379;&#2327;&#2366;|</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3: 4: 6 3: 4: 6",
+          "html": "<span class=\"eqt\">3: 4: 6</span><span class=\"hqt\" style=\"display:none\">3: 4: 6</span>"
+        },
+        {
+          "id": "B",
+          "text": "3: 5: 6 3: 5: 6",
+          "html": "<span class=\"eqt\">3: 5: 6</span><span class=\"hqt\" style=\"display:none\">3: 5: 6</span>"
+        },
+        {
+          "id": "C",
+          "text": "15: 20: 24 15: 20: 24",
+          "html": "<span class=\"eqt\">15: 20: 24</span><span class=\"hqt\" style=\"display:none\">15: 20: 24</span>"
+        },
+        {
+          "id": "D",
+          "text": "5: 6: 3 5: 6: 3",
+          "html": "<span class=\"eqt\">5: 6: 3</span><span class=\"hqt\" style=\"display:none\">5: 6: 3</span>"
+        }
+      ],
+      "correctAnswer": null,
+      "solution": "<p>P: Q = 3: 4</p><p>Q: R = 5: 6,</p><p>P: Q: Q: R = 3*5: 4*5 :5*4: 4*6</p><p>P: Q: R= 15: 20: 24.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q3",
+      "number": 3,
+      "question": "Find the total number of female employees in company B and D together. &#2325;&#2306;&#2346;&#2344;&#2368; B &#2324;&#2352; &#2325;&#2306;&#2346;&#2344;&#2368; D &#2350;&#2375;&#2306; &#2360;&#2306;&#2351;&#2369;&#2325;&#2381;&#2340; &#2352;&#2370;&#2346; &#2360;&#2375; &#2350;&#2361;&#2367;&#2354;&#2366; &#2325;&#2352;&#2381;&#2350;&#2330;&#2366;&#2352;&#2367;&#2351;&#2379;&#2306; &#2325;&#2368; &#2325;&#2369;&#2354; &#2360;&#2306;&#2326;&#2381;&#2351;&#2366; &#2332;&#2381;&#2334;&#2366;&#2340; &#2325;&#2352;&#2375;&#2306;?",
+      "questionHtml": "<span class=\"eqt\"><p>Find the total number of female employees in company B and D together.</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2325;&#2306;&#2346;&#2344;&#2368; B &#2324;&#2352; &#2325;&#2306;&#2346;&#2344;&#2368; D &#2350;&#2375;&#2306; &#2360;&#2306;&#2351;&#2369;&#2325;&#2381;&#2340; &#2352;&#2370;&#2346; &#2360;&#2375; &#2350;&#2361;&#2367;&#2354;&#2366; &#2325;&#2352;&#2381;&#2350;&#2330;&#2366;&#2352;&#2367;&#2351;&#2379;&#2306; &#2325;&#2368; &#2325;&#2369;&#2354; &#2360;&#2306;&#2326;&#2381;&#2351;&#2366; &#2332;&#2381;&#2334;&#2366;&#2340; &#2325;&#2352;&#2375;&#2306;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "111 111",
+          "html": "<span class=\"eqt\">111</span><span class=\"hqt\" style=\"display:none\">111</span>"
+        },
+        {
+          "id": "B",
+          "text": "122 122",
+          "html": "<span class=\"eqt\">122</span><span class=\"hqt\" style=\"display:none\">122</span>"
+        },
+        {
+          "id": "C",
+          "text": "102 102",
+          "html": "<span class=\"eqt\">102</span><span class=\"hqt\" style=\"display:none\">102</span>"
+        },
+        {
+          "id": "D",
+          "text": "123 123",
+          "html": "<span class=\"eqt\">123</span><span class=\"hqt\" style=\"display:none\">123</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Total male employees in company A = 39 * (48/52) = 36</p><p>Total female employees in company A = 39</p><p>Total employees in company A = 36 + 39 = 75</p><p>Total male employees in company B = 35</p><p>Total female employees in company B = 35 * (56.25/43.75) = 45</p><p>Total employees in company B = 35 + 45 = 80</p><p>Similarly, we can calculate other values...</p><table style=\"border-collapse:collapse;\"><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Company</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Male</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Female</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Total</b></td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>A</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">39 * (48/52) = <b>36</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>39</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">36 + 39 = 75</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>B</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>35</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">35 * (56.25/43.75) = <b>45</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">35 + 45 = 80</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>C</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">50 * (60/40) = <b>75</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>50</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">75 + 50 = 125</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>D</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>54</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">54 * (55/45) = <b>66</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">54 + 66 = 120</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>E</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">54 * (64/36) = <b>96</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>54</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">96 + 54 = 150</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Total</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">296</td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">254</td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">550</td></tr></table><br><p>Total number of female employees in company B and D together = 45 + 66 = 111</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q4",
+      "number": 4,
+      "question": "Find the average of total number of male employees in company A, C and E together. &#2325;&#2306;&#2346;&#2344;&#2368; A, &#2325;&#2306;&#2346;&#2344;&#2368; C &#2324;&#2352; &#2325;&#2306;&#2346;&#2344;&#2368; E &#2350;&#2375;&#2306; &#2360;&#2306;&#2351;&#2369;&#2325;&#2381;&#2340; &#2352;&#2370;&#2346; &#2360;&#2375; &#2346;&#2369;&#2352;&#2369;&#2359; &#2325;&#2352;&#2381;&#2350;&#2330;&#2366;&#2352;&#2367;&#2351;&#2379;&#2306; &#2325;&#2368; &#2325;&#2369;&#2354; &#2360;&#2306;&#2326;&#2381;&#2351;&#2366; &#2325;&#2366; &#2324;&#2360;&#2340; &#2332;&#2381;&#2334;&#2366;&#2340; &#2325;&#2352;&#2375;&#2306;?",
+      "questionHtml": "<span class=\"eqt\"><p>Find the average of total number of male employees in company A, C and E together.</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2325;&#2306;&#2346;&#2344;&#2368; A, &#2325;&#2306;&#2346;&#2344;&#2368; C &#2324;&#2352; &#2325;&#2306;&#2346;&#2344;&#2368; E &#2350;&#2375;&#2306; &#2360;&#2306;&#2351;&#2369;&#2325;&#2381;&#2340; &#2352;&#2370;&#2346; &#2360;&#2375; &#2346;&#2369;&#2352;&#2369;&#2359; &#2325;&#2352;&#2381;&#2350;&#2330;&#2366;&#2352;&#2367;&#2351;&#2379;&#2306; &#2325;&#2368; &#2325;&#2369;&#2354; &#2360;&#2306;&#2326;&#2381;&#2351;&#2366; &#2325;&#2366; &#2324;&#2360;&#2340; &#2332;&#2381;&#2334;&#2366;&#2340; &#2325;&#2352;&#2375;&#2306;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "63 63",
+          "html": "<span class=\"eqt\">63</span><span class=\"hqt\" style=\"display:none\">63</span>"
+        },
+        {
+          "id": "B",
+          "text": "69 69",
+          "html": "<span class=\"eqt\">69</span><span class=\"hqt\" style=\"display:none\">69</span>"
+        },
+        {
+          "id": "C",
+          "text": "72 72",
+          "html": "<span class=\"eqt\">72</span><span class=\"hqt\" style=\"display:none\">72</span>"
+        },
+        {
+          "id": "D",
+          "text": "75 75",
+          "html": "<span class=\"eqt\">75</span><span class=\"hqt\" style=\"display:none\">75</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Total male employees in company A = 39 * (48/52) = 36</p><p>Total female employees in company A = 39</p><p>Total employees in company A = 36 + 39 = 75</p><p>Total male employees in company B = 35</p><p>Total female employees in company B = 35 * (56.25/43.75) = 45</p><p>Total employees in company B = 35 + 45 = 80</p><p>Similarly, we can calculate other values...</p><table style=\"border-collapse:collapse;\"><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Company</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Male</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Female</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Total</b></td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>A</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">39 * (48/52) = <b>36</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>39</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">36 + 39 = 75</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>B</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>35</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">35 * (56.25/43.75) = <b>45</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">35 + 45 = 80</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>C</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">50 * (60/40) = <b>75</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>50</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">75 + 50 = 125</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>D</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>54</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">54 * (55/45) = <b>66</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">54 + 66 = 120</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>E</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">54 * (64/36) = <b>96</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>54</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">96 + 54 = 150</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Total</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">296</td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">254</td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">550</td></tr></table><br><p>Total number of male employees in company A, C and E together = 36 + 75 + 96 = 207</p><p>Average = 207/3 = 69</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q5",
+      "number": 5,
+      "question": "What is the difference between total male employees in company B and D together and total female employees in company A, C and E together? &#2325;&#2306;&#2346;&#2344;&#2368; B &#2324;&#2352; &#2325;&#2306;&#2346;&#2344;&#2368; D &#2350;&#2375;&#2306; &#2360;&#2306;&#2351;&#2369;&#2325;&#2381;&#2340; &#2352;&#2370;&#2346; &#2360;&#2375; &#2325;&#2369;&#2354; &#2346;&#2369;&#2352;&#2369;&#2359; &#2325;&#2352;&#2381;&#2350;&#2330;&#2366;&#2352;&#2367;&#2351;&#2379;&#2306; &#2324;&#2352; &#2325;&#2306;&#2346;&#2344;&#2368; A, &#2325;&#2306;&#2346;&#2344;&#2368; C &#2324;&#2352; &#2325;&#2306;&#2346;&#2344;&#2368; E &#2350;&#2375;&#2306; &#2360;&#2306;&#2351;&#2369;&#2325;&#2381;&#2340; &#2352;&#2370;&#2346; &#2360;&#2375; &#2325;&#2369;&#2354; &#2350;&#2361;&#2367;&#2354;&#2366; &#2325;&#2352;&#2381;&#2350;&#2330;&#2366;&#2352;&#2367;&#2351;&#2379;&#2306; &#2325;&#2375; &#2348;&#2368;&#2330; &#2325;&#2366; &#2309;&#2306;&#2340;&#2352; &#2325;&#2381;&#2351;&#2366; &#2361;&#2376;?",
+      "questionHtml": "<span class=\"eqt\"><p>What is the difference between total male employees in company B and D together and total female employees in company A, C and E together?</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2325;&#2306;&#2346;&#2344;&#2368; B &#2324;&#2352; &#2325;&#2306;&#2346;&#2344;&#2368; D &#2350;&#2375;&#2306; &#2360;&#2306;&#2351;&#2369;&#2325;&#2381;&#2340; &#2352;&#2370;&#2346; &#2360;&#2375; &#2325;&#2369;&#2354; &#2346;&#2369;&#2352;&#2369;&#2359; &#2325;&#2352;&#2381;&#2350;&#2330;&#2366;&#2352;&#2367;&#2351;&#2379;&#2306; &#2324;&#2352; &#2325;&#2306;&#2346;&#2344;&#2368; A, &#2325;&#2306;&#2346;&#2344;&#2368; C &#2324;&#2352; &#2325;&#2306;&#2346;&#2344;&#2368; E &#2350;&#2375;&#2306; &#2360;&#2306;&#2351;&#2369;&#2325;&#2381;&#2340; &#2352;&#2370;&#2346; &#2360;&#2375; &#2325;&#2369;&#2354; &#2350;&#2361;&#2367;&#2354;&#2366; &#2325;&#2352;&#2381;&#2350;&#2330;&#2366;&#2352;&#2367;&#2351;&#2379;&#2306; &#2325;&#2375; &#2348;&#2368;&#2330; &#2325;&#2366; &#2309;&#2306;&#2340;&#2352; &#2325;&#2381;&#2351;&#2366; &#2361;&#2376;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "45 45",
+          "html": "<span class=\"eqt\">45</span><span class=\"hqt\" style=\"display:none\">45</span>"
+        },
+        {
+          "id": "B",
+          "text": "48 48",
+          "html": "<span class=\"eqt\">48</span><span class=\"hqt\" style=\"display:none\">48</span>"
+        },
+        {
+          "id": "C",
+          "text": "54 54",
+          "html": "<span class=\"eqt\">54</span><span class=\"hqt\" style=\"display:none\">54</span>"
+        },
+        {
+          "id": "D",
+          "text": "58 58",
+          "html": "<span class=\"eqt\">58</span><span class=\"hqt\" style=\"display:none\">58</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Total male employees in company A = 39 * (48/52) = 36</p><p>Total female employees in company A = 39</p><p>Total employees in company A = 36 + 39 = 75</p><p>Total male employees in company B = 35</p><p>Total female employees in company B = 35 * (56.25/43.75) = 45</p><p>Total employees in company B = 35 + 45 = 80</p><p>Similarly, we can calculate other values...</p><table style=\"border-collapse:collapse;\"><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Company</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Male</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Female</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Total</b></td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>A</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">39 * (48/52) = <b>36</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>39</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">36 + 39 = 75</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>B</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>35</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">35 * (56.25/43.75) = <b>45</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">35 + 45 = 80</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>C</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">50 * (60/40) = <b>75</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>50</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">75 + 50 = 125</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>D</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>54</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">54 * (55/45) = <b>66</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">54 + 66 = 120</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>E</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">54 * (64/36) = <b>96</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>54</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">96 + 54 = 150</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Total</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">296</td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">254</td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">550</td></tr></table><br><p>Total male employees in company B and D together = 35 + 54 = 89</p><p>Total female employees in company A, C and E together = 39 + 50 + 54 = 143</p><p>Difference = 143  -  89 = 54</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q6",
+      "number": 6,
+      "question": "Find that total employees in company C is approximately what per cent of total employees in company E? &#2325;&#2306;&#2346;&#2344;&#2368; C &#2350;&#2375;&#2306; &#2325;&#2369;&#2354; &#2325;&#2352;&#2381;&#2350;&#2330;&#2366;&#2352;&#2368;, &#2325;&#2306;&#2346;&#2344;&#2368; E &#2350;&#2375;&#2306; &#2325;&#2369;&#2354; &#2325;&#2352;&#2381;&#2350;&#2330;&#2366;&#2352;&#2367;&#2351;&#2379;&#2306; &#2325;&#2366; &#2354;&#2327;&#2349;&#2327; &#2325;&#2367;&#2340;&#2344;&#2366; &#2346;&#2381;&#2352;&#2340;&#2367;&#2358;&#2340; &#2361;&#2376;?",
+      "questionHtml": "<span class=\"eqt\"><p>Find that total employees in company C is approximately what per cent of total employees in company E?</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2325;&#2306;&#2346;&#2344;&#2368; C &#2350;&#2375;&#2306; &#2325;&#2369;&#2354; &#2325;&#2352;&#2381;&#2350;&#2330;&#2366;&#2352;&#2368;, &#2325;&#2306;&#2346;&#2344;&#2368; E &#2350;&#2375;&#2306; &#2325;&#2369;&#2354; &#2325;&#2352;&#2381;&#2350;&#2330;&#2366;&#2352;&#2367;&#2351;&#2379;&#2306; &#2325;&#2366; &#2354;&#2327;&#2349;&#2327; &#2325;&#2367;&#2340;&#2344;&#2366; &#2346;&#2381;&#2352;&#2340;&#2367;&#2358;&#2340; &#2361;&#2376;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "64.45% 64.45%",
+          "html": "<span class=\"eqt\">64.45%</span><span class=\"hqt\" style=\"display:none\">64.45%</span>"
+        },
+        {
+          "id": "B",
+          "text": "72.29% 72.29%",
+          "html": "<span class=\"eqt\">72.29%</span><span class=\"hqt\" style=\"display:none\">72.29%</span>"
+        },
+        {
+          "id": "C",
+          "text": "76.67% 76.67%",
+          "html": "<span class=\"eqt\">76.67%</span><span class=\"hqt\" style=\"display:none\">76.67%</span>"
+        },
+        {
+          "id": "D",
+          "text": "83.33% 83.33%",
+          "html": "<span class=\"eqt\">83.33%</span><span class=\"hqt\" style=\"display:none\">83.33%</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Total male employees in company A = 39 * (48/52) = 36</p><p>Total female employees in company A = 39</p><p>Total employees in company A = 36 + 39 = 75</p><p>Total male employees in company B = 35</p><p>Total female employees in company B = 35 * (56.25/43.75) = 45</p><p>Total employees in company B = 35 + 45 = 80</p><p>Similarly, we can calculate other values...</p><table style=\"border-collapse:collapse;\"><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Company</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Male</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Female</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Total</b></td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>A</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">39 * (48/52) = <b>36</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>39</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">36 + 39 = 75</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>B</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>35</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">35 * (56.25/43.75) = <b>45</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">35 + 45 = 80</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>C</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">50 * (60/40) = <b>75</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>50</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">75 + 50 = 125</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>D</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>54</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">54 * (55/45) = <b>66</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">54 + 66 = 120</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>E</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">54 * (64/36) = <b>96</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>54</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">96 + 54 = 150</td></tr><tr><td align=\"left\" style=\"border:1px solid black;padding:5px;\"><b>Total</b></td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">296</td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">254</td><td align=\"left\" style=\"border:1px solid black;padding:5px;\">550</td></tr></table><br><p>Total employees in company C = 125</p><p>Total employees in company E = 150</p><p>Per cent = (125/150) * 100 &#8776; 83.33%</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q7",
+      "number": 7,
+      "question": "If x 2 - x = 17, then find the value of (x+7) 2 + 39 2 /(x+7) 2 . &#2351;&#2342;&#2367; x 2 - x = 17 &#2361;&#2376;, &#2340;&#2379; (x+7) 2 + 39 2 /(x+7) 2 &#2325;&#2366; &#2350;&#2366;&#2344; &#2332;&#2381;&#2334;&#2366;&#2340; &#2325;&#2352;&#2375;&#2306;|",
+      "questionHtml": "<span class=\"eqt\"><p>If x<sup>2</sup>  -  x = 17, then find the value of (x+7)<sup>2</sup> + 39<sup>2</sup>/(x+7)<sup>2</sup>.</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2351;&#2342;&#2367; x<sup>2</sup> - x = 17 &#2361;&#2376;, &#2340;&#2379; (x+7)<sup>2</sup> + 39<sup>2</sup>/(x+7)<sup>2</sup> &#2325;&#2366; &#2350;&#2366;&#2344; &#2332;&#2381;&#2334;&#2366;&#2340; &#2325;&#2352;&#2375;&#2306;|</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "121 121",
+          "html": "<span class=\"eqt\">121</span><span class=\"hqt\" style=\"display:none\">121</span>"
+        },
+        {
+          "id": "B",
+          "text": "125 125",
+          "html": "<span class=\"eqt\">125</span><span class=\"hqt\" style=\"display:none\">125</span>"
+        },
+        {
+          "id": "C",
+          "text": "117 117",
+          "html": "<span class=\"eqt\">117</span><span class=\"hqt\" style=\"display:none\">117</span>"
+        },
+        {
+          "id": "D",
+          "text": "147 147",
+          "html": "<span class=\"eqt\">147</span><span class=\"hqt\" style=\"display:none\">147</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>x<sup>2</sup>  -  x = 17; let y = x + 7, &#8756; x = y  -  7.</p><p>&#8756; (y&#8722;7)<sup>2</sup>  -  (y&#8722;7) = 17</p><p>=&gt; y<sup>2</sup>  -  14y + 49  -  y + 7 = 17</p><p>=&gt; y<sup>2</sup> + 39 = 15y</p><p>=&gt; y + 39/y = 15. [y &#8800; 0]</p><p>&#8756; (x+7)<sup>2</sup> + 39<sup>2</sup>/(x+7)<sup>2</sup> = y<sup>2</sup> + (39/y)<sup>2</sup> = (y + 39/y)<sup>2</sup>  -  2 X y X (39/y)</p><p>= 15<sup>2</sup>  -  78 = 225  -  78 = 147.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q8",
+      "number": 8,
+      "question": "If x + 1/2x = 5, what is the value of 46x/(&radic;2x + 1) 2 ? &#2351;&#2342;&#2367; x + 1/2x = 5 &#2361;&#2376;, &#2340;&#2379; 46x/(&radic;2x + 1) 2 &#2325;&#2366; &#2350;&#2366;&#2344; &#2325;&#2381;&#2351;&#2366; &#2361;&#2376;?",
+      "questionHtml": "<span class=\"eqt\"><p>If x + 1/2x = 5, what is the value of 46x/(&radic;2x + 1)<sup>2</sup>?</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2351;&#2342;&#2367; x + 1/2x = 5 &#2361;&#2376;, &#2340;&#2379; 46x/(&radic;2x + 1)<sup>2 </sup>&#2325;&#2366; &#2350;&#2366;&#2344; &#2325;&#2381;&#2351;&#2366; &#2361;&#2376;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5&#8722;&radic;2 5&#8722;&radic;2",
+          "html": "<span class=\"eqt\">5&#8722;&radic;2</span><span class=\"hqt\" style=\"display:none\">5&#8722;&radic;2</span>"
+        },
+        {
+          "id": "B",
+          "text": "5+&radic;2 5+&radic;2",
+          "html": "<span class=\"eqt\">5+&radic;2</span><span class=\"hqt\" style=\"display:none\">5+&radic;2</span>"
+        },
+        {
+          "id": "C",
+          "text": "5&#8722;&radic;3 5&#8722;&radic;3",
+          "html": "<span class=\"eqt\">5&#8722;&radic;3</span><span class=\"hqt\" style=\"display:none\">5&#8722;&radic;3</span>"
+        },
+        {
+          "id": "D",
+          "text": "5+&radic;3 5+&radic;3",
+          "html": "<span class=\"eqt\">5+&radic;3</span><span class=\"hqt\" style=\"display:none\">5+&radic;3</span>"
+        }
+      ],
+      "correctAnswer": null,
+      "solution": "<p>=&gt; x + 1/2x = 5</p><p>=&gt; 2x<sup>2</sup> + 1 = 10x. [x &#8800; 0]</p><p>=&gt; (&radic;2x)<sup>2</sup> + 1<sup>2</sup> = 10x</p><p>=&gt; (&radic;2x+1)<sup>2</sup> &#8722; 2&radic;2x = 10x</p><p>=&gt; (&radic;2x+1)<sup>2</sup> = 2x(5+&radic;2)</p><p>=&gt; x/(&radic;2x+1)<sup>2</sup> = 1/2(5+&radic;2)</p><p>=&gt; 46x/(&radic;2x + 1)<sup>2</sup> = 23(5&#8722;&radic;2)/(5+&radic;2)(5&#8722;&radic;2)</p><p>=&gt; 46x/(&radic;2x + 1)<sup>2</sup> = 23(5&#8722;&radic;2)/23</p><p>&#8756; 46x/(&radic;2x + 1)<sup>2</sup> = (5&#8722;&radic;2)</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q9",
+      "number": 9,
+      "question": "A largest three-digit number which when divided by 5 and 13 leaves same remainder 3. What will be the remainder when that number is divided by 11? &#2340;&#2368;&#2344; &#2309;&#2306;&#2325;&#2379;&#2306; &#2325;&#2368; &#2309;&#2343;&#2367;&#2325;&#2340;&#2350; &#2360;&#2306;&#2326;&#2381;&#2351;&#2366; &#2325;&#2379; &#2332;&#2348; 5 &#2324;&#2352; 13 &#2360;&#2375; &#2357;&#2367;&#2349;&#2366;&#2332;&#2367;&#2340; &#2325;&#2367;&#2351;&#2366; &#2332;&#2366;&#2340;&#2366; &#2361;&#2376; &#2340;&#2379; &#2358;&#2375;&#2359;&#2347;&#2354; 3 &#2348;&#2330;&#2340;&#2366; &#2361;&#2376;| &#2332;&#2348; &#2360;&#2306;&#2326;&#2381;&#2351;&#2366; &#2325;&#2379; 11 &#2360;&#2375; &#2357;&#2367;&#2349;&#2366;&#2332;&#2367;&#2340; &#2325;&#2367;&#2351;&#2366; &#2332;&#2366;&#2351;&#2375;, &#2340;&#2379; &#2358;&#2375;&#2359;&#2347;&#2354; &#2325;&#2381;&#2351;&#2366; &#2348;&#2330;&#2375;&#2327;&#2366;?",
+      "questionHtml": "<span class=\"eqt\"><p>A largest three-digit number which when divided by 5 and 13 leaves same remainder 3. What will be the remainder when that number is divided by 11?</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2340;&#2368;&#2344; &#2309;&#2306;&#2325;&#2379;&#2306; &#2325;&#2368; &#2309;&#2343;&#2367;&#2325;&#2340;&#2350; &#2360;&#2306;&#2326;&#2381;&#2351;&#2366; &#2325;&#2379; &#2332;&#2348; 5 &#2324;&#2352; 13 &#2360;&#2375; &#2357;&#2367;&#2349;&#2366;&#2332;&#2367;&#2340; &#2325;&#2367;&#2351;&#2366; &#2332;&#2366;&#2340;&#2366; &#2361;&#2376; &#2340;&#2379; &#2358;&#2375;&#2359;&#2347;&#2354; 3 &#2348;&#2330;&#2340;&#2366; &#2361;&#2376;| &#2332;&#2348; &#2360;&#2306;&#2326;&#2381;&#2351;&#2366; &#2325;&#2379; 11 &#2360;&#2375; &#2357;&#2367;&#2349;&#2366;&#2332;&#2367;&#2340; &#2325;&#2367;&#2351;&#2366; &#2332;&#2366;&#2351;&#2375;, &#2340;&#2379; &#2358;&#2375;&#2359;&#2347;&#2354; &#2325;&#2381;&#2351;&#2366; &#2348;&#2330;&#2375;&#2327;&#2366;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 10",
+          "html": "<span class=\"eqt\">10</span><span class=\"hqt\" style=\"display:none\">10</span>"
+        },
+        {
+          "id": "B",
+          "text": "9 9",
+          "html": "<span class=\"eqt\">9</span><span class=\"hqt\" style=\"display:none\">9</span>"
+        },
+        {
+          "id": "C",
+          "text": "8 8",
+          "html": "<span class=\"eqt\">8</span><span class=\"hqt\" style=\"display:none\">8</span>"
+        },
+        {
+          "id": "D",
+          "text": "7 7",
+          "html": "<span class=\"eqt\">7</span><span class=\"hqt\" style=\"display:none\">7</span>"
+        }
+      ],
+      "correctAnswer": null,
+      "solution": "<p>Largest 3-digit number which is divisible by 5 and 13 = Largest 3-digit number which is divisible by LCM of 5 and 13 = 975</p><p>Number which when divided by 5 and 13 leaves remainder 3 = 975 + 3 = 978</p><p>Remainder when 978 is divided by 11 = 978/11 = (968 + 10)/11 = [(88 * 11)/11] + [10/11]</p><p>Hence, required remainder = 10</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q10",
+      "number": 10,
+      "question": "If 80% of A is 13 more than 90% of B and the ratio of 40% of A to the 60% of B is 10:9, then what is the value of A 2 -B 2 ? &#2351;&#2342;&#2367; A &#2325;&#2366; 80%, B &#2325;&#2375; 90% &#2360;&#2375; 13 &#2309;&#2343;&#2367;&#2325; &#2361;&#2376; &#2324;&#2352; A &#2325;&#2375; 40% &#2340;&#2341;&#2366; B &#2325;&#2375; 60% &#2325;&#2366; &#2309;&#2344;&#2369;&#2346;&#2366;&#2340; 10:9 &#2361;&#2376;, &#2340;&#2379; A 2 -B 2 &#2325;&#2366; &#2350;&#2366;&#2344; &#2325;&#2381;&#2351;&#2366; &#2361;&#2379;&#2327;&#2366;?",
+      "questionHtml": "<span class=\"eqt\"><p>If 80% of A is 13 more than 90% of B and the ratio of 40% of A to the 60% of B is 10:9, then what is the value of A<sup>2</sup> -B<sup>2</sup>?</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2351;&#2342;&#2367; A &#2325;&#2366; 80%, B &#2325;&#2375; 90% &#2360;&#2375; 13 &#2309;&#2343;&#2367;&#2325; &#2361;&#2376; &#2324;&#2352; A &#2325;&#2375; 40% &#2340;&#2341;&#2366; B &#2325;&#2375; 60% &#2325;&#2366; &#2309;&#2344;&#2369;&#2346;&#2366;&#2340; 10:9 &#2361;&#2376;, &#2340;&#2379; A<sup>2</sup> -B<sup>2 </sup>&#2325;&#2366; &#2350;&#2366;&#2344; &#2325;&#2381;&#2351;&#2366; &#2361;&#2379;&#2327;&#2366;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1200 1200",
+          "html": "<span class=\"eqt\">1200</span><span class=\"hqt\" style=\"display:none\">1200</span>"
+        },
+        {
+          "id": "B",
+          "text": "1600 1600",
+          "html": "<span class=\"eqt\">1600</span><span class=\"hqt\" style=\"display:none\">1600</span>"
+        },
+        {
+          "id": "C",
+          "text": "1800 1800",
+          "html": "<span class=\"eqt\">1800</span><span class=\"hqt\" style=\"display:none\">1800</span>"
+        },
+        {
+          "id": "D",
+          "text": "1500 1500",
+          "html": "<span class=\"eqt\">1500</span><span class=\"hqt\" style=\"display:none\">1500</span>"
+        }
+      ],
+      "correctAnswer": null,
+      "solution": "<p>As per given,</p><p>(0.8A) -(0.9B) = 13..............................(1)</p><p>And</p><p>((0.4A)/(0.6B)) =10/9</p><p>((2/3) x (A/B)) =(10/9)</p><p>(A/B) =(5/3)</p><p>B = (3/5) A = 0.6A</p><p>Substituting in equation (1) we get</p><p>(0.8A)  -  (0.9 x 0.6A) = 13</p><p>(0.8A)  -  (0.54A) = 13</p><p>(0.26A) = 13</p><p>A = 50</p><p>B = 0.6 x 50 = 30</p><p>A<sup>2</sup> -B<sup>2</sup> = (A-B) x (A +B)</p><p>= (50-30) x (50 +30)</p><p>= 20 x 80 =1600</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q11",
+      "number": 11,
+      "question": "If x + (1/3x) = 2, what is the value of (x 4 + 4x 2 )/(36x 3 + 1)? &#2351;&#2342;&#2367; x + (1/3x) = 2 &#2361;&#2376;, &#2340;&#2379; (x 4 + 4x 2 )/(36x 3 + 1) &#2325;&#2366; &#2350;&#2366;&#2344; &#2325;&#2381;&#2351;&#2366; &#2361;&#2376;?",
+      "questionHtml": "<span class=\"eqt\"><p>If x + (1/3x) = 2, what is the value of (x<sup>4</sup> + 4x<sup>2</sup>)/(36x<sup>3</sup> + 1)?</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2351;&#2342;&#2367; x + (1/3x) = 2 &#2361;&#2376;, &#2340;&#2379; (x<sup>4</sup> + 4x<sup>2</sup>)/(36x<sup>3</sup> + 1) &#2325;&#2366; &#2350;&#2366;&#2344; &#2325;&#2381;&#2351;&#2366; &#2361;&#2376;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/3 1/3",
+          "html": "<span class=\"eqt\">1/3</span><span class=\"hqt\" style=\"display:none\">1/3</span>"
+        },
+        {
+          "id": "B",
+          "text": "1/6 1/6",
+          "html": "<span class=\"eqt\">1/6</span><span class=\"hqt\" style=\"display:none\">1/6</span>"
+        },
+        {
+          "id": "C",
+          "text": "1/4 1/4",
+          "html": "<span class=\"eqt\">1/4</span><span class=\"hqt\" style=\"display:none\">1/4</span>"
+        },
+        {
+          "id": "D",
+          "text": "1/9 1/9",
+          "html": "<span class=\"eqt\">1/9</span><span class=\"hqt\" style=\"display:none\">1/9</span>"
+        }
+      ],
+      "correctAnswer": null,
+      "solution": "<p>x + 1/3x = 2</p><p>=&gt; 3x<sup>2</sup> + 1 = 6x</p><p>=&gt; 3(x<sup>2</sup>  -  2x) = &#8722; 1</p><p>=&gt; 9(x<sup>2</sup>  -  2x)<sup>2</sup> = (&#8722;1)<sup>2</sup></p><p>=&gt; 9(x<sup>4</sup>  -  4x<sup>3</sup> + 4x<sup>2</sup>) = 1</p><p>=&gt; 9(x<sup>4</sup> + 4x<sup>2</sup>) &#8722; 36x<sup>3</sup> = 1</p><p>=&gt; 9(x<sup>4</sup> + 4x<sup>2</sup>) = 36x<sup>3</sup> + 1</p><p>&#8756; (x<sup>4</sup> + 4x<sup>2</sup>)/(36x<sup>3</sup> + 1) = 1/9</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q12",
+      "number": 12,
+      "question": "Ankita purchased a television and a camera for Rs.12, 000 and Rs.8, 000 respectively. She sold the television at a loss of 10 per cent and camera at a profit of 12 per cent. What is her overall loss/profit? &#2309;&#2306;&#2325;&#2367;&#2340;&#2366; &#2344;&#2375; &#2319;&#2325; &#2335;&#2375;&#2354;&#2368;&#2357;&#2367;&#2395;&#2344; &#2324;&#2352; &#2319;&#2325; &#2325;&#2376;&#2350;&#2352;&#2366; &#2325;&#2381;&#2352;&#2350;&#2358;&#2307; 12000 &#2352;&#2370;&#2346;&#2319; &#2324;&#2352; 8000 &#2352;&#2370;&#2346;&#2319; &#2350;&#2375;&#2306; &#2326;&#2352;&#2368;&#2342;&#2366;| &#2313;&#2360;&#2344;&#2375; &#2335;&#2375;&#2354;&#2368;&#2357;&#2367;&#2395;&#2344; &#2325;&#2379; 10% &#2325;&#2368; &#2361;&#2366;&#2344;&#2367; &#2324;&#2352; &#2325;&#2376;&#2350;&#2352;&#2375; &#2325;&#2379; 12% &#2325;&#2375; &#2354;&#2366;&#2349; &#2346;&#2352; &#2348;&#2375;&#2330; &#2342;&#2367;&#2351;&#2366;| &#2313;&#2360;&#2325;&#2366; &#2325;&#2369;&#2354; &#2354;&#2366;&#2349;/&#2361;&#2366;&#2344;&#2367; &#2325;&#2367;&#2340;&#2344;&#2366; &#2361;&#2376;?",
+      "questionHtml": "<span class=\"eqt\"><p>Ankita purchased a television and a camera for Rs.12, 000 and Rs.8, 000 respectively. She sold the television at a loss of 10 per cent and camera at a profit of 12 per cent. What is her overall loss/profit?</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2309;&#2306;&#2325;&#2367;&#2340;&#2366; &#2344;&#2375; &#2319;&#2325; &#2335;&#2375;&#2354;&#2368;&#2357;&#2367;&#2395;&#2344; &#2324;&#2352; &#2319;&#2325; &#2325;&#2376;&#2350;&#2352;&#2366; &#2325;&#2381;&#2352;&#2350;&#2358;&#2307; 12000 &#2352;&#2370;&#2346;&#2319; &#2324;&#2352; 8000 &#2352;&#2370;&#2346;&#2319; &#2350;&#2375;&#2306; &#2326;&#2352;&#2368;&#2342;&#2366;| &#2313;&#2360;&#2344;&#2375; &#2335;&#2375;&#2354;&#2368;&#2357;&#2367;&#2395;&#2344; &#2325;&#2379; 10% &#2325;&#2368; &#2361;&#2366;&#2344;&#2367; &#2324;&#2352; &#2325;&#2376;&#2350;&#2352;&#2375; &#2325;&#2379; 12% &#2325;&#2375; &#2354;&#2366;&#2349; &#2346;&#2352; &#2348;&#2375;&#2330; &#2342;&#2367;&#2351;&#2366;| &#2313;&#2360;&#2325;&#2366; &#2325;&#2369;&#2354; &#2354;&#2366;&#2349;/&#2361;&#2366;&#2344;&#2367; &#2325;&#2367;&#2340;&#2344;&#2366; &#2361;&#2376;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs.450 450 &#2352;&#2370;&#2346;&#2319;",
+          "html": "<span class=\"eqt\">Rs.450</span><span class=\"hqt\" style=\"display:none\">450 &#2352;&#2370;&#2346;&#2319;</span>"
+        },
+        {
+          "id": "B",
+          "text": "Rs.240 240 &#2352;&#2370;&#2346;&#2319;",
+          "html": "<span class=\"eqt\">Rs.240</span><span class=\"hqt\" style=\"display:none\">240 &#2352;&#2370;&#2346;&#2319;</span>"
+        },
+        {
+          "id": "C",
+          "text": "Rs.640 640 &#2352;&#2370;&#2346;&#2319;",
+          "html": "<span class=\"eqt\">Rs.640</span><span class=\"hqt\" style=\"display:none\">640 &#2352;&#2370;&#2346;&#2319;</span>"
+        },
+        {
+          "id": "D",
+          "text": "Rs.790 790 &#2352;&#2370;&#2346;&#2319;",
+          "html": "<span class=\"eqt\">Rs.790</span><span class=\"hqt\" style=\"display:none\">790 &#2352;&#2370;&#2346;&#2319;</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>TotalCP=Rs.(12000+8000)=Rs.20000</p> <p>TotalS.P=Rs.(12000 X  90/100+8000 X 112/100)</p> <p>Rs.19760</p> <p>Loss =Rs.(20000&#8722;19760)=Rs.240</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q13",
+      "number": 13,
+      "question": "The base of a parallelogram is 27 units and the area of the isosceles triangle drawn on the same base between the parallel lines of the parallelogram is 648 square units. Then find the vertical distance between the parallel lines. &#2319;&#2325; &#2360;&#2350;&#2366;&#2306;&#2340;&#2352; &#2330;&#2340;&#2369;&#2352;&#2381;&#2349;&#2369;&#2332; &#2325;&#2366; &#2310;&#2343;&#2366;&#2352; 27 &#2311;&#2325;&#2366;&#2312; &#2361;&#2376; &#2324;&#2352; &#2360;&#2350;&#2366;&#2306;&#2340;&#2352; &#2330;&#2340;&#2369;&#2352;&#2381;&#2349;&#2369;&#2332; &#2325;&#2368; &#2360;&#2350;&#2366;&#2344;&#2366;&#2306;&#2340;&#2352; &#2352;&#2375;&#2326;&#2366;&#2323;&#2306; &#2325;&#2375; &#2348;&#2368;&#2330; &#2311;&#2360;&#2368; &#2310;&#2343;&#2366;&#2352; &#2346;&#2352; &#2348;&#2344;&#2366;&#2319; &#2327;&#2319; &#2319;&#2325; &#2360;&#2350;&#2342;&#2381;&#2357;&#2367;&#2348;&#2366;&#2361;&#2369; &#2340;&#2381;&#2352;&#2367;&#2349;&#2369;&#2332; &#2325;&#2366; &#2325;&#2381;&#2359;&#2375;&#2340;&#2381;&#2352;&#2347;&#2354; 648 &#2357;&#2352;&#2381;&#2327; &#2311;&#2325;&#2366;&#2312; &#2361;&#2376;| &#2360;&#2350;&#2366;&#2344;&#2366;&#2306;&#2340;&#2352; &#2352;&#2375;&#2326;&#2366;&#2323;&#2306; &#2325;&#2375; &#2348;&#2368;&#2330; &#2325;&#2368; &#2313;&#2352;&#2381;&#2343;&#2381;&#2357;&#2366;&#2343;&#2352;/&#2354;&#2350;&#2381;&#2348;&#2357;&#2340; &#2342;&#2370;&#2352;&#2368; &#2332;&#2381;&#2334;&#2366;&#2340; &#2325;&#2352;&#2375;&#2306;?",
+      "questionHtml": "<span class=\"eqt\"><p>The base of a parallelogram is 27 units and the area of the isosceles triangle drawn on the same base between the parallel lines of the parallelogram is 648 square units. Then find the vertical distance between the parallel lines.</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2319;&#2325; &#2360;&#2350;&#2366;&#2306;&#2340;&#2352; &#2330;&#2340;&#2369;&#2352;&#2381;&#2349;&#2369;&#2332; &#2325;&#2366; &#2310;&#2343;&#2366;&#2352; 27 &#2311;&#2325;&#2366;&#2312; &#2361;&#2376; &#2324;&#2352; &#2360;&#2350;&#2366;&#2306;&#2340;&#2352; &#2330;&#2340;&#2369;&#2352;&#2381;&#2349;&#2369;&#2332; &#2325;&#2368; &#2360;&#2350;&#2366;&#2344;&#2366;&#2306;&#2340;&#2352; &#2352;&#2375;&#2326;&#2366;&#2323;&#2306; &#2325;&#2375; &#2348;&#2368;&#2330; &#2311;&#2360;&#2368; &#2310;&#2343;&#2366;&#2352; &#2346;&#2352; &#2348;&#2344;&#2366;&#2319; &#2327;&#2319; &#2319;&#2325; &#2360;&#2350;&#2342;&#2381;&#2357;&#2367;&#2348;&#2366;&#2361;&#2369; &#2340;&#2381;&#2352;&#2367;&#2349;&#2369;&#2332; &#2325;&#2366; &#2325;&#2381;&#2359;&#2375;&#2340;&#2381;&#2352;&#2347;&#2354; 648 &#2357;&#2352;&#2381;&#2327; &#2311;&#2325;&#2366;&#2312; &#2361;&#2376;| &#2360;&#2350;&#2366;&#2344;&#2366;&#2306;&#2340;&#2352; &#2352;&#2375;&#2326;&#2366;&#2323;&#2306; &#2325;&#2375; &#2348;&#2368;&#2330; &#2325;&#2368; &#2313;&#2352;&#2381;&#2343;&#2381;&#2357;&#2366;&#2343;&#2352;/&#2354;&#2350;&#2381;&#2348;&#2357;&#2340; &#2342;&#2370;&#2352;&#2368; &#2332;&#2381;&#2334;&#2366;&#2340; &#2325;&#2352;&#2375;&#2306;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "15 15",
+          "html": "<span class=\"eqt\">15</span><span class=\"hqt\" style=\"display:none\">15</span>"
+        },
+        {
+          "id": "B",
+          "text": "19 19",
+          "html": "<span class=\"eqt\">19</span><span class=\"hqt\" style=\"display:none\">19</span>"
+        },
+        {
+          "id": "C",
+          "text": "25 25",
+          "html": "<span class=\"eqt\">25</span><span class=\"hqt\" style=\"display:none\">25</span>"
+        },
+        {
+          "id": "D",
+          "text": "48 48",
+          "html": "<span class=\"eqt\">48</span><span class=\"hqt\" style=\"display:none\">48</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The base of the isosceles triangle is the base of the parallelogram, i.e. 27 units.</p><p>And the isosceles triangle is constructed between the parallel lines of the parallelogram. So, the altitude of that triangle becomes the vertical distance between the parallel lines.</p> <p>Now, the area of the triangle = 1/2 x base x altitude = 648 square units.</p> <p>Or,1/2 x 27 x altitude = 648</p><p>Therefore, altitude = 648 * 2/ 27 = 48 units. Hence, option 4.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q14",
+      "number": 14,
+      "question": "The concentration of lemonade in three different mocktails ( lemonade and Soft drinks ) is 1/2, 2/3 and 2/4 respectively. If 3 liters, 6 liters and 1 litre are taken from these different vessels and mixed. What is the ratio of lemonade and Soft drinks in the new mixture? &#2340;&#2368;&#2344; &#2309;&#2354;&#2327;-&#2309;&#2354;&#2327; &#2350;&#2377;&#2325;&#2335;&#2375;&#2354; (&#2354;&#2375;&#2350;&#2344;&#2375;&#2337; &#2324;&#2352; &#2360;&#2377;&#2347;&#2381;&#2335; &#2337;&#2381;&#2352;&#2367;&#2306;&#2325;) &#2350;&#2375;&#2306; &#2354;&#2375;&#2350;&#2344;&#2375;&#2337; &#2325;&#2368; &#2360;&#2366;&#2306;&#2342;&#2381;&#2352;&#2340;&#2366; &#2325;&#2381;&#2352;&#2350;&#2358;&#2307; 1/2, 2/3 &#2324;&#2352; 2/4 &#2361;&#2376;&#2306;| &#2351;&#2342;&#2367; &#2350;&#2377;&#2325;&#2335;&#2375;&#2354; &#2325;&#2375; &#2309;&#2354;&#2327;-&#2309;&#2354;&#2327; &#2348;&#2352;&#2381;&#2340;&#2344;&#2379;&#2306; &#2350;&#2375;&#2306; &#2360;&#2375; 3 &#2354;&#2368;&#2335;&#2352;, 6 &#2354;&#2368;&#2335;&#2352; &#2324;&#2352; 1 &#2354;&#2368;&#2335;&#2352; &#2350;&#2367;&#2358;&#2381;&#2352;&#2339; &#2325;&#2379; &#2344;&#2367;&#2325;&#2366;&#2354;&#2366; &#2332;&#2366;&#2340;&#2366; &#2361;&#2376; &#2324;&#2352; &#2350;&#2367;&#2358;&#2381;&#2352;&#2367;&#2340; &#2325;&#2367;&#2351;&#2366; &#2332;&#2366;&#2340;&#2366; &#2361;&#2376;| &#2340;&#2379; &#2344;&#2319; &#2350;&#2367;&#2358;&#2381;&#2352;&#2339; &#2350;&#2375;&#2306; &#2354;&#2375;&#2350;&#2344;&#2375;&#2337; &#2324;&#2352; &#2360;&#2377;&#2347;&#2381;&#2335; &#2337;&#2381;&#2352;&#2367;&#2306;&#2325; &#2325;&#2366; &#2309;&#2344;&#2369;&#2346;&#2366;&#2340; &#2325;&#2367;&#2340;&#2344;&#2366; &#2361;&#2376;?",
+      "questionHtml": "<span class=\"eqt\"><p>The concentration of lemonade in three different mocktails ( lemonade and Soft drinks ) is 1/2, 2/3 and 2/4 respectively. If 3 liters, 6 liters and 1 litre are taken from these different vessels and mixed. What is the ratio of lemonade and Soft drinks in the new mixture?</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2340;&#2368;&#2344; &#2309;&#2354;&#2327;-&#2309;&#2354;&#2327; &#2350;&#2377;&#2325;&#2335;&#2375;&#2354; (&#2354;&#2375;&#2350;&#2344;&#2375;&#2337; &#2324;&#2352; &#2360;&#2377;&#2347;&#2381;&#2335; &#2337;&#2381;&#2352;&#2367;&#2306;&#2325;) &#2350;&#2375;&#2306; &#2354;&#2375;&#2350;&#2344;&#2375;&#2337; &#2325;&#2368; &#2360;&#2366;&#2306;&#2342;&#2381;&#2352;&#2340;&#2366; &#2325;&#2381;&#2352;&#2350;&#2358;&#2307; 1/2, 2/3 &#2324;&#2352; 2/4 &#2361;&#2376;&#2306;| &#2351;&#2342;&#2367; &#2350;&#2377;&#2325;&#2335;&#2375;&#2354; &#2325;&#2375; &#2309;&#2354;&#2327;-&#2309;&#2354;&#2327; &#2348;&#2352;&#2381;&#2340;&#2344;&#2379;&#2306; &#2350;&#2375;&#2306; &#2360;&#2375; 3 &#2354;&#2368;&#2335;&#2352;, 6 &#2354;&#2368;&#2335;&#2352; &#2324;&#2352; 1 &#2354;&#2368;&#2335;&#2352; &#2350;&#2367;&#2358;&#2381;&#2352;&#2339; &#2325;&#2379; &#2344;&#2367;&#2325;&#2366;&#2354;&#2366; &#2332;&#2366;&#2340;&#2366; &#2361;&#2376; &#2324;&#2352; &#2350;&#2367;&#2358;&#2381;&#2352;&#2367;&#2340; &#2325;&#2367;&#2351;&#2366; &#2332;&#2366;&#2340;&#2366; &#2361;&#2376;| &#2340;&#2379; &#2344;&#2319; &#2350;&#2367;&#2358;&#2381;&#2352;&#2339; &#2350;&#2375;&#2306; &#2354;&#2375;&#2350;&#2344;&#2375;&#2337; &#2324;&#2352; &#2360;&#2377;&#2347;&#2381;&#2335; &#2337;&#2381;&#2352;&#2367;&#2306;&#2325; &#2325;&#2366; &#2309;&#2344;&#2369;&#2346;&#2366;&#2340; &#2325;&#2367;&#2340;&#2344;&#2366; &#2361;&#2376;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3:2 3:2",
+          "html": "<span class=\"eqt\">3:2</span><span class=\"hqt\" style=\"display:none\">3:2</span>"
+        },
+        {
+          "id": "B",
+          "text": "3:4 3:4",
+          "html": "<span class=\"eqt\">3:4</span><span class=\"hqt\" style=\"display:none\">3:4</span>"
+        },
+        {
+          "id": "C",
+          "text": "2:4 2:4",
+          "html": "<span class=\"eqt\">2:4</span><span class=\"hqt\" style=\"display:none\">2:4</span>"
+        },
+        {
+          "id": "D",
+          "text": "2:5 2:5",
+          "html": "<span class=\"eqt\">2:5</span><span class=\"hqt\" style=\"display:none\">2:5</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Quantity of lemonade taken from 1<sup>st</sup> vessel = 1.5 litre out of 3 litres</p> <p>Quantity of lemonade taken from 2<sup>nd</sup> vessel = 4 litre out of 6 litres</p> <p>Quantity of lemonade taken from 3<sup>rd</sup> vessel = 0.5 litre from 1 litres. </p> <p>Therefore, total lemonade taken out from 1<sup>st</sup>, 2<sup>nd</sup> and 3<sup>rd</sup> vessel = (1.5+4+0.5) = 6 litre</p> <p>So, the quantity of Soft drinks = ( 3+6+1)- 6 litres. = 4 litres.</p> <p>So, the ratio of lemonade to Soft drinks = 6/4 = 3:2. </p> <p>Hence, option 1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q15",
+      "number": 15,
+      "question": "If tanq + cotq = 2, then what is the value of tan 7 q + cot 7 q? &#2351;&#2342;&#2367; tanq + cotq = 2 &#2361;&#2376;, &#2340;&#2379; tan 7 q + cot 7 q &#2325;&#2366; &#2350;&#2366;&#2344; &#2325;&#2381;&#2351;&#2366; &#2361;&#2376;?",
+      "questionHtml": "<span class=\"eqt\"><p>If tanq + cotq = 2, then what is the value of tan<sup>7</sup> q + cot<sup>7</sup> q?</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2351;&#2342;&#2367; tanq + cotq = 2 &#2361;&#2376;, &#2340;&#2379; tan<sup>7</sup> q + cot<sup>7</sup> q &#2325;&#2366; &#2350;&#2366;&#2344; &#2325;&#2381;&#2351;&#2366; &#2361;&#2376;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 7 2 7",
+          "html": "<span class=\"eqt\">2<sup>7</sup></span><span class=\"hqt\" style=\"display:none\">2<sup>7</sup></span>"
+        },
+        {
+          "id": "B",
+          "text": "2 -7 2 -7",
+          "html": "<span class=\"eqt\">2<sup>-7</sup></span><span class=\"hqt\" style=\"display:none\">2<sup>-7</sup></span>"
+        },
+        {
+          "id": "C",
+          "text": "&frac12; &frac12;",
+          "html": "<span class=\"eqt\">&frac12;</span><span class=\"hqt\" style=\"display:none\">&frac12;</span>"
+        },
+        {
+          "id": "D",
+          "text": "2 2",
+          "html": "<span class=\"eqt\">2</span><span class=\"hqt\" style=\"display:none\">2</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>&#8757; tanq +cotq =2</p> <p>tan q + 1/tan q = 2 </p><p>tan<sup>2</sup>q - 2 tan q + 1 = 0 or (tan q - 1)<sup>2</sup> = 0</p><p>So, tanq = 1</p><p>tan<sup>7</sup> q + cot<sup>7</sup> q = 1 + 1 = 2</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q16",
+      "number": 16,
+      "question": "A train 100 metre long completely passes a man walking in the same direction at 6 km/h in 5 seconds and a car travelling in the same direction in 6 seconds. At what speed is the car travelling? 100 &#2350;&#2368;&#2335;&#2352; &#2354;&#2350;&#2381;&#2348;&#2368; &#2319;&#2325; &#2352;&#2375;&#2354;, &#2360;&#2350;&#2366;&#2344; &#2342;&#2367;&#2358;&#2366; &#2360;&#2375; 6 &#2325;&#2367;&#2350;&#2368;/&#2328;&#2306;&#2335;&#2366; &#2325;&#2368; &#2327;&#2340;&#2367; &#2360;&#2375; &#2330;&#2354; &#2352;&#2361;&#2375; &#2319;&#2325; &#2357;&#2381;&#2351;&#2325;&#2381;&#2340;&#2367; &#2325;&#2379; 5 &#2360;&#2375;&#2325;&#2306;&#2337; &#2350;&#2375;&#2306; &#2346;&#2366;&#2352; &#2325;&#2352;&#2340;&#2368; &#2361;&#2376; &#2324;&#2352; &#2360;&#2350;&#2366;&#2344; &#2342;&#2367;&#2358;&#2366; &#2350;&#2375;&#2306; &#2351;&#2366;&#2340;&#2381;&#2352;&#2366; &#2325;&#2352; &#2352;&#2361;&#2368; &#2325;&#2366;&#2352; &#2325;&#2379; 6 &#2360;&#2375;&#2325;&#2306;&#2337; &#2350;&#2375;&#2306; &#2346;&#2366;&#2352; &#2325;&#2352;&#2340;&#2368; &#2361;&#2376;| &#2325;&#2366;&#2352; &#2325;&#2367;&#2360; &#2327;&#2340;&#2367; &#2360;&#2375; &#2351;&#2366;&#2340;&#2381;&#2352;&#2366; &#2325;&#2352; &#2352;&#2361;&#2368; &#2361;&#2376;?",
+      "questionHtml": "<span class=\"eqt\"><p>A train 100 metre long completely passes a man walking in the same direction at 6 km/h in 5 seconds and a car travelling in the same direction in 6 seconds. At what speed is the car travelling?</p></span><span class=\"hqt\" style=\"display:none\"><p>100 &#2350;&#2368;&#2335;&#2352; &#2354;&#2350;&#2381;&#2348;&#2368; &#2319;&#2325; &#2352;&#2375;&#2354;, &#2360;&#2350;&#2366;&#2344; &#2342;&#2367;&#2358;&#2366; &#2360;&#2375; 6 &#2325;&#2367;&#2350;&#2368;/&#2328;&#2306;&#2335;&#2366; &#2325;&#2368; &#2327;&#2340;&#2367; &#2360;&#2375; &#2330;&#2354; &#2352;&#2361;&#2375; &#2319;&#2325; &#2357;&#2381;&#2351;&#2325;&#2381;&#2340;&#2367; &#2325;&#2379; 5 &#2360;&#2375;&#2325;&#2306;&#2337; &#2350;&#2375;&#2306; &#2346;&#2366;&#2352; &#2325;&#2352;&#2340;&#2368; &#2361;&#2376; &#2324;&#2352; &#2360;&#2350;&#2366;&#2344; &#2342;&#2367;&#2358;&#2366; &#2350;&#2375;&#2306; &#2351;&#2366;&#2340;&#2381;&#2352;&#2366; &#2325;&#2352; &#2352;&#2361;&#2368; &#2325;&#2366;&#2352; &#2325;&#2379; 6 &#2360;&#2375;&#2325;&#2306;&#2337; &#2350;&#2375;&#2306; &#2346;&#2366;&#2352; &#2325;&#2352;&#2340;&#2368; &#2361;&#2376;| &#2325;&#2366;&#2352; &#2325;&#2367;&#2360; &#2327;&#2340;&#2367; &#2360;&#2375; &#2351;&#2366;&#2340;&#2381;&#2352;&#2366; &#2325;&#2352; &#2352;&#2361;&#2368; &#2361;&#2376;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "18 km/h 18 &#2325;&#2367;&#2350;&#2368;/&#2328;&#2306;&#2335;&#2366;",
+          "html": "<span class=\"eqt\">18 km/h</span><span class=\"hqt\" style=\"display:none\">18 &#2325;&#2367;&#2350;&#2368;/&#2328;&#2306;&#2335;&#2366;</span>"
+        },
+        {
+          "id": "B",
+          "text": "36 km/h 36 &#2325;&#2367;&#2350;&#2368;/&#2328;&#2306;&#2335;&#2366;",
+          "html": "<span class=\"eqt\">36 km/h</span><span class=\"hqt\" style=\"display:none\">36 &#2325;&#2367;&#2350;&#2368;/&#2328;&#2306;&#2335;&#2366;</span>"
+        },
+        {
+          "id": "C",
+          "text": "27 km/h 27 &#2325;&#2367;&#2350;&#2368;/&#2328;&#2306;&#2335;&#2366;",
+          "html": "<span class=\"eqt\">27 km/h</span><span class=\"hqt\" style=\"display:none\">27 &#2325;&#2367;&#2350;&#2368;/&#2328;&#2306;&#2335;&#2366;</span>"
+        },
+        {
+          "id": "D",
+          "text": "45 km/h 45 &#2325;&#2367;&#2350;&#2368;/&#2328;&#2306;&#2335;&#2366;",
+          "html": "<span class=\"eqt\">45 km/h</span><span class=\"hqt\" style=\"display:none\">45 &#2325;&#2367;&#2350;&#2368;/&#2328;&#2306;&#2335;&#2366;</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Let the speeds of train and car be T km/h and C km/h respectively.</p> <p>According to question,</p> <div><div style=\"display: inline-block;position: relative;vertical-align: middle;\"><span style=\"text-align:center;display: block; padding: 0;\">100</span><span style=\"display: block; padding: 0;position: absolute; top: 0em; display: none;letter-spacing: -0.1em;\">_________</span><span style=\"display: block; padding: 0;border-top: thin solid black; text-align:center\">(T - 6) x (5/18)</span></div>&nbsp; = 5&nbsp;</div><p>T - 6 = 100 x 18/(5x5) = 72</p><p>T = 78 km/hr</p><div><div style=\"display: inline-block;position: relative;vertical-align: middle;\"><span style=\"text-align:center;display: block; padding: 0;\">100</span><span style=\"display: block; padding: 0;position: absolute; top: 0em; display: none;letter-spacing: -0.1em;\">_________</span><span style=\"display: block; padding: 0;border-top: thin solid black; text-align:center\">(T - C) x (5/18)</span></div>&nbsp; = 6&nbsp;</div><p>T - C = 18 x 100/(5 x 6) = 60</p><p>C = 78 - 60 = 18</p><p>Hence, speed of car is 18 km/h.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q17",
+      "number": 17,
+      "question": "Evaluate: [2(1 - sin &theta;) - cos 2 &theta;] x [2(1 + sin &theta;) - cos 2 &theta;] _________ cos 4 &theta; &#2350;&#2370;&#2354;&#2381;&#2351;&#2366;&#2306;&#2325;&#2344; &#2325;&#2352;&#2375;&#2306;: [2(1 - sin &theta;) - cos 2 &theta;] x [2(1 + sin &theta;) - cos 2 &theta;] _________ cos 4 &theta;",
+      "questionHtml": "<span class=\"eqt\"><div>&nbsp;Evaluate: &nbsp;<div style=\"display: inline-block;position: relative;vertical-align: middle;\"><span style=\"text-align:center;display: block; padding: 0;\">[2(1 - sin &theta;) - cos<sup>2</sup> &theta;] x [2(1 + sin &theta;) - cos<sup>2</sup> &theta;]</span><span style=\"display: block; padding: 0;position: absolute; top: 0em; display: none;letter-spacing: -0.1em;\">_________</span><span style=\"display: block; padding: 0;border-top: thin solid black; text-align:center\">cos<sup>4</sup> &theta;</span></div></div></span><span class=\"hqt\" style=\"display:none\"><div>&#2350;&#2370;&#2354;&#2381;&#2351;&#2366;&#2306;&#2325;&#2344; &#2325;&#2352;&#2375;&#2306;: &nbsp;<div style=\"display: inline-block;position: relative;vertical-align: middle;\"><span style=\"text-align:center;display: block; padding: 0;\">[2(1 - sin &theta;) - cos<sup>2</sup> &theta;] x [2(1 + sin &theta;) - cos<sup>2</sup> &theta;]</span><span style=\"display: block; padding: 0;position: absolute; top: 0em; display: none;letter-spacing: -0.1em;\">_________</span><span style=\"display: block; padding: 0;border-top: thin solid black; text-align:center\">cos<sup>4</sup> &theta;</span></div></div></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "-1 -1",
+          "html": "<span class=\"eqt\">-1</span><span class=\"hqt\" style=\"display:none\">-1</span>"
+        },
+        {
+          "id": "B",
+          "text": "0 0",
+          "html": "<span class=\"eqt\">0</span><span class=\"hqt\" style=\"display:none\">0</span>"
+        },
+        {
+          "id": "C",
+          "text": "1 1",
+          "html": "<span class=\"eqt\">1</span><span class=\"hqt\" style=\"display:none\">1</span>"
+        },
+        {
+          "id": "D",
+          "text": "4 4",
+          "html": "<span class=\"eqt\">4</span><span class=\"hqt\" style=\"display:none\">4</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": " <p>2(1 - sin &theta;) - cos<sup>2</sup> &theta; </p><p>= 2(1 - sin &theta;) - (1 - sin <sup>2</sup>&theta;)</p><p>= 2(1 - sin &theta;) - (1 - sin &theta;)(1 + sin &theta;)</p><p>= (1 - sin &theta;)(2 - 1 - sin &theta;) = (1 - sin &theta;)<sup>2</sup></p><p>2(1 + sin &theta;) - cos<sup>2</sup> &theta;</p><p>= 2(1 + sin &theta;) - (1 - sin <sup>2</sup>&theta;)</p><p>= 2(1 + sin &theta;) - (1 - sin &theta;)(1 + sin &theta;)</p><p>= (1 + sin &theta;)(2 - 1 + sin &theta;) = (1 + sin &theta;)<sup>2</sup></p><p>So, numerator becomes: (1 - sin &theta;)<sup>2</sup> x (1 + sin &theta;)<sup>2</sup></p><p>= [(1 - sin &theta;)(1 + sin &theta;)]<sup>2</sup> = (cos<sup>2</sup> &theta;)<sup>2</sup></p><p>= cos<sup>4</sup> &theta;</p><p>So required value = cos<sup>4</sup> &theta;/cos<sup>4</sup> &theta; = 1</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q18",
+      "number": 18,
+      "question": "If O is circumcentre of triangle PQR, &ang;QPR=80&deg; and &ang;PQR=50&deg;, then find the value of &ang;OPQ? &#2351;&#2342;&#2367; O &#2340;&#2381;&#2352;&#2367;&#2349;&#2369;&#2332; PQR &#2325;&#2366; &#2346;&#2352;&#2367;&#2325;&#2375;&#2306;&#2342;&#2381;&#2352; &#2361;&#2376;, &#8736;QPR=80&deg; &#2324;&#2352; &#8736;PQR=50&deg; &#2361;&#2376;, &#2340;&#2379; &#8736;OPQ &#2325;&#2366; &#2350;&#2366;&#2344; &#2332;&#2381;&#2334;&#2366;&#2340; &#2325;&#2352;&#2375;&#2306;?",
+      "questionHtml": "<span class=\"eqt\"><p>If O is circumcentre of triangle PQR, &ang;QPR=80&deg; and &ang;PQR=50&deg;, then find the value of &ang;OPQ?</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2351;&#2342;&#2367; O &#2340;&#2381;&#2352;&#2367;&#2349;&#2369;&#2332; PQR &#2325;&#2366; &#2346;&#2352;&#2367;&#2325;&#2375;&#2306;&#2342;&#2381;&#2352; &#2361;&#2376;, &#8736;QPR=80&deg; &#2324;&#2352; &#8736;PQR=50&deg; &#2361;&#2376;, &#2340;&#2379; &#8736;OPQ &#2325;&#2366; &#2350;&#2366;&#2344; &#2332;&#2381;&#2334;&#2366;&#2340; &#2325;&#2352;&#2375;&#2306;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "55&deg; 55&deg;",
+          "html": "<span class=\"eqt\">55&deg;</span><span class=\"hqt\" style=\"display:none\">55&deg;</span>"
+        },
+        {
+          "id": "B",
+          "text": "45&deg; 45&deg;",
+          "html": "<span class=\"eqt\">45&deg;</span><span class=\"hqt\" style=\"display:none\">45&deg;</span>"
+        },
+        {
+          "id": "C",
+          "text": "50&deg; 50&deg;",
+          "html": "<span class=\"eqt\">50&deg;</span><span class=\"hqt\" style=\"display:none\">50&deg;</span>"
+        },
+        {
+          "id": "D",
+          "text": "40&deg; 40&deg;",
+          "html": "<span class=\"eqt\">40&deg;</span><span class=\"hqt\" style=\"display:none\">40&deg;</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><img width=221 height=234 id=\"Picture 1\" src=\"https://u1.oliveboard.in/exams/solution/oliveimg/388743/image002.png\"></p><p>Given &ang;QPR=80&deg; and &ang;PQR=50&deg;</p><p>&ang;POR=2*&ang;PQR=2*50&deg;=100&deg;</p><p>&ang;QOR=2*&ang;QPR=2*80&deg;=160&deg;</p><p>There &ang;POQ=360&deg;-160&deg;-100&deg;=100&deg;</p><p>&ang;OPQ= (180&deg;-100&deg;)/2=40&deg;</p>",
+      "images": [
+        "https://u1.oliveboard.in/exams/solution/oliveimg/388743/image002.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q19",
+      "number": 19,
+      "question": "The perimeter of a square is one fourth the perimeter of a rectangle. If the perimeter of a square is 44 cm and the length of the rectangle is 51 cm, what is the difference between the breadth of the rectangle and the side of the square? &#2319;&#2325; &#2357;&#2352;&#2381;&#2327; &#2325;&#2366; &#2346;&#2352;&#2367;&#2350;&#2366;&#2346; &#2319;&#2325; &#2310;&#2351;&#2340; &#2325;&#2375; &#2346;&#2352;&#2367;&#2350;&#2366;&#2346; &#2325;&#2366; &#2319;&#2325; -&#2330;&#2380;&#2341;&#2366;&#2312; &#2361;&#2376;| &#2351;&#2342;&#2367; &#2357;&#2352;&#2381;&#2327; &#2325;&#2366; &#2346;&#2352;&#2367;&#2350;&#2366;&#2346; 44 &#2360;&#2375;&#2350;&#2368;. &#2361;&#2379; &#2324;&#2352; &#2310;&#2351;&#2340; &#2325;&#2368; &#2354;&#2350;&#2381;&#2348;&#2366;&#2312; 51 &#2360;&#2375;&#2350;&#2368;. &#2361;&#2379;, &#2340;&#2379; &#2310;&#2351;&#2340; &#2325;&#2368; &#2330;&#2380;&#2396;&#2366;&#2312; &#2340;&#2341;&#2366; &#2357;&#2352;&#2381;&#2327; &#2325;&#2368; &#2349;&#2369;&#2332;&#2366; &#2325;&#2375; &#2348;&#2368;&#2330; &#2325;&#2367;&#2340;&#2344;&#2366; &#2309;&#2306;&#2340;&#2352; &#2361;&#2376;?",
+      "questionHtml": "<span class=\"eqt\"><p>The perimeter of a square is one fourth the perimeter of a rectangle. If the perimeter of a square is 44 cm and the length of the rectangle is 51 cm, what is the difference between the breadth of the rectangle and the side of the square?</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2319;&#2325; &#2357;&#2352;&#2381;&#2327; &#2325;&#2366; &#2346;&#2352;&#2367;&#2350;&#2366;&#2346; &#2319;&#2325; &#2310;&#2351;&#2340; &#2325;&#2375; &#2346;&#2352;&#2367;&#2350;&#2366;&#2346; &#2325;&#2366; &#2319;&#2325; -&#2330;&#2380;&#2341;&#2366;&#2312; &#2361;&#2376;| &#2351;&#2342;&#2367; &#2357;&#2352;&#2381;&#2327; &#2325;&#2366; &#2346;&#2352;&#2367;&#2350;&#2366;&#2346; 44 &#2360;&#2375;&#2350;&#2368;. &#2361;&#2379; &#2324;&#2352; &#2310;&#2351;&#2340; &#2325;&#2368; &#2354;&#2350;&#2381;&#2348;&#2366;&#2312; 51 &#2360;&#2375;&#2350;&#2368;. &#2361;&#2379;, &#2340;&#2379; &#2310;&#2351;&#2340; &#2325;&#2368; &#2330;&#2380;&#2396;&#2366;&#2312; &#2340;&#2341;&#2366; &#2357;&#2352;&#2381;&#2327; &#2325;&#2368; &#2349;&#2369;&#2332;&#2366; &#2325;&#2375; &#2348;&#2368;&#2330; &#2325;&#2367;&#2340;&#2344;&#2366; &#2309;&#2306;&#2340;&#2352; &#2361;&#2376;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "30 cm 30 &#2360;&#2375;&#2350;&#2368;.",
+          "html": "<span class=\"eqt\">30 cm</span><span class=\"hqt\" style=\"display:none\">30 &#2360;&#2375;&#2350;&#2368;.</span>"
+        },
+        {
+          "id": "B",
+          "text": "45 cm 45 &#2360;&#2375;&#2350;&#2368;.",
+          "html": "<span class=\"eqt\">45 cm</span><span class=\"hqt\" style=\"display:none\">45 &#2360;&#2375;&#2350;&#2368;.</span>"
+        },
+        {
+          "id": "C",
+          "text": "26 cm 26 &#2360;&#2375;&#2350;&#2368;.",
+          "html": "<span class=\"eqt\">26 cm</span><span class=\"hqt\" style=\"display:none\">26 &#2360;&#2375;&#2350;&#2368;.</span>"
+        },
+        {
+          "id": "D",
+          "text": "22 cm 22 &#2360;&#2375;&#2350;&#2368;.",
+          "html": "<span class=\"eqt\">22 cm</span><span class=\"hqt\" style=\"display:none\">22 &#2360;&#2375;&#2350;&#2368;.</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let the side of the square = a cm</p><p>Perimeter of the square = 44 cm</p><p>4a = 44</p><p>a = 11 cm</p><p>Perimeter of square = 1/4 perimeter of rectangle</p><p>4a = 2/4 (L + B)</p><p>44 = 1/2 (51 + B)</p><p>88 = 51 + B</p><p>B = 88  -  51</p><p>B = 37</p><p>Difference between the breadth of the rectangle and the side of the square = 37  -  11 = 26 cm</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q20",
+      "number": 20,
+      "question": "There were 54 students in a hostel. Due to the admission of 9 new students, the expenses of the mess were increased by Rs. 45 per day while the average expenditure per head diminished by Rs 2. What was the original expenditure of the mess? &#2319;&#2325; &#2331;&#2366;&#2340;&#2381;&#2352;&#2366;&#2357;&#2366;&#2360; &#2350;&#2375;&#2306; 54 &#2357;&#2367;&#2342;&#2381;&#2351;&#2366;&#2352;&#2381;&#2341;&#2368; &#2341;&#2375;| 9 &#2344;&#2319; &#2357;&#2367;&#2342;&#2381;&#2351;&#2366;&#2352;&#2381;&#2341;&#2367;&#2351;&#2379;&#2306; &#2325;&#2375; &#2346;&#2381;&#2352;&#2357;&#2375;&#2358; &#2325;&#2375; &#2325;&#2366;&#2352;&#2339; &#2350;&#2375;&#2360; &#2325;&#2366; &#2357;&#2381;&#2351;&#2351; &#2346;&#2381;&#2352;&#2340;&#2367; &#2342;&#2367;&#2344; 45 &#2352;&#2370;&#2346;&#2319; &#2348;&#2397; &#2327;&#2351;&#2366; &#2332;&#2348;&#2325;&#2367; &#2346;&#2381;&#2352;&#2340;&#2367; &#2357;&#2367;&#2342;&#2381;&#2351;&#2366;&#2352;&#2381;&#2341;&#2368; &#2325;&#2366; &#2357;&#2381;&#2351;&#2351; 2 &#2352;&#2370;&#2346;&#2319; &#2325;&#2350; &#2361;&#2379; &#2327;&#2351;&#2366;| &#2350;&#2375;&#2360; &#2325;&#2366; &#2357;&#2366;&#2360;&#2381;&#2340;&#2357;&#2367;&#2325; &#2357;&#2381;&#2351;&#2351; &#2325;&#2367;&#2340;&#2344;&#2366; &#2341;&#2366;?",
+      "questionHtml": "<span class=\"eqt\"><p>There were 54 students in a hostel. Due to the admission of 9 new students, the expenses of the mess were increased by Rs. 45 per day while the average expenditure per head diminished by Rs 2. What was the original expenditure of the mess?</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2319;&#2325; &#2331;&#2366;&#2340;&#2381;&#2352;&#2366;&#2357;&#2366;&#2360; &#2350;&#2375;&#2306; 54 &#2357;&#2367;&#2342;&#2381;&#2351;&#2366;&#2352;&#2381;&#2341;&#2368; &#2341;&#2375;| 9 &#2344;&#2319; &#2357;&#2367;&#2342;&#2381;&#2351;&#2366;&#2352;&#2381;&#2341;&#2367;&#2351;&#2379;&#2306; &#2325;&#2375; &#2346;&#2381;&#2352;&#2357;&#2375;&#2358; &#2325;&#2375; &#2325;&#2366;&#2352;&#2339; &#2350;&#2375;&#2360; &#2325;&#2366; &#2357;&#2381;&#2351;&#2351; &#2346;&#2381;&#2352;&#2340;&#2367; &#2342;&#2367;&#2344; 45 &#2352;&#2370;&#2346;&#2319; &#2348;&#2397; &#2327;&#2351;&#2366; &#2332;&#2348;&#2325;&#2367; &#2346;&#2381;&#2352;&#2340;&#2367; &#2357;&#2367;&#2342;&#2381;&#2351;&#2366;&#2352;&#2381;&#2341;&#2368; &#2325;&#2366; &#2357;&#2381;&#2351;&#2351; 2 &#2352;&#2370;&#2346;&#2319; &#2325;&#2350; &#2361;&#2379; &#2327;&#2351;&#2366;| &#2350;&#2375;&#2360; &#2325;&#2366; &#2357;&#2366;&#2360;&#2381;&#2340;&#2357;&#2367;&#2325; &#2357;&#2381;&#2351;&#2351; &#2325;&#2367;&#2340;&#2344;&#2366; &#2341;&#2366;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs.1026 1026 &#2352;&#2370;&#2346;&#2319;",
+          "html": "<span class=\"eqt\">Rs.1026</span><span class=\"hqt\" style=\"display:none\">1026 &#2352;&#2370;&#2346;&#2319;</span>"
+        },
+        {
+          "id": "B",
+          "text": "Rs.1046 1046 &#2352;&#2370;&#2346;&#2319;",
+          "html": "<span class=\"eqt\">Rs.1046</span><span class=\"hqt\" style=\"display:none\">1046 &#2352;&#2370;&#2346;&#2319;</span>"
+        },
+        {
+          "id": "C",
+          "text": "Rs.1086 1086 &#2352;&#2370;&#2346;&#2319;",
+          "html": "<span class=\"eqt\">Rs.1086</span><span class=\"hqt\" style=\"display:none\">1086 &#2352;&#2370;&#2346;&#2319;</span>"
+        },
+        {
+          "id": "D",
+          "text": "Rs.1076 1076 &#2352;&#2370;&#2346;&#2319;",
+          "html": "<span class=\"eqt\">Rs.1076</span><span class=\"hqt\" style=\"display:none\">1076 &#2352;&#2370;&#2346;&#2319;</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Let the original average expenditure be Rs. a. Then,</p> <p>63 (a - 2) - 54a = 45; or a = 19 </p> <p>Original expenditure = Rs. (54x19) =Rs. 1026</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q21",
+      "number": 21,
+      "question": "Two poles of equal heights are on either side of a 100 m wide road. From a point on the road, the angles of elevation of their tops are 30&deg; and 60&deg;. Find the height of each pole. 100 &#2350;&#2368;&#2335;&#2352; &#2330;&#2380;&#2396;&#2368; &#2360;&#2396;&#2325; &#2325;&#2375; &#2342;&#2379;&#2344;&#2379;&#2306; &#2323;&#2352; &#2360;&#2350;&#2366;&#2344; &#2313;&#2306;&#2330;&#2366;&#2312; &#2325;&#2375; &#2342;&#2379; &#2326;&#2350;&#2381;&#2349;&#2375; &#2361;&#2376;&#2306;| &#2360;&#2396;&#2325; &#2346;&#2352; &#2319;&#2325; &#2348;&#2367;&#2306;&#2342;&#2369; &#2360;&#2375; &#2342;&#2379;&#2344;&#2379;&#2306; &#2326;&#2350;&#2381;&#2349;&#2379;&#2306; &#2325;&#2375; &#2358;&#2368;&#2352;&#2381;&#2359; &#2325;&#2375; &#2313;&#2344;&#2381;&#2344;&#2351;&#2344; &#2325;&#2379;&#2339; &#2325;&#2381;&#2352;&#2350;&#2358;&#2307; 30&deg; &#2324;&#2352; 60&deg;&#2361;&#2376;&#2306;| &#2346;&#2381;&#2352;&#2340;&#2381;&#2351;&#2375;&#2325; &#2326;&#2350;&#2381;&#2349;&#2375; &#2325;&#2368; &#2313;&#2306;&#2330;&#2366;&#2312; &#2325;&#2367;&#2340;&#2344;&#2368; &#2361;&#2376;?",
+      "questionHtml": "<span class=\"eqt\"><p>Two poles of equal heights are on either side of a 100 m wide road. From a point on the road, the angles of elevation of their tops are 30&deg; and 60&deg;. Find the height of each pole.</p></span><span class=\"hqt\" style=\"display:none\"><p>100 &#2350;&#2368;&#2335;&#2352; &#2330;&#2380;&#2396;&#2368; &#2360;&#2396;&#2325; &#2325;&#2375; &#2342;&#2379;&#2344;&#2379;&#2306; &#2323;&#2352; &#2360;&#2350;&#2366;&#2344; &#2313;&#2306;&#2330;&#2366;&#2312; &#2325;&#2375; &#2342;&#2379; &#2326;&#2350;&#2381;&#2349;&#2375; &#2361;&#2376;&#2306;| &#2360;&#2396;&#2325; &#2346;&#2352; &#2319;&#2325; &#2348;&#2367;&#2306;&#2342;&#2369; &#2360;&#2375; &#2342;&#2379;&#2344;&#2379;&#2306; &#2326;&#2350;&#2381;&#2349;&#2379;&#2306; &#2325;&#2375; &#2358;&#2368;&#2352;&#2381;&#2359; &#2325;&#2375; &#2313;&#2344;&#2381;&#2344;&#2351;&#2344; &#2325;&#2379;&#2339; &#2325;&#2381;&#2352;&#2350;&#2358;&#2307; 30&deg; &#2324;&#2352; 60&deg;&#2361;&#2376;&#2306;| &#2346;&#2381;&#2352;&#2340;&#2381;&#2351;&#2375;&#2325; &#2326;&#2350;&#2381;&#2349;&#2375; &#2325;&#2368; &#2313;&#2306;&#2330;&#2366;&#2312; &#2325;&#2367;&#2340;&#2344;&#2368; &#2361;&#2376;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "25&radic;3 m 25&radic;3 &#2350;&#2368;.",
+          "html": "<span class=\"eqt\">25&radic;3 m</span><span class=\"hqt\" style=\"display:none\">25&radic;3 &#2350;&#2368;.</span>"
+        },
+        {
+          "id": "B",
+          "text": "20&radic;3 m 20&radic;3 &#2350;&#2368;.",
+          "html": "<span class=\"eqt\">20&radic;3 m</span><span class=\"hqt\" style=\"display:none\">20&radic;3 &#2350;&#2368;.</span>"
+        },
+        {
+          "id": "C",
+          "text": "25 m 25 &#2350;&#2368;.",
+          "html": "<span class=\"eqt\">25 m</span><span class=\"hqt\" style=\"display:none\">25 &#2350;&#2368;.</span>"
+        },
+        {
+          "id": "D",
+          "text": "20 m 20 &#2350;&#2368;.",
+          "html": "<span class=\"eqt\">20 m</span><span class=\"hqt\" style=\"display:none\">20 &#2350;&#2368;.</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Let the height of poles be h m.</p> <p><img width=184 height=126 id=\"Picture 9\" src=\"https://u1.oliveboard.in/exams/solution/oliveimg/81355/image002.png\"></p> <p>Tan 60 = h/x</p> <p>=&gt; &radic;3 = h/x</p> <p>Or h = &radic;3 x</p> <p>Similarly, </p> <p>1/&radic;3 = h/(100-x)</p> <p>=&gt; 100-x = &radic;3 h = 3x</p> <p>=&gt; x = 25</p> <p>Therefore, h = 25&radic;3 m</p>",
+      "images": [
+        "https://u1.oliveboard.in/exams/solution/oliveimg/81355/image002.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q22",
+      "number": 22,
+      "question": "7 men work 8 hours per day to complete one third piece of work in 36 days. The rest work is done by 24 men working 6 hours per day, then in how many days the rest work will be completed? 7 &#2310;&#2342;&#2350;&#2368; 36 &#2342;&#2367;&#2344; &#2350;&#2375;&#2306; &#2325;&#2367;&#2360;&#2368; &#2325;&#2366;&#2350; &#2325;&#2366; &#2319;&#2325;-&#2340;&#2367;&#2361;&#2366;&#2312; &#2349;&#2366;&#2327; &#2346;&#2370;&#2352;&#2366; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319; &#2346;&#2381;&#2352;&#2340;&#2367; &#2342;&#2367;&#2344; 8 &#2328;&#2306;&#2335;&#2375; &#2325;&#2366;&#2350; &#2325;&#2352;&#2340;&#2375; &#2361;&#2376;&#2306;| &#2358;&#2375;&#2359; &#2325;&#2366;&#2352;&#2381;&#2351; 24 &#2310;&#2342;&#2350;&#2367;&#2351;&#2379;&#2306; &#2342;&#2381;&#2357;&#2366;&#2352;&#2366; &#2346;&#2381;&#2352;&#2340;&#2367; &#2342;&#2367;&#2344; 6 &#2328;&#2306;&#2335;&#2375; &#2325;&#2366;&#2350; &#2325;&#2352;&#2340;&#2375; &#2361;&#2369;&#2319; &#2325;&#2367;&#2340;&#2344;&#2375; &#2342;&#2367;&#2344; &#2350;&#2375;&#2306; &#2346;&#2370;&#2352;&#2366; &#2325;&#2352; &#2354;&#2367;&#2351;&#2366; &#2332;&#2366;&#2351;&#2375;&#2327;&#2366;?",
+      "questionHtml": "<span class=\"eqt\"><p>7 men work 8 hours per day to complete one third piece of work in 36 days. The rest work is done by 24 men working 6 hours per day, then in how many days the rest work will be completed?</p></span><span class=\"hqt\" style=\"display:none\"><p>7 &#2310;&#2342;&#2350;&#2368; 36 &#2342;&#2367;&#2344; &#2350;&#2375;&#2306; &#2325;&#2367;&#2360;&#2368; &#2325;&#2366;&#2350; &#2325;&#2366; &#2319;&#2325;-&#2340;&#2367;&#2361;&#2366;&#2312; &#2349;&#2366;&#2327; &#2346;&#2370;&#2352;&#2366; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319; &#2346;&#2381;&#2352;&#2340;&#2367; &#2342;&#2367;&#2344; 8 &#2328;&#2306;&#2335;&#2375; &#2325;&#2366;&#2350; &#2325;&#2352;&#2340;&#2375; &#2361;&#2376;&#2306;| &#2358;&#2375;&#2359; &#2325;&#2366;&#2352;&#2381;&#2351; 24 &#2310;&#2342;&#2350;&#2367;&#2351;&#2379;&#2306; &#2342;&#2381;&#2357;&#2366;&#2352;&#2366; &#2346;&#2381;&#2352;&#2340;&#2367; &#2342;&#2367;&#2344; 6 &#2328;&#2306;&#2335;&#2375; &#2325;&#2366;&#2350; &#2325;&#2352;&#2340;&#2375; &#2361;&#2369;&#2319; &#2325;&#2367;&#2340;&#2344;&#2375; &#2342;&#2367;&#2344; &#2350;&#2375;&#2306; &#2346;&#2370;&#2352;&#2366; &#2325;&#2352; &#2354;&#2367;&#2351;&#2366; &#2332;&#2366;&#2351;&#2375;&#2327;&#2366;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "25 days 25 &#2342;&#2367;&#2344;",
+          "html": "<span class=\"eqt\">25 days</span><span class=\"hqt\" style=\"display:none\">25 &#2342;&#2367;&#2344;</span>"
+        },
+        {
+          "id": "B",
+          "text": "28 days 28 &#2342;&#2367;&#2344;",
+          "html": "<span class=\"eqt\">28 days</span><span class=\"hqt\" style=\"display:none\">28 &#2342;&#2367;&#2344;</span>"
+        },
+        {
+          "id": "C",
+          "text": "30 days 30 &#2342;&#2367;&#2344;",
+          "html": "<span class=\"eqt\">30 days</span><span class=\"hqt\" style=\"display:none\">30 &#2342;&#2367;&#2344;</span>"
+        },
+        {
+          "id": "D",
+          "text": "20 days 20 &#2342;&#2367;&#2344;",
+          "html": "<span class=\"eqt\">20 days</span><span class=\"hqt\" style=\"display:none\">20 &#2342;&#2367;&#2344;</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>As we know, Total work= men x days x hours</p><p>Therefore using formula, M1D1H1/W1 = M2D2H2/W2</p><p>Here M<sub>1</sub>=7, D<sub>1</sub>=36, H<sub>1</sub>=8, W<sub>1</sub>=1/3</p><p>M<sub>2</sub>=24, D<sub>2</sub>=?, H<sub>2</sub>=6, W<sub>2</sub>= rest work = 2/3</p><p>We get, (7 X 36 X 8)/(1/3)= (24 X D2 X 6)/(2/3)</p><p>=&gt; D<sub>2</sub>= 28 days</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q23",
+      "number": 23,
+      "question": "11.333 x 11.333 x 11.333 + 1 _________ 11.333 x 11.333 - 11.333 + 1 = ? 11.333 x 11.333 x 11.333 + 1 _________ 11.333 x 11.333 - 11.333 + 1 = ?",
+      "questionHtml": "<span class=\"eqt\"><p></p><div><div style=\"display: inline-block;position: relative;vertical-align: middle;\"><span style=\"text-align:center;display: block; padding: 0;\">11.333 x 11.333 x 11.333 + 1</span><span style=\"display: block; padding: 0;position: absolute; top: 0em; display: none;letter-spacing: -0.1em;\">_________</span><span style=\"display: block; padding: 0;border-top: thin solid black; text-align:center\">11.333 x 11.333 - 11.333 + 1</span></div>&nbsp; = ?&nbsp;</div></span><span class=\"hqt\" style=\"display:none\"><div><div style=\"display: inline-block;position: relative;vertical-align: middle;\"><span style=\"text-align:center;display: block; padding: 0;\">11.333 x 11.333 x 11.333 + 1</span><span style=\"display: block; padding: 0;position: absolute; top: 0em; display: none;letter-spacing: -0.1em;\">_________</span><span style=\"display: block; padding: 0;border-top: thin solid black; text-align:center\">11.333 x 11.333 - 11.333 + 1</span></div>&nbsp; = ?&nbsp;</div></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10.333 10.333",
+          "html": "<span class=\"eqt\">10.333</span><span class=\"hqt\" style=\"display:none\">10.333</span>"
+        },
+        {
+          "id": "B",
+          "text": "11.333 11.333",
+          "html": "<span class=\"eqt\">11.333</span><span class=\"hqt\" style=\"display:none\">11.333</span>"
+        },
+        {
+          "id": "C",
+          "text": "12.333 12.333",
+          "html": "<span class=\"eqt\">12.333</span><span class=\"hqt\" style=\"display:none\">12.333</span>"
+        },
+        {
+          "id": "D",
+          "text": "13.333 13.333",
+          "html": "<span class=\"eqt\">13.333</span><span class=\"hqt\" style=\"display:none\">13.333</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>= ((11.333)<sup>3</sup> + (1)<sup>3</sup>) / ((11.333)<sup>2</sup> - 11.333*1 + (1)<sup>2</sup>)</p><p>Since, (a3 + b3) = (a2 - ab + b2) (a + b)</p><p>= (11.333 + 1)</p><p>= 12.333</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q24",
+      "number": 24,
+      "question": "In a triangle APB, AB is diameter of circumcircle of triangle APB, AP = 8cm and BP = 6cm. Find the length of perpendicular PN, which is drawn from P to intersect AB at N. &#2319;&#2325; &#2340;&#2381;&#2352;&#2367;&#2349;&#2369;&#2332; APB &#2350;&#2375;&#2306;, AB &#2340;&#2381;&#2352;&#2367;&#2349;&#2369;&#2332; APB &#2325;&#2375; &#2346;&#2352;&#2367;&#2357;&#2371;&#2340;&#2381;&#2340; &#2325;&#2366; &#2357;&#2381;&#2351;&#2366;&#2360; &#2361;&#2376;, AP = 8 &#2360;&#2375;&#2350;&#2368; &#2324;&#2352; BP = 6 &#2360;&#2375;&#2350;&#2368; &#2361;&#2376;| &#2354;&#2350;&#2381;&#2348; PN &#2325;&#2368; &#2354;&#2350;&#2381;&#2348;&#2366;&#2312; &#2332;&#2381;&#2334;&#2366;&#2340; &#2325;&#2352;&#2375;&#2306;, &#2332;&#2379; P &#2360;&#2375; &#2326;&#2368;&#2306;&#2330;&#2366; &#2332;&#2366;&#2340;&#2366; &#2361;&#2376; &#2324;&#2352; AB &#2325;&#2379; N &#2346;&#2352; &#2325;&#2366;&#2335;&#2340;&#2366; &#2361;&#2376;|",
+      "questionHtml": "<span class=\"eqt\"><p>In a triangle APB, AB is diameter of circumcircle of triangle APB, AP = 8cm and BP = 6cm. Find the length of perpendicular PN, which is drawn from P to intersect AB at N.</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2319;&#2325; &#2340;&#2381;&#2352;&#2367;&#2349;&#2369;&#2332; APB &#2350;&#2375;&#2306;, AB &#2340;&#2381;&#2352;&#2367;&#2349;&#2369;&#2332; APB &#2325;&#2375; &#2346;&#2352;&#2367;&#2357;&#2371;&#2340;&#2381;&#2340; &#2325;&#2366; &#2357;&#2381;&#2351;&#2366;&#2360; &#2361;&#2376;, AP = 8 &#2360;&#2375;&#2350;&#2368; &#2324;&#2352; BP = 6 &#2360;&#2375;&#2350;&#2368; &#2361;&#2376;| &#2354;&#2350;&#2381;&#2348; PN &#2325;&#2368; &#2354;&#2350;&#2381;&#2348;&#2366;&#2312; &#2332;&#2381;&#2334;&#2366;&#2340; &#2325;&#2352;&#2375;&#2306;, &#2332;&#2379; P &#2360;&#2375; &#2326;&#2368;&#2306;&#2330;&#2366; &#2332;&#2366;&#2340;&#2366; &#2361;&#2376; &#2324;&#2352; AB &#2325;&#2379; N &#2346;&#2352; &#2325;&#2366;&#2335;&#2340;&#2366; &#2361;&#2376;|</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5.6cm 5.6 &#2360;&#2375;&#2350;&#2368;&#2406;",
+          "html": "<span class=\"eqt\">5.6cm</span><span class=\"hqt\" style=\"display:none\">5.6 &#2360;&#2375;&#2350;&#2368;&#2406;</span>"
+        },
+        {
+          "id": "B",
+          "text": "4.8cm 4.8 &#2360;&#2375;&#2350;&#2368;&#2406;",
+          "html": "<span class=\"eqt\">4.8cm</span><span class=\"hqt\" style=\"display:none\">4.8 &#2360;&#2375;&#2350;&#2368;&#2406;</span>"
+        },
+        {
+          "id": "C",
+          "text": "9.6cm 9.6 &#2360;&#2375;&#2350;&#2368;&#2406;",
+          "html": "<span class=\"eqt\">9.6cm</span><span class=\"hqt\" style=\"display:none\">9.6 &#2360;&#2375;&#2350;&#2368;&#2406;</span>"
+        },
+        {
+          "id": "D",
+          "text": "5cm 5 &#2360;&#2375;&#2350;&#2368;&#2406;",
+          "html": "<span class=\"eqt\">5cm</span><span class=\"hqt\" style=\"display:none\">5 &#2360;&#2375;&#2350;&#2368;&#2406;</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>AP = 8cm</p><p>PB =6cm</p><p><img width=186 height=173 id=\"Picture 1\" src=\"https://u1.oliveboard.in/exams/solution/oliveimg/p951/image003.jpg\"></p><p>Clearly it is right angled triangle</p><p>AB = &radic;(8<sup>2</sup> + 6<sup>2</sup>) = 10</p><p>Area of triangle APB = 1/2*AP*PB</p><p>= 1/2*8*6 = 24</p><p>Area of triangle APB = 1/2*BA*PN</p><p>24 = 1/2*10*PN</p><p>=&gt; PN = 24/5 = 4.8cm</p>",
+      "images": [
+        "https://u1.oliveboard.in/exams/solution/oliveimg/p951/image003.jpg"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "200cffcfc96c-q25",
+      "number": 25,
+      "question": "Kruti took a loan at simple interest rate of 6% in the first year with an increase of 0.5% in each subsequent year. She paid interest of Rs 3,375/- after four years. How much loan did she take? &#2325;&#2381;&#2352;&#2369;&#2340;&#2367; &#2344;&#2375; &#2346;&#2361;&#2354;&#2375; &#2357;&#2352;&#2381;&#2359; &#2350;&#2375;&#2306; 6% &#2325;&#2368; &#2360;&#2366;&#2343;&#2366;&#2352;&#2339; &#2348;&#2381;&#2351;&#2366;&#2332; &#2342;&#2352; &#2346;&#2352; &#2315;&#2339; &#2354;&#2367;&#2351;&#2366;, &#2332;&#2367;&#2360;&#2325;&#2375; &#2348;&#2366;&#2342; &#2346;&#2381;&#2352;&#2340;&#2381;&#2351;&#2375;&#2325; &#2357;&#2352;&#2381;&#2359; &#2350;&#2375;&#2306; 0.5% &#2325;&#2368; &#2357;&#2371;&#2342;&#2381;&#2343;&#2367; &#2361;&#2369;&#2312;| &#2313;&#2360;&#2344;&#2375; &#2330;&#2366;&#2352; &#2357;&#2352;&#2381;&#2359; &#2348;&#2366;&#2342; 3,375 &#2352;&#2369;&#2346;&#2351;&#2375; &#2325;&#2375; &#2348;&#2381;&#2351;&#2366;&#2332; &#2325;&#2366; &#2349;&#2369;&#2327;&#2340;&#2366;&#2344; &#2325;&#2367;&#2351;&#2366;| &#2313;&#2360;&#2344;&#2375; &#2325;&#2367;&#2340;&#2344;&#2366; &#2315;&#2339; &#2354;&#2367;&#2351;&#2366; &#2341;&#2366;?",
+      "questionHtml": "<span class=\"eqt\"><p>Kruti took a loan at simple interest rate of 6% in the first year with an increase of 0.5% in each subsequent year. She paid interest of Rs 3,375/- after four years. How much loan did she take?</p></span><span class=\"hqt\" style=\"display:none\"><p>&#2325;&#2381;&#2352;&#2369;&#2340;&#2367; &#2344;&#2375; &#2346;&#2361;&#2354;&#2375; &#2357;&#2352;&#2381;&#2359; &#2350;&#2375;&#2306; 6% &#2325;&#2368; &#2360;&#2366;&#2343;&#2366;&#2352;&#2339; &#2348;&#2381;&#2351;&#2366;&#2332; &#2342;&#2352; &#2346;&#2352; &#2315;&#2339; &#2354;&#2367;&#2351;&#2366;, &#2332;&#2367;&#2360;&#2325;&#2375; &#2348;&#2366;&#2342; &#2346;&#2381;&#2352;&#2340;&#2381;&#2351;&#2375;&#2325; &#2357;&#2352;&#2381;&#2359; &#2350;&#2375;&#2306; 0.5% &#2325;&#2368; &#2357;&#2371;&#2342;&#2381;&#2343;&#2367; &#2361;&#2369;&#2312;| &#2313;&#2360;&#2344;&#2375; &#2330;&#2366;&#2352; &#2357;&#2352;&#2381;&#2359; &#2348;&#2366;&#2342; 3,375 &#2352;&#2369;&#2346;&#2351;&#2375; &#2325;&#2375; &#2348;&#2381;&#2351;&#2366;&#2332; &#2325;&#2366; &#2349;&#2369;&#2327;&#2340;&#2366;&#2344; &#2325;&#2367;&#2351;&#2366;| &#2313;&#2360;&#2344;&#2375; &#2325;&#2367;&#2340;&#2344;&#2366; &#2315;&#2339; &#2354;&#2367;&#2351;&#2366; &#2341;&#2366;?</p></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs 12,500/- 12,500 &#2352;&#2369;&#2346;&#2351;&#2375;",
+          "html": "<span class=\"eqt\">Rs 12,500/-</span><span class=\"hqt\" style=\"display:none\">12,500 &#2352;&#2369;&#2346;&#2351;&#2375;</span>"
+        },
+        {
+          "id": "B",
+          "text": "Rs 13,250/- 13,250 &#2352;&#2369;&#2346;&#2351;&#2375;",
+          "html": "<span class=\"eqt\">Rs 13,250/-</span><span class=\"hqt\" style=\"display:none\">13,250 &#2352;&#2369;&#2346;&#2351;&#2375;</span>"
+        },
+        {
+          "id": "C",
+          "text": "Rs 15,800/- 15,800 &#2352;&#2369;&#2346;&#2351;&#2375;",
+          "html": "<span class=\"eqt\">Rs 15,800/-</span><span class=\"hqt\" style=\"display:none\">15,800 &#2352;&#2369;&#2346;&#2351;&#2375;</span>"
+        },
+        {
+          "id": "D",
+          "text": "Cannot be determined &#2344;&#2367;&#2352;&#2381;&#2343;&#2366;&#2352;&#2367;&#2340; &#2344;&#2361;&#2368;&#2306; &#2325;&#2367;&#2351;&#2366; &#2332;&#2366; &#2360;&#2325;&#2340;&#2366;",
+          "html": "<span class=\"eqt\">Cannot be determined</span><span class=\"hqt\" style=\"display:none\">&#2344;&#2367;&#2352;&#2381;&#2343;&#2366;&#2352;&#2367;&#2340; &#2344;&#2361;&#2368;&#2306; &#2325;&#2367;&#2351;&#2366; &#2332;&#2366; &#2360;&#2325;&#2340;&#2366;</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": " <p>The rates of interest are 6%, 6.5%, 7% and 7.5% respectively.</p> <p>Interest = 3375 = P(6 + 6.5 + 7 + 7.5)/100 </p><p>P = 3375 x 100/27 = 12500</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

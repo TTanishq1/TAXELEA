@@ -1,0 +1,363 @@
+{
+  "id": "88290854fb4e",
+  "provider": "Testbook",
+  "sourceFile": "CT 53_ Geometry - Co-ordinate Geometry.html",
+  "sourcePath": "Testbook/files/CT 53_ Geometry - Co-ordinate Geometry.html",
+  "title": "CT 53: Geometry - Co-ordinate Geometry",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 9,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "88290854fb4e-q1",
+      "number": 1,
+      "question": "The distance between two points (-6, y) and (18, 6) is 26 units. Find the value of y.",
+      "questionHtml": "The distance between two points (-6, y) and (18, 6) is 26 units. Find the value of y.",
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "B",
+          "text": "-4",
+          "html": "-4"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "D",
+          "text": "-6",
+          "html": "-6"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">D = <span class=\"math-tex\">\\(\\sqrt{(18-(-6))^2 + (6-y)^2} \\)</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ 26 = <span class=\"math-tex\">\\(\\sqrt{(24)^2 + (6-y)^2} \\)</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">Squaring on both sides of the equation.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ 676 = 24<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> + (6 - y)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> ⇒ 676 = 576 + (6 - y)<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> ⇒ 100 = (6 - y)<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ 10<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> = (6 - y)<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">Taking square root on both sides of the equation.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ 10 = 6 - y ⇒ y = -4</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "88290854fb4e-q2",
+      "number": 2,
+      "question": "The distance of the point (3, 4, 5) from y-axis is",
+      "questionHtml": "The distance of the point (3, 4, 5) from y-axis is",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "D",
+          "text": "&radic;34",
+          "html": "&radic;34"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Concept Used:</strong></p>\n\n<p>For any point (x, y, z) if a perpendicular to y-axis is drawn, then intersection of that perpendicular to y-axis is (0, y, 0).</p>\n\n<div><span style=\"\">To find the distance between two points (x<sub>1</sub>, y<sub>1</sub>, z<sub>1</sub>) and (x<sub>2</sub>, y<sub>2</sub>, z<sub>2</sub>), we can use the distance formula:</span></div>\n\n<div><span style=\"\">Distance&nbsp;<span class=\"math-tex\">\\(= \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2 + (z_2-z_1)^2}\\)</span></span></div>\n\n<div><strong>Calculation:</strong></div>\n\n<p>For&nbsp;<span style=\"\">(3, 4, 5), intersection of perpendicular to y-axis from the given point meets y-axis at (0, 4, 0)</span></p>\n\n<p>Required distance&nbsp;<span class=\"math-tex\">\\(= \\sqrt{(3-0)^2 + (4-4)^2 + (5-0)^2}\\)</span></p>\n\n<p>&rArr;&nbsp;<span style=\"\">Required distance&nbsp;<span class=\"math-tex\">\\(= \\sqrt{9+25}=\\sqrt{34}\\)</span></span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "88290854fb4e-q3",
+      "number": 3,
+      "question": "Find the equation of line passing through the center of the circle of equation x 2 + y 2 - 8x - 6y + 1 = 0 and the slope of the line is 1.",
+      "questionHtml": "Find the equation of line passing through the center of the circle of equation&nbsp;x<sup>2</sup>&nbsp;+ y<sup>2&nbsp;</sup>- 8x - 6y + 1 = 0 and the slope of the line is 1.",
+      "options": [
+        {
+          "id": "A",
+          "text": "y = 2x - 1",
+          "html": "<span style=\"\">y = 2x - 1</span>"
+        },
+        {
+          "id": "B",
+          "text": "y = x - 2",
+          "html": "<span style=\"\">y = x - 2</span>"
+        },
+        {
+          "id": "C",
+          "text": "y = 4x - 1",
+          "html": "<span style=\"\">y = 4x - 1</span>"
+        },
+        {
+          "id": "D",
+          "text": "y = x - 1",
+          "html": "<span style=\"\">y = x - 1</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">Equation of circle&nbsp;x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">+ y</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2&nbsp;</span><span style=\"\">- 8x - 6y + 1 = 0</span></p>\n\n<p><span style=\"\">Slope value = 1</span></p>\n\n<p><span style=\"\"><strong>Formula used:</strong></span></p>\n\n<p>(1) The centre of the circle:&nbsp;</p>\n\n<p><span style=\"\">The standard equation of circle: x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">+ y</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2 </span><span style=\"\">+ 2gx&nbsp;+ 2fy&nbsp;+ c&nbsp;= 0</span></p>\n\n<p>Center: (-g, -f)</p>\n\n<p>(2) The equation of line: (slope-intercept form)</p>\n\n<p>y = mx + c</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><span style=\"\">Circle&#39;s&nbsp;equation:&nbsp;</span><span style=\"\">x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;</span><span style=\"\">+ y</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2&nbsp;</span><span style=\"\">- 8x - 6y + 1 = 0</span></p>\n\n<p>On comparing the given equation with the standard equation of circle, we get</p>\n\n<p><span style=\"\">The x-coordinate of the centre of the circle, g =&nbsp;<span class=\"math-tex\">\\(\\frac{-8}{-2}\\)</span></span>&nbsp;= 4</p>\n\n<p>The y-coordinate of the centre of the circle, f =&nbsp;<span class=\"math-tex\">\\(\\frac{-6}{-2}\\)</span>&nbsp;= 3</p>\n\n<p>The coordinate for the centre of the circle = (4, 3)</p>\n\n<p>Now,&nbsp;</p>\n\n<p>The slope of the required line, m = 1</p>\n\n<p>The equation of line is</p>\n\n<p>&rArr; y = mx + c</p>\n\n<p>&rArr; y = 1 &times; x + c</p>\n\n<p>&rArr; y = x + c</p>\n\n<p>According to the question,</p>\n\n<p>&rArr; 3 = 4&nbsp;+ c</p>\n\n<p>&rArr; c&nbsp;= -1</p>\n\n<p>Therefore, the equation of line:</p>\n\n<p>&rArr; y = x - 1</p>\n\n<p><strong>&there4; The required answer is&nbsp;<span style=\"\">y = x - 1.</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "88290854fb4e-q4",
+      "number": 4,
+      "question": "Find the equation of line passing through the reflection of a point (2, 3) over a line y = 2 and the slope 1.",
+      "questionHtml": "Find the equation of line passing through the reflection of a point (2, 3) over a line y = 2 and the slope 1.",
+      "options": [
+        {
+          "id": "A",
+          "text": "y = x",
+          "html": "<span style=\"\">y = x</span>"
+        },
+        {
+          "id": "B",
+          "text": "y = x - 1",
+          "html": "<span style=\"\">y = x - 1</span>"
+        },
+        {
+          "id": "C",
+          "text": "y = x - 2",
+          "html": "<span style=\"\">y = x - 2</span>"
+        },
+        {
+          "id": "D",
+          "text": "y = 2x - 1",
+          "html": "<span style=\"\">y = 2x - 1</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>The equation of the line passing through the reflection of a point (2, 3) over a line y = 2 and the slope 1.</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>(1) Reflection of a point (x, y) over a line (y = a) parallel to x-axis is&nbsp;(x, 2a - y).</p>\n\n<p style=\"\">(2) The equation of line: (slope-intercept form)</p>\n\n<p style=\"\">y = mx + c</p>\n\n<p style=\"\">Where m indicates the slope of the line and c is the y-intercept</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>According to the question,</p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/06/F2_Madhuri_Railways_08.06.2022_D7.png\" style=\"height: 211px; width: 280px;\" /></p>\n\n<p style=\"\">The reflection of a point (2, 3) over a line (y = 2) parallel to x-axis = [2, (2 &times; 2 - 3)] = (2, 1)</p>\n\n<p style=\"\"><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/06/F2_Madhuri_Railways_08.06.2022_D8.png\" style=\"height: 211px; width: 280px;\" /></p>\n\n<p style=\"\">Now,&nbsp;</p>\n\n<p style=\"\">The equation of line: (passing through (2, 1) and slope, m = 1)</p>\n\n<p style=\"\">Therefore,</p>\n\n<p style=\"\">&rArr; y = 1 &times; x + c</p>\n\n<p>&rArr; 1&nbsp;= 2&nbsp;+ c</p>\n\n<p>&rArr; c = -1</p>\n\n<p>Therefore, the required equation of line is,</p>\n\n<p>&rArr;&nbsp;y = x - 1</p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/06/F2_Madhuri_Railways_08.06.2022_D9.png\" style=\"height: 242px; width: 316px;\" /></p>\n\n<p style=\"\"><strong>&there4; The required equation of the line is&nbsp;<span style=\"\">y = x - 1.</span></strong></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/22/06/F2_Madhuri_Railways_08.06.2022_D7.png",
+        "https://storage.googleapis.com/tb-img/production/22/06/F2_Madhuri_Railways_08.06.2022_D8.png",
+        "https://storage.googleapis.com/tb-img/production/22/06/F2_Madhuri_Railways_08.06.2022_D9.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "88290854fb4e-q5",
+      "number": 5,
+      "question": "If points (2a, 0), (0, 2b) and (4, 4) are collinear, then \\(\\frac{1}{a}+\\frac{1}{b}\\) =",
+      "questionHtml": "If points (2a, 0), (0, 2b) and (4, 4) are collinear, then&nbsp;<span class=\"math-tex\">\\(\\frac{1}{a}+\\frac{1}{b}\\)</span>&nbsp;=",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{2}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{1}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{4}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Points = (2a, 0), (0, 2b), and (4, 4)</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>Area of triangle = <span class=\"math-tex\">\\(\\dfrac{1}{2}\\)</span>[x<sub>1</sub>(y<sub>2&nbsp;</sub>&minus; y<sub>3</sub>) + x<sub>2</sub>(y<sub>3&nbsp;</sub>&minus; y<sub>1</sub>) + x<sub>3</sub>(y<sub>1&nbsp;</sub>&minus; y<sub>2</sub>)] &nbsp;</p>\n\n<p>Where, (x<sub>1</sub>, y<sub>1</sub>), (x<sub>2</sub>, y<sub>2</sub>), and (x<sub>3</sub>, y<sub>3</sub>) are the coordinates of the three vertices of the triangle.</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Area of triangle =&nbsp;<span class=\"math-tex\">\\(\\dfrac{1}{2}\\)</span>[x<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">1</span>(y<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">2&nbsp;</span>&minus; y<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">3</span>) + x<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">2</span>(y<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">3&nbsp;</span>&minus; y<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">1</span>) + x<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">3</span>(y<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">1&nbsp;</span>&minus; y<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">2</span>)] &nbsp;</p>\n\n<p>Since, the points are collinear, the area = 0.</p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\dfrac{1}{2}\\)</span>[x<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">1</span>(y<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">2&nbsp;</span>&minus; y<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">3</span>) + x<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">2</span>(y<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">3&nbsp;</span>&minus; y<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">1</span>) + x<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">3</span>(y<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">1&nbsp;</span>&minus; y<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">2</span>)]&nbsp;= 0</p>\n\n<p>&rArr; [2a(2b - 4) + 0(4 - 0) + 4(0 - 2b)] = 0</p>\n\n<p>&rArr; 4ab - 8a - 8b&nbsp;= 0</p>\n\n<p>&rArr;&nbsp;ab = 2(a + b)</p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\dfrac{a+b}{ab}\\)</span>&nbsp;=&nbsp;<span class=\"math-tex\">\\(\\dfrac{1}{2}\\)</span></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\dfrac{1}{a}\\)</span>&nbsp;+ <span class=\"math-tex\">\\(\\dfrac{1}{b}\\)</span>&nbsp;=&nbsp;<span class=\"math-tex\">\\(\\dfrac{1}{2}\\)</span></p>\n\n<p><strong>&there4; The correct answer is <span class=\"math-tex\">\\(\\dfrac{1}{2}\\)</span>.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "88290854fb4e-q6",
+      "number": 6,
+      "question": "The lines x + y = 10 and -3x + y = 2 have a unique solution. What is the distance (in units) between the unique solution and the point of intersection of the line x + y = 10 and the x-axis?",
+      "questionHtml": "The lines x + y = 10 and -3x + y = 2 have a unique solution. What is the distance (in units) between the unique solution and the point of intersection of the line x + y = 10 and the x-axis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8&radic;2",
+          "html": "8&radic;2"
+        },
+        {
+          "id": "B",
+          "text": "10&radic;2",
+          "html": "10&radic;2"
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "D",
+          "text": "10",
+          "html": "10"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>The lines x + y = 10 and -3x + y = 2 have a unique solution.</p>\n\n<p>What is the distance (in units) between the unique solution and the point of intersection of the line x + y = 10 and the x-axis?</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Distance formula: <span class=\"math-tex\">\\(\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}\\)</span></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Solving the system of equations:</p>\n\n<p>x + y = 10 &nbsp;&nbsp;...(1)</p>\n\n<p>-3x + y = 2 &nbsp;&nbsp;...(2)</p>\n\n<p>Subtracting (2) from (1):</p>\n\n<p>&rArr; x + y - (-3x + y) = 10 - 2</p>\n\n<p>&rArr; x + y + 3x - y = 8</p>\n\n<p>&rArr; 4x = 8</p>\n\n<p>&rArr; x = 2</p>\n\n<p>Substituting x = 2 in (1):</p>\n\n<p>&rArr; 2 + y = 10</p>\n\n<p>&rArr; y = 8</p>\n\n<p>So, the unique solution is (2, 8).</p>\n\n<p>Point of intersection of x + y = 10 and x-axis:</p>\n\n<p>On the x-axis, y = 0.</p>\n\n<p>&rArr; x + 0 = 10</p>\n\n<p>&rArr; x = 10</p>\n\n<p>So, the point of intersection is (10, 0).</p>\n\n<p>Using the distance formula:</p>\n\n<p>&rArr; Distance = <span class=\"math-tex\">\\(\\sqrt{(10 - 2)^2 + (0 - 8)^2}\\)</span></p>\n\n<p>&rArr; Distance = <span class=\"math-tex\">\\(\\sqrt{8^2 + (-8)^2}\\)</span></p>\n\n<p>&rArr; Distance = <span class=\"math-tex\">\\(\\sqrt{64 + 64}\\)</span></p>\n\n<p>&rArr; Distance = <span class=\"math-tex\">\\(\\sqrt{128}\\)</span></p>\n\n<p>&rArr; Distance = 8&radic;2</p>\n\n<p><strong>&there4; The correct answer is option (1).</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "88290854fb4e-q7",
+      "number": 7,
+      "question": "The points A(0,-2) ,B(3,1) ,C(0,4) and D(-3,1) are the vertices of a ?",
+      "questionHtml": "The points A(0,-2) ,B(3,1) ,C(0,4) and D(-3,1) are the vertices of a ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rectangle",
+          "html": "Rectangle"
+        },
+        {
+          "id": "B",
+          "text": "Rhombus",
+          "html": "Rhombus"
+        },
+        {
+          "id": "C",
+          "text": "Square",
+          "html": "Square"
+        },
+        {
+          "id": "D",
+          "text": "Parallelogram",
+          "html": "Parallelogram"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<strong>Given:-</strong>&nbsp;<br />\n<br />\n<span style=\"color: rgb(88, 89, 91);   \">The points A(0,-2) ,B(3,1) ,C(0,4) and D(-3,1) are the vertices<br />\n<br />\n<strong>Formula used:-<br />\n&nbsp;&nbsp;</strong></span><br />\nDistance between two points&nbsp;=<span class=\"math-tex\">\\( \\sqrt{ (x_2 -x_1) ^2+(y_2 - y_1)^2} \\)</span>&nbsp;<strong>&nbsp;<br />\n<br />\nCalculation:-</strong><br />\n<br />\n&nbsp;<img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/02/F1_Vinanti_Others_10.02.23_D15.png\" style=\"width: 214px; height: 184px;\" /><br />\n<br />\n<span style=\"color: rgb(88, 89, 91);   \">Distance between point A &amp; point B<br />\n&nbsp;&nbsp;<br />\n&rArr; AB =&nbsp;&nbsp;<span class=\"math-tex\">\\( \\sqrt{( (3 -0) ^2+(1 - (-2))^2} \\)</span>&nbsp;=&nbsp;<span class=\"math-tex\">\\(\\sqrt{18}\\)</span>&nbsp;......(1)&nbsp;</span><br />\n<br />\nSimilarly BC,<br />\n<br />\n<span style=\"color: rgb(88, 89, 91);   \">&rArr; BC =&nbsp;<span class=\"math-tex\">\\( \\sqrt{ (0 -3) ^2+(4 - 1)^2} \\)</span>&nbsp;=&nbsp;<span class=\"math-tex\">\\( \\sqrt{18}\\)</span>&nbsp; &nbsp; .....(2)&nbsp;<br />\n<br />\nSimilarly CD,<br />\n<br />\n&rArr; CD =&nbsp;<span class=\"math-tex\">\\(\\sqrt{ (0 -3) ^2+(1 - (-2))^2} \\)</span>&nbsp;=&nbsp;<span class=\"math-tex\">\\( \\sqrt{18} \\)</span>&nbsp;......(3)<br />\n<br />\nSimilarly DA,<br />\n<br />\n&rArr;DA =&nbsp;<span class=\"math-tex\">\\(\\sqrt{ (-3-0) ^2+(1 - (-2))^2}\\)</span>&nbsp;=&nbsp;<span class=\"math-tex\">\\( \\sqrt{18} \\)</span>&nbsp;......(4)<br />\n<br />\nWe&nbsp;</span>can clearly see that&nbsp;&nbsp;AB = BC = CA = DA&nbsp;<br />\n<br />\nFrom this it is known that this vertical will either be of square or of rhombus<br />\n<br />\nNow we check diagonal so,<br />\n&nbsp;&nbsp;<br />\n<span style=\"color: rgb(88, 89, 91);   \">&rArr;&nbsp;</span>AC =&nbsp;<span class=\"math-tex\">\\(\\sqrt{ (0-0) ^2+(4 - (-2))^2}\\)</span><span style=\"color: rgb(88, 89, 91);   \">&nbsp;=&nbsp;<span class=\"math-tex\">\\(\\sqrt{36} \\)</span>&nbsp;= 6 ...(5)&nbsp;<br />\n<br />\nSimilarly BD,&nbsp;<br />\n&nbsp;</span><br />\n<span style=\"box-sizing: border-box;   \">&rArr; BD</span><span style=\"color: rgb(88, 89, 91);   \">&nbsp;=&nbsp;<span class=\"math-tex\">\\(\\sqrt{ (-3-3) ^2+(1 - 1)^2} \\)</span>&nbsp;=&nbsp;<span class=\"math-tex\">\\( \\sqrt{36} \\)</span>&nbsp;= 6 ....(6)&nbsp;<br />\n<br />\n∵ Diag. AC =&nbsp;&nbsp;Diag.BD&nbsp;&nbsp;</span><br />\n<br />\nThus all sides are equal and the diagonals are equal.&nbsp;<br />\n<br />\n<strong>&there4;&nbsp;ABCD is a <u>square</u></strong>",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/23/02/F1_Vinanti_Others_10.02.23_D15.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "88290854fb4e-q8",
+      "number": 8,
+      "question": "If the point C( \\(\\frac{31}{5}, \\frac{97}{5} \\) ) internally cuts the line joining the point A(2, 5) and B(9, 29) in the ratio of m : n, then find the ratio m : n.",
+      "questionHtml": "<span style=\"\">If the point C(</span><span class=\"math-tex\">\\(\\frac{31}{5}, \\frac{97}{5} \\)</span><span style=\"\">) internally cuts the line joining the point A(2, 5) and B(9, 29) in the ratio of m : n, then find the ratio m : n.</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 : 2",
+          "html": "3 : 2"
+        },
+        {
+          "id": "B",
+          "text": "2 : 5",
+          "html": "2 : 5"
+        },
+        {
+          "id": "C",
+          "text": "2 : 3",
+          "html": "2 : 3"
+        },
+        {
+          "id": "D",
+          "text": "5 : 2",
+          "html": "5 : 2"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"\"><span style=\"font-weight: 700;\">Given:</span></p>\n\n<p style=\"\">If the point C(<span class=\"math-tex\">\\(\\frac{31}{5}, \\frac{97}{5} \\)</span>) internally cuts the line joining the point A(2, 5) and B(9, 29) in the ratio of m : n.</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Formula used:</span></p>\n\n<p style=\"\">(1) Section formula:</p>\n\n<p style=\"\">(x, y) =&nbsp;<span class=\"math-tex\">\\((\\frac{mx_2 ~+~ nx_1}{m ~+~ n}, \\frac{my_2 ~+~ ny_1}{m ~+~ n})\\)</span></p>\n\n<p style=\"\">Where,&nbsp;</p>\n\n<p style=\"\">Point C(x, y) cuts the line joining the points A(x<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">1</span>, y<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">1</span>) and B(x<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">2</span>, y<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">2</span>) in the ratio of m&nbsp;: n.</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\">The ratio in which the line AB is divided is m : n.</p>\n\n<p style=\"\">A(x<span style=\"line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">1</span>, y<span style=\"line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">1</span>) =&nbsp;A(2, 5)</p>\n\n<p style=\"\">B(x<span style=\"line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">2</span>, y<span style=\"line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">2</span>) =&nbsp;B(9, 29)</p>\n\n<p style=\"\">C(x, y) =&nbsp;<span style=\"\">C(</span><span class=\"math-tex\">\\(\\frac{31}{5}, \\frac{97}{5} \\)</span><span style=\"\">)</span></p>\n\n<p style=\"\"><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/06/F2_Madhuri_Railways_08.06.2022_D2.png\" style=\"height: 102px; width: 299px;\" /></p>\n\n<p style=\"\">Bow, on substituting the value of the respective variable in the section&nbsp;formula, we get,</p>\n\n<p style=\"\">&rArr; <span style=\"\">C(</span><span class=\"math-tex\">\\(\\frac{31}{5}, \\frac{97}{5} \\)</span><span style=\"\">)</span>&nbsp;=&nbsp;<span class=\"math-tex\">\\((\\frac{m(9) ~+~ n(2)}{m ~+~ n}, \\frac{m(29) ~+~ n(5)}{m ~+~ n})\\)</span></p>\n\n<p style=\"\">Now, on comparing the respective values of x-coordinate, we get,</p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{m(9) ~+~ n(2)}{m ~+~ n} = \\frac{31}{5}\\)</span></p>\n\n<p>&rArr; 5 &times; (9m + 2n) = 31 &times; (m + n)</p>\n\n<p>&rArr; 45m + 10n = 31m + 31n</p>\n\n<p>&rArr; 14m &nbsp;= 21n</p>\n\n<p>&rArr;&nbsp;<strong><span class=\"math-tex\">\\(\\frac{m}{n} = \\frac{3}{2}\\)</span></strong></p>\n\n<p><strong>&there4; The required value of the ratio m : n is 3 : 2.</strong></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/22/06/F2_Madhuri_Railways_08.06.2022_D2.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "88290854fb4e-q9",
+      "number": 9,
+      "question": "What is the slope of the line perpendicular to the line passing through the points (2, -5) and (4, 0)?",
+      "questionHtml": "What is the slope of the line perpendicular to the line passing through the points (2, -5) and (4, 0)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "-5/2",
+          "html": "-5/2"
+        },
+        {
+          "id": "B",
+          "text": "2/5",
+          "html": "2/5"
+        },
+        {
+          "id": "C",
+          "text": "-2/5",
+          "html": "-2/5"
+        },
+        {
+          "id": "D",
+          "text": "5/2",
+          "html": "5/2"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">According to the question:</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Slope of line = (y<span style=\"line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">2</span> – y<span style=\"line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">1</span>)/(x<span style=\"line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">2</span> – x<span style=\"line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">1</span>)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ [0 – (-5)]/(4 – 2) ⇒ (0 + 5)/(4 – 2) ⇒ 5/2</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Now, Perpendicular slope formula = m<span style=\"line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">1</span>.m<span style=\"line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">2</span> = -1 ⇒ 5/2 = -1 ⇒ -2/5</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "88290854fb4e-q10",
+      "number": 10,
+      "question": "The point of intersection of lines \\(\\frac{2x}{4} + \\frac{2y}{3} - 2 = 0\\) and \\(\\frac{7x}{4} + \\frac{5y}{3} - 3 = 0\\) is (- 2m, 2n). Then find the quadratic equation whose roots are 3m and 2n.",
+      "questionHtml": "<span style=\"\">The point of intersection of lines&nbsp;</span><span class=\"math-tex\">\\(\\frac{2x}{4} + \\frac{2y}{3} - 2 = 0\\)</span><span style=\"\">&nbsp;and&nbsp;</span><span class=\"math-tex\">\\(\\frac{7x}{4} + \\frac{5y}{3} - 3 = 0\\)</span><span style=\"\">&nbsp;is (- 2m, 2n). Then find the quadratic equation whose roots are 3m and 2n.</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "x 2 - 13x + 36 = 0",
+          "html": "<span style=\"\">x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">- 13x + 36 = 0&nbsp;</span>"
+        },
+        {
+          "id": "B",
+          "text": "x 2 - 12 x + 36 = 0",
+          "html": "<span style=\"\">x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;- 12</span><span style=\"\">x + 36</span><span style=\"\">&nbsp;= 0</span>"
+        },
+        {
+          "id": "C",
+          "text": "x 2 - 7x + 12 = 0",
+          "html": "<span style=\"\">x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">- 7x + 12 = 0&nbsp;</span>"
+        },
+        {
+          "id": "D",
+          "text": "x 2 - 13x + 12 = 0",
+          "html": "<span style=\"\">x</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">- 13x + 12 = 0&nbsp;</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"\"><span style=\"font-weight: 700;\">Given:</span></p>\n\n<p style=\"\">Lines are&nbsp;&nbsp;​<span class=\"math-tex\">\\(\\frac{2x}{4} + \\frac{2y}{3} - 2 = 0\\)</span>&nbsp; &nbsp; &nbsp;-----(i)</p>\n\n<p style=\"\">And&nbsp;<span class=\"math-tex\">\\(\\frac{7x}{4} + \\frac{5y}{3} - 3 = 0\\)</span>&nbsp;&nbsp; &nbsp;-----(ii)</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Concept Used:</span></p>\n\n<p style=\"\">If&nbsp;&alpha; and&nbsp;&beta; are the roots of a quadratic equation&nbsp;</p>\n\n<p style=\"\">Then the quadratic equation is x<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;- (&alpha; +&nbsp;&beta;)x +&nbsp;&alpha;.&nbsp;&beta; = 0</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\">On simplifying equation (i), we get&nbsp;</p>\n\n<p style=\"\">6x + 8y - 24&nbsp;= 0&nbsp; &nbsp; &nbsp;-----(iii)</p>\n\n<p style=\"\">And on simplyfying equation (ii), we get&nbsp;</p>\n\n<p style=\"\">21x + 20y - 36&nbsp;= 0&nbsp; &nbsp; &nbsp;-----(iv)</p>\n\n<p style=\"\">By multiplying 7 with eq (iii) and 2 with eq (iv) we get</p>\n\n<p style=\"\">42x + 56y - 168 = 0&nbsp; &nbsp; &nbsp; ----(v)</p>\n\n<p style=\"\">42x + 40y - 72 = 0&nbsp; &nbsp; &nbsp; ----(vi)</p>\n\n<p style=\"\">Subtracting eq (vi) from eq (v) we get</p>\n\n<p style=\"\">16y = 168&nbsp;- 72</p>\n\n<p style=\"\">&rArr; 16y = 96&nbsp;</p>\n\n<p style=\"\">&rArr; y = 6</p>\n\n<p style=\"\">Puting the value of y in the eq (iii) we get&nbsp;</p>\n\n<p style=\"\">6x + 8 &times; 6&nbsp;- 24&nbsp;= 0&nbsp;</p>\n\n<p style=\"\">&rArr; x = - 4</p>\n\n<p style=\"\">So, the coordinate of point of intersection is (- 4, 6)</p>\n\n<p style=\"\">On comparing it with&nbsp;(- 2m, 2n), we get&nbsp;</p>\n\n<p style=\"\">- 2m = - 4&nbsp;and 2n = 6</p>\n\n<p style=\"\">&rArr; m = 2 and n = 3</p>\n\n<p style=\"\">So, according to the concept used&nbsp;</p>\n\n<p style=\"\">Required equation will be&nbsp;x<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;- (3m + 2n)x + 3m. 2n = 0</p>\n\n<p style=\"\">&rArr;&nbsp;x<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;- (6&nbsp;+ 6)x + 6&nbsp;&times; 6&nbsp;= 0</p>\n\n<p style=\"\">&rArr;&nbsp;x<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;- 12x + 36&nbsp;= 0</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">&there4; The required equation&nbsp;is&nbsp;x<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;- 12x + 36&nbsp;= 0.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

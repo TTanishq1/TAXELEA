@@ -1,0 +1,1791 @@
+{
+  "id": "4c239efe6183",
+  "provider": "Testbook",
+  "sourceFile": "Microsoft Office.html",
+  "sourcePath": "Testbook/files/Microsoft Office.html",
+  "title": "Microsoft Office",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "4c239efe6183-q1",
+      "number": 1,
+      "question": "Which of the following displays both the name of the application and the name of the spreadsheet in MS-Excel?",
+      "questionHtml": "Which of the following displays both the name of the application and the name of the spreadsheet in MS-Excel?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Title bar",
+          "html": "Title bar"
+        },
+        {
+          "id": "B",
+          "text": "Tool bar",
+          "html": "Tool bar"
+        },
+        {
+          "id": "C",
+          "text": "Task bar",
+          "html": "Task bar"
+        },
+        {
+          "id": "D",
+          "text": "Menu bar",
+          "html": "Menu bar"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Microsoft Excel consists of basic components like an Active cell, title bar Column headings, a Formula bar, a Name box, a mouse pointer, Row headings, Sheet tabs, a Taskbar, Tab scrolling buttons, and Toolbars. The title bar displays both the name of the application and the name of the spreadsheet.​</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q2",
+      "number": 2,
+      "question": "In MS Excel, which of the following is the correct cell address of the second column and third row?",
+      "questionHtml": "In MS Excel, which of the following is the correct cell address of the second column and third row?&nbsp;&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "3A",
+          "html": "3A&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "3B",
+          "html": "3B"
+        },
+        {
+          "id": "C",
+          "text": "A3",
+          "html": "A3"
+        },
+        {
+          "id": "D",
+          "text": "B3",
+          "html": "B3"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is <u><strong>B3</strong></u><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>In MS Excel, cell addresses are specified by a combination of column letters and row numbers:</li>\n\t<li><strong>Columns</strong> are labeled alphabetically (A, B, C, D, etc.).</li>\n\t<li>The <strong>first column</strong> is &quot;A,&quot; the <strong>second column</strong> is &quot;B,&quot; and so on.</li>\n\t<li><strong>Rows</strong> are numbered starting from 1, going downwards (1, 2, 3, 4, etc.).</li>\n\t<li><strong>Second column</strong>: As mentioned, the second column is labeled <strong>B</strong>.</li>\n\t<li><strong>Third row</strong>: The third row is labeled as <strong>3</strong>.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span>&nbsp;In Excel, you can use <strong>three types of cell references</strong>:</p>\n\n<ul>\n\t<li><strong>Relative Reference</strong> (e.g., A1):\n\n\t<ul>\n\t\t<li>The most common type of reference.</li>\n\t\t<li>When you copy a formula with a relative reference, the reference adjusts based on the position of the new cell.</li>\n\t\t<li>Example: If you copy a formula from cell B2 (where the formula is referencing cell A1), and paste it into B3, the reference will automatically adjust to A2.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Absolute Reference</strong> (e.g., $A$1):\n\t<ul>\n\t\t<li>An absolute reference locks the column and row in place, meaning that when you copy the formula, the reference will not change.</li>\n\t\t<li>Example: If you copy a formula from cell B2 with the reference $A$1, it will always reference cell A1, no matter where you paste the formula.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Mixed Reference</strong> (e.g., $A1 or A$1):\n\t<ul>\n\t\t<li>In a mixed reference, either the column (e.g., $A1) or the row (e.g., A$1) is fixed, while the other part is relative.</li>\n\t\t<li>Example: If you copy a formula from B2 with the reference $A1, the row (1) remains fixed, but the column (A) will change when copied across columns.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q3",
+      "number": 3,
+      "question": "Which of the following is a function in MS Excel 365 that returns the sum of the values in a range of cells?",
+      "questionHtml": "Which of the following is a function in MS Excel 365 that returns the sum of the values in a range of cells?&nbsp;&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "COUNT",
+          "html": "COUNT&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "AVERAGE",
+          "html": "AVERAGE&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "SUM",
+          "html": "SUM&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "MAX",
+          "html": "MAX"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is&nbsp;<u><strong>SUM</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The <strong>SUM function</strong> in MS Excel 365 is used to add the values in a range of cells.</li>\n\t<li>It is one of the most commonly used functions for performing arithmetic operations in Excel.</li>\n\t<li>The syntax for the SUM function is <code>=SUM(number1, [number2], ...)</code>, where <code>number1</code> and <code>number2</code> are the numbers to be added.</li>\n\t<li>It can handle individual numbers, cell references, ranges, or a combination of all.</li>\n\t<li>Using the SUM function enhances the efficiency of data analysis and ensures accuracy in calculations.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>COUNT function:</strong>\n\n\t<ul>\n\t\t<li>The <strong>COUNT function</strong> is used to count the number of cells that contain numbers in a range.</li>\n\t\t<li>It does not sum the values but provides the count of numeric entries.</li>\n\t\t<li>The syntax is <code>=COUNT(value1, [value2], ...)</code>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>AVERAGE function:</strong>\n\t<ul>\n\t\t<li>The <strong>AVERAGE function</strong> calculates the average of the numbers provided as arguments.</li>\n\t\t<li>The syntax is <code>=AVERAGE(number1, [number2], ...)</code>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>MAX function:</strong>\n\t<ul>\n\t\t<li>The <strong>MAX function</strong> returns the largest number in a set of values.</li>\n\t\t<li>The syntax is <code>=MAX(number1, [number2], ...)</code>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>MIN function:</strong>\n\t<ul>\n\t\t<li>The <strong>MIN function</strong> returns the smallest number in a set of values.</li>\n\t\t<li>The syntax is <code>=MIN(number1, [number2], ...)</code>.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q4",
+      "number": 4,
+      "question": "What does the cell address &lsquo;C10&rsquo; represent in an electronic spreadsheet?",
+      "questionHtml": "What does the cell address &lsquo;C10&rsquo; represent in an electronic spreadsheet?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "The cell in the twelfth column and the third row",
+          "html": "The cell in the twelfth column and the third row"
+        },
+        {
+          "id": "B",
+          "text": "The cell in the tenth column and the third row",
+          "html": "The cell in the tenth column and the third row"
+        },
+        {
+          "id": "C",
+          "text": "The cell in the third column and the tenth row",
+          "html": "The cell in the third column and the tenth row"
+        },
+        {
+          "id": "D",
+          "text": "The cell in the third column and the twelfth row",
+          "html": "The cell in the third column and the twelfth row"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is&nbsp;<u><strong><span style=\"color: rgb(33, 37, 41);\">The cell in the third column and the tenth row</span></strong></u><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>In an electronic spreadsheet like Microsoft Excel or Google Sheets, <strong>each cell is identified by a unique address,</strong> which is a combination of a column letter and a row number.</li>\n\t<li><strong>Columns</strong> are labeled with letters (A, B, C, D, etc.). After Z, the labels go to double letters (AA, AB, AC, etc.).</li>\n\t<li><strong>Rows</strong> are numbered (1, 2, 3, 4, etc.)</li>\n\t<li>So, &quot;C&quot; refers to the third column, and &quot;10&quot; refers to the tenth row</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul style=\"color: rgb(33, 37, 41);\">\n\t<li>&nbsp;<span style=\"font-weight: bolder;\">The CELL function returns information about the formatting, location, or contents of a cell.</span></li>\n</ul>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">MS-Excel Worksheets</span></p>\n\n<ul style=\"color: rgb(33, 37, 41);\">\n\t<li>The term<span style=\"font-weight: bolder;\">&nbsp;Worksheet used in Excel documents is a collection of cells organized in rows and columns</span>.</li>\n\t<li><span style=\"font-weight: bolder;\">It is the working surface you interact with to enter data.</span></li>\n\t<li><span style=\"font-weight: bolder;\">Each worksheet contains 1048576 rows and 16384 columns and serves as a giant table that allows you to organize information.</span></li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q5",
+      "number": 5,
+      "question": "What will be the result of the following MS Excel formula? = FACT(5-4)",
+      "questionHtml": "<p>What will be the result of the following MS Excel formula?</p>\n\n<p>= FACT(5-4)</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "120",
+          "html": "120"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "text": "96",
+          "html": "96"
+        },
+        {
+          "id": "D",
+          "text": "24",
+          "html": "24"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<ul>\n\t<li><span style=\"font-weight: 700;\">FACT(5-4) = FACT(1) = 1</span></li>\n\t<li>The Excel Fact function returns the <span style=\"font-weight: 700;\">factorial of a given number.</span></li>\n\t<li>The FACT function is a <span style=\"font-weight: 700;\">built-in function in Excel</span> that is categorized as a Math/Trig Function.</li>\n\t<li>It can be used as a <span style=\"font-weight: 700;\">worksheet function</span> in Excel.</li>\n\t<li>As a worksheet function, the FACT function can be entered as part of a formula in a cell of a worksheet.</li>\n\t<li>The factorial of a number is equal to <span style=\"font-weight: 700;\">1*2*3*....*number.</span></li>\n\t<li>The syntax of the function is <span style=\"font-weight: 700;\">FACT(number).</span></li>\n</ul>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q6",
+      "number": 6,
+      "question": "In MS Excel 365, what is the shortcut to move to the last cell on a worksheet, to the lowest used row of the rightmost used column?",
+      "questionHtml": "In MS Excel 365, what is the shortcut to move to the last cell on a worksheet, to the lowest used row of the rightmost used column?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ctrl + Home",
+          "html": "Ctrl + Home"
+        },
+        {
+          "id": "B",
+          "text": "Shift + Home",
+          "html": "Shift + Home"
+        },
+        {
+          "id": "C",
+          "text": "Ctrl + End",
+          "html": "Ctrl + End"
+        },
+        {
+          "id": "D",
+          "text": "Shift + End",
+          "html": "Shift + End"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is <u><strong>Ctrl + End</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n\n<ul>\n\t<li><strong>Ctrl + End</strong> is used to move to the last cell on a worksheet, to the lowest used row of the rightmost used column.</li>\n\t<li>It helps users quickly navigate to the end of the data, which is useful for large worksheets.</li>\n\t<li>This shortcut works in all versions of Excel, including Excel 365.</li>\n\t<li>It ensures that users can efficiently manage and analyze data by quickly reaching the end of the data set.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Ctrl + Home:</strong> This shortcut moves the cursor to the beginning of the worksheet (cell A1).</li>\n\t<li><strong>Shift + Home:</strong> This shortcut is used to extend the selection of cells to the beginning of the row.</li>\n\t<li><strong>Ctrl + Shift + End:</strong> This shortcut extends the selection of cells to the last used cell on the worksheet (lower-right corner).</li>\n\t<li><strong>Shift + End:</strong> This shortcut extends the selection of cells to the last cell in the current row that contains data.</li>\n\t<li>Using these shortcuts can greatly enhance productivity and efficiency when working with large datasets in Excel.</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q7",
+      "number": 7,
+      "question": "Which option in Microsoft Word 365 allows you to search for a specific word or phrase in the document and replace it with another?",
+      "questionHtml": "Which option in Microsoft Word 365 allows you to search for a specific word or phrase in the document and replace it with another?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Font Formatting",
+          "html": "Font Formatting"
+        },
+        {
+          "id": "B",
+          "text": "Cut and Paste",
+          "html": "Cut and Paste"
+        },
+        {
+          "id": "C",
+          "text": "Spelling & Grammar",
+          "html": "Spelling &amp; Grammar"
+        },
+        {
+          "id": "D",
+          "text": "Find and Replace",
+          "html": "Find and Replace&nbsp;"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is <u><strong>Find and Replace</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n\n<ul>\n\t<li>The &quot;Find and Replace&quot; option in Microsoft Word 365 allows users to search for a specific word or phrase in the document.</li>\n\t<li>It also allows users to replace the found word or phrase with another specified word or phrase.</li>\n\t<li>This feature is extremely useful for quickly correcting repetitive mistakes or making multiple changes throughout a document.</li>\n\t<li>The &quot;Find and Replace&quot; functionality can be accessed by pressing &quot;Ctrl + H&quot; on the keyboard.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Font Formatting:</strong> This option allows users to change the appearance of the text, including font type, size, color, and style (bold, italic, underline).</li>\n\t<li><strong>Cut and Paste:</strong> This feature enables users to remove selected text or objects from one part of a document and insert them into another location within the same or different document.</li>\n\t<li><strong>Spelling &amp; Grammar:</strong> This tool helps users check the spelling and grammatical accuracy of the text within the document, providing suggestions for corrections.</li>\n\t<li><strong>Find and Replace:</strong> A versatile tool that lets users locate specific words or phrases in a document and replace them with new text. This is especially useful for editing large documents.</li>\n\t<li><strong>Additional Information:</strong> The &quot;Find and Replace&quot; feature can be found under the &quot;Home&quot; tab in the &quot;Editing&quot; group. It can also be accessed through the &quot;Navigation Pane&quot; for more advanced search options.</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q8",
+      "number": 8,
+      "question": "Which of the following is NOT a type of paragraph formatting in MS-Word 365?",
+      "questionHtml": "Which of the following is NOT a type of paragraph formatting in MS-Word 365?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Right",
+          "html": "<span style=\"\">Right</span>"
+        },
+        {
+          "id": "B",
+          "text": "Precise",
+          "html": "<span style=\"\">Precise</span>"
+        },
+        {
+          "id": "C",
+          "text": "Justify",
+          "html": "<span style=\"\">Justify</span>"
+        },
+        {
+          "id": "D",
+          "text": "Centre",
+          "html": "<span style=\"\">Centre</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "Precise is not a type of paragraph formatting option in MS Word 365. The available options for paragraph formatting are Alignment (left, center, right, justified), Indentation, Spacing, and Pagination under Line and Page Breaks. These options can be accessed through the Paragraph setting window and can be used to customize the appearance and layout of paragraphs in a Word document.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q9",
+      "number": 9,
+      "question": "In Microsoft Excel 365, which tool should we use for creating or editing formulas in a worksheet?",
+      "questionHtml": "In Microsoft Excel 365, which tool should we use for creating or editing formulas in a worksheet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Formula bar",
+          "html": "Formula bar&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "Watch window",
+          "html": "Watch window&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "Precedents",
+          "html": "Precedents"
+        },
+        {
+          "id": "D",
+          "text": "Auditing toolbar",
+          "html": "Auditing toolbar&nbsp;"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>The correct answer is <u><strong>Formula bar</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n\n<ul>\n\t<li>The <strong>Formula bar</strong> in Microsoft Excel is the place where you can see and edit the formula for the currently selected cell.</li>\n\t<li>It is located directly above the worksheet area and below the Ribbon, making it easily accessible while working on the spreadsheet.</li>\n\t<li>The Formula bar displays both the formula and the result of the formula, offering a clear understanding of how the result is derived.</li>\n\t<li>Using the Formula bar allows you to easily modify existing formulas without having to re-enter them completely, thus saving time and reducing errors.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Watch Window:</strong>\n\n\t<ul>\n\t\t<li>The Watch Window in Excel is a feature that allows you to monitor the values of specific cells while working in different parts of your workbook. This is particularly useful in large workbooks where the cells you need to monitor are not visible on the screen.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Precedents:</strong>\n\t<ul>\n\t\t<li>Precedent cells are those cells that are referred to by a formula in another cell. In Excel, you can use the &#39;Trace Precedents&#39; feature to show arrows that indicate which cells affect the value of the currently selected cell.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Auditing Toolbar:</strong>\n\t<ul>\n\t\t<li>The Auditing Toolbar in Excel contains tools that help you to trace errors and understand the relationship between cells in a formula. It includes features like &#39;Trace Precedents&#39;, &#39;Trace Dependents&#39;, &#39;Evaluate Formula&#39;, and &#39;Error Checking&#39;.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q10",
+      "number": 10,
+      "question": "Which of the following is true with reference to opening and closing documents in MS Word 2007?",
+      "questionHtml": "Which of the following is true with reference to opening and closing documents in MS Word 2007?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To close a document, click '-' in the upper right corner of the window.",
+          "html": "To close a document, click &#39;-&#39; in the upper right corner of the window."
+        },
+        {
+          "id": "B",
+          "text": "For opening a new file, click on 'New' in Windows button.",
+          "html": "For opening a new file, click on &#39;New&#39; in Windows button."
+        },
+        {
+          "id": "C",
+          "text": "The shortcut key for opening a document is Ctrl + F.",
+          "html": "The shortcut key for opening a document is Ctrl + F."
+        },
+        {
+          "id": "D",
+          "text": "By default, MS Word document contains no pages when it is opened.",
+          "html": "By default, MS Word document contains no pages when it is opened."
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p> </p>\n\n<ul>\n\t<li>Click the File tab.</li>\n\t<li><strong>Click New.</strong></li>\n\t<li>Under Available Templates, double-click Blank Workbook. Keyboard shortcut To quickly create a new, blank workbook, you can also press CTRL+N.   </li>\n\t<li>Click the File tab.</li>\n\t<li><span style=\"font-weight: 700;\">Click New.</span></li>\n\t<li>Under Available Templates, double-click Blank Workbook. Keyboard shortcut To quickly create a new, blank workbook, you can also press CTRL+N.                                                                        </li>\n</ul>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q11",
+      "number": 11,
+      "question": "Among the following, under which tab will you find the Start Mail Merge in the Microsoft Office Professional Plus 2016?",
+      "questionHtml": "Among the following, under which tab will you find the Start Mail Merge in the Microsoft Office Professional Plus 2016?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "References",
+          "html": "References&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "Insert",
+          "html": "Insert&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "Mailings",
+          "html": "Mailings&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "Home",
+          "html": "Home"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is <u><strong>Mailings</strong></u><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>In Microsoft Office Professional Plus 2016, the <strong>Mail Merge</strong> feature is used to create personalized documents such as letters, labels, envelopes, and emails by merging a data source (like a spreadsheet) with a template document.</li>\n\t<li>It will find the &quot;Start Mail Merge&quot; option under the <strong>Mailings</strong> tab.</li>\n\t<li>This tab specifically contains all the options related to creating and managing mail merges.</li>\n\t<li>After clicking <strong>Start Mail Merge</strong>, you&#39;ll be prompted to select the document type you want to create (e.g., <strong>Letters</strong>, <strong>Envelopes</strong>, <strong>Labels</strong>, <strong>Email Messages</strong>).</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span><span style=\"font-weight: bolder;\">Types of Mail Merge</span>:</p>\n\n<ul>\n\t<li><strong>Letters</strong>: Personalized letters for each individual based on the data.</li>\n\t<li><strong>Envelopes</strong>: Personalized address information for each recipient on different envelopes.</li>\n\t<li><strong>Labels</strong>: Personalized labels, often used for bulk mailing.</li>\n\t<li><strong>Email Messages</strong>: Used to send personalized emails to each recipient from your data source.</li>\n\t<li><strong>Directory</strong>: A document listing personal details for multiple people, like a phonebook.</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q12",
+      "number": 12,
+      "question": "In Microsoft Word 365, on which page is the header or the footer displayed by default?",
+      "questionHtml": "In Microsoft Word 365, on which page is the header or the footer displayed by default?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "On first page",
+          "html": "On first page"
+        },
+        {
+          "id": "B",
+          "text": "On every page",
+          "html": "On every page"
+        },
+        {
+          "id": "C",
+          "text": "On last page",
+          "html": "On last page"
+        },
+        {
+          "id": "D",
+          "text": "On middle page",
+          "html": "On middle page"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is&nbsp;<u><strong>On every page</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>In Microsoft Word 365, by default, headers and footers are displayed on every page of the document, including the first page.</li>\n\t<li>This default behavior ensures consistency throughout the document.</li>\n\t<li><strong>Display different headers and footers on the first page: </strong>This is often useful for documents like reports or essays where the first page may have a different format or require unique information (like a title page). You can achieve this by checking the &quot;Different First Page&quot; option within the Header &amp; Footer Tools.&nbsp; &nbsp;</li>\n\t<li><strong>Display headers and footers on specific pages or sections:</strong> You can control the appearance of headers and footers more precisely by using section breaks. By inserting section breaks, you can create different sections within your document, each with its own header and footer settings.&nbsp; &nbsp;</li>\n\t<li><strong>Suppress headers and footers altogether on certain pages: </strong>If you need to remove headers and footers from specific pages, you can do so by accessing the Header &amp; Footer options for that particular section and making the necessary adjustments.&nbsp; &nbsp;</li>\n\t<li>These customization options provide flexibility in designing your document layout and ensuring that headers and footers are displayed appropriately on each page.</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q13",
+      "number": 13,
+      "question": "State whether the following statements are true or false. (i) In MS Word, all paragraphs can have the right alignment. (ii) In MS Word, all paragraphs cannot have the same hanging position.",
+      "questionHtml": "<p>State whether the following statements are true or false.</p>\n\n<p>(i) In MS Word, all paragraphs can have the right alignment.</p>\n\n<p>(ii) In MS Word, all paragraphs cannot have the same hanging position.</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "(i) False, (ii) False",
+          "html": "(i) False, (ii) False"
+        },
+        {
+          "id": "B",
+          "text": "(i) True, (ii) False",
+          "html": "(i) True, (ii) False"
+        },
+        {
+          "id": "C",
+          "text": "(i) True, (ii) True",
+          "html": "(i) True, (ii) True"
+        },
+        {
+          "id": "D",
+          "text": "(i) False, (ii) True",
+          "html": "(i) False, (ii) True"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<ul>\n\t<li>In MS Word, all paragraphs can have the right alignment is a <span style=\"font-weight: 700;\">TRUE statement.</span></li>\n\t<li>A paragraph's text in MS Word is<span style=\"font-weight: 700;\"> right-aligned</span> when it is aligned evenly along the right margin.</li>\n\t<li>A justified paragraph alignment aligns both the left and right sides.</li>\n\t<li>In MS Word, all paragraphs cannot have the same hanging position is a <span style=\"font-weight: 700;\">FALSE statement.</span></li>\n\t<li>Every line of the paragraph except the first one is indented.</li>\n</ul>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q14",
+      "number": 14,
+      "question": "If the custom format of a number is XX,XX,XXX then how will 4482023 be displayed in Microsoft Excel 365?",
+      "questionHtml": "If the custom format of a number is XX,XX,XXX then how will 4482023 be displayed in Microsoft Excel 365?",
+      "options": [
+        {
+          "id": "A",
+          "text": "448,20,23",
+          "html": "448,20,23"
+        },
+        {
+          "id": "B",
+          "text": "4,48,2023",
+          "html": "4,48,2023"
+        },
+        {
+          "id": "C",
+          "text": "44,82,023",
+          "html": "44,82,023"
+        },
+        {
+          "id": "D",
+          "text": "4482,02,3",
+          "html": "4482,02,3"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is <u><strong>44,82,023</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n\n<ul>\n\t<li>In Microsoft Excel, custom number formats allow you to format numbers in a specific way, enhancing readability.</li>\n\t<li>The format XX,XX,XXX is a custom format that groups digits in the 2-2-3 pattern, commonly used in certain locales for displaying large numbers.</li>\n\t<li>When the number 4482023 is formatted with the custom format XX,XX,XXX, it will be displayed as 44,82,023.</li>\n\t<li>This type of formatting is particularly useful in financial data representation, where clarity in large numbers is crucial.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Custom Number Formats in Excel</strong>\n\n\t<ul>\n\t\t<li>Custom number formats in Excel allow users to display numbers in various ways, including currency, percentages, dates, times, and more.</li>\n\t\t<li>Custom formats are created using a combination of symbols and placeholders. For example, &quot;#&quot; is a digit placeholder, &quot;,&quot; adds a thousand separator, and &quot;0&quot; forces a digit to display even if it&#39;s zero.</li>\n\t\t<li>To create a custom number format, you can go to the &quot;Format Cells&quot; dialog box (Ctrl+1), choose &quot;Custom,&quot; and then enter the desired format in the &quot;Type&quot; field.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Importance of Proper Number Formatting</strong>\n\t<ul>\n\t\t<li>Proper number formatting enhances the readability and comprehension of data, particularly in reports and financial statements.</li>\n\t\t<li>It ensures consistency and professionalism in data presentation, which is vital for accurate interpretation and decision-making.</li>\n\t\t<li>Using appropriate number formats can also help in avoiding errors and misinterpretations, especially in large datasets.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Examples of Custom Number Formats</strong>\n\t<ul>\n\t\t<li>###,### - Displays numbers with comma separators for thousands. E.g., 1234567 will be displayed as 1,234,567.</li>\n\t\t<li>0.00% - Displays numbers as percentages with two decimal places. E.g., 0.1234 will be displayed as 12.34%.</li>\n\t\t<li>[$$-409]#,##0.00 - Displays numbers as currency in US dollars with two decimal places. E.g., 1234.56 will be displayed as $1,234.56.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q15",
+      "number": 15,
+      "question": "In MS Excel 365, which of the following is the correct option to open an existing spread sheet in MS-Excel?",
+      "questionHtml": "In MS Excel 365, which of the following is the correct option to open an existing spread sheet in MS-Excel?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Click on File tab<<Click on Open",
+          "html": "Click on File tab&lt;&lt;Click on Open"
+        },
+        {
+          "id": "B",
+          "text": "Click on File tab<<Click on New",
+          "html": "Click on File tab&lt;&lt;Click on New"
+        },
+        {
+          "id": "C",
+          "text": "Click on Home tab<<Click on New",
+          "html": "Click on Home tab&lt;&lt;Click on New"
+        },
+        {
+          "id": "D",
+          "text": "Click on Home tab<<Click on Open",
+          "html": "Click on Home tab&lt;&lt;Click on Open"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>The correct answer is <u><strong>Click on File tab&lt;&lt;Click on Open.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n\n<ul>\n\t<li>Opening an existing spreadsheet in MS Excel 365 begins with clicking on the <strong>File tab</strong>.</li>\n\t<li>After clicking the File tab, users should then select <strong>Open</strong> from the menu options.</li>\n\t<li>The Open option allows users to access and choose from recently opened files or browse their computer for the desired spreadsheet.</li>\n\t<li>The File tab is located at the top-left corner of the Excel interface, providing a gateway to various file-related operations.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>File Tab in MS Excel</strong>\n\n\t<ul>\n\t\t<li>The File tab is part of the Ribbon interface introduced in Microsoft Office 2007.</li>\n\t\t<li>It provides access to the Backstage view, where users can perform file management tasks like saving, opening, and printing documents.</li>\n\t\t<li>The Backstage view also includes options for account settings, managing document properties, and Excel options.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Excel Ribbon Interface</strong>\n\t<ul>\n\t\t<li>The Ribbon is a set of toolbars at the top of the Excel window, designed to help users quickly find commands they need to complete tasks.</li>\n\t\t<li>It includes multiple tabs such as Home, Insert, Page Layout, Formulas, Data, Review, and View.</li>\n\t\t<li>Each tab contains related command groups, making it easier to access various functionalities.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Opening Files in Excel</strong>\n\t<ul>\n\t\t<li>Users can open files stored locally on their computer, on OneDrive, or other cloud storage services integrated with Excel.</li>\n\t\t<li>Excel supports various file formats, including .xlsx, .xls, .csv, and more.</li>\n\t\t<li>In addition to the File tab, users can open files by dragging and dropping them into the Excel window.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q16",
+      "number": 16,
+      "question": "What will happen when you select the cell contents of a particular row in MS-Excel and then click the Delete button?",
+      "questionHtml": "What will happen when you select the cell contents of a particular row in MS-Excel and then click the Delete button?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Entries in all the selected cells will be deleted",
+          "html": "Entries in all the selected cells will be deleted"
+        },
+        {
+          "id": "B",
+          "text": "First five cell entries will be deleted",
+          "html": "First five cell entries will be deleted"
+        },
+        {
+          "id": "C",
+          "text": "Only first three cells will be deleted",
+          "html": "Only first three cells will be deleted"
+        },
+        {
+          "id": "D",
+          "text": "Entire row will be deleted",
+          "html": "Entire row will be deleted"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "When you select the cell contents of a particular row in MS-Excel and click the Delete button, entries in all the selected cells will be deleted, but the row itself will not be removed. To delete an entire row, right-click on the row number and choose \"Delete\" from the context menu. The Delete button only clears cell content, not the worksheet structure. MS-Excel offers various methods to delete data, including the Delete key, context menu, and ribbon options. Differentiate between deleting cell contents and rows or columns for effective data management. Use the Clear options under the Home tab for additional clearing tasks.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q17",
+      "number": 17,
+      "question": "Which of the following is FALSE with reference to cell editing in MS-Excel?",
+      "questionHtml": "<p>Which of the following is FALSE with reference to cell editing in MS-Excel?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "Select the cell, click on the formula bar and edit the content",
+          "html": "Select the cell, click on the formula bar and edit the content"
+        },
+        {
+          "id": "B",
+          "text": "Edit the cell by double clicking the cell where the content is located",
+          "html": "Edit the cell by double clicking the cell where the content is located"
+        },
+        {
+          "id": "C",
+          "text": "Select the cell and press the F2 function key on the keyboard to edit the content of the cell",
+          "html": "Select the cell and press the F2 function key on the keyboard to edit the content of the cell"
+        },
+        {
+          "id": "D",
+          "text": "Select the cell and press the F5 function key on the keyboard to edit the content of the cell",
+          "html": "Select the cell and press the F5 function key on the keyboard to edit the content of the cell"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<ul>\n\t<li>Select the cell and press the F5 function key on the keyboard to edit the content of the cell as FALSE with reference to cell editing in MS-Excel.</li>\n\t<li><span style=\"font-weight: 700;\">F5 key displays the \"Go-To\" dialogue box</span>.</li>\n</ul>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q18",
+      "number": 18,
+      "question": "Which of the following function keys can be used to edit a cell of an MS-Excel worksheet?",
+      "questionHtml": "Which of the following function keys can be used to edit a cell of an MS-Excel worksheet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "F3",
+          "html": "F3"
+        },
+        {
+          "id": "B",
+          "text": "F5",
+          "html": "F5"
+        },
+        {
+          "id": "C",
+          "text": "F2",
+          "html": "F2"
+        },
+        {
+          "id": "D",
+          "text": "F4",
+          "html": "F4"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<ul>\n\t<li>An MS Excel worksheet contains rows 1,048,576 rows and 16,384 columns to store the text and numbers and merged into a single workbook knows as a File. ​Workbooks are the Excel files that one can open and share, while Excel worksheets are individual spreadsheets within them. <span style=\"font-weight: 700;\">Function Key Shortcuts:</span></li>\n\t<li><span style=\"font-weight: 700;\">F2:</span> Edit Cells</li>\n</ul>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q19",
+      "number": 19,
+      "question": "In Microsoft Excel, which chart type is best suited for comparing proportions or percentages of a whole?",
+      "questionHtml": "In Microsoft Excel, which chart type is best suited for comparing proportions or percentages of a whole?&nbsp;&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pie Chart",
+          "html": "Pie Chart&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "Line Chart",
+          "html": "Line Chart&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "Bar Chart",
+          "html": "Bar Chart&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "Scatter Chart",
+          "html": "Scatter Chart"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "A Pie Chart in Microsoft Excel is best for comparing proportions or percentages of a whole, as it displays data as slices of a circle, with each slice representing a category's contribution to the total. In contrast, a Line Chart shows trends over time or continuous data, a Bar Chart compares discrete categories or groups, and a Scatter Chart reveals relationships between two variables. Excel, a powerful spreadsheet software first released in 1985 for the Apple Macintosh and in 1987 for Windows, supports extensive data analysis, visualization, and calculation capabilities with up to 1,048,576 rows and 16,384 columns per worksheet.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q20",
+      "number": 20,
+      "question": "Which of the following shortcut key is used to move the cursor one word to the left in MS-Word 365?",
+      "questionHtml": "Which of the following shortcut key is used to move the cursor one word to the left in MS-Word 365?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ctrl + Left arrow key",
+          "html": "Ctrl + Left arrow key"
+        },
+        {
+          "id": "B",
+          "text": "Shift + Left arrow key",
+          "html": "Shift + Left arrow key"
+        },
+        {
+          "id": "C",
+          "text": "Shift + PageUp",
+          "html": "Shift + PageUp"
+        },
+        {
+          "id": "D",
+          "text": "Ctrl + PageUp",
+          "html": "Ctrl + PageUp"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "Ctrl + Left arrow key is the shortcut key that can be used to move the cursor one word to the left in MS Word 365. It enables the cursor to jump from one word to another towards the left side of the current cursor position, facilitating easy editing and formatting.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q21",
+      "number": 21,
+      "question": "What will be the result of formula '=16/2^3' in a cell in MS Excel?",
+      "questionHtml": "What will be the result of formula &#39;=16/2^3&#39; in a cell in MS Excel?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "B",
+          "text": "512",
+          "html": "512"
+        },
+        {
+          "id": "C",
+          "text": "124",
+          "html": "124"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "6"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Initialize a formula in excel cell using the <strong>=</strong> (equals to) sign.The value of 2^3 stands for 2<sup>3</sup>, which results in a value of 8.The 16 is divided by 2<sup>3</sup>, which equals 16/8, and that results in a value of 2.​</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q22",
+      "number": 22,
+      "question": "In MS Excel 365, Which of the following is NOT a type of chart in MS Excel?",
+      "questionHtml": "In MS Excel 365, Which of the following is NOT a type of chart in MS Excel?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Line chart",
+          "html": "Line chart&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "Bar chart",
+          "html": "Bar chart&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "Pie chart",
+          "html": "Pie chart&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "Space chart",
+          "html": "Space chart&nbsp;"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is <u><strong>Space chart</strong></u> .</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul style=\"color:  (33, 37, 41);\">\n\t<li><span style=\"font-weight: bolder;\">Microsoft Excel</span> is a spreadsheet program included in the Microsoft Office suite of applications.</li>\n\t<li>It features calculation, graphing tools, pivot tables, and a macro programming language called VBA (Visual Basic for Applications).</li>\n\t<li>Excel is widely used for data analysis, financial modeling, and other tasks involving numerical data.</li>\n\t<li>Users can customize various aspects of Excel, including column widths, to better suit their specific needs and preferences.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></strong></span></p>\n\n<ul>\n\t<li><strong>Space Chart:</strong> A visual representation of data using symbols or icons to depict information, often used for geographical or spatial data.</li>\n\t<li><strong>Line Chart:</strong> A chart that uses lines to connect data points, showing trends and changes over time or across categories.</li>\n\t<li><strong>Bar Chart:</strong> A chart that uses rectangular bars to represent data, comparing values across different categories.</li>\n\t<li><strong>Pie Chart:</strong> A circular chart divided into slices, each representing a proportion of a whole.</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q23",
+      "number": 23,
+      "question": "Which of the following does NOT appear as a part of the 'Clipboard' command group under the Home menu in recent versions of MS Word, such as Word 2016?",
+      "questionHtml": "Which of the following does <strong>NOT</strong> appear as a part of the &#39;Clipboard&#39; command group under the Home menu in recent versions of MS Word, such as Word 2016?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Format Painter",
+          "html": "Format Painter"
+        },
+        {
+          "id": "B",
+          "text": "Paste",
+          "html": "Paste"
+        },
+        {
+          "id": "C",
+          "text": "Cut",
+          "html": "Cut"
+        },
+        {
+          "id": "D",
+          "text": "Show / Hide",
+          "html": "Show / Hide"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<ul>\n\t<li>Among the options, only <u><span style=\"font-weight: 700;\">Show / Hide</span></u> does NOT appear as a part of the 'Clipboard' command group under the Home menu in recent versions of MS Word, such as Word 2016.</li>\n\t<li><span style=\"color: rgb(33, 37, 41);\">The home tab in MS Word gives you access to the most commonly used commands and is displayed by default when you open an instance of Word.</span></li>\n\t<li>The clipboard group is present on the far left of the Home Tab.</li>\n</ul>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q24",
+      "number": 24,
+      "question": "In MS Excel 365 , which of the following keyboard shortcuts will open the &lsquo;Open&rsquo; dialog box, where you can navigate to the location of a spreadsheet file and open it?",
+      "questionHtml": "In MS Excel 365 , which of the following keyboard shortcuts will open the &lsquo;Open&rsquo; dialog box, where you can navigate to the location of a spreadsheet file and open it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alt + O",
+          "html": "Alt + O&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "Shift + Alt + O",
+          "html": "Shift + Alt + O&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "Ctrl + O",
+          "html": "Ctrl + O&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "Ctrl + Shift + O",
+          "html": "Ctrl + Shift + O"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is <u><strong>Ctrl + O</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong> </span></p>\n\n<ul>\n\t<li>In MS Excel 365, pressing <strong>Ctrl + O</strong> will open the &#39;Open&#39; dialog box.\n\n\t<ul>\n\t\t<li>This dialog box allows you to navigate to the location of a spreadsheet file on your computer or network and open it.</li>\n\t\t<li>The shortcut is a quick way to access the &#39;Open&#39; function without using the mouse.</li>\n\t\t<li>It is part of a set of standard keyboard shortcuts that are consistent across many Microsoft Office applications.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /> <strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong> </span></p>\n\n<ul>\n\t<li>Other common keyboard shortcuts in MS Excel include:\n\t<ul>\n\t\t<li><strong>Ctrl + N</strong> to create a new workbook.</li>\n\t\t<li><strong>Ctrl + S</strong> to save the current workbook.</li>\n\t\t<li><strong>Ctrl + P</strong> to open the &#39;Print&#39; dialog box.</li>\n\t</ul>\n\t</li>\n\t<li>Using keyboard shortcuts can significantly increase efficiency and productivity by minimizing the need to switch between the keyboard and mouse.</li>\n\t<li>These shortcuts are especially useful for users who work extensively with spreadsheets and need to perform repetitive tasks quickly.</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q25",
+      "number": 25,
+      "question": "_________ is used to describe the page direction in which the contents of the page are to be displayed or printed in MS Word 365.",
+      "questionHtml": "_________ is used to describe the page direction in which the contents of the page are to be displayed or printed in MS Word 365.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Columns",
+          "html": "Columns"
+        },
+        {
+          "id": "B",
+          "text": "Page margin",
+          "html": "Page margin&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "Page orientation",
+          "html": "Page orientation"
+        },
+        {
+          "id": "D",
+          "text": "Page size",
+          "html": "Page size"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is&nbsp;<u><strong>Page orientation</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Page orientation</strong> in MS Word 365 determines the direction in which a document is displayed or printed.</li>\n\t<li>There are two types of page orientations: <strong>Portrait</strong> and <strong>Landscape</strong>.</li>\n\t<li><strong>Portrait orientation</strong> is taller than it is wide, commonly used for letters and documents.</li>\n\t<li><strong>Landscape orientation</strong> is wider than it is tall, often used for spreadsheets and presentations.</li>\n\t<li>You can change the page orientation by navigating to the <strong>Layout</strong> tab and selecting the desired option.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Page Margin</strong>:\n\n\t<ul>\n\t\t<li>The blank space around the edges of the page, which can be adjusted to make room for headers, footers, and binding.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Page Size</strong>:\n\t<ul>\n\t\t<li>Refers to the dimensions of the paper being used, such as A4, Letter, Legal, etc.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Columns</strong>:\n\t<ul>\n\t\t<li>Used to split text into multiple vertical sections, often used in newspapers and magazines.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Header and Footer</strong>:\n\t<ul>\n\t\t<li>Sections at the top and bottom of the page where you can add text or graphics that will appear on every page, such as page numbers, titles, or dates.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q26",
+      "number": 26,
+      "question": "Which of the following statements about MS Word table is FALSE ?",
+      "questionHtml": "Which of the following statements about MS Word table is <strong>FALSE</strong>?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Two or more consecutive cells of a column can be merged.",
+          "html": "Two or more consecutive cells of a column can be merged."
+        },
+        {
+          "id": "B",
+          "text": "Two or more consecutive cells of a row can be merged.",
+          "html": "Two or more consecutive cells of a row can be merged."
+        },
+        {
+          "id": "C",
+          "text": "Alternate cells of a row or column cannot be merged.",
+          "html": "Alternate cells of a row or column cannot be merged."
+        },
+        {
+          "id": "D",
+          "text": "The first and last cells of a table can be merged.",
+          "html": "The first and last cells of a table can be merged."
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><u><span style=\"font-weight: 700;\">The first and last cells of a table that can be merged</span></u> is <span style=\"font-weight: 700;\">NOT</span> correct.</p>\n\n<ul>\n\t<li><span style=\"color: rgb(64, 64, 64);\"><span style=\"font-weight: 700;\">Merging cells</span> in a table combines two or more adjacent cells in a word table.</span></li>\n\t<li>They can be adjacent cells in a<span style=\"font-weight: 700;\"> row or column.</span></li>\n\t<li><span style=\"color: rgb(64, 64, 64);\">Combining cells can<span style=\"font-weight: 700;\"> increase the size</span> of the cell.</span></li>\n\t<li>The first and last cells of a table <span style=\"font-weight: 700;\">can not be merged.</span></li>\n\t<li>You can only merge two or more consecutive rows or two adjacent columns.\n\t<ul>\n\t\t<li>Two or more consecutive cells of a<span style=\"font-weight: 700;\"> column</span> can be merged.</li>\n\t\t<li>Two or more consecutive cells of a <span style=\"font-weight: 700;\">row</span> can be merged.</li>\n\t</ul>\n\t</li>\n\t<li>Alternate cells of a row or column<span style=\"font-weight: 700;\"> cannot be merged.</span></li>\n\t<li>For merging two cells first select the cells you want to merge.</li>\n</ul>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q27",
+      "number": 27,
+      "question": "By default how many worksheets are there in an MS-Excel workbook2007?",
+      "questionHtml": "By default how many worksheets are there in an MS-Excel workbook2007?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "html": "3"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<ul>\n\t<li>When we open an <span style=\"font-weight: 700;\">Excel workbook,</span> there are three sheets by default, and the default name on the tabs are <span style=\"font-weight: 700;\">Sheet1</span>, <span style=\"font-weight: 700;\">Sheet2</span>, and <span style=\"font-weight: 700;\">Sheet3</span>.</li>\n\t<li>These are not very informative names.</li>\n\t<li><span style=\"font-weight: 700;\">Excel 2007 </span>allows us to create a meaningful name for each worksheet in a workbook so we can quickly locate information.</li>\n</ul>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q28",
+      "number": 28,
+      "question": "In MS Word, which option allows you to align text in a way that it appears vertically at the bottom of a cell or text box?",
+      "questionHtml": "In MS Word, which option allows you to align text in a way that it appears vertically at the bottom of a cell or text box?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Center Alignment",
+          "html": "Center Alignment"
+        },
+        {
+          "id": "B",
+          "text": "Bottom Alignment",
+          "html": "Bottom Alignment"
+        },
+        {
+          "id": "C",
+          "text": "Justify Alignment",
+          "html": "Justify Alignment"
+        },
+        {
+          "id": "D",
+          "text": "Distributed Alignment",
+          "html": "Distributed Alignment<span style=\"display: none;\">&nbsp;</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "Bottom Alignment in MS Word allows you to align text so that it appears vertically at the bottom of a cell or text box. This is useful when you want the text to start from the bottom edge, leaving space above it. To apply this, select the cell or text box, go to the \"Layout\" or \"Table Tools Layout\" tab, and choose \"Bottom Align\" from the \"Alignment\" group. MS Word also offers other vertical alignment options like Top and Center Alignment, as well as horizontal alignment options like Left, Center, Right, and Justify, accessible from the \"Home\" tab or \"Table Tools Layout\" tab.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q29",
+      "number": 29,
+      "question": "In MS Excel 365 which of the following is an example of absolute reference pointing to cell A1 in MS Excel?",
+      "questionHtml": "In MS Excel 365 which of the following is an example of absolute reference pointing to cell A1 in MS Excel?",
+      "options": [
+        {
+          "id": "A",
+          "text": "$A$1",
+          "html": "$A$1&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "A1",
+          "html": "A1"
+        },
+        {
+          "id": "C",
+          "text": "@A1",
+          "html": "@A1&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "1A",
+          "html": "1A"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>The correct answer is <u><strong>$A$1</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n\n<ul>\n\t<li>In MS Excel, an <strong>absolute reference</strong> is a reference that remains constant, even if the formula is copied to another cell.</li>\n\t<li>The <strong>syntax for an absolute reference</strong> includes a dollar sign ($) before the column letter and row number, such as <strong>$A$1</strong>.</li>\n\t<li><strong>$A$1</strong> refers to cell A1 and will not change when copied or filled to other cells.</li>\n\t<li>Absolute references are useful when you want to maintain the reference to a specific cell in formulas, despite changes in the location of the formula.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Relative References</strong>\n\n\t<ul>\n\t\t<li>Relative references change when a formula is copied to another cell. For example, a reference to cell A1 changes to B1 when copied one cell to the right.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Mixed References</strong>\n\t<ul>\n\t\t<li>Mixed references contain a dollar sign either before the column letter or the row number, but not both. For example, $A1 or A$1.</li>\n\t\t<li>Mixed references are partially fixed and partially relative.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Creating Absolute References</strong>\n\t<ul>\n\t\t<li>To create an absolute reference in a formula, press F4 after selecting the cell reference in the formula.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Use Cases</strong>\n\t<ul>\n\t\t<li>Absolute references are commonly used in financial modeling, data analysis, and any scenario requiring consistent reference points in calculations.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q30",
+      "number": 30,
+      "question": "What is the category of software that enables word processing, database management, graphic manipulation and spreadsheet creation?",
+      "questionHtml": "What is the category of software that enables word processing, database management, graphic manipulation and spreadsheet creation?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Structure",
+          "html": "Structure"
+        },
+        {
+          "id": "B",
+          "text": "Application",
+          "html": "Application"
+        },
+        {
+          "id": "C",
+          "text": "Framework",
+          "html": "Framework"
+        },
+        {
+          "id": "D",
+          "text": "System",
+          "html": "System"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is&nbsp;<u><strong>Application</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Application:</strong>\n\n\t<ul>\n\t\t<li>This refers to the specific software program itself.</li>\n\t\t<li>For example, Microsoft Word is an application for word processing, Microsoft Excel is an application for spreadsheet creation, and Adobe Photoshop is an application for graphic manipulation.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Structure</strong>:\n\n\t<ul>\n\t\t<li>This refers to the underlying organization and design of the software.</li>\n\t\t<li>It encompasses how the different components of the application interact, such as the user interface, data storage, and processing logic.</li>\n\t\t<li>.A well-structured application is typically more efficient, reliable, and easier to maintain.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Framework: </strong>\n\t<ul>\n\t\t<li>This is a set of pre-built code libraries and tools that provide a foundation for developers to build applications more quickly and efficiently.</li>\n\t\t<li>Frameworks often include features like user interface components, data handling routines, and security measures.</li>\n\t</ul>\n\t</li>\n\t<li><strong>System:</strong>\n\t<ul>\n\t\t<li>This refers to the entire software ecosystem, including the operating system, hardware, and other software components that the application interacts with.</li>\n\t\t<li>For example, a word processing application relies on the operating system to manage hardware resources, and it may interact with other applications like a printer driver.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q31",
+      "number": 31,
+      "question": "Which of the given options best matches the items of LIST-1 with the items of LIST-2 with reference to editing cells in a spreadsheet? LIST-1 LIST-2 (i) Enter (a) moves you to the next cell to the right (ii) Shift + tab (b) moves you to the next cell down (iii) Tab (c) moves you in the direction of the arrow (iv) Arrow key (d) moves you to the next cell to the left",
+      "questionHtml": "<p>Which of the given options best matches the items of LIST-1 with the items of LIST-2 with reference to editing cells in a spreadsheet?</p>\n\n<p>LIST-1 LIST-2</p>\n\n<p>(i) Enter (a) moves you to the next cell to the right</p>\n\n<p>(ii) Shift + tab (b) moves you to the next cell down</p>\n\n<p>(iii) Tab (c) moves you in the direction of the arrow</p>\n\n<p>(iv) Arrow key (d) moves you to the next cell to the left</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "(i) - b, (ii) - a, (iii) - d, (iv) - c",
+          "html": "(i) - b, (ii) - a, (iii) - d, (iv) - c"
+        },
+        {
+          "id": "B",
+          "text": "(i) - b, (ii) - d, (iii) - a, (iv) - c",
+          "html": "(i) - b, (ii) - d, (iii) - a, (iv) - c"
+        },
+        {
+          "id": "C",
+          "text": "(i) - c, (ii) - d, (iii) - a, (iv) - b",
+          "html": "(i) - c, (ii) - d, (iii) - a, (iv) - b"
+        },
+        {
+          "id": "D",
+          "text": "(i) - a, (ii) - d, (iii) - b, (iv) - c",
+          "html": "(i) - a, (ii) - d, (iii) - b, (iv) - c"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"font-weight: 700;\">To move to the next cell of the arrow direction key - Press Arrow Keys.</span></p>\n\n<p><span style=\"font-weight: 700;\">To move to the next cell - Press Enter</span></p>\n\n<p><span style=\"font-weight: 700;\">To move to the next cell to the right - Press TAB.</span></p>\n\n<p><span style=\"font-weight: 700;\">To move to the next cell to the left - Press SHIFT + TAB.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q32",
+      "number": 32,
+      "question": "Which of the following is the default alignment of text in a Microsoft Word document?",
+      "questionHtml": "Which of the following is the default alignment of text in a Microsoft Word document?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Justified",
+          "html": "Justified&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "Right",
+          "html": "Right&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "Left",
+          "html": "Left&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "Center",
+          "html": "Center"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "The default alignment of text in a Microsoft Word document is left alignment. In this format, the text is aligned with the left margin, creating a clean and organized appearance with a ragged right edge. This alignment is commonly used for most documents as it ensures readability and consistency. Microsoft Word also offers other alignment options like right, center, and justified, which users can select based on their formatting needs. Understanding and utilizing these alignment options is crucial for producing professional and well-structured documents.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q33",
+      "number": 33,
+      "question": "What action should be taken to add a new row or column in a spreadsheet?",
+      "questionHtml": "What action should be taken to add a new row or column in a spreadsheet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Right-click on an existing row or column and select &lsquo;Insert&rsquo; from the context menu.",
+          "html": "Right-click on an existing row or column and select &lsquo;Insert&rsquo; from the context menu.&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "Use the &lsquo;Find and Replace&rsquo; function to search for a specific cell, and then insert a new row or column using the results.",
+          "html": "Use the &lsquo;Find and Replace&rsquo; function to search for a specific cell, and then insert a new row or column using the results.&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "Highlight a range of cells, right-click, and choose &lsquo;Delete&rsquo; from the context menu to create space for the new row or column.",
+          "html": "Highlight a range of cells, right-click, and choose &lsquo;Delete&rsquo; from the context menu to create space for the new row or column.&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "Select a row or column, press the &lsquo;Ctrl + X&rsquo; keyboard shortcut to cut it, and then press &lsquo;Ctrl + V&rsquo; to paste it in the desired location.",
+          "html": "Select a row or column, press the &lsquo;Ctrl + X&rsquo; keyboard shortcut to cut it, and then press &lsquo;Ctrl + V&rsquo; to paste it in the desired location.&nbsp;"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>The correct answer is <u><strong>Right-click on an existing row or column and select &#39;Insert&#39; from the context menu.</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n\n<ul>\n\t<li>Right-clicking on an existing row or column opens the context menu which contains the &#39;Insert&#39; option.</li>\n\t<li>The &#39;Insert&#39; option allows you to add a new row above the selected row or a new column to the left of the selected column.</li>\n\t<li>This action is straightforward and is supported in most spreadsheet applications such as Microsoft Excel, Google Sheets, and LibreOffice Calc.</li>\n\t<li>Inserting new rows or columns helps in organizing data more effectively and can be used to expand the existing dataset.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Spreadsheet Basics:</strong>\n\n\t<ul>\n\t\t<li>A spreadsheet is a digital document that arranges data in rows and columns, making it easier to organize, analyze, and visualize data.</li>\n\t\t<li>Common spreadsheet applications include Microsoft Excel, Google Sheets, and LibreOffice Calc.</li>\n\t\t<li>Spreadsheets are widely used for financial calculations, data analysis, project management, and more.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Context Menu:</strong>\n\t<ul>\n\t\t<li>The context menu is a pop-up menu that appears when you right-click on a specific area or object within a software application.</li>\n\t\t<li>It provides quick access to commonly used commands relevant to the selected area or object.</li>\n\t\t<li>In the context of spreadsheets, the context menu typically includes options like &#39;Insert&#39;, &#39;Delete&#39;, &#39;Cut&#39;, &#39;Copy&#39;, &#39;Paste&#39;, and formatting options.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Inserting Rows and Columns:</strong>\n\t<ul>\n\t\t<li>Inserting a row adds a new row above the selected row, shifting the existing rows down.</li>\n\t\t<li>Inserting a column adds a new column to the left of the selected column, shifting the existing columns to the right.</li>\n\t\t<li>This feature is useful for adding new data without overwriting existing data in the spreadsheet.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Keyboard Shortcuts:</strong>\n\t<ul>\n\t\t<li>Keyboard shortcuts can streamline your workflow and increase productivity. For example, in Excel, you can use &#39;Ctrl + Shift + +&#39; to quickly insert a new row or column.</li>\n\t\t<li>Learning and utilizing keyboard shortcuts can save time and improve efficiency when working with spreadsheets.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q34",
+      "number": 34,
+      "question": "In MS Excel 365, Which feature in Microsoft Excel is used to visually represent data through graphical representation?",
+      "questionHtml": "In MS Excel 365, Which feature in Microsoft Excel is used to visually represent data through graphical representation?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Macro",
+          "html": "Macro"
+        },
+        {
+          "id": "B",
+          "text": "Charts",
+          "html": "Charts"
+        },
+        {
+          "id": "C",
+          "text": "Formula",
+          "html": "Formula"
+        },
+        {
+          "id": "D",
+          "text": "PivotTable",
+          "html": "PivotTable"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is <u><strong>Charts</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n\n<ul>\n\t<li><strong>Charts in Microsoft Excel</strong> are used to visually represent data, making it easier to understand and analyze.</li>\n\t<li>They help in identifying patterns, trends, and relationships within the data.</li>\n\t<li>Excel provides various types of charts like bar charts, line charts, pie charts, and more to suit different types of data analysis needs.</li>\n\t<li>Charts can be customized with different colors, labels, and other formatting options to enhance readability and presentation.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Macro</strong>\n\n\t<ul>\n\t\t<li>A macro in Excel is a set of instructions that can be used to automate repetitive tasks.</li>\n\t\t<li>Macros are written in VBA (Visual Basic for Applications) and can significantly improve productivity.</li>\n\t\t<li>They are useful for tasks like data entry, formatting, and complex calculations.</li>\n\t\t<li>Macros can be recorded and edited to tailor them to specific needs.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Formula</strong>\n\t<ul>\n\t\t<li>A formula in Excel is an expression that operates on values in a range of cells or a single cell.</li>\n\t\t<li>Common formulas include SUM, AVERAGE, and VLOOKUP.</li>\n\t\t<li>Formulas are used for calculations, data analysis, and decision-making processes.</li>\n\t\t<li>They can be simple or complex, involving multiple functions and references.</li>\n\t</ul>\n\t</li>\n\t<li><strong>PivotTable</strong>\n\t<ul>\n\t\t<li>A PivotTable is a powerful tool in Excel used for data summarization, analysis, and exploration.</li>\n\t\t<li>It allows users to quickly summarize large amounts of data and reorganize it for better insights.</li>\n\t\t<li>PivotTables can group, filter, and sort data, making it easier to find patterns and trends.</li>\n\t\t<li>They are highly customizable and interactive, providing a dynamic way to explore data.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q35",
+      "number": 35,
+      "question": "Which of the following view options in MS Word shows the contents of a document as bulleted points?",
+      "questionHtml": "Which of the following view options in MS Word shows the contents of a document as bulleted points?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Draft",
+          "html": "Draft"
+        },
+        {
+          "id": "B",
+          "text": "Web Layout",
+          "html": "Web Layout"
+        },
+        {
+          "id": "C",
+          "text": "Outline",
+          "html": "Outline"
+        },
+        {
+          "id": "D",
+          "text": "Print Layout",
+          "html": "Print Layout<span style=\"display: none;\">&nbsp;</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><u><span style=\"font-weight: 700;\">Outline.</span></u></p>\n\n<ul>\n\t<li>The <span style=\"font-weight: 700;\">outline</span> option in MS Word shows the contents of a document as bulleted points.</li>\n\t<li>Outline in Word means seeing just the headings of a long document.</li>\n\t<li>Outline view makes viewing complex documents easier by <span style=\"font-weight: 700;\">breaking the headings and paragraphs</span> into collapsible sections</li>\n\t<li>The outline option is present under the <span style=\"font-weight: 700;\">view tab.</span></li>\n</ul>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q36",
+      "number": 36,
+      "question": "Which of the following statements related to addressing of cells in MS Excel is INCORRECT?",
+      "questionHtml": "Which of the following statements related to addressing of cells in MS Excel is INCORRECT?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The cell in the second column and third row is B3.",
+          "html": "The cell in the second column and third row is B3."
+        },
+        {
+          "id": "B",
+          "text": "Columns in MS Excel are identified by numbers.",
+          "html": "Columns in MS Excel are identified by numbers.&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "The cell in the first column and first row is A1.",
+          "html": "The cell in the first column and first row is A1."
+        },
+        {
+          "id": "D",
+          "text": "Rows in MS Excel are identified by numbers.",
+          "html": "Rows in MS Excel are identified by numbers.&nbsp;"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is <u><strong>Columns in MS Excel are identified by numbers.</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n\n<ul>\n\t<li>In MS Excel, columns are identified by letters (A, B, C, etc.).</li>\n\t<li>The cell in the second column and third row is B3.</li>\n\t<li>The cell in the first column and first row is A1.</li>\n\t<li>Rows in MS Excel are identified by numbers.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Cell Addressing in MS Excel:</strong>\n\n\t<ul>\n\t\t<li>Each cell in Excel is identified by a unique cell reference, formed by combining the column letter and the row number.</li>\n\t\t<li>For example, the cell in the second column and third row is referred to as B3.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Columns and Rows:</strong>\n\t<ul>\n\t\t<li>Columns in Excel are labeled with letters starting from A, B, C, and so on.</li>\n\t\t<li>Once the letters are exhausted, columns are identified as AA, AB, AC, and so on.</li>\n\t\t<li>Rows in Excel are labeled with numbers starting from 1, 2, 3, and so on.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Understanding Cell References:</strong>\n\t<ul>\n\t\t<li>A cell reference is a combination of the column letter and the row number, such as A1, B2, C3, etc.</li>\n\t\t<li>It is used to identify and access the value or formula contained in a specific cell.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Importance of Correct Cell Addressing:</strong>\n\t<ul>\n\t\t<li>Accurate cell referencing is crucial for performing calculations, creating formulas, and analyzing data effectively.</li>\n\t\t<li>Incorrect cell addressing can lead to errors in data analysis and results.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q37",
+      "number": 37,
+      "question": "In PPT What method can be used to move among slides if your hands are already on the keyboard?",
+      "questionHtml": "In PPT What method can be used to move among slides if your hands are already on the keyboard?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pressing the Esc key to exit the presentation",
+          "html": "Pressing the Esc key to exit the presentation"
+        },
+        {
+          "id": "B",
+          "text": "Scrolling with the mouse wheel",
+          "html": "Scrolling with the mouse wheel"
+        },
+        {
+          "id": "C",
+          "text": "Clicking on the slide thumbnail in the Slides tab",
+          "html": "Clicking on the slide thumbnail in the Slides tab"
+        },
+        {
+          "id": "D",
+          "text": "Using the keyboard directional keys",
+          "html": "Using the keyboard directional keys"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "Using the keyboard directional keys (left and right arrows) allows for quick navigation between slides without removing your hands from the keyboard. This method is convenient for presenters, helping maintain focus during presentations. The up and down arrows enable controlled transitions. This technique is applicable across various presentation software, including Microsoft PowerPoint. Other methods like pressing the Esc key, scrolling with the mouse wheel, or clicking on slide thumbnails are less effective during live presentations and often interrupt the flow or require switching to a mouse, which is not ideal for seamless presentation management.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q38",
+      "number": 38,
+      "question": "Which of the following keys is used to select a range of continuous cells in an MS Excel worksheet?",
+      "questionHtml": "Which of the following keys is used to select a range of continuous cells in an MS Excel worksheet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alt",
+          "html": "Alt"
+        },
+        {
+          "id": "B",
+          "text": "Shift",
+          "html": "Shift"
+        },
+        {
+          "id": "C",
+          "text": "Tab",
+          "html": "Tab"
+        },
+        {
+          "id": "D",
+          "text": "Ctrl",
+          "html": "Ctrl"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Shift key is used to select a range of continuous cells in an MS Excel worksheet.</p>\n\n<p>To select a range of cells, use the shift key in combination with any of the movement keys.</p>\n\n<p><span style=\"color: rgb(0, 0, 0);  \">You can also click and hold the left mouse button and drag through the range you want to select.</span></p>\n\n<p>To select all the cells to the right of the active cell in the row, hold down Shift, Cntrl and press the Right Arrow Key.</p>\n\n<p>To select all the cells below the active cell in the worksheet, hold down Shift, Cntrl and press the Down Arrow key.</p>\n\n<p>To select a single cell simply left-click on it.</p>\n\n<p>Tab key is used to moves the cell cursor from one column to next from the left to right in the MS Excel worksheet.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q39",
+      "number": 39,
+      "question": "Where can you find the options &lsquo;From Beginning&rsquo; and &lsquo;From Current Slide&rsquo; to run a slide show in MS PowerPoint?",
+      "questionHtml": "Where can you find the options &lsquo;From Beginning&rsquo; and &lsquo;From Current Slide&rsquo; to run a slide show in MS PowerPoint?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Home tab",
+          "html": "Home tab"
+        },
+        {
+          "id": "B",
+          "text": "Slide Sorter tab",
+          "html": "Slide Sorter tab"
+        },
+        {
+          "id": "C",
+          "text": "Slide Show tab",
+          "html": "Slide Show tab"
+        },
+        {
+          "id": "D",
+          "text": "View tab",
+          "html": "View tab"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "In MS PowerPoint, the options 'From Beginning' and 'From Current Slide' for running a slide show are located in the Slide Show tab. This tab offers various tools to start and customize slide show presentations, helping presenters control and manage their settings effectively. It includes features such as setting up slide show timings and rehearsing presentations. The Home tab contains basic formatting tools and is not related to slide shows. The Slide Sorter tab does not exist; slide sorting is done in the View tab. The View tab changes presentation views but does not include slide show options.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q40",
+      "number": 40,
+      "question": "Consider a formula \"= $D$3 + $C$5\" in cell B4. If cell B4 is copied and pasted into F10, then what will be the formula in cell F10?",
+      "questionHtml": "Consider a formula &quot;= $D$3 + $C$5&quot; in cell B4. If cell B4 is copied and pasted into F10, then what will be the formula in cell F10?",
+      "options": [
+        {
+          "id": "A",
+          "text": "= $E$3 + $D$5",
+          "html": "=&nbsp; $E$3 + $D$5"
+        },
+        {
+          "id": "B",
+          "text": "= $D$3 + $C$5",
+          "html": "= $D$3 + $C$5"
+        },
+        {
+          "id": "C",
+          "text": "= $E$4 + $D$6",
+          "html": "= $E$4 + $D$6"
+        },
+        {
+          "id": "D",
+          "text": "= $D$4 + $C$6",
+          "html": "= $D$4 + $C$6"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>If cell B4 is copied and pasted into F10, then the formula in cell F10 <span style=\"font-weight: 700;\"><u>= $D$3 + $C$5</u>.</span></p>\n\n<ul>\n\t<li><span style=\"font-weight: 700;\">Ctrl + C </span>is used to copy the selected content to the clipboard.</li>\n\t<li><span style=\"font-weight: 700;\">Ctrl + V </span>is used to paste the selected content to the clipboard</li>\n</ul>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q41",
+      "number": 41,
+      "question": "Which of the following shortcut key is used to display the font dialog box in MS-Word 365?",
+      "questionHtml": "Which of the following shortcut key is used to display the font dialog box in MS-Word 365?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ctrl + F",
+          "html": "Ctrl + F"
+        },
+        {
+          "id": "B",
+          "text": "Ctrl + D",
+          "html": "Ctrl + D"
+        },
+        {
+          "id": "C",
+          "text": "Alt + D",
+          "html": "Alt + D"
+        },
+        {
+          "id": "D",
+          "text": "Alt+F",
+          "html": "Alt+F"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is&nbsp;<u><strong>Ctrl + D</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;\">\n\t<li style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;\">Use the&nbsp;<span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: bolder;\">Ctrl+D</span>&nbsp;keyboard shortcut to quickly summon the&nbsp;<span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: bolder;\">Font dialog box.</span></li>\n\t<li style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;\">The best benefit of the&nbsp;<span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: bolder;\">Font dialog box</span>&nbsp;is its&nbsp;<span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: bolder;\">Preview window</span>, at the bottom.</li>\n\t<li style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;\"><span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: bolder;\">This window</span>&nbsp;shows you exactly how your&nbsp;<span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: bolder;\">choices affect text</span>&nbsp;in your document.</li>\n\t<li style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;\"><span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: bolder;\">The Font names +Body and +Heading refer</span>&nbsp;to the fonts&nbsp;<span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: bolder;\">selected&nbsp;</span>by the&nbsp;<span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: bolder;\">current document theme</span>.</li>\n</ul>\n\n<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;\">\n\t<li style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;\">Important Shortcut keys:\n\t<ul style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;\">\n\t\t<li style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;\">Cut the selected content to the Clipboard - Ctrl+X</li>\n\t\t<li style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;\">Copy the selected content to the Clipboard -<span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; white-space: pre;\"> </span>Ctrl+C</li>\n\t\t<li style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;\">Paste the contents of the Clipboard -Ctrl+V</li>\n\t\t<li style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;\">Increase the font size by 1 point.- Ctrl+]</li>\n\t\t<li style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;\">Center the text -&nbsp;Ctrl+E.</li>\n\t\t<li style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;\">Align the text to the left -&nbsp;Ctrl+L</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q42",
+      "number": 42,
+      "question": "Which function key displays the Print Preview window in Microsoft Office?",
+      "questionHtml": "Which function key displays the Print Preview window in Microsoft Office?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alt + Ctrl + F2",
+          "html": "Alt + Ctrl + F2"
+        },
+        {
+          "id": "B",
+          "text": "Alt + F2",
+          "html": "Alt + F2"
+        },
+        {
+          "id": "C",
+          "text": "Shift + F2",
+          "html": "Shift + F2"
+        },
+        {
+          "id": "D",
+          "text": "Ctrl + F2",
+          "html": "Ctrl + F2"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "In Microsoft Office, pressing Ctrl + F2 opens the Print Preview window. This shortcut provides a quick way to see how your document will look when printed, allowing you to make necessary adjustments before finalizing the print.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q43",
+      "number": 43,
+      "question": "Which of the following charts is used in MS Excel 365 to display data as a series of points connected by straight lines and is used for showing trends over time?",
+      "questionHtml": "Which of the following charts is used in MS Excel 365 to display data as a series of points connected by straight lines and is used for showing trends over time?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Line chart",
+          "html": "Line chart&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "Bar chart",
+          "html": "Bar chart"
+        },
+        {
+          "id": "C",
+          "text": "Pie chart",
+          "html": "Pie chart&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "Column chart",
+          "html": "Column chart"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>The correct answer is <u><strong>Line chart</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n\n<ul>\n\t<li>A line chart displays information as a series of data points called &#39;markers&#39; connected by straight line segments.</li>\n\t<li>It is particularly useful for showing trends over time, such as monthly sales data or stock prices.</li>\n\t<li>In MS Excel 365, line charts can be created by selecting the data range and choosing the &#39;Insert Line Chart&#39; option.</li>\n\t<li>Line charts help in visualizing the data trend, making it easier to identify any patterns or anomalies over a period.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Bar Chart</strong>\n\n\t<ul>\n\t\t<li>A bar chart represents data with rectangular bars with lengths proportional to the values they represent.</li>\n\t\t<li>Bar charts are used for comparing different categories of data.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Pie Chart</strong>\n\t<ul>\n\t\t<li>A pie chart is a circular statistical graphic divided into slices to illustrate numerical proportions.</li>\n\t\t<li>Each slice of the pie chart represents a category&#39;s contribution to the whole.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Column Chart</strong>\n\t<ul>\n\t\t<li>Similar to bar charts, column charts use vertical bars to display data.</li>\n\t\t<li>They are often used for comparing data across different categories over time.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Trend Analysis</strong>\n\t<ul>\n\t\t<li>Trend analysis is a technique used to analyze the current trend of data to predict future movements.</li>\n\t\t<li>Line charts are particularly useful for trend analysis as they show data points over a specific period.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q44",
+      "number": 44,
+      "question": "In a worksheet, there is a list of student scores in a column. To count the number of students who scored above 90, which Excel 365 function should be used?",
+      "questionHtml": "In a worksheet, there is a list of student scores in a column. To count the number of students who scored above 90, which Excel 365 function should be used?",
+      "options": [
+        {
+          "id": "A",
+          "text": "COUNT",
+          "html": "COUNT"
+        },
+        {
+          "id": "B",
+          "text": "COUNTIF",
+          "html": "COUNTIF"
+        },
+        {
+          "id": "C",
+          "text": "COUNTBLANK",
+          "html": "COUNTBLANK"
+        },
+        {
+          "id": "D",
+          "text": "COUNTA",
+          "html": "COUNTA"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is <u><strong>COUNTIF</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li data-end=\"155\" data-start=\"0\">To <strong data-end=\"55\" data-start=\"3\">count the number of students who scored above 90</strong> in a worksheet, the appropriate Excel 365 function to use is <strong data-end=\"128\" data-start=\"117\">COUNTIF</strong>. Here&#39;s how you can do it:</li>\n\t<li data-end=\"343\" data-start=\"157\">\n\t<p data-end=\"181\" data-start=\"160\"><strong data-end=\"180\" data-start=\"160\">COUNTIF Function</strong>:</p>\n\n\t<ul data-end=\"343\" data-start=\"185\">\n\t\t<li data-end=\"343\" data-start=\"185\">\n\t\t<p data-end=\"343\" data-start=\"187\">The <strong data-end=\"202\" data-start=\"191\">COUNTIF</strong> function counts the number of cells that meet a specific condition. In this case, the condition is that the score should be greater than 90.</p>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li data-end=\"454\" data-start=\"345\">\n\t<p data-end=\"370\" data-start=\"348\"><strong data-end=\"369\" data-start=\"348\">Formula Structure</strong>:</p>\n\n\t<ul data-end=\"454\" data-start=\"374\">\n\t\t<li data-end=\"454\" data-start=\"374\">\n\t\t<p data-end=\"454\" data-start=\"376\">The syntax for the <strong data-end=\"406\" data-start=\"395\">COUNTIF</strong> function is:</p>\n\n\t\t<p data-end=\"454\" data-start=\"376\"><code data-end=\"454\" data-start=\"427\">=COUNTIF(range, criteria)</code></p>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li data-end=\"626\" data-start=\"456\">\n\t<p data-end=\"469\" data-start=\"459\"><strong data-end=\"468\" data-start=\"459\">Steps</strong>:</p>\n\n\t<ul data-end=\"626\" data-start=\"473\">\n\t\t<li data-end=\"548\" data-start=\"473\">\n\t\t<p data-end=\"548\" data-start=\"475\"><strong data-end=\"484\" data-start=\"475\">range</strong>: Select the range of cells where the student scores are listed.</p>\n\t\t</li>\n\t\t<li data-end=\"626\" data-start=\"552\">\n\t\t<p data-end=\"626\" data-start=\"554\"><strong data-end=\"566\" data-start=\"554\">criteria</strong>: Use the condition <code data-end=\"593\" data-start=\"586\">&quot;&gt;90&quot;</code> to count scores greater than 90.</p>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li data-end=\"864\" data-start=\"628\">\n\t<p data-end=\"643\" data-start=\"631\"><strong data-end=\"642\" data-start=\"631\">Example</strong>:</p>\n\n\t<ul data-end=\"864\" data-start=\"647\">\n\t\t<li data-end=\"778\" data-start=\"647\">\n\t\t<p data-end=\"726\" data-start=\"649\">If the student scores are in column B (from B2 to B20), the formula would be:</p>\n\n\t\t<div class=\"contain-inline-size rounded-md border-[0.5px] border-token-border-medium relative bg-token-sidebar-surface-primary\">\n\t\t<div class=\"overflow-y-auto p-4\" dir=\"ltr\"><code class=\"!whitespace-pre language-excel\">=COUNTIF(B2:B20, &quot;&gt;90&quot;) </code></div>\n\t\t</div>\n\t\t</li>\n\t\t<li data-end=\"864\" data-start=\"782\">\n\t\t<p data-end=\"864\" data-start=\"784\">This formula will return the number of students who have scores greater than 90.</p>\n\n\t\t<ul data-end=\"1099\" data-start=\"888\">\n\t\t\t<li data-end=\"951\" data-start=\"888\">\n\t\t\t<p data-end=\"951\" data-start=\"890\"><strong data-end=\"901\" data-start=\"890\">COUNTIF</strong> is useful for single-condition counting in Excel.</p>\n\t\t\t</li>\n\t\t\t<li data-end=\"1099\" data-start=\"955\">\n\t\t\t<p data-end=\"1099\" data-start=\"957\">You can modify the condition (criteria) for different ranges, such as counting scores less than a certain value or equal to a specific number.</p>\n\t\t\t</li>\n\t\t</ul>\n\t\t</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q45",
+      "number": 45,
+      "question": "In MS Excel 365, which of the following functions can be used to display the formula applied to a specific cell?",
+      "questionHtml": "In MS Excel 365, which of the following functions can be used to display the formula applied to a specific cell?",
+      "options": [
+        {
+          "id": "A",
+          "text": "=RETFORMULA(Cell_Reference)",
+          "html": "=RETFORMULA(Cell_Reference)&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "=FORMULATEXT(Cell_Reference)",
+          "html": "=FORMULATEXT(Cell_Reference)"
+        },
+        {
+          "id": "C",
+          "text": "=CALLFORMULA(Cell_Reference)",
+          "html": "=CALLFORMULA(Cell_Reference)&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "=TEXTFORMULA(Cell_Reference)",
+          "html": "=TEXTFORMULA(Cell_Reference)&nbsp;"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is <u><strong>=FORMULATEXT(Cell_Reference).</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n\n<ul>\n\t<li>The <strong>=FORMULATEXT(Cell_Reference)</strong> error in MS Excel generally occurs when there is an issue with the <strong>function name or syntax</strong>.</li>\n\t<li>It can arise if you <strong>attempt to display a formula</strong> or use a function that is incorrectly spelled or not recognized by Excel.</li>\n\t<li>To display the formula applied to a specific cell, use the <strong>FORMULATEXT()</strong> function, but ensure it is supported in your version of Excel.</li>\n\t<li>The <strong>#NAME?</strong> error also highlights that Excel cannot identify text used in a formula, typically due to missing quotes or undefined names.</li>\n\t<li>This error serves as a diagnostic tool in Excel to identify and correct issues in functions or formulas.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>FORMULATEXT() Function:</strong>\n\n\t<ul>\n\t\t<li>This function returns the formula as a text string from a referenced cell.</li>\n\t\t<li>Syntax: <code>FORMULATEXT(reference)</code>.</li>\n\t\t<li>It is especially useful for auditing and reviewing formulas in large spreadsheets.</li>\n\t\t<li>Available in Excel 2013 and later versions, including MS Excel 365.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Common Excel Errors:</strong>\n\t<ul>\n\t\t<li><strong>#DIV/0!</strong>: Occurs when dividing by zero or an empty cell.</li>\n\t\t<li><strong>#VALUE!</strong>: Indicates incorrect data types in a formula.</li>\n\t\t<li><strong>#REF!</strong>: Arises when a cell reference is invalid.</li>\n\t\t<li><strong>#NAME?</strong>: Triggered by unrecognized text in a formula.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Excel Formula Auditing Tools:</strong>\n\t<ul>\n\t\t<li>Excel provides tools like <strong>Trace Precedents</strong> and <strong>Trace Dependents</strong> to track formula references.</li>\n\t\t<li>The <strong>Evaluate Formula</strong> feature helps debug complex formulas step-by-step.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Excel Function Best Practices:</strong>\n\t<ul>\n\t\t<li>Always ensure correct syntax and spelling of functions.</li>\n\t\t<li>Use <strong>Name Manager</strong> to define and manage named ranges or constants.</li>\n\t\t<li>Double-check quotes and parentheses in formulas to avoid errors.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q46",
+      "number": 46,
+      "question": "In MS Word, which feature allows you to create different headers and footers for odd and even pages in a document?",
+      "questionHtml": "In MS Word, which feature allows you to create different headers and footers for odd and even pages in a document?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Section Breaks",
+          "html": "Section Breaks"
+        },
+        {
+          "id": "B",
+          "text": "Different First Page",
+          "html": "Different First Page"
+        },
+        {
+          "id": "C",
+          "text": "Page Breaks",
+          "html": "Page Breaks"
+        },
+        {
+          "id": "D",
+          "text": "Different Odd & Even Pages",
+          "html": "Different Odd &amp; Even Pages"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "The \"Different Odd & Even Pages\" feature in MS Word allows the creation of distinct headers and footers for odd and even pages, useful for documents like books, reports, and academic papers. To enable it, go to the Header & Footer Tools Design tab and check the Different Odd & Even Pages box, then customize each separately. Additionally, MS Word offers \"Different First Page\" for unique headers/footers on the first page and section breaks for different headers/footers in different sections, enhancing document professionalism and readability.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q47",
+      "number": 47,
+      "question": "Which is the correct syntax for writing SUMIF() function in MS Excel?",
+      "questionHtml": "Which is the correct syntax for writing SUMIF() function in MS Excel?",
+      "options": [
+        {
+          "id": "A",
+          "text": "SUMIF(criteria)",
+          "html": "SUMIF(criteria)&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "SUMIF(range, criteria, [sum_range])",
+          "html": "SUMIF(range, criteria, [sum_range])"
+        },
+        {
+          "id": "C",
+          "text": "SUMIF(range, criteria)",
+          "html": "SUMIF(range, criteria)"
+        },
+        {
+          "id": "D",
+          "text": "SUMIF(range)",
+          "html": "SUMIF(range)"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is <u><strong>SUMIF(range, criteria, [sum_range])</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n\n<ul>\n\t<li>The SUMIF function in MS Excel is used to sum the values in a range that meet specific criteria.</li>\n\t<li>The correct syntax is <strong>SUMIF(range, criteria, [sum_range])</strong>.</li>\n\t<li>The &quot;range&quot; is the group of cells you want to apply the criteria to.</li>\n\t<li>The &quot;criteria&quot; defines the condition that must be met for the cells to be included in the sum.</li>\n\t<li>The &quot;[sum_range]&quot; is optional and specifies the actual cells to add if different from the range.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>SUMIFS Function</strong>\n\n\t<ul>\n\t\t<li>The SUMIFS function allows for multiple criteria to be applied, using the syntax <strong>SUMIFS(sum_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)</strong>.</li>\n\t\t<li>It sums the values in a range that meet multiple criteria.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Example Usage</strong>\n\t<ul>\n\t\t<li>To sum the values in cells A1 to A10 that are greater than 100, you would use: <strong>=SUMIF(A1:A10, &quot;&gt;100&quot;)</strong>.</li>\n\t\t<li>To sum the values in cells B1 to B10 where the corresponding cells in A1 to A10 are &quot;Apples&quot;, you would use: <strong>=SUMIF(A1:A10, &quot;Apples&quot;, B1:B10)</strong>.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Common Errors</strong>\n\t<ul>\n\t\t<li>#VALUE! error occurs if the criteria argument is not valid.</li>\n\t\t<li>If sum_range and range are not the same size, SUMIF will return incorrect results.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Comparison with SUM Function</strong>\n\t<ul>\n\t\t<li>The SUM function simply adds up values without any criteria, using the syntax <strong>SUM(number1, [number2], ...)</strong>.</li>\n\t\t<li>SUMIF provides conditional summing capabilities, making it more versatile for data analysis.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q48",
+      "number": 48,
+      "question": "In MS Excel 365 which of the following is one of the options to edit cells in MS-Excel?",
+      "questionHtml": "In MS Excel 365 which of the following is one of the options to edit cells in MS-Excel?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Edit bar",
+          "html": "Edit bar"
+        },
+        {
+          "id": "B",
+          "text": "Formula bar",
+          "html": "Formula bar"
+        },
+        {
+          "id": "C",
+          "text": "Space bar",
+          "html": "Space bar"
+        },
+        {
+          "id": "D",
+          "text": "Ribbon",
+          "html": "Ribbon"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is&nbsp;<u><strong>Formula bar</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Formula Bar</strong>\n\n\t<ul>\n\t\t<li>The Formula Bar is a crucial element located above the worksheet grid.</li>\n\t\t<li>It displays the contents of the currently selected cell.</li>\n\t\t<li>If the cell contains a value, the value is shown.</li>\n\t\t<li>If the cell contains a formula, the formula itself is displayed in the Formula Bar.</li>\n\t\t<li>This allows you to:</li>\n\t\t<li>View and edit existing formulas: You can directly modify the formula within the Formula Bar to change its behavior.</li>\n\t\t<li>Enter new formulas: Type the equal sign (=) to start a new formula, then enter the formula components.</li>\n\t\t<li>Debug formulas: Identify and correct errors in your formulas by examining them in the Formula Bar.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Edit Bar</strong>\n\n\t<ul>\n\t\t<li>In Excel, the term &quot;Edit Bar&quot; is not a standard component. It&#39;s possible you might be referring to a similar concept within older versions or specific customizations.</li>\n\t\t<li>However, the core editing functionality in Excel is primarily handled within the Formula Bar itself.</li>\n\t\t<li>You can directly edit cell contents, including formulas, within the Formula Bar.</li>\n\t\t<li>Features like auto-complete and function suggestions assist in editing and formula entry.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Space Bar</strong>\n\t<ul>\n\t\t<li>While not a dedicated feature like the Formula Bar, the Space Bar plays a crucial role in Excel.</li>\n\t\t<li>It&#39;s used for:</li>\n\t\t<li>Moving between cells: Pressing the Space Bar moves the active cell selection to the right.</li>\n\t\t<li>Entering spaces within a cell: When entering text data, the Space Bar inserts spaces between characters.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Ribbon</strong>\n\t<ul>\n\t\t<li>The Ribbon is the primary user interface in modern versions of Excel.</li>\n\t\t<li>It&#39;s a collection of tabs (Home, Insert, Data, etc.) containing groups of related commands and tools.</li>\n\t\t<li>These commands and tools are used for:</li>\n\t\t<li>Formatting cells: Changing fonts, colors, alignment, etc.</li>\n\t\t<li>Inserting data: Adding charts, images, shapes, etc.</li>\n\t\t<li>Working with data: Sorting, filtering, analyzing data with formulas and functions.</li>\n\t\t<li>Customizing the Excel environment: Adjusting settings, creating macros, etc.</li>\n\t\t<li>The Ribbon provides easy access to a wide range of Excel&#39;s features, making it a central hub for user interaction.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q49",
+      "number": 49,
+      "question": "Which function is used to display the current date in MS-excel 365?",
+      "questionHtml": "Which function is used to display the current date in MS-excel 365?",
+      "options": [
+        {
+          "id": "A",
+          "text": "DATE()",
+          "html": "DATE()"
+        },
+        {
+          "id": "B",
+          "text": "TODAY()",
+          "html": "TODAY()"
+        },
+        {
+          "id": "C",
+          "text": "MONTH()",
+          "html": "MONTH()"
+        },
+        {
+          "id": "D",
+          "text": "DAY()",
+          "html": "DAY()"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is <u><strong>TODAY()</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n\n<ul>\n\t<li>The <strong>TODAY()</strong> function in MS Excel returns the current date.</li>\n\t<li>It is a volatile function, meaning it updates itself every time the worksheet is recalculated.</li>\n\t<li>The <strong>TODAY()</strong> function does not take any arguments.</li>\n\t<li>It is useful for creating dynamic date-based calculations, such as calculating age or the number of days between dates.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>DATE()</strong>\n\n\t<ul>\n\t\t<li>The DATE() function is used to create a date from individual year, month, and day components.</li>\n\t\t<li>Syntax: DATE(year, month, day)</li>\n\t\t<li>It is useful for combining date parts stored in separate cells into a single date.</li>\n\t</ul>\n\t</li>\n\t<li><strong>MONTH()</strong>\n\t<ul>\n\t\t<li>The MONTH() function returns the month portion of a date as a number (1-12).</li>\n\t\t<li>Syntax: MONTH(serial_number)</li>\n\t\t<li>It is typically used to extract the month from a given date.</li>\n\t</ul>\n\t</li>\n\t<li><strong>DAY()</strong>\n\t<ul>\n\t\t<li>The DAY() function returns the day portion of a date as a number (1-31).</li>\n\t\t<li>Syntax: DAY(serial_number)</li>\n\t\t<li>It is useful for extracting the day from a given date.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Additional Functions</strong>\n\t<ul>\n\t\t<li><strong>NOW()</strong>: Returns the current date and time. Syntax: NOW()</li>\n\t\t<li><strong>YEAR()</strong>: Returns the year portion of a date. Syntax: YEAR(serial_number)</li>\n\t\t<li><strong>DATEDIF()</strong>: Calculates the difference between two dates. Syntax: DATEDIF(start_date, end_date, unit)</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4c239efe6183-q50",
+      "number": 50,
+      "question": "Which of the following is used to move a selected text from one place to another in MS word 365?",
+      "questionHtml": "Which of the following is used to move a selected text from one place to another in MS word 365?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cut-Copy",
+          "html": "Cut-Copy"
+        },
+        {
+          "id": "B",
+          "text": "Cut-Paste",
+          "html": "Cut-Paste"
+        },
+        {
+          "id": "C",
+          "text": "Copy-Copy",
+          "html": "Copy-Copy"
+        },
+        {
+          "id": "D",
+          "text": "Copy-Paste",
+          "html": "Copy-Paste"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is <u><strong>Cut-Paste</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n\n<ul>\n\t<li>The &quot;Cut&quot; command in MS Word removes the selected text from its original location.</li>\n\t<li>The &quot;Paste&quot; command inserts the cut text into the new location where the cursor is placed.</li>\n\t<li>This functionality helps in efficiently moving text within a document without the need for retyping.</li>\n\t<li>Keyboard shortcuts for Cut (Ctrl + X) and Paste (Ctrl + V) can speed up the process.</li>\n\t<li>Cut-Paste ensures that the text is moved rather than duplicated, unlike Copy-Paste which duplicates the text.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Clipboard</strong>: The temporary storage area where cut or copied text is stored before it is pasted.</li>\n\t<li><strong>Undo and Redo</strong>: Commands that allow users to revert or reapply the last action, enhancing editing flexibility.</li>\n\t<li><strong>Drag and Drop</strong>: An alternative method to move text by dragging it with the mouse to a new location.</li>\n\t<li><strong>Formatting Preservation</strong>: When text is cut and pasted, MS Word retains the formatting of the text.</li>\n\t<li><strong>Context Menu</strong>: Right-clicking on selected text provides options for Cut, Copy, and Paste among other editing commands.</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

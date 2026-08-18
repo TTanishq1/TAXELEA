@@ -1,0 +1,1715 @@
+{
+  "id": "84056c41b5a3",
+  "provider": "Testbook",
+  "sourceFile": "Profit and Loss - Simple Profit and Loss.html",
+  "sourcePath": "Testbook/files/Profit and Loss - Simple Profit and Loss.html",
+  "title": "Profit and Loss - Simple Profit and Loss",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "84056c41b5a3-q1",
+      "number": 1,
+      "question": "A shopkeeper bought certain number of apples for Rs. 3,600. He sold one-fifth of them at a loss of 10%, one-fourth of the remaining apples at a loss of 5%, and two-third of the rest at a profit of 15%. At what price (in Rs.) should he sell the remaining apples to earn a profit of 27% overall?",
+      "questionHtml": "A shopkeeper bought certain number of apples for Rs. 3,600. He sold one-fifth of them at a loss of 10%, one-fourth of the remaining apples at a loss of 5%, and two-third of the rest at a profit of 15%. At what price (in Rs.) should he sell the remaining apples to earn a profit of 27% overall?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1,548",
+          "html": "1,548"
+        },
+        {
+          "id": "B",
+          "text": "1,584",
+          "html": "1,584"
+        },
+        {
+          "id": "C",
+          "text": "1,845",
+          "html": "1,845"
+        },
+        {
+          "id": "D",
+          "text": "1,864",
+          "html": "1,864"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">3600 × (1/5) × (- 10%) + 2880 × (1/4) × (- 5%) + 2160 × (2/3) × 15% + 720 × (x%) = 3600 × 27%</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ - 7200 - 3600 + 21600 + 720x = 3600 × 27 ⇒ - 720 - 360 + 2160 + 72x = 360 × 27 ⇒ 72 × (- 10 - 5 + 30 + x) = 360 × 27 ⇒ x = 135 - 15 = 120%</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Selling price of rest apple = 720 × (100 + 120)% ⇒ 720 × 220% = Rs.1584</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q2",
+      "number": 2,
+      "question": "On selling a painting at Rs. 1,498 , the gain is 25% more than the loss incurred on selling it at Rs.1,300. In order to gain 25%, the selling price will be:",
+      "questionHtml": "On selling a painting at Rs. 1,498 , the gain is 25% more than the loss incurred on selling it at Rs.1,300. In order to gain 25%, the selling price will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 1,735",
+          "html": "Rs. 1,735"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 1,335",
+          "html": "Rs. 1,335"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 1,755",
+          "html": "Rs. 1,755"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 1,388",
+          "html": "Rs. 1,388"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">(1498 - C.P) = 125% × (C.P - 1300) ⇒ (1498 - C.P) = (5/4) × (C.P - 1300) ⇒ 4 × (1498 - C.P) = 5 × (C.P - 1300) ⇒ 5992 - 4C.P = 5C.P - 6500</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ 9C.P = (6500 + 5992) ⇒ C.P = 12492/9 = Rs.1388</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Required S.P = 1388 × 125% = Rs.1735</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q3",
+      "number": 3,
+      "question": "Naman bought few apples for ₹720 from a shop. He negotiated the price and the shopkeeper reduced it by ₹2 per apple. Due to this Naman could buy four more apples than what he had bought earlier. How many apples did he originally buy?",
+      "questionHtml": "<div><span style=\"\">Naman bought few apples for ₹720 from a shop. He negotiated the price and the shopkeeper reduced it by ₹2 per apple. Due&nbsp;to this Naman could buy four more apples than what he had bought earlier. How many apples did he originally buy?</span></div>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "48",
+          "html": "48"
+        },
+        {
+          "id": "B",
+          "text": "44",
+          "html": "44"
+        },
+        {
+          "id": "C",
+          "text": "36",
+          "html": "36"
+        },
+        {
+          "id": "D",
+          "text": "40",
+          "html": "40"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Total cost = price × number of apples</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ x × y = 720 (Equation 1)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">After reducing the price by ₹2 per apple, the number of apples becomes (y + 4):</p>\n\n<p style=\"color: rgb(33, 37, 41);\">(x - 2)(y + 4) = 720 (Equation 2)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">From Equation 1 and 2: 4x² - 8x - 1440 = 0</p>\n\n<p style=\"color: rgb(33, 37, 41);\">x - 20)(x + 18) = 0 Thus, x = 20 (since price cannot be negative).</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Substitute x = 20 into Equation 1: y = 720 / 20 = 36</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Naman originally bought 36 apples.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q4",
+      "number": 4,
+      "question": "Ramesh purchased 130 books at the rate of ₹200 each and sold half of them at the rate of ₹300 each, one-fifth of them at the rate of ₹350 each and the rest at the cost price. Find his profit percentage.",
+      "questionHtml": "Ramesh purchased 130 books at the rate of ₹200 each and sold half of them at the rate of ₹300 each, one-fifth of them at the rate of ₹350 each and the rest at the cost price. Find his profit percentage.",
+      "options": [
+        {
+          "id": "A",
+          "text": "35%",
+          "html": "35%"
+        },
+        {
+          "id": "B",
+          "text": "40%",
+          "html": "40%"
+        },
+        {
+          "id": "C",
+          "text": "38%",
+          "html": "38%"
+        },
+        {
+          "id": "D",
+          "text": "44%",
+          "html": "44%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>CP = 130 × 200 = 26000</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">SP1 = 65 × 300 = 19500 </span><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">SP2 = 26 × 350 = 9100 </span><span style=\"color: rgb(33, 37, 41);\">⇒</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> SP3 = 39 × 200 = 7800</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">⇒ SP = 19500 + 9100 + 7800 = 36400</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">⇒ Profit = 36400 - 26000 = 10400</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">⇒ Profit % = (10400/26000) × 100 = 40%</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q5",
+      "number": 5,
+      "question": "If the selling price of an article is doubled, then the profit becomes four times. What was the original profit percentage?",
+      "questionHtml": "If the selling price of an article is doubled, then the profit becomes four times. What was the original profit percentage?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "75%",
+          "html": "75%"
+        },
+        {
+          "id": "B",
+          "text": "100%",
+          "html": "100%"
+        },
+        {
+          "id": "C",
+          "text": "50%",
+          "html": "50%"
+        },
+        {
+          "id": "D",
+          "text": "25%",
+          "html": "25%"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">4 × (S.P - C.P) = (2 × S.P - C.P) ⇒ 4 S.P - 4 C.P = 2 S.P - C.P ⇒ 2 S.P = 3 C.P ⇒ S.P/C.P = 3/2</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">Profit percentage = </span><span style=\"color: rgb(33, 37, 41);\">{(3 - 2) × 100}/2 = 100/2 = 50%.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q6",
+      "number": 6,
+      "question": "The profit gained on selling a certain product is 320% of the cost. If the cost increases by 10% but the selling price remains constant, then what percentage of the selling price is the profit (correct to one decimal place)?",
+      "questionHtml": "The profit gained on selling a certain product is 320% of the cost. If the cost increases by 10% but the selling price remains constant, then what percentage of the selling price is the profit (correct to one decimal place)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "70.2%",
+          "html": "70.2%"
+        },
+        {
+          "id": "B",
+          "text": "73.8%",
+          "html": "73.8%"
+        },
+        {
+          "id": "C",
+          "text": "75.7%",
+          "html": "75.7%"
+        },
+        {
+          "id": "D",
+          "text": "63.8%",
+          "html": "63.8%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Given: Profit = 320% of Cost</p>\n\n<p>Let initial cost price be C</p>\n\n<p>selling price (S) = 4.2C</p>\n\n<p>New cost price = 1.10C</p>\n\n<p>Profit = S - New Cost Price = 4.2C - 1.10C = 3.10C</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Profit Percentage = (3.10C) / (4.2C) × 100 =<strong> 73.8%</strong></span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q7",
+      "number": 7,
+      "question": "A shopkeeper purchased 1600 mangoes at the rate of ₹120 per dozen. Out of these, he sold 900 mangoes at ₹15 per mango and the remaining mangoes at ₹14 per mango. His gain percentage is:",
+      "questionHtml": "A shopkeeper purchased 1600 mangoes&nbsp;at the rate of ₹120 per dozen. Out of these, he sold 900 mangoes at ₹15 per mango and the remaining mangoes at ₹14 per mango. His gain percentage is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "45.625%",
+          "html": "45.625%"
+        },
+        {
+          "id": "B",
+          "text": "38.265%",
+          "html": "38.265%"
+        },
+        {
+          "id": "C",
+          "text": "35.625%",
+          "html": "35.625%"
+        },
+        {
+          "id": "D",
+          "text": "48.765%",
+          "html": "48.765%"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Total C.P = 1600 × (<span style=\"color: rgb(33, 37, 41);\">120/12)</span> = Rs.16000</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total S.P = 900 × 15 + 700 × 14 ⇒ 13500 + 9800 = 23300</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Gain% = <span style=\"color: rgb(33, 37, 41);\">{(23300 - 16000) × 100}/16000</span> ⇒ (7300 × 100)/16000⇒ 730/16 = 45.625%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q8",
+      "number": 8,
+      "question": "In a certain shop, the profit is 130% of the cost. If the cost increases by 28% and the selling price remains constant, then what is the profit percentage to the nearest whole number?",
+      "questionHtml": "In a certain shop, the profit is 130% of the cost. If the cost increases by 28% and the selling price remains constant, then what is the profit percentage to the nearest whole number?",
+      "options": [
+        {
+          "id": "A",
+          "text": "75%",
+          "html": "75%"
+        },
+        {
+          "id": "B",
+          "text": "60%",
+          "html": "60%"
+        },
+        {
+          "id": "C",
+          "text": "59%",
+          "html": "59%"
+        },
+        {
+          "id": "D",
+          "text": "80%",
+          "html": "80%"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let the CP = 100, after 130% profit SP = 230</p>\n\n<p>Now, CP increased by 28%, then the new CP = 128</p>\n\n<p>If SP remains constant, profit% = (230 - 128)/128 × 100 = 102/128 × 100 = 79.69% <span style=\"color: rgb(33, 37, 41);\">~ 80%</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q9",
+      "number": 9,
+      "question": "Ankita sold her watch at 5% loss. If she had sold it for Rs. 300 more, she would have gained 5%. Find the selling price of the watch.",
+      "questionHtml": "Ankita sold her watch at 5% loss. If she had sold it for Rs. 300 more, she would have gained 5%. Find the selling price of the watch.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 2,900",
+          "html": "Rs. 2,900"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 2,750",
+          "html": "Rs. 2,750"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 3,000",
+          "html": "Rs. 3,000"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 2,850",
+          "html": "Rs. 2,850"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(30, 43, 51);  \">Let CP be 100%</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">105%  - 95% = 300</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">⇒ 10% = 300 ⇒ 1% = 30 <span style=\"color: rgb(30, 43, 51);\">⇒ 95% = 2850</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q10",
+      "number": 10,
+      "question": "If books bought at prices ranging from ₹200 to ₹260 are sold at prices ranging from ₹250 to 300, what is the greatest possible profit that might be made in selling 25 books?",
+      "questionHtml": "If books bought at prices ranging from ₹200 to ₹260 are sold at prices ranging from ₹250 to 300, what is the greatest&nbsp;possible profit that might be made in selling 25 books?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹2,300",
+          "html": "₹2,300"
+        },
+        {
+          "id": "B",
+          "text": "₹2,500",
+          "html": "₹2,500"
+        },
+        {
+          "id": "C",
+          "text": "₹1,800",
+          "html": "₹1,800"
+        },
+        {
+          "id": "D",
+          "text": "₹2,700",
+          "html": "₹2,700"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Greatest possible profit per book = Highest selling price - Lowest buying price</span></p>\n\n<p>Greatest possible profit per book = ₹300 - ₹200 = ₹100</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total profit for 25 books = 25 × ₹100 = ₹2500</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q11",
+      "number": 11,
+      "question": "A pen was sold for Rs. 166.44 with a profit of 14%. If it were sold for Rs. 154.76, then what would have been the percentage of profit or loss?",
+      "questionHtml": "A pen was sold for Rs. 166.44 with a profit of 14%. If it were sold for Rs. 154.76, then what would have been the percentage of profit or loss?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5% loss",
+          "html": "5% loss"
+        },
+        {
+          "id": "B",
+          "text": "6% profit",
+          "html": "6% profit"
+        },
+        {
+          "id": "C",
+          "text": "5% profit",
+          "html": "5% profit"
+        },
+        {
+          "id": "D",
+          "text": "6% loss",
+          "html": "6% loss"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"\">C.P = 100/(100 + Profit%) × S.P ⇒ C.P = 100/(100 + 14%) × 166.44 ⇒ C.P = (100/114) × 166.44 = Rs. 146</p>\n\n<p style=\"\">If S.P = Rs. 154.76,  Profit = 154.76 – 146 = Rs. 8.76</p>\n\n<p style=\"\">Profit% = Profit/C.P × 100 ⇒ Profit% = 8.76/146 × 100 = 6%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q12",
+      "number": 12,
+      "question": "Find the gain percentage, given that Priya sold her scooter for ₹42564 gaining \\(\\frac{1}{6}\\) th of the selling price.",
+      "questionHtml": "Find the gain percentage, given that Priya sold her scooter for ₹42564 gaining <span class=\"math-tex\">\\(\\frac{1}{6}\\)</span>th of the selling price.",
+      "options": [
+        {
+          "id": "A",
+          "text": "30%",
+          "html": "30%"
+        },
+        {
+          "id": "B",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "C",
+          "text": "15%",
+          "html": "15%"
+        },
+        {
+          "id": "D",
+          "text": "40%",
+          "html": "40%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Selling price = ₹42564</p>\n\n<p>Gain = (1/6) × 42564 = 7094</p>\n\n<p>Cost Price = 42564 - 7094 = 35470</p>\n\n<p>Gain Percentage = (7094 / 35470) × 100 =<strong> 20%</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q13",
+      "number": 13,
+      "question": "By selling a car for Rs. 2,78,000, a dealer gains 25%. If the profit is reduced to 18%, then the selling price will be :",
+      "questionHtml": "<p>By selling a car for Rs. 2,78,000, a dealer gains 25%. If the profit is reduced to 18%, then the selling price will be :</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 2,62,432",
+          "html": "Rs. 2,62,432"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 2,65,432",
+          "html": "<span style=\"\">Rs. 2,65,432</span>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 2,72,432",
+          "html": "<span style=\"\">Rs. 2,72,432</span>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 2,60,432",
+          "html": "<span style=\"\">Rs. 2,60,432</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Cost price × (125/100) = 278000 ⇒ Cost price = 278000 × (100/125)</p>\n\n<p>For 18% profit selling price = 278000 × (100/125) × (118/100)</p>\n\n<p>⇒ <span style=\"\">Rs. 2,62,432</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q14",
+      "number": 14,
+      "question": "The percentage profit earned by selling an article for Rs. 2,000 is the same as the percentage loss incurred by selling the same article for Rs. 1,200. At what price should that article be sold to make a profit of 20%?",
+      "questionHtml": "The percentage profit earned by selling an article for Rs. 2,000 is the same as the percentage loss incurred by selling the same article for Rs. 1,200. At what price should that article be sold to make a profit of 20%?&nbsp;&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 2,000",
+          "html": "Rs. 2,000"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 1,800",
+          "html": "Rs. 1,800"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 1,920",
+          "html": "Rs. 1,920"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 1,840",
+          "html": "Rs. 1,840"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">(S.P - C.P) = (C.P - S.P) ⇒ (2000 - C.P) = (C.P - 1200) ⇒ 2 × C.P = 3200 ⇒ C.P = Rs.1600</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Required profit % = 1600 × 120% ⇒ 16 × 120 = Rs.1920</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q15",
+      "number": 15,
+      "question": "Raman fixes the sale price of his goods at 16% above the cost price. He sells his goods at 12% less than the fixed price. Find the profit percentage correct to two places of decimal.",
+      "questionHtml": "Raman fixes the sale price of his goods at 16% above the cost price. He sells his goods at 12% less than the fixed price. Find the profit percentage correct to two places of decimal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.07%",
+          "html": "1.07%"
+        },
+        {
+          "id": "B",
+          "text": "2.08%",
+          "html": "2.08%"
+        },
+        {
+          "id": "C",
+          "text": "0.08%",
+          "html": "0.08%"
+        },
+        {
+          "id": "D",
+          "text": "3.01%",
+          "html": "3.01%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Fixed Sale Price = 100 + 16% of 100<span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> = 116</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Actual Sale Price = 116 - 12% of 116 </span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Actual Sale Price = 102.08</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Profit Percentage = (102.08 - 100) / 100 × 100 = 2.08%</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q16",
+      "number": 16,
+      "question": "A seller professes to sell his fruits at cost price but still gains \\(5\\frac{5}{19}\\) %. How much does he give for 1 kg?",
+      "questionHtml": "A seller professes to sell his fruits at cost price but still gains <span class=\"math-tex\">\\(5\\frac{5}{19}\\)</span>%. How much does he give for 1 kg?",
+      "options": [
+        {
+          "id": "A",
+          "text": "905 gm",
+          "html": "905 gm"
+        },
+        {
+          "id": "B",
+          "text": "5 gm",
+          "html": "5 gm"
+        },
+        {
+          "id": "C",
+          "text": "900 gm",
+          "html": "900 gm"
+        },
+        {
+          "id": "D",
+          "text": "950 gm",
+          "html": "950 gm"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style=\"color: rgb(33, 37, 41);   \">Let the dealer purchase N gm at Rs. 1000 <br />\n<br />\n⇒ 100/19 = [(1000 - N)/N] × 100 ,  N = 950</span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q17",
+      "number": 17,
+      "question": "By selling a watch for Rs. 2,000, a shopkeeper loses 20%. How much would he gain or lose by selling it for Rs. 3,000?",
+      "questionHtml": "By selling a watch for Rs.&nbsp;2,000, a shopkeeper loses 20%. How much would he gain or lose by selling it for Rs. 3,000?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20% gain",
+          "html": "20% gain"
+        },
+        {
+          "id": "B",
+          "text": "25% gain",
+          "html": "25% gain"
+        },
+        {
+          "id": "C",
+          "text": "15% loss",
+          "html": "15% loss"
+        },
+        {
+          "id": "D",
+          "text": "25% loss",
+          "html": "25% loss"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">The cost price is 2000 × 100/80 = Rs 2500</p>\n\n<p style=\"color: rgb(33, 37, 41);\">By selling it for 3000</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Profit is 3000 - 2500 = Rs 500</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Profit percentage is (500/2500) × 100 = 20%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q18",
+      "number": 18,
+      "question": "To earn a 12% profit, a shopkeeper sells a television for Rs. 22,400. What should be the selling price (in Rs.) of the television if he wants a double profit?",
+      "questionHtml": "To earn a 12% profit, a shopkeeper sells a television for Rs. 22,400. What should be the selling price (in Rs.) of the television if he wants a double profit?&nbsp;&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "24,000",
+          "html": "24,000"
+        },
+        {
+          "id": "B",
+          "text": "24,800",
+          "html": "24,800"
+        },
+        {
+          "id": "C",
+          "text": "24,600",
+          "html": "24,600"
+        },
+        {
+          "id": "D",
+          "text": "25,000",
+          "html": "25,000"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">The cost price of the television is 22400 × 100/112  = Rs 20000</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The selling price to get 24% profit is 20000 × 124/100 = Rs 24,800</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q19",
+      "number": 19,
+      "question": "A shopkeeper sold \\(\\frac{5}{8}\\) of his articles at a gain of 20% and the remaining at the cost price. What is his gain percentage in the whole transaction?",
+      "questionHtml": "A shopkeeper sold <span class=\"math-tex\">\\(\\frac{5}{8}\\)</span> of his articles at a gain of 20% and the remaining at the cost price. What is his gain percentage in the whole transaction?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(16 \\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(16 \\frac{1}{2}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(14 \\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(14 \\frac{1}{2}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(13 \\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(13 \\frac{1}{2}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(12 \\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(12 \\frac{1}{2}\\)</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let cost price of 8 articles be 8 units.</p>\n\n<p> </p>\n\n<p>CP of (5/8) articles = 5 units, SP of (5/8) articles at 20% gain = 5 × 1.2 = 6 units</p>\n\n<p> </p>\n\n<p>CP of (3/8) articles = 3 units, SP of (3/8) articles at cost price = 3 units</p>\n\n<p> </p>\n\n<p>Total SP = 6 + 3 = 9 units, Total CP = 8 units</p>\n\n<p> </p>\n\n<p>Gain = 9 - 8 = 1 unit, Gain% = (1/8) × 100 = 12.5%.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q20",
+      "number": 20,
+      "question": "A shopkeeper sold a pair of headphones for Rs. 5,520 at a gain of 20%. What would have been the gain or loss percent if it had been sold for Rs. 4,370?",
+      "questionHtml": "A shopkeeper sold a pair of headphones for Rs. 5,520 at a gain of 20%. What would have been the gain or loss percent if it had been sold for Rs. 4,370?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gain 15%",
+          "html": "Gain 15%"
+        },
+        {
+          "id": "B",
+          "text": "Loss 5%",
+          "html": "Loss 5%"
+        },
+        {
+          "id": "C",
+          "text": "Gain 2%",
+          "html": "Gain 2%"
+        },
+        {
+          "id": "D",
+          "text": "Loss 10%",
+          "html": "Loss 10%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style=\"color: rgb(33, 37, 41);\">5520 = CP + (20 × CP)/100 </span><br style=\"color: rgb(33, 37, 41);\" />\n<br style=\"color: rgb(33, 37, 41);\" />\n<span style=\"color: rgb(33, 37, 41);\">⇒ (</span><span style=\"color: rgb(33, 37, 41);\">120/100 CP) =  5520 ​  </span><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"color: rgb(33, 37, 41);\">CP = 4600 </span><br style=\"color: rgb(33, 37, 41);\" />\n<br style=\"color: rgb(33, 37, 41);\" />\n<span style=\"color: rgb(33, 37, 41);\"> Loss percent = [(4600− 4370) /4600] × 100 </span><br style=\"color: rgb(33, 37, 41);\" />\n<br style=\"color: rgb(33, 37, 41);\" />\n<span style=\"color: rgb(33, 37, 41);\">⇒ ( 230/4600) × 100 = 5% </span><span style=\"color: rgb(33, 37, 41);\"> </span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q21",
+      "number": 21,
+      "question": "If the cost price of 28 oranges is equal to selling price of 24 oranges, then the profit percentage is:",
+      "questionHtml": "If the cost price of 28 oranges is equal to selling price of 24 oranges, then the profit percentage is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "16 \\(\\frac{2}{3}\\) %",
+          "html": "16<span class=\"math-tex\">\\(\\frac{2}{3}\\)</span>%"
+        },
+        {
+          "id": "B",
+          "text": "16 \\(\\frac{1}{3}\\) %",
+          "html": "16<span class=\"math-tex\">\\(\\frac{1}{3}\\)</span><span style=\"color: rgb(33, 37, 41);\">%</span>"
+        },
+        {
+          "id": "C",
+          "text": "18 \\(\\frac{2}{3}\\) %",
+          "html": "18<span class=\"math-tex\">\\(\\frac{2}{3}\\)</span><span style=\"color: rgb(33, 37, 41);\">%</span>"
+        },
+        {
+          "id": "D",
+          "text": "18 \\(\\frac{1}{3}\\) %",
+          "html": "18<span class=\"math-tex\">\\(\\frac{1}{3}\\)</span><span style=\"color: rgb(33, 37, 41);\">%</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\">CP × 28 = S<span style=\"color: rgb(30, 43, 51);\">P × 24 ⇒ CP/SP = 6/7</span></p>\n\n<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\"><span style=\"color: rgb(30, 43, 51);\">Profit% = (7 - 6)/6 × 100 = 50/3 or 16(2/3)%</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q22",
+      "number": 22,
+      "question": "Find the gain percentage, given that Siddhi sold her scooter for ₹71785 gaining \\(\\frac{1}{5}\\) th of the selling price.",
+      "questionHtml": "Find the gain percentage, given that Siddhi sold her scooter for ₹71785 gaining <span class=\"math-tex\">\\(\\frac{1}{5}\\)</span> th of the selling price.",
+      "options": [
+        {
+          "id": "A",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "B",
+          "text": "25%",
+          "html": "25%"
+        },
+        {
+          "id": "C",
+          "text": "10%",
+          "html": "10%"
+        },
+        {
+          "id": "D",
+          "text": "15%",
+          "html": "15%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Gain = 1/5 × 71785, Gain = ₹14357</p>\n\n<p> </p>\n\n<p>Selling Price = Cost Price + Gain</p>\n\n<p>71785 = Cost Price + 14357, Cost Price = ₹57428</p>\n\n<p> </p>\n\n<p>Gain Percentage = (14357 / 57428) × 100</p>\n\n<p>Gain Percentage = 25%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q23",
+      "number": 23,
+      "question": "Find the gain percentage, given that Siddhi sold her scooter for ₹31902 gaining \\(\\frac{1}{6}\\) th of the selling price.",
+      "questionHtml": "Find the gain percentage, given that Siddhi sold her scooter for ₹31902 gaining&nbsp;<span class=\"math-tex\">\\(\\frac{1}{6}\\)</span>th of the selling price.",
+      "options": [
+        {
+          "id": "A",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "B",
+          "text": "30%",
+          "html": "30%"
+        },
+        {
+          "id": "C",
+          "text": "25%",
+          "html": "25%"
+        },
+        {
+          "id": "D",
+          "text": "5%",
+          "html": "5%"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Gain = (1/6) × 31902 = 5317</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">CP = 31902 - 5317 = 26585</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Gain% = (5317 / 26585) × 100 = 20%</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q24",
+      "number": 24,
+      "question": "Sofia sold an iPhone at the cost of Rs.46,068 at a loss of 12%. At what cost will she have to sell it to get a profit of 18%?",
+      "questionHtml": "Sofia sold an iPhone at the cost of Rs.46,068 at a loss of 12%. At what cost will she have to sell it to get a profit of 18%?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 61,773",
+          "html": "Rs. 61,773"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 65,773",
+          "html": "Rs. 65,773"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 58,350",
+          "html": "Rs. 58,350"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 52,350",
+          "html": "Rs. 52,350"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Sofia sold iphone at 12% loss, CP : SP = 25 : 22</p>\n\n<p>22 unit ⇒ 46068 then CP, 25 unit ⇒ 46068/22 × 25 = 52350</p>\n\n<p>If she sold it at 18% profit then SP = 52350 × <span class=\"math-tex\">\\(\\frac{59}{50}\\)</span> = 61773</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q25",
+      "number": 25,
+      "question": "A shopkeeper gains 20% in place of 16% loss if the selling price of an article is increased by Rs. 324. The cost price of the article is:",
+      "questionHtml": "A shopkeeper gains 20% in place of 16% loss if the selling price of an article is increased by <span style=\"color: rgb(33, 37, 41);\">Rs.&nbsp;</span>324. The cost price of the article is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 900",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">Rs.&nbsp;</span>900"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 750",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">Rs.&nbsp;</span>750"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 1,350",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">Rs.&nbsp;</span>1,350"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 60",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">Rs.&nbsp;</span>60"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(30, 43, 51);  \">Let the CP be 100%</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Initial SP = 84% and Final SP = 120%</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">The gap in the two SPs is due to 324.</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">⇒ 36% = 324 <span style=\"color: rgb(30, 43, 51);\">⇒  1%→ 9 ⇒ 100</span><span style=\"color: rgb(30, 43, 51);\">%</span><span style=\"color: rgb(30, 43, 51);\">→ 900</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q26",
+      "number": 26,
+      "question": "The initial profit percentage on the sale of an item was 55%. If the cost price of the item went up by 24% but the selling price remained the same, what would be the new profit percentage?",
+      "questionHtml": "The initial profit percentage on the sale of an item was 55%. If the cost price of the item went up by 24% but the selling price remained the same, what would be the new profit percentage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "36%",
+          "html": "36%"
+        },
+        {
+          "id": "B",
+          "text": "25%",
+          "html": "25%"
+        },
+        {
+          "id": "C",
+          "text": "28%",
+          "html": "28%"
+        },
+        {
+          "id": "D",
+          "text": "33%",
+          "html": "33%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Profit increases by 55% then CP<sub>1</sub> : SP = 20 : 31</p>\n\n<p>Cost price went up by 24% then CP<sub>1</sub> : CP<sub>2</sub> = 25 : 31</p>\n\n<p>Then, CP<sub>1</sub> : CP<sub>2</sub> : SP = 100 : 124 : 155   [ by making CP<sub>1 </sub>equal in both the ratio]</p>\n\n<p>So, the new profit% = (155 - 124)/124 × 100 = 31/124 <span style=\"color: rgb(33, 37, 41);\">× 100 = 25%</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q27",
+      "number": 27,
+      "question": "A person having bought goods for Rs. 400 sells half of it at a gain of 5%. At what gain percentage must he sell the remainder, so as to gain 25% on the whole?",
+      "questionHtml": "A person having bought goods for Rs. 400 sells half of it at a gain of 5%. At what gain percentage must he sell the remainder, so as to gain 25% on the whole?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "30%",
+          "html": "30%"
+        },
+        {
+          "id": "B",
+          "text": "25%",
+          "html": "25%"
+        },
+        {
+          "id": "C",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "D",
+          "text": "45%",
+          "html": "45%"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">1<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">st</span> ​Half of 400 = 200, sells at 5% profit, CP = 200 SP = 210</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Final profit on 400, 25% so CP = 400 and SP = 500</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, the 2<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">nd</span> half CP = 200 and SP = (500 - 210) = 290</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Profit% = 90/200 × 100 = 45%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q28",
+      "number": 28,
+      "question": "Find the gain percentage, given that Aditi sold her scooter for ₹40620 gaining (1)/(5) th of the selling price.",
+      "questionHtml": "Find the gain percentage, given that Aditi sold her scooter for ₹40620 gaining (1)/(5) th of the selling price.",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%",
+          "html": "10%"
+        },
+        {
+          "id": "B",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "C",
+          "text": "25%",
+          "html": "25%"
+        },
+        {
+          "id": "D",
+          "text": "35%",
+          "html": "35%"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Gain = (1/5) × 40620 ⇒ Gain = 8124</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Cost Price = 40620 - 8124 ⇒ Cost Price = 32496</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Gain% = (8124/32496) × 100 ⇒ Gain% = 25%</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q29",
+      "number": 29,
+      "question": "A watch is purchased for ₹3,200 and sold for ₹2,700. Calculate the percentage loss up to two places of decimal.",
+      "questionHtml": "A watch is purchased for ₹3,200 and sold for ₹2,700. Calculate the percentage loss up to two places of decimal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "15.18%",
+          "html": "15.18%"
+        },
+        {
+          "id": "B",
+          "text": "15.62%",
+          "html": "15.62%"
+        },
+        {
+          "id": "C",
+          "text": "16.12%",
+          "html": "16.12%"
+        },
+        {
+          "id": "D",
+          "text": "16.50%",
+          "html": "16.50%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style=\"color: rgb(33, 37, 41);   \">The cost price (CP) is ₹3,200 and the selling price (SP) is ₹2,700<br />\n<br />\nPercentage Loss = ((3200 - 2700)/3200) ×100 =  15.625 % .</span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q30",
+      "number": 30,
+      "question": "A notebook was sold for Rs. 28 with a profit of 12%. If it had been sold for Rs. 26.25, then what would have been the profit percentage?",
+      "questionHtml": "A notebook was sold for Rs. 28 with a profit of 12%. If it had been sold for Rs. 26.25,&nbsp;then what would have been the profit percentage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5%",
+          "html": "5%"
+        },
+        {
+          "id": "B",
+          "text": "7%",
+          "html": "7%"
+        },
+        {
+          "id": "C",
+          "text": "4%",
+          "html": "4%"
+        },
+        {
+          "id": "D",
+          "text": "6%",
+          "html": "6%"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(30, 43, 51);\">Cost Price of pen = (100/100 + 12%) × 28<span class=\"math-tex\"><mjx-container class=\"MathJax CtxtMenu_Attached_0\" ctxtmenu_counter=\"2\" jax=\"CHTML\" style=\"line-height: 0;  position: relative;\" tabindex=\"0\"><mjx-assistive-mml display=\"inline\" style=\"top: 0px; left: 0px; clip: rect(1px, 1px, 1px, 1px); user-select: initial; position: absolute !important; padding: 1px 0px 0px !important; border: 0px !important; display: block !important; width: auto !important; overflow: hidden !important;\" unselectable=\"on\"><span class=\"MathJax\" data-mathml=\"<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn></mn></math>\" id=\"MathJax-Element-32-Frame\" role=\"presentation\" style=\"position: relative;\" tabindex=\"0\"><nobr aria-hidden=\"true\"></nobr><span class=\"MJX_Assistive_MathML\" role=\"presentation\"><span class=\"MathJax\" data-mathml=\"<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn></mn></math>\" id=\"MathJax-Element-21-Frame\" role=\"presentation\" style=\"position: relative;\" tabindex=\"0\"><nobr aria-hidden=\"true\"></nobr><span class=\"MJX_Assistive_MathML\" role=\"presentation\"><span class=\"MathJax\" data-mathml=\"<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn></mn></math>\" id=\"MathJax-Element-38-Frame\" role=\"presentation\" style=\"position: relative;\" tabindex=\"0\"><nobr aria-hidden=\"true\"></nobr><span class=\"MJX_Assistive_MathML\" role=\"presentation\"><span class=\"MathJax\" data-mathml=\"<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn></mn></math>\" id=\"MathJax-Element-205-Frame\" role=\"presentation\" style=\"position: relative;\" tabindex=\"0\"><nobr aria-hidden=\"true\"></nobr><span class=\"MJX_Assistive_MathML\" role=\"presentation\"><span class=\"MathJax\" data-mathml=\"<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn></mn></math>\" id=\"MathJax-Element-98-Frame\" role=\"presentation\" style=\"position: relative;\" tabindex=\"0\"><nobr aria-hidden=\"true\"></nobr><span class=\"MJX_Assistive_MathML\" role=\"presentation\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn></mn></math></span></span>\n<script id=\"MathJax-Element-98\" type=\"math/mml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn></mn></math></script>\n</span></span> <script id=\"MathJax-Element-205\" type=\"math/mml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn></mn></math></script> </span></span> <script id=\"MathJax-Element-38\" type=\"math/mml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn></mn></math></script> </span></span> <script id=\"MathJax-Element-21\" type=\"math/mml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn></mn></math></script> </span></span> <script id=\"MathJax-Element-32\" type=\"math/mml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn></mn></math></script> </mjx-assistive-mml></mjx-container></span> <span style=\"color: rgb(30, 43, 51);\">⇒ </span>( 25/28)× 28  = 25 Rs</p>\n\n<p style=\"color: rgb(30, 43, 51);\">When the pen is sold at Rs 26.25: ⇒ Profit = 26.25 – 25 = Rs 1.25</p>\n\n<p style=\"color: rgb(30, 43, 51);\">⇒ Profit % =(1.25/25) × 100 ⇒ 5%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q31",
+      "number": 31,
+      "question": "A man lost 15% by selling a mobile for Rs. 4,675. What will be his gain percentage by selling it for Rs. 6,050?",
+      "questionHtml": "A man lost 15% by selling a mobile for Rs. 4,675. What will be his gain percentage by selling it for Rs. 6,050?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10.5%",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">10.5%</font></font>"
+        },
+        {
+          "id": "B",
+          "text": "9.5%",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">9.5%</font></font>"
+        },
+        {
+          "id": "C",
+          "text": "9%",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">9%</font></font>"
+        },
+        {
+          "id": "D",
+          "text": "10%",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">10%</font></font>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>85% of CP = 4675</p>\n\n<p>⇒ CP = 4675/0.85 <span style=\"\">⇒ CP = 5500</span></p>\n\n<p>Gain % <span style=\"\">⇒</span> (6050 - 5500)× 100/5500</p>\n\n<p><span style=\"\">⇒</span> 550 × 100/5500 <span style=\"\">⇒</span> 10%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q32",
+      "number": 32,
+      "question": "A girl purchases 9 mangoes for Rs. 90 and sells 10 mangoes for Rs. 95. Find the gain or loss percentage.",
+      "questionHtml": "A girl purchases 9 mangoes for Rs. 90 and sells 10 mangoes for Rs. 95. Find the gain or loss percentage.",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.5% loss",
+          "html": "2.5% loss"
+        },
+        {
+          "id": "B",
+          "text": "5% loss",
+          "html": "5% loss"
+        },
+        {
+          "id": "C",
+          "text": "2.5% gain",
+          "html": "2.5% gain"
+        },
+        {
+          "id": "D",
+          "text": "5% gain",
+          "html": "5% gain"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Cost price of each mango = 90/9 = Rs. 10</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Selling price of each mango = 95/10 = Rs. 9.5</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Now, her percentage loss = <span class=\"math-tex\">\\(\\frac {10 - 9.5}{10} \\times 100\\%\\)</span> = 5%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q33",
+      "number": 33,
+      "question": "Find the gain percentage, given that Siddhi sold her scooter for ₹24318, gaining 1/6th of the selling price.",
+      "questionHtml": "Find the gain percentage, given that Siddhi sold her scooter for ₹24318, gaining 1/6th of the selling price.",
+      "options": [
+        {
+          "id": "A",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "B",
+          "text": "35%",
+          "html": "35%"
+        },
+        {
+          "id": "C",
+          "text": "25%",
+          "html": "25%"
+        },
+        {
+          "id": "D",
+          "text": "5%",
+          "html": "5%"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Given: SP = ₹24318,</p>\n\n<p>Gain = (1/6) SP = ₹4053</p>\n\n<p>CP = SP - Gain</p>\n\n<p>₹24318 - ₹4053 = ₹20265</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Gain % = (Gain / CP) × 100 </span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">(₹4053 / ₹20265) × 100 =<strong> 20%</strong></span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q34",
+      "number": 34,
+      "question": "The selling price of 28 items is equal to the cost price of 17 items. What is the percentage of profit or loss?",
+      "questionHtml": "The selling price of 28 items is equal to the cost price of 17 items. What is the percentage of profit or loss?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(39{2 \\over7}\\) % loss",
+          "html": "<span class=\"math-tex\">\\(39{2 \\over7}\\)</span>% loss"
+        },
+        {
+          "id": "B",
+          "text": "\\(39{2 \\over7}\\) % profit",
+          "html": "<span class=\"math-tex\">\\(39{2 \\over7}\\)</span>% profit"
+        },
+        {
+          "id": "C",
+          "text": "\\(33{2 \\over7}\\) % profit",
+          "html": "<span class=\"math-tex\">\\(33{2 \\over7}\\)</span>% profit"
+        },
+        {
+          "id": "D",
+          "text": "\\(33{2 \\over7}\\) % loss",
+          "html": "<span class=\"math-tex\">\\(33{2 \\over7}\\)</span>% loss"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Let cost price of each item be Rs.1, 28 items = Rs. 28</p>\n\n<p>Selling price of 28 items = Rs. 17</p>\n\n<p>Loss = 28 - 17 ⇒ Rs. 11, Loss % = (11/28) × 100 ⇒ <span class=\"math-tex\">\\(39{2 \\over7}\\)</span>%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q35",
+      "number": 35,
+      "question": "An article is sold at a profit of 250%. What is the ratio of its cost price to selling price?",
+      "questionHtml": "An article is sold at a profit of 250%. What is the ratio of its cost price to selling price?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 : 5",
+          "html": "2 : 5"
+        },
+        {
+          "id": "B",
+          "text": "5 : 2",
+          "html": "5 : 2"
+        },
+        {
+          "id": "C",
+          "text": "2 : 7",
+          "html": "2 : 7"
+        },
+        {
+          "id": "D",
+          "text": "7 : 2",
+          "html": "7 : 2"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Given</p>\n\n<p>Profit % = 250%</p>\n\n<p>250 = (SP - CP)/CP × 100</p>\n\n<p>(SP - x)/x = 2.5</p>\n\n<p>SP - x = 2.5x</p>\n\n<p>SP = 3.5x</p>\n\n<p><strong>Ratio = x : 3.5x = 2 : 7</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q36",
+      "number": 36,
+      "question": "Find the gain percentage, given that Anubha sold her scooter for ₹23358 gaining \\(\\frac{1}{6}\\) th of the selling price.",
+      "questionHtml": "Find the gain percentage, given that Anubha sold her scooter for ₹23358 gaining <span class=\"math-tex\">\\(\\frac{1}{6}\\)</span>th of the selling price.",
+      "options": [
+        {
+          "id": "A",
+          "text": "25%",
+          "html": "25%"
+        },
+        {
+          "id": "B",
+          "text": "35%",
+          "html": "35%"
+        },
+        {
+          "id": "C",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "D",
+          "text": "30%",
+          "html": "30%"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Gain = (1/6) × 23,358 = 3,893</p>\n\n<p>Cost Price = 23,358 - 3,893 = 19,465</p>\n\n<p>Gain Percentage = (3,893 / 19,465) × 100 = 20%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q37",
+      "number": 37,
+      "question": "Find the gain percentage, given that Anubha sold her scooter for ₹31524 gaining \\(\\frac{1}{6}\\) th of the selling price.",
+      "questionHtml": "Find the gain percentage, given that Anubha sold her scooter for ₹31524 gaining <span class=\"math-tex\">\\(\\frac{1}{6}\\)</span> th of the selling price.",
+      "options": [
+        {
+          "id": "A",
+          "text": "5%",
+          "html": "5%"
+        },
+        {
+          "id": "B",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "C",
+          "text": "30%",
+          "html": "30%"
+        },
+        {
+          "id": "D",
+          "text": "35%",
+          "html": "35%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>SP = ₹31524, Gain = 1/6 of SP = ₹31524 × 1/6 = ₹5254</p>\n\n<p>CP = SP - Gain = ₹31524 - ₹5254 = ₹26270</p>\n\n<p>Gain% = (Gain/CP) × 100 = (₹5254/₹26270) × 100 = 20%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q38",
+      "number": 38,
+      "question": "By selling an article for Rs. 33,000 a man gains 10%. To get a profit of 20%, he has to sell it for :",
+      "questionHtml": "By selling an article for Rs. 33,000 a man gains 10%. To get a profit of 20%, he has to sell it for :",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 30,000",
+          "html": "<span style=\"\">Rs. 30,000</span>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 35,000",
+          "html": "<span style=\"\">Rs. 35,000</span>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 36,000",
+          "html": "<span style=\"\">Rs. 36,000</span>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 36,600",
+          "html": "<span style=\"\">Rs. 36,600</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">A/Q, 110% = 33,000 then,</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">⇒ </span>1 % = 33,000/110 and Now ⇒ 100% = 30,000</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Required S.P = 30,000 × 120% = Rs.36,000</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q39",
+      "number": 39,
+      "question": "Find the gain percentage, given that Aditi sold her scooter for ₹25404 gaining 1/6 th of the selling price.",
+      "questionHtml": "Find the gain percentage, given that Aditi sold her scooter for ₹25404 gaining 1/6 th of the selling price.",
+      "options": [
+        {
+          "id": "A",
+          "text": "25%",
+          "html": "25%"
+        },
+        {
+          "id": "B",
+          "text": "30%",
+          "html": "30%"
+        },
+        {
+          "id": "C",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "D",
+          "text": "40%",
+          "html": "40%"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Gain = (1/6) × 25404 = ₹4234</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">CP = 25404 - 4234 = ₹21170</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Gain % = (4234 / 21170) × 100 = 20%</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q40",
+      "number": 40,
+      "question": "A man loses 28% by selling an article for ₹144. If he sells it for ₹288, what will be his gain/loss percentage?",
+      "questionHtml": "A man loses 28% by selling an article for ₹144. If he sells it for ₹288, what will be his gain/loss percentage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gain, 41%",
+          "html": "Gain, 41%"
+        },
+        {
+          "id": "B",
+          "text": "Loss, 43%",
+          "html": "Loss, 43%"
+        },
+        {
+          "id": "C",
+          "text": "Gain, 44%",
+          "html": "Gain, 44%"
+        },
+        {
+          "id": "D",
+          "text": "Loss, 46%",
+          "html": "Loss, 46%"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>CP = SP / (1 - Loss%) <span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">CP = 144 / 0.72 = ₹200</span></p>\n\n<p>Gain% = [(288 - 200) / 200] × 100<span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> = 0.44 × 100</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Gain% = 44%</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q41",
+      "number": 41,
+      "question": "A table was bought for Rs. 3,000 and sold for Rs. 3,200. Find the gain or loss in terms of money.",
+      "questionHtml": "A table was bought for Rs. 3,000 and sold for Rs. 3,200. Find the gain or loss in terms of money.&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gain Rs. 200",
+          "html": "Gain Rs. 200&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "Loss Rs. 200",
+          "html": "Loss Rs. 200"
+        },
+        {
+          "id": "C",
+          "text": "Gain Rs. 100",
+          "html": "Gain Rs. 100"
+        },
+        {
+          "id": "D",
+          "text": "Loss Rs. 150",
+          "html": "Loss Rs. 150"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style=\"color: rgb(33, 37, 41);\">Profit (P) = (3200 - 3000) = Rs.200</span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q42",
+      "number": 42,
+      "question": "From the given data, find the ratio of the cost prices of a shirt and a trouser. Item Selling Price Profit Shirt ₹1,200 20% Trouser ₹660 10%",
+      "questionHtml": "From the given data, find the ratio of the cost prices of a shirt and a trouser.\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Item</th>\n\t\t\t<th>Selling Price</th>\n\t\t\t<th>Profit</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Shirt</td>\n\t\t\t<td>₹1,200</td>\n\t\t\t<td>20%</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Trouser</td>\n\t\t\t<td>₹660</td>\n\t\t\t<td>10%</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 : 1",
+          "html": "2 : 1"
+        },
+        {
+          "id": "B",
+          "text": "1 : 3",
+          "html": "1 : 3"
+        },
+        {
+          "id": "C",
+          "text": "3 : 4",
+          "html": "3 : 4"
+        },
+        {
+          "id": "D",
+          "text": "5 : 3",
+          "html": "5 : 3"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Shirt:</p>\n\n<p>₹1,200 = C.P × 1.20</p>\n\n<p>C. P = ₹1,200 / 1.20 = ₹1,000</p>\n\n<p>Trouser:</p>\n\n<p>₹660 = C.P × 1.10</p>\n\n<p>C.P = ₹660 / 1.10 = ₹600</p>\n\n<p> </p>\n\n<p>Ratio: ₹1,000 / ₹600 = 5/3 Ratio = 5:3</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q43",
+      "number": 43,
+      "question": "If the cost price is 72% of the selling price, then what is the percentage of profit (correct to 2 decimal places)",
+      "questionHtml": "If the cost price is 72% of the selling price, then what is the percentage of profit (correct to 2 decimal places)",
+      "options": [
+        {
+          "id": "A",
+          "text": "38.89%",
+          "html": "38.89%"
+        },
+        {
+          "id": "B",
+          "text": "35.75%",
+          "html": "35.75%"
+        },
+        {
+          "id": "C",
+          "text": "32.25%",
+          "html": "32.25%"
+        },
+        {
+          "id": "D",
+          "text": "28.75%",
+          "html": "28.75%"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Cost price = 100x × 72% = 72x</p>\n\n<p>Now, profit% = <span class=\"math-tex\">\\(\\frac {100x- 72x}{72x} \\times 100\\%\\)</span> ≈ 38.89%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q44",
+      "number": 44,
+      "question": "Ram sold a plot for Rs. 4,00,000 at a 20% loss. For what price should he sell the plot to gain a 5% profit?",
+      "questionHtml": "Ram sold a plot for Rs. 4,00,000 at a 20% loss. For what price should he sell the plot to gain a 5% profit?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 5,25,000",
+          "html": "<span style=\"\">Rs. 5,25,000</span>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 5,20,000",
+          "html": "<span style=\"\">Rs. 5,20,000</span>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 5,00,000",
+          "html": "<span style=\"\">Rs. 5,00,000</span>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 5,05,000",
+          "html": "<span style=\"\">Rs. 5,05,000</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>80x = Rs. 4,0,000</p>\n\n<p>⇒ 105x = Rs. (4,00,000/80) × 105 ⇒ Rs. <span style=\"\">5,25,000</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q45",
+      "number": 45,
+      "question": "A shopkeeper purchases six small cold drink bottles for ₹100. For how much should he sell one such bottle to get a profit of 20%?",
+      "questionHtml": "A shopkeeper purchases six small cold drink bottles for ₹100. For how much should he sell one such bottle to get a profit of 20%?",
+      "options": [
+        {
+          "id": "A",
+          "text": "22",
+          "html": "22"
+        },
+        {
+          "id": "B",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "C",
+          "text": "21",
+          "html": "21"
+        },
+        {
+          "id": "D",
+          "text": "23",
+          "html": "23"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">The selling price of the cold drinks is 100 × 120/100 = Rs 120</p>\n\n<p style=\"color: rgb(33, 37, 41);\">The selling price of each bottles is 120 /6 = Rs 20</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q46",
+      "number": 46,
+      "question": "If the cost of 20 books is equal to the selling price of 18 books, then the gain percentage is:",
+      "questionHtml": "If the cost of 20 books is equal to the selling price of 18 books, then the gain percentage is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(11\\frac{1}{9}\\% \\)",
+          "html": "<span class=\"math-tex\">\\(11\\frac{1}{9}\\% \\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(11\\frac{1}{3}\\% \\)",
+          "html": "<span class=\"math-tex\">\\(11\\frac{1}{3}\\% \\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(11\\frac{2}{9}\\% \\)",
+          "html": "<span class=\"math-tex\">\\(11\\frac{2}{9}\\% \\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(10\\frac{1}{9}\\% \\)",
+          "html": "<span class=\"math-tex\">\\(10\\frac{1}{9}\\% \\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">For article-based questions, if Cost article > Selling article then there is gain</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Gain% = <span class=\"math-tex\">\\(\\frac{cost~article - selling~article}{selling~article} \\times 100\\)</span> = <span class=\"math-tex\">\\(\\frac{(20 -18)}{18} \\times 100\\)</span> = <span class=\"math-tex\">\\(11\\frac{1}{9}\\% \\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q47",
+      "number": 47,
+      "question": "A horse was sold for Rs. 60,000 at a profit of 20%. For what price should he have sold to gain a 30% profit?",
+      "questionHtml": "A horse was sold for Rs. 60,000 at a profit of 20%. For what price should he have sold to gain a 30% profit?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 64,000",
+          "html": "Rs. 64,000"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 65,000",
+          "html": "Rs. 65,000"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 50,000",
+          "html": "Rs. 50,000"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 55,000",
+          "html": "Rs. 55,000"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"\">We know 20% = 1/5, so CP = 5 unit & SP = 6 unit</p>\n\n<p style=\"\">So, CP of the horse = 60000 × 5/6 = 50000</p>\n\n<p style=\"\">To gain 30% profit the required SP = 50000 × 130/100 = Rs.65,000</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q48",
+      "number": 48,
+      "question": "The ratio of the cost price and selling price of an article is 10 ∶ 11. The gain per cent is:",
+      "questionHtml": "The ratio of the cost price and selling price of an article is 10 ∶ 11. The gain per cent is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%",
+          "html": "10%"
+        },
+        {
+          "id": "B",
+          "text": "8%",
+          "html": "8%"
+        },
+        {
+          "id": "C",
+          "text": "5%",
+          "html": "5%"
+        },
+        {
+          "id": "D",
+          "text": "15%",
+          "html": "15%"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Let the cost price and selling price be 10a and 11a</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Now, Profit = 1a then Profit% = (1a/10a) × 100 ⇒ 10%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q49",
+      "number": 49,
+      "question": "Mohit purchased a table for Rs. 1,260 and due to some scratches on its top, he sold it for Rs. 1,197. What is his loss percent?",
+      "questionHtml": "Mohit purchased a table for Rs. 1,260 and due to some scratches on its top, he sold it for Rs. 1,197. What is his loss percent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "7%",
+          "html": "7%"
+        },
+        {
+          "id": "B",
+          "text": "4%",
+          "html": "4%"
+        },
+        {
+          "id": "C",
+          "text": "6%",
+          "html": "6%"
+        },
+        {
+          "id": "D",
+          "text": "5%",
+          "html": "5%"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Loss percentage = <span class=\"math-tex\">\\({1260-1197\\over1260}\\)</span> × 100 ⇒ <span class=\"math-tex\">\\(63\\over1260\\)</span> × 100 ⇒ 5%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "84056c41b5a3-q50",
+      "number": 50,
+      "question": "A shopkeeper bought a cycle for Rs. 1,200 and sold it for Rs. 1,500. Find his profit/loss percentage.",
+      "questionHtml": "A shopkeeper bought a cycle for Rs. 1,200 and sold it for Rs. 1,500. Find his profit/loss percentage.",
+      "options": [
+        {
+          "id": "A",
+          "text": "3% profit",
+          "html": "3% profit"
+        },
+        {
+          "id": "B",
+          "text": "15% profit",
+          "html": "15% profit"
+        },
+        {
+          "id": "C",
+          "text": "30% loss",
+          "html": "30% loss"
+        },
+        {
+          "id": "D",
+          "text": "25% profit",
+          "html": "25% profit"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style=\"color: rgb(33, 37, 41);\">Profit% = (1500 - 1200)/1200 × 100 = 300/1200 × 100 = 25%</span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

@@ -1,0 +1,929 @@
+{
+  "id": "39ba8c81c58e",
+  "provider": "Testbook",
+  "sourceFile": "Time and Work.html",
+  "sourcePath": "Testbook/files/Time and Work.html",
+  "title": "Time and Work",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 20,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "39ba8c81c58e-q1",
+      "number": 1,
+      "question": "A and B together a complete a task in 20 days. If A alone can complete the task in 24 days, find the number of days by B to complete the task alone.",
+      "questionHtml": "A and B together a complete a task in 20 days. If A alone can complete the task in 24 days, find the number of days by B to complete the task alone.",
+      "options": [
+        {
+          "id": "A",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "B",
+          "text": "150",
+          "html": "150"
+        },
+        {
+          "id": "C",
+          "text": "90",
+          "html": "90"
+        },
+        {
+          "id": "D",
+          "text": "120",
+          "html": "120"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>For two entities, if (A+B) takes X days and A takes Y days, then B takes (X × Y) ÷ (Y − X) days.</p>\n<p>Here, X = 20 days and Y = 24 days.</p>\n<p>Days for B = (20 × 24) ÷ (24 − 20)</p>\n<p>Days for B = 480 ÷ 4 = 120 days.</p>\n<p><strong>∴ The correct answer is 120 days.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p>Given: A and B together take 20 days. A alone takes 24 days.</p>\n<p>Formula: Efficiency = Total Work ÷ Days</p>\n<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;text-align:left;'>\n  <tbody>\n    <tr>\n      <td><strong>Person</strong></td>\n      <td><strong>Days</strong></td>\n      <td><strong>Total Work</strong></td>\n      <td><strong>Efficiency</strong></td>\n    </tr>\n    <tr>\n      <td>A + B</td>\n      <td>20</td>\n      <td rowspan='2'>120</td>\n      <td>6</td>\n    </tr>\n    <tr>\n      <td>A</td>\n      <td>24</td>\n      <td>5</td>\n    </tr>\n  </tbody>\n</table>\n<p>⇒ Total Work = LCM of 20 and 24 = 120 units.</p>\n<p>⇒ Efficiency of (A + B) = 120 ÷ 20 = 6 units/day.</p>\n<p>⇒ Efficiency of A = 120 ÷ 24 = 5 units/day.</p>\n<p>⇒ Efficiency of B = Efficiency of (A + B) − Efficiency of A = 6 − 5 = 1 unit/day.</p>\n<p>⇒ Time taken by B = Total Work ÷ Efficiency of B</p>\n<p>⇒ Time taken by B = 120 ÷ 1 = 120 days.</p>\n<p><strong>∴ The correct answer is 120 days.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Work and Wages</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Wages are distributed in the ratio of the efficiency of the workers when they work for the same amount of time.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Pipes and Cisterns</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Similar to time and work, but inlet pipes have positive efficiency and outlet (leak) pipes have negative efficiency.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Alternate Day Work</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Calculate the work done in one cycle (e.g., 2 days if A and B work alternately) and then find the total cycles needed.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q2",
+      "number": 2,
+      "question": "Kira and Kiki can complete a work in 8 days when they work together. Kiki alone can do it in 12 days. After working for 4 days together, Kiki left the work. How many days will Kira take to complete the remaining work?",
+      "questionHtml": "<p>Kira and Kiki can complete a work in 8 days when they work together. Kiki alone can do it in 12 days.&nbsp;After&nbsp;working for 4 days together, Kiki left the work. How many days will Kira take to complete the remaining work?&nbsp;</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 days",
+          "html": "12 days"
+        },
+        {
+          "id": "B",
+          "text": "14 days",
+          "html": "14 days"
+        },
+        {
+          "id": "C",
+          "text": "16 days",
+          "html": "16 days"
+        },
+        {
+          "id": "D",
+          "text": "18 days",
+          "html": "18 days"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Total work = LCM(8, 12) = 24 units.</p>\n<p>Combined efficiency of Kira and Kiki = 24 ÷ 8 = 3 units/day.</p>\n<p>Kiki's efficiency = 24 ÷ 12 = 2 units/day → Kira's efficiency = 3 − 2 = 1 unit/day.</p>\n<p>Work done in 4 days together = 3 × 4 = 12 units.</p>\n<p>Remaining work = 24 − 12 = 12 units.</p>\n<p>Kira's time for remaining work = 12 ÷ 1 = 12 days.</p>\n<p><strong>∴ The correct answer is 12 days.</strong></p><p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Time taken by Kira and Kiki together = 8 days</p>\n<p>Time taken by Kiki alone = 12 days</p>\n<p><strong>Formula Used:</strong></p>\n<p>Total Work = Efficiency × Time</p>\n<p>Efficiency = Total Work ÷ Time</p>\n<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;text-align:left;'>\n  <tbody>\n    <tr>\n      <td><strong>Person</strong></td>\n      <td><strong>Days</strong></td>\n      <td><strong>Total Work</strong></td>\n      <td><strong>Efficiency</strong></td>\n    </tr>\n    <tr>\n      <td>Kira + Kiki</td>\n      <td>8</td>\n      <td rowspan='2'>24 (LCM)</td>\n      <td>3</td>\n    </tr>\n    <tr>\n      <td>Kiki</td>\n      <td>12</td>\n      <td>2</td>\n    </tr>\n  </tbody>\n</table>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Efficiency of Kira = (Efficiency of Kira + Kiki) − Efficiency of Kiki</p>\n<p>⇒ Efficiency of Kira = 3 − 2 = 1 unit/day</p>\n<p>⇒ Work done by both in 4 days = Combined Efficiency × Time</p>\n<p>⇒ Work done = 3 × 4 = 12 units</p>\n<p>⇒ Remaining work = Total Work − Completed Work</p>\n<p>⇒ Remaining work = 24 − 12 = 12 units</p>\n<p>⇒ Time taken by Kira to finish remaining work = Remaining Work ÷ Kira's Efficiency</p>\n<p>⇒ Time = 12 ÷ 1 = 12 days</p>\n<p><strong>∴ The correct answer is 12 days.</strong></p><p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Work and Wages</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Wages are distributed in the ratio of the efficiency of the workers if they work for the same amount of time, or in the ratio of the actual work done by each.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Negative Work (Pipes & Cisterns)</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When a person or pipe undoes the work (like a leak), its efficiency is taken as negative in the combined efficiency calculation.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Alternate Day Work</p>\n<p style='margin:0 0 8px 0;color:#444444;'>For alternate work, calculate the total work done in one complete cycle (e.g., 2 days) and then find the number of cycles required to reach the total work.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q3",
+      "number": 3,
+      "question": "A pipe can fill a tank in 20 minutes. Another pipe can empty that tank in 30 minutes. If both are opened alternatively, how long will it take to fill the tank?",
+      "questionHtml": "A pipe can fill a tank in 20 minutes. Another pipe can empty that tank in 30 minutes. If both are opened alternatively, how long will it take to fill the tank?",
+      "options": [
+        {
+          "id": "A",
+          "text": "110",
+          "html": "110"
+        },
+        {
+          "id": "B",
+          "text": "115",
+          "html": "115"
+        },
+        {
+          "id": "C",
+          "text": "120",
+          "html": "120"
+        },
+        {
+          "id": "D",
+          "text": "130",
+          "html": "130"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"\">Volume of tank = LCM (30, 20) = 60</span></p>\n\n<p><span style=\"\">Efficiency of Pipe1 : Efficiency of Pipe2 = 3:(-2)</span></p>\n\n<p><span style=\"\">Part filled in 2 mins = 1 litre</span></p>\n\n<p>Time taken to fill 57 liters = 2 × 57 mins = 114 mins</p>\n\n<p><span style=\"\">Time taken to fill (57 + 3) litres = (114 + 1) mins</span> = 115 mins.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q4",
+      "number": 4,
+      "question": "40 mechanics can repair a bike in 56 days. In how many days 32 mechanics will do the same work?",
+      "questionHtml": "40 mechanics can repair a bike in 56 days. In how many days 32 mechanics will do the same work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "60 days",
+          "html": "60 days"
+        },
+        {
+          "id": "B",
+          "text": "56 days",
+          "html": "56 days"
+        },
+        {
+          "id": "C",
+          "text": "80 days",
+          "html": "80 days"
+        },
+        {
+          "id": "D",
+          "text": "70 days",
+          "html": "70 days"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"\"><strong>CALCULATION:</strong></p>\n\n<p style=\"\">Time taken by 40 mechanics = 56 days</p>\n\n<p style=\"\">So, 1 mechanic will take = 56 × 40 days</p>\n\n<p style=\"\">∴ 32 mechanic will take</p>\n\n<p style=\"\">⇒ (56 × 40)/32</p>\n\n<p style=\"\">⇒ 70 days</p>\n\n<p style=\"\"><strong>∴ 32 mechanics will do the same work in 70 days.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q5",
+      "number": 5,
+      "question": "A and B can together complete a task in 18 hours. After 6 hours A leaves. B takes 36 hours to finish rest of the task. How many hours would A have taken to do the task, if he worked alone?",
+      "questionHtml": "A and B can together complete a task in 18 hours. After 6 hours A leaves. B takes 36 hours to finish rest of the task. How many hours would A have taken to do the task, if he worked alone?",
+      "options": [
+        {
+          "id": "A",
+          "text": "54",
+          "html": "54"
+        },
+        {
+          "id": "B",
+          "text": "45",
+          "html": "45"
+        },
+        {
+          "id": "C",
+          "text": "21",
+          "html": "21"
+        },
+        {
+          "id": "D",
+          "text": "27",
+          "html": "27"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Remaining work time for (A + B) = 18 − 6 = 12 hours.</p>\n<p>B takes 36 hours to finish this remaining 12-hour work of (A + B).</p>\n<p>Efficiency Ratio (A + B) : B = Time ratio inverse = 36 : 12 = 3 : 1.</p>\n<p>Efficiency of A = Efficiency (A + B) − Efficiency of B = 3 − 1 = 2 units.</p>\n<p>Time taken by A alone = (Efficiency of A + B × Total Time) ÷ Efficiency of A = (3 × 18) ÷ 2 = 27 hours.</p>\n<p><strong>∴ The correct answer is 27 hours.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Time taken by (A + B) together = 18 hours</p>\n<p>Work done by (A + B) in 6 hours = 6 ÷ 18 = 1/3</p>\n<p>Remaining work = 1 − 1/3 = 2/3</p>\n<p>⇒ B takes 36 hours for 2/3 of the task.</p>\n<p>⇒ Time taken by B alone = 36 × (3/2) = 54 hours.</p>\n<p><strong>Formula Used:</strong></p>\n<p>Total Work = LCM of individual times; Efficiency = Total Work ÷ Time.</p>\n<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;text-align:left;'>\n  <tbody>\n    <tr>\n      <td><strong>Person</strong></td>\n      <td><strong>Time (hrs)</strong></td>\n      <td><strong>Total Work</strong></td>\n      <td><strong>Efficiency</strong></td>\n    </tr>\n    <tr>\n      <td>A + B</td>\n      <td>18</td>\n      <td rowspan='2'>54 units</td>\n      <td>54 ÷ 18 = 3</td>\n    </tr>\n    <tr>\n      <td>B</td>\n      <td>54</td>\n      <td>54 ÷ 54 = 1</td>\n    </tr>\n  </tbody>\n</table>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Efficiency of A = Efficiency of (A + B) − Efficiency of B</p>\n<p>⇒ Efficiency of A = 3 − 1 = 2 units/hour.</p>\n<p>⇒ Time taken by A alone = Total Work ÷ Efficiency of A</p>\n<p>⇒ Time taken by A alone = 54 ÷ 2 = 27 hours.</p>\n<p><strong>∴ The correct answer is 27 hours.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Inverse Relation of Time and Efficiency</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Efficiency is inversely proportional to the time taken to complete a work. If the ratio of time taken by A and B is x : y, then the ratio of their efficiency is y : x.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Combined Work Formula</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If person A takes x hours and person B takes y hours to complete a work individually, then together they will take (x × y) ÷ (x + y) hours.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Work and Wages</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Wages are generally distributed in the ratio of the total work done by each individual, which matches the efficiency ratio if they work for the same duration.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q6",
+      "number": 6,
+      "question": "Pipe C and D alone can fill a tank in 4 and 5 hours, respectively. If pipe C is closed after 3 hours and at the same time pipe D is opened, in how many hours will the tank get filled?",
+      "questionHtml": "Pipe C and D alone can fill a tank in 4 and 5 hours, respectively. If pipe C is closed after 3 hours and at the same time pipe D is opened, in how many hours will the tank get filled?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.8",
+          "html": "0.8"
+        },
+        {
+          "id": "B",
+          "text": "1.25",
+          "html": "1.25"
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "D",
+          "text": "1.5",
+          "html": "1.5"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">As we know, the efficiency is inversely proportional to the time</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Efficiency of pipe C and D = 5 : 4, Total work = 5 × 4 = 20</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Work done by C in three hours = 3 × 5 = 15</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Remaining work = 20 – 15 = 5</p>\n<span style=\"color: rgb(33, 37, 41);\">∴ Remaining work, D will complete in = 5/4 = 1.25 hours</span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q7",
+      "number": 7,
+      "question": "A and B can do a piece of work in 18 days. B and C together can do it in 30 days. If A is twice as good a workman as C, find in how many days B alone can do the work?",
+      "questionHtml": "A and B can do a piece of work in 18 days. B and C together can do it in 30 days. If A is twice as good a workman as C, find in how many days B alone can do the work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "90 days",
+          "html": "90 days"
+        },
+        {
+          "id": "B",
+          "text": "80 days",
+          "html": "80 days"
+        },
+        {
+          "id": "C",
+          "text": "75 days",
+          "html": "75 days"
+        },
+        {
+          "id": "D",
+          "text": "100 days",
+          "html": "100 days"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Total work = LCM(18, 30) = 90 units.</p>\n<p>Efficiency of (A + B) = 90 ÷ 18 = 5 units and (B + C) = 90 ÷ 30 = 3 units.</p>\n<p>Difference in efficiency: (A + B) − (B + C) = A − C = 5 − 3 = 2 units.</p>\n<p>Given A = 2C, so 2C − C = 2 ⇒ C's efficiency = 2 units.</p>\n<p>Efficiency of B = Eff(B + C) − Eff(C) = 3 − 2 = 1 unit.</p>\n<p>Time taken by B alone = 90 ÷ 1 = 90 days.</p>\n<p><strong>∴ The correct answer is 90 days.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Time taken by (A + B) = 18 days</p>\n<p>Time taken by (B + C) = 30 days</p>\n<p>Efficiency of A = 2 × Efficiency of C</p>\n<p><strong>Formula Used:</strong></p>\n<p>Efficiency = Total Work ÷ Time taken</p>\n<table border=\"1\" cellpadding=\"6\" cellspacing=\"0\" style=\"border-collapse:collapse;text-align:left;\">\n  <tbody>\n    <tr>\n      <td><strong>Person</strong></td>\n      <td><strong>Days</strong></td>\n      <td><strong>Total Work</strong></td>\n      <td><strong>Efficiency</strong></td>\n    </tr>\n    <tr>\n      <td>A + B</td>\n      <td>18</td>\n      <td rowspan=\"2\">90 (LCM of 18, 30)</td>\n      <td>5</td>\n    </tr>\n    <tr>\n      <td>B + C</td>\n      <td>30</td>\n      <td>3</td>\n    </tr>\n  </tbody>\n</table>\n<p>⇒ Efficiency of (A + B) = 5</p>\n<p>⇒ Efficiency of (B + C) = 3</p>\n<p>⇒ (A + B) − (B + C) = 5 − 3</p>\n<p>⇒ A − C = 2</p>\n<p>⇒ Since A = 2C, substitute A: 2C − C = 2 ⇒ C = 2 units/day</p>\n<p>⇒ Efficiency of B = (B + C) − C = 3 − 2 = 1 unit/day</p>\n<p>⇒ Days taken by B alone = Total Work ÷ Efficiency of B</p>\n<p>⇒ Days taken by B = 90 ÷ 1 = 90 days</p>\n<p><strong>∴ The correct answer is 90 days.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Total Work Concept</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Total Work = Efficiency × Time. When work is constant, Efficiency is inversely proportional to Time.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Efficiency Comparison</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If A is n times as good as B, then the ratio of their efficiencies is n : 1 and the ratio of time taken to complete the same work is 1 : n.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Combined Work Rule</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If person X takes x days and Y takes y days, together they take (x × y) ÷ (x + y) days to complete the work.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q8",
+      "number": 8,
+      "question": "Rashika can do a work in 5 days. Rashmi can do the same work in 7 days. Both of them finish the work together and they get Rs. 240 for the work. What is the share (in Rs.) of Rashika?",
+      "questionHtml": "Rashika can do a work in 5 days. Rashmi can do the same work in 7 days. Both of them finish the work together and they get Rs. 240 for the work. What is the share (in Rs.) of Rashika?",
+      "options": [
+        {
+          "id": "A",
+          "text": "120",
+          "html": "120"
+        },
+        {
+          "id": "B",
+          "text": "100",
+          "html": "100"
+        },
+        {
+          "id": "C",
+          "text": "140",
+          "html": "140"
+        },
+        {
+          "id": "D",
+          "text": "160",
+          "html": "160"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Wages are distributed in the ratio of efficiency, which is the inverse of the time taken.</p>\n<p>Time ratio of Rashika and Rashmi = 5 : 7</p>\n<p>Efficiency ratio (Rashika : Rashmi) = 7 : 5</p>\n<p>Total efficiency = 7 + 5 = 12 parts = ₹240</p>\n<p>1 part = ₹20 ⇒ Rashika's share = 7 parts = 7 × 20 = ₹140</p>\n<p><strong>∴ The correct answer is ₹140.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Time taken by Rashika = 5 days</p>\n<p>Time taken by Rashmi = 7 days</p>\n<p>Total wages = ₹240</p>\n<table border=\"1\" cellpadding=\"6\" cellspacing=\"0\" style=\"border-collapse:collapse;text-align:left;margin:12px 0;\">\n  <tbody>\n    <tr>\n      <td><strong>Person</strong></td>\n      <td><strong>Days</strong></td>\n      <td><strong>Total Work</strong></td>\n      <td><strong>Efficiency</strong></td>\n    </tr>\n    <tr>\n      <td>Rashika</td>\n      <td>5</td>\n      <td rowspan=\"2\">35</td>\n      <td>7</td>\n    </tr>\n    <tr>\n      <td>Rashmi</td>\n      <td>7</td>\n      <td>5</td>\n    </tr>\n  </tbody>\n</table>\n<p><strong>Calculations:</strong></p>\n<p>⇒ When people work together for the entire duration, wages are divided in the ratio of their efficiencies.</p>\n<p>⇒ Ratio of efficiencies (Rashika : Rashmi) = 7 : 5</p>\n<p>⇒ Total efficiency parts = 7 + 5 = 12 parts</p>\n<p>⇒ 12 parts = ₹240</p>\n<p>⇒ 1 part = 240 ÷ 12 = ₹20</p>\n<p>⇒ Rashika's share = 7 parts = 7 × 20 = ₹140</p>\n<p><strong>∴ The correct answer is ₹140.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Work and Wages</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Wages are distributed in proportion to the total work done by individuals. If individuals work for the same number of days, wages are distributed directly in the ratio of their daily efficiencies.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Efficiency and Time Relationship</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Efficiency is inversely proportional to time. If persons A and B take time in the ratio x : y, their efficiencies will be in the ratio y : x.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Combined Work Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If A can do a work in x days and B in y days, together they take (x × y) ÷ (x + y) days to complete the whole work.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q9",
+      "number": 9,
+      "question": "A, B and C can alone complete a work in 15, 12, and 18 days, respectively. B and C started the work and after working 6 days, B left and A joined. In how many days was the total work completed?",
+      "questionHtml": "A, B and C can alone complete a work in 15, 12, and 18 days, respectively. B and C started the work and after working 6 days, B left and A joined. In how many days was the total work completed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{{81}}{{11}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{{81}}{{11}}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{{15}}{{11}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{{15}}{{11}}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{{51}}{{11}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{{51}}{{11}}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{{34}}{{11}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{{34}}{{11}}\\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Total work (Lcm of time of A,B and C) = 180 units</p>\n\n<p>Efficiency of a person = one day work</p>\n\n<p>Efficiency of A  =  <span class=\"math-tex\">\\(\\frac{180}{15}\\)</span> = 12, Efficiency of B =   <span class=\"math-tex\">\\(\\frac{180}{12}\\)</span> = 15, Efficiency of C =   <span class=\"math-tex\">\\(\\frac{180}{18}\\)</span> = 10</p>\n\n<p>Work done by B and C in 6 days = 6 × (15 + 10) = 150</p>\n\n<p>Remaining work = 180 - 150 = 30 units</p>\n\n<p>Time taken to complete remaining work by A and C = <span class=\"math-tex\">\\(\\frac{30}{12+10}\\)</span> = <span class=\"math-tex\">\\(\\frac{15}{11}\\)</span> days</p>\n\n<p>Total time taken = 6 + <span class=\"math-tex\">\\(\\frac{15}{11}\\)</span> = <span class=\"math-tex\">\\(\\frac{{81}}{{11}}\\)</span> days</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q10",
+      "number": 10,
+      "question": "A, B and C are three pipes connected to a tank. A and B together fill the tank in 6 hrs. B and C together fill the tank in 10 hrs. A and C together fill the tank in 7.5 hours. In how much time will A alone fill the tank?",
+      "questionHtml": "A, B and C are three pipes connected to a tank. A and B together fill the tank in 6 hrs. B and C together fill the tank in 10 hrs. A and C together fill the tank in 7.5 hours. In how much time will A alone fill the tank?",
+      "options": [
+        {
+          "id": "A",
+          "text": "11 hours",
+          "html": "11 hours"
+        },
+        {
+          "id": "B",
+          "text": "10 hours",
+          "html": "10 hours"
+        },
+        {
+          "id": "C",
+          "text": "13 hours",
+          "html": "13 hours"
+        },
+        {
+          "id": "D",
+          "text": "12 hours",
+          "html": "12 hours"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"> a + b = 1/6      ----(1)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">b + c = 1/10    ----(2)</p>\n\n<p style=\"color: rgb(33, 37, 41);\"> a + c = 2/15    ----(3)</p>\n\n<p style=\"color: rgb(33, 37, 41);\"> 2(a + b + c) = (1/6) + (1/10) + (2/15)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">2{a + (1/10)} = (5 + 3 + 4)/30 [∵ equation (2)]</p>\n\n<p style=\"color: rgb(33, 37, 41);\">2a + (1/5) = 2/5 ⇒ a = 1/10</p>\n\n<p style=\"color: rgb(33, 37, 41);\">∴ A alone can fill the tank in 10 hours</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q11",
+      "number": 11,
+      "question": "3 men or 4 women or 5 boys can complete work in 47 days. In how much time 1 man, 1 woman, and 1 boy can finish the work.",
+      "questionHtml": "3 men or 4 women or 5 boys can complete work in 47 days. In how much time 1 man, 1 woman, and 1 boy can finish the work.",
+      "options": [
+        {
+          "id": "A",
+          "text": "48 days",
+          "html": "48 days"
+        },
+        {
+          "id": "B",
+          "text": "50 days",
+          "html": "50 days"
+        },
+        {
+          "id": "C",
+          "text": "55 days",
+          "html": "55 days"
+        },
+        {
+          "id": "D",
+          "text": "60 days",
+          "html": "60 days"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Use the direct formula for <strong>'Or'</strong> to <strong>'And'</strong> conversion: <strong>Time = (Days × L) ÷ (L/M + L/W + L/B)</strong> where L is the LCM.</p>\n<p>Shortcut: <strong>Days ÷ (1/3 + 1/4 + 1/5)</strong></p>\n<p>⇒ 47 ÷ [(20 + 15 + 12) ÷ 60]</p>\n<p>⇒ 47 ÷ [47 ÷ 60] = 60 days</p>\n<p><strong>∴ The correct answer is 60 days.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> 3 Men (M) = 4 Women (W) = 5 Boys (B) and Time = 47 days.</p>\n<p><strong>Formula:</strong> Total Work = Efficiency × Time</p>\n<table border=\"1\" cellpadding=\"6\" cellspacing=\"0\" style=\"border-collapse:collapse;text-align:left;\"> \n<tbody> \n<tr> <td><strong>Person</strong></td> <td><strong>Days</strong></td> <td><strong>Total Work</strong></td> <td><strong>Efficiency</strong></td> </tr> <tr> <td>3 Men</td> <td>47</td> <td rowspan=\"3\">47 × 60</td> <td>60 ÷ 3 = 20</td> </tr> <tr> <td>4 Women</td> <td>47</td> <td>60 ÷ 4 = 15</td> </tr> <tr> <td>5 Boys</td> <td>47</td> <td>60 ÷ 5 = 12</td> </tr> </tbody> </table>\n<p>⇒ 1 Man efficiency = 20/1 = 20</p>\n<p>⇒ 1 Woman efficiency = 15/1 = 15</p>\n<p>⇒ 1 Boy efficiency = 12/1 = 12</p>\n<p>⇒ Total Efficiency (1M + 1W + 1B) = 20 + 15 + 12 = 47 units/day</p>\n<p>⇒ Total Work = (Efficiency of 3M) × 47 = 60 × 47 units</p>\n<p>⇒ Time required = (60 × 47) ÷ 47</p>\n<p>⇒ Time = 60 days</p>\n<p><strong>∴ The correct answer is 60 days.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Conversion Method</p> \n<p style=\"margin:0 0 8px 0;color:#444444;\">When 'or' is given, equate work to find ratios: M<sub>1</sub>D<sub>1</sub> = M<sub>2</sub>D<sub>2</sub>. Efficiency of 1 Man = (4/3) Women = (5/3) Boys.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">General Formula for 'And/Or'</p> \n<p style=\"margin:0 0 8px 0;color:#444444;\">Required Days = D ÷ [(a<sub>2</sub>/a<sub>1</sub>) + (b<sub>2</sub>/b<sub>1</sub>) + (c<sub>2</sub>/c<sub>1</sub>)], where a<sub>1</sub>, b<sub>1</sub>, c<sub>1</sub> are 'or' values and a<sub>2</sub>, b<sub>2</sub>, c<sub>2</sub> are 'and' values.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q12",
+      "number": 12,
+      "question": "One of the two inlet pipes works twice as efficiently as the other. The two can fill the empty cistern in 12 hours. A drain pipe can empty a cistern all by itself in 12 hours. How many hours will the more efficient inlet pipe take to fill the empty cistern by itself?",
+      "questionHtml": "One of the two inlet pipes works twice as efficiently as the other. The two can fill the empty cistern in 12 hours. A drain pipe can empty a cistern all by itself in 12 hours. How many hours will the more efficient inlet pipe take to fill the empty cistern by itself?",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "B",
+          "text": "15",
+          "html": "15"
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "D",
+          "text": "18",
+          "html": "18"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Let efficiency of <strong>Inlet Pipe 2</strong> (less efficient) = 1 unit/hr.</p>\n<p>Efficiency of <strong>Inlet Pipe 1</strong> (more efficient) = 2 units/hr.</p>\n<p>Combined efficiency = 1 + 2 = 3 units/hr.</p>\n<p>Total Capacity = Combined Efficiency × Time = 3 × 12 = 36 units.</p>\n<p>Time for more efficient pipe = Total Capacity ÷ 2 = 36 ÷ 2 = 18 hours.</p>\n<p><strong>∴ The correct answer is 18 hours.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Two inlet pipes fill the cistern in 12 hours. One is twice as efficient as the other. A drain pipe (not used for this specific calculation) empties it in 12 hours.</p>\n<p><strong>Formula Used:</strong> Total Work = Efficiency × Time</p>\n<table border=\"1\" cellpadding=\"6\" cellspacing=\"0\" style=\"border-collapse:collapse;text-align:left;\">\n<tbody>\n<tr>\n<td><strong>Pipe</strong></td>\n<td><strong>Efficiency</strong></td>\n<td><strong>Combined Time</strong></td>\n<td><strong>Total Capacity</strong></td>\n</tr>\n<tr>\n<td>Inlet A (More Efficient)</td>\n<td>2x</td>\n<td rowspan=\"2\">12 hours</td>\n<td rowspan=\"2\">36x</td>\n</tr>\n<tr>\n<td>Inlet B (Less Efficient)</td>\n<td>x</td>\n</tr>\n</tbody>\n</table>\n<p>⇒ Combined Efficiency of A and B = 2x + x = 3x</p>\n<p>⇒ Total Capacity = 3x × 12 = 36x units</p>\n<p>⇒ Time taken by Inlet A alone = Total Capacity ÷ Efficiency of A</p>\n<p>⇒ Time = 36x ÷ 2x = 18 hours</p>\n<p><strong>∴ The correct answer is 18 hours.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Efficiency and Time Relationship</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Efficiency is inversely proportional to the time taken. If Efficiency ratio is a:b, then Time ratio is b:a.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Pipes and Cisterns Basics</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Inlet pipes have positive efficiency (+), and outlet (drain) pipes have negative efficiency (−). Net work = Σ Efficiency × Time.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Combined Rate Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If two pipes take X and Y hours respectively, combined time T = (X × Y) ÷ (X + Y).</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q13",
+      "number": 13,
+      "question": "Arihant starts doing a certain work. After 4 days, Arun who is half efficient as Arihant starts working on the same work. As a result, the work gets completed in 9 more days. What is the time to complete the work if Arun does it alone?",
+      "questionHtml": "Arihant starts doing a certain work. After 4 days, Arun who is half efficient as Arihant starts working on the same work. As a result, the work gets completed in 9 more days. What is the time to complete the work if Arun does it alone?",
+      "options": [
+        {
+          "id": "A",
+          "text": "32 days",
+          "html": "32 days"
+        },
+        {
+          "id": "B",
+          "text": "35 days",
+          "html": "35 days"
+        },
+        {
+          "id": "C",
+          "text": "38 days",
+          "html": "38 days"
+        },
+        {
+          "id": "D",
+          "text": "39 days",
+          "html": "39 days"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Efficiency ratio of <strong>Arihant</strong> : <strong>Arun</strong> = 2 : 1 (since <strong>Arun</strong> is half efficient).</p>\n<p>Total work = (<strong>Arihant</strong> total days × efficiency) + (<strong>Arun</strong> total days × efficiency)</p>\n<p>Total work = (13 × 2) + (9 × 1) = 26 + 9 = 35 units.</p>\n<p>Time for <strong>Arun</strong> alone = 35 units ÷ 1 unit/day = 35 days.</p>\n<p><strong>∴ The correct answer is 35 days.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>⇒ <strong>Arihant</strong> worked for 4 days alone + 9 days with <strong>Arun</strong> = 13 days.</p>\n<p>⇒ <strong>Arun</strong> worked for 9 days total.</p>\n<p>⇒ <strong>Efficiency</strong> of <strong>Arun</strong> = 1/2 of <strong>Arihant</strong> efficiency.</p>\n<p><strong>Formula Used:</strong></p>\n<p>⇒ Total Work = (Efficiency × Time)</p>\n<p>⇒ Time = Total Work ÷ Efficiency</p>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Let <strong>Arun</strong> efficiency = 1 unit/day, then <strong>Arihant</strong> efficiency = 2 units/day.</p>\n<table border=\"1\" cellpadding=\"6\" cellspacing=\"0\" style=\"border-collapse:collapse;text-align:left;\">\n  <tbody>\n    <tr>\n      <td><strong>Person</strong></td>\n      <td><strong>Total Days Worked</strong></td>\n      <td><strong>Efficiency</strong></td>\n      <td><strong>Work Done (Units)</strong></td>\n    </tr>\n    <tr>\n      <td><strong>Arihant</strong></td>\n      <td>13</td>\n      <td>2</td>\n      <td>26</td>\n    </tr>\n    <tr>\n      <td><strong>Arun</strong></td>\n      <td>9</td>\n      <td>1</td>\n      <td>9</td>\n    </tr>\n    <tr>\n      <td><strong>Total Work</strong></td>\n      <td>-</td>\n      <td>-</td>\n      <td><strong>35</strong></td>\n    </tr>\n  </tbody>\n</table>\n<p>⇒ Total work performed = 26 + 9 = 35 units.</p>\n<p>⇒ Time taken by <strong>Arun</strong> alone = Total Work ÷ <strong>Arun</strong> efficiency</p>\n<p>⇒ Time = 35 ÷ 1 = 35 days.</p>\n<p><strong>∴ The correct answer is 35 days.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Efficiency-Time Relationship</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Efficiency is inversely proportional to the time taken to complete a task. If efficiency ratio is a : b, the time ratio is b : a.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Combined Work Rule</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When individuals work together, their daily efficiencies are added (E<sub>total</sub> = E<sub>1</sub> + E<sub>2</sub> + ... + E<sub>n</sub>) to find the total rate of work.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Work Constant Formula</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">For the same piece of work, M<sub>1</sub> × D<sub>1</sub> × E<sub>1</sub> = M<sub>2</sub> × D<sub>2</sub> × E<sub>2</sub>, where M is number of workers, D is days, and E is efficiency.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q14",
+      "number": 14,
+      "question": "A can do a piece of work in 15 days and B is 25% more efficient than A. If A and B both work for 4 days and after 4 days C can complete the remaining work alone in 8 days, then find time taken by A, B and C together to complete the whole work.",
+      "questionHtml": "<span id=\"docs-internal-guid-b0a8761f-7fff-bce8-da24-b0abde72f1dc\"><span style=\"  background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">A can do a piece of work in 15 days and B is 25% more efficient than A. If A and B both work for 4 days and after 4 days C can complete the remaining work alone in 8 days, then find time taken by A, B and C together to complete the whole work.</span></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 days",
+          "html": "6 days&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "5 days",
+          "html": "5 days&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "8 days",
+          "html": "8 days&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "10 days",
+          "html": "10 days&nbsp;"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Assume A's efficiency = 4 units/day → B's efficiency = 1.25 × 4 = 5 units/day.</p>\n<p>Total Work = 15 × 4 = 60 units.</p>\n<p>Work done by A & B in 4 days = (4 + 5) × 4 = 36 units → Remaining = 24 units.</p>\n<p>C's efficiency = 24 ÷ 8 = 3 units/day → Total combined efficiency = 4 + 5 + 3 = 12 units/day.</p>\n<p><strong>∴ The correct answer is 5 days.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Time taken by A = 15 days</p>\n<p>B is 25% more efficient than A.</p>\n<p>Time A and B worked together = 4 days</p>\n<p>Time taken by C to complete the remaining work = 8 days</p>\n<p><strong>Formula Used:</strong></p>\n<p>Total Work = Efficiency × Time Taken</p>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Efficiency ratio of A to B = 100 : 125 = 4 : 5</p>\n<p>⇒ Time ratio of A to B = 5 : 4</p>\n<p>⇒ Time taken by B = (15 ÷ 5) × 4 = 12 days</p>\n<p>⇒ Combined efficiency of A and B = 4 + 5 = 9 units/day</p>\n<p>⇒ Total Work = 15 × 4 = 60 units</p>\n<p>⇒ Work done by A and B in 4 days = 9 × 4 = 36 units</p>\n<p>⇒ Remaining work = 60 − 36 = 24 units</p>\n<p>⇒ Efficiency of C = Remaining work ÷ Time taken = 24 ÷ 8 = 3 units/day</p>\n<p>⇒ Time taken by C to complete whole work alone = 60 ÷ 3 = 20 days</p>\n\n<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;text-align:left;'>\n  <tbody>\n    <tr>\n      <td><strong>Person</strong></td>\n      <td><strong>Days</strong></td>\n      <td><strong>Total Work</strong></td>\n      <td><strong>Efficiency</strong></td>\n    </tr>\n    <tr>\n      <td>A</td>\n      <td>15</td>\n      <td rowspan='3'>60</td>\n      <td>4</td>\n    </tr>\n    <tr>\n      <td>B</td>\n      <td>12</td>\n      <td>5</td>\n    </tr>\n    <tr>\n      <td>C</td>\n      <td>20</td>\n      <td>3</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>⇒ Total combined efficiency of A, B, and C = 4 + 5 + 3 = 12 units/day</p>\n<p>⇒ Time taken by A, B, and C together = Total Work ÷ Total efficiency</p>\n<p>⇒ Time taken = 60 ÷ 12 = 5 days</p>\n<p><strong>∴ The correct answer is 5 days.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Work & Wages</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Wages are distributed in proportion to the total work done by each individual. If all individuals work for the same number of days, wages are distributed directly in the ratio of their efficiencies.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Alternate Day Work</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When people work on alternate days, calculate the work done in one complete cycle (e.g., 2 days for 2 people) and then multiply to reach closer to the total work, the remaining work is done by the person whose turn it is next.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Pipes & Cisterns</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Similar to Time & Work, inlet pipes have positive efficiency while outlet or leak pipes have negative efficiency. The net efficiency determines the time taken to fill or empty the tank.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q15",
+      "number": 15,
+      "question": "A can paint a house in 55 days and B can do it in 66 days. Along with C, they did the job in 12 days only. In how many days C alone can do the job?",
+      "questionHtml": "<p>A can paint a house in 55 days and B can do it in 66 days. Along with C, they did the job in 12 days only. In how many days C alone can do the job?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "24",
+          "html": "24"
+        },
+        {
+          "id": "B",
+          "text": "44",
+          "html": "44"
+        },
+        {
+          "id": "C",
+          "text": "33",
+          "html": "33"
+        },
+        {
+          "id": "D",
+          "text": "20",
+          "html": "20"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Total work (LCM of 55, 66, and 12) = 660 units.</p>\n<p>Combined efficiency of A, B, and C = 660 ÷ 12 = 55 units/day.</p>\n<p>Individual efficiencies: A = 660 ÷ 55 = 12 units/day; B = 660 ÷ 66 = 10 units/day.</p>\n<p>Efficiency of C = 55 − (12 + 10) = 33 units/day.</p>\n<p>Time taken by C alone = 660 ÷ 33 = 20 days.</p>\n<p><strong>∴ The correct answer is 20 days.</strong></p><p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p>Given:</p>\n<p>Time taken by A = 55 days</p>\n<p>Time taken by B = 66 days</p>\n<p>Time taken by (A + B + C) = 12 days</p>\n<p>Formula Used: Total Work = Efficiency × Time</p>\n<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;text-align:left;'>\n  <tbody>\n    <tr>\n      <td><strong>Person</strong></td>\n      <td><strong>Days</strong></td>\n      <td><strong>Total Work</strong></td>\n      <td><strong>Efficiency</strong></td>\n    </tr>\n    <tr>\n      <td>A</td>\n      <td>55</td>\n      <td rowspan='3'>660</td>\n      <td>12</td>\n    </tr>\n    <tr>\n      <td>B</td>\n      <td>66</td>\n      <td>10</td>\n    </tr>\n    <tr>\n      <td>A + B + C</td>\n      <td>12</td>\n      <td>55</td>\n    </tr>\n  </tbody>\n</table>\n<p>Calculations:</p>\n<p>⇒ Efficiency of A = 660 ÷ 55 = 12</p>\n<p>⇒ Efficiency of B = 660 ÷ 66 = 10</p>\n<p>⇒ Efficiency of (A + B + C) = 660 ÷ 12 = 55</p>\n<p>⇒ Efficiency of C = Eff(A+B+C) − Eff(A) − Eff(B)</p>\n<p>⇒ Efficiency of C = 55 − 12 − 10 = 33</p>\n<p>⇒ Time taken by C = Total Work ÷ Efficiency of C</p>\n<p>⇒ Time = 660 ÷ 33 = 20 days</p>\n<p><strong>∴ The correct answer is 20 days.</strong></p><p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Work and Efficiency Relationship</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Efficiency is inversely proportional to the time taken to complete the work. Efficiency = Total Work ÷ Time.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Combined Work Formula</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If three people A, B, and C can complete a work in a, b, and c days respectively, their combined efficiency is 1/a + 1/b + 1/c.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Pipes and Cisterns</p>\n<p style='margin:0 0 8px 0;color:#444444;'>This concept is identical to Time and Work, where an inlet pipe has positive efficiency and an outlet pipe (leak) has negative efficiency.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q16",
+      "number": 16,
+      "question": "Two pipes, A and B, can fill a tank of 1000 litres in 5 hours and 6 hours, respectively. If they are opened together, how many hours will they take to fill an empty tank of 1800 litres?",
+      "questionHtml": "Two pipes, A and B, can fill a tank of 1000 litres in 5 hours and 6 hours, respectively. If they are opened together, how many hours will they take to fill an empty tank of 1800 litres?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{54}{11}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{54}{11}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{52}{11}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{52}{11}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{25}{11}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{25}{11}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{45}{11}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{45}{11}\\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Work done by A in 1 hour ⇒ 1000/5 = 200 litres/hour</p>\n\n<p>Work done by B in 1 hour ⇒ 1000/6 = 166.67 litres/hour</p>\n\n<p>Work done by A and B together in 1 hour = 200 + 166.67 = 366.67 litres/hour</p>\n\n<p>Time to fill 1800 litres = 1800/366.67 = (54)/(11) hours</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q17",
+      "number": 17,
+      "question": "A can do work in 6 days. B takes 8 days to complete the work. C takes the time equal to the time taken by A and B to work together to complete that task. If B and C work together, how much time will they take to complete the work?",
+      "questionHtml": "A can do work in 6 days. B takes 8 days to complete the work. C takes the time equal to the time taken by A and B to work together to complete that task. If B and C work together, how much time will they take to complete the work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{{13}}{5}\\) days",
+          "html": "<span class=\"math-tex\">\\(\\frac{{13}}{5}\\)</span>&nbsp;days&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{{14}}{5}\\) days",
+          "html": "<span class=\"math-tex\">\\(\\frac{{14}}{5}\\)</span>&nbsp;days&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{{12}}{5}\\) days",
+          "html": "<span class=\"math-tex\">\\(\\frac{{12}}{5}\\)</span>&nbsp;days&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{{11}}{5}\\) days",
+          "html": "<span class=\"math-tex\">\\(\\frac{{11}}{5}\\)</span>&nbsp;days&nbsp;"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Time taken by <strong>A and B</strong> together = (6 × 8) ÷ (6 + 8) = 48 ÷ 14 = 24/7 days.</p>\n<p>Given: Time for <strong>C</strong> = Time for (A + B) = 24/7 days.</p>\n<p>Combined efficiency of <strong>B and C</strong> (where B is 1/8 and C is 7/24) = 3/24 + 7/24 = 10/24 = 5/12.</p>\n<p>Time taken by <strong>B and C</strong> = 12/5 days.</p>\n<p><strong>∴ The correct answer is 12/5 days.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Time taken by <strong>A</strong> = 6 days, Time taken by <strong>B</strong> = 8 days.</p>\n<table border=\"1\" cellpadding=\"6\" cellspacing=\"0\" style=\"border-collapse:collapse;text-align:left;\">\n<tbody>\n<tr>\n<td><strong>Person</strong></td>\n<td><strong>Days</strong></td>\n<td><strong>Total Work</strong></td>\n<td><strong>Efficiency</strong></td>\n</tr>\n<tr>\n<td><strong>A</strong></td>\n<td>6</td>\n<td rowspan=\"2\">24</td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>B</strong></td>\n<td>8</td>\n<td>3</td>\n</tr>\n</tbody>\n</table>\n<p>⇒ Efficiency of <strong>(A + B)</strong> = 4 + 3 = 7 units/day.</p>\n<p>⇒ Time taken by <strong>(A + B)</strong> = 24/7 days.</p>\n<p>⇒ Since <strong>C</strong> takes same time as (A+B), Time for <strong>C</strong> = 24/7 days.</p>\n<p>⇒ Efficiency of <strong>C</strong> = Total Work ÷ Time = 24 ÷ (24/7) = 7 units/day.</p>\n<p>⇒ Total efficiency of <strong>(B + C)</strong> = Efficiency of B + Efficiency of C = 3 + 7 = 10 units/day.</p>\n<p>⇒ Time taken by <strong>(B + C)</strong> = Total Work ÷ Combined Efficiency = 24 ÷ 10 = 12/5 days.</p>\n<p><strong>∴ The correct answer is 12/5 days.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Combined Efficiency Rule</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If person X completes work in x days and Y in y days, their combined efficiency is (1/x + 1/y) and time taken is (xy)/(x+y).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Work and Time Relationship</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Time taken to complete a task is inversely proportional to the efficiency. Efficiency = Total Work ÷ Time.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">LCM Method</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Taking the Least Common Multiple (LCM) of individual days as the total work simplifies calculations by providing integer efficiency values.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q18",
+      "number": 18,
+      "question": "Rakesh and Ranjit can complete a task in 4 and 6 days, respectively when working alone. Ranjit started working on the task, and was joined by Rakesh after 2 days. How many days will they require to complete the remaining work?",
+      "questionHtml": "Rakesh and Ranjit can complete a task in 4 and 6 days, respectively when working alone. Ranjit started working on the task, and was joined by Rakesh after 2 days. How many days will they require to complete the remaining work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.6",
+          "html": "1.6"
+        },
+        {
+          "id": "B",
+          "text": "0.8",
+          "html": "0.8"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "D",
+          "text": "1.2",
+          "html": "1.2"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p><strong>Total Work</strong> (LCM of 4 and 6) = 12 units.</p>\n<p><strong>Efficiencies</strong>: Rakesh = 3 units/day, Ranjit = 2 units/day.</p>\n<p><strong>Work done by Ranjit</strong> in first 2 days = 2 × 2 = 4 units.</p>\n<p><strong>Remaining work</strong> = 12 − 4 = 8 units.</p>\n<p><strong>Time taken</strong> for remaining work = 8 ÷ (3 + 2) = 8/5 = 1.6 days.</p>\n<p><strong>∴ The correct answer is 1.6 days.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Time taken by <strong>Rakesh</strong> = 4 days, Time taken by <strong>Ranjit</strong> = 6 days.</p>\n<p><strong>Formula Used:</strong> Efficiency = Total Work ÷ Time Taken; Time = Work ÷ Efficiency</p>\n<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;text-align:left;'> <tbody> <tr> <td><strong>Person</strong></td> <td><strong>Days</strong></td> <td><strong>Total Work</strong></td> <td><strong>Efficiency</strong></td> </tr> <tr> <td><strong>Rakesh</strong></td> <td>4</td> <td rowspan='2'>12</td> <td>3</td> </tr> <tr> <td><strong>Ranjit</strong></td> <td>6</td> <td>2</td> </tr> </tbody> </table>\n<p>⇒ <strong>Ranjit</strong> works alone for 2 days.</p>\n<p>⇒ Work completed by <strong>Ranjit</strong> = 2 × 2 = 4 units.</p>\n<p>⇒ <strong>Remaining Work</strong> = 12 − 4 = 8 units.</p>\n<p>⇒ Combined efficiency of <strong>Rakesh</strong> and <strong>Ranjit</strong> = 3 + 2 = 5 units/day.</p>\n<p>⇒ Time for remaining work = 8 ÷ 5 = 1.6 days.</p>\n<p><strong>∴ The correct answer is 1.6 days.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Combined Efficiency</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When multiple people work together, their daily efficiencies are added. Combined Time = Total Work ÷ (Efficiency<sub>1</sub> + Efficiency<sub>2</sub> + ...).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Work and Wages</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Wages are distributed in the ratio of the work done by each individual, which is proportional to (Efficiency × Time).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Fraction Method</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If a person does a job in X days, their 1-day work is 1/X. Remaining work = 1 − (Work done).</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q19",
+      "number": 19,
+      "question": "A & B together do a work in 40 days. B & C together do in 25 days. A and B started working together, and A left work after 6 days & B left work after 8 days. After A left, C join the work & C completed the work in 40.5 days, C alone can complete the work in how many days?",
+      "questionHtml": "<p>A &amp; B together do a work in 40 days. B &amp; C together do in 25 days. A and B started working together, and A left work after 6 days&nbsp;&amp; B&nbsp;left work after 8 days. After A left, C join the work &amp; C completed the work in 40.5&nbsp;days, C alone can complete the work in how many days?<br />\n<span style=\"display: none;\">&nbsp;</span></p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "80 days",
+          "html": "80 days"
+        },
+        {
+          "id": "B",
+          "text": "120 days",
+          "html": "120 days"
+        },
+        {
+          "id": "C",
+          "text": "70 days",
+          "html": "70 days"
+        },
+        {
+          "id": "D",
+          "text": "50 days",
+          "html": "50 days"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Total work = 6 days of A + 8 days of B + 40.5 days of C = 1</p>\n<p>⇒ Regrouping days: 6 days of (A + B) + 2 days of (B + C) + 38.5 days of C = 1</p>\n<p>⇒ 6 × (1/40) + 2 × (1/25) + 38.5/C = 1</p>\n<p>⇒ 3/20 + 2/25 + 38.5/C = 1 ⇒ 23/100 + 38.5/C = 1</p>\n<p>⇒ 38.5/C = 77/100 ⇒ C = 3850 ÷ 77 = 50 days</p>\n<p><strong>∴ The correct answer is 50 days.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Time taken by (A + B) to complete the work = 40 days</p>\n<p>Time taken by (B + C) to complete the work = 25 days</p>\n<p>A works for 6 days, B works for 8 days, and C works for 40.5 days.</p>\n\n<table border=\"1\" cellpadding=\"6\" cellspacing=\"0\" style=\"border-collapse:collapse;text-align:left;\">\n  <tbody>\n    <tr>\n      <td><strong>Person</strong></td>\n      <td><strong>Days</strong></td>\n      <td><strong>Total Work</strong></td>\n      <td><strong>Efficiency</strong></td>\n    </tr>\n    <tr>\n      <td>A + B</td>\n      <td>40</td>\n      <td rowspan=\"2\">200</td>\n      <td>5</td>\n    </tr>\n    <tr>\n      <td>B + C</td>\n      <td>25</td>\n      <td>8</td>\n    </tr>\n  </tbody>\n</table>\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ Total work done = 6 days of A + 8 days of B + 40.5 days of C</p>\n<p>⇒ We can regroup these days to utilize the known combined efficiencies.</p>\n<p>⇒ Total work = 6 days of (A + B) + 2 days of (B + C) + 38.5 days of C alone</p>\n<p>⇒ Work done by (A + B) in 6 days = 6 × 5 = 30 units</p>\n<p>⇒ Work done by (B + C) in 2 days = 2 × 8 = 16 units</p>\n<p>⇒ Total work completed in these grouped days = 30 + 16 = 46 units</p>\n<p>⇒ Remaining work = 200 − 46 = 154 units</p>\n<p>⇒ C alone completes the remaining 154 units in 38.5 days.</p>\n<p>⇒ Efficiency of C = 154 ÷ 38.5 = 4 units/day</p>\n<p>⇒ Time taken by C alone = Total Work ÷ Efficiency of C</p>\n<p>⇒ Time taken by C alone = 200 ÷ 4 = 50 days</p>\n<p><strong>∴ The correct answer is 50 days.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Grouping Work Days</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When individual efficiencies are not given but combined efficiencies are known, group the days of work to match the given combinations (e.g., 6 days of A and 8 days of B can be mathematically grouped as 6 days of A+B and 2 days of B).</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Work and Wages</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Wages are strictly distributed in the ratio of the total work done by each person. If people work for the exact same number of days, their wages are divided in the direct ratio of their efficiencies.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Alternate Days Work</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When workers work on alternate days, find the work done in one complete cycle of days. Subtract this group cycle from the total work and allocate the remaining work according to the given sequence.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q20",
+      "number": 20,
+      "question": "A and B can do a work in 21/2 days. The ratio of their efficiencies is 3 ∶ 7. They start working and work for 5 days. Find the time taken by them to complete 60% of the remaining work.",
+      "questionHtml": "A and B can do a work in 21/2 days. The ratio of their efficiencies is 3 ∶ 7. They start working and work for 5 days. Find the time taken by them to complete 60% of the remaining work.",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(3{3 \\over 10}\\) days",
+          "html": "<span class=\"math-tex\">\\(3{3 \\over 10}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "B",
+          "text": "\\(3{4 \\over 10}\\) days",
+          "html": "<span class=\"math-tex\">\\(3{4 \\over 10}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "C",
+          "text": "\\(3{3 \\over 5}\\) days",
+          "html": "<span class=\"math-tex\">\\(3{3 \\over 5}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "D",
+          "text": "\\(4{7\\over 5}\\) days",
+          "html": "<span class=\"math-tex\">\\(4{7\\over 5}\\)</span>&nbsp;days"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n\n<p>Combined efficiency of A and B = 3 + 7 = 10 units/day</p>\n\n<p>Total work = 10 &times; 10.5 = 105 units</p>\n\n<p>Remaining work after 5 days = 105 &minus; (10 &times; 5) = 55 units</p>\n\n<p>60% of remaining work = 0.6 &times; 55 = 33 units</p>\n\n<p><strong>&there4; The correct answer is 3 3/10 days.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<p><strong>Given:</strong></p>\n\n<p>Time taken by A and B together = 21/2 = 10.5 days</p>\n\n<p>Efficiency ratio of A ∶ B = 3 ∶ 7</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>Work = Efficiency &times; Time</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" dir=\"ltr\" style=\"table-layout: fixed; width: 0px; border: none;\">\n\t<colgroup>\n\t\t<col width=\"58\" />\n\t\t<col width=\"49\" />\n\t\t<col width=\"70\" />\n\t\t<col width=\"91\" />\n\t</colgroup>\n\t<tbody>\n\t\t<tr style=\"height: 21px;\">\n\t\t\t<td style=\"border: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom;\">Persons</td>\n\t\t\t<td style=\"border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">Time</td>\n\t\t\t<td style=\"border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">Quantity</td>\n\t\t\t<td style=\"border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">Efficiency</td>\n\t\t</tr>\n\t\t<tr style=\"height: 17px;\">\n\t\t\t<td style=\"border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;\">A</td>\n\t\t\t<td style=\"border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">35</td>\n\t\t\t<td colspan=\"1\" rowspan=\"2\" style=\"border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; text-align: center;\">\n\t\t\t<div style=\"max-height: 33px;\">105</div>\n\t\t\t</td>\n\t\t\t<td style=\"border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">3</td>\n\t\t</tr>\n\t\t<tr style=\"height: 16px;\">\n\t\t\t<td style=\"border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;\">B</td>\n\t\t\t<td style=\"border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">15</td>\n\t\t\t<td style=\"border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">7</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Combined efficiency of A + B = 10 units/day</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>&rArr; Total work = Combined efficiency &times; Combined time</p>\n\n<p>&rArr; Total work = 10 &times; 10.5 = 105 units</p>\n\n<p>&rArr; Work completed in 5 days = 10 &times; 5 = 50 units</p>\n\n<p>&rArr; Remaining work = 105 &minus; 50 = 55 units</p>\n\n<p>&rArr; 60% of remaining work = (60 &divide; 100) &times; 55 = 33 units</p>\n\n<p>&rArr; Time taken to complete 33 units = 33 &divide; 10 = 3.3 days</p>\n\n<p>&rArr; 3.3 days = 3 3/10 days</p>\n\n<p><strong>&there4; The correct answer is 3 3/10 days.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Efficiency and Time Relationship</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">Efficiency is inversely proportional to the time taken. If the efficiency ratio is x:y, the time ratio to complete the same work is y:x.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Work Formula</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">Total Work = Efficiency &times; Time. This can be rearranged as Efficiency = Work &divide; Time or Time = Work &divide; Efficiency.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Combined Work</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">When multiple people work together, their combined efficiency is the sum of their individual efficiencies.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Percentage of Work</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">To find a specific portion of work, multiply the total or remaining units by the required percentage (Work &times; P/100).</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q21",
+      "number": 21,
+      "question": "A and B can do a piece of work together in 15 days while A alone can do it in 25 days. They start working together but B leaves 5 days before the completion of the work. For how many days did A and B work together?",
+      "questionHtml": "A and B can do a piece of work together in 15 days while A alone can do it in 25 days. They start working together but B leaves 5 days before the completion of the work. For how many days did A and B work together?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10",
+          "html": "10"
+        },
+        {
+          "id": "B",
+          "text": "13",
+          "html": "13"
+        },
+        {
+          "id": "C",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "D",
+          "text": "12",
+          "html": "12"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Efficiency ratio of <strong>A+B</strong> to <strong>A</strong> is 25 : 15 ⇒ 5 : 3.</p>\n<p>Efficiency of <strong>B</strong> = 5 − 3 = 2 units/day.</p>\n<p>Total work = 15 × 5 = 75 units.</p>\n<p>If <strong>B</strong> leaves 5 days early, <strong>A</strong> works alone for the last 5 days: 3 × 5 = 15 units.</p>\n<p>Remaining work done together = 75 − 15 = 60 units.</p>\n<p>Days worked together = 60 ÷ 5 = 12 days.</p>\n<p><strong>∴ The correct answer is 12 days.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Time taken by (A+B) = 15 days, Time taken by A = 25 days.</p>\n<p><strong>Formula Used:</strong> Total Work = LCM of days; Efficiency = Work ÷ Time.</p>\n<table border=\"1\" cellpadding=\"6\" cellspacing=\"0\" style=\"border-collapse:collapse;text-align:left;\">\n <tbody>\n <tr>\n <td><strong>Person</strong></td>\n <td><strong>Days</strong></td>\n <td><strong>Total Work</strong></td>\n <td><strong>Efficiency</strong></td>\n </tr>\n <tr>\n <td>A + B</td>\n <td>15</td>\n <td rowspan=\"2\">75</td>\n <td>5</td>\n </tr>\n <tr>\n <td>A</td>\n <td>25</td>\n <td>3</td>\n </tr>\n </tbody>\n</table>\n<p>⇒ Efficiency of <strong>B</strong> = (Efficiency of A+B) − (Efficiency of A) = 5 − 3 = 2 units/day.</p>\n<p>⇒ Let they work together for <strong>x</strong> days. Total time to complete work = (x + 5) days.</p>\n<p>⇒ Work done by <strong>A</strong> in (x + 5) days + Work done by <strong>B</strong> in x days = 75</p>\n<p>⇒ 3(x + 5) + 2x = 75</p>\n<p>⇒ 3x + 15 + 2x = 75</p>\n<p>⇒ 5x = 60</p>\n<p>⇒ x = 12 days.</p>\n<p><strong>∴ The correct answer is 12 days.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Leaving Before Completion</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When a person leaves <strong>'n' days before completion</strong>, add their 'n' days of work to the total work and divide by total efficiency to find total time.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Work and Efficiency Relation</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Efficiency is <strong>inversely proportional</strong> to the time taken to complete a specific task. If time ratio is x:y, efficiency ratio is y:x.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q22",
+      "number": 22,
+      "question": "A man, a woman and a boy can complete a work in 3, 4 and 12 days, respectively. How many boys must assist one man and one woman to complete the same work in one day?",
+      "questionHtml": "A man, a woman and a boy can complete a work in 3, 4 and 12 days, respectively. How many boys must assist one man and one woman to complete the same work in one day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "B",
+          "text": "7",
+          "html": "7"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "D",
+          "text": "5",
+          "html": "5"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Man's 1 day work = 1/3, Woman's 1 day work = 1/4</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Boy's 1 day work = 1/12</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">⇒ 1 × (1/3) + 1 × (1/4) + x × (1/12) = 1 { ∵ x be the no. of boys needed} </span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ x/12 = 1 - (1/3) - (1/4) ⇒ x/12 = (12 - 7)/12 ⇒ x = 5</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q23",
+      "number": 23,
+      "question": "A, B and C can complete a piece of work in 18 days, 24 days and 60 days, respectively. In how many days will the work be completed, if A works on all days, and is assisted by B and C on alternate days, starting with B assisting A on the first day?",
+      "questionHtml": "A, B and C can complete a piece of work in 18 days, 24 days and 60 days, respectively. In how many days will the work be completed, if A works on all days, and is assisted by B and C on alternate days, starting with B assisting A on the first day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(11\\frac{{10}}{{13}}\\)",
+          "html": "<span class=\"math-tex\">\\(11\\frac{{10}}{{13}}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(11\\frac{{11}}{{42}}\\)",
+          "html": "<span class=\"math-tex\">\\(11\\frac{{11}}{{42}}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(11\\frac{{5}}{{13}}\\)",
+          "html": "<span class=\"math-tex\">\\(11\\frac{{5}}{{13}}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(12\\frac{{1}}{{9}}\\)",
+          "html": "<span class=\"math-tex\">\\(12\\frac{{1}}{{9}}\\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p><strong>Total Work</strong> (LCM of 18, 24, 60) = 360 units.</p>\n<p><strong>Efficiencies</strong>: A = 20, B = 15, C = 6.</p>\n<p><strong>Cycle</strong>: Day 1 (A+B) = 35; Day 2 (A+C) = 26. Total units in 2 days = 61.</p>\n<p>5 cycles (10 days) = 305 units. Remaining = 55 units. Day 11 (A+B) takes 35 units.</p>\n<p>Remaining 20 units done by (A+C) in 20/26 = 10/13 days. Total = 11<sup>10</sup>/<sub>13</sub> days.</p>\n<p><strong>∴ The correct answer is 11<sup>10</sup>/<sub>13</sub> days.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Time taken by <strong>A</strong> = 18 days, <strong>B</strong> = 24 days, <strong>C</strong> = 60 days.</p>\n<p><strong>Formula Used:</strong> Efficiency = Total Work ÷ Time; Work Done = Efficiency × Time.</p>\n<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;text-align:left;'> <tbody> <tr> <td><strong>Person</strong></td> <td><strong>Days</strong></td> <td><strong>Total Work</strong></td> <td><strong>Efficiency</strong></td> </tr> <tr> <td><strong>A</strong></td> <td>18</td> <td rowspan='3'>360</td> <td>20</td> </tr> <tr> <td><strong>B</strong></td> <td>24</td> <td>15</td> </tr> <tr> <td><strong>C</strong></td> <td>60</td> <td>6</td> </tr> </tbody> </table>\n<p>⇒ Work on <strong>Day 1</strong> (A + B) = 20 + 15 = 35 units.</p>\n<p>⇒ Work on <strong>Day 2</strong> (A + C) = 20 + 6 = 26 units.</p>\n<p>⇒ Work in <strong>1 cycle (2 days)</strong> = 35 + 26 = 61 units.</p>\n<p>⇒ Work in <strong>5 cycles (10 days)</strong> = 61 × 5 = 305 units.</p>\n<p>⇒ <strong>Remaining Work</strong> = 360 − 305 = 55 units.</p>\n<p>⇒ <strong>Day 11</strong> (A + B) completes 35 units. Remaining = 55 − 35 = 20 units.</p>\n<p>⇒ <strong>Day 12</strong> (A + C) time for remaining work = 20 ÷ 26 = 10/13 days.</p>\n<p>⇒ <strong>Total Time</strong> = 10 + 1 + 10/13 = 11<sup>10</sup>/<sub>13</sub> days.</p>\n<p><strong>∴ The correct answer is 11<sup>10</sup>/<sub>13</sub> days.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Alternate Day Work</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When people work on alternate days, calculate the work done in one complete cycle and then multiply to reach closest to the total work.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Combined Efficiency</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If multiple persons work together, their combined efficiency is the sum of their individual efficiencies: E<sub>total</sub> = E<sub>1</sub> + E<sub>2</sub> + ... + E<sub>n</sub>.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Work and Time Relationship</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Time taken to complete the work is inversely proportional to the efficiency: Time = Work ÷ Efficiency.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q24",
+      "number": 24,
+      "question": "A man, a woman and a boy can complete a job in 3, 5 and 15 days, respectively. How many boys must assist 1 man and 1 woman to complete the job in \\(\\frac{1}{5}\\) of a day?",
+      "questionHtml": "A man, a woman and a boy can complete a job in 3, 5 and 15 days, respectively. How many boys must assist 1 man and 1 woman to complete the job in <span class=\"math-tex\">\\(\\frac{1}{5}\\)</span> of a day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "67",
+          "html": "67"
+        },
+        {
+          "id": "B",
+          "text": "35",
+          "html": "35"
+        },
+        {
+          "id": "C",
+          "text": "56",
+          "html": "56"
+        },
+        {
+          "id": "D",
+          "text": "47",
+          "html": "47"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style=\"box-sizing: border-box;  \">Man's 1-day work = 1/3 </span><span style=\"box-sizing: border-box;  \">Woman's 1-day work = 1/5</span><br style=\"box-sizing: border-box;  \" />\n<br style=\"box-sizing: border-box;  \" />\n<span style=\"box-sizing: border-box;  \">Boy's 1-day work = 1/15 <br />\n<br />\n⇒ 1 × (1/3) + 1 × (1/5) + x × (1/15) = 1/(1/5)</span><br style=\"box-sizing: border-box;  \" />\n<br style=\"box-sizing: border-box;  \" />\n<span style=\"box-sizing: border-box;  \">{ ∵ x be the no. of boys needed}</span><br style=\"box-sizing: border-box;  \" />\n<br style=\"box-sizing: border-box;  \" />\n<span style=\"box-sizing: border-box;  \">⇒ x/15 = 5 - (1/3) - (1/5)</span><br style=\"box-sizing: border-box;  \" />\n<br style=\"box-sizing: border-box;  \" />\n<span style=\"box-sizing: border-box;  \">⇒ x/15 = (75 - 5 - 3)/15</span><br style=\"box-sizing: border-box;  \" />\n<br style=\"box-sizing: border-box;  \" />\n<span style=\"box-sizing: border-box;  \">⇒ x = 67</span><span style=\"box-sizing: border-box;  \"> </span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39ba8c81c58e-q25",
+      "number": 25,
+      "question": "30 men can complete a work in 12 days. After 6 days, 24 more men joined them. How many days will they now take to complete the remaining work?",
+      "questionHtml": "<p>30 men can complete a work in 12 days. After 6 days, 24 more men joined them. How many days will they now take to complete the remaining work?&nbsp;</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(3\\frac{1}{3}\\) days",
+          "html": "<span class=\"math-tex\">\\(3\\frac{1}{3}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "B",
+          "text": "\\(3\\frac{2}{3}\\) days",
+          "html": "<span class=\"math-tex\">\\(3\\frac{2}{3}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "C",
+          "text": "\\(3\\frac{1}{2}\\) days",
+          "html": "<span class=\"math-tex\">\\(3\\frac{1}{2}\\)</span>&nbsp;days"
+        },
+        {
+          "id": "D",
+          "text": "\\(2\\frac{1}{3}\\) days",
+          "html": "<span class=\"math-tex\">\\(2\\frac{1}{3}\\)</span>&nbsp;days"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style=\"color: rgb(33, 37, 41);\">(30 × M × 6) + (54 × M × D) = 30 × M × 12 ⇒ (54 × M × D) = 30 × M × 6 ⇒ D = (30 × 6)/54 = 10/3 = 3<span class=\"math-tex\">\\(\\frac{1}{3}\\)</span> </span><span style=\"color: rgb(33, 37, 41);   font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">days</span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

@@ -1,0 +1,865 @@
+{
+  "id": "383000c78616",
+  "provider": "RBE_Mocks",
+  "sourceFile": "Maths_Sectional_Mock_Test-27_Hard_.html",
+  "sourcePath": "RBE_MOCKS/Maths_Sectional_Mock_Test-27_Hard_.html",
+  "title": "Maths Sectional Mock Test-27 (Hard)",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 180,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "383000c78616-q1",
+      "number": 1,
+      "question": "In a triangle ABC, BD and CE are two medians which intersect each other at right angle. If AB = 57 cm, AC = 26 cm, find BC.",
+      "questionHtml": "<p>In a triangle ABC, BD and CE are two medians which intersect each other at right angle. If AB = 57 cm, AC = 26 cm, find BC.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "√645cm",
+          "html": "<p>√645cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "√785cm",
+          "html": "<p>√785cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "√935cm",
+          "html": "<p>√935cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "√465cm",
+          "html": "<p>√465cm</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Given: </p><p>AB = 57, AC = 26 </p><p>BD and CE are medians intersecting at 90°</p><p>Use identity: </p><p>AB² + AC² = 5 × BC²</p><p>Step-by-step: </p><p>AB² = 57² = 3249 </p><p>AC² = 26² = 676 </p><p>Sum = 3249 + 676 = 3925</p><p>Now, </p><p>5 × BC² = 3925 </p><p>⇒ BC² = 3925 / 5 = 785 </p><p>⇒ BC = √785</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q2",
+      "number": 2,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image001.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image001.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "-1",
+          "html": "<p> -1</p>"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "<p> 1</p>"
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "html": "<p> 0</p>"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "<p> 2</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image002.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q3",
+      "number": 3,
+      "question": "A spherical ball of diameter 10 cm is cut into two equal parts. The curved area of one such part has to be painted with green colour, while the other part has to be painted with red colour. The bases of both the hemispheres are to be painted with blue colour. The cost of painting with blue is ₹3 per cm², while the cost of painting the curved area is ₹4 per cm². What will be the total cost (in ₹) of painting the hemispheres? (Take π = 3.14)",
+      "questionHtml": "<p>A spherical ball of diameter 10 cm is cut into two equal parts. The curved area of one such part has to be painted with green colour, while the other part has to be painted with red colour. The bases of both the hemispheres are to be painted with blue colour. The cost of painting with blue is ₹3 per cm², while the cost of painting the curved area is ₹4 per cm². What will be the total cost (in ₹) of painting the hemispheres? (Take π = 3.14)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹2176",
+          "html": "<p>₹2176</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹1727",
+          "html": "<p>₹1727</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹1856",
+          "html": "<p>₹1856</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹1936",
+          "html": "<p>₹1936</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Radius r = 5 cm </p><p>Curved area of one hemisphere = 2πr² = 2 × 3.14 × 25 = 157 cm² </p><p>Base area of one hemisphere = πr² = 3.14 × 25 = 78.5 cm² </p><p>Cost of curved area (₹4/cm²): </p><p>Green = 4 × 157 = ₹628 </p><p>Red = 4 × 157 = ₹628 </p><p>Cost of base area (₹3/cm²): </p><p>Blue = 3 × (78.5 × 2) = 3 × 157 = ₹471 </p><p>Total cost = 628 + 628 + 471 = ₹1727</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q4",
+      "number": 4,
+      "question": "A shopkeeper buys an article on discount of 12.5% on MRP. Shopkeeper marks it ₹144 more than CP and gives 6.25% discount on it. Profit gained is ₹132. Find initial MP?",
+      "questionHtml": "<p>A shopkeeper buys an article on discount of 12.5% on MRP. Shopkeeper marks it ₹144 more than CP and gives 6.25% discount on it. Profit gained is ₹132. Find initial MP?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹384",
+          "html": "<p>₹384</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹58(4/7)",
+          "html": "<p>₹58(4/7)</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹424",
+          "html": "<p>₹424</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹54(6/7)",
+          "html": "<p>₹54(6/7)</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image003.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q5",
+      "number": 5,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image004.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image004.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "20",
+          "html": "<p> 20</p>"
+        },
+        {
+          "id": "B",
+          "text": "34",
+          "html": "<p> 34</p>"
+        },
+        {
+          "id": "C",
+          "text": "17",
+          "html": "<p> 17</p>"
+        },
+        {
+          "id": "D",
+          "text": "19",
+          "html": "<p> 19</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image005.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q6",
+      "number": 6,
+      "question": "The length of a side of an equilateral triangle is 18 cm. The area (in cm²) of the region lying between the circumcircle and the incircle of the triangle is (use π = 22/7)",
+      "questionHtml": "<p>The length of a side of an equilateral triangle is 18 cm. The area (in cm²) of the region lying between the circumcircle and the incircle of the triangle is (use π = 22/7)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image006.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image006.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image007.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image007.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image008.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image008.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image009.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image009.png"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image010.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q7",
+      "number": 7,
+      "question": "The ratio of the slant height and the height of a cone is 4 : 3. If the curved surface area of ​​cone is 4√7 π square units, then the radius of the cone is _______ units.",
+      "questionHtml": "<p>The ratio of the slant height and the height of a cone is 4 : 3. If the curved surface area of ​​cone is 4√7 π square units, then the radius of the cone is _______ units.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "√7/7",
+          "html": "<p>√7/7</p>"
+        },
+        {
+          "id": "B",
+          "text": "7",
+          "html": "<p>7</p>"
+        },
+        {
+          "id": "C",
+          "text": "7√7",
+          "html": "<p>7√7</p>"
+        },
+        {
+          "id": "D",
+          "text": "√7",
+          "html": "<p>√7</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image011.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q8",
+      "number": 8,
+      "question": "If a car runs at a speed of 60 km/h and takes 180 minutes to cover a certain distance, then what time will it take to cover the same distance at a speed of 40 km?",
+      "questionHtml": "<p>If a car runs at a speed of 60 km/h and takes 180 minutes to cover a certain distance, then what time will it take to cover the same distance at a speed of 40 km?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 hr 30 min",
+          "html": "<p> 4 hr 30 min</p>"
+        },
+        {
+          "id": "B",
+          "text": "3 hr 45 min",
+          "html": "<p> 3 hr 45 min</p>"
+        },
+        {
+          "id": "C",
+          "text": "3 hr 15 min",
+          "html": "<p> 3 hr 15 min</p>"
+        },
+        {
+          "id": "D",
+          "text": "3 hr",
+          "html": "<p> 3 hr</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image012.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q9",
+      "number": 9,
+      "question": "Find the number of common tangents to the circles: 1. x² + y² − 16 = 0 2. x² + y² − 14x + 40 = 0",
+      "questionHtml": "<p>Find the number of common tangents to the circles: </p><p>1. x² + y² − 16 = 0 </p><p>2. x² + y² − 14x + 40 = 0</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "<p>0</p>"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "<p>1</p>"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "<p>2</p>"
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "html": "<p>3</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Circle 1: </p><p>x² + y² − 16 = 0 </p><p>⇒ (x − 0)² + (y − 0)² = 4² </p><p>⇒ C₁(Centre) = (0, 0), Radius r₁ = 4</p><p>Circle 2: </p><p>x² + y² − 14x + 40 = 0 </p><p>⇒ (x² − 14x + 49) + y² = 9 </p><p>⇒ (x − 7)² + y² = 3² </p><p>⇒ C₂ (Centre) = (7, 0), Radius r₂ = 3</p><p>Distance between centers: </p><p>d = √[(7 − 0)² + (0 − 0)²] = √49 = 7</p><p>Check: r₁ + r₂ = 4 + 3 = 7 </p><p>Since d = r₁ + r₂, the circles touch externally.</p><p>Number of common tangents = 3</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q10",
+      "number": 10,
+      "question": "Find the standard deviation of first ‘n’ natural numbers?",
+      "questionHtml": "<p>Find the standard deviation of first ‘n’ natural numbers?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image013.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image013.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image014.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image014.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image015.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image015.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image016.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image016.png"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image017.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q11",
+      "number": 11,
+      "question": "A number N is formed by writing 9 for 77 times. What is the remainder if N is divided by 13?",
+      "questionHtml": "<p>A number N is formed by writing 9 for 77 times. What is the remainder if N is divided by 13?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "<p>3</p>"
+        },
+        {
+          "id": "B",
+          "text": "7",
+          "html": "<p>7</p>"
+        },
+        {
+          "id": "C",
+          "text": "11",
+          "html": "<p>11</p>"
+        },
+        {
+          "id": "D",
+          "text": "5",
+          "html": "<p>5</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image019.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q12",
+      "number": 12,
+      "question": "An alloy contains the metals A, B and C in the ratio 2 : 3 : 1 and another contains the metals B, C and D in the ratio 5 : 4 : 3. If equal weights of both alloys are mixed together to form a third alloy, then how much part of the metal B is in new alloy?",
+      "questionHtml": "<p>An alloy contains the metals A, B and C in the ratio 2 : 3 : 1 and another contains the metals B, C and D in the ratio 5 : 4 : 3. If equal weights of both alloys are mixed together to form a third alloy, then how much part of the metal B is in new alloy?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/8",
+          "html": "<p> 1/8</p>"
+        },
+        {
+          "id": "B",
+          "text": "1/6",
+          "html": "<p> 1/6</p>"
+        },
+        {
+          "id": "C",
+          "text": "3/24",
+          "html": "<p> 3/24</p>"
+        },
+        {
+          "id": "D",
+          "text": "11/24",
+          "html": "<p> 11/24</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image020.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q13",
+      "number": 13,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image021.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image021.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "<p>1</p>"
+        },
+        {
+          "id": "B",
+          "text": "Not defined",
+          "html": "<p>Not defined</p>"
+        },
+        {
+          "id": "C",
+          "text": "√3",
+          "html": "<p>√3</p>"
+        },
+        {
+          "id": "D",
+          "text": "0",
+          "html": "<p>0</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image022.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q14",
+      "number": 14,
+      "question": "Swati earns a sum of ₹40,000, out of which she saves 25%. She spends the remaining amount on food and education in the ratio of 3 : 2. What is the percentage of expenditure incurred on education to her total income?",
+      "questionHtml": "<p>Swati earns a sum of ₹40,000, out of which she saves 25%. She spends the remaining amount on food and education in the ratio of 3 : 2. What is the percentage of expenditure incurred on education to her total income?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "30%",
+          "html": "<p>30%</p>"
+        },
+        {
+          "id": "B",
+          "text": "20%",
+          "html": "<p>20%</p>"
+        },
+        {
+          "id": "C",
+          "text": "40%",
+          "html": "<p>40%</p>"
+        },
+        {
+          "id": "D",
+          "text": "60%",
+          "html": "<p>60%</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image023.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q15",
+      "number": 15,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image024.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image024.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "<p>9</p>"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "<p>6</p>"
+        },
+        {
+          "id": "C",
+          "text": "17",
+          "html": "<p>17</p>"
+        },
+        {
+          "id": "D",
+          "text": "11",
+          "html": "<p>11</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image025.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q16",
+      "number": 16,
+      "question": "Simplify 63 - [15 + {17 - (9 - 7 + 1)}].",
+      "questionHtml": "<p>Simplify 63 - [15 + {17 - (9 - 7 + 1)}].</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "34",
+          "html": "<p> 34</p>"
+        },
+        {
+          "id": "B",
+          "text": "40",
+          "html": "<p> 40</p>"
+        },
+        {
+          "id": "C",
+          "text": "30",
+          "html": "<p> 30</p>"
+        },
+        {
+          "id": "D",
+          "text": "44",
+          "html": "<p> 44</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image026.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q17",
+      "number": 17,
+      "question": "Find the mean from the following table (rounded off to two decimal places). Score Frequencies 15 2 18 3 21 4 22 1 19 5 23 1 24 2",
+      "questionHtml": "<p>Find the mean from the following table (rounded off to two decimal places).</p><p>Score</p><p>Frequencies</p><p>15</p><p>2</p><p>18</p><p>3</p><p>21</p><p>4</p><p>22</p><p>1</p><p>19</p><p>5</p><p>23</p><p>1</p><p>24</p><p>2</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "18.44",
+          "html": "<p> 18.44</p>"
+        },
+        {
+          "id": "B",
+          "text": "17.56",
+          "html": "<p> 17.56</p>"
+        },
+        {
+          "id": "C",
+          "text": "20.82",
+          "html": "<p> 20.82</p>"
+        },
+        {
+          "id": "D",
+          "text": "19.78",
+          "html": "<p> 19.78</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image027.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q18",
+      "number": 18,
+      "question": "A person bought two buffaloes for₹11,520. One is sold at a loss of 15% and the other is sold at a gain of 19%. If the selling price of both buffaloes is equal, find the cost price of the first one.",
+      "questionHtml": "<p>A person bought two buffaloes for₹11,520. One is sold at a loss of 15% and the other is sold at a gain of 19%. If the selling price of both buffaloes is equal, find the cost price of the first one.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹6,700",
+          "html": "<p> ₹6,700</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹6,710",
+          "html": "<p> ₹6,710</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹6,720",
+          "html": "<p> ₹6,720</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹6,715",
+          "html": "<p> ₹6,715</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image028.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q19",
+      "number": 19,
+      "question": "The in-radius of a triangle is 8 cm, and the sum of lengths of its sides is 125 cm. The area of the triangle (in cm²) is:",
+      "questionHtml": "<p>The in-radius of a triangle is 8 cm, and the sum of lengths of its sides is 125 cm. The area of the triangle (in cm²) is:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "480",
+          "html": "<p> 480</p>"
+        },
+        {
+          "id": "B",
+          "text": "500",
+          "html": "<p> 500</p>"
+        },
+        {
+          "id": "C",
+          "text": "1000",
+          "html": "<p> 1000</p>"
+        },
+        {
+          "id": "D",
+          "text": "250",
+          "html": "<p> 250</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image029.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q20",
+      "number": 20,
+      "question": "If a + b + c = 13 and ab + bc + ca = 22, then the value of a^3 + b^3 + c^3 - 3abc is ____________.",
+      "questionHtml": "<p>If a + b + c = 13 and ab + bc + ca = 22, then the value of a^3 + b^3 + c^3 - 3abc is ____________.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1911",
+          "html": "<p> 1911</p>"
+        },
+        {
+          "id": "B",
+          "text": "1625",
+          "html": "<p> 1625</p>"
+        },
+        {
+          "id": "C",
+          "text": "1339",
+          "html": "<p> 1339</p>"
+        },
+        {
+          "id": "D",
+          "text": "1225",
+          "html": "<p> 1225</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image030.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q21",
+      "number": 21,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image031.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image031.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "3/7",
+          "html": "<p>3/7 </p>"
+        },
+        {
+          "id": "B",
+          "text": "2/9",
+          "html": "<p>2/9</p>"
+        },
+        {
+          "id": "C",
+          "text": "1/7",
+          "html": "<p>1/7</p>"
+        },
+        {
+          "id": "D",
+          "text": "7/9",
+          "html": "<p>7/9</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image032.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q22",
+      "number": 22,
+      "question": "What is the area of the sector of a circle whose radius is 35 cm and whose arc subtends an angle of 72° at the centre of the circle? (π = 22/7)",
+      "questionHtml": "<p>What is the area of the sector of a circle whose radius is 35 cm and whose arc subtends an angle of 72° at the centre of the circle? (π = 22/7)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "770 cm²",
+          "html": "<p> 770 cm²</p>"
+        },
+        {
+          "id": "B",
+          "text": "970 cm²",
+          "html": "<p> 970 cm²</p>"
+        },
+        {
+          "id": "C",
+          "text": "810 cm²",
+          "html": "<p> 810 cm²</p>"
+        },
+        {
+          "id": "D",
+          "text": "610 cm²",
+          "html": "<p> 610 cm²</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image033.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q23",
+      "number": 23,
+      "question": "A hostel had food provision for 300 students for a month. After 20 days, 50 students left the hostel. How long would the remaining food last? (1 month = 30 days)",
+      "questionHtml": "<p>A hostel had food provision for 300 students for a month. After 20 days, 50 students left the hostel. How long would the remaining food last? (1 month = 30 days)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "16 days",
+          "html": "<p> 16 days</p>"
+        },
+        {
+          "id": "B",
+          "text": "12 days",
+          "html": "<p> 12 days</p>"
+        },
+        {
+          "id": "C",
+          "text": "10 days",
+          "html": "<p> 10 days</p>"
+        },
+        {
+          "id": "D",
+          "text": "14 days",
+          "html": "<p> 14 days</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755950698338_image034.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q24",
+      "number": 24,
+      "question": "The distance between two towns A and B is 120 km. The time taken by a boat to travel upstream on Monday is equal to the time taken to travel downstream on Friday. The speed of the stream on Monday is 3 kmph and on Friday it is half of that. If the speed of the boat in still water on Monday is 27 kmph, find the speed of the boat in still water on Friday.",
+      "questionHtml": "<p>The distance between two towns A and B is 120 km. The time taken by a boat to travel upstream on Monday is equal to the time taken to travel downstream on Friday. The speed of the stream on Monday is 3 kmph and on Friday it is half of that. If the speed of the boat in still water on Monday is 27 kmph, find the speed of the boat in still water on Friday.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "26.5 kmph",
+          "html": "<p>26.5 kmph</p>"
+        },
+        {
+          "id": "B",
+          "text": "22.5 kmph",
+          "html": "<p>22.5 kmph</p>"
+        },
+        {
+          "id": "C",
+          "text": "28.5 kmph",
+          "html": "<p>28.5 kmph</p>"
+        },
+        {
+          "id": "D",
+          "text": "21.5 kmph",
+          "html": "<p>21.5 kmph</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let speed of boat in still water on Friday = x kmph</p><p>Given:</p><p>Distance = 120 km</p><p>Stream speed on Monday = 3 kmph</p><p>Stream speed on Friday = 1.5 kmph</p><p>Boat speed on Monday = 27 kmph</p><p>Time taken upstream on Monday = Time taken downstream on Friday</p><p>Upstream speed on Monday = 27 – 3 = 24 kmph</p><p>Downstream speed on Friday = x + 1.5 kmph</p><p>Now equate times:</p><p>120 / 24 = 120 / (x + 1.5)</p><p>Simplify:</p><p>5 = 120 / (x + 1.5)</p><p>⇒ x + 1.5 = 120 / 5 = 24</p><p>⇒ x = 24 – 1.5 = 22.5</p><p>Final Answer:</p><p>Speed of boat in still water on Friday = 22.5 kmph</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "383000c78616-q25",
+      "number": 25,
+      "question": "In a survey of a college it was found that 51% like reading math, 51% like reading physics and 49% like reading chemistry and also, 20% like reading math and physics both, 21% like reading math and chemistry both and 23% like physics & chemistry both, 4% like reading none of these 3 subject then find out that what % of student like only one subject math, physics & chemistry?",
+      "questionHtml": "<p>In a survey of a college it was found that 51% like reading math, 51% like reading physics and 49% like reading chemistry and also, 20% like reading math and physics both, 21% like reading math and chemistry both and 23% like physics &amp; chemistry both, 4% like reading none of these 3 subject then find out that what % of student like only one subject math, physics &amp; chemistry?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "48%",
+          "html": "<p>48%</p>"
+        },
+        {
+          "id": "B",
+          "text": "62%",
+          "html": "<p>62%</p>"
+        },
+        {
+          "id": "C",
+          "text": "50%",
+          "html": "<p>50%</p>"
+        },
+        {
+          "id": "D",
+          "text": "55%",
+          "html": "<p>55%</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>At least one = 100 − 4 = 96<br/>People who like all the three subjects = x.<br/>51 + 51 + 49 − (20 + 21 + 23) + x = 96<br/>151 − 64 + x = 96 ⇒ x = 9</p><p>Only M = 51 − 20 − 21 + 9 = 19<br/>Only P = 51 − 20 − 23 + 9 = 17<br/>Only C = 49 − 21 − 23 + 9 = 14<br/>19 + 17 + 14 = 50%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "id": "7a65cb73c5d9",
+  "provider": "Testbook",
+  "sourceFile": "CGL_Tier_II_CT_12_Coding_Decoding_Operations_on_Place_Value.html",
+  "sourcePath": "Testbook/files/CGL_Tier_II_CT_12_Coding_Decoding_Operations_on_Place_Value.html",
+  "title": "CGL Tier II CT 12: Coding Decoding - Operations on Place Value",
+  "exam": null,
+  "year": null,
+  "tier": "Tier I",
+  "shift": null,
+  "duration": null,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "7a65cb73c5d9-q1",
+      "number": 1,
+      "question": "In a certain code language, 'COW' is written as '123' and 'BEAR' is written as '104'. How will 'TIGER' be written in that language?",
+      "questionHtml": "In a certain code language, &#39;COW&#39; is written as &#39;123&#39; and &#39;BEAR&#39; is written as &#39;104&#39;. How will &#39;TIGER&#39; be written in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "177",
+          "html": "177"
+        },
+        {
+          "id": "B",
+          "text": "295",
+          "html": "295"
+        },
+        {
+          "id": "C",
+          "text": "236",
+          "html": "236"
+        },
+        {
+          "id": "D",
+          "text": "118",
+          "html": "118"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"font-weight: bolder;\">(Sum of the Place Value of the given the word) × (Total number of letters given in the word)</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">TIGER ⇒ </span><span style=\"color: rgb(33, 37, 41);\">(20 </span><span style=\"color: rgb(33, 37, 41);\">+ 9 </span><span style=\"color: rgb(33, 37, 41);\">+ 7 + 5 + 18) × (5) = 59 × 5 = 295</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a65cb73c5d9-q2",
+      "number": 2,
+      "question": "In a certain code language, 'WEDS' is coded as '3' and 'MAIUFQX' is coded as '6'. How is 'GIQRBZLA' coded in the given language?",
+      "questionHtml": "In a certain code language, &#39;WEDS&#39; is coded as &#39;3&#39; and &#39;MAIUFQX&#39; is coded as &#39;6&#39;. How is &#39;GIQRBZLA&#39; coded in the given language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "7",
+          "html": "7"
+        },
+        {
+          "id": "B",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "4"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"font-weight: bolder;\">Logic: Total number of letter - 1 = Number.</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">'GIQRBZLA' is coded as </p>\n\n<p style=\"color: rgb(33, 37, 41);\">Total letters 8</p>\n\n<p style=\"color: rgb(33, 37, 41);\">→ 8 - 1  → 7.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a65cb73c5d9-q3",
+      "number": 3,
+      "question": "In a code language, if TERMS is written as 375, then how will ORGANS be written in the same language?",
+      "questionHtml": "In a code language, if TERMS is written as 375, then how will ORGANS be written in the same language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "544",
+          "html": "544"
+        },
+        {
+          "id": "B",
+          "text": "244",
+          "html": "244"
+        },
+        {
+          "id": "C",
+          "text": "344",
+          "html": "344"
+        },
+        {
+          "id": "D",
+          "text": "444",
+          "html": "444"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/quesImage264.png\" /></p>\n\n<p>Logic: Numerical position of every letter in the alphabetical order of the word &#39;TERMS&#39; is added and then multiplied by the number of letters in the word &#39;TERMS&#39;&nbsp;to obtain 375.</p>\n\n<p>&rArr; Position of &#39;T&#39; + Position of &#39;E&#39;&nbsp;+ Position of &#39;R&#39;&nbsp;+ Position of &#39;M&#39;&nbsp;+ Position of &#39;S&#39;&nbsp;= 20 +&nbsp;5 + 18 + 13 + 19 = 75</p>\n\n<p>And 75&nbsp;<span style=\" line-height: 115%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&times; 5 = 375</span></p>\n\n<p><span style=\" line-height: 115%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Similarly, for coding ORGANS-</span></p>\n\n<p>Position of &#39;O&#39; +&nbsp;Position of &#39;R&#39;&nbsp;+&nbsp;Position of &#39;G&#39;&nbsp;+&nbsp;Position of &#39;A&#39;&nbsp;+&nbsp;Position of &#39;N&#39;&nbsp;+ Position of &#39;S&#39; = 15 + 18 + 7 + 1 + 14 + 19 = 74&nbsp;</p>\n\n<p>Number of letters in the word &#39;ORGANS&#39; = 6</p>\n\n<p>So, 74&nbsp;&times; 6 = 444</p>\n\n<p>Thus,&nbsp;<strong>ORGANS be written as 444</strong> in the same language.</p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/quesImage264.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a65cb73c5d9-q4",
+      "number": 4,
+      "question": "In a certain code language, 'FRY' is written as '147'. How will 'SEIZE' be written in that language?",
+      "questionHtml": "In a certain code language, &#39;FRY&#39; is written as &#39;147&#39;. How will &#39;SEIZE&#39; be written in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "210",
+          "html": "210"
+        },
+        {
+          "id": "B",
+          "text": "236",
+          "html": "236"
+        },
+        {
+          "id": "C",
+          "text": "320",
+          "html": "320"
+        },
+        {
+          "id": "D",
+          "text": "254",
+          "html": "254"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>The table is alphabets place value:</strong></p>\n\n<p><img alt=\"\" src=\"https:https://storage.googleapis.com/tb-img/production/22/01/alphabet.png\" style=\" font-weight: 700; width: 450px; height: 107px;\" /></p>\n\n<p>The pattern followed here is:</p>\n\n<p><strong>Sum of the alphabets place value &times; number of alphabets = number.</strong></p>\n\n<p>&#39;FRY&#39; is written as &#39;147&#39;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n<p><strong>FRY&nbsp;&rarr;&nbsp;</strong>Total number of alphabets is 3.</p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/05/F1_Savita_SSC_24-5-22_D13.png\" style=\"width: 76px; height: 114px;\" /></p>\n\n<p><span style=\"font-weight: 700; \">Sum of the&nbsp;alphabets place value &times; number of alphabets = number</span></p>\n\n<p>=&gt; (6 + 18 + 25) &times; 3&nbsp;= 49&nbsp;&times; 3&nbsp;= 147</p>\n\n<p>Similarly,</p>\n\n<p><strong>SEIZE</strong><strong> = ?</strong></p>\n\n<p><strong>SEIZE</strong><strong> &rarr;&nbsp;Total number of alphabets is 5.</strong></p>\n\n<p><span style=\"font-weight: 700; \"><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/05/F1_Savita_SSC_24-5-22_D14.png\" style=\"width: 133px; height: 118px;\" /></span></p>\n\n<p><strong>Sum of the&nbsp;alphabets place value &times; number of alphabets = number</strong></p>\n\n<p><strong>.</strong><strong>=&gt; (19 + 5 + 9 + 26 + 5) &times; 5&nbsp;= 64 &times; 5&nbsp;= 320</strong></p>\nHence, &#39;<strong>SEIZE</strong> &#39; is coded as&nbsp;<strong>&quot;320&quot;.</strong>",
+      "images": [
+        "https:https://storage.googleapis.com/tb-img/production/22/01/alphabet.png",
+        "https://storage.googleapis.com/tb-img/production/22/05/F1_Savita_SSC_24-5-22_D13.png",
+        "https://storage.googleapis.com/tb-img/production/22/05/F1_Savita_SSC_24-5-22_D14.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a65cb73c5d9-q5",
+      "number": 5,
+      "question": "In a certain code language, 'MARKET' is coded as '94', and 'SHOP' is coded as '50'. How will 'ITEMS' be coded in that language?",
+      "questionHtml": "In a certain code language, &#39;MARKET&#39; is coded as &#39;94&#39;, and &#39;SHOP&#39; is coded as &#39;50&#39;. How will &#39;ITEMS&#39; be coded in that language?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "144",
+          "html": "144"
+        },
+        {
+          "id": "B",
+          "text": "61",
+          "html": "61"
+        },
+        {
+          "id": "C",
+          "text": "69",
+          "html": "69"
+        },
+        {
+          "id": "D",
+          "text": "66",
+          "html": "66"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>MARKET: 94 ⇒ (14 + 26 + 9 + 16 + 22 + 7) = 94</p>\n\n<p>ITEMS: ? ⇒ (18 + 7 + 22 + 14 + 8) = 69</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a65cb73c5d9-q6",
+      "number": 6,
+      "question": "In a code language, 'HELLO' is coded as 83 and 'SHELL' is coded as 79. How will 'MATCH' be coded in the same language?",
+      "questionHtml": "In a code language, &#39;HELLO&#39; is coded as 83 and &#39;SHELL&#39; is coded as 79. How will &#39;MATCH&#39; be coded in the same language?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "87",
+          "html": "87&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "96",
+          "html": "96&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "92",
+          "html": "92&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "90",
+          "html": "90&nbsp;"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/04/Positional%20value_Table.png\" style=\"color: rgb(33, 37, 41); width: 490px; height: 103px;\" /></p>\n\n<p>The logic follows here is:</p>\n\n<p>Logic: <strong>(Sum of the place value of the opposite of alphabets)</strong>&nbsp;</p>\n\n<p>Now,</p>\n\n<p>&#39;HELLO&#39; is coded as 83</p>\n\n<p>&rarr; S(19) + V(22) + O(15) + O(15)+ L(12) = 83</p>\n\n<p>&#39;SHELL&#39; is coded as 79</p>\n\n<p>&rarr; H(8) + S(19) + V(22) + O(15) + O(15) = 79</p>\n\n<p>Similarly, for <strong>MATCH</strong></p>\n\n<p><strong>&rarr; N(14) + Z(26)+ G(7) + X(24) + S(19) = 90</strong></p>\n\n<p><strong>&#39;<span style=\"color: rgb(33, 37, 41);\">MATCH</span>&#39; will be&nbsp;coded as 90.</strong></p>\n\n<p>Hence, the correct answer is <strong>&quot;Option 4&quot;</strong>.</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/22/04/Positional%20value_Table.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a65cb73c5d9-q7",
+      "number": 7,
+      "question": "In a certain code language, 'BASEBALL' is written as '45' and 'FEEDBACK' is written as '73'. How will 'PRACTICE' be written in that language?",
+      "questionHtml": "In a certain code language, &#39;BASEBALL&#39; is written as &#39;45&#39; and &#39;FEEDBACK&#39; is written as &#39;73&#39;. How will &#39;PRACTICE&#39; be written in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "27",
+          "html": "27"
+        },
+        {
+          "id": "B",
+          "text": "37",
+          "html": "37"
+        },
+        {
+          "id": "C",
+          "text": "57",
+          "html": "57"
+        },
+        {
+          "id": "D",
+          "text": "47",
+          "html": "47"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The logic followed here is:</p>\n\n<p>Logic: <strong>Sum of the place value is getting reversed</strong>.</p>\n\n<p>Now,</p>\n\n<p><span style=\"\">&#39;BASEBALL&#39; is written as &#39;45&#39;.</span></p>\n\n<p><span style=\"\">&rArr; B(2) + A(1) + S(19) + E(5) + B(2) + A(1) + L(12) + L(12)</span></p>\n\n<p><span style=\"\">&rArr; 54&nbsp;&rarr; 45 (Opposite number of 54).</span></p>\n\n<p><span style=\"\">&#39;FEEDBACK&#39; is written as &#39;73&#39;</span></p>\n\n<p style=\"\">&rArr; F(6) + E(5) + E(5) + D(4) + B(2) + A(1) + C(3) + K(11)</p>\n\n<p style=\"\">&rArr; 37&nbsp;<span style=\"\">&rarr; 73 (Opposite number of 37</span><span style=\"\">).</span></p>\n\n<p><span style=\"\">Similarly, for&nbsp;<strong>&#39;PRACTICE&#39;</strong></span></p>\n\n<p style=\"\"><strong>&rArr; P(16) + R(18) + A(1) + C(3) + T(20) + I(9) + C(3) + E(5)</strong></p>\n\n<p style=\"\"><strong>&rArr; 75&nbsp;<span style=\"\">&rarr; 57(Opposite number of 75</span><span style=\"\">).</span></strong></p>\n\n<p><span style=\"\">So,&nbsp;&#39;PRACTICE&#39;</span>&nbsp;will be written as &#39;57&#39;.</p>\n\n<p>Hence, the correct answer is <strong>&quot;57&quot;</strong>.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a65cb73c5d9-q8",
+      "number": 8,
+      "question": "In a certain code language, 'SWING' is written as '68' and 'SWITCH' is written as '86'. How will 'BOARD' be written in that language?",
+      "questionHtml": "<span style=\"\">In a certain code language, &#39;SWING&#39; is written as &#39;68&#39; and &#39;SWITCH&#39; is written as &#39;86&#39;.&nbsp;</span><span style=\"\">How will &#39;BOARD&#39; be written in that language?</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "100",
+          "html": "100"
+        },
+        {
+          "id": "B",
+          "text": "106",
+          "html": "106"
+        },
+        {
+          "id": "C",
+          "text": "69",
+          "html": "69"
+        },
+        {
+          "id": "D",
+          "text": "95",
+          "html": "95"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Here we are using the table given below:</p>\n\n<p style=\"\"><img alt=\"\" src=\"https:https://storage.googleapis.com/tb-img/production/20/12/Common_Diagram_28.01.2020_D1.png\" style=\"width: 536px; height: 128px;\" /></p>\n\n<p style=\"\"><strong><u>LOGIC:</u> The letters are&nbsp;<span style=\"font-weight: 700;\">replaced by the place value of their reverse letter and then the numbers are added together.</span></strong></p>\n\n<p style=\"\"><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/24/02/F2_Savita_SSC_1-2-24_D1_V2.png\" style=\"width: 271px; height: 153px;\" /></p>\n\n<p style=\"\">After adding the opposite number we add the total number of letters in the given word:</p>\n\n<p style=\"\">8 + 4 + 18 + 13&nbsp;+ 20 = 63</p>\n\n<p style=\"\">Total letter in this word 5,</p>\n\n<p style=\"\">So, we add 63 + 5 =&nbsp;<span style=\"font-weight: 700;\">68</span></p>\n\n<p style=\"\"><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/01/F1_Himanshu__SSC_8-1-23_D5.png\" style=\"width: 309px; height: 154px;\" /></p>\n\n<p style=\"\">After adding the opposite number we add the total number of letters in the given word:</p>\n\n<p style=\"\">8 + 4 + 18 + 7 + 24 + 19 = 80</p>\n\n<p style=\"\">Total letter in this word 6,</p>\n\n<p style=\"\">So, we add 80&nbsp;+ 6=&nbsp;<span style=\"font-weight: 700;\">86</span></p>\n\n<p style=\"\">Similarly,</p>\n\n<p style=\"\"><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/01/F1_Himanshu__SSC_8-1-23_D6.png\" style=\"width: 270px; height: 154px;\" /></p>\n\n<p style=\"\">After adding the opposite number we add the total number of letters in the given word:</p>\n\n<p style=\"\">25 + 12 + 26 + 9 + 23 = 95</p>\n\n<p style=\"\">Total letter in this word 5,</p>\n\n<p style=\"\">So, we add&nbsp; 95&nbsp;+ 5 = 100</p>\n\n<p style=\"\">Hence, the correct answer is&nbsp;<span style=\"font-weight: 700;\">&quot;100&quot;</span></p>\n\n<p style=\"\"><span id=\"docs-internal-guid-a1026823-7fff-a86b-9dc4-a2011d6fb89d\"><span style=\"background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"border: none; display: inline-block; overflow: hidden; width: 145px; height: 35px;\"><img height=\"35\" src=\"https://lh5.googleusercontent.com/xgFGPlIkpYOiOnj1xR-IIhNyMbTvHhKbq1dXQZulbmKqrQtlF7Dsi5o4ZcpFl6CpXRc7Xw3nnDfC7ZyH14_Tu_u7gc1aRlllzcBcKhpJydgpuIhPVKllLA2AUnsqDukRkkWPATirrl5by0MIdtpFM9d1-vJYgY5BKvE5IUctyu54xl4rIeOJJLyEvM-U\" style=\"margin-left: 0px; margin-top: 0px;\" width=\"145\" /></span></span></span></p>\n\n<p style=\"\">SWING = 19 + 23 + 9 +14 + 7 = 72</p>\n\n<p style=\"\">SWITCH = 19 + 23 + 9 + 20 + 3 + 8 = 82</p>\n\n<p style=\"\"><span style=\"font-weight: 700; white-space: pre-wrap; \">Given the question addition of the opposite letter number, not the original number.</span></p>\n",
+      "images": [
+        "https:https://storage.googleapis.com/tb-img/production/20/12/Common_Diagram_28.01.2020_D1.png",
+        "https://storage.googleapis.com/tb-img/production/24/02/F2_Savita_SSC_1-2-24_D1_V2.png",
+        "https://storage.googleapis.com/tb-img/production/23/01/F1_Himanshu__SSC_8-1-23_D5.png",
+        "https://storage.googleapis.com/tb-img/production/23/01/F1_Himanshu__SSC_8-1-23_D6.png",
+        "https://lh5.googleusercontent.com/xgFGPlIkpYOiOnj1xR-IIhNyMbTvHhKbq1dXQZulbmKqrQtlF7Dsi5o4ZcpFl6CpXRc7Xw3nnDfC7ZyH14_Tu_u7gc1aRlllzcBcKhpJydgpuIhPVKllLA2AUnsqDukRkkWPATirrl5by0MIdtpFM9d1-vJYgY5BKvE5IUctyu54xl4rIeOJJLyEvM-U"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a65cb73c5d9-q9",
+      "number": 9,
+      "question": "If FRIEND is coded as 86 and SICK is coded as 62, then how would FRECKLE be coded?",
+      "questionHtml": "If&nbsp;FRIEND&nbsp;is coded as&nbsp;86 and&nbsp;SICK is coded as 62, then how would FRECKLE be coded?",
+      "options": [
+        {
+          "id": "A",
+          "text": "108",
+          "html": "108"
+        },
+        {
+          "id": "B",
+          "text": "87",
+          "html": "87"
+        },
+        {
+          "id": "C",
+          "text": "90",
+          "html": "90"
+        },
+        {
+          "id": "D",
+          "text": "95",
+          "html": "95"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Table shows the positional value of alphabets.</p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/04/Positional%20value_Table.png\" style=\" width: 490px; height: 103px;\" /></p>\n\n<p><u><strong>Logic</strong></u>: <strong>Sum of positional value + (Number of letters&nbsp;&times; 10)&nbsp;&divide; 2</strong></p>\n\n<p><strong>&rArr; F + R + I + E + N + D</strong></p>\n\n<p>&rArr; 6 + 18 + 9 + 5 + 14 + 4 = 56</p>\n\n<p>&rArr; 6 Alphabet = 10 &times; 6 =&nbsp;60</p>\n\n<p>&rArr; 60 &divide; 2 = 30</p>\n\n<p>&rArr; 56 + 30 = <strong>86</strong></p>\n\n<p><strong>&rArr; S + I + C + K</strong></p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>19 + 9 + 3 + 11&nbsp;= 42</p>\n\n<p>&rArr; 4 Alphabet = 10&nbsp;<span style=\"\">&times; 4</span>&nbsp;= 40</p>\n\n<p>&rArr; 40&nbsp;<span style=\"\">&divide; 2&nbsp;</span>&nbsp;= 20</p>\n\n<p>&rArr; 42 + 20 = <strong>62</strong></p>\n\n<p>Similarly,</p>\n\n<p><strong>&rArr; F + R + E + C + K + L + E</strong></p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>6 + 18 + 5 + 3 + 11 + 12 + 5 = 60</p>\n\n<p>&rArr; 7 Alphabet = 7&nbsp;<span style=\"color: rgb(88, 89, 91);   \">&times; 10&nbsp;= 70</span></p>\n\n<p><span style=\"color: rgb(88, 89, 91);   \">&rArr; 70</span><span style=\"\">&nbsp;&divide; 2 = 35</span></p>\n\n<p><span style=\"\">&rArr; 60 + 35 = <strong>95</strong></span></p>\n\n<p>Hence, the correct answer is&nbsp;<strong>&quot;95&quot;.</strong></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/22/04/Positional%20value_Table.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7a65cb73c5d9-q10",
+      "number": 10,
+      "question": "In a certain code language, 'PRANK' is coded as &lsquo;120&rsquo;, and 'CLEAR' is coded as '78'. How will 'TRUST' be coded in that language?",
+      "questionHtml": "<p>In a certain code language, &#39;PRANK&#39; is coded as &lsquo;120&rsquo;, and &#39;CLEAR&#39; is coded as &#39;78&#39;. How will &#39;TRUST&#39; be coded in that language?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "198",
+          "html": "198"
+        },
+        {
+          "id": "B",
+          "text": "196",
+          "html": "196"
+        },
+        {
+          "id": "C",
+          "text": "188",
+          "html": "188"
+        },
+        {
+          "id": "D",
+          "text": "180",
+          "html": "180"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/07/alpha%20teb%20%281%29.png\" style=\"width: 490px; height: 110px;\" /></p>\n\n<p>The logic followed here is:</p>\n\n<p><strong>Logic: Addition of all letters&nbsp;&times; 2 = Code</strong></p>\n\n<ul>\n\t<li><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/07/F4_Savita_SSC_20-7-22_D37.png\" style=\"width: 297px; height: 83px;\" /></li>\n\t<li><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/07/F4_Savita_SSC_20-7-22_D38.png\" style=\"width: 296px; height: 82px;\" /></li>\n</ul>\n\n<p>Similarly,</p>\n\n<ul>\n\t<li><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/07/F4_Savita_SSC_20-7-22_D39.png\" style=\"width: 306px; height: 81px;\" /></li>\n</ul>\n\n<p>Hence, &#39;<strong>196</strong>&#39; is the correct answer.</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/22/07/alpha%20teb%20%281%29.png",
+        "https://storage.googleapis.com/tb-img/production/22/07/F4_Savita_SSC_20-7-22_D37.png",
+        "https://storage.googleapis.com/tb-img/production/22/07/F4_Savita_SSC_20-7-22_D38.png",
+        "https://storage.googleapis.com/tb-img/production/22/07/F4_Savita_SSC_20-7-22_D39.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

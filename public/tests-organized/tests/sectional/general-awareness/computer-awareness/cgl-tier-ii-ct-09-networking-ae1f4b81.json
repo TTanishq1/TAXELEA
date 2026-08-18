@@ -1,0 +1,370 @@
+{
+  "id": "ae1f4b8147a7",
+  "provider": "Testbook",
+  "sourceFile": "CGL Tier II CT 09_ Networking.html",
+  "sourcePath": "Testbook/files/CGL Tier II CT 09_ Networking.html",
+  "title": "CGL Tier II CT 09: Networking",
+  "exam": null,
+  "year": null,
+  "tier": "Tier I",
+  "shift": null,
+  "duration": null,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "ae1f4b8147a7-q1",
+      "number": 1,
+      "question": "Example for simplex communication is__________",
+      "questionHtml": "Example&nbsp;for&nbsp;simplex&nbsp;communication&nbsp;is__________",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keyboard and traditional monitor",
+          "html": "Keyboard&nbsp;and&nbsp;traditional&nbsp;monitor"
+        },
+        {
+          "id": "B",
+          "text": "Telephone and mobile phone",
+          "html": "Telephone&nbsp;and&nbsp;mobile&nbsp;phone"
+        },
+        {
+          "id": "C",
+          "text": "Walkie talkies",
+          "html": "Walkie&nbsp;talkies"
+        },
+        {
+          "id": "D",
+          "text": "Two way data link system",
+          "html": "Two&nbsp;way&nbsp;data&nbsp;link&nbsp;system&nbsp;"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "Keyboard and traditional monitor represent simplex communication as data flows in one direction only. The keyboard sends data to the monitor, but the monitor does not send any data back to the keyboard, making it a typical example of simplex communication.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ae1f4b8147a7-q2",
+      "number": 2,
+      "question": "It is better than hub. It doesn&rsquo;t broadcast the message over the network, and it sends the message to the device for which it belongs to. What is it?",
+      "questionHtml": "It is better than hub. It doesn&rsquo;t broadcast the message over the network, and it sends the message to the device for which it belongs to. What is it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Switches",
+          "html": "Switches"
+        },
+        {
+          "id": "B",
+          "text": "Connectors",
+          "html": "Connectors"
+        },
+        {
+          "id": "C",
+          "text": "CPC",
+          "html": "CPC"
+        },
+        {
+          "id": "D",
+          "text": "Cables",
+          "html": "Cables"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>The correct answer is <u><strong>Switches</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>A <strong>switch</strong> is a networking device that connects multiple devices within a network and uses MAC addresses to forward data only to the device that needs to receive it.</li>\n\t<li>Unlike a hub, which broadcasts the message to all devices on the network, a switch sends the message only to the intended recipient.</li>\n\t<li>This improves the efficiency and security of the network by reducing unnecessary traffic and minimizing the chances of data interception.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Connectors:</strong> These are physical interfaces used to join different network cables or devices. They do not have the capability to manage or direct network traffic.</li>\n\t<li><strong>CPC (Central Processing Unit):</strong> This is the primary component of a computer that performs most of the processing inside a computer. It is not related to directing network traffic.</li>\n\t<li><strong>Cables:</strong> These are physical media used to transmit data from one device to another. They are essential for network connectivity but do not manage or direct traffic.</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ae1f4b8147a7-q3",
+      "number": 3,
+      "question": "Which of the following allows hardware devices such as a mouse and keyboard to be connected to your computer?",
+      "questionHtml": "Which of the following allows hardware devices such as a mouse and keyboard to be connected to your computer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "AGP Slot",
+          "html": "AGP Slot"
+        },
+        {
+          "id": "B",
+          "text": "Power Connector",
+          "html": "Power Connector"
+        },
+        {
+          "id": "C",
+          "text": "Capacitor",
+          "html": "Capacitor"
+        },
+        {
+          "id": "D",
+          "text": "USB port",
+          "html": "USB port"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The Correct Answer is <strong>USB port.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li style=\"text-align: justify;\"><strong>USB, or universal serial bus</strong>, is a mechanism used to connect peripheral devices to computers.</li>\n\t<li style=\"text-align: justify;\">Before the advent of <strong>USB technology</strong>, a PC typically included one or two serial connections, a parallel port, keyboard and mouse connectors, and in some instances, a joystick port.</li>\n\t<li style=\"text-align: justify;\">The full form of <strong>USB is Universal Serial Bus</strong></li>\n\t<li style=\"text-align: justify;\">It is a common platform that <strong>allows communication between devices and a host controller such as a</strong> <strong>PC computer.</strong></li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>&nbsp;AGP Slot &nbsp;</strong>\n\n\t<ul>\n\t\t<li style=\"text-align: justify;\">An Accelerated Graphics Port AGP is a point to point channel that is used for highspeed video output.</li>\n\t\t<li style=\"text-align: justify;\">This port is used to connect graphic cards to a computer&#39;s motherboard.</li>\n\t\t<li style=\"text-align: justify;\">It increases the speed at which machines can render graphics while using the system&#39;s resources more efficiently.</li>\n\t</ul>\n\t</li>\n\t<li style=\"text-align: justify;\"><strong>Power Connector &nbsp;</strong>\n\t<ul>\n\t\t<li>Power connectors are devices that allows an electrical current to pass through it for the exclusive purpose of providing power to a device not a data stream, for example, or anything more complex.​</li>\n\t</ul>\n\t</li>\n\t<li style=\"text-align: justify;\"><strong>Capacitor &nbsp;</strong>\n\t<ul>\n\t\t<li>Capacitor is a twoterminal electrical device that can store energy in the form of an electric charge.</li>\n\t\t<li>It consists of two electrical conductors that are separated by a distance.&nbsp;</li>\n\t\t<li>The space between the conductors may be filled by vacuum or with an insulating material known as a dielectric.</li>\n\t\t<li>The ability of the capacitor to store charges is known as capacitance.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ae1f4b8147a7-q4",
+      "number": 4,
+      "question": "In which type of topology all computers are connected by a single length of cable with a terminator at each end?",
+      "questionHtml": "In which type of topology all computers are connected by a single length of cable with a terminator at each end?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tree topology",
+          "html": "Tree topology"
+        },
+        {
+          "id": "B",
+          "text": "Star topology",
+          "html": "Star topology"
+        },
+        {
+          "id": "C",
+          "text": "Ring topology",
+          "html": "Ring topology"
+        },
+        {
+          "id": "D",
+          "text": "Bus topology",
+          "html": "Bus topology"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "In a bus topology, all computers are connected by a single length of cable with a terminator at each end. This setup allows data to be transmitted in both directions, but if the cable fails, the entire network is disrupted.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ae1f4b8147a7-q5",
+      "number": 5,
+      "question": "Which of the following technologies or concepts was first implemented by DARPANET?",
+      "questionHtml": "Which of the following technologies or concepts was first implemented by DARPANET?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Packet switching",
+          "html": "Packet switching"
+        },
+        {
+          "id": "B",
+          "text": "Fiber optics",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">Fiber optics</span>"
+        },
+        {
+          "id": "C",
+          "text": "Quantum computing",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">Quantum computing</span>"
+        },
+        {
+          "id": "D",
+          "text": "Blockchain",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">Blockchain</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "DARPANET, the precursor to the modern internet, first implemented packet switching technology. Packet switching is a method of data transmission where data is broken into packets and sent independently over a network, allowing for more efficient and reliable communication.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ae1f4b8147a7-q6",
+      "number": 6,
+      "question": "​If hackers use their knowledge unethically to break the law and disrupt security by exploiting the flaws and loopholes in a system, then they are called:",
+      "questionHtml": "​If hackers use their knowledge unethically to break the law and disrupt security by exploiting the flaws and loopholes in a system, then they are called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Black hats hackers",
+          "html": "Black hats hackers"
+        },
+        {
+          "id": "B",
+          "text": "White hats hackers",
+          "html": "White hats hackers"
+        },
+        {
+          "id": "C",
+          "text": "Grey hats hackers",
+          "html": "Grey hats hackers"
+        },
+        {
+          "id": "D",
+          "text": "Green hats hackers",
+          "html": "Green hats hackers"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>The correct answer is <u><strong>Black hats hackers</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Black hat hackers</strong> are individuals who use their technical skills and knowledge to exploit vulnerabilities in systems and networks for malicious purposes.\n\n\t<ul>\n\t\t<li>They engage in illegal activities such as stealing data, spreading malware, and causing disruptions.</li>\n\t\t<li>Black hat hackers often seek financial gain, political influence, or personal notoriety.</li>\n\t\t<li>Their actions are unethical and criminal, posing significant threats to cybersecurity.</li>\n\t\t<li>Unlike white hat hackers who work to improve security, black hat hackers aim to exploit weaknesses for their benefit.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>Black hat hackers often operate in the dark web, selling stolen data and tools for other cybercriminals.</li>\n\t<li>They may also engage in activities such as identity theft, credit card fraud, and corporate espionage.</li>\n\t<li>Some well-known examples of black hat hackers include those involved in major data breaches and ransomware attacks.</li>\n\t<li>Organizations and governments invest heavily in cybersecurity measures to protect against the threats posed by black hat hackers.</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ae1f4b8147a7-q7",
+      "number": 7,
+      "question": "Which of the following is a method of cyber attack that encodes the data of other programs or protocols in DNS queries and responses?",
+      "questionHtml": "Which of the following is a method of cyber attack that encodes the data of other programs or protocols in DNS queries and&nbsp;responses?",
+      "options": [
+        {
+          "id": "A",
+          "text": "DNS Shadowing",
+          "html": "DNS Shadowing"
+        },
+        {
+          "id": "B",
+          "text": "DNS Spooling",
+          "html": "DNS Spooling"
+        },
+        {
+          "id": "C",
+          "text": "DNS Spoofing",
+          "html": "DNS Spoofing"
+        },
+        {
+          "id": "D",
+          "text": "DNS Tunneling",
+          "html": "DNS Tunneling"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "DNS Tunneling is a method of cyber attack that involves encoding the data of other programs or protocols in DNS queries and responses. This technique exploits the DNS protocol to tunnel malware and data through DNS traffic, often bypassing security measures.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ae1f4b8147a7-q8",
+      "number": 8,
+      "question": "Which type of network is a USB commonly associated with?",
+      "questionHtml": "Which type of network is a USB commonly associated with?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Local Area Network (LAN)",
+          "html": "Local Area Network (LAN)"
+        },
+        {
+          "id": "B",
+          "text": "Personal Area Network (PAN)",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">Personal Area Network (PAN)</span>"
+        },
+        {
+          "id": "C",
+          "text": "Wide Area Network (WAN)",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">Wide Area Network (WAN)</span>"
+        },
+        {
+          "id": "D",
+          "text": "Metropolitan Area Network (MAN)",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">Metropolitan Area Network&nbsp;(MAN)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "A USB (Universal Serial Bus) is commonly associated with a Personal Area Network (PAN). PANs are networks that facilitate communication among devices close to a single person, such as connecting a computer to peripherals like keyboards, mice, and external storage devices via USB.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ae1f4b8147a7-q9",
+      "number": 9,
+      "question": "Which of the following is a central device that splits the network connection into multiple devices?",
+      "questionHtml": "Which of the following is a central device that splits the network connection into multiple devices?",
+      "options": [
+        {
+          "id": "A",
+          "text": "CPU",
+          "html": "CPU"
+        },
+        {
+          "id": "B",
+          "text": "Tub",
+          "html": "Tub"
+        },
+        {
+          "id": "C",
+          "text": "Hub",
+          "html": "Hub"
+        },
+        {
+          "id": "D",
+          "text": "CPC",
+          "html": "CPC"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is <u><strong>Hub</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>A <strong>Hub</strong> is a central device that splits the network connection into multiple devices.</li>\n\t<li>It is used in a network to connect multiple devices together and allows them to communicate with each other.</li>\n\t<li>Hubs operate at the physical layer of the OSI model and broadcast data to all connected devices.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>CPU (Central Processing Unit)</strong>: The CPU is the brain of the computer where most calculations take place. It is not used to split network connections.</li>\n\t<li><strong>Tub</strong>: This is not a relevant term in the context of network devices and is likely a distractor.</li>\n\t<li><strong>CPC (Circuit Protective Conductor)</strong>: This is related to electrical systems and safety, not network connections.</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ae1f4b8147a7-q10",
+      "number": 10,
+      "question": "Which type of network we create when we connect two smartphones to transfer some photos through Bluetooth?",
+      "questionHtml": "Which type of network we create when we connect two smartphones to transfer some photos through Bluetooth?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "MAN",
+          "html": "MAN"
+        },
+        {
+          "id": "B",
+          "text": "WAN",
+          "html": "WAN"
+        },
+        {
+          "id": "C",
+          "text": "PAN",
+          "html": "PAN"
+        },
+        {
+          "id": "D",
+          "text": "LAN",
+          "html": "LAN"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is <u><strong><span style=\"color: (33, 37, 41);\">PAN (Personal Area Network)</span></strong></u></p>\n\n<p><u><strong><span style=\"color: (33, 37, 41);\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></strong></u></p>\n\n<ul>\n\t<li><strong>Personal Area Network (PAN):</strong> A PAN is a network created for personal use, typically within a range of a few meters.</li>\n\t<li>Bluetooth is a common technology used to establish a PAN, allowing devices such as smartphones, tablets, or laptops to connect and transfer data wirelessly.</li>\n\t<li><strong>In this scenario:</strong> When two smartphones are connected via Bluetooth to transfer photos, they form a PAN because the network is limited to the devices involved and operates within a short range.</li>\n\t<li>PANs are ideal for sharing files, connecting peripherals like headphones or smartwatches, and enabling personal device communication.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>LAN (Local Area Network):</strong> A LAN is used to connect devices within a limited geographical area, such as a home, office, or school. Unlike PAN, it typically involves a larger number of devices and can use wired or wireless connections.</li>\n\t<li><strong>MAN (Metropolitan Area Network):</strong> A MAN covers a larger geographical area, such as a city or campus, and is typically used for connecting multiple LANs.</li>\n\t<li><strong>WAN (Wide Area Network):</strong> A WAN spans a very large geographical area, such as a country or the world, and connects multiple networks. The internet is the largest example of a WAN.</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

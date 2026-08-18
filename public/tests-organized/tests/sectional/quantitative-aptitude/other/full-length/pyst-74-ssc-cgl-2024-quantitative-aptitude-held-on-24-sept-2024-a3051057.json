@@ -1,0 +1,871 @@
+{
+  "id": "a3051057e7f9",
+  "provider": "Testbook",
+  "sourceFile": "PYST_74_SSC_CGL_2024_Quantitative_Aptitude_Held_On_24_Sept_2024.html",
+  "sourcePath": "Testbook/files/PYST_74_SSC_CGL_2024_Quantitative_Aptitude_Held_On_24_Sept_2024.html",
+  "title": "PYST 74: SSC CGL 2024 - Quantitative Aptitude (Held On 24 Sept, 2024 Shift 2)",
+  "exam": "SSC CGL",
+  "year": 2024,
+  "tier": null,
+  "shift": "Shift 2",
+  "duration": 132,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "a3051057e7f9-q1",
+      "number": 1,
+      "question": "The table shows the sales (in units) of a company for different cities in the months of June and July, 2022. Study the table and answer the question that follows. City June July Delhi 252 332 Mumbai 325 248 Chennai 362 247 Kolkata 245 195 Pune 218 284 What is the difference between Delhi&rsquo;s sales for the month of June and Chennai&rsquo;s sales for the month of July?",
+      "questionHtml": "The table shows the sales (in units) of a company for different cities in the months of June and July, 2022. Study the table and answer the question that follows.\n<div>\n<div data-message-author-role=\"assistant\" data-message-id=\"a182cb01-57a2-4323-990c-8de1f0f7e30b\" data-message-model-slug=\"gpt-4o\" dir=\"auto\">\n<div>\n<div>\n<table border=\"1\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th>City&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>\n\t\t\t<th>June&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>\n\t\t\t<th>July&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Delhi</td>\n\t\t\t<td>252</td>\n\t\t\t<td>332</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Mumbai</td>\n\t\t\t<td>325</td>\n\t\t\t<td>248</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Chennai</td>\n\t\t\t<td>362</td>\n\t\t\t<td>247</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Kolkata</td>\n\t\t\t<td>245</td>\n\t\t\t<td>195</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Pune</td>\n\t\t\t<td>218</td>\n\t\t\t<td>284</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\nWhat is the difference between Delhi&rsquo;s sales for the month of June and Chennai&rsquo;s sales for the month of July?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "B",
+          "text": "155",
+          "html": "155"
+        },
+        {
+          "id": "C",
+          "text": "80",
+          "html": "80"
+        },
+        {
+          "id": "D",
+          "text": "30",
+          "html": "30"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>The table shows the sales of a company for different cities in the months of June and July, 2022.</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Delhi&#39;s sales for June = 252</p>\n\n<p>Chennai&#39;s sales for July = 247</p>\n\n<p>Difference = 252 - 247 = 5</p>\n\n<p><strong>&there4; The difference between Delhi&#39;s sales for the month of June and Chennai&#39;s sales for the month of July is 5.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q2",
+      "number": 2,
+      "question": "The following table gives zone wise survey report of the people of a country who take tea. Study the table and answer the question. Take Tea East West North South More than 3 times a day 1732 1842 6045 2741 1 to 3 times a day 1462 2328 2584 4264 Twice a week 2280 2529 1123 3598 Only once a week 4059 1874 3169 7051 Never 317 127 223 293 The ratio of the total number of people surveyed who take tea more than 3 times a day to the number of people who do not take tea at all is",
+      "questionHtml": "The following table gives zone wise survey report of the people of a country who take tea. Study the table and answer the question.\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Take Tea&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</th>\n\t\t\t<th>East&nbsp; &nbsp; &nbsp;</th>\n\t\t\t<th>West&nbsp; &nbsp; &nbsp;</th>\n\t\t\t<th>North&nbsp; &nbsp; &nbsp;&nbsp;</th>\n\t\t\t<th>South&nbsp; &nbsp; &nbsp; &nbsp;</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>More than 3 times a day&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>\n\t\t\t<td>1732</td>\n\t\t\t<td>1842</td>\n\t\t\t<td>6045</td>\n\t\t\t<td>2741</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>1 to 3 times a day</td>\n\t\t\t<td>1462</td>\n\t\t\t<td>2328</td>\n\t\t\t<td>2584</td>\n\t\t\t<td>4264</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Twice a week</td>\n\t\t\t<td>2280</td>\n\t\t\t<td>2529</td>\n\t\t\t<td>1123</td>\n\t\t\t<td>3598</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Only once a week</td>\n\t\t\t<td>4059</td>\n\t\t\t<td>1874</td>\n\t\t\t<td>3169</td>\n\t\t\t<td>7051</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Never</td>\n\t\t\t<td>317</td>\n\t\t\t<td>127</td>\n\t\t\t<td>223</td>\n\t\t\t<td>293</td>\n\t\t</tr>\n\t</tbody>\n</table>\nThe ratio of the total number of people surveyed who take tea more than 3 times a day to the number of people who do not&nbsp;take tea at all is",
+      "options": [
+        {
+          "id": "A",
+          "text": "103 : 8",
+          "html": "103 : 8"
+        },
+        {
+          "id": "B",
+          "text": "8 : 103",
+          "html": "8 : 103"
+        },
+        {
+          "id": "C",
+          "text": "101 : 5",
+          "html": "101 : 5"
+        },
+        {
+          "id": "D",
+          "text": "5 : 101",
+          "html": "5 : 101"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p data-sourcepos=\"3:1-3:10\"><strong>Given:</strong></p>\n\n<p data-sourcepos=\"5:1-5:80\">The table shows the zone-wise survey report of people who take tea in a country.</p>\n\n<p data-sourcepos=\"7:1-7:16\"><strong>Calculation:</strong></p>\n\n<p data-sourcepos=\"9:4-14:44\"><strong>Total number of people who take tea more than 3 times a day:</strong></p>\n\n<p data-sourcepos=\"9:4-14:44\">East: 1732</p>\n\n<p data-sourcepos=\"9:4-14:44\">West: 1842</p>\n\n<p data-sourcepos=\"9:4-14:44\">North: 6045</p>\n\n<p data-sourcepos=\"9:4-14:44\">South: 2741</p>\n\n<p data-sourcepos=\"9:4-14:44\">Total = 1732 + 1842 + 6045 + 2741 = 12360</p>\n\n<p data-sourcepos=\"16:4-21:38\"><strong>Total number of people who never take tea:</strong></p>\n\n<p data-sourcepos=\"16:4-21:38\">East: 317</p>\n\n<p data-sourcepos=\"16:4-21:38\">West: 127</p>\n\n<p data-sourcepos=\"16:4-21:38\">North: 223</p>\n\n<p data-sourcepos=\"16:4-21:38\">South: 293</p>\n\n<p data-sourcepos=\"16:4-21:38\">Total = 317 + 127 + 223 + 293 = 960</p>\n\n<p data-sourcepos=\"23:4-24:32\">Ratio of people who take tea more than 3 times a day to those who never take tea<strong>:</strong> Ratio = 12360 / 960 = <span style=\"color: rgb(33, 37, 41);\">103 : 8</span></p>\n\n<p data-sourcepos=\"26:1-26:175\"><strong>Therefore, the ratio of the total number of people surveyed who take tea more than 3 times a day to the number of people who do not take tea at all is <span style=\"color: rgb(33, 37, 41);\">103 : 8</span>.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q3",
+      "number": 3,
+      "question": "Study the given table and answer the question that follows. The total money spent on advertisements (in ₹) and the total number of advertisements in different newspapers given by a company for five years (2018 to 2022) is given in the table below. Year Total Money Spent in ₹ on Advertisement Total No of Advertisements NY Times The Telegraph Others NY Times The Telegraph Other s 2018 3,50,000 3,60,000 2,10,000 10 12 15 2019 4,80,000 3,45,000 2,89,000 12 15 17 2020 6,15,000 4,00,000 5,76,000 15 20 36 2021 7,60,000 4,80,000 4,40,000 19 24 22 2022 14,00,000 3,50,000 3,09,000 38 18 30 What is the ratio of the money spent on each of the advertisements taken one from each of NY Times, The Telegraph and Others for the year 2021 to that of the money spent on each of the advertisements taken one from each of NY Times, The Telegraph and Others for the year 2018?",
+      "questionHtml": "<p><strong>Study the given table and answer the question that follows.</strong></p>\n\n<p>The total money spent on advertisements (in ₹) and the total number of advertisements in different newspapers given by a company for five years (2018 to 2022) is given in the table below.</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" data-sheets-baot=\"1\" data-sheets-root=\"1\" dir=\"ltr\" style=\"width:400px;\" xmlns=\"http://www.w3.org/1999/xhtml\">\n\t<colgroup>\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t</colgroup>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td colspan=\"1\" rowspan=\"2\">\n\t\t\t<div style=\"text-align: center;\"><strong>Year </strong></div>\n\t\t\t</td>\n\t\t\t<td colspan=\"3\" rowspan=\"1\" style=\"text-align: center;\"><strong>Total Money Spent in ₹ on Advertisement</strong></td>\n\t\t\t<td colspan=\"3\" rowspan=\"1\" style=\"text-align: center;\"><strong>Total No of Advertisements</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>NY Times</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>The Telegraph</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Others</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>NY Times</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>The Telegraph</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Other</strong>s</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">2018</td>\n\t\t\t<td style=\"text-align: center;\">3,50,000</td>\n\t\t\t<td style=\"text-align: center;\">3,60,000</td>\n\t\t\t<td style=\"text-align: center;\">2,10,000</td>\n\t\t\t<td style=\"text-align: center;\">10</td>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">15</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">2019</td>\n\t\t\t<td style=\"text-align: center;\">4,80,000</td>\n\t\t\t<td style=\"text-align: center;\">3,45,000</td>\n\t\t\t<td style=\"text-align: center;\">2,89,000</td>\n\t\t\t<td style=\"text-align: center;\">12</td>\n\t\t\t<td style=\"text-align: center;\">15</td>\n\t\t\t<td style=\"text-align: center;\">17</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">2020</td>\n\t\t\t<td style=\"text-align: center;\">6,15,000</td>\n\t\t\t<td style=\"text-align: center;\">4,00,000</td>\n\t\t\t<td style=\"text-align: center;\">5,76,000</td>\n\t\t\t<td style=\"text-align: center;\">15</td>\n\t\t\t<td style=\"text-align: center;\">20</td>\n\t\t\t<td style=\"text-align: center;\">36</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">2021</td>\n\t\t\t<td style=\"text-align: center;\">7,60,000</td>\n\t\t\t<td style=\"text-align: center;\">4,80,000</td>\n\t\t\t<td style=\"text-align: center;\">4,40,000</td>\n\t\t\t<td style=\"text-align: center;\">19</td>\n\t\t\t<td style=\"text-align: center;\">24</td>\n\t\t\t<td style=\"text-align: center;\">22</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">2022</td>\n\t\t\t<td style=\"text-align: center;\">14,00,000</td>\n\t\t\t<td style=\"text-align: center;\">3,50,000</td>\n\t\t\t<td style=\"text-align: center;\">3,09,000</td>\n\t\t\t<td style=\"text-align: center;\">38</td>\n\t\t\t<td style=\"text-align: center;\">18</td>\n\t\t\t<td style=\"text-align: center;\">30</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>What is the ratio of the money spent on each of the advertisements taken one from each of NY Times, The Telegraph and Others for the year 2021 to that of the money spent on each of the advertisements taken one from each of NY Times, The Telegraph and Others for the year 2018?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "80 : 79",
+          "html": "80 : 79"
+        },
+        {
+          "id": "B",
+          "text": "80 : 71",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">80 : 71</span>"
+        },
+        {
+          "id": "C",
+          "text": "71 : 80",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">71 : 80</span>"
+        },
+        {
+          "id": "D",
+          "text": "79 : 80",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">79 : 80</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p data-sourcepos=\"7:1-7:16\"><strong>Calculation:</strong></p>\n\n<p data-sourcepos=\"9:4-9:49\"><strong>Money spent on each advertisement in 2021:</strong></p>\n\n<ul data-sourcepos=\"10:4-13:0\">\n\t<li data-sourcepos=\"10:4-10:37\">NY Times: 7,60,000 / 19 = 40,000</li>\n\t<li data-sourcepos=\"11:4-11:42\">The Telegraph: 4,80,000 / 24 = 20,000</li>\n\t<li data-sourcepos=\"12:4-13:0\">Others: 4,40,000 / 22 = 20,000</li>\n</ul>\n\n<p data-sourcepos=\"14:4-14:49\"><strong>Money spent on each advertisement in 2018:</strong></p>\n\n<ul data-sourcepos=\"15:4-18:0\">\n\t<li data-sourcepos=\"15:4-15:37\">NY Times: 3,50,000 / 10 = 35,000</li>\n\t<li data-sourcepos=\"16:4-16:42\">The Telegraph: 3,60,000 / 12 = 30,000</li>\n\t<li data-sourcepos=\"17:4-18:0\">Others: 2,10,000 / 15 = 14,000</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Total money spent on one advertisement from each newspaper in 2021: 40,000 + 20,000 + 20,000 = 80,000</p>\n\n<p data-sourcepos=\"22:4-23:36\">Total money spent on one advertisement from each newspaper in 2018: 35,000 + 30,000 + 14,000 = 79,000</p>\n\n<p data-sourcepos=\"25:4-26:27\">Ratio of money spent in 2021 to money spent in 2018: 80,000 / 79,000 = <span style=\"color: rgb(33, 37, 41);\">80 : 79</span></p>\n\n<p data-sourcepos=\"28:1-28:310\"><strong>Therefore, the ratio of the money spent on each of the advertisements taken one from each of NY Times, The Telegraph, and Others for the year 2021 to that of the money spent on each of the advertisements taken one from each of NY Times, The Telegraph, and Others for the year 2018 is <span style=\"color: rgb(33, 37, 41);\">80 : 79</span>.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q4",
+      "number": 4,
+      "question": "The radii of two circles are 8 cm and 15 cm. The perimeter of the circle having area equal to the sum of the areas of the two circles (in cm) is:",
+      "questionHtml": "The radii of two circles are 8 cm and 15 cm. The perimeter of the circle having area equal to the sum of the areas of the two circles (in cm) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "32&pi;",
+          "html": "32&pi;"
+        },
+        {
+          "id": "B",
+          "text": "30&pi;",
+          "html": "30&pi;"
+        },
+        {
+          "id": "C",
+          "text": "28&pi;",
+          "html": "28&pi;"
+        },
+        {
+          "id": "D",
+          "text": "34&pi;",
+          "html": "34&pi;"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Radii of circles = 8 cm and 15 cm</p>\n\n<p>Area<sub>1</sub> = π × 8<sup>2</sup> = 64π cm<sup>2</sup></p>\n\n<p>Area<sub>2</sub> = π × 15<sup>2</sup> = 225π cm<sup>2</sup></p>\n\n<p>Total Area = 64π + 225π = 289π cm<sup>2</sup></p>\n\n<p>πr<sup>2</sup> = 289π</p>\n\n<p>r = √289 = 17 cm</p>\n\n<p>Perimeter = 2πr</p>\n\n<p>= 2π × 17</p>\n\n<p><strong>= 34π cm</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q5",
+      "number": 5,
+      "question": "Ghanshyam is thrice as old as Akash. 10 years ago, Ghanshyam was four times as old as Akash. What is the difference between their current ages (in years)?",
+      "questionHtml": "Ghanshyam is thrice as old as Akash. 10 years ago, Ghanshyam was four times as old as Akash. What is the difference between their current ages (in years)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "65",
+          "html": "65"
+        },
+        {
+          "id": "B",
+          "text": "50",
+          "html": "50"
+        },
+        {
+          "id": "C",
+          "text": "55",
+          "html": "55"
+        },
+        {
+          "id": "D",
+          "text": "60",
+          "html": "60"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let Akash's age be A</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Ghanshyam's age = 3A</span></p>\n\n<p>10 years ago</p>\n\n<p>Ghanshyam's age = 3A - 10</p>\n\n<p>Akash's age = A - 10</p>\n\n<p>3A - 10 = 4(A - 10)</p>\n\n<p>3A - 10 = 4A - 40</p>\n\n<p>A = 30</p>\n\n<p>Ghanshyam's age = 3 × 30 = 90</p>\n<strong>Difference = 90 - 30 = 60</strong>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q6",
+      "number": 6,
+      "question": "If tanA + cotA = 2, then the value of tan 2 A + cot 2 A is:",
+      "questionHtml": "If tanA + cotA = 2, then the value of tan<sup>2</sup> A + cot<sup>2</sup> A is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "4"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>tanA + cotA = 2</p>\n\n<p>tan<sup>2</sup>A + cot<sup>2</sup>A = (tanA + cotA)<sup>2</sup> - 2</p>\n\n<p>tan<sup>2</sup>A + cot<sup>2</sup>A = 2<sup>2</sup> - 2</p>\n\n<p>tan<sup>2</sup>A + cot<sup>2</sup>A = 4 - 2</p>\n<strong>tan<sup>2</sup>A + cot<sup>2</sup>A = 2</strong>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q7",
+      "number": 7,
+      "question": "The value of \\((sin A + cosec A)^2 + (cos A + sec A)^2\\) is:",
+      "questionHtml": "The value of <span class=\"math-tex\">\\((sin A + cosec A)^2 + (cos A + sec A)^2\\)</span> is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(3 + \\tan^2 A + \\cot^2 A\\)",
+          "html": "<span class=\"math-tex\">\\(3 + \\tan^2 A + \\cot^2 A\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(7 + \\tan^2 A + \\cot^2 A\\)",
+          "html": "<span class=\"math-tex\">\\(7 + \\tan^2 A + \\cot^2 A\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(5 + \\tan^2 A + \\cot^2 A\\)",
+          "html": "<span class=\"math-tex\">\\(5 + \\tan^2 A + \\cot^2 A\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(1 + \\tan^2 A + \\cot^2 A\\)",
+          "html": "<span class=\"math-tex\">\\(1 + \\tan^2 A + \\cot^2 A\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Put A = 45° in the given expression (since sin 45° = 1/√2 and cosec 45° = √2).</p>\n<p>⇒ Expression = (1/√2 + √2)<sup>2</sup> + (1/√2 + √2)<sup>2</sup> = (3/√2)<sup>2</sup> + (3/√2)<sup>2</sup></p>\n<p>⇒ Expression = 9/2 + 9/2 = 9</p>\n<p>Checking the given options for A = 45° (where tan 45° = 1 and cot 45° = 1), Option 2 gives 7 + 1<sup>2</sup> + 1<sup>2</sup> = 9.</p>\n<p><strong>∴ The correct answer is 7 + tan<sup>2</sup> A + cot<sup>2</sup> A.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>⇒ The expression: (sin A + cosec A)<sup>2</sup> + (cos A + sec A)<sup>2</sup></p>\n<p><strong>Formula Used:</strong></p>\n<p>⇒ (x + y)<sup>2</sup> = x<sup>2</sup> + y<sup>2</sup> + 2xy</p>\n<p>⇒ sin<sup>2</sup> θ + cos<sup>2</sup> θ = 1</p>\n<p>⇒ sec<sup>2</sup> θ = 1 + tan<sup>2</sup> θ</p>\n<p>⇒ cosec<sup>2</sup> θ = 1 + cot<sup>2</sup> θ</p>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Expression = (sin A + cosec A)<sup>2</sup> + (cos A + sec A)<sup>2</sup></p>\n<p>⇒ Expression = (sin<sup>2</sup> A + cosec<sup>2</sup> A + 2 × sin A × cosec A) + (cos<sup>2</sup> A + sec<sup>2</sup> A + 2 × cos A × sec A)</p>\n<p>⇒ Expression = sin<sup>2</sup> A + cosec<sup>2</sup> A + 2(1) + cos<sup>2</sup> A + sec<sup>2</sup> A + 2(1)</p>\n<p>⇒ Expression = (sin<sup>2</sup> A + cos<sup>2</sup> A) + cosec<sup>2</sup> A + sec<sup>2</sup> A + 4</p>\n<p>⇒ Expression = 1 + (1 + cot<sup>2</sup> A) + (1 + tan<sup>2</sup> A) + 4</p>\n<p>⇒ Expression = 7 + tan<sup>2</sup> A + cot<sup>2</sup> A</p>\n<p><strong>∴ The correct answer is 7 + tan<sup>2</sup> A + cot<sup>2</sup> A.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Reciprocal Trigonometric Identities</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The reciprocal relationships are given by: sin θ = 1 ÷ cosec θ, cos θ = 1 ÷ sec θ and tan θ = 1 ÷ cot θ.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Pythagorean Trigonometric Identities</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Important identities: sin<sup>2</sup> θ + cos<sup>2</sup> θ = 1, sec<sup>2</sup> θ − tan<sup>2</sup> θ = 1, and cosec<sup>2</sup> θ − cot<sup>2</sup> θ = 1.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Value Substitution Trick</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When expression options are in terms of variables, substituting standard angles (like 30° or 45°) can quickly verify the correct option directly and easily save calculation time.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q8",
+      "number": 8,
+      "question": "Find the value of \\(\\frac{(453 \\times 453 \\times 453 - 383 \\times 383 \\times 383)}{(453 \\times 383 + 383 \\times 383 + 453 \\times 453)}\\)",
+      "questionHtml": "Find the value of&nbsp;<span class=\"math-tex\">\\(\\frac{(453 \\times 453 \\times 453 - 383 \\times 383 \\times 383)}{(453 \\times 383 + 383 \\times 383 + 453 \\times 453)}\\)</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "B",
+          "text": "50",
+          "html": "50"
+        },
+        {
+          "id": "C",
+          "text": "80",
+          "html": "80"
+        },
+        {
+          "id": "D",
+          "text": "70",
+          "html": "70"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Given:</p>\n\n<p><span class=\"math-tex\">\\( \\dfrac{(453 × 453 × 453 - 383 × 383 × 383)}{(453 × 383 + 383 × 383 + 453 × 453)} \\)</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">(a</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">3</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> - b</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">3</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">) = (a - b)(a</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> + ab + b</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">)</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Numerator = (a</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">3</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> - b</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">3</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">) = (a - b)(a</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> + ab + b</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">)</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Denominator = (a</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> + ab + b</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">)</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Simplified expression:</span></p>\n<span class=\"math-tex\">\\(\\dfrac{(a - b)(a^2 + ab + b^2)}{(a^2 + ab + b^2)} = (a - b) \\)</span>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">(a - b) = 453 - 383 = 70</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q9",
+      "number": 9,
+      "question": "An article is sold for ₹747 after successive discounts of 17% and x%. If the marked price of the article is ₹1,600, what is the value of x?",
+      "questionHtml": "An article is sold for ₹747 after successive discounts of 17% and x%. If the marked price of the article is ₹1,600, what is the value of x?",
+      "options": [
+        {
+          "id": "A",
+          "text": "32.26",
+          "html": "32.26"
+        },
+        {
+          "id": "B",
+          "text": "43.75",
+          "html": "43.75"
+        },
+        {
+          "id": "C",
+          "text": "22.12",
+          "html": "22.12"
+        },
+        {
+          "id": "D",
+          "text": "40.28",
+          "html": "40.28"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>747 = 1600 × (1 - 0.17) × (1 - x/100)</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">747 = 1600 × 0.83 × (1 - x/100)</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">747 = 1328 × (1 - x/100)</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">0.5625 = 1 - x/100</span></p>\n\n<p>x/100 = 0.4375</p>\n\n<p><strong>x = 43.75</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q10",
+      "number": 10,
+      "question": "Two goods trains 132 m and 108 m in length are running towards each other on parallel tracks. The first train is running at a speed of 32 km/h and the second at a speed of 40 km/h. How much time will they take to cross each other after meeting?",
+      "questionHtml": "Two goods trains 132 m and 108 m in length are running towards each other on parallel tracks. The first train is running at a speed of 32 km/h and the second at a speed of 40 km/h. How much time will they take to cross each other after meeting?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 s",
+          "html": "12 s"
+        },
+        {
+          "id": "B",
+          "text": "10 s",
+          "html": "10 s"
+        },
+        {
+          "id": "C",
+          "text": "13 s",
+          "html": "13 s"
+        },
+        {
+          "id": "D",
+          "text": "15 s",
+          "html": "15 s"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Total Distance = 132 m + 108 m = 240 m</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Relative Speed = 32 km/h + 40 km/h </span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">= 72 km/h = 72 × (5/18)</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">= 20 m/s</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Time = Total Distance / Relative Speed = 240 / 20 = <strong>12 sec</strong></span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q11",
+      "number": 11,
+      "question": "On dividing a number by 55, we get 28 as the remainder. On dividing the same number by 11, what is the remainder?",
+      "questionHtml": "On dividing a number by 55, we get 28 as the remainder. On dividing the same number by 11, what is the remainder?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "B",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "C",
+          "text": "7",
+          "html": "7"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "6"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "Given: n = 55k + 28,\n<p> </p>\nn ≡ 55k + 28 (mod 11),\n\n<p> </p>\n55 ≡ 0 (mod 11), 28 ≡ 6 (mod 11),\n\n<p> </p>\nn ≡ 6 (mod 11), The remainder is 6.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q12",
+      "number": 12,
+      "question": "Vipul spends 30% of his monthly income on rent, 60% of the remaining on groceries, and 40% of the remaining on others. If he saves ₹ 7056 in a month, then how much (in ₹) does he spend on groceries?",
+      "questionHtml": "Vipul spends 30% of his monthly income on rent, 60% of the remaining on groceries, and 40% of the remaining on others. If he saves ₹ 7056 in a month, then how much (in ₹) does he spend on groceries?",
+      "options": [
+        {
+          "id": "A",
+          "text": "18323",
+          "html": "18323"
+        },
+        {
+          "id": "B",
+          "text": "15230",
+          "html": "15230"
+        },
+        {
+          "id": "C",
+          "text": "17640",
+          "html": "17640"
+        },
+        {
+          "id": "D",
+          "text": "22386",
+          "html": "22386"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let Vipul's monthly income be x</p>\n\n<p>Remaining income after rent = 0.70x,</p>\n\n<p>Amount spent on groceries = 0.60 × 0.70x = 0.42x</p>\n\n<p>Savings = x - (0.30x + 0.42x + 0.112x) = 7056</p>\n\n<p>0.168x = 7056</p>\n\n<p>x = 7056 / 0.168 = 42000</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Amount spent on groceries = 0.42 × 42000 = <strong>₹ 17640</strong></span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q13",
+      "number": 13,
+      "question": "A man buys 10 kg of wheat at a rate of ₹26/kg. The wheat is mixed with 6 kg of other good quality of wheat to get a mixture at a price of ₹35/kg. The price of good quality wheat per kg (in ₹) is:",
+      "questionHtml": "A man buys 10 kg of wheat at a rate of ₹26/kg. The wheat is mixed with 6 kg of other good quality of wheat to get a mixture at a price of ₹35/kg. The price of good quality wheat per kg (in ₹) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "38",
+          "html": "38"
+        },
+        {
+          "id": "B",
+          "text": "42",
+          "html": "42"
+        },
+        {
+          "id": "C",
+          "text": "50",
+          "html": "50"
+        },
+        {
+          "id": "D",
+          "text": "46",
+          "html": "46"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>((10 × 26) + (6 × x))/(10 + 6) = 35</p>\n\n<p>260 + 6x = 35 × 16</p>\n\n<p>6x = 560 - 260</p>\n\n<p>x = 300 / 6</p>\n\n<p><strong>x = 50</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q14",
+      "number": 14,
+      "question": "What is the length (in cm) of each side of a cube if the volume of a cube is 13,824 cm3?",
+      "questionHtml": "What is the length (in cm) of each side of a cube if the volume of a cube is 13,824 cm3?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20.4",
+          "html": "20.4"
+        },
+        {
+          "id": "B",
+          "text": "24",
+          "html": "24"
+        },
+        {
+          "id": "C",
+          "text": "22",
+          "html": "22"
+        },
+        {
+          "id": "D",
+          "text": "34",
+          "html": "34"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Let the length of each side be 'a' cm, a</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">3</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> = 13,824</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> a = ∛13,824 = <strong>24 cm</strong></span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q15",
+      "number": 15,
+      "question": "Study the given bar graph and answer the question that follows. The following bar graph shows the higher secondary students of a school for the years 2008, 2009 and 2010. What was the percentage of students who passed in the first division in 2009?",
+      "questionHtml": "<p>Study the given bar graph and answer the question that follows.<br />\nThe following bar graph shows the higher secondary students of a school for the years 2008, 2009 and 2010.<br />\n<img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/25/07/2%2807%29.png\" style=\"width: 450px; height: 274px;\" /></p>\n\n<p>What was the percentage of students who passed in the first division in 2009?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(16 \\frac{13}{19}\\% \\hspace{0.5em}\\)",
+          "html": "<span class=\"math-tex\">\\(16 \\frac{13}{19}\\% \\hspace{0.5em}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(15 \\frac{15}{19}\\%\\)",
+          "html": "<span class=\"math-tex\">\\(15 \\frac{15}{19}\\%\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(16 \\frac{15}{19}\\%$ \\hspace{0.5em}\\)",
+          "html": "<span class=\"math-tex\">\\(16 \\frac{15}{19}\\%$ \\hspace{0.5em}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(15 \\frac{13}{19}\\% \\hspace{0.5em}\\)",
+          "html": "<span class=\"math-tex\">\\(15 \\frac{13}{19}\\% \\hspace{0.5em}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p data-sourcepos=\"3:1-3:10\">Given:</p>\n\n<p data-sourcepos=\"5:1-5:158\">The bar graph shows the number of higher secondary students of a school for the years 2008, 2009, and 2010, categorized by division (1st, 2nd, 3rd, and Fail).</p>\n\n<p data-sourcepos=\"7:1-7:16\">Calculation:</p>\n\n<p data-sourcepos=\"9:4-9:70\">Number of students who passed in the first division in 2009: 30</p>\n\n<p data-sourcepos=\"11:4-11:116\">Total number of students in 2009: 30 (1st division) + 60 (2nd division) + 50 (3rd division) + 50 (Fail) = 190</p>\n\n<p data-sourcepos=\"13:4-13:97\">Percentage of students who passed in the first division in 2009: (30 / 190) &times;&nbsp;100 = <span class=\"math-tex\">\\(15 \\frac{15}{19}\\%\\)</span></p>\n\n<p data-sourcepos=\"15:1-15:107\">Therefore, the percentage of students who passed in the first division in 2009 is approximately <strong><span class=\"math-tex\">\\(15 \\frac{15}{19}\\%\\)</span></strong>.</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/25/07/2%2807%29.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q16",
+      "number": 16,
+      "question": "Pipe A takes (4)/(5) of the time required by pipe B to fill an empty tank individually. When an outlet pipe C is also opened simultaneously with pipes A and B, it takes (4)/(5) more time to fill the empty tank than it takes when only pipe A and pipe B are opened together. If it takes 40 hours to fill the tank when all the three pipes are opened simultaneously, in what time (in hours) will pipe C empty the full tank, operating alone?",
+      "questionHtml": "Pipe A takes (4)/(5) of the time required by pipe B to fill an empty tank individually. When an outlet pipe C is also opened simultaneously with pipes A and B, it takes (4)/(5) more time to fill the empty tank than it takes when only pipe A and pipe B are opened together. If it takes 40 hours to fill the tank when all the three pipes are opened simultaneously, in what time (in hours) will pipe C empty the full tank, operating alone?",
+      "options": [
+        {
+          "id": "A",
+          "text": "50",
+          "html": "50"
+        },
+        {
+          "id": "B",
+          "text": "45",
+          "html": "45"
+        },
+        {
+          "id": "C",
+          "text": "65",
+          "html": "65"
+        },
+        {
+          "id": "D",
+          "text": "75",
+          "html": "75"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Given:</p>\n\n<p>1. Pipe A takes (4/5) of the time of pipe B.</p>\n\n<p>If B takes x hours</p>\n\n<p>A takes (4/5)x hours</p>\n\n<p>2. Combined rate of A and B: (5/4x) + (1/x) = 9/4x</p>\n\n<p>Time taken by A and B</p>\n\n<p>t<sub>AB</sub> = 4x/9</p>\n\n<p>3. Time with all three pipes = (9/5) × t<sub>AB</sub> = 40</p>\n\n<p>t<sub>AB</sub> = 200/9</p>\n\n<p>x = 50</p>\n\n<p>4. Rate of all three pipes:</p>\n\n<p>1/40 = (9/200) - (1/C)</p>\n\n<p>1/C = 4/200 = 1/50</p>\n\n<p><strong><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> C = 50.</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q17",
+      "number": 17,
+      "question": "If the mean proportional between p and q is 12, then the possible values of p and q, respectively, are:",
+      "questionHtml": "If the mean proportional between p and q is 12, then the possible values of p and q, respectively, are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 38",
+          "html": "3, 38"
+        },
+        {
+          "id": "B",
+          "text": "3, 28",
+          "html": "3, 28"
+        },
+        {
+          "id": "C",
+          "text": "24, 6",
+          "html": "24, 6"
+        },
+        {
+          "id": "D",
+          "text": "24, 16",
+          "html": "24, 16"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Given: x = 12</p>\n\n<p>12 = √(pq)</p>\n\n<p>⇒ 12<sup>2</sup> = pq</p>\n\n<p>⇒ 144 = pq</p>\n\n<p>Possible values:</p>\n\n<p>p = 6</p>\n\n<p>q = 24</p>\n\n<p>Correct answer is option 2.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q18",
+      "number": 18,
+      "question": "The radii of two concentric circles are 26 cm and 10 cm. If the chord of the greater circle is a tangent to the smaller circle, then find the length of that chord.",
+      "questionHtml": "The radii of two concentric circles are 26 cm and 10 cm. If the chord of the greater circle is a tangent to the smaller circle, then find the length of that chord.",
+      "options": [
+        {
+          "id": "A",
+          "text": "38.7 cm",
+          "html": "38.7 cm"
+        },
+        {
+          "id": "B",
+          "text": "28.7 cm",
+          "html": "28.7 cm"
+        },
+        {
+          "id": "C",
+          "text": "48 cm",
+          "html": "48 cm"
+        },
+        {
+          "id": "D",
+          "text": "28 cm",
+          "html": "28 cm"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>R = 26 cm</p>\n\n<p>r = 10 cm</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">R</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> = r</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> + (L/2)</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">676 = 100 + (L/2)</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">576 = (L/2)</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">(L/2) = √576</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">L = 24 × 2</span></p>\n\n<p><strong><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">L = 48 cm</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q19",
+      "number": 19,
+      "question": "A person purchased a table and a sofa for ₹28,000. He sold the sofa at a profit of 10% and the table at a profit 15.25%. If his total profit was 13%, then the difference between the cost price of the sofa and the table (in ₹) is:",
+      "questionHtml": "A person purchased a table and a sofa for ₹28,000. He sold the sofa at a profit of 10% and the table at a profit 15.25%. If his total profit was 13%, then the difference between the cost price of the sofa and the table (in ₹) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1500",
+          "html": "1500"
+        },
+        {
+          "id": "B",
+          "text": "4000",
+          "html": "4000"
+        },
+        {
+          "id": "C",
+          "text": "5000",
+          "html": "5000"
+        },
+        {
+          "id": "D",
+          "text": "2500",
+          "html": "2500"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let CP of sofa be ₹x and CP of table be ₹(28,000 - x).</p>\n\n<p>Total profit = 0.13 × 28,000 = ₹3,640</p>\n\n<p>0.10x + 0.1525(28,000 - x) = 3,640</p>\n\n<p>3,640 = 0.10x + 4,270 - 0.1525x</p>\n\n<p>-630 = -0.0525x</p>\n\n<p>x = 12,000</p>\n\n<p>CP of table = 28,000 - 12,000 = 16,000.</p>\n\n<p>Difference = 16,000 - 12,000 =<strong> ₹4,000.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q20",
+      "number": 20,
+      "question": "If 3 tan A = 4 and A is an acute angle, then the value of 4sinA + 3cosA is:",
+      "questionHtml": "If 3 tan A = 4 and A is an acute angle, then the value of 4sinA + 3cosA is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "D",
+          "text": "5",
+          "html": "5"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "3tanA = 4\n<p>tanA = 4/3</p>\n\n<p>sinA/cosA = 4/3</p>\n\n<p>Let sinA = 4k and cosA = 3k</p>\n\n<p>(4k)<sup>2</sup> + (3k)<sup>2</sup> = 1</p>\n\n<p>16k<sup>2</sup> + 9k<sup>2</sup> = 1</p>\n\n<p>25k<sup>2</sup> = 1</p>\n\n<p>k = 1/5</p>\n\n<p>sinA = 4/5, cosA = 3/5</p>\n\n<p>4sinA + 3cosA = 4(4/5) + 3(3/5)</p>\n\n<p>16/5 + 9/5 = 25/5 =<strong> 5</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q21",
+      "number": 21,
+      "question": "A cell phone is available for Rs.600 or for Rs.300 cash down payment together with Rs.360 to be paid after two months. Find the rate of interest charged under this scheme.",
+      "questionHtml": "A cell phone is available for Rs.600 or for Rs.300 cash down payment together with Rs.360 to be paid after two months. Find the rate of interest charged under this scheme.",
+      "options": [
+        {
+          "id": "A",
+          "text": "60%",
+          "html": "60%"
+        },
+        {
+          "id": "B",
+          "text": "120%",
+          "html": "120%"
+        },
+        {
+          "id": "C",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "D",
+          "text": "50%",
+          "html": "50%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Principal (P) = 300</p>\n\n<p>Amount (A) = 360</p>\n\n<p>Time (T) = 1/6 years</p>\n\n<p>SI = A - P</p>\n\n<p>SI = 360 - 300 = 60</p>\n\n<p>60 = 300 × R × 1/6 / 100,</p>\n\n<p><strong>R = 60 / 50 = 1.2 <span style=\"color: rgb(33, 37, 41);\"> i.e. 120%</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q22",
+      "number": 22,
+      "question": "Let C be a circle with centre O and PQ be a minor arc on C. Let R and S be two points on the major arc of PQ on C. If PQ subtends an angle 80&ordm; at O, find &ang;PRQ and &ang;PSQ, respectively.",
+      "questionHtml": "Let C be a circle with centre O and PQ be a minor arc on C. Let R and S be two points on the major arc of PQ on C. If PQ subtends an angle 80&ordm; at O, find &ang;PRQ and &ang;PSQ, respectively.",
+      "options": [
+        {
+          "id": "A",
+          "text": "40&ordm; and 60&ordm;",
+          "html": "40&ordm; and 60&ordm;"
+        },
+        {
+          "id": "B",
+          "text": "50&ordm; and 80&ordm;",
+          "html": "50&ordm; and 80&ordm;"
+        },
+        {
+          "id": "C",
+          "text": "40&ordm; and 40&ordm;",
+          "html": "40&ordm; and 40&ordm;"
+        },
+        {
+          "id": "D",
+          "text": "40&ordm; and 50&ordm;",
+          "html": "40&ordm; and 50&ordm;"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Given:</p>\n\n<p>PQ subtends an angle of 80º at O, R and S are on the major arc of PQ.</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">1. ∠PRQ = 80º ÷ 2 = 40º </span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2.<strong> ∠PSQ = ∠PRQ = 40º</strong></span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q23",
+      "number": 23,
+      "question": "For what value of K does the following system have an infinite number of solutions? x + 2Ky - 8 = 0 2x - y - 16 = 0",
+      "questionHtml": "For what value of K does the following system have an infinite number of solutions? x + 2Ky - 8 = 0 2x - y - 16 = 0",
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "B",
+          "text": "-1/4",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">-1/4</span>"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "D",
+          "text": "-1/2",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">-1/2</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">1) x + 2Ky - 8 = 0 2) 2x - y - 16 = 0</span></p>\n\n<p><span class=\"math-tex\">\\(\\frac{a_{1}}{a_{2}} = \\frac{b_{1}}{b_{2}} = \\frac{c_{1}}{c_{2}}\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\frac{1}{2} = \\frac{2K}{-1} = \\frac{-8}{-16} = \\frac{1}{2}\\)</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">From <span class=\"math-tex\">\\(\\frac{2K}{-1} = \\frac{1}{2}\\)</span> :</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2K = <span class=\"math-tex\">\\(-\\frac{1}{2}\\)</span></span></p>\n\n<p><span class=\"math-tex\">\\(K = -\\frac{1}{4}\\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q24",
+      "number": 24,
+      "question": "In △DEF , DE = 12 cm, EF = 15 cm, and &ang;DEF = 90&ordm;. △DEF is congruent to △XYZ . If YZ = 15 cm, then what is the length of XZ?",
+      "questionHtml": "In&nbsp;△DEF , DE = 12 cm, EF = 15 cm, and &ang;DEF = 90&ordm;. △DEF is congruent to △XYZ . If YZ = 15 cm, then what is the length of XZ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3&radic;(41)",
+          "html": "3&radic;(41)"
+        },
+        {
+          "id": "B",
+          "text": "2&radic;(41)",
+          "html": "2&radic;(41)"
+        },
+        {
+          "id": "C",
+          "text": "5&radic;(41)",
+          "html": "5&radic;(41)"
+        },
+        {
+          "id": "D",
+          "text": "4&radic;(41)",
+          "html": "4&radic;(41)"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">DE</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> + EF</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> = DF</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">12</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> + 15</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> = DF</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">144 + 225 = DF</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">DF = √369 = 3√41</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Since △DEF ≅ △XYZ, XZ =<strong> 3√41 cm</strong></span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "a3051057e7f9-q25",
+      "number": 25,
+      "question": "Simplify the following expression. 133 &divide; 19 &times; 3 &ndash; 48 &times; 2 &divide; 24 + 841 &divide; { 45 &ndash; 16}",
+      "questionHtml": "Simplify the following expression. 133 &divide; 19 &times; 3 &ndash; 48 &times; 2 &divide; 24 + 841 &divide; { 45 &ndash; 16}",
+      "options": [
+        {
+          "id": "A",
+          "text": "46",
+          "html": "46"
+        },
+        {
+          "id": "B",
+          "text": "21",
+          "html": "21"
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "D",
+          "text": "42",
+          "html": "42"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>First solve the bracket:</p>\n\n<p>45 - 16 = 29</p>\n\n<p>Then simplify step by step:</p>\n\n<p>133 ÷ 19 × 3 - 48 × 2 ÷ 24 + 841 ÷ 29</p>\n\n<p>133 ÷ 19 × 3 - 96 ÷ 24 + 29 = 7 × 3 - 4 + 29</p>\n\n<p>21 - 4 + 29 = 17 + 29 = <strong>46</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

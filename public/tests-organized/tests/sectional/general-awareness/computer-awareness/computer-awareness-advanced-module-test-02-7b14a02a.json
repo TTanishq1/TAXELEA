@@ -1,0 +1,731 @@
+{
+  "id": "7b14a02a1810",
+  "provider": "Testbook",
+  "sourceFile": "Computer Awareness Advanced Module Test - 02.html",
+  "sourcePath": "Testbook/files/Computer Awareness Advanced Module Test - 02.html",
+  "title": "Computer Awareness Advanced Module Test - 02",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 20,
+  "questions": [
+    {
+      "id": "7b14a02a1810-q1",
+      "number": 1,
+      "question": "What is the role of routers in Internet architecture ?",
+      "questionHtml": "What is the role of routers in Internet architecture ?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "To provide security for Internet connections",
+          "html": "To provide security for Internet connections&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "To receive and send data on computer networks.",
+          "html": "To receive and send data on computer networks."
+        },
+        {
+          "id": "C",
+          "text": "To translate IP addresses into domain names",
+          "html": "To translate IP addresses into domain names"
+        },
+        {
+          "id": "D",
+          "text": "To connect devices to the Internet",
+          "html": "To connect devices to the Internet"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is <u><strong>To receive and send data on computer networks.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n\n<ul>\n\t<li><strong>Routers</strong> are networking devices that forward data packets between computer networks.</li>\n\t<li>They perform traffic directing functions on the Internet and ensure that data sent from one network gets to the right destination.</li>\n\t<li>Routers operate at the <strong>network layer</strong> (Layer 3) of the OSI model, making decisions based on IP addresses.</li>\n\t<li>They connect different networks together, enabling communication between devices on different networks and managing traffic efficiently.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>IP Address:</strong>\n\n\t<ul>\n\t\t<li>An Internet Protocol (IP) address is a unique identifier assigned to each device connected to a computer network that uses the IP for communication.</li>\n\t\t<li>IP addresses are used by routers to determine the destination of data packets.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Domain Name System (DNS):</strong>\n\t<ul>\n\t\t<li>The DNS translates domain names (like www.example.com) into IP addresses that routers and switches can use to route packets.</li>\n\t\t<li>While crucial for user-friendly web navigation, translating IP addresses into domain names is not the primary function of routers.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Network Layer (Layer 3) of the OSI Model:</strong>\n\t<ul>\n\t\t<li>The network layer is responsible for the delivery of packets from the source host to the destination host based on their IP addresses.</li>\n\t\t<li>Routers are critical components at this layer, managing the path that data takes to reach its destination.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Switches vs. Routers:</strong>\n\t<ul>\n\t\t<li>While both switches and routers are used in network environments, they serve different purposes.</li>\n\t\t<li>Switches operate at the data link layer (Layer 2) and are used to connect devices within the same network, while routers operate at the network layer and are used to connect different networks.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q2",
+      "number": 2,
+      "question": "Which of the following software can be used to reduce file size by compressing its contents?",
+      "questionHtml": "Which of the following software can be used to reduce file size by compressing its contents?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adobe Acrobat Reader",
+          "html": "<span style=\"\">Adobe Acrobat Reader&nbsp;</span>"
+        },
+        {
+          "id": "B",
+          "text": "McAfee",
+          "html": "<span style=\"\">McAfee&nbsp;</span>"
+        },
+        {
+          "id": "C",
+          "text": "Notepad",
+          "html": "<span style=\"\">Notepad</span>"
+        },
+        {
+          "id": "D",
+          "text": "WinZip",
+          "html": "<span style=\"\">WinZip</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "WinZip is a software application used to compress files, reducing their size for easier storage and transfer. It is widely used to create ZIP files, which can contain one or more compressed files or directories.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q3",
+      "number": 3,
+      "question": "______ mode of transmission requires the devices to be in a direct line of sight with each other.",
+      "questionHtml": "______ mode of transmission requires the devices to be in a direct line of sight with each other.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bluetooth",
+          "html": "Bluetooth"
+        },
+        {
+          "id": "B",
+          "text": "Wi - Fi",
+          "html": "Wi - Fi"
+        },
+        {
+          "id": "C",
+          "text": "Infrared",
+          "html": "Infrared"
+        },
+        {
+          "id": "D",
+          "text": "Hi - Fi",
+          "html": "Hi - Fi"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "The correct answer is <u><strong>Infrared</strong></u>\n\n<div>\n<p><span style=\"display: flex; gap: 6px; align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle; font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Infrared</strong> communication requires the devices to be in a direct line of sight with each other.</li>\n\t<li>Unlike other wireless communication methods like <strong>Bluetooth</strong> and <strong>Wi-Fi</strong>, infrared communication cannot penetrate walls or other obstacles.</li>\n\t<li>Infrared technology is commonly used in remote controls, short-range communication, and data transfer between devices that are in close proximity and within the line of sight.</li>\n\t<li>It is a secure method of communication as the signal is confined to a specific direction and area.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Bluetooth</strong> technology allows devices to communicate wirelessly over short distances without the need for a direct line of sight.</li>\n\t<li><strong>Wi-Fi</strong> enables wireless network communication over larger distances and does not require line of sight.</li>\n\t<li>Infrared communication is highly directional and typically used for close-range applications.</li>\n\t<li>Infrared has a limited range compared to other wireless communication technologies.</li>\n\t<li>Despite its limitations, infrared is still used in specific applications due to its simplicity and cost-effectiveness.</li>\n</ul>\n</div>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q4",
+      "number": 4,
+      "question": "In MS-Excel 2010 a ______ is a table of grouped values that aggregates the individual items of a more extensive table within one or more discrete categories.",
+      "questionHtml": "In MS-Excel 2010 a ______ is a table of grouped values that aggregates the individual items of a more extensive table within one or more discrete categories.&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bar",
+          "html": "Bar"
+        },
+        {
+          "id": "B",
+          "text": "Spreadsheet",
+          "html": "Spreadsheet"
+        },
+        {
+          "id": "C",
+          "text": "Line",
+          "html": "Line"
+        },
+        {
+          "id": "D",
+          "text": "Pivot table",
+          "html": "Pivot table"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is <u><strong>Pivot Table</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>A Pivot table is used for&nbsp;sorting, grouping, summarising and analysing a large amount of&nbsp;data in user-friendly ways.\n\t<ul>\n\t\t<li>It lets you compare the data provided, and analyze the patterns and trends.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Excel aggregates the individual items and analyzes the data with one or more discrete categories. Hence option 4 is correct.</strong></li>\n\t<li><strong>To insert a pivot table, go to the Insert tab &gt; Tables group &gt; Pivot table dropdown menu &gt; Pivot table.</strong></li>\n</ul>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/02/PIVOT.png\" style=\"width: 467px; height: 201px;\" />&nbsp;</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li>A bar in Excel displays the various categories of data in rectangular bars.</li>\n\t<li>The lines are used to connect two or more points in the chart.</li>\n\t<li><strong>Spreadsheets or worksheets in Excel contain&nbsp;the cells that store a large amount of data.</strong></li>\n</ul>\n\n<p>&nbsp;</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "https://storage.googleapis.com/tb-img/production/23/02/PIVOT.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q5",
+      "number": 5,
+      "question": "A ________ is a computer network that interconnects computers within a limited area such as a residence, school, laboratory, university campus, or office building.",
+      "questionHtml": "A ________ is a computer network that interconnects computers within a limited area such as a residence, school, laboratory, university campus, or office building.",
+      "options": [
+        {
+          "id": "A",
+          "text": "LAN",
+          "html": "LAN"
+        },
+        {
+          "id": "B",
+          "text": "WAN",
+          "html": "WAN"
+        },
+        {
+          "id": "C",
+          "text": "MAN",
+          "html": "MAN"
+        },
+        {
+          "id": "D",
+          "text": "VAN",
+          "html": "VAN"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "A LAN interconnects computers within a limited area, enabling efficient resource sharing and communication. It typically uses Ethernet or Wi-Fi for connectivity and supports high data transfer rates. Designed for localized environments like homes or offices, it is cost-effective and simpler to manage compared to broader networks like WAN or MAN.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q6",
+      "number": 6,
+      "question": "Which statement is correct about Gateway? A gateway is a device that acts as a \"gate\" between the networks. Gateways are unidirectional only. A gateway is also called a protocol converter.",
+      "questionHtml": "Which statement is correct about Gateway?\n<ol>\n\t<li>A gateway is a device that acts as a &quot;gate&quot; between the networks.</li>\n\t<li>Gateways are unidirectional only.</li>\n\t<li>A gateway is also called a protocol converter.&nbsp;</li>\n</ol>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 and 2",
+          "html": "1 and 2"
+        },
+        {
+          "id": "B",
+          "text": "2 and 3",
+          "html": "2 and 3"
+        },
+        {
+          "id": "C",
+          "text": "1 and 3",
+          "html": "1 and 3"
+        },
+        {
+          "id": "D",
+          "text": "All are correct",
+          "html": "All are correct"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is <u><strong>1 and 3.</strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>The<strong> gateway may be a single component of a networking hardware system applied in the field of telecommunication for the interaction of devices, that enable the info flow from one discrete network to others.</strong></li>\n\t<li>They act as routers or switches that are capable of interacting with multiple networks and may work on seven layers of the OSI model.</li>\n\t<li>They can be unidirectional (allowing data to flow in only one direction) or bidirectional (allowing data to flow both in and out of a network). Hence statement 2 is not correct.</li>\n\t<li>The gateway is also known as the network connector and the protocol converter.&nbsp;</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Node:</strong>\n\n\t<ul>\n\t\t<li>A node could also be a point of intersection/connection within a data communication network.</li>\n\t\t<li>In an environment where all devices are accessible through the network, these devices are all considered nodes.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Bridge:</strong>\n\t<ul>\n\t\t<li>Bridges are used to connect two subnetworks that use interchangeable protocols.</li>\n\t\t<li>It combines two LANs to form an extended LAN.</li>\n\t\t<li>The foremost difference between the bridge and the repeater is that the bridge has a penetrating efficiency.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Router:</strong>\n\t<ul>\n\t\t<li>A router receives and sends data on computer networks.</li>\n\t\t<li>Routers are sometimes confused with network hubs, modems, or network switches.</li>\n\t\t<li>However, routers can combine the functions of these components, and connect with these devices, to reinforce Internet access or help create business networks.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q7",
+      "number": 7,
+      "question": "Communication between a computer and a keyboard involves _________________ transmission.",
+      "questionHtml": "Communication between a computer and a keyboard involves _________________ transmission.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Automatic",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">Automatic</span>"
+        },
+        {
+          "id": "B",
+          "text": "Half-duplex",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">Half-duplex</span>"
+        },
+        {
+          "id": "C",
+          "text": "Full-duplex",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">Full-duplex</span>"
+        },
+        {
+          "id": "D",
+          "text": "Simplex",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">Simplex</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Communication between a computer and a keyboard involves simplex transmission because data flows in a single direction.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q8",
+      "number": 8,
+      "question": "The memory management technique that used RAM and hard disk space to provide dedicated memory space for each program is known as",
+      "questionHtml": "The memory management technique that used RAM and hard disk space to provide dedicated memory space for each program is known as",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cache memory",
+          "html": "Cache memory"
+        },
+        {
+          "id": "B",
+          "text": "Virtual memory",
+          "html": "Virtual memory"
+        },
+        {
+          "id": "C",
+          "text": "Read only memory",
+          "html": "Read only memory"
+        },
+        {
+          "id": "D",
+          "text": "Flash memory",
+          "html": "Flash memory"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "The memory management technique that uses both RAM and hard disk space to create a larger, virtual memory space is known as virtual memory. It allows a computer to compensate for shortages of physical memory by temporarily transferring data from RAM to disk storage.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q9",
+      "number": 9,
+      "question": "Identify the following statements as correct or incorrect i. In MS-Word 365, you can use the Find and Replace feature to search for specific text in a document and replace it with new text. ii. The Thesaurus tool in MS-Word 365 is used to check the spelling and grammar of your document.",
+      "questionHtml": "<p>Identify the following statements as correct or incorrect</p>\n\n<p>i. In MS-Word 365, you can use the Find and Replace feature to search for specific text in a document and replace it with new text.</p>\n\n<p>ii. The Thesaurus tool in MS-Word 365 is used to check the spelling and grammar of your document.</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "i - correct, ii - incorrect",
+          "html": "i - correct, ii - incorrect"
+        },
+        {
+          "id": "B",
+          "text": "i - incorrect, ii - correct",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">i - incorrect, ii - correct</span>"
+        },
+        {
+          "id": "C",
+          "text": "i - correct, ii - correct",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">i - correct, ii - correct</span>"
+        },
+        {
+          "id": "D",
+          "text": "i - incorrect, ii - incorrect",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">i - incorrect, ii - incorrect</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>The correct answer is&nbsp;<u><strong><span style=\"color: rgb(33, 37, 41);\">i - correct, ii - incorrect</span></strong></u></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>i. In MS-Word 365, you can use the Find and Replace feature to search for specific text in a document and replace it with new text.</strong>\n\n\t<ul>\n\t\t<li>Correct. Find and Replace is a common feature in word processors.</li>\n\t</ul>\n\t</li>\n\t<li><strong>ii. The Thesaurus tool in MS-Word 365 is used to check the spelling and grammar of your document.</strong>\n\t<ul>\n\t\t<li>Incorrect. The Thesaurus is used to find synonyms and antonyms, not for spelling and grammar checking.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><strong>Correct Answer: 1) i - correct, ii - incorrect</strong></p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q10",
+      "number": 10,
+      "question": "In Excel&rsquo;s \"Edit Mode,\" which keyboard shortcut allows you to insert a manual line break within a single cell to manage long text strings or multi-line formulas?",
+      "questionHtml": "<p>In Excel&rsquo;s &quot;Edit Mode,&quot; which keyboard shortcut allows you to insert a manual line break within a single cell to manage long text strings or multi-line formulas?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tab + Enter",
+          "html": "<p>Tab + Enter</p>\n"
+        },
+        {
+          "id": "B",
+          "text": "Ctrl + Enter",
+          "html": "<p>Ctrl + Enter</p>\n"
+        },
+        {
+          "id": "C",
+          "text": "Shift + Enter",
+          "html": "<p>Shift + Enter</p>\n"
+        },
+        {
+          "id": "D",
+          "text": "Alt + Enter",
+          "html": "<p>Alt + Enter</p>\n"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is <u><strong>Alt + Enter</strong></u>.</p>  \n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>  \n<ul>  \n<li><strong>In Excel's \"Edit Mode,\"</strong> the <u>keyboard shortcut</u> <strong>Alt + Enter</strong> is used to insert a <u>manual line break</u> within a cell. This helps in organizing long text strings or multi-line formulas to improve readability and formatting.</li>  \n<li>When you press <strong>Alt + Enter</strong>, a <u>new line</u> is created within the same cell, allowing text to be displayed on multiple lines without affecting adjacent cells.</li>  \n<li>This feature is especially useful for scenarios like <strong>address formatting, descriptions, or creating structured data</strong> within a single cell.</li>  \n<li>To enable this functionality, ensure that the cell is in <strong>edit mode</strong>. You can enter edit mode by double-clicking the cell or by selecting the cell and pressing <u>F2</u>.</li>  \n<li>Using <strong>Alt + Enter</strong>, Excel automatically adjusts the <strong>row height</strong> to accommodate the new lines, ensuring the entire content is visible within the cell.</li>  \n</ul>  \n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>  \n<ul>  \n<li><strong>Other Keyboard Shortcuts in Excel:</strong>  \n<ul>  \n<li><strong>Ctrl + Enter:</strong> Used to fill the same data or formula in multiple selected cells simultaneously.</li>  \n<li><strong>Shift + Enter:</strong> Moves the cursor to the cell above the current cell after data entry.</li>  \n<li><strong>Tab + Enter:</strong> Moves the cursor to the next cell in the row after data entry.</li>  \n</ul>  \n</li>  \n<li><strong>Applications of Manual Line Breaks:</strong>  \n<ul>  \n<li>Formatting <strong>addresses</strong> in a structured format (e.g., Name, Street, City).</li>  \n<li>Organizing <strong>multi-line notes</strong> or comments within a single cell for better readability.</li>  \n<li>Creating <strong>checklists or bullet points</strong> for tasks in a single cell.</li>  \n</ul>  \n</li>  \n<li><strong>Wrap Text Feature:</strong>  \n<ul>  \n<li>In addition to Alt + Enter, Excel provides a <strong>\"Wrap Text\"</strong> option in the toolbar to automatically display text on multiple lines within a cell.</li>  \n<li>Unlike Alt + Enter, Wrap Text adjusts the text dynamically based on the column width.</li>  \n</ul>  \n</li>  \n<li><strong>Practical Examples:</strong>  \n<ul>  \n<li><strong>Example 1:</strong> Inserting a manual line break for addresses:  \n<ul>  \n<li>Input: John Doe <strong>(Alt + Enter)</strong> 123 Main Street <strong>(Alt + Enter)</strong> Springfield, IL.</li>  \n</ul>  \n</li>  \n<li><strong>Example 2:</strong> Creating multi-line notes:  \n<ul>  \n<li>Input: Task 1 - Complete report <strong>(Alt + Enter)</strong> Task 2 - Review data.</li>  \n</ul>  \n</li>  \n</ul>  \n</li>  \n</ul>  \n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Important Points</u></span></strong></span></p>  \n<ul>  \n<li><strong>Alt + Enter</strong> is specific to <u>Microsoft Excel</u> and may not work the same way in other spreadsheet tools like Google Sheets or LibreOffice Calc.</li>  \n<li>For Google Sheets, the equivalent shortcut is <strong>Ctrl + Enter</strong> to insert a line break within a cell.</li>  \n<li>When using Alt + Enter, ensure that cell formatting like <strong>\"Wrap Text\"</strong> is enabled to make the content visually clear.</li>  \n<li>Excessive use of manual line breaks can make the data harder to export to other applications or databases, so use this feature judiciously.</li>  \n</ul>  ",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q11",
+      "number": 11,
+      "question": "What is the function of the CPU following the commencement of a DMA transfer?",
+      "questionHtml": "What is the function of the CPU following the commencement of a DMA transfer?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "It actively manages each byte transferred.",
+          "html": "It actively manages each byte transferred."
+        },
+        {
+          "id": "B",
+          "text": "It must remain idle until the DMA transfer is complete.",
+          "html": "It must remain idle until the DMA transfer is complete."
+        },
+        {
+          "id": "C",
+          "text": "It is free to perform other tasks while the transfer is handled by the DMA controller.",
+          "html": "It is free to perform other tasks while the transfer is handled by the DMA controller.&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "It handles the entire data transfer.",
+          "html": "It handles the entire data transfer."
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is <u><strong>It is free to perform other tasks while the transfer is handled by the DMA controller.</strong></u>.</p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><u style=\"font-size: 21px; font-weight: bolder; font-family: var(--bs-body-font-family); text-align: var(--bs-body-text-align);\">Key Points</u></span></p>\n<ul>\n<li>The CPU is free to perform other operations during a DMA (Direct Memory Access) transfer as the DMA controller manages the data transfer.</li>\n<li>DMA allows devices to transfer data to/from memory without CPU intervention, which improves the system's efficiency.</li>\n<li>During a DMA transfer, the CPU is not involved in the data transfer process, reducing its workload and allowing multitasking.</li>\n<li>This mechanism is particularly useful in real-time computing environments where the CPU needs to handle multiple tasks simultaneously.</li>\n</ul>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<ul>\n<li><strong>DMA (Direct Memory Access)</strong>\n<ul>\n<li>DMA is a feature that allows peripherals to communicate directly with the system memory without involving the CPU.</li>\n<li>It significantly speeds up memory operations by offloading work from the CPU, allowing it to execute other instructions while data transfer is in progress.</li>\n<li>DMA is commonly used for data transfer operations such as disk I/O, audio, and video data streaming.</li>\n<li>It is particularly beneficial in systems that need to process large amounts of data quickly.</li>\n</ul>\n</li>\n<li><strong>CPU (Central Processing Unit)</strong>\n<ul>\n<li>The CPU is the primary component of a computer that performs most of the processing inside a computer.</li>\n<li>It executes instructions from computer programs by performing basic arithmetic, logical, control, and input/output operations specified by the instructions.</li>\n<li>CPU performance is crucial for the overall speed and efficiency of a computer system.</li>\n<li>Modern CPUs are designed to handle multiple tasks simultaneously through techniques such as multitasking, multithreading, and multi-core processing.</li>\n</ul>\n</li>\n<li><strong>Multitasking</strong>\n<ul>\n<li>Multitasking refers to the ability of a computer system to handle multiple tasks at the same time.</li>\n<li>In a multitasking environment, the CPU allocates time slices to each task, switching rapidly between them to create the illusion of parallel execution.</li>\n<li>This approach improves the overall system efficiency and responsiveness, especially when running multiple applications concurrently.</li>\n</ul>\n</li>\n</ul>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q12",
+      "number": 12,
+      "question": "________ is a type of cybercrime attack where the cyber-criminals flood a website with useless traffic to overwhelm the network.",
+      "questionHtml": "________ is a type of cybercrime attack where the cyber-criminals flood a website with useless traffic to overwhelm the network.&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cyberstalking",
+          "html": "<span style=\"\">Cyberstalking</span>"
+        },
+        {
+          "id": "B",
+          "text": "Phishing",
+          "html": "<span style=\"\">Phishing</span>"
+        },
+        {
+          "id": "C",
+          "text": "Distributed Denial of Service Attack",
+          "html": "<span style=\"\">Distributed Denial of Service Attack</span>"
+        },
+        {
+          "id": "D",
+          "text": "Spoofing",
+          "html": "<span style=\"\">Spoofing</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is&nbsp;<strong><u><span style=\"\">Distributed Denial of Service Attack.</span></u></strong></p>\n\n<p><strong><u><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></span></u></strong></p>\n\n<p><strong>Distributed denial-of-service (DDoS):</strong></p>\n\n<ul>\n\t<li>It is an <strong>attack is a malicious attempt</strong> to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic.</li>\n\t<li>DDoS attacks <strong>achieve effectiveness by utilizing</strong> multiple compromised computer systems as sources of attack traffic.</li>\n\t<li>Exploited machines can <strong>include computers</strong> and other networked resources such as IoT devices.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p><strong>Spoofing:</strong></p>\n\n<ul>\n\t<li>It is a broad term for the type of behavior that involves a <strong>cybercriminal masquerading</strong> as a trusted entity or device to get you to do something beneficial to the hacker &mdash; and detrimental to you.</li>\n</ul>\n\n<p><strong>Phishing:</strong></p>\n\n<ul>\n\t<li>It is an attack that attempts to <strong>steal your money, or your identity, by getting you to reveal personal information </strong>-- such as credit card numbers, bank information, or passwords -- on websites that pretend to be legitimate.</li>\n</ul>\n\n<p><strong>Cyberstalking:</strong></p>\n\n<ul>\n\t<li>It is a <strong>crime committed when</strong> someone uses the internet and other technologies to harass or stalk another person online.&nbsp;</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q13",
+      "number": 13,
+      "question": "What is the shortcut in MS Word to change the text to all upper case?",
+      "questionHtml": "What is the shortcut in MS Word to change the text to all upper case?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ctrl+Shift+A",
+          "html": "Ctrl+Shift+A&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "Ctrl+Left bracket ([)",
+          "html": "Ctrl+Left bracket ([)"
+        },
+        {
+          "id": "C",
+          "text": "Ctrl+D",
+          "html": "Ctrl+D"
+        },
+        {
+          "id": "D",
+          "text": "Ctrl+Shift+W",
+          "html": "Ctrl+Shift+W"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>The correct answer is <u><strong>Ctrl+Shift+A</strong></u>.</p>\n\n<p><span align-items:=\"\" display:=\"\" gap:=\"\" style=\"\"><img cdn.testbook.com=\"\" height=\"\" lms_creative_elements=\"\" resources=\"\" src=\"\" width=\"\" /><strong><span font-size:=\"\" style=\"\" vertical-align:=\"\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Ctrl+Shift+A</strong> is the shortcut in MS Word to change the text to all upper case.</li>\n\t<li>This shortcut helps in quickly formatting text without manually changing its case.</li>\n\t<li>Using keyboard shortcuts enhances productivity and efficiency while working in MS Word.</li>\n\t<li>Other text formatting options include changing text to lowercase, capitalize each word, or toggle case, accessible through similar shortcuts or menu options.</li>\n\t<li><strong>Ctrl+Shift+A</strong> is particularly useful for creating headings, subheadings, or emphasizing specific text in documents.</li>\n</ul>\n\n<p><span align-items:=\"\" display:=\"\" gap:=\"\" style=\"\"><img cdn.testbook.com=\"\" height=\"\" lms_creative_elements=\"\" resources=\"\" src=\"\" width=\"\" /><strong><span font-size:=\"\" style=\"\" vertical-align:=\"\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Other Useful Shortcuts in MS Word:</strong>\n\n\t<ul>\n\t\t<li><strong>Ctrl+C:</strong> Copies the selected text or object.</li>\n\t\t<li><strong>Ctrl+V:</strong> Pastes the copied text or object.</li>\n\t\t<li><strong>Ctrl+Z:</strong> Undo the last action.</li>\n\t\t<li><strong>Ctrl+Y:</strong> Redo the last action.</li>\n\t\t<li><strong>Ctrl+B:</strong> Applies bold formatting to selected text.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Tips for Efficient Text Formatting:</strong>\n\t<ul>\n\t\t<li>Use shortcuts like <strong>Ctrl+Shift+A</strong> to save time when working on large documents.</li>\n\t\t<li>Combine shortcuts with styles and themes to maintain consistent formatting throughout the document.</li>\n\t\t<li>Explore the &#39;Font&#39; dialog box (<strong>Ctrl+D</strong>) for advanced text formatting options.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Important Points:</strong>\n\t<ul>\n\t\t<li>Keyboard shortcuts may vary slightly based on the version of MS Word.</li>\n\t\t<li>Remember to check the shortcut settings in the application if any shortcut is not working as expected.</li>\n\t\t<li>Learning and using shortcuts can significantly improve document creation and editing speed.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q14",
+      "number": 14,
+      "question": "In MS Word 2007, when you press &lsquo;Alt + N&rsquo; you can access the:",
+      "questionHtml": "In MS Word 2007, when you press &lsquo;Alt + N&rsquo; you can access the:&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Insert tab",
+          "html": "Insert tab"
+        },
+        {
+          "id": "B",
+          "text": "Home tab",
+          "html": "Home tab&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "Design tab",
+          "html": "Design tab"
+        },
+        {
+          "id": "D",
+          "text": "View tab",
+          "html": "View tab"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "Pressing 'Alt + N' in MS Word 2007 opens the Insert tab. This shortcut allows you to quickly access features like tables, pictures, shapes, and other objects that can be inserted into your document.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q15",
+      "number": 15,
+      "question": "Which software is used to create a bootable USB drive?",
+      "questionHtml": "<div><span style=\"\">Which software is used to create a bootable USB drive?</span></div>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "Notepad",
+          "html": "Notepad"
+        },
+        {
+          "id": "B",
+          "text": "Rufus",
+          "html": "Rufus"
+        },
+        {
+          "id": "C",
+          "text": "Paint",
+          "html": "Paint"
+        },
+        {
+          "id": "D",
+          "text": "VLC Media Player",
+          "html": "VLC Media Player"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The correct answer is <u><strong>Rufus</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Rufus</strong> is a widely used software tool for creating bootable USB drives. It is lightweight, fast, and easy to use.</li>\n\t<li>This software supports a variety of operating systems, including Windows, Linux, and others, making it versatile for different needs.</li>\n\t<li>Rufus is especially useful for installing new operating systems or troubleshooting issues where bootable drives are required.</li>\n\t<li>The tool offers advanced features, such as choosing partition schemes and file systems, which provide flexibility for specific use cases.</li>\n\t<li>Rufus is a free and open-source utility, making it accessible to users without any additional cost.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Uses of Rufus:</strong>\n\n\t<ul>\n\t\t<li><strong>Operating System Installation:</strong> Rufus can create bootable USB drives for installing systems like Windows, Linux, or other OS distributions.</li>\n\t\t<li><strong:system strong=\"\"> It can be used to create recovery drives for troubleshooting or restoring corrupted systems.</strong:system></li>\n\t\t<li><strong>Firmware Updates:</strong> Rufus helps in creating bootable drives for updating firmware on devices like routers or motherboards.</li>\n\t\t<li><strong>Testing Operating Systems:</strong> With Rufus, users can test live versions of operating systems without installing them on their computers.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Key Features of Rufus:</strong>\n\t<ul>\n\t\t<li>Supports multiple file systems, including FAT32, NTFS, UDF, and exFAT.</li>\n\t\t<li>Offers advanced partition scheme options like MBR and GPT for compatibility with different devices.</li>\n\t\t<li>Provides quick formatting and customization options for bootable drives.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Advantages of Using Rufus:</strong>\n\t<ul>\n\t\t<li>Lightweight and portable software that does not require installation.</li>\n\t\t<li>Fast creation of bootable drives compared to other similar tools.</li>\n\t\t<li>Free and open-source, with regular updates to ensure compatibility and performance.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Important Points:</strong>\n\t<ul>\n\t\t<li>Rufus is compatible with both UEFI and legacy BIOS systems.</li>\n\t\t<li>It includes advanced options for experienced users, such as bad block checks and image creation.</li>\n\t\t<li>Users should ensure proper selection of ISO files and settings to avoid issues during boot or installation.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q16",
+      "number": 16,
+      "question": "Which tool do you use to create a query object in MS-ACCESS?",
+      "questionHtml": "Which tool do you use to create a query object in MS-ACCESS?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Database wizard",
+          "html": "Database wizard"
+        },
+        {
+          "id": "B",
+          "text": "Simple filter wizard",
+          "html": "Simple filter wizard"
+        },
+        {
+          "id": "C",
+          "text": "Simple query wizard",
+          "html": "Simple query wizard"
+        },
+        {
+          "id": "D",
+          "text": "Table query wizard",
+          "html": "Table query wizard"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "Simple Query Wizard in MS-ACCESS is a user-friendly tool designed to create query objects efficiently. It guides users step-by-step to select fields from one or more tables or queries and define criteria for data retrieval. This approach simplifies the process, making it ideal for users with minimal database expertise.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q17",
+      "number": 17,
+      "question": "&mdash;&mdash;&mdash;is the programming language used to write a Macro in MS Excel.",
+      "questionHtml": "<div><span style=\"\">&mdash;&mdash;&mdash;is the programming language used to write a Macro in MS Excel.</span></div>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "VB Script.",
+          "html": "VB Script."
+        },
+        {
+          "id": "B",
+          "text": "Python.",
+          "html": "&nbsp;Python."
+        },
+        {
+          "id": "C",
+          "text": "C++.",
+          "html": "C++."
+        },
+        {
+          "id": "D",
+          "text": "JAVA.",
+          "html": "JAVA."
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>The correct answer is <u><strong>VB Script</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>VB Script</strong> is the programming language used to write macros in MS Excel, enabling users to automate repetitive tasks and enhance productivity.</li>\n\t<li>It is a subset of Visual Basic, specifically designed for scripting purposes within Microsoft applications such as Excel, Word, and Access.</li>\n\t<li>Macros written in VB Script can perform a wide range of functions, such as data manipulation, formatting, and complex calculations.</li>\n\t<li>This scripting language is tightly integrated with Excel&#39;s Visual Basic for Applications (VBA) environment, providing a powerful tool for customization and automation.</li>\n\t<li>VB Script allows users to interact with Excel objects like workbooks, worksheets, and cells programmatically, making it an essential skill for advanced Excel users.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Benefits of Using Macros in Excel:</strong>\n\n\t<ul>\n\t\t<li><strong>Automation:</strong> Macros reduce the need for repetitive manual tasks, saving time and effort.</li>\n\t\t<li><strong>Efficiency:</strong> They increase productivity by automating complex processes and ensuring consistency in task execution.</li>\n\t\t<li><strong>Customization:</strong> Users can tailor macros to meet specific business or personal requirements.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Common Applications of Excel Macros:</strong>\n\t<ul>\n\t\t<li><strong>Data Entry:</strong> Automating the process of importing and organizing data in Excel sheets.</li>\n\t\t<li><strong>Report Generation:</strong> Creating and formatting reports with a single click.</li>\n\t\t<li><strong>Data Analysis:</strong> Performing calculations, generating charts, and summarizing data automatically.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Best Practices for Using Macros:</strong>\n\t<ul>\n\t\t<li>Always test macros on a backup file to avoid unintentional data loss.</li>\n\t\t<li>Use descriptive names for macros to make them easier to identify and manage.</li>\n\t\t<li>Document the purpose and functionality of macros for future reference.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Important Points:</strong>\n\t<ul>\n\t\t<li>Macros can be enabled or disabled in Excel settings to ensure security and prevent unauthorized code execution.</li>\n\t\t<li>Using password protection can help secure macro-enabled Excel files.</li>\n\t\t<li>Learning VB Script and VBA can significantly enhance Excel skills and career prospects.</li>\n\t</ul>\n\t</li>\n</ul>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q18",
+      "number": 18,
+      "question": "In MS PowerPoint 2019, which shortcut key is used to copy the attributes of a selected shape?",
+      "questionHtml": "<span style=\"\">In MS PowerPoint 2019, which shortcut key is used to copy the attributes of a selected shape?</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alt + Shift + C",
+          "html": "<span style=\"\">Alt + Shift + C</span>"
+        },
+        {
+          "id": "B",
+          "text": "Ctrl + Alt + C",
+          "html": "<span style=\"\">Ctrl + Alt + C</span>"
+        },
+        {
+          "id": "C",
+          "text": "Shift + Tab + C",
+          "html": "<span style=\"\">Shift + Tab + C</span>"
+        },
+        {
+          "id": "D",
+          "text": "Ctrl + Shift + C",
+          "html": "<span style=\"\">Ctrl + Shift + C</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The correct answer is&nbsp;<u><strong>Ctrl + Shift + C</strong></u>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li>Press CTRL + SHIFT + C&nbsp;to copy the&nbsp;shape attributes in MS PowerPoint 2019.</li>\n</ul>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>​​Ms PowerPoint shortcut keys:&nbsp;&nbsp;</strong></li>\n</ul>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:300px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\"><strong>Shortcut key&nbsp;</strong></td>\n\t\t\t<td style=\"text-align: center;\"><strong>Use</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Ctrl+N:&nbsp;</td>\n\t\t\t<td style=\"text-align: center;\">Create a new presentation</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Ctrl+O:</td>\n\t\t\t<td style=\"text-align: center;\">Open an existing presentation</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Ctrl+S:</td>\n\t\t\t<td style=\"text-align: center;\">Save a presentation</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">F12 or Alt+F2</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;Open the Save As dialog box</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Ctrl+W&nbsp;</td>\n\t\t\t<td style=\"text-align: center;\">Close a presentation</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Ctrl+Q</td>\n\t\t\t<td style=\"text-align: center;\">Save and close a presentation</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Ctrl+Z</td>\n\t\t\t<td style=\"text-align: center;\">Undo an action</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Ctrl+Y</td>\n\t\t\t<td style=\"text-align: center;\">Redo an action</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">Ctrl+F2</td>\n\t\t\t<td style=\"text-align: center;\">&nbsp;Print Preview View</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q19",
+      "number": 19,
+      "question": "Which of the following operating system provides users with Graphical User Interface (GUI) and multitasking capability?",
+      "questionHtml": "Which of the following operating system provides users with Graphical User Interface (GUI) and multitasking capability?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Windows and MS-DOS 2.0",
+          "html": "Both Windows and MS-DOS 2.0"
+        },
+        {
+          "id": "B",
+          "text": "Both Linux and MS-DOS 2.0",
+          "html": "Both Linux and MS-DOS 2.0"
+        },
+        {
+          "id": "C",
+          "text": "Both Linux and Windows",
+          "html": "<span style=\"\">Both&nbsp;</span>Linux and Windows"
+        },
+        {
+          "id": "D",
+          "text": "Only MS-DOS 2.0",
+          "html": "<span style=\"\">Only&nbsp;</span>MS-DOS 2.0"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The correct answer is&nbsp;<span style=\"font-weight: 700; \">&quot;</span><strong>Both Linux and Windows</strong><span style=\"font-weight: 700; \">&quot;</span>.</p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Key Points</u></span></strong></span></p>\n\n<ul>\n\t<li><strong>Linux:&nbsp;</strong><strong>Linux </strong>is a good example of an <strong>open-source operating system</strong> invented by <strong>Linus Torvalds</strong> in the year <strong>1991</strong>. Like any other kind of operating system, Linux also builds communication between the hardware and the software.\n\n\t<ul>\n\t\t<li>It comes with both <strong>Graphical User Interface </strong>and <strong>Command Line Interface</strong>.</li>\n\t\t<li>The Linux operating system has many advantages. It is a very secure operating system. So that malware and viruses cannot attack the operating system. It is very<strong> flexible </strong>and can be installed in <strong>desktop applications </strong>as well as <strong>server applications</strong>.</li>\n\t\t<li>It is also multiprogramming, and multitasking like other kinds of operating systems and as well as it supports multi-user.</li>\n\t</ul>\n\t</li>\n\t<li><strong>Windows:&nbsp;Microsoft </strong>first introduced its <strong>first GUI (Graphical User Interface) based operating system</strong>, named <strong>Microsoft Windows</strong> in the year <strong>1983</strong>.\n\t<ul>\n\t\t<li>Microsoft Windows can perform all the tasks just like an operating system does. It can execute multiple instructions at a time.&nbsp;</li>\n\t\t<li>It also made communication between the hardware and software.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p><strong>Thus the correct answer is </strong><em>Both Linux and Windows</em>.</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/key-point-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "7b14a02a1810-q20",
+      "number": 20,
+      "question": "In MS&shy; - Word, how will respond in repeated word?",
+      "questionHtml": "In MS&shy; - Word, how will respond in repeated word?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "A Red wavy line under the repeated word",
+          "html": "A Red wavy line under the repeated word&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "A Green wavy line under the repeated word",
+          "html": "A Green wavy line under the repeated word"
+        },
+        {
+          "id": "C",
+          "text": "A Blue wavy line under the repeated word",
+          "html": "A Blue wavy line under the repeated word"
+        },
+        {
+          "id": "D",
+          "text": "None of the above",
+          "html": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "When a word is repeated in MS Word, the software indicates the repetition by displaying a red wavy line under the repeated word. This feature helps users identify and correct duplicate words in their documents.",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

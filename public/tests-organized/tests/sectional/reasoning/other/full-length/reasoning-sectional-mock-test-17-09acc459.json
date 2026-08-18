@@ -1,0 +1,865 @@
+{
+  "id": "09acc459a502",
+  "provider": "RBE_Mocks",
+  "sourceFile": "Reasoning_Sectional_Mock_Test-17.html",
+  "sourcePath": "RBE_MOCKS/Reasoning_Sectional_Mock_Test-17.html",
+  "title": "Reasoning Sectional Mock Test-17",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 90,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "09acc459a502-q1",
+      "number": 1,
+      "question": "Find out the wrong number in the following number series. 5, 11, 23, 43, 78, 115",
+      "questionHtml": "<p>Find out the wrong number in the following number series.</p><p>5, 11, 23, 43, 78, 115</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "115",
+          "html": "<p>115</p>"
+        },
+        {
+          "id": "B",
+          "text": "43",
+          "html": "<p>43</p>"
+        },
+        {
+          "id": "C",
+          "text": "78",
+          "html": "<p>78</p>"
+        },
+        {
+          "id": "D",
+          "text": "23",
+          "html": "<p>23</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>5 + (2² + 2) = 11<br/>11 + (3² + 3) = 23<br/>23 + (4² + 4) = 43<br/>43 + (5² + 5) = 73<br/>73 + (6² + 6) = 115</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q2",
+      "number": 2,
+      "question": "Statement: The book which I read yesterday, was the best. Conclusions: (A) The other books which I read, were not excellent (B) The book which I read yesterday, was the best book among all the books that I have ever read. (C) The book of yesterday was as good as other books (D) The book of yesterday was excellent Pick the option which is definitely correct.",
+      "questionHtml": "<p>Statement:</p><p>The book which I read yesterday, was the best.</p><p>Conclusions:</p><p>(A) The other books which I read, were not excellent<br/>(B) The book which I read yesterday, was the best book among all the books that I have ever read.<br/>(C) The book of yesterday was as good as other books<br/>(D) The book of yesterday was excellent</p><p>Pick the option which is definitely correct.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only conclusion I follows",
+          "html": "<p>Only conclusion I follows</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only conclusion II follows",
+          "html": "<p>Only conclusion II follows</p>"
+        },
+        {
+          "id": "C",
+          "text": "Only conclusion III follow",
+          "html": "<p>Only conclusion III follow</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither I nor III follows",
+          "html": "<p>Neither I nor III follows</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The book which I read yesterday, was the best book among all the books that I have ever read.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q3",
+      "number": 3,
+      "question": "In a certain code language, 'QUITE' is coded as '216', and 'PROVE' is coded as '228'. What is the code for 'EXIST' in that code language?",
+      "questionHtml": "<p>In a certain code language, 'QUITE' is coded as '216', and 'PROVE' is coded as '228'.<br/>What is the code for 'EXIST' in that code language?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "258",
+          "html": "<p>258</p>"
+        },
+        {
+          "id": "B",
+          "text": "252",
+          "html": "<p>252</p>"
+        },
+        {
+          "id": "C",
+          "text": "231",
+          "html": "<p>231</p>"
+        },
+        {
+          "id": "D",
+          "text": "256",
+          "html": "<p>256</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>QUITE<br/>→ Positions: Q=17, U=21, I=9, T=20, E=5<br/>→ Sum = 17 + 21 + 9 + 20 + 5 = 72<br/>→ 72 × 3 = 216 </p><p>PROVE<br/>→ P=16, R=18, O=15, V=22, E=5<br/>→ Sum = 16 + 18 + 15 + 22 + 5 = 76<br/>→ 76 × 3 = 228 </p><p>E = 5<br/>X = 24<br/>I = 9<br/>S = 19<br/>T = 20</p><p>Sum = 5 + 24 + 9 + 19 + 20 = 77</p><p>→ 77 × 3 = 231</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q4",
+      "number": 4,
+      "question": "Find missing number 3, 5, 15, 41, _____",
+      "questionHtml": "<p>Find missing number </p><p>3, 5, 15, 41, _____</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "19",
+          "html": "<p>19</p>"
+        },
+        {
+          "id": "B",
+          "text": "72",
+          "html": "<p>72</p>"
+        },
+        {
+          "id": "C",
+          "text": "91",
+          "html": "<p>91</p>"
+        },
+        {
+          "id": "D",
+          "text": "85",
+          "html": "<p>85</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>First differences:<br/>5−3 = 2<br/>15−5 = 10<br/>41−15 = 26</p><p>Second differences:<br/>10−2 = 8<br/>26−10 = 16<br/>⟶ Next: 24 (difference of 8)</p><p>Next first difference:<br/>26 + 24 = 50</p><p>Next number:<br/>41 + 50 = 91</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q5",
+      "number": 5,
+      "question": "Statement: Cricket Boards president said, \"The people who will be interviewed are Former Indian wicket keeper and they are suitable for the post of 'Coach.'\" Conclusion: I. The head of the board believes that the wicket keeper is the best option for the post of Coach. II. Former wicket keeper has more experience on the pitch.",
+      "questionHtml": "<p>Statement:</p><p>Cricket Boards president said, \"The people who will be interviewed are Former Indian wicket keeper and they are suitable for the post of 'Coach.'\"</p><p>Conclusion:</p><p>I. The head of the board believes that the wicket keeper is the best option for the post of Coach.<br/>II. Former wicket keeper has more experience on the pitch.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only conclusion I follows",
+          "html": "<p>Only conclusion I follows</p>"
+        },
+        {
+          "id": "B",
+          "text": "Both conclusion follows",
+          "html": "<p>Both conclusion follows</p>"
+        },
+        {
+          "id": "C",
+          "text": "No conclusion follows",
+          "html": "<p>No conclusion follows</p>"
+        },
+        {
+          "id": "D",
+          "text": "Only conclusion II follows",
+          "html": "<p>Only conclusion II follows</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Conclusion I – “The head of the board believes that the wicket keeper is the best option for the post of Coach.”</p><p>Conclusion II – “Former wicket keeper has more experience on the pitch.”</p><p>Final Answer: Both conclusions follow</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q6",
+      "number": 6,
+      "question": "Find the missing number? 6: 12 :: 4 : ?",
+      "questionHtml": "<p>Find the missing number?</p><p>6: 12 :: 4 : ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "html": "<p>12</p>"
+        },
+        {
+          "id": "B",
+          "text": "24",
+          "html": "<p>24</p>"
+        },
+        {
+          "id": "C",
+          "text": "34",
+          "html": "<p>34</p>"
+        },
+        {
+          "id": "D",
+          "text": "21",
+          "html": "<p>21</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>6³ = 216 → 2 × 1 × 6 = 12</p><p>4³ = 64 → 6 × 4 = 24</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q7",
+      "number": 7,
+      "question": "Find the missing number? 15: 20 :: 21 : ?",
+      "questionHtml": "<p>Find the missing number?</p><p>15: 20 :: 21 : ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20",
+          "html": "<p>20</p>"
+        },
+        {
+          "id": "B",
+          "text": "16",
+          "html": "<p>16</p>"
+        },
+        {
+          "id": "C",
+          "text": "85",
+          "html": "<p>85</p>"
+        },
+        {
+          "id": "D",
+          "text": "29",
+          "html": "<p>29</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>15² = 225 → 2 × 2 × 5 = 20</p><p>21² = 441 → 4 × 4 × 1 = 16</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q8",
+      "number": 8,
+      "question": "Which of the following groups of letters when sequentially placed from left to right will complete the given series? cd_fc_efcdefcde_cdefcde_cdef",
+      "questionHtml": "<p>Which of the following groups of letters when sequentially placed from left to right will complete the given series?</p><p>cd_fc_efcdefcde_cdefcde_cdef</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "efdf",
+          "html": "<p>efdf</p>"
+        },
+        {
+          "id": "B",
+          "text": "cddf",
+          "html": "<p>cddf</p>"
+        },
+        {
+          "id": "C",
+          "text": "edff",
+          "html": "<p>edff</p>"
+        },
+        {
+          "id": "D",
+          "text": "fcde",
+          "html": "<p>fcde</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Total letters = 28<br/>Divide into 7 groups of 4 letters</p><p>Hence, all blocks = clear 4-letter group repeating in “rotated” format of \"cdef\"</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q9",
+      "number": 9,
+      "question": "You are part of a group project. One member continuously takes credit for the group’s work without contributing. The teacher praises him without knowing the truth. What would be the most socially intelligent response?",
+      "questionHtml": "<p>You are part of a group project. One member continuously takes credit for the group’s work without contributing. The teacher praises him without knowing the truth. What would be the most socially intelligent response?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Argue with the member in front of the teacher.",
+          "html": "<p>Argue with the member in front of the teacher.</p>"
+        },
+        {
+          "id": "B",
+          "text": "Stop working and let the project fail.",
+          "html": "<p>Stop working and let the project fail.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Request a private meeting with the teacher to share the truth politely.",
+          "html": "<p>Request a private meeting with the teacher to share the truth politely.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Publicly accuse him of dishonesty during class.",
+          "html": "<p>Publicly accuse him of dishonesty during class.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Request a private meeting with the teacher to share the truth politely.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q10",
+      "number": 10,
+      "question": "Read the following statements carefully and choose the most appropriate option: Assertion (A): Greenland is completely green. Reason (R): Polar regions remain covered with snow throughout the year.",
+      "questionHtml": "<p>Read the following statements carefully and choose the most appropriate option:</p><p>Assertion (A): Greenland is completely green.</p><p>Reason (R): Polar regions remain covered with snow throughout the year.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are false",
+          "html": "<p>Both A and R are false</p>"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true, but R is not the correct explanation of A",
+          "html": "<p>Both A and R are true, but R is not the correct explanation of A</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are true, and R is the correct explanation of A",
+          "html": "<p>Both A and R are true, and R is the correct explanation of A</p>"
+        },
+        {
+          "id": "D",
+          "text": "A is false, but R is true",
+          "html": "<p>A is false, but R is true</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Greenland is not completely green; it's mostly covered in ice. But the reason is true: polar regions do remain snow-covered year-round.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q11",
+      "number": 11,
+      "question": "Statements: Only a few Average is Rate No Rate is Price Some Average is Cost Conclusions: I. Some Price is Cost II. No Cost is Price",
+      "questionHtml": "<p>Statements:</p><p>Only a few Average is Rate</p><p>No Rate is Price</p><p>Some Average is Cost</p><p>Conclusions: </p><p>I. Some Price is Cost </p><p>II. No Cost is Price</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only II follows",
+          "html": "<p>Only II follows</p>"
+        },
+        {
+          "id": "B",
+          "text": "Neither I nor II follows",
+          "html": "<p>Neither I nor II follows</p>"
+        },
+        {
+          "id": "C",
+          "text": "Either I or II follows",
+          "html": "<p>Either I or II follows</p>"
+        },
+        {
+          "id": "D",
+          "text": "Both I and II follow",
+          "html": "<p>Both I and II follow</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755085613299_image001.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q12",
+      "number": 12,
+      "question": "Statement: Essay writing is an art. It requires an understanding of the subject as well as a command over the language to be able to write a good essay. Assumptions: I. Essays cannot be written without complete mastery over the subject. II. Anyone with a good command over the language can write a good essay.",
+      "questionHtml": "<p>Statement:</p><p>Essay writing is an art. It requires an understanding of the subject as well as a command over the language to be able to write a good essay.</p><p>Assumptions:</p><p>I. Essays cannot be written without complete mastery over the subject. </p><p>II. Anyone with a good command over the language can write a good essay.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only assumption II is implicit",
+          "html": "<p>Only assumption II is implicit</p>"
+        },
+        {
+          "id": "B",
+          "text": "Neither assumption I nor II is implicit",
+          "html": "<p>Neither assumption I nor II is implicit</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both assumptions I and II are implicit",
+          "html": "<p>Both assumptions I and II are implicit</p>"
+        },
+        {
+          "id": "D",
+          "text": "Only assumption I is implicit",
+          "html": "<p>Only assumption I is implicit</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Assumption I talks about complete mastery — but the statement only mentions understanding, not mastery. So I is not implicit.</p><p>Assumption II says anyone with good command over language can write a good essay — but the statement says both subject understanding and language are needed. So II is also not implicit.</p><p>Hence, neither assumption is implicit</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q13",
+      "number": 13,
+      "question": "In a certain code language, 'river boat bridge water' is written as ‘ti no ko so’, 'boat hill bridge road' is written as ‘ko mo ti lo’, 'river bridge road' is written as ‘ti lo so’, and 'hill boat river' is written as ‘mo no so’. How is ‘bridge’ written in the given language?",
+      "questionHtml": "<p>In a certain code language, 'river boat bridge water' is written as ‘ti no ko so’, 'boat hill bridge road' is written as ‘ko mo ti lo’, 'river bridge road' is written as ‘ti lo so’, and 'hill boat river' is written as ‘mo no so’.<br/>How is ‘bridge’ written in the given language?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ti",
+          "html": "<p>ti</p>"
+        },
+        {
+          "id": "B",
+          "text": "so",
+          "html": "<p>so</p>"
+        },
+        {
+          "id": "C",
+          "text": "ko",
+          "html": "<p>ko</p>"
+        },
+        {
+          "id": "D",
+          "text": "mo",
+          "html": "<p>mo</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>‘river boat bridge water’ → ti, no, ko, so</p><p>‘boat hill bridge road’ → ko, mo, ti, lo<br/>Common words: boat, bridge<br/>Common codes: ko, ti</p><p>'boat hill bridge road' is written as ‘ko mo ti lo’,</p><p>'river bridge road' is written as ‘ti lo so’,</p><p>Common words: road, bridge</p><p>Common codes: ti lo</p><p>'river boat bridge water' is written as ‘ti no ko so’,</p><p>'river bridge road' is written as ‘ti lo so’,</p><p>Common words: river bridge</p><p>Common codes: ti so</p><p>Code for bridge is ti</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q14",
+      "number": 14,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755085613299_image002.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755085613299_image002.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "49",
+          "html": "<p>49</p>"
+        },
+        {
+          "id": "B",
+          "text": "94",
+          "html": "<p>94</p>"
+        },
+        {
+          "id": "C",
+          "text": "98",
+          "html": "<p>98</p>"
+        },
+        {
+          "id": "D",
+          "text": "89",
+          "html": "<p>89</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755085613299_image003.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q15",
+      "number": 15,
+      "question": "Pointing to a woman, Raghav said, “She is the daughter of the only son of my father’s father.” How is the woman related to Raghav?",
+      "questionHtml": "<p>Pointing to a woman, Raghav said, “She is the daughter of the only son of my father’s father.” How is the woman related to Raghav? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sister",
+          "html": "<p>Sister</p>"
+        },
+        {
+          "id": "B",
+          "text": "Mother",
+          "html": "<p>Mother</p>"
+        },
+        {
+          "id": "C",
+          "text": "Daughter-in-law",
+          "html": "<p>Daughter-in-law</p>"
+        },
+        {
+          "id": "D",
+          "text": "Cannot be determined",
+          "html": "<p>Cannot be determined</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755085613299_image007.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q16",
+      "number": 16,
+      "question": "Caterpillar : Butterfly :: Tadpole : ?",
+      "questionHtml": "<p>Caterpillar : Butterfly :: Tadpole : ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Crocodile",
+          "html": "<p>Crocodile</p>"
+        },
+        {
+          "id": "B",
+          "text": "Snake",
+          "html": "<p>Snake</p>"
+        },
+        {
+          "id": "C",
+          "text": "Frog",
+          "html": "<p>Frog</p>"
+        },
+        {
+          "id": "D",
+          "text": "Fish",
+          "html": "<p>Fish</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>A caterpillar transforms into a butterfly, a tadpole transforms into a frog — growth/metamorphosis relationship.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q17",
+      "number": 17,
+      "question": "Statement: In 2021, the government of country M regulated the fishing industry by announcing that each fisherman can take their boat for fishing only once a day. Which of the following can be concluded from the given information? I. The sale of fishing boats in country M will double in the coming years. II. Fishermen with bigger boats will benefit more from this regulation as compared to those who have smaller boats.",
+      "questionHtml": "<p>Statement:<br/> In 2021, the government of country M regulated the fishing industry by announcing that each fisherman can take their boat for fishing only once a day.</p><p>Which of the following can be concluded from the given information?<br/> I. The sale of fishing boats in country M will double in the coming years.<br/> II. Fishermen with bigger boats will benefit more from this regulation as compared to those who have smaller boats.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both I and II can be concluded from the given information.",
+          "html": "<p>Both I and II can be concluded from the given information.</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only I can be concluded from the given information.",
+          "html": "<p>Only I can be concluded from the given information.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Only II can be concluded from the given information.",
+          "html": "<p>Only II can be concluded from the given information.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither I nor II can be concluded from the given information.",
+          "html": "<p>Neither I nor II can be concluded from the given information.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Statement:</strong></p><p>In 2021, the government of country M regulated the fishing industry by announcing that each fisherman can take their boat for fishing only once a day.</p><p><strong>Conclusion I:</strong></p><p>The sale of fishing boats in country M will double in the coming years.</p><p>→ This is speculative. The statement does not mention any trend or prediction about boat sales. ❌</p><p><strong>Conclusion II:</strong></p><p>Fishermen with bigger boats will benefit more from this regulation as compared to those who have smaller boats.</p><p>→ This is a reasonable inference. Since fishing is limited to once a day, those with bigger boats can potentially catch more in a single trip, giving them an advantage. ✅</p><p>Answer: (3) Only II can be concluded from the given information.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q18",
+      "number": 18,
+      "question": "Which one of the given addresses is EXACTLY the same as the one given below? Sigma Infotech Pvt. Ltd. Unit No. 18C, Techno Park Phase – 1, Electronic City BENGALURU – 560100",
+      "questionHtml": "<p>Which one of the given addresses is EXACTLY the same as the one given below?</p><p>Sigma Infotech Pvt. Ltd.<br/> Unit No. 18C, Techno Park<br/> Phase – 1, Electronic City<br/> BENGALURU – 560100</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unit No. 18C Techno Park Phase – I, Electronic City BENGALURU – 560100",
+          "html": "<p>Unit No. 18C Techno Park </p><p> Phase – I, Electronic City </p><p> BENGALURU – 560100</p>"
+        },
+        {
+          "id": "B",
+          "text": "Sigma Infotech Pvt. Ltd. Unit No. 18C, Techno Park Phase – 1, Electronic City BENGALURU – 560100",
+          "html": "<p>Sigma Infotech Pvt. Ltd.<br/> Unit No. 18C, Techno Park<br/> Phase – 1, Electronic City<br/> BENGALURU – 560100</p>"
+        },
+        {
+          "id": "C",
+          "text": "Sigma Infotech Pvt. Ltd. Unit No. 18C, Techno Park Phase – I, Electronic City BENGALURU – 506100",
+          "html": "<p>Sigma Infotech Pvt. Ltd.<br/> Unit No. 18C, Techno Park<br/> Phase – I, Electronic City<br/> BENGALURU – 506100</p>"
+        },
+        {
+          "id": "D",
+          "text": "Sigma InfoTech Pvt. Ltd. Unit No. 18C, Techno Park Phase – I Electronic City BENGALURU – 560010",
+          "html": "<p>Sigma InfoTech Pvt. Ltd.<br/> Unit No. 18C, Techno Park<br/> Phase – I Electronic City<br/> BENGALURU – 560010</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Sigma Infotech Pvt. Ltd.<br/> Unit No. 18C, Techno Park<br/> Phase – 1, Electronic City<br/> BENGALURU – 560100</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q19",
+      "number": 19,
+      "question": "Priya started walking from her home. She walked 45 metres towards the north, then turned left and walked 30 metres. After that, she turned right and walked 20 metres. Then she turned right again and walked 30 metres. Finally, she turned left and walked 25 metres to reach her office. How far and in which direction is her office from her starting point?",
+      "questionHtml": "<p>Priya started walking from her home. She walked 45 metres towards the north, then turned left and walked 30 metres. After that, she turned right and walked 20 metres. Then she turned right again and walked 30 metres. Finally, she turned left and walked 25 metres to reach her office.</p><p>How far and in which direction is her office from her starting point?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "90 m towards North",
+          "html": "<p>90 m towards North</p>"
+        },
+        {
+          "id": "B",
+          "text": "65 m towards East",
+          "html": "<p>65 m towards East</p>"
+        },
+        {
+          "id": "C",
+          "text": "40 m towards North",
+          "html": "<p>40 m towards North</p>"
+        },
+        {
+          "id": "D",
+          "text": "60 m towards West",
+          "html": "<p>60 m towards West</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755085613299_image008.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q20",
+      "number": 20,
+      "question": "Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation. 18 * 6 * 3 * 2 * 1 = 10",
+      "questionHtml": "<p>Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation.</p><p>18 * 6 * 3 * 2 * 1 = 10</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "÷, +, ×, −",
+          "html": "<p>÷, +, ×, −</p>"
+        },
+        {
+          "id": "B",
+          "text": "−, ÷, ×, +",
+          "html": "<p>−, ÷, ×, +</p>"
+        },
+        {
+          "id": "C",
+          "text": "−, ×, ÷, +",
+          "html": "<p>−, ×, ÷, +</p>"
+        },
+        {
+          "id": "D",
+          "text": "−, ÷, +, ×",
+          "html": "<p>−, ÷, +, ×</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>18 − 6 × 3 ÷ 2 + 1</strong></p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q21",
+      "number": 21,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755085613299_image009.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1755085613299_image009.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "49/9",
+          "html": "<p>49/9</p>"
+        },
+        {
+          "id": "B",
+          "text": "50/9",
+          "html": "<p>50/9</p>"
+        },
+        {
+          "id": "C",
+          "text": "48/9",
+          "html": "<p>48/9</p>"
+        },
+        {
+          "id": "D",
+          "text": "51/9",
+          "html": "<p>51/9</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Observe the differences:</p><p>Next term = 41 + 9 = 50</p><p>So the next term is: 50/9</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q22",
+      "number": 22,
+      "question": "Select the correct alternative to indicate the arrangement of the following words in a logical and meaningful order:",
+      "questionHtml": "<p>Select the correct alternative to indicate the arrangement of the following words in a logical and meaningful order:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 5, 3, 4, 2",
+          "html": "<p>1, 5, 3, 4, 2</p>"
+        },
+        {
+          "id": "B",
+          "text": "1, 3, 5, 4, 2",
+          "html": "<p>1, 3, 5, 4, 2</p>"
+        },
+        {
+          "id": "C",
+          "text": "1, 5, 4, 3, 2",
+          "html": "<p>1, 5, 4, 3, 2</p>"
+        },
+        {
+          "id": "D",
+          "text": "1, 5, 4, 2, 3",
+          "html": "<p>1, 5, 4, 2, 3</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>This is a biological growth sequence of a plant:</p><p>Hence, the correct logical order is:<br/>1 → 5 → 3 → 4 → 2</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q23",
+      "number": 23,
+      "question": "Statement: An amendment to the Industrial Employment Act, 1946 to prevent sexual harassment at workplace by Indian women's organisation was happily welcomed. Conclusions: I. In developing countries like India, sexual harassment of women is more than other developed countries at workplace. II. Many companies in India will stop hiring women to avoid such problems.",
+      "questionHtml": "<p>Statement:</p><p>An amendment to the Industrial Employment Act, 1946 to prevent sexual harassment at workplace by Indian women's organisation was happily welcomed.</p><p>Conclusions:</p><p>I. In developing countries like India, sexual harassment of women is more than other developed countries at workplace.</p><p>II. Many companies in India will stop hiring women to avoid such problems.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neither conclusion I nor conclusion II follows.",
+          "html": "<p>Neither conclusion I nor conclusion II follows.</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only conclusion II follows.",
+          "html": "<p>Only conclusion II follows.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Either conclusion I or II follows.",
+          "html": "<p>Either conclusion I or II follows.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Only conclusion I follows.",
+          "html": "<p>Only conclusion I follows.</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Statement:</p><p>An amendment to the Industrial Employment Act, 1946 to prevent sexual harassment at workplace by Indian women's organisation was happily welcomed.</p><p>Conclusion I:</p><p>In developing countries like India, sexual harassment of women is more than other developed countries at workplace.</p><p>→ This is not implicit. The statement mentions India and workplace harassment, but makes no comparison with other countries. ❌</p><p>Conclusion II:</p><p>Many companies in India will stop hiring women to avoid such problems.</p><p>→ This is speculative and pessimistic. The statement talks about a preventive amendment being welcomed, not about companies reacting negatively. ❌</p><p>Answer: Neither conclusion I nor conclusion II follows.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q24",
+      "number": 24,
+      "question": "Study the following input and the steps carefully. Answer the question given below: Input: sun 42 bright 17 sky 36 moon 23 Step I: bright sun 42 17 sky 36 moon 23 Step II: bright moon sun 42 17 sky 36 23 Step III: bright moon sky sun 42 17 36 23 Step IV: bright moon sky sun 17 23 36 42 What is the logic used in this arrangement?",
+      "questionHtml": "<p>Study the following input and the steps carefully. Answer the question given below:</p><p>Input:<br/>sun 42 bright 17 sky 36 moon 23</p><p>Step I: bright sun 42 17 sky 36 moon 23<br/>Step II: bright moon sun 42 17 sky 36 23<br/>Step III: bright moon sky sun 42 17 36 23<br/>Step IV: bright moon sky sun 17 23 36 42</p><p>What is the logic used in this arrangement?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Words in reverse alphabetical order, numbers in descending order",
+          "html": "<p>Words in reverse alphabetical order, numbers in descending order</p>"
+        },
+        {
+          "id": "B",
+          "text": "Words in alphabetical order, numbers in descending order",
+          "html": "<p>Words in alphabetical order, numbers in descending order</p>"
+        },
+        {
+          "id": "C",
+          "text": "Words in alphabetical order, numbers in ascending order",
+          "html": "<p>Words in alphabetical order, numbers in ascending order</p>"
+        },
+        {
+          "id": "D",
+          "text": "Words in reverse alphabetical order, numbers in ascending order",
+          "html": "<p>Words in reverse alphabetical order, numbers in ascending order</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>First Part (Words):</p><p>Words in input: sun, bright, sky, moon<br/>→ Alphabetical order: bright, moon, sky, sun</p><p>That’s how the first 4 positions are arranged.</p><p>Second Part (Numbers):</p><p>Numbers in input: 42, 17, 36, 23<br/>→ Ascending order: 17, 23, 36, 42</p><p>That’s how the last 4 positions are arranged.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "09acc459a502-q25",
+      "number": 25,
+      "question": "Given below is a 'main statement' followed by four subsidiary statements. From the given options, choose the ordered pair of subsidiary statements, where the first statement implies the second and the two statements are logically consistent with the main statement. Main Statement: You can drive over 60 km/h only on the national highways. Subsidiary Statements: A. You are on the national highways. B. You cannot drive over 60 km/h. C. You can drive over 60 km/h. D. You are not on the national highway.",
+      "questionHtml": "<p>Given below is a 'main statement' followed by four subsidiary statements.<br/>From the given options, choose the ordered pair of subsidiary statements, where the first statement implies the second and the two statements are logically consistent with the main statement.</p><p>Main Statement:</p><p>You can drive over 60 km/h only on the national highways.</p><p>Subsidiary Statements:</p><p>A. You are on the national highways.<br/>B. You cannot drive over 60 km/h.<br/>C. You can drive over 60 km/h.<br/>D. You are not on the national highway.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "DB",
+          "html": "<p>DB</p>"
+        },
+        {
+          "id": "B",
+          "text": "DA",
+          "html": "<p>DA</p>"
+        },
+        {
+          "id": "C",
+          "text": "CD",
+          "html": "<p>CD</p>"
+        },
+        {
+          "id": "D",
+          "text": "AB",
+          "html": "<p>AB</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Out of the given pairs, option (a) is the required answer.<br/>In which the given statement B (\"You cannot drive over 60 km/h\") is implicit in statement D (\"You are not on the national highway\") — because according to the main statement, only on national highways can you drive over 60 km/h.</p><p>So if you are not on a national highway (D), then you cannot drive over 60 km/h (B).</p><p>Hence, both D ⇒ B and both are logically consistent with the main statement.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

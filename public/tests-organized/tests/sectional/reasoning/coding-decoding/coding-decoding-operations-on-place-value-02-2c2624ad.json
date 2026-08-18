@@ -1,0 +1,1787 @@
+{
+  "id": "2c2624ad7539",
+  "provider": "Testbook",
+  "sourceFile": "Coding Decoding - Operations on Place Value - 02.html",
+  "sourcePath": "Testbook/files/Coding Decoding - Operations on Place Value - 02.html",
+  "title": "Coding Decoding - Operations on Place Value - 02",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "2c2624ad7539-q1",
+      "number": 1,
+      "question": "In a code language, 'MUMBAI' is written as &lsquo;N46&rsquo; and &lsquo;KOLKATA&rsquo; is written as &lsquo;L60&rsquo;. How will 'LUCKNOW' be written in that language?",
+      "questionHtml": "&nbsp;In a code language, &#39;MUMBAI&#39; is written as &lsquo;N46&rsquo; and &lsquo;KOLKATA&rsquo; is written as &lsquo;L60&rsquo;. How will &#39;LUCKNOW&#39; be written in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "K85",
+          "html": "K85"
+        },
+        {
+          "id": "B",
+          "text": "M87",
+          "html": "M87"
+        },
+        {
+          "id": "C",
+          "text": "M82",
+          "html": "M82"
+        },
+        {
+          "id": "D",
+          "text": "Q97",
+          "html": "Q97"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Logic:</span><span style=\"font-weight: bolder;\"> (First letter +1) and sum of the place value of the rest of the letter = code of the word.</span></p>\n\n<p> 'LUCKNOW' be written </p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ L (12) +1 = M (13), (21 + 3 + 11 + 14 + 15 + 23) = M82</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q2",
+      "number": 2,
+      "question": "In a certain code language, 'COSTLY' is written as '470', 'COFFEE' is written as '200', how will 'CORNER' be written in that language?",
+      "questionHtml": "In a certain code language, &#39;COSTLY&#39; is written as &#39;470&#39;, &#39;COFFEE&#39; is written as &#39;200&#39;, how will &#39;CORNER&#39; be written in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "365",
+          "html": "365"
+        },
+        {
+          "id": "B",
+          "text": "390",
+          "html": "390"
+        },
+        {
+          "id": "C",
+          "text": "380",
+          "html": "380"
+        },
+        {
+          "id": "D",
+          "text": "400",
+          "html": "400"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"\">The logic here followed is&nbsp;</p>\n\n<p style=\"\">C + O + S + T + L + Y = 3 + 15 + 19 + 20 + 12 + 25 = 94&nbsp;</p>\n\n<ul>\n\t<li style=\"\">94&nbsp;&times; 5 = 470</li>\n</ul>\n\n<p>And</p>\n\n<p>C + O + F + F + E + E = 3 + 15 + 6 + 6 + 5 + 5 = 40</p>\n\n<ul>\n\t<li>&nbsp;40&nbsp;&times; 5 = 200</li>\n</ul>\n\n<p>Similarly,</p>\n\n<p>C + O + R + N + E + R = 3 + 15 + 18 + 14 + 5 + 18 = 73</p>\n\n<ul>\n\t<li>&nbsp;73&nbsp;&times; 5 = 365</li>\n</ul>\n\n<p>So, the code for&nbsp;<span style=\"\">&#39;</span><span style=\"\">CORNER</span><span style=\"\">&#39;</span>&nbsp;is &#39;365<strong>&#39;</strong>​</p>\n\n<p style=\"\"><b>Hence, the correct answer is 365.</b></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q3",
+      "number": 3,
+      "question": "In a certain code language, &lsquo;FLY&rsquo; is written as &lsquo;38&rsquo; and &lsquo;NUT&rsquo; is written as &lsquo;26&rsquo;. How will &lsquo;GOD&rsquo; be written in that language?",
+      "questionHtml": "In a certain code language, &lsquo;FLY&rsquo; is written as &lsquo;38&rsquo; and &lsquo;NUT&rsquo; is written as &lsquo;26&rsquo;. How will &lsquo;GOD&rsquo; be written in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "55",
+          "html": "55"
+        },
+        {
+          "id": "B",
+          "text": "34",
+          "html": "34"
+        },
+        {
+          "id": "C",
+          "text": "28",
+          "html": "28"
+        },
+        {
+          "id": "D",
+          "text": "46",
+          "html": "46"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/qImage66d83b1e8aa7ea234dea7f51.png\" style=\"height: 121px; width: 450px;\" /></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">The logic followed here is: </span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Logic: <strong>Sum of the opposite letter&#39;s place value of the alphabets = Code.</strong></span></p>\n\n<p>&#39;FLY&#39; is written as &#39;38&#39;</p>\n\n<p>&rarr;&nbsp;<span style=\"color: rgb(33, 37, 41);\">21 + 15 + 2 = 38.</span></p>\n\n<p>&#39;NUT&#39; is written as &#39;26&#39;</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">&rarr; 13 + 6 + 7 = 26.</span></p>\n\n<p>Similarly, for <strong>&#39;GOD&#39;</strong></p>\n\n<p><strong><span style=\"color: rgb(33, 37, 41);\">&rarr;</span>&nbsp;20 + 12 + 23 = 55.</strong></p>\n\n<p>So, &#39;GOD&#39; will be written as &#39;55&#39;.</p>\n\n<p>Hence, the correct answer is <strong>&quot;Option 1&quot;.</strong></p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/qImage66d83b1e8aa7ea234dea7f51.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q4",
+      "number": 4,
+      "question": "In a certain code language, 'EASILY' is written as '142', 'ESCAPE' is written as '98', how will 'FAMILY' be written in that language?",
+      "questionHtml": "In a certain code language, &#39;EASILY&#39; is written as &#39;142&#39;, &#39;ESCAPE&#39; is written as &#39;98&#39;, how will &#39;FAMILY&#39; be written in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "120",
+          "html": "<span style=\"\">120</span>"
+        },
+        {
+          "id": "B",
+          "text": "66",
+          "html": "<span style=\"\">66</span>"
+        },
+        {
+          "id": "C",
+          "text": "132",
+          "html": "<span style=\"\">132</span>"
+        },
+        {
+          "id": "D",
+          "text": "130",
+          "html": "<span style=\"\">130</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"\">According to the English alphabets and their positional values:</span><br style=\"\" />\n<img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/qImage7190.png\" style=\"\" /><br style=\"\" />\n<span style=\"\">The pattern followed in the given codes is:<br />\n&nbsp;<strong>&nbsp;The sum of positional values of all the alphabets&nbsp;</strong></span><strong>&times;&nbsp;2 = Code</strong><br />\n71&nbsp;&times; 2 = 142<img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/04/F6_Savita_SSC_24-4-23_D38.png\" style=\"color: rgb(33, 37, 41); width: 204px; height: 98px;\" /><br />\n49&nbsp;<span style=\"\">&times; 2 = 98&nbsp;</span><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/04/F6_Savita_SSC_24-4-23_D39.png\" style=\"color: rgb(33, 37, 41); width: 202px; height: 96px;\" /><br />\n<span style=\"\">Similarly,</span><br />\n66<span style=\"\">&nbsp;&times; 2 =&nbsp;132</span><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/04/F6_Savita_SSC_24-4-23_D40.png\" style=\"color: rgb(33, 37, 41); width: 206px; height: 97px;\" /></p>\n\n<p><span style=\"\">Hence&nbsp;<strong>the correct answer is option 3)</strong></span>&nbsp;</p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/qImage7190.png",
+        "https://storage.googleapis.com/tb-img/production/23/04/F6_Savita_SSC_24-4-23_D38.png",
+        "https://storage.googleapis.com/tb-img/production/23/04/F6_Savita_SSC_24-4-23_D39.png",
+        "https://storage.googleapis.com/tb-img/production/23/04/F6_Savita_SSC_24-4-23_D40.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q5",
+      "number": 5,
+      "question": "In a certain code language, 'TEA' is coded as 78, and 'SHAKE' is coded as 220. How will 'COFFEE' be coded in that language?",
+      "questionHtml": "In a certain code language, &#39;TEA&#39; is coded as 78, and &#39;SHAKE&#39; is coded as 220. How will &#39;COFFEE&#39; be coded in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "240",
+          "html": "240"
+        },
+        {
+          "id": "B",
+          "text": "160",
+          "html": "160"
+        },
+        {
+          "id": "C",
+          "text": "340",
+          "html": "340"
+        },
+        {
+          "id": "D",
+          "text": "200",
+          "html": "200"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>The position of the letters according to the English alphabet series:<br />\n<img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/05/alphabet.png\" style=\"width: 559px; height: 149px;\" /></p>\n\n<p>The logic here follows is:</p>\n\n<p><u><strong>Adding all the positional values of the given letters, and multiplying by the number of letters.</strong></u></p>\n\n<ul>\n\t<li>In the word, &#39;TEA&#39;&nbsp;the number of letters are &#39;<strong>3</strong>&#39;. <strong>T&rArr;20, E&rArr;5, A&rArr;1</strong></li>\n</ul>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TEA = (20 + 5 + 1) &times; 3</p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TEA = 26&nbsp;&times; 3</p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>TEA = 78</strong></p>\n\n<ul>\n\t<li>In the same way, the word &#39;SHAKE&#39; has number of letters &#39;<strong>5</strong>&#39;. <strong>S&rArr;19, H&rArr;8, A&rArr;1, K&rArr;11, E&rArr;5</strong></li>\n</ul>\n\n<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong>SHAKE = (19 + 8 + 1 + 11 + 5)&nbsp;<span style=\"\">&times; 5</span></p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SHAKE = 44&nbsp;<span style=\"\">&times; 5</span></p>\n\n<p><span style=\"\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>SHAKE = 220</strong></span></p>\n\n<ul>\n\t<li>Similarly, in the word &#39;COFFEE&#39; the number of letters are &#39;<strong>6</strong>&#39;. <strong>C&rArr;3, O&rArr;15, F&rArr;6, E&rArr;5</strong></li>\n</ul>\n\n<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong>COFFEE = (3 + 15 + 6 + 6 + 5 + 5)&nbsp;<span style=\"\">&times; 6</span></p>\n\n<p><span style=\"\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; COFFEE = 40&nbsp;&times; 6&nbsp;</span></p>\n\n<p><span style=\"\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>COFFEE = 240</strong></span></p>\n\n<p><span style=\"\">Hence, the correct answer is &#39;<strong>240.&#39;</strong></span></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/22/05/alphabet.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q6",
+      "number": 6,
+      "question": "In a certain code language, &lsquo;SALT&rsquo; is coded as &lsquo;16&rsquo;, and &lsquo;PICKLE&rsquo; is coded as &lsquo;36&rsquo;. How will &lsquo;PRESERVATIVE&rsquo; be coded in that language?",
+      "questionHtml": "In a certain code language, &lsquo;SALT&rsquo; is coded as &lsquo;16&rsquo;, and &lsquo;PICKLE&rsquo; is coded as &lsquo;36&rsquo;. How will &lsquo;PRESERVATIVE&rsquo; be coded in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "144",
+          "html": "144"
+        },
+        {
+          "id": "B",
+          "text": "88",
+          "html": "88"
+        },
+        {
+          "id": "C",
+          "text": "72",
+          "html": "72"
+        },
+        {
+          "id": "D",
+          "text": "96",
+          "html": "96"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>The logic&nbsp;followed here is:</p>\n\n<ul>\n\t<li>SALT&nbsp;&rarr; Number of letters in the word SALT is 4 and 4<sup>2</sup>&nbsp;= 16</li>\n\t<li>PICKLE&nbsp;<span style=\"\">&rarr; Number of letters in the word PICKLE&nbsp;is 6&nbsp;and 6</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;= 36</span>&nbsp;</li>\n</ul>\n\n<p>Similarly,</p>\n\n<ul>\n\t<li><span style=\"\">PRESERVATIVE&nbsp;&rarr; Number of letters in the word PRESERVATIVE&nbsp;is 12&nbsp;and 12</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">&nbsp;= 144</span><span style=\"\">&nbsp;</span></li>\n</ul>\n\n<p>Hence, &lsquo;<strong>144</strong>&rsquo; is the correct answer.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q7",
+      "number": 7,
+      "question": "In a certain code language, &lsquo;FIGHT&rsquo; is written as &lsquo;45&rsquo; and &lsquo;VENT&rsquo; is written as &lsquo;57&rsquo;.How will &lsquo;TREND&rsquo; be written in that language?",
+      "questionHtml": "In a certain code language, &lsquo;FIGHT&rsquo; is written as &lsquo;45&rsquo; and &lsquo;VENT&rsquo; is written as &lsquo;57&rsquo;.How will &lsquo;TREND&rsquo; be written in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "62",
+          "html": "62"
+        },
+        {
+          "id": "B",
+          "text": "43",
+          "html": "43"
+        },
+        {
+          "id": "C",
+          "text": "56",
+          "html": "56"
+        },
+        {
+          "id": "D",
+          "text": "71",
+          "html": "71"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The positional values of the English alphabet is as follows:</p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/09/alphabet.png\" style=\"width: 559px; height: 149px;\" /></p>\n\n<p>The pattern followed here is:<strong> Sum of positional values of all the letters - Number of letters in the word</strong></p>\n\n<p>&lsquo;FIGHT&rsquo; is written as &lsquo;45&rsquo;&nbsp;</p>\n\n<p>&rArr; F(6) + I(9) + G(7) + H(8) + T(20) = 50 - 5 =&nbsp;<strong>45</strong></p>\n\n<p>And,</p>\n\n<p>&lsquo;VENT&rsquo; is written as &lsquo;57&rsquo;</p>\n\n<p><span style=\"\">&rArr; V(22) + E(5) + N(14) T(20) = 61 - 4&nbsp;<strong>= 57</strong></span></p>\n\n<p>Similarly,</p>\n\n<p>&lsquo;TREND&rsquo; will be written as:</p>\n\n<p>&rArr; T(20) + R(18) + E(5) + N(14) + D(4) =&nbsp;61 - 5&nbsp;=&nbsp;<strong>56</strong></p>\n\n<p>Hence,<strong> &#39;option 3&#39; </strong>is the correct answer.</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/22/09/alphabet.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q8",
+      "number": 8,
+      "question": "In a certain code language, &ldquo;GBTA&rdquo; is coded as &ldquo;24&rdquo; and &ldquo;ZWQVI&rdquo; is coded as &ldquo;30&rdquo;. How will &ldquo;DLUCPR&rdquo; be coded in that language?",
+      "questionHtml": "In a certain code language, &ldquo;GBTA&rdquo; is coded as &ldquo;24&rdquo; and &ldquo;ZWQVI&rdquo; is coded as &ldquo;30&rdquo;. How will &ldquo;DLUCPR&rdquo; be coded in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "30",
+          "html": "30"
+        },
+        {
+          "id": "B",
+          "text": "28",
+          "html": "28"
+        },
+        {
+          "id": "C",
+          "text": "24",
+          "html": "24"
+        },
+        {
+          "id": "D",
+          "text": "36",
+          "html": "36"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"font-weight: bolder;\">Number of letters × 6</span></p>\n\n<p><span style=\"font-weight: bolder;\">D L U C P R </span><span style=\"color: rgb(33, 37, 41); font-weight: bolder;\">→</span><span style=\"font-weight: bolder;\"> 6 </span><span style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">× 6 = 36</span></span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q9",
+      "number": 9,
+      "question": "In a certain code language, 'RING' is coded as 64 and 'WATCH' is coded as 125. How will 'BRACELET' be coded in the same language?",
+      "questionHtml": "In a certain code language, &#39;RING&#39; is coded as 64 and &#39;WATCH&#39; is coded as 125. How will &#39;BRACELET&#39; be coded in the same language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "512",
+          "html": "512"
+        },
+        {
+          "id": "B",
+          "text": "504",
+          "html": "504"
+        },
+        {
+          "id": "C",
+          "text": "478",
+          "html": "478"
+        },
+        {
+          "id": "D",
+          "text": "343",
+          "html": "343"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Logic: </span><span style=\"font-weight: bolder;\">(</span><span style=\"color: rgb(33, 37, 41); font-weight: bolder;\">Number of letters in the word)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span> = Code.</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Total alphabet in BRACELET is 8 ⇒ (8)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span> = 512.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q10",
+      "number": 10,
+      "question": "In a certain code language, &lsquo;ASK&rsquo; is written as &lsquo;100&rsquo;, and &lsquo;BAG&rsquo; is written as &lsquo;142&rsquo;. How will &lsquo;DIE&rsquo; be written in that language?",
+      "questionHtml": "In a certain code language, &lsquo;ASK&rsquo; is written as &lsquo;100&rsquo;, and &lsquo;BAG&rsquo; is written as &lsquo;142&rsquo;. How will &lsquo;DIE&rsquo; be written in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "134",
+          "html": "134"
+        },
+        {
+          "id": "B",
+          "text": "144",
+          "html": "144"
+        },
+        {
+          "id": "C",
+          "text": "118",
+          "html": "118"
+        },
+        {
+          "id": "D",
+          "text": "126",
+          "html": "126"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">‘DIE’ will be written as</p>\n\n<p style=\"color: rgb(33, 37, 41);\">​ <img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/qImage66ded0ed566813f62830acac.png\" /></p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/qImage66ded0ed566813f62830acac.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q11",
+      "number": 11,
+      "question": "In a certain code language, 'SAFETY' is coded as '80' and 'EXPAND' is coded as '68'. How will 'GATHER' be coded in that language?",
+      "questionHtml": "In a certain code language, &#39;SAFETY&#39; is coded as &#39;80&#39; and &#39;EXPAND&#39; is coded as &#39;68&#39;. How will &#39;GATHER&#39; be coded in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "68",
+          "html": "68"
+        },
+        {
+          "id": "B",
+          "text": "70",
+          "html": "70"
+        },
+        {
+          "id": "C",
+          "text": "63",
+          "html": "63"
+        },
+        {
+          "id": "D",
+          "text": "84",
+          "html": "84"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><img alt=\"\" src=\"https:https://storage.googleapis.com/tb-img/production/21/10/6151827ac41cc3e3f6fdf8cb_16348878717921.png\" style=\"height: 101px; width: 450px;\" /></p>\n\n<p>Given:&nbsp;&#39;SAFETY&#39; is coded as &#39;80&#39; and &#39;EXPAND&#39; is coded as &#39;68&#39;.&nbsp;</p>\n\n<p>The logic followed here is:</p>\n\n<ul>\n\t<li>Sum of positional values + no. of consonants in the word</li>\n</ul>\n\n<table border=\"1\" style=\"width:330px;\">\n\t<colgroup>\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t</colgroup>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">Letters</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">S</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">A</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">F</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">E</p>\n\t\t\t</td>\n\t\t\t<td>T</td>\n\t\t\t<td>Y</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">Positional Values</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">19</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">1</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">6</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">5</p>\n\t\t\t</td>\n\t\t\t<td>20</td>\n\t\t\t<td>25</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">Sum of Positional Values</p>\n\t\t\t</td>\n\t\t\t<td colspan=\"6\" rowspan=\"1\">\n\t\t\t<p dir=\"ltr\">&nbsp;</p>\n\n\t\t\t<p dir=\"ltr\">19 + 1 + 6 + 5 + 20 + 25 = 76</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Number of consonants = 4</p>\n\n<p>Now, 76 + 4 = 80</p>\n\n<table border=\"1\" style=\"width:330px;\">\n\t<colgroup>\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t</colgroup>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">Letters</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">E</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">X</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">P</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">A</p>\n\t\t\t</td>\n\t\t\t<td>N</td>\n\t\t\t<td>D</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">Positional Values</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">5</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">24</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">16</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">1</p>\n\t\t\t</td>\n\t\t\t<td>14</td>\n\t\t\t<td>4</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">Sum of Positional Values</p>\n\t\t\t</td>\n\t\t\t<td colspan=\"6\" rowspan=\"1\">\n\t\t\t<p dir=\"ltr\">&nbsp;</p>\n\n\t\t\t<p dir=\"ltr\">5 + 24 + 16 + 1 + 14 + 4 = 64</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Number of consonants = 4&nbsp;</p>\n\n<p>Now, 64 + 4 = 68</p>\n\n<p>Similarly,</p>\n\n<table border=\"1\" style=\"width:330px;\">\n\t<colgroup>\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t\t<col />\n\t</colgroup>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">Letters</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">G</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">A</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">T</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">H</p>\n\t\t\t</td>\n\t\t\t<td>E</td>\n\t\t\t<td>R</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">Positional Values</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">7</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">1</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">20</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">8</p>\n\t\t\t</td>\n\t\t\t<td>5</td>\n\t\t\t<td>18</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p dir=\"ltr\">Sum of Positional Values</p>\n\t\t\t</td>\n\t\t\t<td colspan=\"6\" rowspan=\"1\">\n\t\t\t<p dir=\"ltr\">&nbsp;</p>\n\n\t\t\t<div>7 + 1 + 20 + 8 + 5 + 18 =&nbsp; 59</div>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Number of consonants = 4</p>\n\n<p>Now, 59 + 4 = 63</p>\n\n<p>Hence,&nbsp;63&nbsp;is the correct answer.</p>\n",
+      "images": [
+        "https:https://storage.googleapis.com/tb-img/production/21/10/6151827ac41cc3e3f6fdf8cb_16348878717921.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q12",
+      "number": 12,
+      "question": "If in a code language, DISK is coded as 65 and WIRE is coded as 53, then how will you code CELL?",
+      "questionHtml": "If in a code language, DISK is coded as 65 and WIRE is coded as 53, then how will you code CELL?",
+      "options": [
+        {
+          "id": "A",
+          "text": "32",
+          "html": "32"
+        },
+        {
+          "id": "B",
+          "text": "82",
+          "html": "82"
+        },
+        {
+          "id": "C",
+          "text": "76",
+          "html": "76"
+        },
+        {
+          "id": "D",
+          "text": "46",
+          "html": "46"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><img alt=\"\" src=\"https:https://storage.googleapis.com/tb-img/production/21/10/6151827ac41cc3e3f6fdf8cb_16348878717921.png\" style=\" height: 110px; width: 490px;\" /></p>\n\n<p>Given:&nbsp;<span style=\"\">DISK is coded as 65 and WIRE is coded as 53.</span></p>\n\n<p><span style=\"\">The logic followed here is:</span></p>\n\n<p><strong><span style=\"\">Sum of opposite positional value of letters = number code.</span></strong></p>\n\n<p><span style=\"\">DISK = 65</span></p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/02/F1_Shraddha_Puja%20T_21.02.22_D11.png\" style=\"width: 224px; height: 151px;\" /></p>\n\n<p>And,&nbsp;</p>\n\n<p>WIRE = 53</p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/02/F1_Shraddha_Puja%20T_21.02.22_D12.png\" style=\"width: 223px; height: 150px;\" /></p>\n\n<p>Similarly,&nbsp;</p>\n\n<p><strong>CELL = ?</strong></p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/02/F1_Shraddha_Puja%20T_21.02.22_D13.png\" style=\"width: 224px; height: 151px;\" /></p>\n\n<p><span style=\"\">Hence,&nbsp;<strong>76&nbsp;</strong>is the correct answer.</span></p>\n",
+      "images": [
+        "https:https://storage.googleapis.com/tb-img/production/21/10/6151827ac41cc3e3f6fdf8cb_16348878717921.png",
+        "https://storage.googleapis.com/tb-img/production/22/02/F1_Shraddha_Puja%20T_21.02.22_D11.png",
+        "https://storage.googleapis.com/tb-img/production/22/02/F1_Shraddha_Puja%20T_21.02.22_D12.png",
+        "https://storage.googleapis.com/tb-img/production/22/02/F1_Shraddha_Puja%20T_21.02.22_D13.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q13",
+      "number": 13,
+      "question": "In a certain code language, 'TARNISH' is coded as '96' and 'CORRECT' is coded as '89'. How is 'GENERAL' coded in the given language?",
+      "questionHtml": "In a certain code language, &#39;TARNISH&#39; is coded as &#39;96&#39; and &#39;CORRECT&#39; is coded as &#39;89&#39;. How is &#39;GENERAL&#39; coded in the given language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "69",
+          "html": "69"
+        },
+        {
+          "id": "B",
+          "text": "96",
+          "html": "96"
+        },
+        {
+          "id": "C",
+          "text": "71",
+          "html": "71"
+        },
+        {
+          "id": "D",
+          "text": "67",
+          "html": "67"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"font-weight: bolder;\">Logic: (Sum of the positional value of each alphabet) + Number of alphabets.</span></p>\n\n<p data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">'GENERAL' will be coded as:</p>\n\n<p data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">​⇒ [{G(7) + E(5) + N(14) + E(5) + R(18) + A(1) + L(12)} + 7] = <span style=\"font-weight: bolder;\">69</span></p>\n\n<p>Here, 'GENERAL' is coded as<strong> '69'.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q14",
+      "number": 14,
+      "question": "In a certain code language, 'DIVERT' is coded as '36' and 'DOLDRUMS' is coded as '64'. What is the code for 'DOGMA' in the given code language?",
+      "questionHtml": "In a certain code language, &#39;DIVERT&#39; is coded as &#39;36&#39; and &#39;DOLDRUMS&#39; is coded as &#39;64&#39;. What is the code for &#39;DOGMA&#39; in the given code language?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "64",
+          "html": "64"
+        },
+        {
+          "id": "B",
+          "text": "36",
+          "html": "36"
+        },
+        {
+          "id": "C",
+          "text": "49",
+          "html": "49"
+        },
+        {
+          "id": "D",
+          "text": "25",
+          "html": "25"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><img src=\"//cdn.testbook.com/images/production/quesImages/qImage670f763aab41ab6e7054a59e.png\" /></p>\n\n<p>The logic follows here is:</p>\n\n<p>Logic: <strong>(Number of letters in the word)<sup>2</sup> = Code</strong>.</p>\n\n<p>&#39;DIVERT&#39; is coded as &#39;36&#39;&nbsp;</p>\n\n<p>&rarr;&nbsp;<span style=\"color: rgb(33, 37, 41);\">DIVERT has 6 letters, so 6<sup>2</sup> = 36</span></p>\n\n<p>&#39;DOLDRUMS&#39; is coded as &#39;64&#39;</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">&rarr;&nbsp;DOLDRUMS has 8&nbsp;letters, so 8<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;= 64</span></p>\n\n<p>Similarly, for<strong> &#39;DOGMA&#39; </strong></p>\n\n<p><strong><span style=\"color: rgb(33, 37, 41);\">&rarr;&nbsp;DOGMA has 5&nbsp;letters, so 5<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;= 25.</span></strong></p>\n\n<p>So,&nbsp;<strong><span style=\"color: rgb(33, 37, 41);\">&#39;DOGMA&#39; will&nbsp;be coded as &#39;25&#39;.</span></strong></p>\n\n<p>Hence, the correct answer is <strong>&quot;Option 4&quot;</strong>.</p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/qImage670f763aab41ab6e7054a59e.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q15",
+      "number": 15,
+      "question": "In a certain code language, N is coded as 30 and COT is coded as 78. How will PET be coded as in that language?",
+      "questionHtml": "In a certain code language, N is coded as 30 and COT is coded as 78. How will PET be coded as in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "70",
+          "html": "70"
+        },
+        {
+          "id": "B",
+          "text": "84",
+          "html": "84"
+        },
+        {
+          "id": "C",
+          "text": "100",
+          "html": "100"
+        },
+        {
+          "id": "D",
+          "text": "41",
+          "html": "41"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/20/11/Common_Diagram_28.01.2020_D1.png\" style=\"width: 536px; height: 128px;\" /></p>\n\n<p>Given,</p>\n\n<p>N is coded as 30 and COT is coded as 78</p>\n\n<p>The pattern followed is,</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:99px;height:22px;\">\n\t\t\t<p align=\"center\"><strong>Letter</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:175px;height:22px;\">\n\t\t\t<p align=\"center\">N</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:99px;height:23px;\">\n\t\t\t<p align=\"center\"><strong>Place value</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:175px;height:23px;\">\n\t\t\t<p align=\"center\">14</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:99px;height:23px;\">\n\t\t\t<p align=\"center\"><strong>Code</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:175px;height:23px;\">\n\t\t\t<p align=\"center\">14 &times; 2 + 2 = 30</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><br />\nFor COT,</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:85px;height:12px;\">\n\t\t\t<p align=\"center\"><strong>Letter</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:60px;height:12px;\">\n\t\t\t<p align=\"center\">C</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:63px;height:12px;\">\n\t\t\t<p align=\"center\">O</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:69px;height:12px;\">\n\t\t\t<p align=\"center\">T</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:85px;height:13px;\">\n\t\t\t<p align=\"center\"><strong>Place value</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:60px;height:13px;\">\n\t\t\t<p align=\"center\">3</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:63px;height:13px;\">\n\t\t\t<p align=\"center\">15</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:69px;height:13px;\">\n\t\t\t<p align=\"center\">20</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:85px;height:22px;\">\n\t\t\t<p align=\"center\"><strong>Code</strong></p>\n\t\t\t</td>\n\t\t\t<td colspan=\"3\" style=\"width:192px;height:22px;\">\n\t\t\t<p align=\"center\">( 3 + 15 + 20) &times; 2 + 2 = 78</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>Similarly,</p>\n\n<p>For PET,</p>\n\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width:89px;height:20px;\">\n\t\t\t<p align=\"center\"><strong>Letter</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:47px;height:20px;\">\n\t\t\t<p align=\"center\">P</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:72px;height:20px;\">\n\t\t\t<p align=\"center\">E</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:72px;height:20px;\">\n\t\t\t<p align=\"center\">T</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:89px;height:21px;\">\n\t\t\t<p align=\"center\"><strong>Place Value</strong></p>\n\t\t\t</td>\n\t\t\t<td style=\"width:47px;height:21px;\">\n\t\t\t<p align=\"center\">16</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:72px;height:21px;\">\n\t\t\t<p align=\"center\">5</p>\n\t\t\t</td>\n\t\t\t<td style=\"width:72px;height:21px;\">\n\t\t\t<p align=\"center\">20</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"width:89px;height:21px;\">\n\t\t\t<p align=\"center\"><strong>Code</strong></p>\n\t\t\t</td>\n\t\t\t<td colspan=\"3\" style=\"width:192px;height:21px;\">\n\t\t\t<p align=\"center\">(16 + 5 + 20) &times; 2 + 2&nbsp; = 84</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>Hence, &ldquo;84&rdquo; is the correct answer.</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/20/11/Common_Diagram_28.01.2020_D1.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q16",
+      "number": 16,
+      "question": "In a certain code language, &lsquo;BEDROOM&rsquo; is written as &lsquo;28&rsquo; and &lsquo;MOON&rsquo; is written as &lsquo;16&rsquo;. How will &lsquo;CHAIN&rsquo; be written in that language?",
+      "questionHtml": "In a certain code language, &lsquo;BEDROOM&rsquo; is written as &lsquo;28&rsquo; and &lsquo;MOON&rsquo; is written as &lsquo;16&rsquo;. How will &lsquo;CHAIN&rsquo; be written in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "B",
+          "text": "26",
+          "html": "26"
+        },
+        {
+          "id": "C",
+          "text": "24",
+          "html": "24"
+        },
+        {
+          "id": "D",
+          "text": "23",
+          "html": "23"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>The logic followed here is:</p>\n\n<p><strong>Number of letters in the word &times; 4 = Code of that word</strong></p>\n\n<p>&lsquo;BEDROOM&rsquo; is written as &lsquo;28&rsquo;&nbsp;&rArr; 7 &times; 4 = 28</p>\n\n<p>&lsquo;MOON&rsquo; is written as &lsquo;16&rsquo; &rArr; 4 &times; 4 = 16</p>\n\n<p>Similarly, for <strong>&lsquo;CHAIN&rsquo; &rArr;</strong><strong> 5 &times; 4 = 20</strong></p>\n\n<p>Hence, the correct answer is<strong> &quot;Option 1&quot;.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q17",
+      "number": 17,
+      "question": "In a code language, 'SOGGY' is written as '78' and 'PLINTH' is written as '85'. How will 'DEVOTION' be written in that language?",
+      "questionHtml": "In a code language, &#39;SOGGY&#39; is written as &#39;78&#39; and &#39;PLINTH&#39; is written as &#39;85&#39;. How will &#39;DEVOTION&#39; be written in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "104",
+          "html": "104"
+        },
+        {
+          "id": "B",
+          "text": "112",
+          "html": "112"
+        },
+        {
+          "id": "C",
+          "text": "120",
+          "html": "120"
+        },
+        {
+          "id": "D",
+          "text": "98",
+          "html": "98"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/20/06/Common_Diagram_28.01.2020_D1.png\" style=\"width: 536px; height: 128px;\" /></p>\n\n<p>The logic followed&nbsp;here is:</p>\n\n<p>SOGGY&nbsp;&rarr; 19 + 15 + 7 + 7 + 25 = 73</p>\n\n<p>Number&nbsp;of letters in SOGGY is 5</p>\n\n<p>73 +&nbsp; 5 = 78.</p>\n\n<p>PLINTH&nbsp;&rarr; 16 + 12 + 9 + 14 + 20 + 8 = 79</p>\n\n<p>Number&nbsp;of letters in PLINTH is 6</p>\n\n<p>79 + 6 = 85.</p>\n\n<p>Similarly,</p>\n\n<p>DEVOTION&nbsp;&rarr;&nbsp;4 + 5 + 22 + 15 + 20 + 9 + 15 + 14 = 104</p>\n\n<p>Number of letters in DEVOTION is 8</p>\n\n<p>104 + 8 = 112.</p>\n\n<p>Hence, the correct answer is&nbsp;<strong>&quot;</strong><strong>112&quot;</strong>.</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/20/06/Common_Diagram_28.01.2020_D1.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q18",
+      "number": 18,
+      "question": "In a certain code language, 'PACKET' is coded as '62' and 'POST' is coded as '74' and 'FAIR' is coded as '38. How is 'PEOPLE' coded in the given language?",
+      "questionHtml": "In a certain code language, &#39;PACKET&#39; is coded as &#39;62&#39; and &#39;POST&#39; is coded as &#39;74&#39; and &#39;FAIR&#39; is coded as &#39;38. How is &#39;PEOPLE&#39; coded in the given language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "72",
+          "html": "72"
+        },
+        {
+          "id": "B",
+          "text": "75",
+          "html": "75"
+        },
+        {
+          "id": "C",
+          "text": "70",
+          "html": "70"
+        },
+        {
+          "id": "D",
+          "text": "77",
+          "html": "77"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/qImage6460ed67aa24ac439fc9ccd7.png\" /></p>\n\n<p style=\"color: rgb(33, 37, 41);\">The logic followed here is:</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Logic:&nbsp;<span style=\"font-weight: bolder;\">(</span><span style=\"font-weight: bolder;\">Sum of the place value of all numbers) +&nbsp;Number of letter in that word&nbsp;= Code of the word</span>.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&#39;PACKET&#39; is coded as &#39;62&#39;</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; (16&nbsp;+ 1&nbsp;+ 3 + 11&nbsp;+ 5 + 20) + 6</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 56&nbsp;+&nbsp;6&nbsp;= 62.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&#39;POST&#39; is coded as &#39;74&#39;</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; (16&nbsp;+ 15&nbsp;+&nbsp;19 + 20) +&nbsp;4</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 70&nbsp;+&nbsp;4&nbsp;= 74.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&#39;FAIR&#39; is coded as &#39;38&#39;</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; (6&nbsp;+ 1&nbsp;+&nbsp;9 + 18) +&nbsp;4</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 34&nbsp;+&nbsp;4&nbsp;= 38.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Similarly, for&nbsp;<span style=\"font-weight: bolder;\">&#39;</span><strong>PEOPLE</strong><span style=\"font-weight: bolder;\">&#39;</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">&rArr; (16&nbsp;+ 5&nbsp;+ 15 + 16 + 12 + 5) +&nbsp;6</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">&rArr; 69&nbsp;+&nbsp;6&nbsp;= 75.</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, &#39;<span style=\"font-weight: bolder;\">PEOPLE</span>&#39; will be coded as <strong>&#39;75&#39;</strong>.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Hence, the correct answer is&nbsp;<span style=\"font-weight: bolder;\">&quot;Option 2&quot;</span>.</p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/qImage6460ed67aa24ac439fc9ccd7.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q19",
+      "number": 19,
+      "question": "In a certain code language, &lsquo;DISHRAG&rsquo; is coded as &lsquo;132&rsquo; and &lsquo;ENVELOPE&rsquo; is coded as &lsquo;188&rsquo;. How will &lsquo;IMMINENT&rsquo; be coded in that language?",
+      "questionHtml": "In a certain code language, &lsquo;DISHRAG&rsquo; is coded as &lsquo;132&rsquo; and &lsquo;ENVELOPE&rsquo; is coded as &lsquo;188&rsquo;. How will &lsquo;IMMINENT&rsquo; be coded in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "139",
+          "html": "139"
+        },
+        {
+          "id": "B",
+          "text": "167",
+          "html": "167"
+        },
+        {
+          "id": "C",
+          "text": "107",
+          "html": "107"
+        },
+        {
+          "id": "D",
+          "text": "194",
+          "html": "194"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>The logic followed here is: Sum of the positional values of the letters × 2</p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/24/03/F3_SSC_Ishita_28.03.24_D12.png\" style=\"color: rgb(33, 37, 41); width: 297px; height: 52px;\" /></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/24/03/F3_SSC_Ishita_28.03.24_D12.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q20",
+      "number": 20,
+      "question": "In a certain code language, 'RAHUL' is coded as 180, and 'POOJA' is coded as 171. How will 'RAJIV' be coded in the same language?",
+      "questionHtml": "In a certain code language, &#39;RAHUL&#39; is coded as 180, and &#39;POOJA&#39; is coded as 171. How will &#39;RAJIV&#39; be coded in the same language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "122",
+          "html": "122"
+        },
+        {
+          "id": "B",
+          "text": "180",
+          "html": "180"
+        },
+        {
+          "id": "C",
+          "text": "85",
+          "html": "85"
+        },
+        {
+          "id": "D",
+          "text": "61",
+          "html": "61"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><img alt=\"\" src=\"https:https://storage.googleapis.com/tb-img/production/22/01/alphabet.png\" style=\" font-weight: 700; width: 450px; height: 107px;\" /></p>\n\n<p><strong>Logic : Added all the position values of each letter and then multiplied by 3.</strong></p>\n\n<p>So,</p>\n\n<ul>\n\t<li>RAHUL is coded as :</li>\n</ul>\n\n<p>&rArr; According&nbsp;to alphabetic series position values of &quot;RAHUL&quot; is&nbsp;&rarr; 18 + 1 + 8 + 21 + 12 = 60&nbsp;</p>\n\n<p><span style=\"\">&rArr;</span>&nbsp;60 x 3 = 180</p>\n\n<ul>\n\t<li>POOJA is coded as :</li>\n</ul>\n\n<p style=\"\">&rArr; According&nbsp;to alphabetic series position values of &quot;POOJA&quot; is&nbsp;&rarr; 16&nbsp;+ 15 + 15&nbsp;+ 10&nbsp;+ 1&nbsp;= 57</p>\n\n<p style=\"\">&rArr; 57&nbsp;x 3 = 171</p>\n\n<p>Similarly,</p>\n\n<ul>\n\t<li>RAJIV is coded as :</li>\n</ul>\n\n<p style=\"\">&rArr; According&nbsp;to alphabetic series position values of &quot;RAJIV&quot; is&nbsp;&rarr; 18 + 1 + 10&nbsp;+ 9&nbsp;+ 22 = 60&nbsp;</p>\n\n<p style=\"\">&rArr;&nbsp;60 x 3 = 180</p>\n\n<p>Hence, <strong>&quot;180&quot;</strong> is the correct answer.</p>\n",
+      "images": [
+        "https:https://storage.googleapis.com/tb-img/production/22/01/alphabet.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q21",
+      "number": 21,
+      "question": "In a certain code language, FRUCTUS is coded as 108, and SPRINTER is coded as 119. How will MASCULINE be coded in that language?",
+      "questionHtml": "<p>In a certain code language, FRUCTUS is coded as 108, and SPRINTER is coded as 119.</p>\n\n<div>How will MASCULINE be coded in that language?</div>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "96",
+          "html": "96"
+        },
+        {
+          "id": "B",
+          "text": "99",
+          "html": "99"
+        },
+        {
+          "id": "C",
+          "text": "97",
+          "html": "97"
+        },
+        {
+          "id": "D",
+          "text": "98",
+          "html": "98"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"\"><img alt=\"\" src=\"https:https://storage.googleapis.com/tb-img/production/22/06/626a871a13e02eef2fcd3cd5_16564998081491.png\" style=\"height: 120px; width: 490px;\" /></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Logic : Sum of all the&nbsp;</span><span style=\"font-weight: 700;\">position values according to English alphabetic series.</span></p>\n\n<p style=\"\">So,</p>\n\n<ul style=\"\">\n\t<li>&#39;<span style=\"\">FRUCTUS</span>&#39; is coded&nbsp;as :</li>\n</ul>\n\n<p style=\"\"><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/01/F1_Savita_SSC_30-1-23_D40.png\" style=\"white-space: pre-wrap;  width: 273px; height: 100px;\" /></p>\n\n<ul style=\"\">\n\t<li>&#39;<span style=\"\">SPRINTER</span>&#39; is coded&nbsp;as :</li>\n</ul>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/01/F1_Savita_SSC_30-1-23_D41.png\" style=\"color: rgb(33, 37, 41); white-space-collapse: preserve; width: 316px; height: 101px;\" /></p>\n\n<p style=\"\">Similarly,</p>\n\n<ul style=\"\">\n\t<li>&#39;<span style=\"\">MASCULINE</span>&#39;&nbsp;is coded&nbsp;as :</li>\n</ul>\n\n<p style=\"\">​<img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/01/F1_Savita_SSC_30-1-23_D42.png\" style=\" white-space: pre-wrap; width: 338px; height: 102px;\" /></p>\n\n<p style=\"\">Hence,&nbsp;<span style=\"font-weight: 700;\">&quot;97</span><span style=\"font-weight: 700;\">&quot;</span>&nbsp;is the correct answer.</p>\n",
+      "images": [
+        "https:https://storage.googleapis.com/tb-img/production/22/06/626a871a13e02eef2fcd3cd5_16564998081491.png",
+        "https://storage.googleapis.com/tb-img/production/23/01/F1_Savita_SSC_30-1-23_D40.png",
+        "https://storage.googleapis.com/tb-img/production/23/01/F1_Savita_SSC_30-1-23_D41.png",
+        "https://storage.googleapis.com/tb-img/production/23/01/F1_Savita_SSC_30-1-23_D42.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q22",
+      "number": 22,
+      "question": "In a certain code language, &lsquo;HEN&rsquo; is coded as &lsquo;9&rsquo; and &lsquo;AFTER&rsquo; is coded as &lsquo;25&rsquo;. How will &lsquo;SMALLEST&rsquo; be coded in that language?",
+      "questionHtml": "In a certain code language, &lsquo;HEN&rsquo; is coded as &lsquo;9&rsquo; and &lsquo;AFTER&rsquo; is coded as &lsquo;25&rsquo;. How will &lsquo;SMALLEST&rsquo; be coded in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "31",
+          "html": "31"
+        },
+        {
+          "id": "B",
+          "text": "64",
+          "html": "64"
+        },
+        {
+          "id": "C",
+          "text": "81",
+          "html": "81"
+        },
+        {
+          "id": "D",
+          "text": "56",
+          "html": "56"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The logic follows ere is:</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">Logic:<strong> (</strong></span><strong><span style=\"color: rgb(33, 37, 41);\">Number of alphabets in the word)&sup2; = Code</span></strong></p>\n\n<p>&lsquo;HEN&rsquo; is coded as &lsquo;9&rsquo;</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">&rarr; &#39;HEN&#39;&nbsp;- Number of alphabets = 3 </span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">&rarr; 3&sup2; = 9</span></p>\n\n<p>&lsquo;AFTER&rsquo; is coded as &lsquo;25&rsquo;</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rarr;&nbsp;&#39;<span style=\"color: rgb(33, 37, 41);\">AFTER</span>&#39;&nbsp;- Number of alphabets = 5</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rarr;&nbsp;5&sup2; = 25</p>\n\n<p>Similarly, for <strong>&lsquo;SMALLEST&rsquo; </strong></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><strong>&rarr;&nbsp;&#39;<span style=\"color: rgb(33, 37, 41);\">SMALLEST</span>&#39;&nbsp;- Number of alphabets = 8</strong></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><strong>&rarr;&nbsp;8&sup2; = 64</strong></p>\n\n<p>Hence, the correct answer is <strong>&quot;Option 2&quot;.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q23",
+      "number": 23,
+      "question": "In a certain code language, 'PIN' is coded as 9 and 'CHARGER' is coded as 49. How will 'CABLE' be coded in the same language?",
+      "questionHtml": "In a certain code language, &#39;PIN&#39; is coded as 9 and &#39;CHARGER&#39; is coded as 49. How will &#39;CABLE&#39; be coded in the same language?&nbsp;&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "27",
+          "html": "27"
+        },
+        {
+          "id": "B",
+          "text": "25",
+          "html": "25"
+        },
+        {
+          "id": "C",
+          "text": "18",
+          "html": "18"
+        },
+        {
+          "id": "D",
+          "text": "36",
+          "html": "36"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Logic: </span>Square of total number of alphabet.</p>\n\n<p>Total alphabet in CABLE is 5 <span style=\"font-weight: bolder;\">⇒ (5)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> = 25.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q24",
+      "number": 24,
+      "question": "In a certain code language, &lsquo;VIOLENT&rsquo; is coded as &lsquo;104&rsquo; and &lsquo;UPDATED&rsquo; is coded as &lsquo;78&rsquo;. How will &lsquo;TOUCHED&rsquo; be coded in that language?",
+      "questionHtml": "In a certain code language, &lsquo;VIOLENT&rsquo; is coded as &lsquo;104&rsquo; and &lsquo;UPDATED&rsquo; is coded as &lsquo;78&rsquo;. How will &lsquo;TOUCHED&rsquo; be coded in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "65",
+          "html": "65"
+        },
+        {
+          "id": "B",
+          "text": "93",
+          "html": "93"
+        },
+        {
+          "id": "C",
+          "text": "83",
+          "html": "83"
+        },
+        {
+          "id": "D",
+          "text": "26",
+          "html": "26"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The logic followed here is: Sum of the positional values of the letters + 7 (Sum of the no. of letter in a word)</p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/24/03/F3_SSC_Ishita_28.03.24_D15.png\" style=\"color: rgb(33, 37, 41); width: 263px; height: 52px;\" /></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/24/03/F3_SSC_Ishita_28.03.24_D15.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q25",
+      "number": 25,
+      "question": "In a certain code language, ROSE is coded as 51 and WAX is coded as 33. How will FOX be coded in that language?",
+      "questionHtml": "In a certain code language, ROSE is coded as 51 and WAX is coded as 33. How will FOX be coded in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "36",
+          "html": "36"
+        },
+        {
+          "id": "B",
+          "text": "31",
+          "html": "31"
+        },
+        {
+          "id": "C",
+          "text": "35",
+          "html": "35"
+        },
+        {
+          "id": "D",
+          "text": "40",
+          "html": "40"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Logic: The words are coded as the sum of the letter's opposite positional values.</span></p>\n\n<p>'FOX' can be coded as → (21 + 12 + 3) = 36</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q26",
+      "number": 26,
+      "question": "In a certain code language, &lsquo;RAJ&rsquo; is coded as &lsquo;87&rsquo; and &lsquo;GITA&rsquo; is coded as &lsquo;148&rsquo;. How will &lsquo;VARUN&rsquo; be coded in that language?",
+      "questionHtml": "In a certain code language, &lsquo;RAJ&rsquo; is coded as &lsquo;87&rsquo; and &lsquo;GITA&rsquo; is coded as &lsquo;148&rsquo;. How will &lsquo;VARUN&rsquo; be coded in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "176",
+          "html": "176"
+        },
+        {
+          "id": "B",
+          "text": "380",
+          "html": "380"
+        },
+        {
+          "id": "C",
+          "text": "234",
+          "html": "234"
+        },
+        {
+          "id": "D",
+          "text": "403",
+          "html": "403"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The pattern followed here is :</p>\n\n<p><strong>Sum of the positional values of the letters&nbsp;&times; total number of the&nbsp;letter = number.</strong></p>\n\n<p>RAJ &rarr; Total number of letter is 3.</p>\n\n<p>R(18) + A(1) + J(10) = 18 + 1 + 10 = 29</p>\n\n<p>Sum of the positional values of the letters &times; total number of the letter = number</p>\n\n<p>29 &times; 3 = 87</p>\n\n<p><strong>And,</strong></p>\n\n<p>GITA &rarr; Total number of letter is 4.</p>\n\n<p>G(7) + I(9) + T(20) + A(1) = 7 + 9 + 20 + 1 = 37</p>\n\n<p>Sum of the positional values of the letters &times; total number of the letter = number</p>\n\n<p>37 &times; 4 = 148</p>\n\n<p><strong>Similarly,</strong></p>\n\n<p><strong>VARUN</strong> <strong>&rarr; Total number of letter is 5.</strong></p>\n\n<p><strong>V(22) + A(1) + R(18) + U(21) + N(14) = 22 + 1 + 18 + 21 + 14 = 76</strong></p>\n\n<p><strong>Sum of the positional values of the letters &times; total number of the letter = number</strong></p>\n\n<p><strong>76 &times; 5&nbsp;= 380</strong></p>\n\n<p>Hence, <strong>VARUN</strong> will be written as&nbsp;<strong>&ldquo;</strong><strong>380&rdquo;.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q27",
+      "number": 27,
+      "question": "In a certain code language, &lsquo;ENOUGH&rsquo; is written as &lsquo;64&rsquo; and &lsquo;PAIR&rsquo; is written as &lsquo;40&rsquo;.How will &lsquo;FOCUS&rsquo; be written in that language?",
+      "questionHtml": "In a certain code language, &lsquo;ENOUGH&rsquo; is written as &lsquo;64&rsquo; and &lsquo;PAIR&rsquo; is written as &lsquo;40&rsquo;.How will &lsquo;FOCUS&rsquo; be written in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "52",
+          "html": "52"
+        },
+        {
+          "id": "B",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "C",
+          "text": "59",
+          "html": "59"
+        },
+        {
+          "id": "D",
+          "text": "63",
+          "html": "63"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>The positional values of the English alphabet is as follows:</p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/09/alphabet.png\" style=\"width: 559px; height: 149px;\" /></p>\n\n<p>The pattern followed here is: <strong>Sum of positional values of all the letters - Number of letters in the word</strong></p>\n\n<p>&lsquo;ENOUGH&rsquo; is written as &lsquo;64&rsquo;&nbsp;</p>\n\n<p>&rArr; E(5) + N(14) + O(15) + U(21) + G(7) + H(8)&nbsp;&rArr; 70 - 6 =&nbsp;<strong>64</strong></p>\n\n<p>And,</p>\n\n<p>&lsquo;PAIR&rsquo; is written as &lsquo;40&rsquo;</p>\n\n<p>&rArr; P(16) + A(1) + I(9) + R(18)&nbsp;&rArr; 44 - 4 =&nbsp;<strong>40</strong></p>\n\n<p>Similarly,&nbsp;</p>\n\n<p>&lsquo;FOCUS&rsquo; will be written as:</p>\n\n<p>&rArr; F(6) + O(15) + C(3) + U(21) + S(19)&nbsp;&rArr; 64 - 5 =&nbsp;<strong>59</strong></p>\n\n<p>Hence,<strong> &#39;option 3&#39;</strong> is the correct answer.</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/22/09/alphabet.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q28",
+      "number": 28,
+      "question": "In a certain code language, &lsquo;BR-EW&rsquo; is coded as &lsquo;8&rsquo;, &lsquo;CA-LF&rsquo; is coded as &lsquo;14&rsquo;. What is the code for &lsquo;DA-WN&rsquo; in that code language?",
+      "questionHtml": "In a certain code language, &lsquo;BR-EW&rsquo; is coded as &lsquo;8&rsquo;, &lsquo;CA-LF&rsquo; is coded as &lsquo;14&rsquo;. What is the code for &lsquo;DA-WN&rsquo; in that code language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "30",
+          "html": "30"
+        },
+        {
+          "id": "B",
+          "text": "32",
+          "html": "32"
+        },
+        {
+          "id": "C",
+          "text": "34",
+          "html": "34"
+        },
+        {
+          "id": "D",
+          "text": "36",
+          "html": "36"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The logic followed here is:</p>\n\n<p>Logic: <strong>Sum&nbsp;of the place value of 1st letter -&nbsp;<span style=\"color: rgb(33, 37, 41);\">Sum&nbsp;of the place value of 2nd&nbsp;letter&nbsp;</span>= Number.</strong></p>\n\n<p>Now,</p>\n\n<p>&lsquo;BR-EW&rsquo; is coded as &lsquo;8&rsquo;,</p>\n\n<p>[2(B) + 18(R)] - [5(E) + 23(W)]</p>\n\n<p>&rArr; 20 - 28 = -8.</p>\n\n<p>&lsquo;CA-LF&rsquo; is coded as &lsquo;14&rsquo;</p>\n\n<p style=\"color: rgb(33, 37, 41);\">[3(C) + 1(A)] - [12(L) + 6(F)]</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 4&nbsp;- 18 = -14.</p>\n\n<p>Similarly, for &#39;</p>\n\n<p>So,<strong>&nbsp;<span style=\"color: rgb(33, 37, 41);\">&#39;DA-WN&#39;</span> is coded as &lsquo;8&rsquo;.</strong></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><strong>[4(D) + 1(A)] - [23(W) + 14(N)]</strong></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><strong>&rArr; 5&nbsp;- 37&nbsp;= -32.</strong></p>\n\n<p>Hence, the correct answer is <strong>&quot;32&quot;</strong>.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q29",
+      "number": 29,
+      "question": "In a certain code language, 'OIL' is coded as 27 and 'CREAM' is coded as 125. How will 'POWDER' be coded in the same language?",
+      "questionHtml": "In a certain code language, &#39;OIL&#39; is coded as 27 and &#39;CREAM&#39; is coded as 125. How will &#39;POWDER&#39; be coded in the same language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "225",
+          "html": "225"
+        },
+        {
+          "id": "B",
+          "text": "216",
+          "html": "216"
+        },
+        {
+          "id": "C",
+          "text": "198",
+          "html": "198"
+        },
+        {
+          "id": "D",
+          "text": "169",
+          "html": "169"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Logic:<strong> (Number of letter in word)3 = Code of the word.</strong></p>\n\n<p>⇒ POWDER has 6 letters, ⇒ 63 = 216.</p>\n\n<p>So, <strong>'POWDER' </strong>will be coded as<strong> '216'</strong>.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q30",
+      "number": 30,
+      "question": "In a code language, 'COOL' is coded as &lsquo;180&rsquo; and 'MAN' is coded as &lsquo;84&rsquo;. How will &lsquo;QUIET' be coded in the same language?",
+      "questionHtml": "In a code language, &#39;COOL&#39; is coded as &lsquo;180&rsquo; and &#39;MAN&#39; is coded as &lsquo;84&rsquo;. How will &lsquo;QUIET&#39; be coded in the same language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "36",
+          "html": "36"
+        },
+        {
+          "id": "B",
+          "text": "360",
+          "html": "360"
+        },
+        {
+          "id": "C",
+          "text": "56",
+          "html": "56"
+        },
+        {
+          "id": "D",
+          "text": "284",
+          "html": "284"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"><img alt=\"\" src=\"https://cdn.testbook.com/images/production/quesImages/qImage6460ed67aa24ac439fc9ccd7.png\" /></p>\n\n<p style=\"color: rgb(33, 37, 41);\">The logic followed here is:</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Logic:&nbsp;<span style=\"font-weight: bolder;\">Sum of the place value of all numbers &times; Number of letters in the word = Code of the word</span>.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&#39;COOL&#39; is coded as &lsquo;180</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; (3&nbsp;+ 15 + 15&nbsp;+ 12)&nbsp;&times; 4&nbsp;= 45 <span style=\"color: rgb(33, 37, 41);\">&times; 4 = 180</span>.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&#39;MAN&#39; is coded as &lsquo;84&rsquo;</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 13&nbsp;+&nbsp;1 + 14 = 28 <span style=\"color: rgb(33, 37, 41);\">&times; 3&nbsp;= 84.</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">Similarly, for&nbsp;<strong>&lsquo;QUIET&#39;</strong>&nbsp;</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">&rArr; 17 + 21 + 9 + 5 + 20 = 72&nbsp;</span><strong>&times; 5&nbsp;= 360</strong></p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, &#39;<span style=\"font-weight: bolder;\">QUIET</span>&#39; will be coded as&nbsp;<span style=\"font-weight: bolder;\">&#39;360&#39;</span>.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Hence, the correct answer is&nbsp;<span style=\"font-weight: bolder;\">&quot;Option 2&quot;</span>.</p>\n",
+      "images": [
+        "https://cdn.testbook.com/images/production/quesImages/qImage6460ed67aa24ac439fc9ccd7.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q31",
+      "number": 31,
+      "question": "If in a code language, BULB is written as 71 and TUBE is written as 60, then how will FAN be written in the same language?",
+      "questionHtml": "If in a code language, BULB is written as 71 and TUBE is written as 60, then how will FAN be written in the same language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "58",
+          "html": "58"
+        },
+        {
+          "id": "B",
+          "text": "62",
+          "html": "62"
+        },
+        {
+          "id": "C",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "D",
+          "text": "56",
+          "html": "56"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">F is opposite to U = 21</p>\n\n<p style=\"color: rgb(33, 37, 41);\">A is opposite yo Z = 26</p>\n\n<p style=\"color: rgb(33, 37, 41);\">N is opposite to M = 13</p>\n\n<p style=\"color: rgb(33, 37, 41);\">FAN = (21 + 26 + 13) = 60</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q32",
+      "number": 32,
+      "question": "In a certain code language, 'YATCH' is coded as 67 and 'DINE' is coded as 40. How will 'MANGO' be coded in that language?",
+      "questionHtml": "In a certain code language, &#39;YATCH&#39; is coded as 67 and &#39;DINE&#39; is coded as 40. How will &#39;MANGO&#39; be coded in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "57",
+          "html": "57"
+        },
+        {
+          "id": "B",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "C",
+          "text": "62",
+          "html": "62"
+        },
+        {
+          "id": "D",
+          "text": "65",
+          "html": "65"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Logic: Sum of positional value + (Number of letters × 2).</p>\n\n<p>MANGO ⇒ (13 + 1 + 14 +7 +15) + (5 × 2) ⇒ (50 + 10) ⇒ 60.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q33",
+      "number": 33,
+      "question": "In a certain code language, \"LAMP\" is written as \"66\" and \"OATS\" is written as \"53\". How will \"YESS\" be written in that language?",
+      "questionHtml": "In a certain code language, &quot;LAMP&quot; is written as &quot;66&quot; and &quot;OATS&quot; is written as &quot;53&quot;. How will &quot;YESS&quot; be written in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "51",
+          "html": "51"
+        },
+        {
+          "id": "B",
+          "text": "55",
+          "html": "55"
+        },
+        {
+          "id": "C",
+          "text": "45",
+          "html": "45"
+        },
+        {
+          "id": "D",
+          "text": "40",
+          "html": "40"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">Logic: </span><span style=\"color: rgb(33, 37, 41);\">Code = (</span><span style=\"color: rgb(33, 37, 41);\">Addition of the opposite letters)</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">\"YESS\" will be coded as:</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/qImage64d48fcc998ce874a098ea1c.png\" /></p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/qImage64d48fcc998ce874a098ea1c.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q34",
+      "number": 34,
+      "question": "In a certain code language &lsquo;BOTTLE&rsquo; is written as &lsquo;148&rsquo;, &lsquo;SIPPER&rsquo; is written as &lsquo;166&rsquo;. How will &lsquo;BUMPER&rsquo; be written in that language?",
+      "questionHtml": "<span style=\"\">In a certain code language &lsquo;BOTTLE&rsquo; is written as &lsquo;148&rsquo;, &lsquo;SIPPER&rsquo; is written as &lsquo;166&rsquo;. How will &lsquo;BUMPER&rsquo; be written in that language?</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "160",
+          "html": "<span style=\"\">160</span>"
+        },
+        {
+          "id": "B",
+          "text": "170",
+          "html": "<span style=\"\">170</span>"
+        },
+        {
+          "id": "C",
+          "text": "150",
+          "html": "<span style=\"\">150</span>"
+        },
+        {
+          "id": "D",
+          "text": "180",
+          "html": "<span style=\"\">180</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"\"><img alt=\"\" src=\"https:https://storage.googleapis.com/tb-img/production/22/06/626a871a13e02eef2fcd3cd5_16564998081491.png\" style=\"height: 120px; width: 490px;\" /></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Logic : Sum of the position values according to the English alphabetical series is&nbsp;multiplied by (2).</span></p>\n\n<p style=\"\">​So,</p>\n\n<ul style=\"\">\n\t<li><span style=\"\">&lsquo;BOTTLE&rsquo; is written as &lsquo;148&rsquo;</span></li>\n</ul>\n\n<p style=\"\"><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/03/F1_Savita_SSC_21-3-23_D11.png\" style=\"width: 246px; height: 132px;\" /></p>\n\n<p style=\"\">​And,</p>\n\n<ul style=\"\">\n\t<li><span style=\"\">&lsquo;SIPPER&rsquo; is written as &lsquo;166&rsquo;</span></li>\n</ul>\n\n<p style=\"\"><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/03/F1_Savita_SSC_21-3-23_D12.png\" style=\"width: 247px; height: 132px;\" /></p>\n\n<p style=\"\">​Similarly,</p>\n\n<ul style=\"\">\n\t<li><span style=\"\">&lsquo;BUMPER&rsquo;</span>&nbsp;is written as :</li>\n</ul>\n\n<p style=\"\">​<img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/03/F1_Savita_SSC_21-3-23_D13.png\" style=\"width: 245px; height: 133px;\" /></p>\n\n<p style=\"\">Hence,&nbsp;<span style=\"font-weight: 700;\">&quot;150</span><span style=\"font-weight: 700;\">&quot;</span>&nbsp;is the correct answer.</p>\n",
+      "images": [
+        "https:https://storage.googleapis.com/tb-img/production/22/06/626a871a13e02eef2fcd3cd5_16564998081491.png",
+        "https://storage.googleapis.com/tb-img/production/23/03/F1_Savita_SSC_21-3-23_D11.png",
+        "https://storage.googleapis.com/tb-img/production/23/03/F1_Savita_SSC_21-3-23_D12.png",
+        "https://storage.googleapis.com/tb-img/production/23/03/F1_Savita_SSC_21-3-23_D13.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q35",
+      "number": 35,
+      "question": "In a certain code language, if &lsquo;RPD&rsquo; is written as &lsquo;43&rsquo; and &lsquo;FCL&rsquo; is written as &lsquo;60&rsquo;, how will &lsquo;QTS&rsquo; be written in the same code language?",
+      "questionHtml": "In a certain code language, if &lsquo;RPD&rsquo; is written as &lsquo;43&rsquo; and &lsquo;FCL&rsquo; is written as &lsquo;60&rsquo;, how will &lsquo;QTS&rsquo; be written in the same code language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "35",
+          "html": "35"
+        },
+        {
+          "id": "B",
+          "text": "28",
+          "html": "28"
+        },
+        {
+          "id": "C",
+          "text": "25",
+          "html": "25"
+        },
+        {
+          "id": "D",
+          "text": "40",
+          "html": "40"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: 700;\">Logic : Sum of the position values of opposites according to English alphabetic series is written.</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">So,</span></p>\n\n<ul style=\"color: rgb(33, 37, 41);\">\n\t<li>‘QTS’ will be written as :</li>\n</ul>\n\n<p style=\"color: rgb(33, 37, 41);\"><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/24/02/F1_SSC_Arbaz_1-2-24_D2_v2.png\" style=\"color: rgb(33, 37, 41); width: 149px; height: 173px;\" /></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/24/02/F1_SSC_Arbaz_1-2-24_D2_v2.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q36",
+      "number": 36,
+      "question": "In a certain code language, &lsquo;GHOST&rsquo; is coded as 74 and &lsquo;TRIBAL&rsquo; is coded as 68. How will &lsquo;HORN&rsquo; be coded in the same language?",
+      "questionHtml": "In a certain code language, &lsquo;GHOST&rsquo; is coded as 74 and &lsquo;TRIBAL&rsquo; is coded as 68. How will &lsquo;HORN&rsquo; be coded in the same language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "59",
+          "html": "59"
+        },
+        {
+          "id": "B",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "C",
+          "text": "55",
+          "html": "55"
+        },
+        {
+          "id": "D",
+          "text": "61",
+          "html": "61"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">‘HORN’ will be coded as</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/24/10/F1_Savita_Railways_14-10-24_D59.png\" style=\"color: rgb(33, 37, 41); width: 260px; height: 90px;\" /></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/24/10/F1_Savita_Railways_14-10-24_D59.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q37",
+      "number": 37,
+      "question": "In a certain code language, 'HUNTER' is coded as 80 and 'TRIAL' is coded as 55 . How will 'BURNT' be coded in the same language?",
+      "questionHtml": "In a certain code language, &#39;HUNTER&#39; is coded as 80 and &#39;TRIAL&#39; is coded as 55 . How will &#39;BURNT&#39; be coded in the same language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "70",
+          "html": "70"
+        },
+        {
+          "id": "B",
+          "text": "75",
+          "html": "75"
+        },
+        {
+          "id": "C",
+          "text": "65",
+          "html": "65"
+        },
+        {
+          "id": "D",
+          "text": "80",
+          "html": "80"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">'BURNT' will be coded as</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/24/09/F1_SSC_Priya_24_10_24__D57.png\" style=\"color: rgb(33, 37, 41);\" /></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/24/09/F1_SSC_Priya_24_10_24__D57.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q38",
+      "number": 38,
+      "question": "In a certain code language, &lsquo;NOISE&rsquo; is coded as 124 and &lsquo;WILD&rsquo; is coded as 96. How will &lsquo;GIVER&rsquo; be coded in the same language?",
+      "questionHtml": "In a certain code language, &lsquo;NOISE&rsquo; is coded as 124 and &lsquo;WILD&rsquo; is coded as 96. How will &lsquo;GIVER&rsquo; be coded in the same language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "120",
+          "html": "120"
+        },
+        {
+          "id": "B",
+          "text": "122",
+          "html": "122"
+        },
+        {
+          "id": "C",
+          "text": "104",
+          "html": "104"
+        },
+        {
+          "id": "D",
+          "text": "111",
+          "html": "111"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><img src=\"//cdn.testbook.com/images/production/quesImages/qImage67057f7eae4d4d71efffab5a.png\" /></p>\n\n<p>The logic followed here is: <strong>Sum of place value of letters &times; 2 = Number code</strong></p>\n\n<p>&lsquo;NOISE&rsquo; is coded as 124</p>\n\n<p>14 + 15 + 9 + 19 + 5 = 62&nbsp;&times; 2 = 124</p>\n\n<p>&lsquo;WILD&rsquo; is coded as 96</p>\n\n<p>23 + 9 + 12 + 4 = 48&nbsp;&times; 2 = 96</p>\n\n<p>Similarly,<strong> &#39;GIVER&rsquo;</strong></p>\n\n<p><strong>7 + 9 + 22 + 5 + 18 = 61&nbsp;&times; 2 = 122</strong></p>\n\n<p>Hence, the correct answer is<strong> &quot;Option 2&quot;.</strong></p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/qImage67057f7eae4d4d71efffab5a.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q39",
+      "number": 39,
+      "question": "In a certain code language, 'NOISY' is coded as '53'.and 'TONE' is coded as '54'. How will 'FORM' be coded in that language?",
+      "questionHtml": "In a certain code language, &#39;NOISY&#39; is coded as &#39;53&#39;.and &#39;TONE&#39; is coded as &#39;54&#39;. How will &#39;FORM&#39; be coded in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "72",
+          "html": "72"
+        },
+        {
+          "id": "B",
+          "text": "56",
+          "html": "56"
+        },
+        {
+          "id": "C",
+          "text": "69",
+          "html": "69"
+        },
+        {
+          "id": "D",
+          "text": "50",
+          "html": "50"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/07/alpha%20teb%20%281%29.png\" style=\"width: 602px; height: 135px;\" /></p>\n\n<p>The logic followed here is:</p>\n\n<p>Sum of opposite letter place value = number.</p>\n\n<ul>\n\t<li><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/07/F2_Madhuri_SSC_18.07.2022_D25.png\" style=\"width: 209px; height: 134px;\" /></li>\n</ul>\n\n<p>Similarly,</p>\n\n<ul>\n\t<li><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/22/07/F2_Madhuri_SSC_18.07.2022_D27.png\" style=\"width: 178px; height: 135px;\" /></li>\n</ul>\n\n<p>Hence, &#39;<strong>56</strong>&#39; is the correct answer.</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/22/07/alpha%20teb%20%281%29.png",
+        "https://storage.googleapis.com/tb-img/production/22/07/F2_Madhuri_SSC_18.07.2022_D25.png",
+        "https://storage.googleapis.com/tb-img/production/22/07/F2_Madhuri_SSC_18.07.2022_D27.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q40",
+      "number": 40,
+      "question": "In a certain code language, &lsquo;VATT&rsquo; is coded as &lsquo;65&rsquo; and &lsquo;STOLK&rsquo; is coded as &lsquo;79&rsquo;. How will &lsquo;GENEROUS&rsquo; be coded in that language?",
+      "questionHtml": "In a certain code language, &lsquo;VATT&rsquo; is coded as &lsquo;65&rsquo; and &lsquo;STOLK&rsquo; is coded as &lsquo;79&rsquo;. How will &lsquo;GENEROUS&rsquo; be coded in that language?&nbsp;&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "116",
+          "html": "116"
+        },
+        {
+          "id": "B",
+          "text": "216",
+          "html": "216&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "204",
+          "html": "204&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "106",
+          "html": "106"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Logic: Code of the word → (Sum of the positional values of the letter) + 2</span></p>\n\n<p>GENEROUS: ? → (7 + 5 + 14 + 5 + 18 + 15 + 21 + 19) + 2 = 104 + 2 = 106</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q41",
+      "number": 41,
+      "question": "In a certain code language, &lsquo;TRAUMA&rsquo; is coded as &lsquo;36&rsquo; and &lsquo;STIL&rsquo; is coded as &lsquo;24&rsquo;. How will &lsquo;OBEIDEINT&rsquo; be coded in that language?",
+      "questionHtml": "In a certain code language, &lsquo;TRAUMA&rsquo; is coded as &lsquo;36&rsquo; and &lsquo;STIL&rsquo; is coded as &lsquo;24&rsquo;. How will &lsquo;OBEIDEINT&rsquo; be coded in that language?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "54",
+          "html": "54"
+        },
+        {
+          "id": "B",
+          "text": "84",
+          "html": "84"
+        },
+        {
+          "id": "C",
+          "text": "44",
+          "html": "44"
+        },
+        {
+          "id": "D",
+          "text": "72",
+          "html": "72"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>The Position and positional values of English Alphabets are:</p>\n\n<p><img src=\"https:https://storage.googleapis.com/tb-img/production/20/12/Common_Diagram_28.01.2020_D1.png\" style=\"height: 82px; width: 343px;\" /></p>\n\n<p>The logic followed here is: <strong>The number of letter in given word&nbsp;&times; 6.</strong></p>\n\n<p>For,&nbsp;&nbsp;&lsquo;TRAUMA&rsquo; is coded as &lsquo;36&rsquo;</p>\n\n<p><strong>T R A U M A = 6 letters</strong></p>\n\n<p>6&nbsp;<span style=\"color: rgb(32, 33, 36);  \">&times; 6 = 36.</span></p>\n\n<p>For, &lsquo;STIL&rsquo; is coded as &lsquo;24&rsquo;.</p>\n\n<p><strong>S T I L = 4 letters</strong></p>\n\n<p>4<font color=\"#202124\">&nbsp;</font><span style=\"color: rgb(32, 33, 36);  \">&times; 6 = 24.</span></p>\n\n<p><span style=\"color: rgb(32, 33, 36);  \">Similarly, &#39;OBEIDIENT&#39;,</span></p>\n\n<p><span style=\"color: rgb(32, 33, 36);  \"><strong>O B E I D I E N T&nbsp; = 9 letters</strong></span></p>\n\n<p><strong><span style=\"color: rgb(32, 33, 36);  \">9&nbsp;</span>&times;&nbsp;6 = 54.</strong></p>\n\n<p>So, <strong>OBEIDIENT</strong> will be coded as <strong>54.</strong></p>\n\n<p>Hence, the correct answer is <em><strong>&#39;Option 1&#39;.</strong></em></p>\n",
+      "images": [
+        "https:https://storage.googleapis.com/tb-img/production/20/12/Common_Diagram_28.01.2020_D1.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q42",
+      "number": 42,
+      "question": "In a certain code language, 'HORSE' is coded as 75 and 'MOVE' is coded as 63. How will 'RACE' be coded in that language?",
+      "questionHtml": "In a certain code language, &#39;HORSE&#39; is coded as 75 and &#39;MOVE&#39; is coded as 63. How will &#39;RACE&#39; be coded in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "46",
+          "html": "46"
+        },
+        {
+          "id": "B",
+          "text": "32",
+          "html": "32"
+        },
+        {
+          "id": "C",
+          "text": "48",
+          "html": "48"
+        },
+        {
+          "id": "D",
+          "text": "35",
+          "html": "35"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/qImage6460ed67aa24ac439fc9ccd7.png\" /></p>\n\n<p style=\"color: rgb(33, 37, 41);\">The logic followed here is:</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Logic:&nbsp;<span style=\"font-weight: bolder;\">Sum of the place value of all numbers + (total word&nbsp;x 2)&nbsp;= Code of the word</span>.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&#39;HORSE&#39; is coded as &#39;75&#39;</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; (8 + 15 + 18 + 19 + 5) + (5 <span style=\"\">&times;&nbsp;</span>2)</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">&rArr; 65 + 10&nbsp;</span>= 75.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&#39;MOVE&#39; is coded as &#39;63&#39;</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; (13&nbsp;+ 15 + 22&nbsp;+ 5) + (4&nbsp;&times;&nbsp;2)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">&rArr; 55 + 8&nbsp;= 63.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Similarly, for&nbsp;<span style=\"font-weight: bolder;\">&#39;</span><strong>RACE</strong><span style=\"font-weight: bolder;\">&#39;</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\">&rArr; (18&nbsp;+ 1&nbsp;+ 3&nbsp;+ 5) + (4&nbsp;</span><strong><span style=\"color: rgb(33, 37, 41);\">&times;&nbsp;2)</span></strong><span style=\"font-weight: bolder;\"> </span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"\">&rArr; <strong>27&nbsp;+ 8</strong> </span><span style=\"font-weight: bolder;\">= 35.</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, &#39;<span style=\"font-weight: bolder;\">RACE</span>&#39; will be coded as&nbsp;<span style=\"font-weight: bolder;\">&#39;35&#39;</span>.</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Hence, the correct answer is&nbsp;<span style=\"font-weight: bolder;\">&quot;Option 4&quot;</span>.</p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/qImage6460ed67aa24ac439fc9ccd7.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q43",
+      "number": 43,
+      "question": "In a certain code language, &lsquo;SPAM&rsquo; is coded as &lsquo;36&rsquo; and &lsquo;JUG&rsquo; is coded as &lsquo;27&rsquo;. How will &lsquo;FROCK&rsquo; be coded in that language?",
+      "questionHtml": "In a certain code language, &lsquo;SPAM&rsquo; is coded as &lsquo;36&rsquo; and &lsquo;JUG&rsquo; is coded as &lsquo;27&rsquo;. How will &lsquo;FROCK&rsquo; be coded in that language?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "72",
+          "html": "72"
+        },
+        {
+          "id": "B",
+          "text": "45",
+          "html": "45"
+        },
+        {
+          "id": "C",
+          "text": "90",
+          "html": "90"
+        },
+        {
+          "id": "D",
+          "text": "48",
+          "html": "48"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>(Total no. of alphabets in the word) × 9 = Code of the word.</p>\n\n<p>In 'FROCK' Total no. of alphabets = 5</p>\n\n<p>⇒ 5 × 9 = 45.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q44",
+      "number": 44,
+      "question": "In a code language, 'BASIC' is coded as 101 and 'MAGIC' is coded as 102. How will 'LIGHT' be coded in the same language?",
+      "questionHtml": "In a code language, &#39;BASIC&#39; is coded as 101 and &#39;MAGIC&#39; is coded as 102. How will &#39;LIGHT&#39; be coded in the same language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "85",
+          "html": "85"
+        },
+        {
+          "id": "B",
+          "text": "79",
+          "html": "79"
+        },
+        {
+          "id": "C",
+          "text": "82",
+          "html": "82"
+        },
+        {
+          "id": "D",
+          "text": "86",
+          "html": "86"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Logic: The letters are coded as the sum of the letter's opposite positional values.</span></p>\n\n<p>'LIGHT' can be coded as → (15 + 18 + 20 + 19 + 7) = 79</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q45",
+      "number": 45,
+      "question": "In a certain code language, &lsquo;MAP&rsquo; is written as &lsquo;102&rsquo; and &lsquo;ROT&rsquo; is written as &lsquo;56&rsquo;. How will &lsquo;SEC&rsquo; be written in that language?",
+      "questionHtml": "In a certain code language, &lsquo;MAP&rsquo; is written as &lsquo;102&rsquo; and &lsquo;ROT&rsquo; is written as &lsquo;56&rsquo;. How will &lsquo;SEC&rsquo; be written in that language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "108",
+          "html": "108"
+        },
+        {
+          "id": "B",
+          "text": "112",
+          "html": "112"
+        },
+        {
+          "id": "C",
+          "text": "98",
+          "html": "98"
+        },
+        {
+          "id": "D",
+          "text": "84",
+          "html": "84"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Logic: Code of the word = (Sum of letter's opposite positional values) </span><span style=\"color: rgb(33, 37, 41);\">× 2</span></p>\n\n<p>'SEC' can be written as → (8 + 22 + 24) × 2 → 54 × 2 = 108</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q46",
+      "number": 46,
+      "question": "In a code language, 'PIG' is coded as 29 and 'COW' is coded as 38. How will 'CAMEL' be coded in the same language?",
+      "questionHtml": "In a code language, &#39;PIG&#39; is coded as 29 and &#39;COW&#39; is coded as 38. How will &#39;CAMEL&#39; be coded in the same language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "27",
+          "html": "27"
+        },
+        {
+          "id": "B",
+          "text": "29",
+          "html": "29"
+        },
+        {
+          "id": "C",
+          "text": "22",
+          "html": "22"
+        },
+        {
+          "id": "D",
+          "text": "34",
+          "html": "34"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Logic: Code of the word = (Sum of the letter's positional values) - (Number of letters in the word)</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">'CAMEL' can be coded as → (3 + 1 + 13 + 5 + 12) - 5 → 34 - 5 = 29</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q47",
+      "number": 47,
+      "question": "In a certain code language, 'APPLE' is coded as 250 and 'BERRY' is coded as 340. How will 'LITCHI' be coded in the same language?",
+      "questionHtml": "In a certain code language, &#39;APPLE&#39; is coded as 250 and &#39;BERRY&#39; is coded as 340. How will &#39;LITCHI&#39; be coded in the same language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "330",
+          "html": "330"
+        },
+        {
+          "id": "B",
+          "text": "306",
+          "html": "306"
+        },
+        {
+          "id": "C",
+          "text": "305",
+          "html": "305"
+        },
+        {
+          "id": "D",
+          "text": "350",
+          "html": "350"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem;  \"><span style=\"box-sizing: border-box; font-weight: bolder;\">Similarly for, LITCHI</span></p>\n\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem;  \">L + I + T + C + H + I = (12 + 9 + 20 + 3 + 8 + 9) x 5</p>\n\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem;  \">61 x 5 = 305</p>\n\n<p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem;  \">So, <span style=\"box-sizing: border-box; font-weight: bolder;\">the code for LITCHI is '305'</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q48",
+      "number": 48,
+      "question": "In a code language, 'SERIES' is coded as 87 and 'DISMAY' is coded as 91. How will 'SPRINT' be coded in the same language?",
+      "questionHtml": "In a code language, &#39;SERIES&#39; is coded as 87 and &#39;DISMAY&#39; is coded as 91. How will &#39;SPRINT&#39; be coded in the same language?",
+      "options": [
+        {
+          "id": "A",
+          "text": "66",
+          "html": "66"
+        },
+        {
+          "id": "B",
+          "text": "52",
+          "html": "52"
+        },
+        {
+          "id": "C",
+          "text": "57",
+          "html": "57"
+        },
+        {
+          "id": "D",
+          "text": "71",
+          "html": "71"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">'SPRINT' is coded as</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/24/11/F1_SSC__Priya_30_10_24_D58.png\" style=\"color: rgb(33, 37, 41); width: 307px; height: 149px;\" /></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/24/11/F1_SSC__Priya_30_10_24_D58.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q49",
+      "number": 49,
+      "question": "If each of the letters of the English alphabet is assigned an odd numerical value beginning with A = 1, B = 3 and so on, what will be the total value of the letters of the word RADICAL?",
+      "questionHtml": "If each of the letters of the English alphabet is assigned an odd numerical value beginning with A = 1, B = 3 and so on, what will be the total value of the letters of the word RADICAL?",
+      "options": [
+        {
+          "id": "A",
+          "text": "88",
+          "html": "88"
+        },
+        {
+          "id": "B",
+          "text": "99",
+          "html": "99"
+        },
+        {
+          "id": "C",
+          "text": "89",
+          "html": "89"
+        },
+        {
+          "id": "D",
+          "text": "90",
+          "html": "90"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/20/02/F1_S.G_12.2.20_Pallavi_D7.png\" /></p>\n\n<p>The total value for RADICAL is,</p>\n\n<p>RADICAL &rarr; 35 + 1 + 7 + 17 + 5 + 1 + 23 = 89</p>\n\n<p>Hence, &ldquo;89&rdquo; is the correct answer.</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/20/02/F1_S.G_12.2.20_Pallavi_D7.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "2c2624ad7539-q50",
+      "number": 50,
+      "question": "If in a coding system, SUBSTANCE is coded as 101 and SUPREME is coded as 94, then how will PORTRAIT be coded in the same coding system?",
+      "questionHtml": "If in a coding system, SUBSTANCE is coded as 101 and SUPREME is coded as 94, then how will PORTRAIT be coded in the same coding system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "116",
+          "html": "116"
+        },
+        {
+          "id": "B",
+          "text": "115",
+          "html": "115"
+        },
+        {
+          "id": "C",
+          "text": "114",
+          "html": "114"
+        },
+        {
+          "id": "D",
+          "text": "117",
+          "html": "117"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/20/06/Common_Diagram_28.01.2020_D1.png\" style=\"width: 536px; height: 128px;\" /></p>\n\n<p>The logic&nbsp;followed is:-</p>\n\n<p>Code = Sum of&nbsp;the place values - number of vowels.</p>\n\n<p><strong>SUBSTANCE</strong></p>\n\n<p>Sum of place values:</p>\n\n<p>SUBSTANCE = 19 + 21 + 2 + 19 + 20 + 1 + 14 + 3 + 5</p>\n\n<p>= 104</p>\n\n<p>Number of vowels = 3 (S<strong>U</strong>BST<strong>A</strong>NC<strong>E</strong>)</p>\n\n<p>Code = 104 - 3</p>\n\n<p>=101.</p>\n\n<p><strong>SUPREME</strong></p>\n\n<p>Sum of Place values:</p>\n\n<p>SUPREME = 19 + 21 + 16 + 18 + 5 + 13 + 5</p>\n\n<p>= 97</p>\n\n<p>Number of vowels = 3&nbsp;(S<span style=\"font-weight: 700;\">U</span>PR<span style=\"font-weight: 700;\">E</span>M<span style=\"font-weight: 700;\">E</span>)</p>\n\n<p>Code = 97 - 3</p>\n\n<p>= 94.</p>\n\n<p>Similarly,&nbsp;</p>\n\n<p><strong>PORTRAIT</strong></p>\n\n<p>Sum of place values:</p>\n\n<p>PORTRAIT = 16 + 15 + 18 + 20 + 18 + 1 + 9 + 20</p>\n\n<p>=117</p>\n\n<p>Number of vowels = 3 (P<strong>O</strong>RTR<strong>AI</strong>T)</p>\n\n<p>Code = 117 - 3</p>\n\n<p>= 114.</p>\n\n<p>Hence, the correct answer is &quot;<strong>114</strong>&quot;.</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/20/06/Common_Diagram_28.01.2020_D1.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

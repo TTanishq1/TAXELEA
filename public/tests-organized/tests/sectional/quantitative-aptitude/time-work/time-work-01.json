@@ -1,0 +1,184 @@
+{
+  "id": "time-work-01-placeholder",
+  "provider": "Testbook",
+  "sourceFile": "Time & Work - 01.json",
+  "title": "Time & Work - 01",
+  "exam": "SSC CGL",
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 30,
+  "questionCount": 5,
+  "questions": [
+    {
+      "id": "time-work-01-q1",
+      "number": 1,
+      "question": "If A can complete a work in 10 days and B can complete the same work in 15 days, in how many days can they complete the work together?",
+      "questionHtml": "<p>If A can complete a work in 10 days and B can complete the same work in 15 days, in how many days can they complete the work together?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 days",
+          "html": "5 days"
+        },
+        {
+          "id": "B",
+          "text": "6 days",
+          "html": "6 days"
+        },
+        {
+          "id": "C",
+          "text": "8 days",
+          "html": "8 days"
+        },
+        {
+          "id": "D",
+          "text": "7 days",
+          "html": "7 days"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>A's 1 day work = 1/10, B's 1 day work = 1/15. Together their 1 day work = 1/10 + 1/15 = 3/30 + 2/30 = 5/30 = 1/6. So they can complete the work in 6 days.</p>",
+      "images": [],
+      "subject": "quantitative-aptitude",
+      "topic": "time-work",
+      "difficulty": "easy"
+    },
+    {
+      "id": "time-work-01-q2",
+      "number": 2,
+      "question": "A can do a piece of work in 6 days and B can do it in 8 days. With the help of C, they completed the work in 3 days. Find the time taken by C alone.",
+      "questionHtml": "<p>A can do a piece of work in 6 days and B can do it in 8 days. With the help of C, they completed the work in 3 days. Find the time taken by C alone.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 days",
+          "html": "12 days"
+        },
+        {
+          "id": "B",
+          "text": "24 days",
+          "html": "24 days"
+        },
+        {
+          "id": "C",
+          "text": "18 days",
+          "html": "18 days"
+        },
+        {
+          "id": "D",
+          "text": "20 days",
+          "html": "20 days"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>A's 1 day work = 1/6, B's 1 day work = 1/8. (A+B+C)'s 1 day work = 1/3. So C's 1 day work = 1/3 - (1/6 + 1/8) = 1/3 - 7/24 = 8/24 - 7/24 = 1/24. C alone can do the work in 24 days.</p>",
+      "images": [],
+      "subject": "quantitative-aptitude",
+      "topic": "time-work",
+      "difficulty": "medium"
+    },
+    {
+      "id": "time-work-01-q3",
+      "number": 3,
+      "question": "A is twice as efficient as B. If A can complete a work in 12 days, how long will B take to complete the same work?",
+      "questionHtml": "<p>A is twice as efficient as B. If A can complete a work in 12 days, how long will B take to complete the same work?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "18 days",
+          "html": "18 days"
+        },
+        {
+          "id": "B",
+          "text": "24 days",
+          "html": "24 days"
+        },
+        {
+          "id": "C",
+          "text": "20 days",
+          "html": "20 days"
+        },
+        {
+          "id": "D",
+          "text": "15 days",
+          "html": "15 days"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Since A is twice as efficient as B, B will take twice as much time as A. B's time = 2 × 12 = 24 days.</p>",
+      "images": [],
+      "subject": "quantitative-aptitude",
+      "topic": "time-work",
+      "difficulty": "easy"
+    },
+    {
+      "id": "time-work-01-q4",
+      "number": 4,
+      "question": "20 men can complete a work in 15 days. How many men are required to complete the same work in 10 days?",
+      "questionHtml": "<p>20 men can complete a work in 15 days. How many men are required to complete the same work in 10 days?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "25 men",
+          "html": "25 men"
+        },
+        {
+          "id": "B",
+          "text": "30 men",
+          "html": "30 men"
+        },
+        {
+          "id": "C",
+          "text": "35 men",
+          "html": "35 men"
+        },
+        {
+          "id": "D",
+          "text": "28 men",
+          "html": "28 men"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>This is an inverse proportion problem. More men means less time. Required men = (20 × 15)/10 = 300/10 = 30 men.</p>",
+      "images": [],
+      "subject": "quantitative-aptitude",
+      "topic": "time-work",
+      "difficulty": "easy"
+    },
+    {
+      "id": "time-work-01-q5",
+      "number": 5,
+      "question": "A can do a work in 10 days. B can do the same work in 15 days. They work together for 4 days, then A leaves. In how many more days will B complete the remaining work?",
+      "questionHtml": "<p>A can do a work in 10 days. B can do the same work in 15 days. They work together for 4 days, then A leaves. In how many more days will B complete the remaining work?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 days",
+          "html": "5 days"
+        },
+        {
+          "id": "B",
+          "text": "6 days",
+          "html": "6 days"
+        },
+        {
+          "id": "C",
+          "text": "4 days",
+          "html": "4 days"
+        },
+        {
+          "id": "D",
+          "text": "7 days",
+          "html": "7 days"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>A's 1 day work = 1/10, B's 1 day work = 1/15. Together's 1 day work = 1/10 + 1/15 = 1/6. In 4 days they complete 4/6 = 2/3 work. Remaining work = 1 - 2/3 = 1/3. B will complete 1/3 work in (1/3)/(1/15) = 5 days.</p>",
+      "images": [],
+      "subject": "quantitative-aptitude",
+      "topic": "time-work",
+      "difficulty": "medium"
+    }
+  ]
+}

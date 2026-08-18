@@ -1,0 +1,1739 @@
+{
+  "id": "70be59128146",
+  "provider": "Testbook",
+  "sourceFile": "Trigonometry - Trigonometric Ratios and Identities - 05.html",
+  "sourcePath": "Testbook/files/Trigonometry - Trigonometric Ratios and Identities - 05.html",
+  "title": "Trigonometry - Trigonometric Ratios and Identities - 05",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "70be59128146-q1",
+      "number": 1,
+      "question": "If sin &theta; = \\(\\frac{11}{12}\\) , then what will be the value of (tan &theta; + sec &theta;) ?",
+      "questionHtml": "<span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">If sin&nbsp;&theta; =&nbsp;<span class=\"math-tex\">\\(\\frac{11}{12}\\)</span>,&nbsp;</span>then what will be the value of (tan &theta; + sec &theta;) ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{12}{\\sqrt{23}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{12}{\\sqrt{23}}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\({\\sqrt{23}}\\)",
+          "html": "<span class=\"math-tex\">\\({\\sqrt{23}}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "23",
+          "html": "23"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{11}{\\sqrt{23}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{11}{\\sqrt{23}}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>sin<sup>2</sup>θ + cos<sup>2</sup>θ = 1 (11/12)<sup>2</sup> + cos<sup>2</sup>θ = 1 121/144 + cos<sup>2</sup>θ = 1 cos<sup>2</sup>θ =</p>\n\n<p>23/144 cos θ = √(23/144) = √23/12</p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">tan θ = sin θ / cos θ tan θ = (11/12) / (√23/12) = 11 / √23 sec θ = 1 / cos θ</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">sec θ = 12 / √23</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">tan θ + sec θ = (11 / √23) + (12 / √23) tan θ + sec θ = (11 + 12) / √23 tan θ</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">+ sec θ = 23 / √23 = √23</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q2",
+      "number": 2,
+      "question": "&Delta;PQR is right-angled at Q. The length of PQ is 5 cm and &ang;PRQ = 30&deg;. Determine the length of side QR.",
+      "questionHtml": "&Delta;PQR is right-angled at Q. The length of PQ is 5 cm and&nbsp;&ang;PRQ = 30&deg;. Determine the length of side QR.",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(5\\sqrt3\\) cm",
+          "html": "<span class=\"math-tex\">\\(5\\sqrt3\\)</span>&nbsp;cm"
+        },
+        {
+          "id": "B",
+          "text": "\\(3\\sqrt3\\) cm",
+          "html": "<span class=\"math-tex\">\\(3\\sqrt3\\)</span>&nbsp;<span style=\"\">cm</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{1}{\\sqrt3}\\) cm",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{\\sqrt3}\\)</span>&nbsp;<span style=\"\">cm</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{5}{\\sqrt3}\\) cm",
+          "html": "<span class=\"math-tex\">\\(\\frac{5}{\\sqrt3}\\)</span>&nbsp;<span style=\"\">cm</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/04/F9_Savita_SSC_24-4-23_D4.png\" style=\"width: 185px; height: 174px;\" /></p>\n\n<p style=\"color: rgb(33, 37, 41);\">From the figure: ⇒ Tan R = PQ/QR ⇒ Tan 30° = 5/QR ⇒ 1/√3 =  5/QR ⇒ QR = 5√3 cm</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/23/04/F9_Savita_SSC_24-4-23_D4.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q3",
+      "number": 3,
+      "question": "Evaluate (9 sin &theta; + 2 cos &theta;) / (9 sin &theta; &minus; 2 cos &theta;), if 3 tan &theta; = 4.",
+      "questionHtml": "Evaluate (9 sin &theta; + 2 cos &theta;) / (9 sin &theta; &minus; 2 cos &theta;), if 3 tan &theta; = 4.",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{6}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{6}{5}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{9}{7}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{9}{7}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{7}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{7}{5}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{5}{7}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{5}{7}\\)</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Given 3 tan θ = 4 ⇒ <strong>tan θ = 4/3</strong>.</p>\n<p>Divide the numerator and denominator by <strong>cos θ</strong> to convert the expression into <strong>tan θ</strong>.</p>\n<p>Expression = (9 tan θ + 2) / (9 tan θ − 2)</p>\n<p>Substitute tan θ = 4/3 ⇒ (9 × 4/3 + 2) / (9 × 4/3 − 2) = (12 + 2) / (12 − 2) = 14 / 10 = 7/5.</p>\n<p><strong>∴ The correct answer is 7/5.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_9d920ca9.png/1785477019.png\" style=\"max-width: 100%; height: auto; width: 420px; max-height: 220px;\"></div>\n<p><strong>Given:</strong> 3 tan θ = 4</p>\n<p><strong>Formula Used:</strong> tan θ = Perpendicular / Base; sin θ = P/H; cos θ = B/H</p>\n<p>⇒ tan θ = 4/3</p>\n<p>⇒ Let Perpendicular (P) = 4, Base (B) = 3</p>\n<p>⇒ Hypotenuse (H) = √(P<sup>2</sup> + B<sup>2</sup>) = √(4<sup>2</sup> + 3<sup>2</sup>) = √25 = 5</p>\n<p>⇒ sin θ = 4/5 and cos θ = 3/5</p>\n<p>⇒ (9 × 4/5 + 2 × 3/5) / (9 × 4/5 − 2 × 3/5)</p>\n<p>⇒ (36/5 + 6/5) / (36/5 − 6/5) = (42/5) / (30/5)</p>\n<p>⇒ 42 / 30 = 7/5</p>\n<p><strong>∴ The correct answer is 7/5.</strong></p>\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Trigonometric Ratios</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Fundamental ratios are sin θ = P/H, cos θ = B/H, and tan θ = P/B.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Pythagorean Triplets</p>\n<p style='margin:0 0 8px 0;color:#444444;'>Sets of three positive integers (a, b, c) such that a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>. Common triplets include (3, 4, 5) and (5, 12, 13).</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Ratio Transformation</p>\n<p style='margin:0 0 8px 0;color:#444444;'>An expression involving sin θ and cos θ of the same degree can be simplified by dividing by cos θ or sin θ to convert it into tan θ or cot θ.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_9d920ca9.png/1785477019.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q4",
+      "number": 4,
+      "question": "if cot &theta; = \\(\\frac{15}{8}\\) , &theta; is an acute angle, then find the value of \\(\\rm \\frac{(1-cos\\theta)(2+2cos\\theta)}{(2-2sin\\theta)(1+sin\\theta)}\\) .",
+      "questionHtml": "if cot&nbsp;&theta; =&nbsp;<span class=\"math-tex\">\\(\\frac{15}{8}\\)</span>,&nbsp;&theta; is an acute angle, then find the value of&nbsp;<span class=\"math-tex\">\\(\\rm \\frac{(1-cos\\theta)(2+2cos\\theta)}{(2-2sin\\theta)(1+sin\\theta)}\\)</span>.",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{225}{64}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{225}{64}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{64}{225}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{64}{225}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{16}{15}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{16}{15}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{8}{15}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{8}{15}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Simplify the expression using the <strong>identity</strong> (1 − cos<sup>2</sup> θ) = sin<sup>2</sup> θ and (1 − sin<sup>2</sup> θ) = cos<sup>2</sup> θ.</p>\n<p>Expression = [2(1 − cos θ)(1 + cos θ)] ÷ [2(1 − sin θ)(1 + sin θ)] = (1 − cos<sup>2</sup> θ) ÷ (1 − sin<sup>2</sup> θ).</p>\n<p>This simplifies directly to sin<sup>2</sup> θ ÷ cos<sup>2</sup> θ = <strong>tan<sup>2</sup> θ</strong>.</p>\n<p>Since <strong>cot θ = 15/8</strong>, then <strong>tan θ = 8/15</strong>.</p>\n<p>Result = (8/15)<sup>2</sup> = 64/225.</p>\n<p><strong>∴ The correct answer is 64/225.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> cot θ = 15/8, where θ is an <strong>acute angle</strong>.</p>\n<p>In a <strong>right-angled triangle</strong>, cot θ = Base / Perpendicular.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_23acf696.png/1784056986.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p>Using <strong>Pythagoras Theorem</strong>: H<sup>2</sup> = P<sup>2</sup> + B<sup>2</sup> ⇒ H<sup>2</sup> = 8<sup>2</sup> + 15<sup>2</sup> = 64 + 225 = 289 ⇒ <strong>H = 17</strong>.</p>\n<p><strong>Formula Used:</strong> (a − b)(a + b) = a<sup>2</sup> − b<sup>2</sup></p>\n<p>Expression = ((1 − cos θ)(2 + 2 cos θ)) / ((2 − 2 sin θ)(1 + sin θ))</p>\n<p>⇒ [2 × (1 − cos θ)(1 + cos θ)] / [2 × (1 − sin θ)(1 + sin θ)]</p>\n<p>⇒ (1 − cos<sup>2</sup> θ) / (1 − sin<sup>2</sup> θ)</p>\n<p>By <strong>trigonometric identities</strong>: 1 − cos<sup>2</sup> θ = sin<sup>2</sup> θ and 1 − sin<sup>2</sup> θ = cos<sup>2</sup> θ</p>\n<p>⇒ sin<sup>2</sup> θ / cos<sup>2</sup> θ = tan<sup>2</sup> θ</p>\n<p>⇒ (1 / cot θ)<sup>2</sup></p>\n<p>⇒ (1 / (15/8))<sup>2</sup> = (8/15)<sup>2</sup></p>\n<p>⇒ 64 / 225</p>\n<p><strong>∴ The correct answer is 64/225.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Fundamental Trigonometric Identities</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">1. sin<sup>2</sup> θ + cos<sup>2</sup> θ = 1 | 2. 1 + tan<sup>2</sup> θ = sec<sup>2</sup> θ | 3. 1 + cot<sup>2</sup> θ = cosec<sup>2</sup> θ.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Reciprocal Relations</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">tan θ = 1 / cot θ, sec θ = 1 / cos θ, and cosec θ = 1 / sin θ.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Pythagorean Triplet</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">For a right-angled triangle with sides (8, 15, 17), the square of the largest side equals the sum of the squares of the other two sides (17<sup>2</sup> = 8<sup>2</sup> + 15<sup>2</sup>).</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_23acf696.png/1784056986.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q5",
+      "number": 5,
+      "question": "Find the value of tan 3&theta; if sec 3&theta; = cosec (4&theta; - 15&deg;).",
+      "questionHtml": "Find the value of tan 3&theta; if sec 3&theta; = cosec (4&theta; - 15&deg;).",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{1}{{\\sqrt 3 }}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{{\\sqrt 3 }}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\sqrt 3 \\)",
+          "html": "<span class=\"math-tex\">\\(\\sqrt 3 \\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "&ndash;1",
+          "html": "&ndash;1"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>sec 3θ = cosec (4θ - 15)</p>\n\n<p>⇒ cosec (90° - 3θ) = cosec (4θ – 15°)</p>\n\n<p>⇒ 90° - 3θ = 4θ - 15° <span style=\"\">⇒ 7θ = 90° + 15° ⇒ θ = 105°/7 = 15°</span></p>\n\n<p><span style=\"\">so, tan3θ = tan(3 × 15°)  = tan45° = 1</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q6",
+      "number": 6,
+      "question": "If sec &theta; + tan &theta; = 3, then what is the value of sec &theta; - tan &theta; ?",
+      "questionHtml": "If sec &theta;&nbsp;+ tan&nbsp;&theta; = 3, then what is the value of sec &theta;&nbsp;- tan&nbsp;&theta; ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/3",
+          "html": "1/3"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "C",
+          "text": "1/6",
+          "html": "1/6"
+        },
+        {
+          "id": "D",
+          "text": "1/5",
+          "html": "1/5"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">⇒ </span>sec θ + tan θ = 3 ⇒ sec θ - tan θ = 1/3</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q7",
+      "number": 7,
+      "question": "If A = 30&deg;, what is the value of: \\(\\frac{\\left[8 \\sin \\mathrm{A}+11 \\operatorname{cosec} \\mathrm{A}-\\cot ^{2} \\mathrm{A}\\right]}{10 \\cos 2 \\mathrm{A}}\\) ?",
+      "questionHtml": "If A = 30&deg;, what is the value of: <span class=\"math-tex\">\\(\\frac{\\left[8 \\sin \\mathrm{A}+11 \\operatorname{cosec} \\mathrm{A}-\\cot ^{2} \\mathrm{A}\\right]}{10 \\cos 2 \\mathrm{A}}\\)</span>?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 \\(\\frac{4}{5}\\)",
+          "html": "3<span class=\"math-tex\">\\(\\frac{4}{5}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "4 \\(\\frac{2}{5}\\)",
+          "html": "4<span class=\"math-tex\">\\(\\frac{2}{5}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "5 \\(\\frac{1}{5}\\)",
+          "html": "5<span class=\"math-tex\">\\(\\frac{1}{5}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "4 \\(\\frac{3}{5}\\)",
+          "html": "4<span class=\"math-tex\">\\(\\frac{3}{5}\\)</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p> <span class=\"math-tex\">\\(\\frac{\\left[8 \\sin \\mathrm{A}+11 \\operatorname{cosec} \\mathrm{A}-\\cot ^{2} \\mathrm{A}\\right]}{10 \\cos 2 \\mathrm{A}}\\)</span> </p>\n\n<p>⇒ <span class=\"math-tex\">\\({8sin30 + 11cosec30-cot^230}\\over10cos2\\times30\\)</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> </span><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span class=\"math-tex\">\\({8\\times{1\\over2}+11\\times2-(\\sqrt3)^2}\\over{10\\times{1\\over2}}\\)</span><strong> </strong><span style=\"color: rgb(33, 37, 41);\">⇒ <span class=\"math-tex\">\\({4+22-3}\\over{5}\\)</span></span><strong> </strong><span style=\"color: rgb(33, 37, 41);\">⇒ <span class=\"math-tex\">\\(23\\over5\\)</span></span><strong> </strong>=<strong> </strong><span class=\"math-tex\">\\({4}{3\\over5}\\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q8",
+      "number": 8,
+      "question": "If sin x &ndash; cos x = 0, 0&deg; < x < 90&deg; then the value of (sec x + cosec x) 2 is:",
+      "questionHtml": "If sin x &ndash; cos x = 0, 0&deg; &lt; x &lt; 90&deg; then the value of (sec x + cosec x)<sup>2</sup> is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "C",
+          "text": "10",
+          "html": "10"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "6"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given</strong></p>\n\n<p>sin x &ndash; cos x = 0</p>\n\n<p><strong>Calculation</strong></p>\n\n<p>sin x &ndash; cos x = 0</p>\n\n<p>&rArr; sinx = cosx</p>\n\n<p>&rArr; sinx = sin(90&deg; - x)</p>\n\n<p>&rArr; x = 90&deg; - x</p>\n\n<p>&rArr; 2x =&nbsp;90&deg;</p>\n\n<p>&rArr; x = 45&deg;</p>\n\n<p>Now,</p>\n\n<p>(sec x + cosec x)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;</p>\n\n<p>=&nbsp;(sec 45&deg; + cosec 45&deg;)<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></p>\n\n<p>= (&radic;2 +&nbsp;&radic;2)<sup>2</sup></p>\n\n<p>= (2&radic;2)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span></p>\n\n<p>= 8</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q9",
+      "number": 9,
+      "question": "If tan x = \\(\\frac{7}{5}\\) , then the value of \\(\\frac{9 \\sin x - \\frac{42}{5}\\cos x}{15 \\sin x + 21 \\cos x}\\) is:",
+      "questionHtml": "If tan x =&nbsp;<span class=\"math-tex\">\\(\\frac{7}{5}\\)</span>,&nbsp;then the value of&nbsp;<span class=\"math-tex\">\\(\\frac{9 \\sin x - \\frac{42}{5}\\cos x}{15 \\sin x + 21 \\cos x}\\)</span>&nbsp;is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "text": "0.1",
+          "html": "0.1"
+        },
+        {
+          "id": "D",
+          "text": "0.5",
+          "html": "0.5"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">tan x = 7/5 = P/B</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">H<sup>2</sup> = P<sup>2</sup> + B<sup>2</sup>  = 7<sup>2</sup> + 5<sup>2</sup> = 74 ⇒  h = √74.</span></p>\n\n<p><span class=\"math-tex\">\\(\\frac{9 \\sin x - \\frac{42}{5}\\cos x}{15 \\sin x + 21 \\cos x}\\)</span></p>\n\n<p>⇒ (9 × 7/<span style=\"color: rgb(33, 37, 41);\">√74</span> - 42/5 × 5/<span style=\"color: rgb(33, 37, 41);\">√74</span>)/(<span style=\"color: rgb(33, 37, 41);\">15 × 7/√74 + 21 × 5/√74) ⇒ (21/√74)/(210/√74) ⇒ 21/210 ⇒ 0.1</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q10",
+      "number": 10,
+      "question": "In &Delta;XYZ, right angled at Y, if sin X = \\(\\frac{1}{2}\\) , find the value of cos X cos Z + sin X sin Z.",
+      "questionHtml": "In &Delta;XYZ, right angled at Y, if sin X = <span class=\"math-tex\">\\(\\frac{1}{2}\\)</span>, find the value of cos X cos Z + sin X sin Z.",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{\\sqrt3}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{\\sqrt3}{2}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{\\sqrt3}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{\\sqrt3}{4}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{2}{\\sqrt3}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{2}{\\sqrt3}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\sqrt3\\)",
+          "html": "<span class=\"math-tex\">\\(\\sqrt3\\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">cos X cos Z + sin X sin Z = cos (Z - X)</p>\n\n<p style=\"color: rgb(33, 37, 41);\"> sin X = <span class=\"math-tex\">\\(\\frac{1}{2}\\)</span> = 30° </p>\n\n<p style=\"color: rgb(33, 37, 41);\">X =  30°,  y = 90°, z = 60°</p>\n\n<p style=\"color: rgb(33, 37, 41);\">(cos Z - X) = cos (60° - 30°)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">cos 30° = <span class=\"math-tex\">\\(\\frac{\\sqrt3}{2}\\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q11",
+      "number": 11,
+      "question": "Evaluate the given expression: \\(\\frac{5}{1 + \\cot^2\\theta} + \\frac{3}{1 + \\tan^2\\theta} + 2\\cos^2\\theta \\)",
+      "questionHtml": "Evaluate the given expression:&nbsp;<span class=\"math-tex\">\\(\\frac{5}{1 + \\cot^2\\theta} + \\frac{3}{1 + \\tan^2\\theta} + 2\\cos^2\\theta \\)</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "5"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span>(5)/(1 + cot<sup>2</sup>θ) + (3)/(1 + tan<sup>2</sup>θ) + 2cos<sup>2</sup>θ</p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">5sin</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">θ + 3cos</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">θ + 2cos</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">θ</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">5sin</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">θ + 5cos</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">θ </span><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">5(sin</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">θ + cos</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">θ) = 5</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q12",
+      "number": 12,
+      "question": "Simplify the following expression: \\({1-\\sin A\\over \\cos A}+{\\cos A \\over 1-\\sin A}\\)",
+      "questionHtml": "Simplify the following expression:&nbsp;<span style=\"color: rgb(34, 34, 34);   \"><span class=\"math-tex\">\\({1-\\sin A\\over \\cos A}+{\\cos A \\over 1-\\sin A}\\)</span></span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 cos A",
+          "html": "2 cos A"
+        },
+        {
+          "id": "B",
+          "text": "2 tan A",
+          "html": "2 tan A"
+        },
+        {
+          "id": "C",
+          "text": "2 sec A",
+          "html": "2 sec A"
+        },
+        {
+          "id": "D",
+          "text": "2 sin A",
+          "html": "2 sin A"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"><span class=\"math-tex\">\\({1-\\sin A\\over \\cos A}+{\\cos A \\over 1-\\sin A}\\)</span>= <span class=\"math-tex\">\\({(1-\\sin A)^2+\\cos^2 A\\over \\cos A( 1-\\sin A)}\\)</span>= <span class=\"math-tex\">\\(sin^{2}A+cos^{2}A+1-2sinA\\over (1-sinA)cosA\\)</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">= <span class=\"math-tex\">\\(2-2sinA\\over(1-sinA)(cosA)\\)</span> = <span class=\"math-tex\">\\(2(1-sinA)\\over (1-sinA)cosA\\)</span><span style=\"color: rgb(33, 37, 41);\"> = </span><span class=\"math-tex\">\\(2\\over cosA\\)</span>= 2 sec A</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q13",
+      "number": 13,
+      "question": "If &radic;2 sin (60&deg; &ndash; &alpha;) = 1, 0&deg; < &alpha; < 90&deg;, then &alpha; is equal to:",
+      "questionHtml": "If &radic;2 sin (60&deg; &ndash; &alpha;) = 1, 0&deg; &lt; &alpha; &lt; 90&deg;, then &alpha; is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "45&deg;",
+          "html": "45&deg;"
+        },
+        {
+          "id": "B",
+          "text": "30&deg;",
+          "html": "30&deg;"
+        },
+        {
+          "id": "C",
+          "text": "15&deg;",
+          "html": "15&deg;"
+        },
+        {
+          "id": "D",
+          "text": "60&deg;",
+          "html": "60&deg;"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>&radic;2 sin(60&deg; &ndash; &alpha;) = 1</p>\n\n<p>sin(60&deg; &ndash; &alpha;) = 1/&radic;2 = sin45&deg;</p>\n\n<p>60&deg; &ndash; &alpha; = 45&deg;</p>\n&there4; &alpha; = 60&deg; &ndash; 45&deg; = 15&deg;",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q14",
+      "number": 14,
+      "question": "If \\(\\frac{{\\sin A + \\cos A}}{{\\cos A}} = \\frac{{17}}{{12}},\\) then the value of \\(\\frac{{1 - \\cos A}}{{\\sin A}}\\) is:",
+      "questionHtml": "If <span class=\"math-tex\">\\(\\frac{{\\sin A + \\cos A}}{{\\cos A}} = \\frac{{17}}{{12}},\\)</span>&nbsp;then the value of <span class=\"math-tex\">\\(\\frac{{1 - \\cos A}}{{\\sin A}}\\)</span>&nbsp;is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5/12",
+          "html": "5/12"
+        },
+        {
+          "id": "B",
+          "text": "1/5",
+          "html": "1/5"
+        },
+        {
+          "id": "C",
+          "text": "-5",
+          "html": "-5"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>sinA + cosA/cosA = 17/12</p>\n\n<p>&rArr; 12 sin A + 12 cos A = 17 cos A</p>\n\n<p>&rArr; 12 sin A = 5 cos A</p>\n\n<p>&rArr; sin A/cos A = 5/12</p>\n\n<p>&rArr; tanA = 5/12</p>\n\n<p>&rArr; tanA = P/B = 5/12</p>\n\n<p>Perpendicular = P, Base = B and Hypotenuse = H</p>\n\n<p>P = 5 and B = 12</p>\n\n<p>H<sup>2</sup> = P<sup>2</sup> + B<sup>2</sup></p>\n\n<p>&rArr; H<sup>2</sup> = 12<sup>2</sup> + 5<sup>2</sup></p>\n\n<p>&rArr; H<sup>2</sup> = 144 + 25</p>\n\n<p>&rArr; H<sup>2</sup> = 169</p>\n\n<p>&rArr; H = &radic;169</p>\n\n<p>&rArr; H = 13</p>\n\n<p>sin A = P/H = 5/13</p>\n\n<p>cos A = B/H = 12/13</p>\n\n<p>Now,</p>\n\n<p>&rArr; (1 - cos A)/sinA</p>\n\n<p>&rArr; (1 - 12/13)/5/13</p>\n\n<p>&rArr; (1/13)/(5/13)</p>\n&rArr; 1/5",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q15",
+      "number": 15,
+      "question": "Evaluate \\(\\frac{\\sin 54^{\\circ}}{\\cos 36^{\\circ}}+\\frac{\\sec 46^{\\circ}}{\\operatorname{cosec} 44^{\\circ}}\\)",
+      "questionHtml": "Evaluate <span class=\"math-tex\">\\(\\frac{\\sin 54^{\\circ}}{\\cos 36^{\\circ}}+\\frac{\\sec 46^{\\circ}}{\\operatorname{cosec} 44^{\\circ}}\\)</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">0</font></font>"
+        },
+        {
+          "id": "B",
+          "text": "-1",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">-1</font></font>"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">2</font></font>"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">1</font></font>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">⇒ </span>sin<span class=\"math-tex\">\\(54^\\circ\\)</span>/cos<span class=\"math-tex\">\\(36^\\circ\\)</span> + sec<span class=\"math-tex\">\\(46^\\circ\\)</span>/cosec<span class=\"math-tex\">\\(44^\\circ\\)</span> </p>\n\n<p style=\"color: rgb(33, 37, 41);\">As, we know that sin(90 - <span class=\"math-tex\">\\(\\theta\\)</span>) = cos<span class=\"math-tex\">\\(\\theta\\)</span>  , sec (90 - <span class=\"math-tex\">\\(\\theta\\)</span>) = cosec<span class=\"math-tex\">\\(\\theta\\)</span> </p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ sin (90 - 36)/cos36 + sec(90 - 44)/cosec44</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ cos36/cos36 + cosec44/cosec44 = 1 + 1 = 2  </p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q16",
+      "number": 16,
+      "question": "If 6 Cot &theta; = 5, then find the value of (6 cos &theta; + sin &theta;)/(6 cos &theta; - 4 sin &theta;)",
+      "questionHtml": "If 6&nbsp;<span style=\"\">Cot&nbsp;</span>&theta; = 5, then find the value of (6 cos &theta; + sin &theta;)/(6 cos &theta; - 4 sin &theta;)",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "<span style=\"\">5</span>"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "<span style=\"\">1</span>"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "<span style=\"\">6</span>"
+        },
+        {
+          "id": "D",
+          "text": "0",
+          "html": "<span style=\"\">0</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">(6 cos θ + sin θ)/(6 cos θ - 4 sin θ)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Divide by sinθ in numerator and denominator</p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span class=\"math-tex\">\\(\\frac{\\frac{(6 cos θ + sin θ)}{sin\\theta}}{\\frac{(6 cos θ - 4 sin θ)}{sin\\theta}}\\)</span> = <span class=\"math-tex\">\\(\\frac{(6 cot θ + 1)}{(6 cot θ - 4)}\\)</span> = <span class=\"math-tex\">\\(\\frac{(5 + 1)}{(5 - 4)}\\)</span> = <span style=\"color: rgb(33, 37, 41);\">6</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q17",
+      "number": 17,
+      "question": "If sin 2 x = 3 cos 2 x and 0&deg; &le; x &le; 90&deg;, then what is the value of \\(\\frac{x}{2}\\) ?",
+      "questionHtml": "If sin<sup>2</sup>x = 3 cos<sup>2</sup>x and 0&deg;&nbsp;&le; x&nbsp;&le; 90&deg;, then what is the value of&nbsp;<span class=\"math-tex\">\\(\\frac{x}{2}\\)</span>?",
+      "options": [
+        {
+          "id": "A",
+          "text": "22.5&deg;",
+          "html": "22.5&deg;"
+        },
+        {
+          "id": "B",
+          "text": "45 &deg;",
+          "html": "45<span style=\"\">&deg;</span>"
+        },
+        {
+          "id": "C",
+          "text": "15 &deg;",
+          "html": "15<span style=\"\">&deg;</span>"
+        },
+        {
+          "id": "D",
+          "text": "30 &deg;",
+          "html": "30<span style=\"\">&deg;</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">sin</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">x = 3 cos</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">x and 0&deg;&nbsp;&le; x&nbsp;&le; 90&deg;</span></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><span style=\"\">sin</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">x = 3 cos</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">x&nbsp;&rArr;&nbsp;sin</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">x/cos</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">x = 3</span></p>\n\n<p><span style=\"\">&rArr; tan</span><span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"\">x = 3</span></p>\n\n<p><span style=\"\">&rArr; tan</span><span style=\"\">x = &radic;3</span></p>\n\n<p><span style=\"\">&rArr; tanx = tan60&deg;&nbsp;</span></p>\n\n<p><span style=\"\">&rArr; x = 60&deg;&nbsp;</span></p>\n\n<p><span style=\"\">&rArr; x/2 = 60&deg;/2</span></p>\n\n<p><span style=\"\">&rArr; x/2 = 30&deg;</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q18",
+      "number": 18,
+      "question": "\\(\\triangle\\) ABC is a right-angle triangle at B and tan A = \\(\\frac{3}{4}\\) , then sin A + sin B + sin C will be equal to:",
+      "questionHtml": "<span class=\"math-tex\">\\(\\triangle\\)</span>ABC is a right-angle triangle at B and tan A =&nbsp;<span class=\"math-tex\">\\(\\frac{3}{4}\\)</span>, then sin A + sin B + sin C will be equal to:&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 \\(\\frac{4}{5}\\)",
+          "html": "2<span class=\"math-tex\">\\(\\frac{4}{5}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(2\\frac{2}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(2\\frac{2}{5}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(3\\frac{1}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(3\\frac{1}{5}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(1\\frac{1}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(1\\frac{1}{5}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><img alt=\"\" src=\"//cdn.testbook.com/images/production/quesImages/qImage64a6c3869d9e67a4b58380ba.png\" /></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">tan A = </span><span class=\"math-tex\">\\(\\frac{3}{4}\\)</span> = P/B, then hypotenuse(H) = 5  [ as 3, 4, 5 are triplets ]</p>\n\n<p> sin A + sin B + sin C ⇒ 3/5 + sin 90° + 4/5 ⇒ <span style=\"color: rgb(33, 37, 41);\">3/5 + 1 + 4/5 = 12/5 = <span class=\"math-tex\">\\(2\\frac{2}{5}\\)</span></span></p>\n",
+      "images": [
+        "//cdn.testbook.com/images/production/quesImages/qImage64a6c3869d9e67a4b58380ba.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q19",
+      "number": 19,
+      "question": "If sin(A + B) = &radic;3/2 and tan(A &ndash; B) = 1/&radic;3, then (2A + 3B) is equal to∶",
+      "questionHtml": "If sin(A + B) = &radic;3/2 and tan(A &ndash; B) = 1/&radic;3, then (2A + 3B) is equal to∶",
+      "options": [
+        {
+          "id": "A",
+          "text": "120&deg;",
+          "html": "120&deg;"
+        },
+        {
+          "id": "B",
+          "text": "135&deg;",
+          "html": "135&deg;"
+        },
+        {
+          "id": "C",
+          "text": "130&deg;",
+          "html": "130&deg;"
+        },
+        {
+          "id": "D",
+          "text": "125&deg;",
+          "html": "125&deg;"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Given,</p>\n\n<p>&rArr; sin(A + B) = &radic;3/2</p>\n\n<p>&rArr; (A + B) = sin<sup>-1</sup>(&radic;3/2) = 60</p>\n\n<p>&rArr; tan(A &ndash; B) = 1/&radic;3</p>\n\n<p>&rArr; (A &ndash; B) = tan<sup>-1</sup>(1/&radic;3) = 30</p>\n\n<p>Solving,</p>\n\n<p>&rArr; 2A = 90</p>\n\n<p>&rArr; A = 45</p>\n\n<p>&rArr; B = 15</p>\n\n<p>Given,</p>\n\n<p>&rArr; ? = 2A + 3B</p>\n\n<p>&rArr; ? = 2 &times; 45 + 3 &times; 15</p>\n&rArr; ? = 135&deg;",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q20",
+      "number": 20,
+      "question": "For what value of t is the value of \\(sin^2(t)\\) , half of the value of \\(tan(t)\\) ?",
+      "questionHtml": "For what value of t is the value of <span class=\"math-tex\">\\(sin^2(t)\\)</span>, half of the value of <span class=\"math-tex\">\\(tan(t)\\)</span>?",
+      "options": [
+        {
+          "id": "A",
+          "text": "60&deg;",
+          "html": "60&deg;"
+        },
+        {
+          "id": "B",
+          "text": "45&deg;",
+          "html": "45&deg;"
+        },
+        {
+          "id": "C",
+          "text": "30&deg;",
+          "html": "30&deg;"
+        },
+        {
+          "id": "D",
+          "text": "22.5&deg;",
+          "html": "22.5&deg;"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>sin<sup>2</sup>(45º) = (1/2) tan(45º) ⇒ (1/√2)<sup>2</sup> = (1/2) × 1</p>\n\n<p>1/2 = 1/2 ⇒ t = 45º.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q21",
+      "number": 21,
+      "question": "What is cosec 90&deg;/(1 - cos 2 60&deg;)",
+      "questionHtml": "What is cosec 90&deg;/(1 - cos<sup>2</sup> 60&deg;)",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "<span style=\"\">0</span>"
+        },
+        {
+          "id": "B",
+          "text": "4/3",
+          "html": "<span style=\"\">4/3</span>"
+        },
+        {
+          "id": "C",
+          "text": "1/4",
+          "html": "<span style=\"\">1/4</span>"
+        },
+        {
+          "id": "D",
+          "text": "3/4",
+          "html": "<span style=\"\">3/4</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">cosec 90°/(1 - cos<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> 60°)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ 1/ 1 - (1/2)<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> ⇒ 1/(3/4) ⇒ 4/3</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q22",
+      "number": 22,
+      "question": "The given expression is equal to: \\(\\frac{\\cos ^2 A}{(1+\\sin A)}\\)",
+      "questionHtml": "The given expression is equal to: <span class=\"math-tex\">\\(\\frac{\\cos ^2 A}{(1+\\sin A)}\\)</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1-sin A",
+          "html": "1-sin A"
+        },
+        {
+          "id": "B",
+          "text": "1+cos A",
+          "html": "1+cos A"
+        },
+        {
+          "id": "C",
+          "text": "sin A",
+          "html": "sin A"
+        },
+        {
+          "id": "D",
+          "text": "Cos A",
+          "html": "Cos A"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span class=\"math-tex\">\\(\\frac{\\cos ^2 A}{(1+\\sin A)}\\)</span></p>\n\n<p>⇒ (<span style=\"color: rgb(33, 37, 41);\">1 - Sin</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\"> A)/(1 + Sin</span><span style=\"color: rgb(33, 37, 41);\">A) ⇒ (1 - Sin</span><span style=\"color: rgb(33, 37, 41);\">A)(1 + Sin</span><span style=\"color: rgb(33, 37, 41);\">A)/(1 + SinA) ⇒ 1 - SinA</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q23",
+      "number": 23,
+      "question": "If 7 tan &theta; = 3, and &theta; is an acute angle, then \\(\\frac{5 \\sin \\theta - \\cos \\theta}{5 \\sin \\theta + 2 \\cos \\theta}\\) is equal to:",
+      "questionHtml": "If 7 tan &theta; = 3, and &theta; is an acute angle, then <span class=\"math-tex\">\\(\\frac{5 \\sin \\theta - \\cos \\theta}{5 \\sin \\theta + 2 \\cos \\theta}\\)</span> is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\quad \\frac{8}{29}\\)",
+          "html": "<span class=\"math-tex\">\\(\\quad \\frac{8}{29}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\quad \\frac{11}{29}\\)",
+          "html": "<span class=\"math-tex\">\\(\\quad \\frac{11}{29}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\quad \\frac{7}{29}\\)",
+          "html": "<span class=\"math-tex\">\\(\\quad \\frac{7}{29}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\quad \\frac{9}{29}\\)",
+          "html": "<span class=\"math-tex\">\\(\\quad \\frac{9}{29}\\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "Given: 7 tan θ = 3\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">⇒ tan θ = 3/7</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">sin</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> θ + cos</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> θ = 1</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Let sin θ = 3k and cos θ = 7k</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">(3k)</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> + (7k)</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> = 1</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">9k</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> + 49k</span><sup style=\"font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">2</sup><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> = 1</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">k = 1/√58</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">sin θ = 3/√58, cos θ = 7/√58</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">(5 sin θ - cos θ)/(5 sin θ + 2 cos θ)</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">⇒ (5(3/√58) - 7/√58) / (5(3/√58) + 14/√58)</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒</span><span style=\"color: rgb(33, 37, 41);\"> </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> (8/√58) / (29/√58)</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">⇒</span><span style=\"color: rgb(33, 37, 41);\"> </span><strong><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> 8/29</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q24",
+      "number": 24,
+      "question": "If sec A = \\(\\frac{5}{4}\\) , then the value of \\(\\rm \\frac{\\tan A}{1 + \\tan^2A} - \\frac{\\sin A}{\\sec A}\\) is:",
+      "questionHtml": "If sec A = <span class=\"math-tex\">\\(\\frac{5}{4}\\)</span>, then the value of <span class=\"math-tex\">\\(\\rm \\frac{\\tan A}{1 + \\tan^2A} - \\frac{\\sin A}{\\sec A}\\)</span> is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "html": "3"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><span class=\"math-tex\">\\(\\rm \\frac{\\tan A}{1 + \\tan^2A} - \\frac{\\sin A}{\\sec A}\\)</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">  [ as we know, 1 + tan<sup>2</sup> A = sec<sup>2</sup> A ]</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">⇒ </span><span class=\"math-tex\">\\(\\rm \\frac{\\tan A}{sec^2A} - \\frac{\\sin A}{\\sec A}\\)</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">⇒ </span><span class=\"math-tex\">\\(\\rm \\frac{\\tan A - sin\\; A.sec\\;A}{sec^2A}\\)</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">⇒ </span><span class=\"math-tex\">\\(\\rm \\frac{\\tan A - tan\\;A}{sec^2A}\\)</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">⇒ </span><span class=\"math-tex\">\\(\\rm \\frac{0}{sec^2A}\\)</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> ⇒ 0</span></p>\n\n<p> </p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q25",
+      "number": 25,
+      "question": "Simplify the given expression. \\(\\rm \\frac{3(\\sin^4z-\\cos^4z+1)}{\\sin^2z}\\)",
+      "questionHtml": "<p>Simplify the given expression.&nbsp;</p>\n\n<p><span class=\"math-tex\">\\(\\rm \\frac{3(\\sin^4z-\\cos^4z+1)}{\\sin^2z}\\)</span></p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "9"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "6"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>3(sin<sup>4</sup> z - cos<sup>4</sup>z + 1)/sin<sup>2</sup>z = 3 [(<span style=\"color: rgb(33, 37, 41);\">sin<sup>2</sup></span><span style=\"color: rgb(33, 37, 41);\"> z + cos<sup>2</sup>z)(sin<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span></span><span style=\"color: rgb(33, 37, 41);\"> z - cos<sup>2</sup>) + 1]/sin<sup>2</sup>z = 3 [(sin<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></span><span style=\"color: rgb(33, 37, 41);\"> z - cos<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>) + 1]/sin<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>z = 3 [(sin<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> z - cos<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>) + sin<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></span><span style=\"color: rgb(33, 37, 41);\"> z + cos<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>z ]/sin<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>z</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">= 3 [2</span><span style=\"color: rgb(33, 37, 41);\"> sin<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span></span><span style=\"color: rgb(33, 37, 41);\"> z]/sin<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>z = 6</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q26",
+      "number": 26,
+      "question": "If x = 8(sin &theta; + cos &theta;) and y = 9(sin &theta; - cos &theta;), then the value of \\({x^2 \\over 8^2} + {y^2 \\over 9^2}\\) is:",
+      "questionHtml": "If x = 8(sin&nbsp;&theta; + cos&nbsp;&theta;) and y = 9(sin&nbsp;&theta; - cos&nbsp;&theta;), then the value of&nbsp;<span class=\"math-tex\">\\({x^2 \\over 8^2} + {y^2 \\over 9^2}\\)</span>&nbsp;is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">​If we put, θ = 0° we get x = 8 and y = 9, so</p>\n\n<p style=\"color: rgb(33, 37, 41);\"> <span class=\"math-tex\">\\({x^2 \\over 8^2} + {y^2 \\over 9^2}\\)</span> ⇒ 8<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>/8<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> + 9<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>/9<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> ⇒ 1 + 1 ⇒ 2</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q27",
+      "number": 27,
+      "question": "In triangle ABC, \\(\\angle B\\) = 90 0 , and \\(\\angle C\\) = 45 0 , If AC = \\(2\\sqrt 2 \\) cm, then the length of BC is:",
+      "questionHtml": "In triangle ABC,&nbsp;<span class=\"math-tex\">\\(\\angle B\\)</span>&nbsp;= 90<sup>0</sup>&nbsp;, and&nbsp;<span class=\"math-tex\">\\(\\angle C\\)</span>&nbsp;= 45<sup>0</sup>&nbsp;, If AC =&nbsp;<span class=\"math-tex\">\\(2\\sqrt 2 \\)</span>&nbsp;cm, then the length of BC is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 cm",
+          "html": "3 cm"
+        },
+        {
+          "id": "B",
+          "text": "2 cm",
+          "html": "2 cm"
+        },
+        {
+          "id": "C",
+          "text": "1 cm",
+          "html": "1 cm"
+        },
+        {
+          "id": "D",
+          "text": "4 cm",
+          "html": "4 cm"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/02/Screenshot%202023-02-27%20222459.png\" style=\"color: rgb(33, 37, 41); width: 192px; height: 150px;\" /></p>\n\n<p style=\"color: rgb(33, 37, 41);\">cos 45<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">0 </span>= <span class=\"math-tex\">\\(BC \\over 2√2\\)</span> ⇒ <span class=\"math-tex\">\\(√2 \\over 2\\)</span> = <span class=\"math-tex\">\\(BC \\over 2√2\\)</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> </span><span style=\"color: rgb(33, 37, 41);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">BC = </span><span class=\"math-tex\">\\(2 \\times √2 \\times √2 \\over 2\\)</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\"> = 2 cm</span></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/23/02/Screenshot%202023-02-27%20222459.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q28",
+      "number": 28,
+      "question": "What is the value of 3 tan 20&deg;.tan 45&deg;.tan 70&deg;?",
+      "questionHtml": "What is the value of 3 tan 20&deg;.tan 45&deg;.tan 70&deg;?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "C",
+          "text": "1.5",
+          "html": "1.5"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "4"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">3 tan 20°.tan 45°.tan 70°⇒ 3 tan 20°.tan 45°. cot (90° - 70°)  </p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ 3 × tan 45° ⇒ 3 × 1 = 3</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q29",
+      "number": 29,
+      "question": "If sec 2x = cosec(3x - 45&deg;), then x is equal to∶",
+      "questionHtml": "If sec 2x = cosec(3x - 45&deg;), then x is equal to∶",
+      "options": [
+        {
+          "id": "A",
+          "text": "35&deg;",
+          "html": "35&deg;"
+        },
+        {
+          "id": "B",
+          "text": "27&deg;",
+          "html": "27&deg;"
+        },
+        {
+          "id": "C",
+          "text": "40&deg;",
+          "html": "40&deg;&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "45&deg;",
+          "html": "45&deg;"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>&rArr; sec 2x = cosec (3x - 45&deg;)</p>\n\n<p>&rArr; sec 2x = sec [90&deg; - (3x - 45&deg;)]</p>\n\n<p>As we know, sec (90&deg; - x) = cosec x</p>\n\n<p>&rArr; 2x = 90&deg; - 3x + 45&deg;</p>\n\n<p>&rArr; 3x + 2x = 135&deg;</p>\n\n<p>&rArr; 5x = 135&deg;</p>\nx = 135&deg;/5 = 27&deg;",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q30",
+      "number": 30,
+      "question": "Solve the following equation and find the value of &theta;. 3cot &theta; + tan &theta; - 2&radic;3 = 0, 0 < &theta; < 90&deg;",
+      "questionHtml": "<p>Solve the following equation and find the value of &theta;.</p>\n\n<p>3cot &theta; + tan &theta; - 2&radic;3 = 0, 0 &lt; &theta; &lt; 90&deg;</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "45&deg;",
+          "html": "45&deg;"
+        },
+        {
+          "id": "B",
+          "text": "15&deg;",
+          "html": "15&deg;"
+        },
+        {
+          "id": "C",
+          "text": "60&deg;",
+          "html": "60&deg;"
+        },
+        {
+          "id": "D",
+          "text": "30&deg;",
+          "html": "30&deg;"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>3cot &theta; + tan &theta; - 2&radic;3 = 0</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>&rArr; 3/tan&theta; + tan&theta; - 2&radic;3 = 0</p>\n\n<p>&rArr; tan<sup>2</sup>&theta; - 2&radic;3tan&theta; + 3 = 0</p>\n\n<p>Solving,</p>\n\n<p>&rArr; tan&theta; = &radic;3</p>\n\n<p><strong>&there4; &theta; = 60</strong>&deg;</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q31",
+      "number": 31,
+      "question": "If cos A + cos 2 A = 1 then sin 2 A + sin 4 A is equal to:",
+      "questionHtml": "If cos A + cos<sup>2</sup>A = 1 then sin<sup><span style=\"font-size: 10.5px;\">2</span></sup>A + sin<sup>4</sup>A is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{\\cos^2 A}{\\cos A}\\)",
+          "html": "<span style=\"font-size:16px;\"><span class=\"math-tex\">\\(\\frac{\\cos^2 A}{\\cos A}\\)</span></span>"
+        },
+        {
+          "id": "B",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{\\cos A}{\\cos^2 A}\\)",
+          "html": "<span style=\"font-size:16px;\"><span class=\"math-tex\">\\(\\frac{\\cos A}{\\cos^2 A}\\)</span></span>"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>cos A + cos 2A = 1 <span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">⇒ </span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">cos 2A = 1 - cos A</span></p>\n\n<p>sin 2A = cos A ⇒ sin 4A = (cos A)<sup>2</sup></p>\nsin 2A + sin 4A = cos A + (cos A)<sup>2</sup> = 1",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q32",
+      "number": 32,
+      "question": "The value of \\(\\rm \\frac{1+\\sin A}{\\cos A}+\\frac{\\cos A}{1+\\sin A}\\) is",
+      "questionHtml": "The value of&nbsp;<span class=\"math-tex\">\\(\\rm \\frac{1+\\sin A}{\\cos A}+\\frac{\\cos A}{1+\\sin A}\\)</span>&nbsp;is",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 sec A",
+          "html": "2 sec A"
+        },
+        {
+          "id": "B",
+          "text": "2 cosec A",
+          "html": "2 cosec A"
+        },
+        {
+          "id": "C",
+          "text": "sec A",
+          "html": "sec A"
+        },
+        {
+          "id": "D",
+          "text": "cosec A",
+          "html": "cosec A"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Formula Used:</strong></p>\n\n<p>Sin<sup>2</sup>&nbsp;&theta; + Cos<sup>2</sup>&nbsp;&theta; = 1</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{1+sin A}{cos A} + \\frac{cosA}{1+sinA}\\)</span></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{(1+sin A)^2}{cos A\\times (1+sinA)} + \\frac{cos^2A}{(1+sinA)\\times cosA}\\)</span></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{1+2sinA+sin^2A+cos^2A}{cosA\\times (1+sinA)}\\)</span></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(\\frac{2(1+sinA)}{cosA\\times (1+sinA)}\\)</span></p>\n\n<p>&rArr; 2 / cos A = 2 sec A</p>\n\n<p><strong>&there4; The correct answer is option 1</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q33",
+      "number": 33,
+      "question": "The value of \\(\\frac{\\sin58^o}{\\cos32^o}+\\frac{\\sin55^o\\sec35^o}{\\tan5^o\\tan45^o\\tan85^o}\\) is equal to:",
+      "questionHtml": "The value of&nbsp;<span class=\"math-tex\">\\(\\frac{\\sin58^o}{\\cos32^o}+\\frac{\\sin55^o\\sec35^o}{\\tan5^o\\tan45^o\\tan85^o}\\)</span>&nbsp;is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "html": "3"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given :</strong></p>\n\n<p>sin58&deg; /cos32&deg; + (sin55&deg; sec35&deg; )/(tan5&deg;&nbsp;<span style=\"color: rgb(33, 37, 41);\">tan45&deg;&nbsp;</span><span style=\"color: rgb(33, 37, 41);\">tan85&deg; )</span></p>\n\n<p><strong>Formula used</strong>&nbsp; :</p>\n\n<p>If A+B = 90<span style=\"color: rgb(33, 37, 41);\">&deg;&nbsp; then,</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">sinA &times; cosB = 1</span></p>\n\n<p><strong><span style=\"color: rgb(33, 37, 41);\">Calculation :&nbsp;</span></strong></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">&rArr; sin58&deg; /cos32&deg; + (sin55&deg; sec35&deg; )/(tan5&deg;&nbsp;</span><span style=\"color: rgb(33, 37, 41);\">tan45&deg;&nbsp;</span><span style=\"color: rgb(33, 37, 41);\">tan85&deg; )</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">&rArr; sin58&deg; /sin58&deg; + (sin55&deg; sec35&deg; )/(tan5&deg;&nbsp;</span><span style=\"color: rgb(33, 37, 41);\">&deg;&nbsp;</span><span style=\"color: rgb(33, 37, 41);\">tan85&deg; )</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">&rArr; 1 + (sin55&deg; cosec55&deg; )/(tan5&deg;&nbsp;</span><span style=\"color: rgb(33, 37, 41);\">&deg;&nbsp;</span><span style=\"color: rgb(33, 37, 41);\">tan85&deg; )</span></p>\n\n<p><span style=\"color: rgb(33, 37, 41);\">&rArr; 1&nbsp;+&nbsp; 1 = 2</span></p>\n\n<p><strong><span style=\"color: rgb(33, 37, 41);\">Hence, the correct option (1).</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q34",
+      "number": 34,
+      "question": "If \\(\\cos θ=\\frac{7}{3\\sqrt6}\\) and &theta; is an acute angle, then the value of \\(27\\sin^2 \\theta-\\frac{3}{2}\\) is:",
+      "questionHtml": "If&nbsp;<span class=\"math-tex\">\\(\\cos θ=\\frac{7}{3\\sqrt6}\\)</span>&nbsp;and&nbsp;&theta; is an acute angle, then the value of&nbsp;<span class=\"math-tex\">\\(27\\sin^2 \\theta-\\frac{3}{2}\\)</span>&nbsp;is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "html": "12"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "text": "15",
+          "html": "15"
+        },
+        {
+          "id": "D",
+          "text": "9",
+          "html": "9"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span class=\"math-tex\">\\(\\cos θ=\\frac{7}{3\\sqrt6}\\)</span></p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>Cos<sup>2</sup>&theta; = 1 &ndash; Sin<sup>2</sup>&theta;</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p><span class=\"math-tex\">\\(27\\sin^2 \\theta-\\frac{3}{2}\\)</span></p>\n\n<p>&rArr; 27(1 &ndash; Cos<sup>2</sup>&theta;) &ndash; 3/2</p>\n\n<p>&rArr; 27 &ndash; 27Cos<sup>2</sup>&theta; &ndash; 3/2</p>\n\n<p>&rArr; 27 &ndash; 27 &times; 49/54 &ndash; 3/2</p>\n\n<p>&rArr; 27 &ndash; 49/2 &ndash; 3/2</p>\n\n<p>&rArr; (54 &ndash; 49 &ndash; 3)/2</p>\n\n<p>&rArr; 2/2 = 1</p>\n\n<p><strong>&there4;</strong><strong> Required answer is 1</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q35",
+      "number": 35,
+      "question": "Find the value of sin (50 + &theta;) - cos (40 - &theta;).",
+      "questionHtml": "<span style=\"color: rgb(33, 37, 41);\">Find the value of sin (50 + &theta;) - cos (40 - &theta;).</span>&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{2}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "- 1",
+          "html": "- 1"
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\"><span style=\"user-select: text !important; pointer-events: initial !important;\">sin (50° +θ) - cos (40° - θ) = sin( 90 - (40 -θ)) - cos(40 - θ)  = cos(40 -θ) - cos(40- θ)  = 0</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q36",
+      "number": 36,
+      "question": "Find x if 2sin 2 x - 1 = 0",
+      "questionHtml": "Find x if 2sin<sup>2</sup>x - 1 = 0",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\pi \\over 4\\)",
+          "html": "<span class=\"math-tex\">\\(\\pi \\over 4\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\pi \\over 2\\)",
+          "html": "<span class=\"math-tex\">\\(\\pi \\over 2\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "D",
+          "text": "&pi;",
+          "html": "&pi;&nbsp;"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given&nbsp;</strong></p>\n\n<p>2in<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>x - 1 = 0</p>\n\n<p><strong>Formula Used&nbsp;</strong></p>\n\n<p>Radian = (&pi;/180)&nbsp;&times; angle in degree&nbsp;</p>\n\n<p><strong>Calculation&nbsp;</strong></p>\n\n<p>&rArr;&nbsp;2sin<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>x - 1 = 0</p>\n\n<p>&rArr; 2sin<sup>2</sup>x = 1&nbsp;</p>\n\n<p>&rArr; sinx = 1/&radic;2&nbsp;</p>\n\n<p>&rArr; x = 45&deg;&nbsp;</p>\n\n<p>&rArr; x (In radian) = (&pi;/180)&nbsp;&times; 45&deg; =&nbsp;&pi;/4&nbsp;&nbsp;</p>\n\n<p><strong>&there4; the value of x is&nbsp;&pi;/4&nbsp;</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q37",
+      "number": 37,
+      "question": "If 4 tan A = 3, then cos 2 A - sin 2 A equals:",
+      "questionHtml": "If 4 tan A = 3, then cos<sup>2</sup>A - sin<sup>2</sup>A equals:",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{1}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{5}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{7}{25}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{7}{25}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{9}{25}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{9}{25}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{3}{5}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{3}{5}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">4 × tan A = 3 ⇒ tan A = 3/4. <span style=\"color: rgb(32, 33, 36); text-wrap: nowrap;\">P = 3 ; B = 4 ; H = 5</span></p>\n\n<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(33, 37, 41);\">cos</span><span style=\"color: rgb(33, 37, 41); position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\">A - sin</span><span style=\"color: rgb(33, 37, 41); position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\">A ⇒ (4/5)</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\"> - (3/5)</span><span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span><span style=\"color: rgb(33, 37, 41);\"> ⇒ (16</span><span style=\"color: rgb(33, 37, 41);\"> - 9)/25 = 7/25 </span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q38",
+      "number": 38,
+      "question": "If cosec &theta; = \\(\\frac{41}{9}\\) and &theta; is an acute angle, then the value of 5 tan &theta; will be:",
+      "questionHtml": "If cosec&nbsp;&theta; =&nbsp;<span class=\"math-tex\">\\(\\frac{41}{9}\\)</span>&nbsp;and &theta; is an acute angle, then the value of 5 tan &theta; will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{7}{8}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{7}{8}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{9}{8}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{9}{8}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{11}{8}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{11}{8}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{13}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{13}{4}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span>Exam approach -&nbsp;</p>\n\n<p>41, 9 and 40 make a triplet.</p>\n\n<p>Given that cosec&theta; = 41/9. It means Hypotenuse = 41 and Perpendicular = 9. Therefore, base = 40</p>\n\n<p>tan&theta; = Perpendicular/Base</p>\n\n<p>&rArr; tan&nbsp;&theta; = 9/40</p>\n\n<p>&rArr; 5tan&nbsp;&theta; = 5&nbsp;&times; (9/40) = 9/8</p>\n\n<p><strong>&there4; The required value is 9/8.</strong></p>\n\n<p><strong>Traditional method:</strong></p>\n\n<p><strong>Given:</strong></p>\n\n<p>cosec&nbsp;&theta; =&nbsp;<span class=\"math-tex\">\\(\\frac{41}{9}\\)</span>&nbsp;</p>\n\n<p><strong>Formula:</strong></p>\n\n<p>sin<sup>2</sup>&theta; + cos<sup>2</sup>&theta; = 1</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>sin &theta; = 9/41</p>\n\n<p>cos &theta; = &radic;(1 - (9/41)<sup>2</sup>) = 40/41</p>\n\n<p>tan &theta; = (sin&theta;)/(cos&theta;) = (9/41) &times; (41/40) = 9/40</p>\n\n<p><strong>&there4; 5 tan&theta; = 5 &times; 9/40 = 9/8</strong></p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q39",
+      "number": 39,
+      "question": "If tan&theta; = 4/3, then the value of \\(\\frac{9\\sin θ+12\\cos θ}{27\\cos θ-20\\sin θ}\\) will be equal to:",
+      "questionHtml": "If&nbsp;tan&theta; = 4/3, then the value of&nbsp;<span class=\"math-tex\">\\(\\frac{9\\sin θ+12\\cos θ}{27\\cos θ-20\\sin θ}\\)</span>&nbsp;will be equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "72",
+          "html": "72"
+        },
+        {
+          "id": "B",
+          "text": "36",
+          "html": "36"
+        },
+        {
+          "id": "C",
+          "text": "100",
+          "html": "100"
+        },
+        {
+          "id": "D",
+          "text": "18",
+          "html": "18"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>tan&theta; = 4/3</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>tan&theta; = p/b, sin&theta; = p/h, cos&theta; = b/h</p>\n\n<p>h<sup>2</sup> = p<sup>2</sup> + b<sup>2</sup></p>\n\n<p>(where p = Perpendicular, b = Base, h = Hypotenuse)</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>tan&theta; = 4/3, So, p = 4 and b = 3</p>\n\n<p>Now, h<sup>2</sup> = 4<sup>2</sup> + 3<sup>2</sup> = 16 + 9 = 25</p>\n\n<p>&rArr; h<sup>2</sup> = 25</p>\n\n<p>&rArr; h = 5</p>\n\n<p>Now, sin&theta; = 4/5, cos&theta; = 3/5</p>\n\n<p>So, (9sin&theta; + 12cos&theta;)/(27cos&theta; &ndash; 20sin&theta;) = (9 &times; 4/5 + 12 &times; 3/5)/(27 &times; 3/5 - 20 &times; 4/5)</p>\n\n<p>= (36/5 + 36/5)/(81/5 - 80/5)</p>\n\n<p>= (72/5)/(1/5)</p>\n\n<p>= 72</p>\n\n<p><strong>&there4; The required value is 72</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><u style=\"font-size: 21px;\">Shortcut Trick</u></span></strong></p>\n\n<p><span class=\"math-tex\">\\(\\frac{9\\sin θ+12\\cos θ}{27\\cos θ-20\\sin θ}\\)</span></p>\n\n<p>Taking cos&theta; as common from both numerator and denominator, we can write:</p>\n\n<p><span class=\"math-tex\">\\(\\frac{cosθ~ (9\\tan θ+12)}{cosθ~ (27-20~tanθ)}=\\frac{ 9\\tan θ+12}{ 27-20~tanθ}\\)</span></p>\n\n<p>Putting tan&theta; = 4/3, we get the required answer of 72.</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q40",
+      "number": 40,
+      "question": "If sin (a + b) = 1 and cos (a - b) = \\(\\frac{1}{2} \\) , then find a.",
+      "questionHtml": "If sin (a + b) = 1 and cos (a - b) =&nbsp;<span class=\"math-tex\">\\(\\frac{1}{2} \\)</span>, then find a.",
+      "options": [
+        {
+          "id": "A",
+          "text": "75&deg;",
+          "html": "75&deg;"
+        },
+        {
+          "id": "B",
+          "text": "30&deg;",
+          "html": "30&deg;"
+        },
+        {
+          "id": "C",
+          "text": "15&deg;",
+          "html": "&nbsp;15&deg;"
+        },
+        {
+          "id": "D",
+          "text": "45&deg;",
+          "html": "45&deg;"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(30, 43, 51);  \">sin(A + B) = 1</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">⇒ sin(A + B) = sin90°  ⇒ A + B = 90° ....(1)</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">cos(A – B) = 1/2 ⇒ cos(A – B) = cos60° ⇒ A – B = 60° .....(2)</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Adding equation (1) and (2), we get</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">⇒ 2A = 150° ⇒ A = 75° </p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q41",
+      "number": 41,
+      "question": "The value of sin 35&deg; cos 55&deg; + cos 35&deg; sin 55&deg; is:",
+      "questionHtml": "The value of sin 35&deg; cos 55&deg; + cos 35&deg; sin 55&deg; is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "html": "0"
+        },
+        {
+          "id": "B",
+          "text": "\\(3\\over4\\)",
+          "html": "<span class=\"math-tex\">\\(3\\over4\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(1\\over2\\)",
+          "html": "<span class=\"math-tex\">\\(1\\over2\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">sin 35° cos 55° + cos 35° sin 55°</p>\n\n<p style=\"color: rgb(33, 37, 41);\">In the given expression we can write 35 as (90 - 55)</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ sin (90 - 55)° cos 55° + cos (90 - 55)° sin 55°</p>\n\n<p style=\"color: rgb(33, 37, 41);\">By using the formula, sin ( 90 - ø ) = cos ø and cos ( 90 - ø) = sin ø </p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ cos 55° cos 55° + sin 55° sin 55° ⇒ cos<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> 55° + sin<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> 55° ⇒ cos<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> 55° + sin<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> 55° = 1 (by formula  sin<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>ø + cos<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>ø = 1)</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q42",
+      "number": 42,
+      "question": "&Delta;EFG is a right angled triangle. &ang;F = 90 degree, EF = 10 cm and FG = 15 cm . What is the value of cosec G?",
+      "questionHtml": "&Delta;EFG is a right angled triangle. &ang;F = 90 degree, EF = 10 cm and FG = 15 <span style=\"\">cm</span>. What is the value of cosec G?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{\\sqrt{13}}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{\\sqrt{13}}{2}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{2}{\\sqrt{3}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{2}{\\sqrt{3}}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{\\sqrt{13}}{10}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{\\sqrt{13}}{10}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{10}{\\sqrt{3}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{10}{\\sqrt{3}}\\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/23/05/F2_Vinanti_SSC_19.05.23_D1.png\" style=\"color: rgb(33, 37, 41); width: 140px; height: 146px;\" /></p>\n\n<p style=\"color: rgb(33, 37, 41);\">EG<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> = EF<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> + FG<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> ⇒ EG<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span> = 100 + 225 ⇒ EG = √325 cm</p>\n\n<p style=\"color: rgb(33, 37, 41);\">⇒ cosecG = √325/10 ⇒ √13/2</p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/23/05/F2_Vinanti_SSC_19.05.23_D1.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q43",
+      "number": 43,
+      "question": "Find the value of \\(\\dfrac{\\tan 60^\\circ - \\tan 15^\\circ}{1 + \\tan 60^\\circ \\tan 15^\\circ}\\)",
+      "questionHtml": "Find the value of&nbsp;<span class=\"math-tex\">\\(\\dfrac{\\tan 60^\\circ - \\tan 15^\\circ}{1 + \\tan 60^\\circ \\tan 15^\\circ}\\)</span>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\dfrac{1}{\\sqrt{2}}\\)",
+          "html": "<span class=\"math-tex\">\\(\\dfrac{1}{\\sqrt{2}}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\dfrac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\dfrac{1}{2}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\dfrac{\\sqrt{3}}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\dfrac{\\sqrt{3}}{2}\\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><strong><span class=\"math-tex\">\\(\\dfrac{\\tan 60^\\circ - \\tan 15^\\circ}{1 + \\tan 60^\\circ \\tan 15^\\circ}\\)</span></strong></p>\n\n<p><strong>Formula:</strong></p>\n\n<p>tan (A -&nbsp;B) = (tan A -&nbsp;tan B)/(1 +&nbsp;tan A tan B)</p>\n\n<p>tan 45&deg; = 1</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>(tan 60&deg; - tan 15&deg;)/(1 + tan 60&deg; tan 15&deg;)</p>\n\n<p>&rArr; tan (60&deg; - 15&deg;)</p>\n\n<p>&rArr; tan 45&deg;</p>\n\n<p>&rArr; 1</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q44",
+      "number": 44,
+      "question": "The value of sin 2 30&deg;.cos 2 45&deg; + 2 tan 2 30&deg; &ndash; sec 2 60&deg; is equal to∶",
+      "questionHtml": "The value of sin<sup>2</sup> 30&deg;.cos<sup>2</sup> 45&deg; + 2 tan<sup>2</sup> 30&deg; &ndash; sec<sup>2</sup> 60&deg; is equal to∶",
+      "options": [
+        {
+          "id": "A",
+          "text": "-13/12",
+          "html": "-13/12"
+        },
+        {
+          "id": "B",
+          "text": "-77/24",
+          "html": "-77/24"
+        },
+        {
+          "id": "C",
+          "text": "-25/12",
+          "html": "-25/12"
+        },
+        {
+          "id": "D",
+          "text": "-1/12",
+          "html": "-1/12"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Given,</p>\n\n<p>&rArr; ? = sin<sup>2</sup> 30&deg;.cos<sup>2</sup> 45&deg; + 2 tan<sup>2</sup> 30&deg; &ndash; sec<sup>2</sup> 60&deg;</p>\n\n<p>&rArr; ? = (1/2)<sup>2</sup>(1/&radic;2)<sup>2</sup> + 2(1/&radic;3)<sup>2</sup> &ndash; 2<sup>2</sup></p>\n\n<p>&rArr; ? = (1/4 &times; 1/2) + (2/3) &ndash; 4</p>\n\n<p>&rArr; ? = 1/8 + 2/3 &ndash; 4</p>\n&rArr; ? = -77/24",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q45",
+      "number": 45,
+      "question": "If \\(sin A=\\frac{1}{2}\\) , A is an acute angle, then find the value of \\(\\frac{tan A-cot A}{\\sqrt 3(1+cosecA)}\\) .",
+      "questionHtml": "If <span class=\"math-tex\">\\(sin A=\\frac{1}{2}\\)</span>, A is an acute angle, then find the value of&nbsp;<span class=\"math-tex\">\\(\\frac{tan A-cot A}{\\sqrt 3(1+cosecA)}\\)</span>.",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{4\\sqrt3}{9}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{4\\sqrt3}{9}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(-\\frac{4\\sqrt3}{9}\\)",
+          "html": "<span class=\"math-tex\">\\(-\\frac{4\\sqrt3}{9}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(-\\frac{2}{9}\\)",
+          "html": "<span class=\"math-tex\">\\(-\\frac{2}{9}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{2}{9}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{2}{9}\\)</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Sin A = 1/2</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Sin 30&deg; = 1/2</p>\n\n<p>tan 30&deg; = 1/&radic;3</p>\n\n<p>Cot&nbsp;30&deg; =&nbsp;&radic;3</p>\n\n<p>Cosec 30&deg; = 2</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Sin A = 1/2</p>\n\n<p>&rArr; A = 30&deg;&nbsp;</p>\n\n<p>Now put the value of A in given equation we get,</p>\n\n<p><span class=\"math-tex\">\\(\\frac{tan A-cot A}{√ 3(1+cosecA)}\\)</span></p>\n\n<p>&rArr; tan 30&deg;&nbsp;<span style=\" line-height: 115%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&ndash;&nbsp;</span>cot 30&deg;/&radic;3(1 + cosec 30&deg;)</p>\n\n<p>&rArr; (1/&radic;3&nbsp;<span style=\" line-height: 115%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&ndash;&nbsp;</span>&radic;3)/&radic;3(1 + 2)</p>\n\n<p>&rArr; [(1&nbsp;<span style=\" line-height: 115%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&ndash; 3)/&radic;3]/3&radic;3</span></p>\n\n<p><span style=\" line-height: 115%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&rArr; (-2/&radic;3)/3&radic;3</span></p>\n\n<p><span style=\" line-height: 115%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&rArr; -2/9</span></p>\n\n<p><strong><span style=\" line-height: 115%;  background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&there4; Required value is&nbsp;<span class=\"math-tex\">\\(-\\frac{2}{9}\\)</span></span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q46",
+      "number": 46,
+      "question": "If 5cos&theta; &ndash; 12sin&theta; = 0, then value of \\(\\frac{{2sin\\theta \\; + \\;cos\\theta }}{{cos\\theta \\; - \\;sin\\theta }}\\;\\) is∶",
+      "questionHtml": "If 5cos&theta; &ndash; 12sin&theta; = 0, then value of <span class=\"math-tex\">\\(\\frac{{2sin\\theta \\; + \\;cos\\theta }}{{cos\\theta \\; - \\;sin\\theta }}\\;\\)</span>is∶",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(1\\frac{{75}}{{119}}\\)",
+          "html": "<span class=\"math-tex\">\\(1\\frac{{75}}{{119}}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(3\\frac{1}{7}\\)",
+          "html": "<span class=\"math-tex\">\\(3\\frac{1}{7}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(2\\frac{{34}}{{35}}\\)",
+          "html": "<span class=\"math-tex\">\\(2\\frac{{34}}{{35}}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(3\\frac{2}{3}\\)",
+          "html": "<span class=\"math-tex\">\\(3\\frac{2}{3}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>We know that, sin&theta;/cos&theta; = tan&theta;</p>\n\n<p><strong>Given</strong><strong>∶</strong> 5cos&theta; &ndash; 12sin&theta; = 0</p>\n\n<p>&rArr; 5cos&theta; = 12sin&theta;</p>\n\n<p>&rArr; sin&theta;/cos&theta; = 5/12</p>\n\n<p>&rArr; tan&theta; = 5/12 -&nbsp; &nbsp; &nbsp;---1</p>\n\n<p><span class=\"math-tex\">\\(\\frac{{2sin\\theta \\; + \\;cos\\theta }}{{cos\\theta \\; - \\;sin\\theta }}\\; = \\;\\frac{{cos\\theta \\left( {\\frac{{2sin\\theta \\;}}{{cos\\theta }}\\; + \\;1} \\right)}}{{cos\\theta \\left( {1\\; - \\;\\frac{{sin\\theta \\;}}{{cos\\theta }}\\;} \\right)}}\\; = \\;\\frac{{\\left( {2tan\\theta \\; + \\;1} \\right)}}{{\\left( {1\\; - tan\\theta \\;} \\right)}}\\)</span></p>\n\n<p>Put the value of tan&theta; from equation 1 into above expression,</p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow \\frac{{\\left( {2tan\\theta \\; + \\;1} \\right)}}{{\\left( {1\\; - tan\\theta \\;} \\right)}} = \\frac{{\\left( {\\frac{{2\\; \\times \\;5\\;}}{{12}}\\; + \\;1} \\right)}}{{\\left( {1\\; - \\;\\frac{{5\\;}}{{12}}\\;} \\right)}} = \\frac{{\\left( {\\frac{{10\\;}}{{12}}\\; + \\;1} \\right)}}{{\\left( {1\\; - \\;\\frac{{5\\;}}{{12}}\\;} \\right)}} = \\frac{{\\left( {\\frac{{22\\;}}{{12}}} \\right)}}{{\\left( {\\frac{{7\\;}}{{12}}\\;} \\right)}} = \\frac{{22}}{7} = 3\\frac{1}{7}\\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q47",
+      "number": 47,
+      "question": "If 5 sin &theta; = 4, then the value of \\(\\frac{{sec\\theta + 4\\cot \\theta }}{{4tan\\theta - 5cos\\theta }}\\) is:",
+      "questionHtml": "If 5 sin &theta; = 4, then the value of&nbsp;<span class=\"math-tex\">\\(\\frac{{sec\\theta + 4\\cot \\theta }}{{4tan\\theta - 5cos\\theta }}\\)</span>&nbsp;is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5/4",
+          "html": "5/4"
+        },
+        {
+          "id": "B",
+          "text": "3/2",
+          "html": "3/2"
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "html": "2"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>5 sin &theta; = 4</p>\n\n<p>&there4;&nbsp; sin &theta; = 4/5</p>\n\n<p>We have to calculate the value of&nbsp;<span class=\"math-tex\">\\(\\frac{{sec\\theta + 4\\cot \\theta }}{{4tan\\theta - 5cos\\theta }}\\)</span></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Perpendicular = P, Hypotenuse = H and Base = B.</p>\n\n<p>sin &theta; = P/H = 4/5</p>\n\n<p>P = 4 and H = 5</p>\n\n<p>As we know,</p>\n\n<p>H<sup>2</sup> = P<sup>2</sup> + B<sup>2</sup></p>\n\n<p>&rArr; 5<sup>2</sup> = 4<sup>2</sup> + B<sup>2</sup></p>\n\n<p>&rArr; B<sup>2</sup> = 25 &ndash; 16 = 9</p>\n\n<p>&rArr; B = &radic;9 = 3</p>\n\n<p>&rArr; cos &theta; = B/H = 3/5</p>\n\n<p>&rArr; sec &theta; = 1/cos &theta; = 5/3</p>\n\n<p>tan &theta; = P/B = 4/3</p>\n\n<p>cot &theta; = 1/tan &theta; = 3/4</p>\n\n<p>Now,</p>\n\n<p><span class=\"math-tex\">\\(\\frac{{sec\\theta + 4\\cot \\theta }}{{4tan\\theta - 5cos\\theta }}\\)</span></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow \\frac{{\\frac{5}{3} + 4 \\times \\frac{3}{4}}}{{4 \\times \\frac{4}{3} - 5 \\times \\frac{3}{5}}}\\)</span></p>\n\n<p><span class=\"math-tex\">\\(\\Rightarrow \\frac{{\\frac{5}{3} + 3}}{{\\frac{{16}}{3} - 3}}\\)</span></p>\n\n<p><span class=\"math-tex\">\\( \\Rightarrow \\frac{{\\frac{{14}}{3}}}{{\\frac{7}{3}}}\\)</span></p>\n\n<p>&rArr; 2</p>\n\n<p>So, the value is 2.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q48",
+      "number": 48,
+      "question": "[(sin &theta; tan &theta; + cos &theta; ) 2 - 1 ] is equal to:",
+      "questionHtml": "[(sin &theta; tan &theta; + cos &theta; )<sup>2</sup> - 1 ] is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "sec 2 &theta;",
+          "html": "sec<sup>2</sup> &theta;"
+        },
+        {
+          "id": "B",
+          "text": "sec &theta;",
+          "html": "sec &theta;"
+        },
+        {
+          "id": "C",
+          "text": "cosec &theta;",
+          "html": "cosec &theta;"
+        },
+        {
+          "id": "D",
+          "text": "tan 2 &theta;",
+          "html": "tan<sup>2</sup> &theta;"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">[(sin θ tan θ + cos θ )<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> - 1 ]</p>\n\n<p style=\"color: rgb(33, 37, 41);\">= [(sin θ × <span class=\"math-tex\">\\(\\frac{sinθ}{cos\\theta}\\)</span> + cos θ )<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> - 1 ] = [(<span class=\"math-tex\">\\(\\frac{sin²\\theta + cos²\\theta}{cos\\theta}\\)</span> )<span style=\"line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span> - 1 ] = (1/cosθ)² - 1 = Sec²θ - 1 = Tan²θ</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q49",
+      "number": 49,
+      "question": "If sin &theta; + cosec &theta; = 2, then the value of sin 2 &theta; + cosec 2 &theta; is:",
+      "questionHtml": "If sin&nbsp;&theta; + cosec&nbsp;&theta; = 2, then the value of sin<sup>2&nbsp;</sup>&theta; + cosec<sup>2</sup>&nbsp;&theta; is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "html": "4"
+        },
+        {
+          "id": "B",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "1"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>sin&theta; + cosec&theta; = 2</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>cosec&theta; = 1/sin&theta;</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let sin&theta; = x</p>\n\n<p>&rArr; sin&theta; + cosec&theta; = x + 1/x = 2</p>\n\n<p>&rArr; (x + 1/x)<sup>2</sup> = 2<sup>2</sup></p>\n\n<p>&rArr; x<sup>2</sup> + 2 + 1/x<sup>2</sup> = 4</p>\n\n<p>&rArr; x<sup>2</sup> + 1/x<sup>2</sup> = 2</p>\n\n<p><strong>&there4; sin<sup>2</sup>&theta; + cosec<sup>2</sup>&theta; = 2</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "70be59128146-q50",
+      "number": 50,
+      "question": "2 cos &theta; + sec &theta; - 2&radic;2 = 0, where &theta; is an acute angle. Find the value of &theta;.",
+      "questionHtml": "2 cos&nbsp;&theta; + sec&nbsp;&theta; - 2&radic;2 = 0, where&nbsp;&theta; is an acute angle. Find the value of&nbsp;&theta;.&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "45&deg;",
+          "html": "45&deg;"
+        },
+        {
+          "id": "B",
+          "text": "30&deg;",
+          "html": "30&deg;"
+        },
+        {
+          "id": "C",
+          "text": "60&deg;",
+          "html": "60&deg;"
+        },
+        {
+          "id": "D",
+          "text": "15&deg;",
+          "html": "15&deg;"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Calculation:</strong></p>\n\n<p>2 cos&nbsp;&theta; + sec&nbsp;&theta; - 2&radic;2 = 0</p>\n\n<p>&rArr; 2 cos&nbsp;&theta; + 1/ cos&nbsp;&theta; - 2&radic;2 = 0</p>\n\n<p>&rArr; 2 cos<sup>2</sup>&nbsp;&theta;&nbsp;+ 1 -&nbsp;2&radic;2&nbsp;cos&nbsp;&theta;&nbsp;= 0</p>\n\n<p>&rArr; 2 cos<span style=\"position: relative;  line-height: 0; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">2</span>&nbsp;&theta;&nbsp;-&nbsp;2&radic;2&nbsp;cos&nbsp;&theta; + 1 = 0</p>\n\n<p>&rArr;&nbsp;2 cos<span style=\"position: relative; line-height: 0; vertical-align: baseline; top: -0.5em; font-size:10.5px;\">2</span>&nbsp;&theta; -&nbsp;&radic;2&nbsp;cos&nbsp;&theta; -&nbsp;&radic;2&nbsp;cos&nbsp;&theta; + 1 = 0</p>\n\n<p>&rArr;&nbsp;&radic;2&nbsp;cos&nbsp;&theta; (&radic;2&nbsp;cos&nbsp;&theta; - 1) - 1(&radic;2&nbsp;cos&nbsp;&theta; - 1) = 0</p>\n\n<p>&rArr;&nbsp;(&radic;2&nbsp;cos&nbsp;&theta; - 1)<sup>2</sup>&nbsp;= 0</p>\n\n<p>&rArr;&nbsp;&radic;2&nbsp;cos&nbsp;&theta; - 1 = 0</p>\n\n<p>&rArr;&nbsp;&radic;2&nbsp;cos&nbsp;&theta; = 1&nbsp;</p>\n\n<p>&rArr;&nbsp;cos&nbsp;&theta; = 1/&radic;2&nbsp;</p>\n\n<p>&there4; cos 45&deg; =&nbsp;1/&radic;2&nbsp;</p>\n\n<p><strong>&rArr;&nbsp;&theta; =&nbsp;45&deg;</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span>&nbsp;By value putting:</strong></p>\n\n<p><span style=\"font-weight: 700;\">&theta; =&nbsp;45&deg;&nbsp;</span></p>\n\n<p>2 cos&nbsp;&theta; + sec&nbsp;&theta; - 2&radic;2 = 0&nbsp;</p>\n\n<p>&rArr; 2&nbsp;&times; 1/&radic;2&nbsp; +&nbsp;&radic;2&nbsp; - 2&radic;2 = 0&nbsp;</p>\n\n<p>&rArr; 2&radic;2 -&nbsp;2&radic;2 = 0</p>\n\n<p><strong>At values <span style=\"font-weight: 700;\">&theta; = 30&deg; , 60&deg; and 15&deg;, the above condition is&nbsp;not fulfilled. Hence, 45&deg; is the correct value of&nbsp;&theta;.</span></strong></p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

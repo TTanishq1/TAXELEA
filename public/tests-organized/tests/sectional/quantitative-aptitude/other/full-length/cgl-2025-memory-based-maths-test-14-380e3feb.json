@@ -1,0 +1,865 @@
+{
+  "id": "380e3feb035c",
+  "provider": "RBE_Mocks",
+  "sourceFile": "CGL_2025_Memory_Based_Maths_Test-14.html",
+  "sourcePath": "RBE_MOCKS/CGL_2025_Memory_Based_Maths_Test-14.html",
+  "title": "CGL 2025 Memory Based Maths Test-14",
+  "exam": null,
+  "year": 2025,
+  "tier": null,
+  "shift": null,
+  "duration": 20,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "380e3feb035c-q1",
+      "number": 1,
+      "question": "Simplify: (2.4 + 3.125) × 0.25 − (0.75 ÷ 0.3)",
+      "questionHtml": "<p>Simplify: (2.4 + 3.125) × 0.25 − (0.75 ÷ 0.3)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "−1.11875",
+          "html": "<p>−1.11875</p>"
+        },
+        {
+          "id": "B",
+          "text": "1.11875",
+          "html": "<p>1.11875</p>"
+        },
+        {
+          "id": "C",
+          "text": "2.8756",
+          "html": "<p>2.8756</p>"
+        },
+        {
+          "id": "D",
+          "text": "−2.8756",
+          "html": "<p>−2.8756</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>(2.4 + 3.125) = 5.525.</p><p>5.525 × 0.25 = 1.38125.</p><p>0.75 ÷ 0.3 = 2.5.</p><p>Result = 1.38125 − 2.5 = −1.11875.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q2",
+      "number": 2,
+      "question": "If 20% of (P + Q) = 50% of (P − Q), then find the ratio P : Q.",
+      "questionHtml": "<p>If 20% of (P + Q) = 50% of (P − Q), then find the ratio P : Q.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 : 7",
+          "html": "<p>3 : 7</p>"
+        },
+        {
+          "id": "B",
+          "text": "7 : 3",
+          "html": "<p>7 : 3</p>"
+        },
+        {
+          "id": "C",
+          "text": "2 : 5",
+          "html": "<p>2 : 5</p>"
+        },
+        {
+          "id": "D",
+          "text": "5 : 2",
+          "html": "<p>5 : 2</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>0.2(P + Q) = 0.5(P − Q).</p><p>0.2P + 0.2Q = 0.5P − 0.5Q.</p><p>0.7Q = 0.3P ⇒ P/Q = 7/3.</p><p>Hence P : Q = 7 : 3.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q3",
+      "number": 3,
+      "question": "A shopkeeper mixes two varieties of pulses — one costing ₹80 per kg and the other costing ₹100 per kg, in the ratio 3 : 1. If he sells the mixed variety at ₹91.80 per kg, find his gain or loss percent.",
+      "questionHtml": "<p>A shopkeeper mixes two varieties of pulses — one costing ₹80 per kg and the other costing ₹100 per kg, in the ratio 3 : 1. If he sells the mixed variety at ₹91.80 per kg, find his gain or loss percent.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "8% Loss",
+          "html": "<p>8% Loss</p>"
+        },
+        {
+          "id": "B",
+          "text": "10% Gain",
+          "html": "<p>10% Gain</p>"
+        },
+        {
+          "id": "C",
+          "text": "8% Gain",
+          "html": "<p>8% Gain</p>"
+        },
+        {
+          "id": "D",
+          "text": "10% Loss",
+          "html": "<p>10% Loss</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>CP of mixture per kg = (3 × 80 + 1 × 100) / 4 = 340/4 = ₹85.</p><p>SP per kg = ₹91.80.</p><p>Profit = 91.80 − 85 = ₹6.80.</p><p>Profit % = (6.80 / 85) × 100 = 8% Gain.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q4",
+      "number": 4,
+      "question": "A and B invest ₹45,000 and ₹60,000 respectively. A remains in business for 8 months, B for 6 months. If the total profit is ₹36,000, what is A's share?",
+      "questionHtml": "<p>A and B invest ₹45,000 and ₹60,000 respectively. A remains in business for 8 months, B for 6 months. If the total profit is ₹36,000, what is A's share?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹16,000",
+          "html": "<p>₹16,000</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹18,000",
+          "html": "<p>₹18,000</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹20,000",
+          "html": "<p>₹20,000</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹24,000",
+          "html": "<p>₹24,000</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Ratio of investments × time:</p><p>A : B = (45000 × 8) : (60000 × 6) = 360000 : 360000 = 1 : 1.</p><p>A's share = 36000 × 1/2 = ₹18,000.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q5",
+      "number": 5,
+      "question": "The average weight of 30 students is 60 kg. If one student is removed, the average drops to 59.5 kg. What is the weight of the removed student?",
+      "questionHtml": "<p>The average weight of 30 students is 60 kg. If one student is removed, the average drops to 59.5 kg. What is the weight of the removed student?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "74.5 kg",
+          "html": "<p>74.5 kg</p>"
+        },
+        {
+          "id": "B",
+          "text": "84.5 kg",
+          "html": "<p>84.5 kg</p>"
+        },
+        {
+          "id": "C",
+          "text": "70.5 kg",
+          "html": "<p>70.5 kg</p>"
+        },
+        {
+          "id": "D",
+          "text": "16.5 kg",
+          "html": "<p>16.5 kg</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Total weight of 30 students = 30 × 60 = 1800 kg.</p><p>Total weight of 29 students = 29 × 59.5 = 1725.5 kg.</p><p>Removed student's weight = 1800 − 1725.5 = 74.5 kg.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q6",
+      "number": 6,
+      "question": "In a group of 40 boys, the average height was initially determined to be 160 cm. However, it was later discovered that the height of one boy was incorrectly recorded as 165 cm when it should have been 156 cm. Calculate the accurate average height.",
+      "questionHtml": "<p>In a group of 40 boys, the average height was initially determined to be 160 cm. However, it was later discovered that the height of one boy was incorrectly recorded as 165 cm when it should have been 156 cm. Calculate the accurate average height.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "129.675 cm",
+          "html": "<p>129.675 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "150.845 cm",
+          "html": "<p>150.845 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "159.775 cm",
+          "html": "<p>159.775 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "179.275 cm",
+          "html": "<p>179.275 cm</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Incorrect total = 40 × 160 = 6400 cm.</p><p>Correct total = 6400 − 165 + 156 = 6391 cm.</p><p>Correct average = 6391 / 40 = 159.775 cm.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q7",
+      "number": 7,
+      "question": "If ₹5000 amounts to ₹6050 over 2 years with compound interest, what is the annual interest rate?",
+      "questionHtml": "<p>If ₹5000 amounts to ₹6050 over 2 years with compound interest, what is the annual interest rate?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%",
+          "html": "<p>10%</p>"
+        },
+        {
+          "id": "B",
+          "text": "9%",
+          "html": "<p>9%</p>"
+        },
+        {
+          "id": "C",
+          "text": "8%",
+          "html": "<p>8%</p>"
+        },
+        {
+          "id": "D",
+          "text": "11%",
+          "html": "<p>11%</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>A = P(1 + r/100)².</p><p>6050 = 5000(1 + r/100)².</p><p>(1 + r/100)² = 1.21 ⇒ (1 + r/100) = 1.1.</p><p>r = 10%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q8",
+      "number": 8,
+      "question": "A fruit vendor sells 15 kg of apples for ₹750, thereby gaining the cost price of 5 kg of apples. What is his profit percentage?",
+      "questionHtml": "<p>A fruit vendor sells 15 kg of apples for ₹750, thereby gaining the cost price of 5 kg of apples. What is his profit percentage?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "28.65%",
+          "html": "<p>28.65%</p>"
+        },
+        {
+          "id": "B",
+          "text": "33.33%",
+          "html": "<p>33.33%</p>"
+        },
+        {
+          "id": "C",
+          "text": "26.32%",
+          "html": "<p>26.32%</p>"
+        },
+        {
+          "id": "D",
+          "text": "31.56%",
+          "html": "<p>31.56%</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>SP of 15 kg = CP of 15 kg + CP of 5 kg = CP of 20 kg.</p><p>Let CP per kg = x. Then 20x = 750 ⇒ x = 37.5.</p><p>CP of 15 kg = 15 × 37.5 = ₹562.5.</p><p>Profit = 750 − 562.5 = ₹187.5.</p><p>Profit % = (187.5 / 562.5) × 100 = 33.33%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q9",
+      "number": 9,
+      "question": "An oven has a marked price of ₹12,000. It is sold with two successive discounts. If the second discount is 20% and the final selling price is ₹8,400, what is the percentage of the first discount?",
+      "questionHtml": "<p>An oven has a marked price of ₹12,000. It is sold with two successive discounts. If the second discount is 20% and the final selling price is ₹8,400, what is the percentage of the first discount?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%",
+          "html": "<p>10%</p>"
+        },
+        {
+          "id": "B",
+          "text": "12%",
+          "html": "<p>12%</p>"
+        },
+        {
+          "id": "C",
+          "text": "12.5%",
+          "html": "<p>12.5%</p>"
+        },
+        {
+          "id": "D",
+          "text": "15%",
+          "html": "<p>15%</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let first discount = d%.</p><p>After first discount: 12000 × (1 − d/100).</p><p>After second discount: 12000 × (1 − d/100) × 0.8 = 8400.</p><p>12000 × (1 − d/100) = 10500.</p><p>(1 − d/100) = 0.875 ⇒ d = 12.5%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q10",
+      "number": 10,
+      "question": "A barrel contains a mixture of alcohol and water in the ratio 7:4 respectively. If 12 litres of water are added to it, the ratio of alcohol to water becomes 7:6. Find the initial total quantity of the mixture in the barrel.",
+      "questionHtml": "<p>A barrel contains a mixture of alcohol and water in the ratio 7:4 respectively. If 12 litres of water are added to it, the ratio of alcohol to water becomes 7:6. Find the initial total quantity of the mixture in the barrel.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "33 litres",
+          "html": "<p>33 litres</p>"
+        },
+        {
+          "id": "B",
+          "text": "44 litres",
+          "html": "<p>44 litres</p>"
+        },
+        {
+          "id": "C",
+          "text": "55 litres",
+          "html": "<p>55 litres</p>"
+        },
+        {
+          "id": "D",
+          "text": "66 litres",
+          "html": "<p>66 litres</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Let alcohol = 7x, water = 4x. Total = 11x.</p><p>After adding 12 L water: 7x / (4x + 12) = 7/6.</p><p>6 × 7x = 7 × (4x + 12).</p><p>42x = 28x + 84 ⇒ 14x = 84 ⇒ x = 6.</p><p>Initial total = 11x = 66 litres.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q11",
+      "number": 11,
+      "question": "A furniture store marks its items at 80% above the cost price. They offer a discount of 30% on the marked price. If a customer receives an additional loyalty discount of ₹250, and the store still makes a 12% profit on the cost price, what is the cost price of the furniture item?",
+      "questionHtml": "<p>A furniture store marks its items at 80% above the cost price. They offer a discount of 30% on the marked price. If a customer receives an additional loyalty discount of ₹250, and the store still makes a 12% profit on the cost price, what is the cost price of the furniture item?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹1,785.71",
+          "html": "<p>₹1,785.71</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹2,585.36",
+          "html": "<p>₹2,585.36</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹1,528.24",
+          "html": "<p>₹1,528.24</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹2,879.45",
+          "html": "<p>₹2,879.45</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let CP = x. MP = 1.8x.</p><p>After 30% discount: 1.8x × 0.7 = 1.26x.</p><p>After ₹250 loyalty discount: SP = 1.26x − 250.</p><p>Given SP = 1.12x (12% profit).</p><p>1.26x − 250 = 1.12x ⇒ 0.14x = 250.</p><p>x = ₹1785.71.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q12",
+      "number": 12,
+      "question": "A spherical ball is submerged in water in a cylindrical container. The radius of the cylindrical container is 5 cm, and the height is 30 cm. What is the volume of water displaced by the ball if its radius is 4 cm?",
+      "questionHtml": "<p>A spherical ball is submerged in water in a cylindrical container. The radius of the cylindrical container is 5 cm, and the height is 30 cm. What is the volume of water displaced by the ball if its radius is 4 cm?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "640π/3 cm³",
+          "html": "<p>640π/3 cm³</p>"
+        },
+        {
+          "id": "B",
+          "text": "320π/3 cm³",
+          "html": "<p>320π/3 cm³</p>"
+        },
+        {
+          "id": "C",
+          "text": "160π/3 cm³",
+          "html": "<p>160π/3 cm³</p>"
+        },
+        {
+          "id": "D",
+          "text": "256π/3 cm³",
+          "html": "<p>256π/3 cm³</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Volume of water displaced = Volume of the ball (fully submerged).</p><p>Volume of sphere = (4/3)πr³ = (4/3)π(4)³.</p><p>= (4/3)π × 64 = 256π/3 cm³.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q13",
+      "number": 13,
+      "question": "A hemispherical dome covers a circular area of diameter 20 m. What is the approximate curved surface area of this dome?",
+      "questionHtml": "<p>A hemispherical dome covers a circular area of diameter 20 m. What is the approximate curved surface area of this dome?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "628 m²",
+          "html": "<p>628 m²</p>"
+        },
+        {
+          "id": "B",
+          "text": "514 m²",
+          "html": "<p>514 m²</p>"
+        },
+        {
+          "id": "C",
+          "text": "408 m²",
+          "html": "<p>408 m²</p>"
+        },
+        {
+          "id": "D",
+          "text": "762 m²",
+          "html": "<p>762 m²</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Diameter = 20 m ⇒ Radius = 10 m.</p><p>CSA of hemisphere = 2πr² = 2π × 100 = 200π.</p><p>= 200 × 3.14 = 628 m² (approx).</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q14",
+      "number": 14,
+      "question": "A hollow hemisphere has uniform thickness. Its inner radius is r, and outer radius is R. If R = 2r, find the ratio of outer to inner curved surface areas.",
+      "questionHtml": "<p>A hollow hemisphere has uniform thickness. Its inner radius is r, and outer radius is R. If R = 2r, find the ratio of outer to inner curved surface areas.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 : 1",
+          "html": "<p>4 : 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "7 : 4",
+          "html": "<p>7 : 4</p>"
+        },
+        {
+          "id": "C",
+          "text": "6 : 5",
+          "html": "<p>6 : 5</p>"
+        },
+        {
+          "id": "D",
+          "text": "2 : 5",
+          "html": "<p>2 : 5</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>CSA of a hemisphere = 2πr².</p><p>Outer CSA = 2π(2r)² = 8πr².</p><p>Inner CSA = 2πr².</p><p>Ratio = 8πr² : 2πr² = 4 : 1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q15",
+      "number": 15,
+      "question": "A square pyramid has lateral surface area equal to twice the base area. If base side = 6 cm, find slant height.",
+      "questionHtml": "<p>A square pyramid has lateral surface area equal to twice the base area. If base side = 6 cm, find slant height.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 cm",
+          "html": "<p>6 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "5 cm",
+          "html": "<p>5 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "4 cm",
+          "html": "<p>4 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "2 cm",
+          "html": "<p>2 cm</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Base area = 6² = 36 cm².</p><p>Lateral SA = 4 × (1/2 × base side × slant height) = 2 × base side × slant height.</p><p>Given: 2 × 6 × l = 2 × 36.</p><p>12l = 72 ⇒ l = 6 cm.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q16",
+      "number": 16,
+      "question": "A circular garden has a diameter of 28 m. If a gardener wants to fence 75% of the garden's circumference, what length of fencing is needed? (Use π = 22/7)",
+      "questionHtml": "<p>A circular garden has a diameter of 28 m. If a gardener wants to fence 75% of the garden's circumference, what length of fencing is needed? (Use π = 22/7)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "56 m",
+          "html": "<p>56 m</p>"
+        },
+        {
+          "id": "B",
+          "text": "66 m",
+          "html": "<p>66 m</p>"
+        },
+        {
+          "id": "C",
+          "text": "64 m",
+          "html": "<p>64 m</p>"
+        },
+        {
+          "id": "D",
+          "text": "62 m",
+          "html": "<p>62 m</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Circumference = π × d = (22/7) × 28 = 88 m.</p><p>75% of 88 = (75/100) × 88 = 66 m.</p><p>Hence 66 m of fencing is required.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q17",
+      "number": 17,
+      "question": "In an equilateral triangle with side length 'a', what is the ratio of the circumradius to the inradius?",
+      "questionHtml": "<p>In an equilateral triangle with side length 'a', what is the ratio of the circumradius to the inradius?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 : 1",
+          "html": "<p>2 : 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "3 : 1",
+          "html": "<p>3 : 1</p>"
+        },
+        {
+          "id": "C",
+          "text": "4 : 1",
+          "html": "<p>4 : 1</p>"
+        },
+        {
+          "id": "D",
+          "text": "1 : 2",
+          "html": "<p>1 : 2</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>For an equilateral triangle with side a:</p><p>Circumradius R = a/√3.</p><p>Inradius r = a/(2√3).</p><p>R : r = (a/√3) : (a/(2√3)) = 2 : 1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q18",
+      "number": 18,
+      "question": "A triangle ABC is inscribed in a circle. A tangent is drawn to the circle at point A, intersecting the extension of side BC at D. If AD = 6 cm and CD = 4 cm, what is the length of side BC?",
+      "questionHtml": "<p>A triangle ABC is inscribed in a circle. A tangent is drawn to the circle at point A, intersecting the extension of side BC at D. If AD = 6 cm and CD = 4 cm, what is the length of side BC?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 cm",
+          "html": "<p>5 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "6 cm",
+          "html": "<p>6 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "7 cm",
+          "html": "<p>7 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "8 cm",
+          "html": "<p>8 cm</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>By the tangent-secant relation from external point D:</p><p>AD² = CD × BD.</p><p>OABCDAD = 6DC = 4BC = 5DB = 9Tangent-SecantAD² = DC × DB36 = 4 × DB → DB = 9BC = 9 − 4 = 5 cmtangentat A90°radius</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q19",
+      "number": 19,
+      "question": "In a trapezoid ABCD with AB parallel to CD, the diagonals AC and BD intersect at E. What is the ratio of the area of △ABE to the area of △CDE?",
+      "questionHtml": "<p>In a trapezoid ABCD with AB parallel to CD, the diagonals AC and BD intersect at E. What is the ratio of the area of △ABE to the area of △CDE?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The ratio of AB to CD squared.",
+          "html": "<p>The ratio of AB to CD squared.</p>"
+        },
+        {
+          "id": "B",
+          "text": "The ratio of AB to CD.",
+          "html": "<p>The ratio of AB to CD.</p>"
+        },
+        {
+          "id": "C",
+          "text": "The ratio of the perimeter of △ABE to the perimeter of △CDE.",
+          "html": "<p>The ratio of the perimeter of △ABE to the perimeter of △CDE.</p>"
+        },
+        {
+          "id": "D",
+          "text": "The ratio of the area of △ABC to the area of △BCD.",
+          "html": "<p>The ratio of the area of △ABC to the area of △BCD.</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Triangles ABE and CDE are similar by AA (since AB ∥ CD, alternate angles are equal).</p><p>For similar triangles, ratio of areas = (ratio of corresponding sides)².</p><p>Hence area △ABE : area △CDE = (AB/CD)².</p><p>ABCDEAB = aCD = bAB ∥ CD△ABE△CDE∠AEB = ∠CED (vert. opp.)∠ABE = ∠CDE (alt. int.)∴ △ABE ~ △CDE (AA)Area of △ABE : Area of △CDE = AB² : CD² = a² : b²Since △ABE ~ △CDE, ratio of areas = square of ratio of corresponding sides△ABE (larger)△CDE (smaller)</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q20",
+      "number": 20,
+      "question": "A circle with radius x touches another circle with radius 2x externally. What is the length of a direct common tangent?",
+      "questionHtml": "<p>A circle with radius x touches another circle with radius 2x externally. What is the length of a direct common tangent?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2x",
+          "html": "<p>2x</p>"
+        },
+        {
+          "id": "B",
+          "text": "3x",
+          "html": "<p>3x</p>"
+        },
+        {
+          "id": "C",
+          "text": "2x√2",
+          "html": "<p>2x√2</p>"
+        },
+        {
+          "id": "D",
+          "text": "3x√2",
+          "html": "<p>3x√2</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Distance between centres d = x + 2x = 3x (external touch).</p><p>Direct common tangent length = √(d² − (r₁ − r₂)²).</p><p>= √((3x)² − (2x − x)²) = √(9x² − x²) = √(8x²) = 2x√2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q21",
+      "number": 21,
+      "question": "Two circles with radii 6 cm and 2 cm have their centers 10 cm apart. How many common tangents can be drawn between them, and what type(s) of tangents are they?",
+      "questionHtml": "<p>Two circles with radii 6 cm and 2 cm have their centers 10 cm apart. How many common tangents can be drawn between them, and what type(s) of tangents are they?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 tangents: 2 direct and 2 transverse",
+          "html": "<p>4 tangents: 2 direct and 2 transverse</p>"
+        },
+        {
+          "id": "B",
+          "text": "3 tangents: 2 direct and 1 transverse",
+          "html": "<p>3 tangents: 2 direct and 1 transverse</p>"
+        },
+        {
+          "id": "C",
+          "text": "2 tangents: only direct tangents",
+          "html": "<p>2 tangents: only direct tangents</p>"
+        },
+        {
+          "id": "D",
+          "text": "0 tangents: the larger circle completely contains the smaller one",
+          "html": "<p>0 tangents: the larger circle completely contains the smaller one</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Sum of radii = 6 + 2 = 8 cm; distance between centres = 10 cm.</p><p>Since distance &gt; sum of radii, the two circles are external to each other.</p><p>Hence 4 common tangents exist: 2 direct + 2 transverse.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q22",
+      "number": 22,
+      "question": "Two chords AB and CD intersect at a point P inside a circle. If AP = 6 cm, PB = 8 cm, and CP = 4 cm, what is the length of PD?",
+      "questionHtml": "<p>Two chords AB and CD intersect at a point P inside a circle. If AP = 6 cm, PB = 8 cm, and CP = 4 cm, what is the length of PD?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 cm",
+          "html": "<p>10 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "12 cm",
+          "html": "<p>12 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "16 cm",
+          "html": "<p>16 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "18 cm",
+          "html": "<p>18 cm</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Intersecting chords theorem: AP × PB = CP × PD.</p><p>6 × 8 = 4 × PD.</p><p>PD = 48/4 = 12 cm.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q23",
+      "number": 23,
+      "question": "In a circle, a chord AB is 12 cm long and is at a distance of 4 cm from the center. What is the radius of the circle?",
+      "questionHtml": "<p>In a circle, a chord AB is 12 cm long and is at a distance of 4 cm from the center. What is the radius of the circle?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "√52 cm",
+          "html": "<p>√52 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "√65 cm",
+          "html": "<p>√65 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "8 cm",
+          "html": "<p>8 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "None of these",
+          "html": "<p>None of these</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The perpendicular from centre bisects the chord.</p><p>Half-chord = 12/2 = 6 cm.</p><p>Radius² = 6² + 4² = 36 + 16 = 52.</p><p>Radius = √52 cm.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q24",
+      "number": 24,
+      "question": "What is the value of (0.02³ + 0.004³) ÷ (0.2³ + 0.04³)?",
+      "questionHtml": "<p>What is the value of (0.02³ + 0.004³) ÷ (0.2³ + 0.04³)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.002",
+          "html": "<p>0.002</p>"
+        },
+        {
+          "id": "B",
+          "text": "0.0045",
+          "html": "<p>0.0045</p>"
+        },
+        {
+          "id": "C",
+          "text": "0.0102",
+          "html": "<p>0.0102</p>"
+        },
+        {
+          "id": "D",
+          "text": "0.001",
+          "html": "<p>0.001</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>0.02 = 0.2/10 and 0.004 = 0.04/10.</p><p>0.02³ = 0.2³/1000 and 0.004³ = 0.04³/1000.</p><p>Numerator = (0.2³ + 0.04³)/1000.</p><p>Ratio = [(0.2³ + 0.04³)/1000] / (0.2³ + 0.04³) = 1/1000 = 0.001.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "380e3feb035c-q25",
+      "number": 25,
+      "question": "What is the value of (0.4×0.4×0.4 + 0.02×0.02×0.02) ÷ (1.2×1.2×1.2 + 0.06×0.06×0.06)?",
+      "questionHtml": "<p>What is the value of (0.4×0.4×0.4 + 0.02×0.02×0.02) ÷ (1.2×1.2×1.2 + 0.06×0.06×0.06)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/27",
+          "html": "<p>1/27</p>"
+        },
+        {
+          "id": "B",
+          "text": "5/27",
+          "html": "<p>5/27</p>"
+        },
+        {
+          "id": "C",
+          "text": "11/67",
+          "html": "<p>11/67</p>"
+        },
+        {
+          "id": "D",
+          "text": "41/27",
+          "html": "<p>41/27</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Numerator = 0.4³ + 0.02³.</p><p>1.2 = 3 × 0.4 ⇒ 1.2³ = 27 × 0.4³.</p><p>0.06 = 3 × 0.02 ⇒ 0.06³ = 27 × 0.02³.</p><p>Denominator = 27(0.4³ + 0.02³).</p><p>Ratio = 1/27.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

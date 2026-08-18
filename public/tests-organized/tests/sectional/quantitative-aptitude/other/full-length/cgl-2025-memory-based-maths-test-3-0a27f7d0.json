@@ -1,0 +1,865 @@
+{
+  "id": "0a27f7d02df5",
+  "provider": "RBE_Mocks",
+  "sourceFile": "CGL_2025_Memory_Based_Maths_Test-3.html",
+  "sourcePath": "RBE_MOCKS/CGL_2025_Memory_Based_Maths_Test-3.html",
+  "title": "CGL 2025 Memory Based Maths Test-3",
+  "exam": null,
+  "year": 2025,
+  "tier": null,
+  "shift": null,
+  "duration": 12,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "0a27f7d02df5-q1",
+      "number": 1,
+      "question": "What will come in place of ? to satisfy the equation: (√5 − 1)² = ? − 2√5",
+      "questionHtml": "<p>What will come in place of ? to satisfy the equation:</p><p>(√5 − 1)² = ? − 2√5</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "7",
+          "html": "<p>7</p>"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "<p>6</p>"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "<p>5</p>"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "<p>4</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>(√5 − 1)² = (√5)² − 2·√5·1 + 1²</p><p>= 5 − 2√5 + 1</p><p>= 6 − 2√5.</p><p>Comparing with ? − 2√5, we get ? = 6.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q2",
+      "number": 2,
+      "question": "What will be the compound interest on a sum of Rs. 25,000 after 3 years at the rate of 10% p.a.?",
+      "questionHtml": "<p>What will be the compound interest on a sum of Rs. 25,000 after 3 years at the rate of 10% p.a.?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "8,275",
+          "html": "<p>8,275</p>"
+        },
+        {
+          "id": "B",
+          "text": "8,175",
+          "html": "<p>8,175</p>"
+        },
+        {
+          "id": "C",
+          "text": "8,270",
+          "html": "<p>8,270</p>"
+        },
+        {
+          "id": "D",
+          "text": "8,205",
+          "html": "<p>8,205</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>A = P(1 + r/100)ⁿ = 25000 × (1.1)³.</p><p>(1.1)³ = 1.331, so A = 25000 × 1.331 = 33,275.</p><p>CI = A − P = 33,275 − 25,000 = Rs. 8,275.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q3",
+      "number": 3,
+      "question": "If the simple interest on a certain sum of money for 3 years at 6% per annum is ₹360, what would be the simple interest on the same sum for 5 years at 8% per annum?",
+      "questionHtml": "<p>If the simple interest on a certain sum of money for 3 years at 6% per annum is ₹360, what would be the simple interest on the same sum for 5 years at 8% per annum?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹720",
+          "html": "<p>₹720</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹800",
+          "html": "<p>₹800</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹840",
+          "html": "<p>₹840</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹960",
+          "html": "<p>₹960</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>SI = (P × R × T)/100.</p><p>360 = (P × 6 × 3)/100 → P = 36000/18 = 2000.</p><p>New SI = (2000 × 8 × 5)/100 = ₹800.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q4",
+      "number": 4,
+      "question": "The decimal 0.875 is best classified as:",
+      "questionHtml": "<p>The decimal 0.875 is best classified as:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Whole Number",
+          "html": "<p>Whole Number</p>"
+        },
+        {
+          "id": "B",
+          "text": "Irrational Number",
+          "html": "<p>Irrational Number</p>"
+        },
+        {
+          "id": "C",
+          "text": "Integer",
+          "html": "<p>Integer</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rational Number",
+          "html": "<p>Rational Number</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>0.875 is a terminating decimal and equals 7/8.</p><p>Any number expressible as p/q (q ≠ 0) is rational.</p><p>Hence 0.875 is a rational number.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q5",
+      "number": 5,
+      "question": "An athlete runs a 300-meter race in 25 seconds. His speed in km/h is:",
+      "questionHtml": "<p>An athlete runs a 300-meter race in 25 seconds. His speed in km/h is:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "43.2 km/hr",
+          "html": "<p>43.2 km/hr</p>"
+        },
+        {
+          "id": "B",
+          "text": "32 km/h",
+          "html": "<p>32 km/h</p>"
+        },
+        {
+          "id": "C",
+          "text": "40 km/h",
+          "html": "<p>40 km/h</p>"
+        },
+        {
+          "id": "D",
+          "text": "38 km/hr",
+          "html": "<p>38 km/hr</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Speed = distance/time = 300/25 = 12 m/s.</p><p>Convert: 12 × (18/5) = 43.2 km/h.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q6",
+      "number": 6,
+      "question": "A pyramid is inscribed inside a cube with edge 12 cm, sharing the base and apex at centre of top. Find the volume of the pyramid.",
+      "questionHtml": "<p>A pyramid is inscribed inside a cube with edge 12 cm, sharing the base and apex at centre of top. Find the volume of the pyramid.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "476 cm³",
+          "html": "<p>476 cm³</p>"
+        },
+        {
+          "id": "B",
+          "text": "576 cm³",
+          "html": "<p>576 cm³</p>"
+        },
+        {
+          "id": "C",
+          "text": "500 cm³",
+          "html": "<p>500 cm³</p>"
+        },
+        {
+          "id": "D",
+          "text": "400 cm³",
+          "html": "<p>400 cm³</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Volume of pyramid = (1/3) × base area × height.</p><p>Base area = 12² = 144 cm²; height = 12 cm.</p><p>Volume = (1/3) × 144 × 12 = 576 cm³.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q7",
+      "number": 7,
+      "question": "A, B, and C invest in the ratio 4:5:6. The time ratio is 3:2:1. What is the ratio of their profits?",
+      "questionHtml": "<p>A, B, and C invest in the ratio 4:5:6. The time ratio is 3:2:1. What is the ratio of their profits?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10:12:6",
+          "html": "<p>10:12:6</p>"
+        },
+        {
+          "id": "B",
+          "text": "6:5:3",
+          "html": "<p>6:5:3</p>"
+        },
+        {
+          "id": "C",
+          "text": "4:5:6",
+          "html": "<p>4:5:6</p>"
+        },
+        {
+          "id": "D",
+          "text": "2:3:1",
+          "html": "<p>2:3:1</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Profit ∝ investment × time.</p><p>A = 4 × 3 = 12, B = 5 × 2 = 10, C = 6 × 1 = 6.</p><p>Ratio 12:10:6 = 6:5:3.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q8",
+      "number": 8,
+      "question": "A rectangular field has an area of 600 square meters. If its length were increased by 10 meters and its width decreased by 2 meters, the area would remain the same. Find the original dimensions (length and width) of the field.",
+      "questionHtml": "<p>A rectangular field has an area of 600 square meters. If its length were increased by 10 meters and its width decreased by 2 meters, the area would remain the same. Find the original dimensions (length and width) of the field.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Length = 60 m, Width = 10 m",
+          "html": "<p>Length = 60 m, Width = 10 m</p>"
+        },
+        {
+          "id": "B",
+          "text": "Length = 40 m, Width = 15 m",
+          "html": "<p>Length = 40 m, Width = 15 m</p>"
+        },
+        {
+          "id": "C",
+          "text": "Length = 50 m, Width = 12 m",
+          "html": "<p>Length = 50 m, Width = 12 m</p>"
+        },
+        {
+          "id": "D",
+          "text": "Length = 75 m, Width = 8 m",
+          "html": "<p>Length = 75 m, Width = 8 m</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let length L, width W with LW = 600.</p><p>(L + 10)(W − 2) = 600 → LW − 2L + 10W − 20 = 600.</p><p>Since LW = 600: 10W − 2L − 20 = 0 → L = 5W − 10.</p><p>(5W − 10)W = 600 → W² − 2W − 120 = 0 → (W − 12)(W + 10) = 0 → W = 12.</p><p>L = 5(12) − 10 = 50. So Length = 50 m, Width = 12 m.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q9",
+      "number": 9,
+      "question": "A garden is in the shape of a regular hexagon, each side 20 m. If 5% of it is occupied by a circular fountain, find the remaining area.",
+      "questionHtml": "<p>A garden is in the shape of a regular hexagon, each side 20 m. If 5% of it is occupied by a circular fountain, find the remaining area.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "987.24 m²",
+          "html": "<p>987.24 m²</p>"
+        },
+        {
+          "id": "B",
+          "text": "786.56 m²",
+          "html": "<p>786.56 m²</p>"
+        },
+        {
+          "id": "C",
+          "text": "1,078.6 m²",
+          "html": "<p>1,078.6 m²</p>"
+        },
+        {
+          "id": "D",
+          "text": "1,092.4 m²",
+          "html": "<p>1,092.4 m²</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Area of regular hexagon = (3√3/2) × side².</p><p>= (3√3/2) × 20² = 600√3 ≈ 1039.2 m².</p><p>Remaining = 95% of 1039.2 = 0.95 × 1039.2 ≈ 987.24 m².</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q10",
+      "number": 10,
+      "question": "The weights of three friends are in the ratio 7:8:9. If each gains 5 kg, the new ratio becomes 12:13:14. What is the original weight of the heaviest friend?",
+      "questionHtml": "<p>The weights of three friends are in the ratio 7:8:9. If each gains 5 kg, the new ratio becomes 12:13:14. What is the original weight of the heaviest friend?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 kg",
+          "html": "<p>5 kg</p>"
+        },
+        {
+          "id": "B",
+          "text": "7 kg",
+          "html": "<p>7 kg</p>"
+        },
+        {
+          "id": "C",
+          "text": "9 kg",
+          "html": "<p>9 kg</p>"
+        },
+        {
+          "id": "D",
+          "text": "11 kg",
+          "html": "<p>11 kg</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let weights be 7x, 8x, 9x.</p><p>(7x + 5) : (8x + 5) = 12 : 13 → 13(7x + 5) = 12(8x + 5).</p><p>91x + 65 = 96x + 60 → 5x = 5 → x = 1.</p><p>Heaviest = 9x = 9 kg.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q11",
+      "number": 11,
+      "question": "A triangular field has side lengths in the ratio 2:3:4 and perimeter 72 m. What is the area?",
+      "questionHtml": "<p>A triangular field has side lengths in the ratio 2:3:4 and perimeter 72 m. What is the area?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "216 m²",
+          "html": "<p>216 m²</p>"
+        },
+        {
+          "id": "B",
+          "text": "186 m²",
+          "html": "<p>186 m²</p>"
+        },
+        {
+          "id": "C",
+          "text": "432 m²",
+          "html": "<p>432 m²</p>"
+        },
+        {
+          "id": "D",
+          "text": "360 m²",
+          "html": "<p>360 m²</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Sides 2:3:4, perimeter 72 → 9 parts = 72 → 1 part = 8.</p><p>Sides = 16, 24, 32 m; semi-perimeter s = 36.</p><p>Area = √[s(s−a)(s−b)(s−c)] = √[36 × 20 × 12 × 4].</p><p>= √34560 = 24√60 ≈ 185.9 ≈ 186 m².</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q12",
+      "number": 12,
+      "question": "The value of a machine depreciates 10% in the first year, 20% in the second year, and 30% in the third year. If the initial value was Rs. 10,000, what is its value at the end of 3 years?",
+      "questionHtml": "<p>The value of a machine depreciates 10% in the first year, 20% in the second year, and 30% in the third year. If the initial value was Rs. 10,000, what is its value at the end of 3 years?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 5040",
+          "html": "<p>Rs. 5040</p>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 5600",
+          "html": "<p>Rs. 5600</p>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 5800",
+          "html": "<p>Rs. 5800</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 6200",
+          "html": "<p>Rs. 6200</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Value = 10000 × (1 − 0.10)(1 − 0.20)(1 − 0.30).</p><p>= 10000 × 0.9 × 0.8 × 0.7.</p><p>= 10000 × 0.504 = Rs. 5040.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q13",
+      "number": 13,
+      "question": "An electronics dealer marks an item 60% above cost and offers a festival discount of 25%, plus a cashback of Rs. 300 on the final selling price. If he still makes a 10% profit, what is the cost price?",
+      "questionHtml": "<p>An electronics dealer marks an item 60% above cost and offers a festival discount of 25%, plus a cashback of Rs. 300 on the final selling price. If he still makes a 10% profit, what is the cost price?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 3300",
+          "html": "<p>Rs. 3300</p>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 3000",
+          "html": "<p>Rs. 3000</p>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 3100",
+          "html": "<p>Rs. 3100</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 3200",
+          "html": "<p>Rs. 3200</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let CP = x. Marked price = 1.6x.</p><p>After 25% discount: 1.6x × 0.75 = 1.2x.</p><p>After Rs. 300 cashback: SP = 1.2x − 300.</p><p>Profit 10% → SP = 1.1x, so 1.2x − 300 = 1.1x.</p><p>0.1x = 300 → x = Rs. 3000.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q14",
+      "number": 14,
+      "question": "Athar can do a certain work in the same time in which Baban and Chetan together can do it. If Athar and Baban together could do it in 10 days and Chetan alone in 50 days, then Baban alone could do it in:",
+      "questionHtml": "<p>Athar can do a certain work in the same time in which Baban and Chetan together can do it. If Athar and Baban together could do it in 10 days and Chetan alone in 50 days, then Baban alone could do it in:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20 days",
+          "html": "<p>20 days</p>"
+        },
+        {
+          "id": "B",
+          "text": "25 days",
+          "html": "<p>25 days</p>"
+        },
+        {
+          "id": "C",
+          "text": "30 days",
+          "html": "<p>30 days</p>"
+        },
+        {
+          "id": "D",
+          "text": "27 days",
+          "html": "<p>27 days</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let one-day work of A, B, C be a, b, c.</p><p>Given a = b + c and a + b = 1/10, c = 1/50.</p><p>Substitute a = b + c: (b + c) + b = 1/10 → 2b + c = 1/10.</p><p>2b = 1/10 − 1/50 = 4/50 → b = 2/50 = 1/25.</p><p>So Baban alone takes 25 days.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q15",
+      "number": 15,
+      "question": "A storage box is in the shape of a right rectangular prism with internal dimensions 50 cm × 40 cm × 30 cm. How many liters can it hold?",
+      "questionHtml": "<p>A storage box is in the shape of a right rectangular prism with internal dimensions 50 cm × 40 cm × 30 cm. How many liters can it hold?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "50",
+          "html": "<p>50</p>"
+        },
+        {
+          "id": "B",
+          "text": "60",
+          "html": "<p>60</p>"
+        },
+        {
+          "id": "C",
+          "text": "40",
+          "html": "<p>40</p>"
+        },
+        {
+          "id": "D",
+          "text": "70",
+          "html": "<p>70</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Volume = 50 × 40 × 30 = 60,000 cm³.</p><p>1 litre = 1000 cm³.</p><p>Capacity = 60,000 / 1000 = 60 litres.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q16",
+      "number": 16,
+      "question": "A trader bought 5 varieties of rice whose weights are in the ratio 2:3:4:5:6. Their respective prices per kg are Rs. 40, Rs. 42, Rs. 45, Rs. 48, and Rs. 50. What is the average cost per kg of the mixture?",
+      "questionHtml": "<p>A trader bought 5 varieties of rice whose weights are in the ratio 2:3:4:5:6. Their respective prices per kg are Rs. 40, Rs. 42, Rs. 45, Rs. 48, and Rs. 50. What is the average cost per kg of the mixture?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 46.8",
+          "html": "<p>Rs. 46.8</p>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 44.1",
+          "html": "<p>Rs. 44.1</p>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 44.8",
+          "html": "<p>Rs. 44.8</p>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 46.3",
+          "html": "<p>Rs. 46.3</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Note: The answer key marks option 1 (Rs. 46.8) as correct, but the figures given in the question yield option 4 (Rs. 46.3).</p><p>Total cost = 2×40 + 3×42 + 4×45 + 5×48 + 6×50.</p><p>= 80 + 126 + 180 + 240 + 300 = 926.</p><p>Total weight = 2 + 3 + 4 + 5 + 6 = 20 parts.</p><p>Average = 926 / 20 = Rs. 46.3 (option 4).</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q17",
+      "number": 17,
+      "question": "An alloy contains tin and copper in the ratio 5:3. A second alloy contains tin and copper in the ratio 3:1. What quantity of the first alloy must be mixed with 20 kg of the second alloy to produce a new alloy with tin and copper in the ratio 4:2?",
+      "questionHtml": "<p>An alloy contains tin and copper in the ratio 5:3. A second alloy contains tin and copper in the ratio 3:1. What quantity of the first alloy must be mixed with 20 kg of the second alloy to produce a new alloy with tin and copper in the ratio 4:2?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 kg",
+          "html": "<p>10 kg</p>"
+        },
+        {
+          "id": "B",
+          "text": "30 kg",
+          "html": "<p>30 kg</p>"
+        },
+        {
+          "id": "C",
+          "text": "40 kg",
+          "html": "<p>40 kg</p>"
+        },
+        {
+          "id": "D",
+          "text": "60 kg",
+          "html": "<p>60 kg</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Second alloy (20 kg), tin:copper = 3:1 → tin = 15 kg, copper = 5 kg.</p><p>Let x kg of first alloy (tin = 5x/8, copper = 3x/8).</p><p>New ratio tin:copper = 4:2 = 2:1.</p><p>(5x/8 + 15)/(3x/8 + 5) = 2 → 5x/8 + 15 = 6x/8 + 10.</p><p>15 − 10 = x/8 → x = 40 kg.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q18",
+      "number": 18,
+      "question": "If sin A = 2/3, find the value of (3 sin A − 4 cos A)² + (4 sin A + 3 cos A)².",
+      "questionHtml": "<p>If sin A = 2/3, find the value of</p><p>(3 sin A − 4 cos A)² + (4 sin A + 3 cos A)².</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "25",
+          "html": "<p>25</p>"
+        },
+        {
+          "id": "B",
+          "text": "18",
+          "html": "<p>18</p>"
+        },
+        {
+          "id": "C",
+          "text": "13",
+          "html": "<p>13</p>"
+        },
+        {
+          "id": "D",
+          "text": "34",
+          "html": "<p>34</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Expand both squares.</p><p>(3sinA − 4cosA)² = 9sin²A − 24 sinA cosA + 16cos²A.</p><p>(4sinA + 3cosA)² = 16sin²A + 24 sinA cosA + 9cos²A.</p><p>Add: 25 sin²A + 25 cos²A (the cross terms cancel).</p><p>= 25(sin²A + cos²A) = 25.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q19",
+      "number": 19,
+      "question": "If sin A + cos A = √2, then find sin³A + cos³A.",
+      "questionHtml": "<p>If sin A + cos A = √2, then find sin³A + cos³A.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "√2/2",
+          "html": "<p>√2/2</p>"
+        },
+        {
+          "id": "B",
+          "text": "√2/5",
+          "html": "<p>√2/5</p>"
+        },
+        {
+          "id": "C",
+          "text": "√3/2",
+          "html": "<p>√3/2</p>"
+        },
+        {
+          "id": "D",
+          "text": "√5/2",
+          "html": "<p>√5/2</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Square the given: (sinA + cosA)² = 2 → 1 + 2 sinA cosA = 2.</p><p>So sinA cosA = 1/2.</p><p>sin³A + cos³A = (sinA + cosA)(sin²A − sinA cosA + cos²A).</p><p>= √2 × (1 − 1/2) = √2 × 1/2 = √2/2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q20",
+      "number": 20,
+      "question": "Are these lines y = 2x + 3 and y = −(1/2)x − 1 perpendicular?",
+      "questionHtml": "<p>Are these lines y = 2x + 3 and y = −(1/2)x − 1 perpendicular?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes",
+          "html": "<p>Yes</p>"
+        },
+        {
+          "id": "B",
+          "text": "No",
+          "html": "<p>No</p>"
+        },
+        {
+          "id": "C",
+          "text": "Only if they intersect at origin",
+          "html": "<p>Only if they intersect at origin</p>"
+        },
+        {
+          "id": "D",
+          "text": "Cannot be determined",
+          "html": "<p>Cannot be determined</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Slopes are m₁ = 2 and m₂ = −1/2.</p><p>Lines are perpendicular when m₁ × m₂ = −1.</p><p>2 × (−1/2) = −1, so the lines are perpendicular → Yes.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q21",
+      "number": 21,
+      "question": "If sin x = cos(5x − 60°), then what is the value of x?",
+      "questionHtml": "<p>If sin x = cos(5x − 60°), then what is the value of x?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "30°",
+          "html": "<p>30°</p>"
+        },
+        {
+          "id": "B",
+          "text": "25°",
+          "html": "<p>25°</p>"
+        },
+        {
+          "id": "C",
+          "text": "18°",
+          "html": "<p>18°</p>"
+        },
+        {
+          "id": "D",
+          "text": "20°",
+          "html": "<p>20°</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Use cosθ = sin(90° − θ).</p><p>cos(5x − 60°) = sin(90° − 5x + 60°) = sin(150° − 5x).</p><p>sin x = sin(150° − 5x) → x = 150° − 5x.</p><p>6x = 150° → x = 25°.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q22",
+      "number": 22,
+      "question": "Two angles are complementary. The measure of one angle is 10 degrees more than three times the measure of the other angle. What is the measure of the smaller angle?",
+      "questionHtml": "<p>Two angles are complementary. The measure of one angle is 10 degrees more than three times the measure of the other angle. What is the measure of the smaller angle?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20°",
+          "html": "<p>20°</p>"
+        },
+        {
+          "id": "B",
+          "text": "25°",
+          "html": "<p>25°</p>"
+        },
+        {
+          "id": "C",
+          "text": "70°",
+          "html": "<p>70°</p>"
+        },
+        {
+          "id": "D",
+          "text": "80°",
+          "html": "<p>80°</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Complementary angles add to 90°.</p><p>Let smaller angle = x; larger = 3x + 10.</p><p>x + (3x + 10) = 90 → 4x = 80 → x = 20°.</p><p>Smaller angle = 20°.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q23",
+      "number": 23,
+      "question": "In a triangle ABC, if the angle bisectors of ∠B and ∠C intersect at point I, and ∠BIC = 110°, what is the measure of ∠A?",
+      "questionHtml": "<p>In a triangle ABC, if the angle bisectors of ∠B and ∠C intersect at point I, and ∠BIC = 110°, what is the measure of ∠A?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20°",
+          "html": "<p>20°</p>"
+        },
+        {
+          "id": "B",
+          "text": "40°",
+          "html": "<p>40°</p>"
+        },
+        {
+          "id": "C",
+          "text": "50°",
+          "html": "<p>50°</p>"
+        },
+        {
+          "id": "D",
+          "text": "60°",
+          "html": "<p>60°</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>For the incentre, ∠BIC = 90° + (∠A)/2.</p><p>110° = 90° + (∠A)/2 → (∠A)/2 = 20°.</p><p>∠A = 40°.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q24",
+      "number": 24,
+      "question": "Simplify: (√3 + √2)²",
+      "questionHtml": "<p>Simplify:</p><p>(√3 + √2)²</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 + 2√6",
+          "html": "<p>5 + 2√6</p>"
+        },
+        {
+          "id": "B",
+          "text": "5 − 2√6",
+          "html": "<p>5 − 2√6</p>"
+        },
+        {
+          "id": "C",
+          "text": "1 + 2√6",
+          "html": "<p>1 + 2√6</p>"
+        },
+        {
+          "id": "D",
+          "text": "1 − 2√6",
+          "html": "<p>1 − 2√6</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>(√3 + √2)² = (√3)² + 2·√3·√2 + (√2)².</p><p>= 3 + 2√6 + 2.</p><p>= 5 + 2√6.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "0a27f7d02df5-q25",
+      "number": 25,
+      "question": "In triangle PQR, ST is parallel to QR. If PS = 5 cm, SQ = 10 cm, and PT = 6 cm, find TR.",
+      "questionHtml": "<p>In triangle PQR, ST is parallel to QR. If PS = 5 cm, SQ = 10 cm, and PT = 6 cm, find TR.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 cm",
+          "html": "<p>10 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "8 cm",
+          "html": "<p>8 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "12 cm",
+          "html": "<p>12 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "6 cm",
+          "html": "<p>6 cm</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>By the Basic Proportionality Theorem: PS/SQ = PT/TR.</p><p>5/10 = 6/TR.</p><p>TR = (6 × 10)/5 = 12 cm.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

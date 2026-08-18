@@ -1,0 +1,797 @@
+{
+  "id": "f515237d60a9",
+  "provider": "RBE_Mocks",
+  "sourceFile": "Mathematical_Operation.html",
+  "sourcePath": "RBE_MOCKS/Mathematical_Operation.html",
+  "title": "Mathematical Operation",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 23,
+  "questions": [
+    {
+      "id": "f515237d60a9-q1",
+      "number": 1,
+      "question": "In each of the following questions, a word is transformed into another word by applying a specific alphabetical pattern to each of its letters. Identify the logic used in the first pair and apply the same logic to the second word to determine the correct answer. DREAM : GRDBM :: MAGIC : ?",
+      "questionHtml": "<p>In each of the following questions, a word is transformed into another word by applying a specific alphabetical pattern to each of its letters. Identify the logic used in the first pair and apply the same logic to the second word to determine the correct answer. </p><p>DREAM : GRDBM :: MAGIC : ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "TEEPO",
+          "html": "<p>TEEPO </p>"
+        },
+        {
+          "id": "B",
+          "text": "ULOOL",
+          "html": "<p>ULOOL </p>"
+        },
+        {
+          "id": "C",
+          "text": "ZEENE",
+          "html": "<p>ZEENE </p>"
+        },
+        {
+          "id": "D",
+          "text": "PAFJC",
+          "html": "<p>PAFJC </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>DREAM → GRDBM </p><p>D → G → +3 </p><p>R → R → 0 </p><p>E → D → -1 </p><p>A → B → +1 </p><p>M → M → 0 </p><p>Now apply this same pattern to the word MAGIC : </p><p>M (+3) → P </p><p>A (0) → A </p><p>G (-1) → F </p><p>I (+1) → J </p><p>C (0) → C </p><p>Correct answer: PAFJC </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q2",
+      "number": 2,
+      "question": "If + means -, ÷ means +, - means ×, and × means ÷ then, what is 18 ÷ 6 - 2 + 8?",
+      "questionHtml": "<p>If + means -, ÷ means +, - means ×, and × means ÷ then, what is 18 ÷ 6 - 2 + 8? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "28",
+          "html": "<p>28 </p>"
+        },
+        {
+          "id": "B",
+          "text": "22",
+          "html": "<p>22 </p>"
+        },
+        {
+          "id": "C",
+          "text": "24",
+          "html": "<p>24 </p>"
+        },
+        {
+          "id": "D",
+          "text": "26",
+          "html": "<p>26 </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Original expression: 18 ÷ 6 − 2 + 8 </p><p>Now replace symbols as per given meanings: 18 + 6 × 2 − 8 </p><p>Step-by-step calculation (follow BODMAS): </p><p>6 × 2 = 12 </p><p>18 + 12 = 30 </p><p>30 − 8 = 22 </p><p>Final Answer: 22 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q3",
+      "number": 3,
+      "question": "In each of the following questions, a word is transformed into another word by applying a specific alphabetical pattern to each of its letters. Identify the logic used in the first pair and apply the same logic to the second word to determine the correct answer. FROST : ITQSR :: CHALK : ?",
+      "questionHtml": "<p>In each of the following questions, a word is transformed into another word by applying a specific alphabetical pattern to each of its letters. Identify the logic used in the first pair and apply the same logic to the second word to determine the correct answer. <br/>FROST : ITQSR :: CHALK : ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "GHOCK",
+          "html": "<p>GHOCK </p>"
+        },
+        {
+          "id": "B",
+          "text": "HITME",
+          "html": "<p>HITME </p>"
+        },
+        {
+          "id": "C",
+          "text": "FJCLI",
+          "html": "<p>FJCLI </p>"
+        },
+        {
+          "id": "D",
+          "text": "KLPOR",
+          "html": "<p>KLPOR </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>F → I (+3) </p><p>R → T (+2) </p><p>O → Q (+2) </p><p>S → S (+0) </p><p>T → R (−2) </p><p>So , the pattern applied is: +3, +2, +2, 0, −2 </p><p>Now apply the same pattern to CHALK : </p><p>C (+3) → F </p><p>H (+2) → J </p><p>A (+2) → C </p><p>L (+0) → L </p><p>K (−2) → I </p><p>So , the correct transformed word is FJCLI </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q4",
+      "number": 4,
+      "question": "If + means -, ÷ means +, - means ×, and × means ÷ then, what is 30 - 5 + 10 ÷ 5?",
+      "questionHtml": "<p>If + means -, ÷ means +, - means ×, and × means ÷ then, what is 30 - 5 + 10 ÷ 5? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "155",
+          "html": "<p>155 </p>"
+        },
+        {
+          "id": "B",
+          "text": "160",
+          "html": "<p>160 </p>"
+        },
+        {
+          "id": "C",
+          "text": "145",
+          "html": "<p>145 </p>"
+        },
+        {
+          "id": "D",
+          "text": "150",
+          "html": "<p>150 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Original Expression: </p><p>30 - 5 + 10 ÷ 5 </p><p>Symbol Replacements: </p><p>- means × </p><p>+ means - </p><p>÷ means + </p><p>So , the expression becomes: 30 × 5 - 10 + 5 </p><p>Now solve it using normal BODMAS : </p><p>Step 1: Multiplication 30 × 5 = 150 </p><p>Step 2: Subtraction 150 - 10 = 140 </p><p>Step 3: Addition 140 + 5 = 145 </p><p>✅ Final Answer: 145 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q5",
+      "number": 5,
+      "question": "If △ means '+', □ means '-', ∇ means 'x', and ○ means '÷', what is the v alue of: 12 △ 8 ∇ 3 ○ 6 □ 5 = ?",
+      "questionHtml": "<p>If △ means '+', □ means '-', ∇ means 'x', and ○ means '÷', what is the v alue of: 12 △ 8 ∇ 3 ○ 6 □ 5 = ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "11",
+          "html": "<p>11 </p>"
+        },
+        {
+          "id": "B",
+          "text": "21",
+          "html": "<p>21 </p>"
+        },
+        {
+          "id": "C",
+          "text": "15",
+          "html": "<p>15 </p>"
+        },
+        {
+          "id": "D",
+          "text": "17",
+          "html": "<p>17 </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>12 △ 8 ∇ 3 ○ 6 □ 5 </p><p>Symbol meanings: </p><p>△ = + </p><p>∇ = × </p><p>○ = ÷ </p><p>□ = - </p><p>Step-by-step: </p><p>12 + 8 × 3 ÷ 6 - 5 </p><p>= 12 + 24 ÷ 6 - 5 </p><p>= 12 + 4 - 5 </p><p>= 11 </p><p>Answer: 11 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q6",
+      "number": 6,
+      "question": "In each of the following questions, a word is transformed into another word by applying a specific alphabetical pattern to each of its letters. Identify the logic used in the first pair and apply the same logic to the second word to determine the correct answer. LIGHT : MGH FU :: HEAVY : ?",
+      "questionHtml": "<p>In each of the following questions, a word is transformed into another word by applying a specific alphabetical pattern to each of its letters. Identify the logic used in the first pair and apply the same logic to the second word to determine the correct answer. </p><p>LIGHT : MGH FU :: HEAVY : ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "I CBTZ",
+          "html": "<p>I CBTZ </p>"
+        },
+        {
+          "id": "B",
+          "text": "GPIDB",
+          "html": "<p>GPIDB </p>"
+        },
+        {
+          "id": "C",
+          "text": "HISAT",
+          "html": "<p>HISAT </p>"
+        },
+        {
+          "id": "D",
+          "text": "JENZQ",
+          "html": "<p>JENZQ </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>LIGHT → MGHFU </p><p>Break it down letter by letter: </p><p>L → M → +1 </p><p>I → G → –2 </p><p>G → H → +1 </p><p>H → F → –2 </p><p>T → U → +1 </p><p>So the pattern is: +1, –2, +1, –2, +1 </p><p>Now apply this same pattern to HEAVY : </p><p>H (+1) → I </p><p>E (–2) → C </p><p>A (+1) → B </p><p>V (–2) → T </p><p>Y (+1) → Z </p><p>Result: ICBTZ </p><p>Correct answer: ICBTZ </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q7",
+      "number": 7,
+      "question": "If + means -, ÷ means +, - means ×, and × means ÷, then what is 28 - 4 ÷ 8 + 16?",
+      "questionHtml": "<p>If + means -, ÷ means +, - means ×, and × means ÷, then what is 28 - 4 ÷ 8 + 16? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "100",
+          "html": "<p>100 </p>"
+        },
+        {
+          "id": "B",
+          "text": "104",
+          "html": "<p>104 </p>"
+        },
+        {
+          "id": "C",
+          "text": "108",
+          "html": "<p>108 </p>"
+        },
+        {
+          "id": "D",
+          "text": "112",
+          "html": "<p>112 </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Given expression : 28 - 4 ÷ 8 + 16 </p><p>Symbol meanings : </p><p>+ means − </p><p>÷ means + </p><p>- means × </p><p>× means ÷ </p><p>So , rewrite the expression using actual operations: </p><p>→ 28 × 4 + 8 − 16 </p><p>Now solve step by step: </p><p>28 × 4 = 112 </p><p>112 + 8 = 120 </p><p>120 − 16 = 104 </p><p>✅ Final answer: 104 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q8",
+      "number": 8,
+      "question": "If + = -, - = *, * = /, / = +; then, what is 8 + (3 - 2) * 4 / 1 ?",
+      "questionHtml": "<p>If + = -, - = *, * = /, / = +; then, what is 8 + (3 - 2) * 4 / 1 ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "html": "<p>8 </p>"
+        },
+        {
+          "id": "B",
+          "text": "7.5",
+          "html": "<p>7.5 </p>"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "<p>6 </p>"
+        },
+        {
+          "id": "D",
+          "text": "9",
+          "html": "<p>9 </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Replace the given operators. <br/>+ = -, - = *, * = /, / = +. <br/>Expression becomes: 8 - (3 * 2) / 4 + 1 . <br/>Simplify inside the bracket → 3 * 2 = 6. <br/>So, 8 - 6 / 4 + 1 . <br/>Divide → 6 / 4 = 1.5. <br/>So, 8 - 1.5 + 1 . <br/>Simplify → 8 - 1.5 = 6.5, and 6.5 + 1 = 7.5 . <br/>Final Answer = 7.5 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q9",
+      "number": 9,
+      "question": "If + means -, ÷ means +, - means ×, and × means ÷, then, what is 25 - 3 ÷ 5 + 10?",
+      "questionHtml": "<p>If + means -, ÷ means +, - means ×, and × means ÷, then, what is 25 - 3 ÷ 5 + 10? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "70",
+          "html": "<p>70 </p>"
+        },
+        {
+          "id": "B",
+          "text": "75",
+          "html": "<p>75 </p>"
+        },
+        {
+          "id": "C",
+          "text": "80",
+          "html": "<p>80 </p>"
+        },
+        {
+          "id": "D",
+          "text": "65",
+          "html": "<p>65 </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Expression: 25 - 3 ÷ 5 + 10 </p><p>Replace symbols: (- = ×, ÷ = +, + = -) → 25 × 3 + 5 - 10 </p><p>25 × 3 = 75 </p><p>75 + 5 = 80 </p><p>80 - 10 = 70 Final Answer = 70 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q10",
+      "number": 10,
+      "question": "In each of the following questions, a word is transformed into another word by applying a specific alphabetical pattern to each of its letters. Identify the logic used in the first pair and apply the same logic to the second word to determine the correct answer. BLUSH : DMQWI :: CRASH : ?",
+      "questionHtml": "<p>In each of the following questions, a word is transformed into another word by applying a specific alphabetical pattern to each of its letters. Identify the logic used in the first pair and apply the same logic to the second word to determine the correct answer. </p><p>BLUSH : DMQWI :: CRASH : ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "FSSXY",
+          "html": "<p>FSSXY </p>"
+        },
+        {
+          "id": "B",
+          "text": "GHHUT",
+          "html": "<p>GHHUT </p>"
+        },
+        {
+          "id": "C",
+          "text": "HIITZ",
+          "html": "<p>HIITZ </p>"
+        },
+        {
+          "id": "D",
+          "text": "ESWWI",
+          "html": "<p>ESWWI </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>- First pair: BLUSH → DMQWI <br/>Check letter by letter: <br/>B → D (+2) <br/>L → M (+1) <br/>U → Q (–4) <br/>S → W (+4) <br/>H → I (+1) <br/><br/>So the rule is: (+2, +1, –4, +4, +1) . <br/><br/>- Apply same rule to CRASH : <br/>C → E (+2) <br/>R → S (+1) <br/>A → W (–4) <br/>S → W (+4) <br/>H → I (+1) <br/><br/>Result = ESWWI . <br/><br/>Hence, the correct answer is Option 4: ESWWI . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q11",
+      "number": 11,
+      "question": "What will come in place of the question mark (?) in the following equation? 100 ÷ 10 – 7 + 2 × 6 = ?",
+      "questionHtml": "<p>What will come in place of the question mark (?) in the following equation? </p><p>100 ÷ 10 – 7 + 2 × 6 = ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "html": "<p>12 </p>"
+        },
+        {
+          "id": "B",
+          "text": "15",
+          "html": "<p>15 </p>"
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "html": "<p>20 </p>"
+        },
+        {
+          "id": "D",
+          "text": "5",
+          "html": "<p>5 </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Apply BODMAS Rule (Brackets, Orders, Division/Multiplication, Addition, Subtraction): <br/>• Step 1: 100 ÷ 10 = 10 <br/>• Step 2: 2 × 6 = 12 <br/>• Step 3: Now equation becomes → 10 – 7 + 12 <br/>• Step 4: Solve left to right → 10 – 7 = 3 <br/>• Step 5: 3 + 12 = 15 <br/><br/>Correct Answer = 15 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q12",
+      "number": 12,
+      "question": "If + means ÷, ÷ means -, - means +, an d × means ×, then what is (200 ÷ 50 - 10) × 5 + 25?",
+      "questionHtml": "<p>If + means ÷, ÷ means -, - means +, an d × means ×, then what is (200 ÷ 50 - 10) × 5 + 25? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "34",
+          "html": "<p>34 </p>"
+        },
+        {
+          "id": "B",
+          "text": "32",
+          "html": "<p>32 </p>"
+        },
+        {
+          "id": "C",
+          "text": "36",
+          "html": "<p>36 </p>"
+        },
+        {
+          "id": "D",
+          "text": "30",
+          "html": "<p>30 </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1756625512460_image001.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q13",
+      "number": 13,
+      "question": "If + = * , - = +, * = -, / = /; then what is (3 + 4) * 2 - 1 / 5?",
+      "questionHtml": "<p>If + = * , - = +, * = -, / = /; then what is (3 + 4) * 2 - 1 / 5? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "11",
+          "html": "<p>11 </p>"
+        },
+        {
+          "id": "B",
+          "text": "9",
+          "html": "<p>9 </p>"
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "html": "<p>12 </p>"
+        },
+        {
+          "id": "D",
+          "text": "10.2",
+          "html": "<p>10.2 </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>– Replace each sign as per rule: + →* , * → - , - → + , / → / . <br/>– Expression becomes: (3 × 4) - 2 + 1 / 5 . <br/>– Apply BODMAS: (3 × 4) = 12 , 1 / 5 = 0.2 . <br/>– Now compute: 12 - 2 + 0.2 = 10.2 . <br/>– Therefore, the value is 10.2 → Option 4 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q14",
+      "number": 14,
+      "question": "If + = -, - = *, * = /, / = +; then, what is 6 + (4 * 2) - 3 / 1?",
+      "questionHtml": "<p>If + = -, - = *, * = /, / = +; then, what is 6 + (4 * 2) - 3 / 1? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "<p>3 </p>"
+        },
+        {
+          "id": "B",
+          "text": "0",
+          "html": "<p>0 </p>"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "<p>2 </p>"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "<p>1 </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Replace operators by the given mappings: + → - , - → * , * → / , / → + . </p><p>Thus, 6 + (4 * 2) - 3 / 1 → 6 − (4 / 2) * 3 + 1 . <br/>Evaluate using BODMAS: (4 / 2) = 2 → 2 * 3 = 6 → 6 − 6 + 1 = 1 . Hence, the correct option is 1 (Option 4). </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q15",
+      "number": 15,
+      "question": "If + means −, ÷ means +, − means ×, and × means ÷, then what is 15 − 4 ÷ 6 + 12?",
+      "questionHtml": "<p>If + means −, ÷ means +, − means ×, and × means ÷, then what is 15 − 4 ÷ 6 + 12? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "54",
+          "html": "<p>54 </p>"
+        },
+        {
+          "id": "B",
+          "text": "56",
+          "html": "<p>56 </p>"
+        },
+        {
+          "id": "C",
+          "text": "58",
+          "html": "<p>58 </p>"
+        },
+        {
+          "id": "D",
+          "text": "60",
+          "html": "<p>60 </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Replace the symbols as per given codes: <br/>Expression = 15 − 4 ÷ 6 + 12 <br/>− → ×, ÷ → +, + → − <br/>⇒ 15 × 4 + 6 − 12 <br/><br/>Step 1: 15 × 4 = 60 <br/>Step 2: 60 + 6 = 66 <br/>Step 3: 66 − 12 = 54 <br/><br/>Correct Answer = 54 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q16",
+      "number": 16,
+      "question": "If + = *, - = +, * = /, / = -; then, what is (4 + 5) * 2 - 3 / 1?",
+      "questionHtml": "<p>If + = *, - = +, * = /, / = -; then, what is (4 + 5) * 2 - 3 / 1? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "11",
+          "html": "<p>11 </p>"
+        },
+        {
+          "id": "B",
+          "text": "10",
+          "html": "<p>10 </p>"
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "html": "<p>12 </p>"
+        },
+        {
+          "id": "D",
+          "text": "14",
+          "html": "<p>14 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Replace symbols as given: ‘+→ ’, ‘-→+’, ‘ →/’, ‘/→-’. Expression becomes (4 * 5) / 2 + 3 - 1 . Compute: (4 * 5) = 20; 20 / 2 = 10; 3 - 1 = 2; hence 10 + 2 = 12 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q17",
+      "number": 17,
+      "question": "If + means −, ÷ means +, − means ×, and × means ÷, then what is 35 ÷ 7 − 5 + 20?",
+      "questionHtml": "<p>If + means −, ÷ means +, − means ×, and × means ÷, then what is 35 ÷ 7 − 5 + 20? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "50",
+          "html": "<p>50 </p>"
+        },
+        {
+          "id": "B",
+          "text": "40",
+          "html": "<p>40 </p>"
+        },
+        {
+          "id": "C",
+          "text": "45",
+          "html": "<p>45 </p>"
+        },
+        {
+          "id": "D",
+          "text": "35",
+          "html": "<p>35 </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Replace the symbols as given: ÷ → + , − → × , + → − . So, 35 ÷ 7 − 5 + 20 → 35 + 7 × 5 − 20 . Apply BODMAS: 7 × 5 = 35 ⇒ 35 + 35 − 20 = 50 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q18",
+      "number": 18,
+      "question": "If + = *, − = /, * = +, / = −; then, what is (5 + 2) * 3 − 4 / 2?",
+      "questionHtml": "<p>If + = *, − = /, * = +, / = −; then, what is (5 + 2) * 3 − 4 / 2? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10.67",
+          "html": "<p>10.67 </p>"
+        },
+        {
+          "id": "B",
+          "text": "7",
+          "html": "<p>7 </p>"
+        },
+        {
+          "id": "C",
+          "text": "9",
+          "html": "<p>9 </p>"
+        },
+        {
+          "id": "D",
+          "text": "8.75",
+          "html": "<p>8.75 </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Replace symbols: +→* , *→+ , −→/ , /→− . Expression becomes (5 * 2) + 3 / 4 − 2 . Compute with BODMAS: (5 * 2)=10 , 3/4=0.75 ⇒ 10 + 0.75 − 2 = 8.75 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q19",
+      "number": 19,
+      "question": "If 5■ = 20 and 7■ = 28, then 9■ = ?",
+      "questionHtml": "<p>If 5■ = 20 and 7■ = 28, then 9■ = ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "40",
+          "html": "<p>40 </p>"
+        },
+        {
+          "id": "B",
+          "text": "38",
+          "html": "<p>38 </p>"
+        },
+        {
+          "id": "C",
+          "text": "42",
+          "html": "<p>42 </p>"
+        },
+        {
+          "id": "D",
+          "text": "36",
+          "html": "<p>36 </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The pattern is: n■ = n × 4 . </p><p>For 5: 5 × 4 = 20 ✔ </p><p>For 7: 7 × 4 = 28 ✔ </p><p>For 9: 9 × 4 = 36 ✔ </p><p>Hence, the correct answer is 36 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q20",
+      "number": 20,
+      "question": "If 'Alpha' means addition, 'Beta' means subtraction, 'Gamma' means multiplication, and 'Delta' means division, then what is value of 100 Delta 5 Beta 10 Alpha 2 Gamma 3?",
+      "questionHtml": "<p>If 'Alpha' means addition, 'Beta' means subtraction, 'Gamma' means multiplication, and 'Delta' means division, then what is value of 100 Delta 5 Beta 10 Alpha 2 Gamma 3? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "26",
+          "html": "<p>26 </p>"
+        },
+        {
+          "id": "B",
+          "text": "22",
+          "html": "<p>22 </p>"
+        },
+        {
+          "id": "C",
+          "text": "36",
+          "html": "<p>36 </p>"
+        },
+        {
+          "id": "D",
+          "text": "16",
+          "html": "<p>16 </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>But applying correct BODMAS priority : <br/>100 ÷ 5 = 20 <br/>then 2 × 3 = 6 <br/>now 20 - 10 + 6 = 16 . <br/>Hence, the correct answer is 16 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q21",
+      "number": 21,
+      "question": "Which two signs and two numbers should be interchanged in the equation given below to make the following equation correct? 10 + 4 – 5 × 2 = 19",
+      "questionHtml": "<p>Which two signs and two numbers should be interchanged in the equation given below to make the following equation correct? 10 + 4 – 5 × 2 = 19 </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Signs – and +, Numbers 10 and 5",
+          "html": "<p>Signs – and +, Numbers 10 and 5 </p>"
+        },
+        {
+          "id": "B",
+          "text": "Signs + and –, Numbers 10 and 2",
+          "html": "<p>Signs + and –, Numbers 10 and 2 </p>"
+        },
+        {
+          "id": "C",
+          "text": "Signs × and –, Numbers 5 and 4",
+          "html": "<p>Signs × and –, Numbers 5 and 4 </p>"
+        },
+        {
+          "id": "D",
+          "text": "Signs × and +, Numbers 2 and 4",
+          "html": "<p>Signs × and +, Numbers 2 and 4 </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>If we interchange × and + , and also interchange 2 and 4 , the equation becomes: 10 × 2 – 5 + 4 = 19. Simplify: 20 – 5 + 4 = 19. 15 + 4 = 19. 19 = 19 ✔ Hence, the correct answer is Option 4 . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q22",
+      "number": 22,
+      "question": "If + means ×, ÷ means -, - means ÷ then, and × means + then, what is 150 × 25 - 5 ÷ 10 + 2?",
+      "questionHtml": "<p>If + means ×, ÷ means -, - means ÷ then, and × means + then, what is 150 × 25 - 5 ÷ 10 + 2? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "130",
+          "html": "<p>130 </p>"
+        },
+        {
+          "id": "B",
+          "text": "140",
+          "html": "<p>140 </p>"
+        },
+        {
+          "id": "C",
+          "text": "135",
+          "html": "<p>135 </p>"
+        },
+        {
+          "id": "D",
+          "text": "125",
+          "html": "<p>125 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Replace the signs as per the given conditions: <br/>150 × 25 - 5 ÷ 10 + 2 <br/>= 150 + 25 ÷ 5 - 10 × 2 <br/>= 150 + (25 ÷ 5) - (10 × 2) <br/>= 150 + 5 - 20 <br/>= 135. <br/>Hence, the correct answer is Option 3 (135) . </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "f515237d60a9-q23",
+      "number": 23,
+      "question": "What will come in place of the question mark (?) in the following equation? 72 ÷ 9 – 15 + 4 × 3 = ?",
+      "questionHtml": "<p>What will come in place of the question mark (?) in the following equation? 72 ÷ 9 – 15 + 4 × 3 = ? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "<p>5 </p>"
+        },
+        {
+          "id": "B",
+          "text": "17",
+          "html": "<p>17 </p>"
+        },
+        {
+          "id": "C",
+          "text": "-3",
+          "html": "<p>-3 </p>"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "<p>1 </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Step 1: 72 ÷ 9 = 8 <br/>Step 2: 8 – 15 + 4 × 3 <br/>Step 3: 4 × 3 = 12 → 8 – 15 + 12 <br/>Step 4: 8 – 15 = -7 → -7 + 12 = 5 <br/>Final Answer = 5 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

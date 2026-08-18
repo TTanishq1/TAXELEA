@@ -1,0 +1,695 @@
+{
+  "id": "39c9e8ceda92",
+  "provider": "RBE_Mocks",
+  "sourceFile": "RRB_ALP_2025-26_CBT-1_Top_15_Questions.html",
+  "sourcePath": "RBE_MOCKS/RRB_ALP_2025-26_CBT-1_Top_15_Questions.html",
+  "title": "RRB ALP 2025-26 CBT-1 Top 15 Questions",
+  "exam": "RRB",
+  "year": 2025,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 20,
+  "questions": [
+    {
+      "id": "39c9e8ceda92-q1",
+      "number": 1,
+      "question": "In the following number-pairs, the second number is obtained by applying certain mathematical operation(s) to the first number. Which numbers should replace X and Y, so that the pattern followed by the two numbers on the left side of :: is the same as that on the right side of ::? (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) X : 126 :: 21 : Y",
+      "questionHtml": "<p>In the following number-pairs, the second number is obtained by applying certain mathematical operation(s) to the first number. Which numbers should replace X and Y, so that the pattern followed by the two numbers on the left side of :: is the same as that on the right side of ::? </p><p>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) </p><p>X : 126 :: 21 : Y </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "X = 16, Y = 574 B",
+          "html": "<p>X = 16, Y = 574 B </p>"
+        },
+        {
+          "id": "B",
+          "text": "X = 19, Y = 365 C",
+          "html": "<p>X = 19, Y = 365 C </p>"
+        },
+        {
+          "id": "C",
+          "text": "X = 12, Y = 207",
+          "html": "<p>X = 12, Y = 207 </p>"
+        },
+        {
+          "id": "D",
+          "text": "X = 14, Y = 441",
+          "html": "<p>X = 14, Y = 441 </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Solution: </p><p>Given pattern: X : 126 :: 21 : Y </p><p>Try option (c): X = 12 </p><p>Check relation: <br/>12 × 9 + 18 = 108 + 18 = 126 ✔ </p><p>Apply same rule to 21: <br/>21 × 9 + 18 = 189 + 18 = 207 ✔ </p><p>Hence, the pattern is number × 9 + 18 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q2",
+      "number": 2,
+      "question": "In this question, a question is followed by two statements numbered (I) and (II). You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements and decide the appropriate answer. Among the five poles—R, A, M, E, and N—each having a different height, which pole is the shortest? (I) N is taller than M (II) E is taller than N.R is only shorter than one pole",
+      "questionHtml": "<p>In this question, a question is followed by two statements numbered (I) and (II). You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements and decide the appropriate answer. <br/>Among the five poles—R, A, M, E, and N—each having a different height, which pole is the shortest? <br/>(I) N is taller than M <br/>(II) E is taller than N.R is only shorter than one pole </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both statements I and II together are NOT sufficient to answer the question",
+          "html": "<p>Both statements I and II together are NOT sufficient to answer the question </p>"
+        },
+        {
+          "id": "B",
+          "text": "Data in statement I alone is sufficient to answer the question while data in statement II is not",
+          "html": "<p>Data in statement I alone is sufficient to answer the question while data in statement II is not </p>"
+        },
+        {
+          "id": "C",
+          "text": "Both statements I and II together (and not statement I alone or statement II alone) are sufficient to answer the question",
+          "html": "<p>Both statements I and II together (and not statement I alone or statement II alone) are sufficient to answer the question </p>"
+        },
+        {
+          "id": "D",
+          "text": "Data in statement II alone is sufficient to answer the question while data in statement I is not",
+          "html": "<p>Data in statement II alone is sufficient to answer the question while data in statement I is not </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Step 1: Poles = R, A, M, E, N (all different heights) </p><p>Statement I: N &gt; M </p><p>→ Only says N is taller than M. Shortest pole not identified. </p><p>Statement II: E &gt; N, and R is only shorter than one pole </p><p>→ Means R is 2nd shortest. But we don ’ t know which pole is the shortest. </p><p>Step 3: Combine I and II </p><p>Even after combining, we cannot uniquely determine the shortest pole. </p><p>Multiple possibilities remain. </p><p>Both statements I and II together are NOT sufficient to answer the question. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q3",
+      "number": 3,
+      "question": "Each of G, J, M, O, R, S, and T has an exam on a different day of a week, starting from Monday and ending on Sunday of the same week. Only three people have exams between O and S. S has an exam on the last day of the week. Only one person has an exam between G and J. T has an exam immediately the day before M. R doesn't have an exam on Friday. J has an exam before G. Who has an exam on Tuesday?",
+      "questionHtml": "<p>Each of G, J, M, O, R, S, and T has an exam on a different day of a week, starting from Monday and ending on Sunday of the same week. Only three people have exams between O and S. S has an exam on the last day of the week. Only one person has an exam between G and J. T has an exam immediately the day before M. R doesn't have an exam on Friday. J has an exam before G. <br/>Who has an exam on Tuesday? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "G",
+          "html": "<p>G </p>"
+        },
+        {
+          "id": "B",
+          "text": "O",
+          "html": "<p>O </p>"
+        },
+        {
+          "id": "C",
+          "text": "J",
+          "html": "<p>J </p>"
+        },
+        {
+          "id": "D",
+          "text": "T",
+          "html": "<p>T </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Day </p><p>Person </p><p>Monday </p><p>R </p><p>Tuesday </p><p>J </p><p>Wednesday </p><p>O </p><p>Thursday </p><p>G </p><p>Friday </p><p>T </p><p>Saturday </p><p>M </p><p>Sunday </p><p>S </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q4",
+      "number": 4,
+      "question": "Select the Venn diagram that best illustrates the relationship between the following classes. Headgears, Helmets, Caps",
+      "questionHtml": "<p>Select the Venn diagram that best illustrates the relationship between the following classes. <br/>Headgears, Helmets, Caps </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1774611646509_image001.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1774611646509_image001.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1774611646509_image002.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1774611646509_image002.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1774611646509_image003.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1774611646509_image003.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1774611646509_image004.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1774611646509_image004.png"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Option 4 is correct. </p><p>Headgears include Helmets and Caps, so both Helmets and Caps are subsets inside Headgears. </p><p>This is shown by two smaller circles (Helmets and Caps) inside a bigger circle (Headgears) without overlapping each other. </p><p>Other options do not show correct subset relationships. </p><p>Hence, the best Venn diagram is Option 4. </p><p>Final answer: Option 4 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q5",
+      "number": 5,
+      "question": "D, E, F, G, K, L and M are sitting around a circular table, facing the centre of the table. D sits fourth to the right of K. Only two people sit between L and G when counted from the left of L. F sits third to the left of E. M is an immediate neighbour of E and G. How many sit people between D and M when counted from the left of M?",
+      "questionHtml": "<p>D, E, F, G, K, L and M are sitting around a circular table, facing the centre of the table. D sits fourth to the right of K. Only two people sit between L and G when counted from the left of L. F sits third to the left of E. M is an immediate neighbour of E and G. How many sit people between D and M when counted from the left of M? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "One",
+          "html": "<p>One </p>"
+        },
+        {
+          "id": "B",
+          "text": "Two",
+          "html": "<p>Two </p>"
+        },
+        {
+          "id": "C",
+          "text": "Three",
+          "html": "<p>Three </p>"
+        },
+        {
+          "id": "D",
+          "text": "Four",
+          "html": "<p>Four </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1774611646509_image005.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q6",
+      "number": 6,
+      "question": "elect the set in which the numbers are related in the same way as are the numbers of the following sets. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) (3, 40, 42) (1, 59, 63)",
+      "questionHtml": "<p>elect the set in which the numbers are related in the same way as are the numbers of the following sets. </p><p>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) </p><p>(3, 40, 42) </p><p>(1, 59, 63) </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(3, 41 45)",
+          "html": "<p>(3, 41 45) </p>"
+        },
+        {
+          "id": "B",
+          "text": "(8, 89, 90)",
+          "html": "<p>(8, 89, 90) </p>"
+        },
+        {
+          "id": "C",
+          "text": "(7, 74, 72)",
+          "html": "<p>(7, 74, 72) </p>"
+        },
+        {
+          "id": "D",
+          "text": "(4, 54, 56)",
+          "html": "<p>(4, 54, 56) </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Given logic: <br/>(1st + 3rd) − 5 = 2nd </p><p>Check: </p><p>(3, 40, 42): 3 + 42 − 5 = 40 ✔ </p><p>(1, 59, 63): 1 + 63 − 5 = 59 ✔ </p><p>Now options: </p><p>(3, 41, 45): 3 + 45 − 5 = 43 ✖ </p><p>(8, 89, 90): 8 + 90 − 5 = 93 ✖ </p><p>(7, 74, 72): 7 + 72 − 5 = 74 ✔ </p><p>(4, 54, 56): 4 + 56 − 5 = 55 ≠ 54 ✖ </p><p>👉 Correct match is actually (7, 74, 72) </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q7",
+      "number": 7,
+      "question": "Read the given statement(s) and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement(s). Statements: Some pencils are swans. No vultures are pencils. Conclusions: (I) No vultures are swans. (II) Some swans are not vultures.",
+      "questionHtml": "<p>Read the given statement(s) and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement(s). <br/>Statements: <br/>Some pencils are swans. <br/>No vultures are pencils. <br/>Conclusions: <br/>(I) No vultures are swans. <br/>(II) Some swans are not vultures. </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only conclusion (I) follows",
+          "html": "<p>Only conclusion (I) follows </p>"
+        },
+        {
+          "id": "B",
+          "text": "Only conclusion (II) follows.",
+          "html": "<p>Only conclusion (II) follows. </p>"
+        },
+        {
+          "id": "C",
+          "text": "Neither conclusion (I) nor (II) follows",
+          "html": "<p>Neither conclusion (I) nor (II) follows </p>"
+        },
+        {
+          "id": "D",
+          "text": "Both conclusions (I) and (II) follow.",
+          "html": "<p>Both conclusions (I) and (II) follow. </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Answer: Only conclusion (II) follows.</p><p>Short Solution:<br/>Some pencils are swans, and no vultures are pencils. So, the swans that are pencils cannot be vultures. Hence, some swans are not vultures (Conclusion II) is correct.</p><p>However, we cannot say that no vultures are swans, because not all swans are pencils. So, Conclusion I does not follow.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q8",
+      "number": 8,
+      "question": "Manan, Kiran, Aditi, Isha, Trisha and Arya live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it is numbered 2 and so on till the topmost floor is numbered 6. Trisha lives immediately above Arya. Only one person lives between Arya and Aditi. Only two people live between Isha and Arya. Arya lives on an odd-numbered floor but not on the lowermost floor. Kiran lives immediately above Trisha. Who lives on floor number 2?",
+      "questionHtml": "<p>Manan, Kiran, Aditi, Isha, Trisha and Arya live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it is numbered 2 and so on till the topmost floor is numbered 6. Trisha lives immediately above Arya. Only one person lives between Arya and Aditi. Only two people live between Isha and Arya. Arya lives on an odd-numbered floor but not on the lowermost floor. Kiran lives immediately above Trisha. Who lives on floor number 2? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aditi",
+          "html": "<p>Aditi </p>"
+        },
+        {
+          "id": "B",
+          "text": "Manan",
+          "html": "<p>Manan </p>"
+        },
+        {
+          "id": "C",
+          "text": "Kiran",
+          "html": "<p>Kiran </p>"
+        },
+        {
+          "id": "D",
+          "text": "Isha",
+          "html": "<p>Isha </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1774611646509_image006.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q9",
+      "number": 9,
+      "question": "Each of G, J, M, O, R, S and T has an exam on a different day of a week, starting from Monday and ending on Sunday of the same week. Only three people have exams between O and S. Only three people have exams between G and J. T has an exam on some day before R and on some day after M. Only J has an exam after S. Who has an exam on Thursday?",
+      "questionHtml": "<p>Each of G, J, M, O, R, S and T has an exam on a different day of a week, starting from Monday and ending on Sunday of the same week. Only three people have exams between O and S. Only three people have exams between G and J. T has an exam on some day before R and on some day after M. Only J has an exam after S. Who has an exam on Thursday? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "T",
+          "html": "<p>T </p>"
+        },
+        {
+          "id": "B",
+          "text": "O",
+          "html": "<p>O </p>"
+        },
+        {
+          "id": "C",
+          "text": "G",
+          "html": "<p>G </p>"
+        },
+        {
+          "id": "D",
+          "text": "M",
+          "html": "<p>M </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>T has an exam on Thursday.</p><p>Day </p><p>Person </p><p>Monday </p><p>M </p><p>Tuesday </p><p>O </p><p>Wednesday </p><p>G </p><p>Thursday </p><p>T </p><p>Friday </p><p>R </p><p>Saturday </p><p>S </p><p>Sunday </p><p>J </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q10",
+      "number": 10,
+      "question": "A question is followed by two statements numbered (I) and (II). You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements and select the most appropriate answer. Question: Among 5 poles, I, L, O, M and D each having a different height, which pole is the tallest? Statements: (I) I is shorter than L but taller than O. (II) O is taller than M but shorter than D.",
+      "questionHtml": "<p>A question is followed by two statements numbered (I) and (II). You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements and select the most appropriate answer. <br/>Question: <br/>Among 5 poles, I, L, O, M and D each having a different height, which pole is the tallest? <br/>Statements: <br/>(I) I is shorter than L but taller than O. <br/>(II) O is taller than M but shorter than D. </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Data in both statements I and II together are not sufficient to answer the question.",
+          "html": "<p>Data in both statements I and II together are not sufficient to answer the question. </p>"
+        },
+        {
+          "id": "B",
+          "text": "Data in statement I alone is sufficient to answer the question while data in statement II is not.",
+          "html": "<p>Data in statement I alone is sufficient to answer the question while data in statement II is not. </p>"
+        },
+        {
+          "id": "C",
+          "text": "Data in statement II alone is sufficient to answer the question while data in statement I is not.",
+          "html": "<p>Data in statement II alone is sufficient to answer the question while data in statement I is not. </p>"
+        },
+        {
+          "id": "D",
+          "text": "Data in both statements I and II together (and not statement I alone or statement II alone) are sufficient to answer the question.",
+          "html": "<p>Data in both statements I and II together (and not statement I alone or statement II alone) are sufficient to answer the question. </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>From Statement (I): <br/>J &lt; L and J &gt; O ⇒ L &gt; J &gt; O <br/>(No info about M, D) → ❌ Not sufficient </p><p>From Statement (II): <br/>O &gt; M and O &lt; D ⇒ D &gt; O &gt; M <br/>(No info about J, L) → ❌ Not sufficient </p><p>Combine (I) &amp; (II): <br/>L &gt; J &gt; O &gt; M and D &gt; O </p><p>Now compare top: </p><p>L vs D → no relation given </p><p>👉 Tallest could be L or D </p><p>❌ Still not निश्चित </p><p>Final Answer: <br/>Data in both statements I and II together are not sufficient to answer the question. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q11",
+      "number": 11,
+      "question": "A question is followed by two statements numbered (I) and (II). You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements and select the most appropriate answer. Question: Among 5 poles, I, L, O, M and D each having a different height, which pole is the tallest? Statements: (I) I is taller than M but shorter than D. I is shorter than only one pole. (II) M is taller than L.",
+      "questionHtml": "<p>A question is followed by two statements numbered (I) and (II). You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements and select the most appropriate answer. <br/>Question: <br/>Among 5 poles, I, L, O, M and D each having a different height, which pole is the tallest? <br/>Statements: <br/>(I) I is taller than M but shorter than D. I is shorter than only one pole. <br/>(II) M is taller than L. </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Data in statement I alone is sufficient to answer the question while data in statement II is not.",
+          "html": "<p>Data in statement I alone is sufficient to answer the question while data in statement II is not. </p>"
+        },
+        {
+          "id": "B",
+          "text": "Data in both statements I and II together (and not statement I alone or statement II alone) are sufficient to answer the question.",
+          "html": "<p>Data in both statements I and II together (and not statement I alone or statement II alone) are sufficient to answer the question. </p>"
+        },
+        {
+          "id": "C",
+          "text": "Data in both statements I and II together are not sufficient to answer the question.",
+          "html": "<p>Data in both statements I and II together are not sufficient to answer the question. </p>"
+        },
+        {
+          "id": "D",
+          "text": "Data in statement II alone is sufficient to answer the question while data in statement I is not.",
+          "html": "<p>Data in statement II alone is sufficient to answer the question while data in statement I is not. </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Statement I says: I is taller than M but shorter than D. </p><p>It also mentions I is shorter than only one pole, meaning exactly one pole is taller than I. </p><p>From this, D must be the tallest pole as it is taller than I, and I is second tallest. </p><p>Thus, statement I alone is sufficient to find the tallest pole, which is D. </p><p>Statement II says: M is taller than L. </p><p>This information does not help determine the tallest pole alone or add conclusive information to statement I. </p><p>Therefore, statement II alone is insufficient and combined does not add value beyond statement I. </p><p>Hence, the answer is option 1. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q12",
+      "number": 12,
+      "question": "Read the given statement(s) and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement(s). Statements: All kings are bombs. No parrots are kings. Conclusions: (I) Some bombs are not parrots. (II) Some bombs are kings.",
+      "questionHtml": "<p>Read the given statement(s) and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement(s). <br/>Statements: <br/>All kings are bombs. <br/>No parrots are kings. <br/>Conclusions: <br/>(I) Some bombs are not parrots. <br/>(II) Some bombs are kings. </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only conclusion (II) follows.",
+          "html": "<p>Only conclusion (II) follows. </p>"
+        },
+        {
+          "id": "B",
+          "text": "Neither conclusion (I) nor (II) follows.",
+          "html": "<p>Neither conclusion (I) nor (II) follows. </p>"
+        },
+        {
+          "id": "C",
+          "text": "Only conclusion (I) follows.",
+          "html": "<p>Only conclusion (I) follows. </p>"
+        },
+        {
+          "id": "D",
+          "text": "Both conclusions (I) and (II) follow.",
+          "html": "<p>Both conclusions (I) and (II) follow. </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Answer: Both conclusions (I) and (II) follow.</p><p>All kings are bombs, so kings are a subset of bombs. Also, no parrots are kings, so kings are completely separate from parrots.</p><p>Thus, the kings (which are bombs) are not parrots ⇒ some bombs are not parrots (I) follows.<br/>Also, since all kings are bombs, clearly some bombs are kings (II) follows.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q13",
+      "number": 13,
+      "question": "Refer to the given number, symbol series and answer the question that follows. Counting to be done from left to right only. (All numbers are single digit numbers only) (Left) 6 £ 2 @ % 7 8 # 1 3 * 9 $ & 4 ^ ≺ 5 (Right) How many such symbols are there each of which is immediately preceded by an odd number but not immediately followed by an even number?",
+      "questionHtml": "<p>Refer to the given number, symbol series and answer the question that follows. Counting to be done from left to right only. (All numbers are single digit numbers only) <br/>(Left) 6 £ 2 @ % 7 8 # 1 3 * 9 $ &amp; 4 ^ ≺ 5 (Right) <br/>How many such symbols are there each of which is immediately preceded by an odd number but not immediately followed by an even number? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "One",
+          "html": "<p>One </p>"
+        },
+        {
+          "id": "B",
+          "text": "Three",
+          "html": "<p>Three </p>"
+        },
+        {
+          "id": "C",
+          "text": "None",
+          "html": "<p>None </p>"
+        },
+        {
+          "id": "D",
+          "text": "Two",
+          "html": "<p>Two </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The series is 6 £ 2 @ % 7 8 # 1 3 × 9 $ &amp; 4 ^ ≺ 5. </p><p>We check each symbol's immediate neighbours: </p><p>Identify symbols preceded by an odd number (1,3,5,7,9) and not followed by an even number (0,2,4,6,8). </p><p>Symbols preceded by odd numbers: </p><p>After 7: % (preceded by 7, next symbol 8 even) → Not counted </p><p>After 1: 3 (number, skip) </p><p>After 3: × (preceded by 3 odd, next symbol 9 odd) → Count 1 </p><p>After 9: $ (preceded by 9 odd, next symbol &amp; symbol) → Count 2 </p><p>After 5: No symbol after 5 (end of series) so no symbol after this </p><p>Check symbols immediately preceded by odd number and not immediately followed by even number: × and $. </p><p>Total such symbols = 2. </p><p>Final answer: Option 4 </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q14",
+      "number": 14,
+      "question": "A question is followed by two statements numbered (I) and (II). You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements and decide the appropriate answer. Q. Four people – Mehul, Nitin, Prakash, and Sandeep-are sitting in a straight line facing north. (I) Nitin is sitting immediately to the right of Mehul. (II) Prakash is sitting immediately to the left of Sandeep.",
+      "questionHtml": "<p>A question is followed by two statements numbered (I) and (II). You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements and decide the appropriate answer. <br/>Q. Four people – Mehul, Nitin, Prakash, and Sandeep-are sitting in a straight line facing north.</p><p>(I) Nitin is sitting immediately to the right of Mehul.</p><p>(II) Prakash is sitting immediately to the left of Sandeep. </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Data in both statements I and II together (and not statement I alone or statement II alone) are sufficient to answer the question",
+          "html": "<p>Data in both statements I and II together (and not statement I alone or statement II alone) are sufficient to answer the question </p>"
+        },
+        {
+          "id": "B",
+          "text": "Data in Statement II alone is sufficient to answer the question while data in Statement I is not",
+          "html": "<p>Data in Statement II alone is sufficient to answer the question while data in Statement I is not </p>"
+        },
+        {
+          "id": "C",
+          "text": "Data in both statements I and II together are NOT sufficient to answer the question",
+          "html": "<p>Data in both statements I and II together are NOT sufficient to answer the question </p>"
+        },
+        {
+          "id": "D",
+          "text": "Data in Statement I alone is sufficient to answer the question while data in Statement II is not",
+          "html": "<p>Data in Statement I alone is sufficient to answer the question while data in Statement II is not </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Explanation: </p><p>Statement I tells us that Nitin is immediately to the right of Mehul , but this alone does not indicate who is at the extreme left , so it is insufficient . </p><p>Statement II tells us that Prakash is immediately to the left of Sandeep , but this alone also does not reveal the extreme left person , so it is insufficient. </p><p>Combining both statements, we have information about adjacent pairs (Mehul–Nitin and Prakash–Sandeep), but we cannot determine the full order of all four people . Therefore, even together, the extreme left person cannot be identified . </p><p>Answer: Data in both statements I and II together are NOT sufficient to answer the question. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q15",
+      "number": 15,
+      "question": "Each of Akarsh, Bindu, Chetu, Divyansh, Ekam, Fatima and Gudiya has an exam on a different day of a week starting from Monday and ending on Sunday of the same week. Only one person has exam after Ekam. Only two persons have exam before Akarsh. Bindu has exam immediately before Divyansh and only one person has exam between Divyansh and Gudiya. Gudiya has exam on Sunday. Chetu's exam is not on the first day of the week. On which day does Chetu have the exam?",
+      "questionHtml": "<p>Each of Akarsh, Bindu, Chetu, Divyansh, Ekam, Fatima and Gudiya has an exam on a different day of a week starting from Monday and ending on Sunday of the same week. Only one person has exam after Ekam. Only two persons have exam before Akarsh. Bindu has exam immediately before Divyansh and only one person has exam between Divyansh and Gudiya. Gudiya has exam on Sunday. Chetu's exam is not on the first day of the week. On which day does Chetu have the exam? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tuesday",
+          "html": "<p>Tuesday </p>"
+        },
+        {
+          "id": "B",
+          "text": "Friday",
+          "html": "<p>Friday </p>"
+        },
+        {
+          "id": "C",
+          "text": "Monday",
+          "html": "<p>Monday </p>"
+        },
+        {
+          "id": "D",
+          "text": "Wednesday",
+          "html": "<p>Wednesday </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Monday </p><p>Fatima </p><p>Tuesday </p><p>Chetu </p><p>Wednesday </p><p>Akarsh </p><p>Thursday </p><p>Bindu </p><p>Friday </p><p>Divyansh </p><p>Saturday </p><p>Ekam </p><p>Sunday </p><p>Gudiya </p><p>Chetu has exam on Tuesday. </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q16",
+      "number": 16,
+      "question": "Select the set in which the numbers are related in the same way as are the numbers of the given sets. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) (153, 228, 303) (129, 204, 279)",
+      "questionHtml": "<p>Select the set in which the numbers are related in the same way as are the numbers of the given sets. <br/>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) <br/>(153, 228, 303) <br/>(129, 204, 279) </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(191, 266, 381)",
+          "html": "<p>(191, 266, 381) </p>"
+        },
+        {
+          "id": "B",
+          "text": "(172, 237, 322)",
+          "html": "<p>(172, 237, 322) </p>"
+        },
+        {
+          "id": "C",
+          "text": "(113, 188, 263)",
+          "html": "<p>(113, 188, 263) </p>"
+        },
+        {
+          "id": "D",
+          "text": "(168, 247, 342)",
+          "html": "<p>(168, 247, 342) </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Pattern: Each number increases by 75. </p><p>Check options: <br/>(191, 266, 381) → 266 − 191 = 75, 381 − 266 ≠ 75 ❌ <br/>(172, 237, 322) → 237 − 172 ≠ 75 ❌ <br/>(113, 188, 263) → 188 − 113 = 75, 263 − 188 = 75 ✅ <br/>(168, 247, 342) → 247 − 168 ≠ 75 ❌ </p><p>Answer: (113, 188, 263) </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q17",
+      "number": 17,
+      "question": "In a certain code language, ‘A + B’ means ‘A is the mother of B’, ‘A − B’ means ‘A is the brother of B’, ‘A × B’ means ‘A is the wife of B’ and ‘A ÷ B’ means ‘A is the father of B’. How is M related to K if ‘J × K − L ÷ M + N’?",
+      "questionHtml": "<p>In a certain code language, <br/>‘A + B’ means ‘A is the mother of B’, <br/>‘A − B’ means ‘A is the brother of B’, <br/>‘A × B’ means ‘A is the wife of B’ and <br/>‘A ÷ B’ means ‘A is the father of B’. <br/>How is M related to K if ‘J × K − L ÷ M + N’? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wife’s father",
+          "html": "<p>Wife’s father </p>"
+        },
+        {
+          "id": "B",
+          "text": "Mother’s husband",
+          "html": "<p>Mother’s husband </p>"
+        },
+        {
+          "id": "C",
+          "text": "Father’s brother",
+          "html": "<p>Father’s brother </p>"
+        },
+        {
+          "id": "D",
+          "text": "Brother’s daughter",
+          "html": "<p>Brother’s daughter </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1774611646509_image007.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q18",
+      "number": 18,
+      "question": "A, G, H, P, S and Y live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it is numbered 2 and so on till the topmost floor is numbered 6. Only three people live between Y and H, where Y lives below H. G lives on an odd-numbered floor and immediately above Y. S lives on one of the floors below A and on one of the floors above P. Who lives on floor numbered 5?",
+      "questionHtml": "<p>A, G, H, P, S and Y live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it is numbered 2 and so on till the topmost floor is numbered 6. Only three people live between Y and H, where Y lives below H. G lives on an odd-numbered floor and immediately above Y. S lives on one of the floors below A and on one of the floors above P. Who lives on floor numbered 5? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "G",
+          "html": "<p>G </p>"
+        },
+        {
+          "id": "B",
+          "text": "Y",
+          "html": "<p>Y </p>"
+        },
+        {
+          "id": "C",
+          "text": "P",
+          "html": "<p>P </p>"
+        },
+        {
+          "id": "D",
+          "text": "A",
+          "html": "<p>A </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>A lives on floor numbered 5.</p><p>Floor Number </p><p>Person </p><p>6 </p><p>H </p><p>5 </p><p>A </p><p>4 </p><p>S </p><p>3 </p><p>G </p><p>2 </p><p>Y </p><p>1 </p><p>P </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q19",
+      "number": 19,
+      "question": "Select the set in which the numbers are related in the same way as are the numbers of the following sets. ( NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding / subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed) (24,8,384) (18,6,216)",
+      "questionHtml": "<p>Select the set in which the numbers are related in the same way as are the numbers of the following sets. <br/>( NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding / subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed) <br/>(24,8,384) <br/>(18,6,216) </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(24,3,240)",
+          "html": "<p>(24,3,240) </p>"
+        },
+        {
+          "id": "B",
+          "text": "(17,6,204)",
+          "html": "<p>(17,6,204) </p>"
+        },
+        {
+          "id": "C",
+          "text": "(15,9,240)",
+          "html": "<p>(15,9,240) </p>"
+        },
+        {
+          "id": "D",
+          "text": "(13,10,130)",
+          "html": "<p>(13,10,130) </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Pattern: (Number 1 × Number 2) × 2 = Number 3 </p><p>Check options: <br/>(24, 3, 240) → 24 × 3 × 2 = 144 ❌ <br/>(17, 6, 204) → 17 × 6 × 2 = 204 ✅ <br/>(15, 9, 240) → 15 × 9 × 2 = 270 ❌ <br/>(13, 10, 130) → 13 × 10 × 2 = 260 ❌ </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "39c9e8ceda92-q20",
+      "number": 20,
+      "question": "Each of G, J, M, O, R, S and T has an exam on a different day of a week, starting from Monday and ending on Sunday of the same week. S has an exam on Friday. Only two people have exams between G and S. Only four people have exams between M and G. J has an exam immediately after T. R does not have an exam on Monday. How many people have exams between R and O?",
+      "questionHtml": "<p>Each of G, J, M, O, R, S and T has an exam on a different day of a week, starting from Monday and ending on Sunday of the same week. S has an exam on Friday. Only two people have exams between G and S. Only four people have exams between M and G. J has an exam immediately after T. R does not have an exam on Monday. How many people have exams between R and O? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Three",
+          "html": "<p>Three </p>"
+        },
+        {
+          "id": "B",
+          "text": "Two",
+          "html": "<p>Two </p>"
+        },
+        {
+          "id": "C",
+          "text": "Four",
+          "html": "<p>Four </p>"
+        },
+        {
+          "id": "D",
+          "text": "One",
+          "html": "<p>One </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Day</p><p>Person</p><p>Monday</p><p>O</p><p>Tuesday</p><p>G</p><p>Wednesday</p><p>T</p><p>Thursday</p><p>J</p><p>Friday</p><p>S</p><p>Saturday</p><p>R</p><p>Sunday</p><p>M</p><p>People between R and O </p><p>R = Saturday, O = Monday </p><p>Counting between O and R : </p><p>Tuesday (G), Wednesday (T), Thursday (J), Friday (S) → 4 people </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

@@ -1,0 +1,865 @@
+{
+  "id": "d9a1f384cf92",
+  "provider": "RBE_Mocks",
+  "sourceFile": "CGL_2025_Memory_Based_Maths_Test-1.html",
+  "sourcePath": "RBE_MOCKS/CGL_2025_Memory_Based_Maths_Test-1.html",
+  "title": "CGL 2025 Memory Based Maths Test-1",
+  "exam": null,
+  "year": 2025,
+  "tier": null,
+  "shift": null,
+  "duration": 6,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "d9a1f384cf92-q1",
+      "number": 1,
+      "question": "If B is 25% more than A, and C is 20% more than B, then what is A : C?",
+      "questionHtml": "<p>If B is 25% more than A, and C is 20% more than B, then what is A : C?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 : 2",
+          "html": "<p>3 : 2</p>"
+        },
+        {
+          "id": "B",
+          "text": "2 : 3",
+          "html": "<p>2 : 3</p>"
+        },
+        {
+          "id": "C",
+          "text": "5 : 4",
+          "html": "<p>5 : 4</p>"
+        },
+        {
+          "id": "D",
+          "text": "4 : 5",
+          "html": "<p>4 : 5</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let A = 100.</p><p>B = 100 + 25% of 100 = 125.</p><p>C = 125 + 20% of 125 = 125 + 25 = 150.</p><p>A : C = 100 : 150 = 2 : 3.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q2",
+      "number": 2,
+      "question": "A machine fills 0.375 liters of water every second. How much does it fill in 8 seconds?",
+      "questionHtml": "<p>A machine fills 0.375 liters of water every second. How much does it fill in 8 seconds?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.0 L",
+          "html": "<p>3.0 L</p>"
+        },
+        {
+          "id": "B",
+          "text": "2.75 L",
+          "html": "<p>2.75 L</p>"
+        },
+        {
+          "id": "C",
+          "text": "3.25 L",
+          "html": "<p>3.25 L</p>"
+        },
+        {
+          "id": "D",
+          "text": "3.5 L",
+          "html": "<p>3.5 L</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Volume filled = rate × time = 0.375 × 8 = 3.0 L.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q3",
+      "number": 3,
+      "question": "A rod is divided in the ratio 2/5 : 3/10 : 1/2. Total length = 6 m. Find the smallest piece.",
+      "questionHtml": "<p>A rod is divided in the ratio 2/5 : 3/10 : 1/2. Total length = 6 m. Find the smallest piece.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.5 m",
+          "html": "<p>1.5 m</p>"
+        },
+        {
+          "id": "B",
+          "text": "2.5 m",
+          "html": "<p>2.5 m</p>"
+        },
+        {
+          "id": "C",
+          "text": "3.5 m",
+          "html": "<p>3.5 m</p>"
+        },
+        {
+          "id": "D",
+          "text": "4.5 m",
+          "html": "<p>4.5 m</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Take LCM of 5, 10, 2 = 10.</p><p>Ratio = 2/5 : 3/10 : 1/2 = 4/10 : 3/10 : 5/10 = 4 : 3 : 5.</p><p>Sum of parts = 12.</p><p>1 part = 6/12 = 0.5 m.</p><p>Smallest piece = 3 parts × 0.5 = 1.5 m.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q4",
+      "number": 4,
+      "question": "A vendor mixes two types of coffee beans – one costing ₹120 per kg and the other costing ₹180 per kg, in the ratio 1 : 2. If he sells the mixed variety at ₹152 per kg, find his gain or loss percent.",
+      "questionHtml": "<p>A vendor mixes two types of coffee beans – one costing ₹120 per kg and the other costing ₹180 per kg, in the ratio 1 : 2. If he sells the mixed variety at ₹152 per kg, find his gain or loss percent.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5% Gain",
+          "html": "<p>5% Gain</p>"
+        },
+        {
+          "id": "B",
+          "text": "8% Loss",
+          "html": "<p>8% Loss</p>"
+        },
+        {
+          "id": "C",
+          "text": "5% Loss",
+          "html": "<p>5% Loss</p>"
+        },
+        {
+          "id": "D",
+          "text": "8% Gain",
+          "html": "<p>8% Gain</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Cost price of mixture per kg = (1 × 120 + 2 × 180) / (1 + 2)</p><p>= (120 + 360) / 3 = 480 / 3 = ₹160.</p><p>Selling price per kg = ₹152.</p><p>Loss per kg = 160 − 152 = ₹8.</p><p>Loss % = (8 / 160) × 100 = 5% Loss.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q5",
+      "number": 5,
+      "question": "A, B, and C invested ₹40,000, ₹60,000, and ₹1,00,000 respectively in a business. If the total profit at the end of the year is ₹40,000, what is A's share of the profit?",
+      "questionHtml": "<p>A, B, and C invested ₹40,000, ₹60,000, and ₹1,00,000 respectively in a business. If the total profit at the end of the year is ₹40,000, what is A's share of the profit?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹12,200",
+          "html": "<p>₹12,200</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹8,000",
+          "html": "<p>₹8,000</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹12,000",
+          "html": "<p>₹12,000</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹9,000",
+          "html": "<p>₹9,000</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Investment ratio A : B : C = 40000 : 60000 : 100000 = 2 : 3 : 5.</p><p>Sum of parts = 10.</p><p>A's share = (2/10) × 40000 = ₹8,000.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q6",
+      "number": 6,
+      "question": "A and B share a rented field. A utilizes 20 horses for 5 months, while B uses 30 cows for 4 months and 45 sheep for 5 months. If 2 horses are equivalent to 5 cows, and 3 cows are equal to 9 sheep, what portion of the rent is A to pay?",
+      "questionHtml": "<p>A and B share a rented field. A utilizes 20 horses for 5 months, while B uses 30 cows for 4 months and 45 sheep for 5 months. If 2 horses are equivalent to 5 cows, and 3 cows are equal to 9 sheep, what portion of the rent is A to pay?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20/89",
+          "html": "<p>20/89</p>"
+        },
+        {
+          "id": "B",
+          "text": "30/89",
+          "html": "<p>30/89</p>"
+        },
+        {
+          "id": "C",
+          "text": "40/89",
+          "html": "<p>40/89</p>"
+        },
+        {
+          "id": "D",
+          "text": "50/89",
+          "html": "<p>50/89</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Convert everything to sheep-units:</p><p>3 cows = 9 sheep → 1 cow = 3 sheep.</p><p>2 horses = 5 cows = 15 sheep → 1 horse = 7.5 sheep.</p><p>A's contribution = (20 horses × 5 months) in sheep-months</p><p>= 20 × 7.5 × 5 = 750.</p><p>B's contribution = (30 cows × 4) + (45 sheep × 5)</p><p>= 30 × 3 × 4 + 45 × 5</p><p>= 360 + 225 = 585.</p><p>A : B = 750 : 585 = 50 : 39.</p><p>A's share = 50/(50 + 39) = 50/89.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q7",
+      "number": 7,
+      "question": "A and B start a business. A invests 2 times more than B. After 8 months, A withdraws half of his capital, and B triples his capital. If the total profit after one year is ₹75,000, find the share of A.",
+      "questionHtml": "<p>A and B start a business. A invests 2 times more than B. After 8 months, A withdraws half of his capital, and B triples his capital. If the total profit after one year is ₹75,000, find the share of A.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹40,000",
+          "html": "<p>₹40,000</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹50,000",
+          "html": "<p>₹50,000</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹60,000",
+          "html": "<p>₹60,000</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹45,000",
+          "html": "<p>₹45,000</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Let B's investment = x. Then A invests '2 times more than B' = 3x.</p><p>A's effective capital = 3x × 8 + (3x/2) × 4</p><p>= 24x + 6x = 30x.</p><p>B's effective capital = x × 8 + 3x × 4</p><p>= 8x + 12x = 20x.</p><p>Ratio A : B = 30 : 20 = 3 : 2.</p><p>A's share = (3/5) × 75000 = ₹45,000.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q8",
+      "number": 8,
+      "question": "The average salary of 24 employees is ₹40,000. The average salary of 8 senior staff is ₹60,000. What is the average salary for the other employees?",
+      "questionHtml": "<p>The average salary of 24 employees is ₹40,000. The average salary of 8 senior staff is ₹60,000. What is the average salary for the other employees?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹30,000",
+          "html": "<p>₹30,000</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹40,000",
+          "html": "<p>₹40,000</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹50,000",
+          "html": "<p>₹50,000</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹60,000",
+          "html": "<p>₹60,000</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Total salary of 24 employees = 24 × 40000 = ₹9,60,000.</p><p>Total salary of 8 senior staff = 8 × 60000 = ₹4,80,000.</p><p>Total salary of other 16 employees = 960000 − 480000 = ₹4,80,000.</p><p>Average of others = 480000 / 16 = ₹30,000.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q9",
+      "number": 9,
+      "question": "A cricketer's average in 10 innings is 58. If his highest score is excluded, the average drops to 54. What is his highest score?",
+      "questionHtml": "<p>A cricketer's average in 10 innings is 58. If his highest score is excluded, the average drops to 54. What is his highest score?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "93",
+          "html": "<p>93</p>"
+        },
+        {
+          "id": "B",
+          "text": "92",
+          "html": "<p>92</p>"
+        },
+        {
+          "id": "C",
+          "text": "94",
+          "html": "<p>94</p>"
+        },
+        {
+          "id": "D",
+          "text": "95",
+          "html": "<p>95</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Total runs in 10 innings = 10 × 58 = 580.</p><p>Total runs in 9 innings (excluding highest) = 9 × 54 = 486.</p><p>Highest score = 580 − 486 = 94.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q10",
+      "number": 10,
+      "question": "Table – Scores in a Quiz Contest (out of 50) Team Round 1 Round 2 Round 3 A 42 38 40 B 45 46 44 Which team had a higher average score?",
+      "questionHtml": "<p>Table – Scores in a Quiz Contest (out of 50)</p><p>Team</p><p>Round 1</p><p>Round 2</p><p>Round 3</p><p>A</p><p>42</p><p>38</p><p>40</p><p>B</p><p>45</p><p>46</p><p>44</p><p>Which team had a higher average score?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Team A",
+          "html": "<p>Team A</p>"
+        },
+        {
+          "id": "B",
+          "text": "Team B",
+          "html": "<p>Team B</p>"
+        },
+        {
+          "id": "C",
+          "text": "Team A and Team B are equal",
+          "html": "<p>Team A and Team B are equal</p>"
+        },
+        {
+          "id": "D",
+          "text": "It cannot be determined",
+          "html": "<p>It cannot be determined</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Average of Team A = (42 + 38 + 40)/3 = 120/3 = 40.</p><p>Average of Team B = (45 + 46 + 44)/3 = 135/3 = 45.</p><p>Team B has the higher average.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q11",
+      "number": 11,
+      "question": "A tank contains 3,500 milliliters of water. If its full capacity is 0.005 kiloliters, what percentage of the tank is empty?",
+      "questionHtml": "<p>A tank contains 3,500 milliliters of water. If its full capacity is 0.005 kiloliters, what percentage of the tank is empty?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "25%",
+          "html": "<p>25%</p>"
+        },
+        {
+          "id": "B",
+          "text": "30%",
+          "html": "<p>30%</p>"
+        },
+        {
+          "id": "C",
+          "text": "35%",
+          "html": "<p>35%</p>"
+        },
+        {
+          "id": "D",
+          "text": "40%",
+          "html": "<p>40%</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780397421708_image001.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q12",
+      "number": 12,
+      "question": "A stationery supplier ordered 8 boxes of premium pens and some boxes of standard pens. The price of premium pens per box was twice that of standard pens. When the order was delivered, the number of boxes of premium and standard pens had been accidentally interchanged. This increased the total bill by 25%. What was the ratio of the original number of boxes of premium pens to the original number of boxes of standard pens?",
+      "questionHtml": "<p>A stationery supplier ordered 8 boxes of premium pens and some boxes of standard pens. The price of premium pens per box was twice that of standard pens. When the order was delivered, the number of boxes of premium and standard pens had been accidentally interchanged. This increased the total bill by 25%. What was the ratio of the original number of boxes of premium pens to the original number of boxes of standard pens?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 : 1",
+          "html": "<p>2 : 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "1 : 3",
+          "html": "<p>1 : 3</p>"
+        },
+        {
+          "id": "C",
+          "text": "1 : 2",
+          "html": "<p>1 : 2</p>"
+        },
+        {
+          "id": "D",
+          "text": "3 : 1",
+          "html": "<p>3 : 1</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let cost of one standard-pen box = ₹1, premium-pen box = ₹2.</p><p>Let number of standard boxes = s. Premium boxes = 8.</p><p>Original bill = 8 × 2 + s × 1 = 16 + s.</p><p>After interchange (8 standard, s premium):</p><p>New bill = 8 × 1 + s × 2 = 8 + 2s.</p><p>New bill = 1.25 × original bill</p><p>8 + 2s = 1.25 (16 + s)</p><p>8 + 2s = 20 + 1.25 s</p><p>0.75 s = 12 → s = 16.</p><p>Premium : Standard = 8 : 16 = 1 : 2.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q13",
+      "number": 13,
+      "question": "A principal of ₹1,00,000 is invested at 10% per annum compound interest, compounded annually. After how many years will the amount grow to ₹1,33,100?",
+      "questionHtml": "<p>A principal of ₹1,00,000 is invested at 10% per annum compound interest, compounded annually. After how many years will the amount grow to ₹1,33,100?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "<p>3</p>"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "<p>4</p>"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "<p>5</p>"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "<p>6</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780397421708_image002.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q14",
+      "number": 14,
+      "question": "A shopkeeper made a loss of ₹125 on an article. If the loss percentage was 5%, what was the cost price of the article (in ₹)?",
+      "questionHtml": "<p>A shopkeeper made a loss of ₹125 on an article. If the loss percentage was 5%, what was the cost price of the article (in ₹)?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹2100",
+          "html": "<p>₹2100</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹2000",
+          "html": "<p>₹2000</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹2500",
+          "html": "<p>₹2500</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹1500",
+          "html": "<p>₹1500</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Loss % = (Loss / CP) × 100</p><p>5 = (125 / CP) × 100</p><p>CP = (125 × 100) / 5 = ₹2500.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q15",
+      "number": 15,
+      "question": "A bookseller sells a novel for ₹Y and makes a loss of 10%. To clear old stock, he decides to mark the novel at ₹0.8Y. He then allows a further discount of 5% on this marked price. What will be the percentage loss that he will incur on this clearance sale?",
+      "questionHtml": "<p>A bookseller sells a novel for ₹Y and makes a loss of 10%. To clear old stock, he decides to mark the novel at ₹0.8Y. He then allows a further discount of 5% on this marked price. What will be the percentage loss that he will incur on this clearance sale?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.5%",
+          "html": "<p>2.5%</p>"
+        },
+        {
+          "id": "B",
+          "text": "57.5%",
+          "html": "<p>57.5%</p>"
+        },
+        {
+          "id": "C",
+          "text": "66.67%",
+          "html": "<p>66.67%</p>"
+        },
+        {
+          "id": "D",
+          "text": "31.59%",
+          "html": "<p>31.59%</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780397421708_image005.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q16",
+      "number": 16,
+      "question": "An article is marked at ₹800. A shop owner allows a discount of 12% and still gains 8%. What is the approximate cost price of the article?",
+      "questionHtml": "<p>An article is marked at ₹800. A shop owner allows a discount of 12% and still gains 8%. What is the approximate cost price of the article?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹640",
+          "html": "<p>₹640</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹652",
+          "html": "<p>₹652</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹660",
+          "html": "<p>₹660</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹680",
+          "html": "<p>₹680</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1780397421708_image008.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q17",
+      "number": 17,
+      "question": "A furniture manufacturer sells a dining table set to a showroom at a 25% discount on the marked price, but adds a 10% handling fee on the discounted price. The showroom then sells the set for ₹4500 more than what they paid, thereby earning a profit of 30%. At what price had the manufacturer marked the dining table set?",
+      "questionHtml": "<p>A furniture manufacturer sells a dining table set to a showroom at a 25% discount on the marked price, but adds a 10% handling fee on the discounted price. The showroom then sells the set for ₹4500 more than what they paid, thereby earning a profit of 30%. At what price had the manufacturer marked the dining table set?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹19,254.62",
+          "html": "<p>₹19,254.62</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹18,181.82",
+          "html": "<p>₹18,181.82</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹20,654.67",
+          "html": "<p>₹20,654.67</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹22,546.68",
+          "html": "<p>₹22,546.68</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let marked price = M.</p><p>Discounted price = 0.75 M.</p><p>Showroom's purchase price = 0.75 M × 1.10 = 0.825 M.</p><p>Showroom sells at 30% profit on its cost.</p><p>Showroom's SP − showroom's CP = ₹4500</p><p>0.825 M × 0.30 = 4500</p><p>0.2475 M = 4500</p><p>M = 4500 / 0.2475 ≈ ₹18,181.82.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q18",
+      "number": 18,
+      "question": "Two types of sugar, one costing ₹45/kg and another costing ₹60/kg, are mixed with a third variety in the ratio 1 : 2 : 3. If the mixture is worth ₹55/kg, what is the price of the third variety of sugar per kg?",
+      "questionHtml": "<p>Two types of sugar, one costing ₹45/kg and another costing ₹60/kg, are mixed with a third variety in the ratio 1 : 2 : 3. If the mixture is worth ₹55/kg, what is the price of the third variety of sugar per kg?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹55.00",
+          "html": "<p>₹55.00</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹57.50",
+          "html": "<p>₹57.50</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹60.00",
+          "html": "<p>₹60.00</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹62.50",
+          "html": "<p>₹62.50</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let price of 3rd variety = ₹x/kg.</p><p>Total cost = (1 × 45) + (2 × 60) + (3 × x) = 45 + 120 + 3x = 165 + 3x.</p><p>Total weight = 6 kg.</p><p>Average price = (165 + 3x) / 6 = 55.</p><p>165 + 3x = 330 → 3x = 165 → x = ₹55.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q19",
+      "number": 19,
+      "question": "A person invested ₹18,000 in two schemes — Scheme X at 15% p.a. and Scheme Y at 10% p.a., both under simple interest. After 1 year, the total interest from both schemes was ₹2,160. How much was invested in Scheme X?",
+      "questionHtml": "<p>A person invested ₹18,000 in two schemes — Scheme X at 15% p.a. and Scheme Y at 10% p.a., both under simple interest. After 1 year, the total interest from both schemes was ₹2,160. How much was invested in Scheme X?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹6,000",
+          "html": "<p>₹6,000</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹7,000",
+          "html": "<p>₹7,000</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹7,200",
+          "html": "<p>₹7,200</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹6,200",
+          "html": "<p>₹6,200</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let amount in Scheme X = ₹a. Then amount in Scheme Y = ₹(18000 − a).</p><p>Interest = (a × 15)/100 + ((18000 − a) × 10)/100</p><p>= 0.15 a + 1800 − 0.10 a</p><p>= 0.05 a + 1800.</p><p>0.05 a + 1800 = 2160</p><p>0.05 a = 360 → a = ₹7,200.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q20",
+      "number": 20,
+      "question": "A cone and a hemisphere have the same volume and base radius. Find the ratio of the height of the cone to its radius.",
+      "questionHtml": "<p>A cone and a hemisphere have the same volume and base radius. Find the ratio of the height of the cone to its radius.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 : 1",
+          "html": "<p>2 : 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "3 : 1",
+          "html": "<p>3 : 1</p>"
+        },
+        {
+          "id": "C",
+          "text": "5 : 1",
+          "html": "<p>5 : 1</p>"
+        },
+        {
+          "id": "D",
+          "text": "6 : 1",
+          "html": "<p>6 : 1</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Volume of cone = (1/3)πr²h.</p><p>Volume of hemisphere = (2/3)πr³.</p><p>Given they are equal:</p><p>(1/3)πr²h = (2/3)πr³</p><p>h = 2r → h : r = 2 : 1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q21",
+      "number": 21,
+      "question": "Two circular ponds have circumferences in the ratio 3 : 5. If the smaller pond has an area of 150 m², what is the approximate area of the larger pond?",
+      "questionHtml": "<p>Two circular ponds have circumferences in the ratio 3 : 5. If the smaller pond has an area of 150 m², what is the approximate area of the larger pond?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "417 m²",
+          "html": "<p>417 m²</p>"
+        },
+        {
+          "id": "B",
+          "text": "528 m²",
+          "html": "<p>528 m²</p>"
+        },
+        {
+          "id": "C",
+          "text": "450 m²",
+          "html": "<p>450 m²</p>"
+        },
+        {
+          "id": "D",
+          "text": "438 m²",
+          "html": "<p>438 m²</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Ratio of circumferences = ratio of radii = 3 : 5.</p><p>Ratio of areas = (3)² : (5)² = 9 : 25.</p><p>Area of larger pond / Area of smaller pond = 25/9.</p><p>Area of larger pond = (25/9) × 150 = 3750/9 ≈ 416.67 ≈ 417 m².</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q22",
+      "number": 22,
+      "question": "If the base of a prism is a regular hexagon of side 6 cm and the height is 10 cm, what is its volume?",
+      "questionHtml": "<p>If the base of a prism is a regular hexagon of side 6 cm and the height is 10 cm, what is its volume?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "550√2 cm³",
+          "html": "<p>550√2 cm³</p>"
+        },
+        {
+          "id": "B",
+          "text": "500√6 cm³",
+          "html": "<p>500√6 cm³</p>"
+        },
+        {
+          "id": "C",
+          "text": "480√3 cm³",
+          "html": "<p>480√3 cm³</p>"
+        },
+        {
+          "id": "D",
+          "text": "540√3 cm³",
+          "html": "<p>540√3 cm³</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Area of regular hexagon with side a = (3√3/2) a².</p><p>= (3√3/2) × 6² = (3√3/2) × 36 = 54√3 cm².</p><p>Volume of prism = Base area × Height</p><p>= 54√3 × 10 = 540√3 cm³.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q23",
+      "number": 23,
+      "question": "Three concentric circles are designed as part of a target practice board. Their diameters form an arithmetic progression. If the smallest circle has a circumference of 6π cm and the largest circle has a circumference of 14π cm, what is the circumference of the middle circle?",
+      "questionHtml": "<p>Three concentric circles are designed as part of a target practice board. Their diameters form an arithmetic progression. If the smallest circle has a circumference of 6π cm and the largest circle has a circumference of 14π cm, what is the circumference of the middle circle?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "8π cm",
+          "html": "<p>8π cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "10π cm",
+          "html": "<p>10π cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "12π cm",
+          "html": "<p>12π cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "11π cm",
+          "html": "<p>11π cm</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Smallest diameter = 6π / π = 6 cm.</p><p>Largest diameter = 14π / π = 14 cm.</p><p>Diameters in AP → middle diameter = (6 + 14)/2 = 10 cm.</p><p>Middle circumference = π × 10 = 10π cm.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q24",
+      "number": 24,
+      "question": "A solid cylinder of radius 5 cm is drilled by four cylindrical holes each of radius 1 cm and length equal to the full height. Volume removed is approximately what percent?",
+      "questionHtml": "<p>A solid cylinder of radius 5 cm is drilled by four cylindrical holes each of radius 1 cm and length equal to the full height. Volume removed is approximately what percent?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "16%",
+          "html": "<p>16%</p>"
+        },
+        {
+          "id": "B",
+          "text": "20%",
+          "html": "<p>20%</p>"
+        },
+        {
+          "id": "C",
+          "text": "32%",
+          "html": "<p>32%</p>"
+        },
+        {
+          "id": "D",
+          "text": "48%",
+          "html": "<p>48%</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let height of cylinder = h.</p><p>Volume of original cylinder = π × 5² × h = 25πh.</p><p>Volume of 4 small holes = 4 × π × 1² × h = 4πh.</p><p>Percent removed = (4πh / 25πh) × 100 = (4/25) × 100 = 16%.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "d9a1f384cf92-q25",
+      "number": 25,
+      "question": "A sector has a central angle of 135° and a radius of 8 cm. Another sector of the same circle has a central angle of 3π/4 radians. What is the ratio of the area of the first sector to the area of the second sector?",
+      "questionHtml": "<p>A sector has a central angle of 135° and a radius of 8 cm. Another sector of the same circle has a central angle of 3π/4 radians. What is the ratio of the area of the first sector to the area of the second sector?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 1",
+          "html": "<p>1 : 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "3 : 4",
+          "html": "<p>3 : 4</p>"
+        },
+        {
+          "id": "C",
+          "text": "2 : 3",
+          "html": "<p>2 : 3</p>"
+        },
+        {
+          "id": "D",
+          "text": "5 : 6",
+          "html": "<p>5 : 6</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Convert second sector's angle to degrees:</p><p>3π/4 radians × (180/π) = 135°.</p><p>Both sectors are of the same circle (same radius) and have the same central angle (135°).</p><p>Hence their areas are equal.</p><p>Ratio = 1 : 1.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

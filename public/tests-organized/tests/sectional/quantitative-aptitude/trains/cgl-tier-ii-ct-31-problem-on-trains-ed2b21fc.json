@@ -1,0 +1,364 @@
+{
+  "id": "ed2b21fc2e38",
+  "provider": "Testbook",
+  "sourceFile": "CGL Tier II CT 31_ Problem on Trains.html",
+  "sourcePath": "Testbook/files/CGL Tier II CT 31_ Problem on Trains.html",
+  "title": "CGL Tier II CT 31: Problem on Trains",
+  "exam": null,
+  "year": null,
+  "tier": "Tier I",
+  "shift": null,
+  "duration": 18,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "ed2b21fc2e38-q1",
+      "number": 1,
+      "question": "Two trains 120 metres and 150 metres long, respectively, are running in the same direction with speeds of 70 km/h and 52 km/h, respectively. In how much time will the first train cross the second? (in seconds)",
+      "questionHtml": "Two trains 120 metres and 150 metres long, respectively, are running in the same direction with speeds of 70 km/h and 52 km/h, respectively. In how much time will the first train cross the second? (in seconds)&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "52",
+          "html": "52"
+        },
+        {
+          "id": "B",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "C",
+          "text": "48",
+          "html": "48"
+        },
+        {
+          "id": "D",
+          "text": "54",
+          "html": "54"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Length of the first train = 120 metres.</p>\n\n<p>Length of the second train = 150 metres.</p>\n\n<p>Speed of the first train = 70 km/h.</p>\n\n<p>Speed of the second train = 52 km/h.</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>Relative speed = Speed of the first train - Speed of the second train (when both are moving in the same direction).</p>\n\n<p>Time = Distance / Speed</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>First, convert speeds from km/h to m/s by multiplying with 5/18.</p>\n\n<p>Speed of the first train = 70 &times; 5/18 m/s</p>\n\n<p>Speed of the second train = 52 &times; 5/18 m/s</p>\n\n<p>Relative speed = (70 &times; 5/18) - (52 &times; 5/18) m/s</p>\n\n<p>&rArr; Relative speed = (70 - 52) &times; 5/18 m/s</p>\n\n<p>&rArr; Relative speed = 18 &times; 5/18 m/s</p>\n\n<p>&rArr; Relative speed = 5 m/s</p>\n\n<p>Total distance to be covered for the first train to cross the second = Length of the first train + Length of the second train = 120 + 150 = 270 metres.</p>\n\n<p>Time = Distance / Speed = 270 / 5</p>\n\n<p>&rArr; Time = 54 seconds</p>\n\n<p><strong>The time taken for the first train to cross the second is 54 seconds.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ed2b21fc2e38-q2",
+      "number": 2,
+      "question": "Two trains start from station A and B towards each other at the speed of 120 km/h and 100 km/h respectively. When these two meet, the first train has covered 240 km more than the second train. Then, what will be the distance between stations A and B?",
+      "questionHtml": "Two trains start from station A and B towards each other at the speed of 120 km/h and 100 km/h respectively. When these two meet, the first train has covered 240 km more than the second train. Then, what will be the distance between stations A and B?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2400 km",
+          "html": "2400 km"
+        },
+        {
+          "id": "B",
+          "text": "2840 km",
+          "html": "2840 km"
+        },
+        {
+          "id": "C",
+          "text": "2640 km",
+          "html": "2640 km"
+        },
+        {
+          "id": "D",
+          "text": "2760 km",
+          "html": "2760 km"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">Two trains start from stations A and B towards each other at the speed of 120 km/h and 100 km/h respectively.</span></p>\n\n<p><strong><span style=\"\">Formula used:</span></strong></p>\n\n<p><span style=\"\">Speed = Distance/ Time&nbsp;</span></p>\n\n<p><strong><span style=\"\">Calculations:</span></strong></p>\n\n<p>Distance traveled By train B&nbsp;=&nbsp;D<span style=\"line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em; font-size:10.5px;\">B</span>&nbsp;= x km</p>\n\n<p>It is given that train A travelled 240 km more than train B.</p>\n\n<p>So distance traveled By train A = D<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">A&nbsp;</span>= (x + 240)<span style=\" line-height: 0; position: relative; vertical-align: baseline; bottom: -0.25em;font-size:10.5px;\">&nbsp;</span>km</p>\n\n<p>Let the time taken by train A = T<sub>A&nbsp;&nbsp;</sub>and&nbsp;time taken by train B&nbsp;= T<sub>B</sub>&nbsp;</p>\n\n<p>When these train meets Time taken by train A will be equal to the time taken by train B.</p>\n\n<p>&rArr;T<sub>A</sub>&nbsp;= T<sub>B</sub>&nbsp;</p>\n\n<p><span style=\"\">&rArr;</span>D<sub>A</sub>/120 =&nbsp;D<sub>B</sub>/100</p>\n\n<p><span style=\"\">&rArr;(x + 240)/120 = x/100</span></p>\n\n<p><span style=\"\">On solving the above equation, we get x = 1200 km.</span></p>\n\n<p><span style=\"\">&rArr; The total distance between A and B = 2x + 240 </span></p>\n\n<p><span style=\"\">&rArr; (2 &times; 1200 + 240) km = 2640 km</span></p>\n\n<p><strong><span style=\"\">Hence the distance between A and B is 2640 km.&nbsp;</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ed2b21fc2e38-q3",
+      "number": 3,
+      "question": "The ratio of the length of the trains is 6 : 5 and the ratio of them to cross a pole is 4 : 3. Find the ratio of their speed?",
+      "questionHtml": "The ratio of the length of the trains is 6 : 5 and the ratio of them to cross a pole is 4 : 3. Find the ratio of their speed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8 : 5",
+          "html": "8 : 5"
+        },
+        {
+          "id": "B",
+          "text": "9 : 10",
+          "html": "9 : 10"
+        },
+        {
+          "id": "C",
+          "text": "10 : 9",
+          "html": "10 : 9"
+        },
+        {
+          "id": "D",
+          "text": "5 : 8",
+          "html": "5 : 8"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"\"><span style=\"font-weight: 700;\">Formula:</span></p>\n\n<p style=\"\">Speed = Total distance covered &divide; Total time&nbsp;</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\">Let the length of the trains be &quot;6t&quot; and &quot;5t&quot; respectively.</p>\n\n<p style=\"\">Similarly, let the time taken by them to cross the pole be &quot;4s&quot; and &quot;3s&quot; respectively.</p>\n\n<p style=\"\"><span style=\"\">&rArr; Speed of train 1 = 6t&nbsp;&divide; 4s =&nbsp;<span class=\"math-tex\">\\(3t\\over2s\\)</span></span></p>\n\n<p style=\"\">&rArr; Speed of train 2 = 5t&nbsp;&divide; 3s =&nbsp;<span class=\"math-tex\">\\(5t\\over3s\\)</span></p>\n\n<p style=\"\">Ratio of speed =&nbsp;<span class=\"math-tex\">\\({3t\\over2s}\\over{5t\\over3s}\\)</span>&nbsp;=&nbsp;<span class=\"math-tex\">\\(3t\\over2s\\)</span>&nbsp;&times;&nbsp;<span class=\"math-tex\">\\(3s\\over5t\\)</span>&nbsp;= 9 : 10</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">The ratio of their speed is 9 : 10.</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ed2b21fc2e38-q4",
+      "number": 4,
+      "question": "The distance between two station A and B is 1000 km. A train starts from A and moves towards B at an average speed of 60 km/hr. Another train starts from B, 2 hours later than the train from A, and moves towards A at an average speed of 50 km/hr. When will the two trains cross each other after A starts journey?",
+      "questionHtml": "The distance between two station A and B is 1000 km. A train starts from A and moves towards B at an average speed of 60 km/hr. Another train starts from B, 2 hours later than the train from A, and moves towards A at an average speed of 50 km/hr. When will the two trains cross each other after A starts journey?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 hours",
+          "html": "12 hours"
+        },
+        {
+          "id": "B",
+          "text": "10 hours",
+          "html": "10 hours"
+        },
+        {
+          "id": "C",
+          "text": "8.5 hours",
+          "html": "8.5 hours"
+        },
+        {
+          "id": "D",
+          "text": "11.5 hours",
+          "html": "11.5 hours"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Distance covered by train A in the first 2 hours = 60 × 2 = 120 km.</p>\n<p>Remaining distance between the two trains = 1000 − 120 = 880 km.</p>\n<p>Relative speed when moving towards each other = 60 + 50 = 110 km/hr.</p>\n<p>Time taken to cross each other after train B starts = 880 ÷ 110 = 8 hours.</p>\n<p>Total time after train A starts its journey = 2 + 8 = 10 hours.</p>\n<p><strong>∴ The correct answer is 10 hours.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Distance between station A and B = 1000 km.</p>\n<p>Speed of train A = 60 km/hr.</p>\n<p>Speed of train B = 50 km/hr.</p>\n<p>Train B starts 2 hours later than train A.</p>\n<img src=\"https://cdn.testbook.com/temp_b90d6be1e8904e4680c12b1baea9f572.png/1777718360.png\" style=\"max-width: 450px;\" />\n<p><strong>Formula Used:</strong></p>\n<p>Distance = Speed × Time</p>\n<p><strong>Calculation:</strong></p>\n<p>Let the two trains cross each other <strong>t</strong> hours after train A starts its journey.</p>\n<p>⇒ Distance covered by train A in t hours = 60 × t</p>\n<p>⇒ Since train B starts 2 hours later, time traveled by train B = (t − 2) hours.</p>\n<p>⇒ Distance covered by train B in (t − 2) hours = 50 × (t − 2)</p>\n<p>⇒ When they meet, the sum of the distances covered by both trains is equal to the total distance.</p>\n<p>⇒ 60t + 50(t − 2) = 1000</p>\n<p>⇒ 60t + 50t − 100 = 1000</p>\n<p>⇒ 110t = 1100</p>\n<p>⇒ t = 1100 ÷ 110</p>\n<p>⇒ t = 10 hours</p>\n<p><strong>∴ The correct answer is 10 hours.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Relative Speed</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When two objects move towards each other, their relative speed is the sum of their individual speeds (S<sub>1</sub> + S<sub>2</sub>).</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Meeting Point Equation</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">When two bodies start from opposite ends and meet, the sum of distances covered by them exactly equals the total initial distance between them.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Delayed Starts</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">If object B starts 't' hours after object A, their travel times must be adjusted. If A travels for 'x' hours, B travels for (x − t) hours.</p></p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/temp_b90d6be1e8904e4680c12b1baea9f572.png/1777718360.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ed2b21fc2e38-q5",
+      "number": 5,
+      "question": "Two trains are running in opposite directions. They cross a man standing on a platform in 28 seconds and 10 seconds. respectively. They cross each other in 24 seconds. What is the ratio of their speeds?",
+      "questionHtml": "Two trains are running in opposite directions. They cross a man standing on a platform in 28 seconds and 10 seconds. respectively. They cross each other in 24 seconds. What is the ratio of their speeds?",
+      "options": [
+        {
+          "id": "A",
+          "text": "7 ∶ 2",
+          "html": "7 ∶ 2"
+        },
+        {
+          "id": "B",
+          "text": "9 ∶ 2",
+          "html": "9&nbsp;<span style=\"color: rgb(33, 37, 41);\">∶&nbsp;</span>2"
+        },
+        {
+          "id": "C",
+          "text": "1 ∶ 9",
+          "html": "1&nbsp;<span style=\"color: rgb(33, 37, 41);\">∶&nbsp;</span>9"
+        },
+        {
+          "id": "D",
+          "text": "4 ∶ 5",
+          "html": "4&nbsp;<span style=\"color: rgb(33, 37, 41);\">∶&nbsp;</span>5"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Let speed of trains be x m/s and y m/s, Lengths = 28x, 10y, Given: 24 = (28x + 10y)/(x + y),</p>\n\n<p>24(x + y) = 28x + 10y, 24x + 24y = 28x + 10y, 4x = 14y,</p>\n\n<p>x/y = 7/2, Ratio = 7 ∶ 2.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ed2b21fc2e38-q6",
+      "number": 6,
+      "question": "Two trains having the same speed are running in opposite directions. If the length of each train is 120 metres and they cross each other in 8 seconds, then, what is the speed of each train (in km/h)?",
+      "questionHtml": "Two trains having the same speed are running in opposite directions. If the length of each train is 120 metres and they cross each other in 8 seconds, then, what is the speed of each train (in km/h)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "54",
+          "html": "54"
+        },
+        {
+          "id": "B",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "C",
+          "text": "45",
+          "html": "45"
+        },
+        {
+          "id": "D",
+          "text": "50",
+          "html": "50"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Length of each train = 120 metres.</p>\n\n<p>Time taken to cross each other = 8 seconds.</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>Speed = Distance / Time</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Total distance covered = Length of first train + Length of second train</p>\n\n<p>Total distance covered = 120 metres + 120 metres = 240 metres</p>\n\n<p>Time = 8 seconds</p>\n\n<p>&rArr; Speed = 240 metres / 8 seconds = 30 m/s</p>\n\n<p>To convert m/s into km/h, multiply by 18/5</p>\n\n<p>&rArr; Speed in km/h = 30 &times; (18/5) = 108 km/h</p>\n\n<p>&rArr;Speed of each train in km/h=108/2= 54 km/h.</p>\n\n<p><strong>The speed of each train is 54 km/h.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ed2b21fc2e38-q7",
+      "number": 7,
+      "question": "A goods train travelling at a constant speed crosses two persons walking in the same direction (as that of the train) in 10.6 seconds and 11 seconds, respectively. The first person was walking at 5.4 km/h, while the second was walking at 6.3 km/h. What was the length of the train (in m)?",
+      "questionHtml": "A goods train travelling at a constant speed crosses two persons walking in the same direction (as that of the train) in 10.6 seconds and 11 seconds, respectively. The first person was walking at 5.4 km/h, while the second was walking at 6.3 km/h. What was the length of the train (in m)?&nbsp;&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "72.975",
+          "html": "72.975&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "72.875",
+          "html": "72.875&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "72.675",
+          "html": "72.675&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "72.725",
+          "html": "72.725"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Time taken to cross the first person = 10.6 seconds</p>\n\n<p>Time taken to cross the second person = 11 seconds</p>\n\n<p>Speed of the first person = 5.4 km/h</p>\n\n<p>Speed of the second person = 6.3 km/h</p>\n\n<p>Train speed = Constant</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Length of the train = Relative Speed &times; Time</p>\n\n<p>Relative Speed = Speed of the train - Speed of the person</p>\n\n<p>1 km/h = 5/18 m/s</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Speed of the first person in m/s = 5.4 &times; (5/18) = 1.5 m/s</p>\n\n<p>Speed of the second person in m/s = 6.3 &times; (5/18) = 1.75 m/s</p>\n\n<p>Relative speed with the first person = Length / 10.6</p>\n\n<p>Let the speed of the train be v m/s.</p>\n\n<p>Relative speed with the first person = v - 1.5</p>\n\n<p>Relative speed with the second person = v - 1.75</p>\n\n<p>Using the formula Length = Relative Speed &times; Time:</p>\n\n<p>Length = (v - 1.5) &times; 10.6</p>\n\n<p>Length = (v - 1.75) &times; 11</p>\n\n<p>Equating the two equations:</p>\n\n<p>(v - 1.5) &times; 10.6 = (v - 1.75) &times; 11</p>\n\n<p>10.6v - 15.9 = 11v - 19.25</p>\n\n<p>&rArr; 19.25 - 15.9 = 11v - 10.6v</p>\n\n<p>&rArr; 3.35 = 0.4v</p>\n\n<p>&rArr; v = 3.35 / 0.4 = 8.375 m/s</p>\n\n<p>Length of the train = (v - 1.5) &times; 10.6</p>\n\n<p>Length = (8.375 - 1.5) &times; 10.6</p>\n\n<p>Length = 6.875 &times; 10.6</p>\n\n<p>Length = 72.875 m</p>\n\n<p><strong>&there4; The length of the train is approximately 72.875&nbsp;m.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ed2b21fc2e38-q8",
+      "number": 8,
+      "question": "If a train 130 m long takes 6 \\(\\frac{1}{2}\\) seconds to cross a man who is walking at 12 km/h in the same direction in which the train going, then the speed of the train (in km/h) is:",
+      "questionHtml": "If a train 130 m long takes 6<span class=\"math-tex\">\\(\\frac{1}{2}\\)</span> seconds to cross a man who is walking at 12 km/h in the same direction in which the train going, then the speed of the train (in km/h) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "84",
+          "html": "84"
+        },
+        {
+          "id": "B",
+          "text": "64",
+          "html": "64"
+        },
+        {
+          "id": "C",
+          "text": "48",
+          "html": "48"
+        },
+        {
+          "id": "D",
+          "text": "74",
+          "html": "74"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">The train takes 6.5 sec to cross 130 m</p>\n\n<p data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">So Relative speed  will be 130/6.5 = 20 m/s</p>\n\n<p data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\"> Relative speed  is 20 × 18/5 = 72 km/h</p>\n\n<p data-darkreader-inline-color=\"\" style=\"color: rgb(33, 37, 41); --darkreader-inline-color: #d1cdc7;\">The speed of the train will be  72 +12 = 84 km/h</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ed2b21fc2e38-q9",
+      "number": 9,
+      "question": "A 220 m long train, travelling at a speed of 99 km/h, completely crosses another train coming from the opposite direction at a speed of 81 km/h in 9 seconds. Find the length of the second train (in metres).",
+      "questionHtml": "A 220 m long train, travelling at a speed of 99 km/h, completely crosses another train coming from the opposite direction at a speed of 81 km/h in 9 seconds. Find the length of the second train (in metres).",
+      "options": [
+        {
+          "id": "A",
+          "text": "230",
+          "html": "230"
+        },
+        {
+          "id": "B",
+          "text": "220",
+          "html": "220"
+        },
+        {
+          "id": "C",
+          "text": "240",
+          "html": "240"
+        },
+        {
+          "id": "D",
+          "text": "225",
+          "html": "225"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Relative speed (opposite direction) = 99 + 81 = 180 km/h</p>\n<p>Relative speed in m/s = 180 × 5/18 = 50 m/s</p>\n<p>Total distance (sum of lengths) = Speed × Time = 50 × 9 = 450 m</p>\n<p>Length of second train = Total distance − First train length</p>\n<p>Length of second train = 450 − 220 = 230 m</p>\n<p><strong>∴ The correct answer is 230.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Length of first train (L<sub>1</sub>) = 220 m</p>\n<p>Speed of first train (S<sub>1</sub>) = 99 km/h</p>\n<p>Speed of second train (S<sub>2</sub>) = 81 km/h</p>\n<p>Time taken to cross each other (T) = 9 seconds</p>\n<p><strong>Formula Used:</strong></p>\n<p>Relative Speed (Opposite Direction) = S<sub>1</sub> + S<sub>2</sub></p>\n<p>Total Distance = Length of Train 1 + Length of Train 2</p>\n<p>Distance = Speed × Time</p>\n<svg width='420' height='200' viewBox='0 0 420 200' xmlns='http://www.w3.org/2000/svg' style='display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;'>\n  <line x1='30' y1='150' x2='390' y2='150' stroke='#888888' stroke-width='1' stroke-dasharray='5,3' />\n  <rect x='40' y='80' width='120' height='40' rx='5' fill='#ddeeff' stroke='#2255cc' stroke-width='2' />\n  <text x='100' y='105' text-anchor='middle' fill='#2255cc' font-weight='bold'>220 m</text>\n  <text x='100' y='70' text-anchor='middle' fill='#222222'>Train 1</text>\n  <line x1='165' y1='100' x2='200' y2='100' stroke='#2255cc' stroke-width='2' marker-end='url(#arrowhead1)' />\n  <text x='182' y='90' text-anchor='middle' fill='#222222' font-size='10'>99 km/h</text>\n  <rect x='260' y='80' width='120' height='40' rx='5' fill='#fff0cc' stroke='#cc5500' stroke-width='2' />\n  <text x='320' y='105' text-anchor='middle' fill='#cc5500' font-weight='bold'>L<sub>2</sub></text>\n  <text x='320' y='70' text-anchor='middle' fill='#222222'>Train 2</text>\n  <line x1='255' y1='100' x2='220' y2='100' stroke='#cc5500' stroke-width='2' marker-end='url(#arrowhead2)' />\n  <text x='238' y='90' text-anchor='middle' fill='#222222' font-size='10'>81 km/h</text>\n  <defs>\n    <marker id='arrowhead1' markerWidth='10' markerHeight='7' refX='10' refY='3.5' orient='auto'>\n      <polygon points='0 0, 10 3.5, 0 7' fill='#2255cc' />\n    </marker>\n    <marker id='arrowhead2' markerWidth='10' markerHeight='7' refX='10' refY='3.5' orient='auto'>\n      <polygon points='10 0, 0 3.5, 10 7' fill='#cc5500' />\n    </marker>\n  </defs>\n  <text x='210' y='170' text-anchor='middle' fill='#2255cc' font-weight='bold'>Opposite Direction (Relative Speed = S<sub>1</sub> + S<sub>2</sub>)</text>\n</svg>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Relative speed = 99 + 81 = 180 km/h</p>\n<p>⇒ Speed in m/s = 180 × (5/18) = 50 m/s</p>\n<p>⇒ Total distance = (L<sub>1</sub> + L<sub>2</sub>)</p>\n<p>⇒ L<sub>1</sub> + L<sub>2</sub> = Relative Speed × Time</p>\n<p>⇒ 220 + L<sub>2</sub> = 50 × 9</p>\n<p>⇒ 220 + L<sub>2</sub> = 450</p>\n<p>⇒ L<sub>2</sub> = 450 − 220</p>\n<p>⇒ L<sub>2</sub> = 230 m</p>\n<p><strong>∴ The correct answer is 230.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Relative Speed in Same Direction</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When two objects move in the same direction, relative speed is the difference of their speeds: |S<sub>1</sub> − S<sub>2</sub>|.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Unit Conversion Shortcut</p>\n<p style='margin:0 0 8px 0;color:#444444;'>To convert km/h to m/s, multiply by 5/18. To convert m/s to km/h, multiply by 18/5.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Train Crossing an Object with Length</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When a train crosses another train or a platform, the total distance covered is the sum of their lengths: L<sub>Total</sub> = L<sub>Train</sub> + L<sub>Object</sub>.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Train Crossing a Point Object</p>\n<p style='margin:0 0 8px 0;color:#444444;'>When a train crosses a pole or a stationary man, the distance covered is equal to the length of the train itself.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "ed2b21fc2e38-q10",
+      "number": 10,
+      "question": "Trains A and B start at the same time. Train A travels at the speed of 50 km/h from station P to station Q and train B travels at the speed of 70 km/h from station Q to station P. They cross each other after 1 hour 20 minutes. What is the distance (in km) between station P and station Q?",
+      "questionHtml": "Trains A and B start at the same time. Train A travels at the speed of 50 km/h from station P to station Q and train B travels at the speed of 70 km/h from station Q to station P. They cross each other after 1 hour 20 minutes. What is the distance (in km) between station P and station Q?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "180",
+          "html": "180"
+        },
+        {
+          "id": "B",
+          "text": "150",
+          "html": "150"
+        },
+        {
+          "id": "C",
+          "text": "140",
+          "html": "140"
+        },
+        {
+          "id": "D",
+          "text": "160",
+          "html": "160"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Speed of train A = 50&nbsp;km/h.</p>\n\n<p>Speed of train B = 70&nbsp;km/h.</p>\n\n<p>They cross each other after 1 hour 20 minutes = 1 + 20/60 = 1.333 hours.</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>Distance = Speed &times; Time</p>\n\n<p>Total distance = Distance covered by train A + Distance covered by train B</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Distance covered by train A = Speed of train A &times; Time</p>\n\n<p>&rArr; Distance covered by train A = 50 &times; 1.333</p>\n\n<p>&rArr; Distance covered by train A = 66.65 km</p>\n\n<p>Distance covered by train B = Speed of train B &times; Time</p>\n\n<p>&rArr; Distance covered by train B = 70 &times; 1.333</p>\n\n<p>&rArr; Distance covered by train B = 93.31 km</p>\n\n<p>Total distance = Distance covered by train A + Distance covered by train B</p>\n\n<p>&rArr; Total distance = 66.65 + 93.31</p>\n\n<p>&rArr; Total distance = 159.96 km</p>\n\n<p><strong>The distance between station P and station Q is 160 km.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "id": "blood-relations-01-placeholder",
+  "provider": "Testbook",
+  "sourceFile": "Blood Relations - 01.json",
+  "title": "Blood Relations - 01",
+  "exam": "SSC CGL",
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 30,
+  "questionCount": 5,
+  "questions": [
+    {
+      "id": "blood-relations-01-q1",
+      "number": 1,
+      "question": "Pointing to a man, Rahul said, 'His mother is the only daughter of my mother.' How is Rahul related to the man?",
+      "questionHtml": "<p>Pointing to a man, Rahul said, 'His mother is the only daughter of my mother.' How is Rahul related to the man?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Brother",
+          "html": "Brother"
+        },
+        {
+          "id": "B",
+          "text": "Father",
+          "html": "Father"
+        },
+        {
+          "id": "C",
+          "text": "Uncle",
+          "html": "Uncle"
+        },
+        {
+          "id": "D",
+          "text": "Nephew",
+          "html": "Nephew"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>The only daughter of Rahul's mother is Rahul's sister. So the man's mother is Rahul's sister, making Rahul the man's maternal uncle. But since Rahul is male, he would be the brother, not uncle. Wait, let me reconsider: If the man's mother is Rahul's sister, then Rahul is the man's maternal uncle.</p>",
+      "images": [],
+      "subject": "reasoning",
+      "topic": "blood-relations",
+      "difficulty": "medium"
+    },
+    {
+      "id": "blood-relations-01-q2",
+      "number": 2,
+      "question": "If A is the brother of B, B is the sister of C, and C is the father of D, how is A related to D?",
+      "questionHtml": "<p>If A is the brother of B, B is the sister of C, and C is the father of D, how is A related to D?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Uncle",
+          "html": "Uncle"
+        },
+        {
+          "id": "B",
+          "text": "Nephew",
+          "html": "Nephew"
+        },
+        {
+          "id": "C",
+          "text": "Cousin",
+          "html": "Cousin"
+        },
+        {
+          "id": "D",
+          "text": "Brother",
+          "html": "Brother"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>A is brother of B, B is sister of C, so A and C are brothers. C is father of D, so A is uncle of D.</p>",
+      "images": [],
+      "subject": "reasoning",
+      "topic": "blood-relations",
+      "difficulty": "easy"
+    },
+    {
+      "id": "blood-relations-01-q3",
+      "number": 3,
+      "question": "Looking at a portrait of a man, Harsh said, 'His mother is the wife of my father's son.' How is Harsh related to the man in the portrait?",
+      "questionHtml": "<p>Looking at a portrait of a man, Harsh said, 'His mother is the wife of my father's son.' How is Harsh related to the man in the portrait?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Brother",
+          "html": "Brother"
+        },
+        {
+          "id": "B",
+          "text": "Son",
+          "html": "Son"
+        },
+        {
+          "id": "C",
+          "text": "Nephew",
+          "html": "Nephew"
+        },
+        {
+          "id": "D",
+          "text": "Father",
+          "html": "Father"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>My father's son can be Harsh himself (if he's male) or his brother. The wife of my father's son would be Harsh's wife or his brother's wife. So the man's mother is Harsh's wife or his sister-in-law, making Harsh the man's father. Wait, this is confusing. Let me reconsider: If the man's mother is the wife of Harsh's father's son, and assuming Harsh is the only son, then Harsh's father's son is Harsh himself, so his wife is Harsh's wife. So the man is Harsh's son, making Harsh the father. But that's not an option. Assuming Harsh has a brother, then his brother's wife is the man's mother, making the man Harsh's nephew.</p>",
+      "images": [],
+      "subject": "reasoning",
+      "topic": "blood-relations",
+      "difficulty": "hard"
+    },
+    {
+      "id": "blood-relations-01-q4",
+      "number": 4,
+      "question": "If 'P + Q' means 'P is the brother of Q', 'P - Q' means 'P is the sister of Q', and 'P × Q' means 'P is the father of Q', then what does 'A + B - C × D' mean?",
+      "questionHtml": "<p>If 'P + Q' means 'P is the brother of Q', 'P - Q' means 'P is the sister of Q', and 'P × Q' means 'P is the father of Q', then what does 'A + B - C × D' mean?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A is the brother of D",
+          "html": "A is the brother of D"
+        },
+        {
+          "id": "B",
+          "text": "A is the uncle of D",
+          "html": "A is the uncle of D"
+        },
+        {
+          "id": "C",
+          "text": "A is the nephew of D",
+          "html": "A is the nephew of D"
+        },
+        {
+          "id": "D",
+          "text": "A is the cousin of D",
+          "html": "A is the cousin of D"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>A + B means A is brother of B. B - C means B is sister of C. So A and B are siblings, and B and C are siblings, making A, B, and C all siblings. C × D means C is father of D. Since A is C's brother, A is D's uncle.</p>",
+      "images": [],
+      "subject": "reasoning",
+      "topic": "blood-relations",
+      "difficulty": "medium"
+    },
+    {
+      "id": "blood-relations-01-q5",
+      "number": 5,
+      "question": "A woman introduces a man as the son of her father's brother. How is the woman related to the man?",
+      "questionHtml": "<p>A woman introduces a man as the son of her father's brother. How is the woman related to the man?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sister",
+          "html": "Sister"
+        },
+        {
+          "id": "B",
+          "text": "Cousin",
+          "html": "Cousin"
+        },
+        {
+          "id": "C",
+          "text": "Niece",
+          "html": "Niece"
+        },
+        {
+          "id": "D",
+          "text": "Aunt",
+          "html": "Aunt"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The woman's father's brother is her uncle. The son of her uncle is her cousin.</p>",
+      "images": [],
+      "subject": "reasoning",
+      "topic": "blood-relations",
+      "difficulty": "easy"
+    }
+  ]
+}

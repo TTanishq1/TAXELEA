@@ -1,0 +1,1737 @@
+{
+  "id": "6abdf8dfea98",
+  "provider": "Testbook",
+  "sourceFile": "Percentage - 01.html",
+  "sourcePath": "Testbook/files/Percentage - 01.html",
+  "title": "Percentage - 01",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "6abdf8dfea98-q1",
+      "number": 1,
+      "question": "A person's salary was decreased by 50% and subsequently increased by 50%. By what much percent does his salary increase or decrease?",
+      "questionHtml": "A person&#39;s salary was decreased by 50% and subsequently increased by 50%. By what much percent does his salary increase or decrease?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increase 20%",
+          "html": "Increase 20%"
+        },
+        {
+          "id": "B",
+          "text": "Decrease 18%",
+          "html": "Decrease 18%"
+        },
+        {
+          "id": "C",
+          "text": "Decrease 25%",
+          "html": "Decrease 25%"
+        },
+        {
+          "id": "D",
+          "text": "Increase 15%",
+          "html": "Increase 15%"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Person salary was decreased by 50% and subsequently increased by 50%</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Decreased by x% = (&nbsp;x - x / 100 )&nbsp;&times; 100&nbsp;</p>\n\n<p>Increased by x% = ( X + x / 100 )&nbsp;&times; 100</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Let the original salary be Rs.100</p>\n\n<p>According to the question&nbsp;</p>\n\n<p>The salary was increased by 50%.</p>\n\n<p>&rArr;&nbsp; New salary&nbsp; = 100 + 50% of 100&nbsp;</p>\n\n<p>&rArr; New salary = Rs.150&nbsp;</p>\n\n<p>NOW,</p>\n\n<p>The salary was decreased by 50%</p>\n\n<p>&rArr; Final salary = 150&nbsp;&times; 50 /100&nbsp; = 75&nbsp;</p>\n\n<p>Decreased in salary = Original salary - Final salary&nbsp;</p>\n\n<p>&rArr; Decreased in salary = 100 - 75 = 25</p>\n\n<p><strong>&there4; Required percentage = ( 25 /100 )&nbsp;&times; 100 = 25%</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span>Let the salary be 1000&nbsp;</strong></p>\n\n<p><strong>Salry decrease by 50% = 1000&nbsp;&times; 50/100</strong></p>\n\n<p><strong>= 500</strong></p>\n\n<p><strong>Then increase 500&nbsp;&times; (150/100) = 750</strong></p>\n\n<p><strong>Net loss salary decrease = 1000 - 750 = 250</strong></p>\n\n<p>Net% loss = (250/1000) &times;&nbsp;100 = 25%&nbsp;</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q2",
+      "number": 2,
+      "question": "A person's salary was increased by 50% and subsequently decreased by 50%. How much percentage does he lose or gain?",
+      "questionHtml": "A person&#39;s salary was increased by 50% and subsequently decreased by 50%. How much percentage does he lose or gain?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gain of 20%",
+          "html": "Gain of 20%"
+        },
+        {
+          "id": "B",
+          "text": "Loss of 30%",
+          "html": "Loss of 30%"
+        },
+        {
+          "id": "C",
+          "text": "Loss of 25%",
+          "html": "Loss of 25%"
+        },
+        {
+          "id": "D",
+          "text": "Gain of 50%",
+          "html": "Gain of 50%"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Let the original salary be Rs.100</p>\n\n<p style=\"color: rgb(33, 37, 41);\">New salary = 100 + 50% of 100 ⇒ Rs.150, <span style=\"color: rgb(33, 37, 41);\">Now, the salary was decreased by 50%. </span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">Final salary = (150 - 50% of 150) ⇒ 75, Decrease in salary = 100 – 75 = 25</p>\n\n<p style=\"color: rgb(33, 37, 41);\">Required percentage = (25/100) × 100 = 25%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q3",
+      "number": 3,
+      "question": "Two years ago, the population of a village was 1,000. The population increased by 10% is the first year and decreased by 10% in the second year, Find the present population.",
+      "questionHtml": "Two years ago, the population of a village was 1,000. The population increased by 10% is the first year and decreased by 10% in the second year, Find the present population.",
+      "options": [
+        {
+          "id": "A",
+          "text": "985",
+          "html": "985"
+        },
+        {
+          "id": "B",
+          "text": "980",
+          "html": "980"
+        },
+        {
+          "id": "C",
+          "text": "990",
+          "html": "990"
+        },
+        {
+          "id": "D",
+          "text": "995",
+          "html": "995"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Population after 1<sup>st</sup> year increase ⇒ 1,000 × (1+10/100) = 1,000 × 11/10 = 1,100</p>\n\n<p>Population after 2<sup>nd</sup> year decrease ⇒ 1,000 × 11/10 × (1-1/10) = 1,000 × 11/10 × 9/10 = 990.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q4",
+      "number": 4,
+      "question": "If the price of salt decreases by 20%, then by what percentage should consumption be increased to keep the expenditure same?",
+      "questionHtml": "If the price of salt decreases by 20%, then by what percentage should consumption be increased to keep the expenditure same?",
+      "options": [
+        {
+          "id": "A",
+          "text": "26%",
+          "html": "26%"
+        },
+        {
+          "id": "B",
+          "text": "27%",
+          "html": "27%"
+        },
+        {
+          "id": "C",
+          "text": "25%",
+          "html": "25%"
+        },
+        {
+          "id": "D",
+          "text": "24%",
+          "html": "24%"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">The price of salt decreases by 20%, Before : After = 5 : 4</p>\n\n<p style=\"color: rgb(33, 37, 41);\">To make the expenditure same, Consumption must be Before : After = 4 : 5</p>\n\n<p style=\"color: rgb(33, 37, 41);\">So, consumption increased by 1/4 × 100 = 25%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q5",
+      "number": 5,
+      "question": "Ravi scores 72% marks in examinations. If these are 360 marks, the maximum marks are:",
+      "questionHtml": "Ravi scores 72% marks in examinations. If these are 360 marks, the maximum marks are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "500",
+          "html": "500"
+        },
+        {
+          "id": "B",
+          "text": "400",
+          "html": "400"
+        },
+        {
+          "id": "C",
+          "text": "350",
+          "html": "350"
+        },
+        {
+          "id": "D",
+          "text": "450",
+          "html": "450"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Calculations:</strong></p>\n\n<p>Let maximum marks be 100%</p>\n\n<p>72% = 360</p>\n⇒ 100% = 360 × (100/72) = 500",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q6",
+      "number": 6,
+      "question": "A person's salary has increased from Rs. 7,000 to Rs. 12,000. What is the percentage increase in his salary?",
+      "questionHtml": "A person&#39;s salary has increased from Rs. 7,000 to&nbsp;Rs. 12,000. What is the percentage increase in his salary?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(61 \\frac{1}{7}\\) %",
+          "html": "<span class=\"math-tex\">\\(61 \\frac{1}{7}\\)</span>%"
+        },
+        {
+          "id": "B",
+          "text": "\\(76 \\frac{4}{7}\\) %",
+          "html": "<span class=\"math-tex\">\\(76 \\frac{4}{7}\\)</span>%"
+        },
+        {
+          "id": "C",
+          "text": "\\(69 \\frac{1}{7}\\) %",
+          "html": "<span class=\"math-tex\">\\(69 \\frac{1}{7}\\)</span>%"
+        },
+        {
+          "id": "D",
+          "text": "\\(71 \\frac{3}{7}\\) %",
+          "html": "<span class=\"math-tex\">\\(71 \\frac{3}{7}\\)</span>%"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Initial salary = Rs. 7000</p>\n\n<p>Increased salary = Rs. 12,000</p>\n\n<p><strong>Calculation: </strong></p>\n\n<p>Increase in salary = Rs. 12000&nbsp;&ndash; Rs. 7000 = Rs. 5000</p>\n\n<p>Increase % in salary = (5000/7000)&nbsp;&times; 100&nbsp;</p>\n\n<p><span class=\"math-tex\">\\(⇒ 71\\frac{3}{7}\\)</span>%</p>\n\n<p><strong>&there4; The percentage increase in the salary is&nbsp;<span class=\"math-tex\">\\(71\\frac{3}{7}\\)</span>%</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span>&nbsp;<span style=\"\">Increase % in salary = (5000/7000)&nbsp;&times; 100&nbsp;</span></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(71\\frac{3}{7}\\)</span>%</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q7",
+      "number": 7,
+      "question": "Out of an earning of Rs. 720, Pankaj spends 65%. How much does he save?",
+      "questionHtml": "Out of an earning of Rs. 720, Pankaj spends 65%. How much does he save?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 250",
+          "html": "Rs. 250"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 252",
+          "html": "Rs. 252"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 253",
+          "html": "Rs. 253"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 251",
+          "html": "Rs. 251"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"color: rgb(33, 37, 41);\">Savings of Pankaj = 720 × (100 - 65)% ⇒ 720 × 35% ⇒ 252</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q8",
+      "number": 8,
+      "question": "The price of sugar is increased by 20% By what percentage must one cut down on the consumption of sugar so that no extra amount has to be incurred on sugar?",
+      "questionHtml": "The price of sugar is increased by 20% By what percentage must one cut down on the consumption of sugar so that no extra amount has to be incurred on sugar?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(16\\frac{2}{3}\\% \\)",
+          "html": "<span class=\"math-tex\">\\(16\\frac{2}{3}\\% \\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(83\\frac{1}{3}\\% \\)",
+          "html": "<span class=\"math-tex\">\\(83\\frac{1}{3}\\% \\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "D",
+          "text": "80%",
+          "html": "80%"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Let the price of the sugar be Rs. 5</p>\n\n<p>Increased price of sugar = 5 &times; (6/5) = Rs. 6</p>\n\n<p>Ratio of the price of sugar before to increased = 5 : 6</p>\n\n<p>As we know,</p>\n\n<p>Consumption is inversely proportional to price.</p>\n\n<p>Ratio of consumption of price before to after = 6 : 5</p>\n&there4; Required percentage = (6 - 5)/6 &times; 100 = <span class=\"math-tex\">\\(16\\frac{2}{3}\\% \\)</span>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q9",
+      "number": 9,
+      "question": "9/40 converted to percentage is:",
+      "questionHtml": "9/40 converted to percentage is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(2\\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(2\\frac{1}{2}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "C",
+          "text": "22",
+          "html": "22"
+        },
+        {
+          "id": "D",
+          "text": "\\(22\\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(22\\frac{1}{2}\\)</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>To convert it in percentage, multiply it by 100</p>\n\n<p>(9/40) &times; 100</p>\n<span class=\"math-tex\">\\(22\\frac{1}{2}\\)</span>%",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q10",
+      "number": 10,
+      "question": "A woman spends 25% of her income. If her expenditure is ₹1,250, then find her income.",
+      "questionHtml": "A woman spends 25% of her income. If her expenditure is ₹1,250, then find her income.",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹2,500",
+          "html": "₹2,500"
+        },
+        {
+          "id": "B",
+          "text": "₹5,000",
+          "html": "₹5,000"
+        },
+        {
+          "id": "C",
+          "text": "₹1,250",
+          "html": "₹1,250"
+        },
+        {
+          "id": "D",
+          "text": "₹1,000",
+          "html": "₹1,000"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:-</strong> 25% of income is spent by the women and expenditure = Rs.1250</p>\n\n<p><strong>To find:-</strong> Her income</p>\n\n<p><strong>Concept used:-</strong>&nbsp;Income - expenditure = Spent amount</p>\n\n<p><span style=\"font-weight: 700; \">Calculation</span><strong>:-</strong> Let the income of women be Rs. x</p>\n\n<p>According to the question,</p>\n\n<p>25% of x = 1250</p>\n\n<p>&rArr;<span class=\"math-tex\">\\(\\frac{25}{100}\\times x\\)</span>&nbsp;= 1250</p>\n\n<p>&rArr;<span class=\"math-tex\">\\(\\frac{1}{4}\\times x\\)</span>&nbsp;= 1250</p>\n\n<p><span style=\"\">&rArr;</span>x<span style=\"\">&nbsp;= 1250&nbsp;&times; 4</span></p>\n\n<p><span style=\"\">&rArr;</span>x<span style=\"\">&nbsp;= 5000</span></p>\n\n<p><strong><span style=\"\">The income of the women is Rs. 5,000</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q11",
+      "number": 11,
+      "question": "The income of A is 24% more than the income of B. By what percent is the income of B less than the income of A?",
+      "questionHtml": "The income of A is 24% more than the income of B. By what percent is the income of B less than the income of A?",
+      "options": [
+        {
+          "id": "A",
+          "text": "500/31%",
+          "html": "500/31%"
+        },
+        {
+          "id": "B",
+          "text": "600/29%",
+          "html": "600/29%"
+        },
+        {
+          "id": "C",
+          "text": "150/7%",
+          "html": "150/7%"
+        },
+        {
+          "id": "D",
+          "text": "600/31%",
+          "html": "600/31%"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let the income of B be 100x</p>\n\n<p>Income of A = 100x &times; (124/100) = 124x</p>\n\n<p>Income of B less than the income of A by = 124x - 100x = 24x</p>\nRequired percentage = (24x/124x) &times; 100 = 600/31%",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q12",
+      "number": 12,
+      "question": "The population of village has been continuously increasing at the rate of 10% per year. If its present population is 54,450, what was it two years ago?",
+      "questionHtml": "The population of village has been continuously increasing at the rate of 10% per year. If its present population is 54,450, what was it two years ago?",
+      "options": [
+        {
+          "id": "A",
+          "text": "48000",
+          "html": "48000"
+        },
+        {
+          "id": "B",
+          "text": "45000",
+          "html": "45000"
+        },
+        {
+          "id": "C",
+          "text": "52000",
+          "html": "52000"
+        },
+        {
+          "id": "D",
+          "text": "50000",
+          "html": "50000"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><b>GIVEN:</b></p>\n\n<p>Present population = 54450</p>\n\n<p>Rate increment per year = 10%</p>\n\n<p><b>FORMULA USED:</b></p>\n\n<p>Present population = Initial population&nbsp;&times;&nbsp;<span class=\"math-tex\">\\(( \\frac{100 + R}{100}) ^t\\)</span></p>\n\n<p>Where,&nbsp; R = Rate of increment , t = time in years</p>\n\n<p><b>CALCULATION:</b></p>\n\n<p>Here, we have Present population = 54450 , Time = 2 years ,&nbsp; &nbsp;R = 10%</p>\n\n<p>&rArr; Present population = Initial population&nbsp;&times;&nbsp;<span class=\"math-tex\">\\((\\frac{100 +R}{100}) ^t\\)</span></p>\n\n<p>&rArr; 54450 = Initial population&nbsp;&times;&nbsp;<span class=\"math-tex\">\\(( \\frac{100 + 10}{100}) ^2\\)</span></p>\n\n<p>&rArr; 54450 = Initial population&nbsp;&times; 110/100&nbsp;&times; 110/100&nbsp;</p>\n\n<p>&rArr; Initial population = 54450&nbsp;&times; 10/11&nbsp;&times; 10/11 = 45000</p>\n\n<p><strong>Hence, the population two years ago was 45000.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q13",
+      "number": 13,
+      "question": "The cost of apples is increased by 20% and then decreased by 20%. What is the net pecentage decrease?",
+      "questionHtml": "The cost of apples is increased by 20% and then decreased by 20%. What is the net pecentage decrease?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4%",
+          "html": "4%"
+        },
+        {
+          "id": "B",
+          "text": "3%",
+          "html": "3%"
+        },
+        {
+          "id": "C",
+          "text": "5%",
+          "html": "5%"
+        },
+        {
+          "id": "D",
+          "text": "6%",
+          "html": "6%"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" dir=\"ltr\" style=\"color: rgb(33, 37, 41); table-layout: fixed; width: 0px; border: none;\" xmlns=\"http://www.w3.org/1999/xhtml\">\n\t<colgroup>\n\t\t<col width=\"102\" />\n\t\t<col width=\"64\" />\n\t\t<col width=\"70\" />\n\t</colgroup>\n\t<tbody>\n\t\t<tr style=\"height: 21px;\">\n\t\t\t<td style=\"border-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;\"> </td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"Before\"}\" style=\"border-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">Before</td>\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"After\"}\" style=\"border-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">After</td>\n\t\t</tr>\n\t\t<tr style=\"height: 21px;\">\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"20% increase\"}\" style=\"border-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">20% increase</td>\n\t\t\t<td data-sheets-value=\"{\"1\":3,\"3\":5}\" style=\"border-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">5</td>\n\t\t\t<td data-sheets-value=\"{\"1\":3,\"3\":6}\" style=\"border-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">6</td>\n\t\t</tr>\n\t\t<tr style=\"height: 21px;\">\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"20% decrease\"}\" style=\"border-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">20% decrease</td>\n\t\t\t<td data-sheets-value=\"{\"1\":3,\"3\":5}\" style=\"border-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">5</td>\n\t\t\t<td data-sheets-value=\"{\"1\":3,\"3\":4}\" style=\"border-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">4</td>\n\t\t</tr>\n\t\t<tr style=\"height: 21px;\">\n\t\t\t<td data-sheets-value=\"{\"1\":2,\"2\":\"Net\"}\" style=\"border-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">Net</td>\n\t\t\t<td data-sheets-value=\"{\"1\":3,\"3\":25}\" style=\"border-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">25</td>\n\t\t\t<td data-sheets-value=\"{\"1\":3,\"3\":24}\" style=\"border-color: rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;\">24</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><span style=\"color: rgb(33, 37, 41);\">So, net% decrease is 1/25 × 100 = 4%</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q14",
+      "number": 14,
+      "question": "Sachin&rsquo;s income is 25% more than Dileep&rsquo;s income. By how much percentage is Dileep&rsquo;s income less than Sachin&rsquo;s income ?",
+      "questionHtml": "Sachin&rsquo;s income is 25% more than Dileep&rsquo;s income. By how much percentage is Dileep&rsquo;s income less than Sachin&rsquo;s income ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15%",
+          "html": "15%"
+        },
+        {
+          "id": "B",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "C",
+          "text": "18%",
+          "html": "18%"
+        },
+        {
+          "id": "D",
+          "text": "22%",
+          "html": "22%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given :&nbsp;</strong></p>\n\n<p>Sachin&#39;s income is 25% more than Dileep&#39;s.</p>\n\n<p><strong>Calculations :</strong></p>\n\n<p>Let the income of Dileep be 100x&nbsp;</p>\n\n<p>Sachins&#39;s income = 100x + 25% of 100x</p>\n\n<p>&rArr; 125x&nbsp;</p>\n\n<p>Now,&nbsp;</p>\n\n<p>Required percent = (Sachin&#39;s income - Dileep&#39;s income)/(Sachin&#39;s income)&nbsp;&times; 100&nbsp;</p>\n\n<p>&rArr; (125x - 100x)/(125x)&nbsp;&times; 100&nbsp;</p>\n\n<p>&rArr; (25x/125x) &times; 100</p>\n\n<p>&rArr; 20%&nbsp;</p>\n\n<p><strong>&there4; Correct answer is option 2.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q15",
+      "number": 15,
+      "question": "The price of cooking oil increased by 25%. Find by how much percentage a family must reduce its consumption in order to maintain the same budget.",
+      "questionHtml": "The price of cooking oil increased by 25%. Find by how much percentage a family must reduce its consumption in order to maintain the same budget.",
+      "options": [
+        {
+          "id": "A",
+          "text": "70%",
+          "html": "70%"
+        },
+        {
+          "id": "B",
+          "text": "30%",
+          "html": "30%"
+        },
+        {
+          "id": "C",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "D",
+          "text": "80%",
+          "html": "80%"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let price of the cooking oil be Rs. 4</p>\n\n<p>Price of the cooking oil after increment = 4 &times; (5/4) = Rs. 5</p>\n\n<p>Ratio of oil price before and after = 4 : 5</p>\n\n<p>Ratio of consumption before and after = 5 : 4</p>\nRequired percentage = (5 - 4)/5 &times; 100 = 20%",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q16",
+      "number": 16,
+      "question": "The number 36 is increased by a certain percentage and becomes 63. Calculate that percentage.",
+      "questionHtml": "The number 36 is increased by a certain percentage and becomes 63. Calculate that percentage.&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "50%",
+          "html": "<span style=\"\">50%</span>"
+        },
+        {
+          "id": "B",
+          "text": "75%",
+          "html": "<span style=\"\">75%</span>"
+        },
+        {
+          "id": "C",
+          "text": "60%",
+          "html": "<span style=\"\">60%</span>"
+        },
+        {
+          "id": "D",
+          "text": "85%",
+          "html": "<span style=\"\">85%</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"color: rgb(33, 37, 41);\">Increased percentage = </span><span class=\"math-tex\">\\(\\frac{(increased \\space no. -original\\space no.)}{original\\space no.}\\)</span><span style=\"color: rgb(33, 37, 41);\"> × 100 </span></p>\n\n<p style=\"color: rgb(33, 37, 41);\">Increased percentage = <span class=\"math-tex\">\\(\\frac{(63-36)}{36}\\)</span> × 100 ⇒ 75%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q17",
+      "number": 17,
+      "question": "If an electricity bill is paid before the due date, one gets a reduction of 10% on the amount of the bill. By paying the bill before the due date, a person got a reduction of ₹23. The amount of his electricity bill (in ₹) was:",
+      "questionHtml": "If an electricity bill is paid before the due date, one gets a reduction of 10% on the amount of the bill. By paying the bill before the due date, a person got a reduction of ₹23. The amount of his electricity bill (in ₹) was:",
+      "options": [
+        {
+          "id": "A",
+          "text": "380",
+          "html": "380"
+        },
+        {
+          "id": "B",
+          "text": "250",
+          "html": "250"
+        },
+        {
+          "id": "C",
+          "text": "520",
+          "html": "520"
+        },
+        {
+          "id": "D",
+          "text": "230",
+          "html": "230"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Reduction percentage = 10%</p>\n\n<p>Reduction amount = ₹23</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Reduction = (Reduction percentage &times; Bill amount) / 100</p>\n\n<p>Bill amount = (Reduction amount &times; 100) / Reduction percentage</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>&rArr; Bill amount = (23 &times; 100) / 10</p>\n\n<p>&rArr; Bill amount = ₹230</p>\n\n<p><strong>&there4; The original amount of the electricity bill was ₹230.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q18",
+      "number": 18,
+      "question": "A family spends 8% of its monthly income on charity. In a particular month, the family spent ₹1,200 on charity. What is the income in that month?",
+      "questionHtml": "A family spends 8% of its monthly income on charity. In a particular month, the family spent ₹1,200 on charity. What is the income in that month?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹15,000",
+          "html": "<span style=\"\">₹15,000</span>"
+        },
+        {
+          "id": "B",
+          "text": "₹16,000",
+          "html": "<span style=\"\">₹16,000</span>"
+        },
+        {
+          "id": "C",
+          "text": "₹12,000",
+          "html": "<span style=\"\">₹12,000</span>"
+        },
+        {
+          "id": "D",
+          "text": "₹18,000",
+          "html": "<span style=\"\">₹18,000</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">A family spends 8% of its monthly income on charity. </span></p>\n\n<p><span style=\"\">The family spent ₹1,200 on charity.</span></p>\n\n<p><strong><span style=\"\">Calculations:</span></strong></p>\n\n<p><span style=\"\">Let the income of the family be &#39;x&#39;</span></p>\n\n<p><span style=\"\">According to the question,</span></p>\n\n<p>Charity = 8% of income</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>1200 = 8%&nbsp;&times; x</p>\n\n<p><span style=\"\">&rArr;&nbsp;</span>x = (1200/8)&nbsp;&times; 100</p>\n\n<p>&rArr; x = 150&nbsp;&times; 100 = Rs. 15000</p>\n\n<p><strong>&there4; T<span style=\"\">he income in that month was&nbsp;Rs. 15000.</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q19",
+      "number": 19,
+      "question": "20 percent of A's income is equal to 10 percent of B's income. If A's income is Rs. 2550, then what is B's income?",
+      "questionHtml": "20 percent of A&#39;s income is equal to 10 percent of B&#39;s income. If A&#39;s income is Rs. 2550, then what is B&#39;s income?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 5000",
+          "html": "Rs. 5000"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 7650",
+          "html": "Rs. 7650"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 5100",
+          "html": "Rs. 5100"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 4900",
+          "html": "Rs. 4900"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>20% of A&#39;s income = 10% of B&#39;s income</p>\n\n<p>A&#39;s income = Rs. 2550</p>\n\n<p>Let B&#39;s income be x.</p>\n\n<p><strong>Formula:</strong></p>\n\n<p>To find the percentage, we can use the formula:<br />\nPart/Whole = Percentage/100</p>\n\n<p><strong>Solution:</strong></p>\n\n<p>According to the given information, we can write the equation:</p>\n\n<p>(20/100) &times; 2550 = (10/100) &times; x</p>\n\n<p>Simplifying this equation, we get:</p>\n\n<p>(2/10) &times; 2550 = (1/10) &times; x</p>\n\n<p>Multiplying both sides by 10, we get:<br />\n5100 = x</p>\n\n<p><strong>Therefore, B&#39;s income is Rs. 5100.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q20",
+      "number": 20,
+      "question": "If A's salary is 30% more than B's salary, then by what percentage is B's salary less than that of A ? (correct to one decimal place)",
+      "questionHtml": "If A&#39;s salary is 30% more than B&#39;s salary, then by what percentage is B&#39;s salary less than that of A ? (correct to one decimal place)",
+      "options": [
+        {
+          "id": "A",
+          "text": "17.5%",
+          "html": "17.5%"
+        },
+        {
+          "id": "B",
+          "text": "19.7%",
+          "html": "19.7%"
+        },
+        {
+          "id": "C",
+          "text": "23.1%",
+          "html": "23.1%"
+        },
+        {
+          "id": "D",
+          "text": "25%",
+          "html": "25%"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Salary of A is 30% more than salary of B.</p>\n\n<p><b>Calculations:</b></p>\n\n<p>Let the salary of B be 100x.</p>\n\n<p>Salary of A&nbsp; = 100x + 100x&nbsp;&times; 30%</p>\n\n<p>&rArr; 130x</p>\n\n<p>Percentage Difference = {(130x - 100x)/130x}&nbsp;&times; 100</p>\n\n<p>&rArr; (30x/130x)&nbsp;&times; 100</p>\n\n<p>&rArr; 23.07% &asymp; 23.1%</p>\n\n<p><strong>&there4; B&#39;s salary is 23.1% less than that of A</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span></strong></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:50%;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">B</td>\n\t\t\t<td style=\"text-align: center;\">A</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align: center;\">100</td>\n\t\t\t<td style=\"text-align: center;\">130</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p><span style=\"\">Percentage Difference =&nbsp;<span class=\"math-tex\">\\(\\frac{130-100}{130}\\)</span></span>&nbsp;&times;&nbsp;100</p>\n\n<p>&rArr; 300/100</p>\n\n<p>&rArr; <span style=\"\">23.07% &asymp; 23.1%</span></p>\n\n<p><span style=\"font-weight: 700; \">&there4; B&#39;s salary is 23.1% less than that of A</span></p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q21",
+      "number": 21,
+      "question": "The price of a bike is ₹75,500. What will be the price of the bike after a reduction of 17%?",
+      "questionHtml": "The price of a bike is ₹75,500. What will be the price of the bike after a reduction of 17%?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹68,650",
+          "html": "₹68,650"
+        },
+        {
+          "id": "B",
+          "text": "₹68,680",
+          "html": "₹68,680"
+        },
+        {
+          "id": "C",
+          "text": "₹62,665",
+          "html": "₹62,665"
+        },
+        {
+          "id": "D",
+          "text": "₹62,650",
+          "html": "₹62,650"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Price of bike = Rs 75,500</p>\n\n<p>Reduction Percentage = 17%</p>\n\n<p><strong>Concept Used:</strong></p>\n\n<p>Price After Reduction = Original Price&nbsp;&ndash; Percentage of Original Price</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Price after reduction = 75500&nbsp;&ndash; 17% of 75500</p>\n\n<p>Price after reduction =&nbsp;<span class=\"math-tex\">\\(75500-\\frac{17}{100}\\times 75500=75500-17\\times755\\)</span></p>\n\n<p>Price after reduction = 75500&nbsp;&ndash; 12835 = Rs 62,665.</p>\n\n<p><strong>&there4; The price of a bike after a reduction of 17% is Rs 62,665.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q22",
+      "number": 22,
+      "question": "The price of a pen is first increased by 15% and later on the price was decreased by 20% due to reduction in sales. Find the net percentage change in the final price of a pen.",
+      "questionHtml": "The price of a pen is first increased by 15% and later on the price was decreased by 20% due to reduction in sales. Find the net percentage change in the final price of a pen.",
+      "options": [
+        {
+          "id": "A",
+          "text": "25%",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">25%</font></font>"
+        },
+        {
+          "id": "B",
+          "text": "8%",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">8%</font></font>"
+        },
+        {
+          "id": "C",
+          "text": "-8%",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">-8%</font></font>"
+        },
+        {
+          "id": "D",
+          "text": "-16%",
+          "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">-16%</font></font>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">The price of a pen is first increased by 15% and later on the price was decreased by 20%</span></p>\n\n<p><strong>Formula used:</strong></p>\n\n<p>Price after increment =&nbsp;<span class=\"math-tex\">\\(\\frac{100+\\text{increment percent}}{100}×\\)</span> Old price<br />\n<strong>Calculation:</strong><br />\nLet the price of the pen be Rs. 100.</p>\n\n<p>Then, its price on 15% increase = 115</p>\n\n<p>The price on 20% decreased =&nbsp;<span class=\"math-tex\">\\(\\frac{100-20}{100}× 115=92\\)</span></p>\n\n<p>Percentage change =&nbsp;<span style=\"font-size:10px;\"><span class=\"math-tex\">\\(\\frac{100-92}{100}× 100=-8\\)</span></span></p>\n\n<p><strong>&there4; The <span style=\"\">net percentage change in the final price of a pen is</span>&nbsp;-8%.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span></strong>&nbsp;Percentage change in area = a + b + ab/100</p>\n\n<p>15 - 20 - (15&nbsp;&times; 20)/100 = - 8%</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q23",
+      "number": 23,
+      "question": "Gaurav earns Rs. 800 per day. After some weeks, he earns Rs. 960 per day. What is the percentage increase in his daily earnings?",
+      "questionHtml": "<p>Gaurav earns Rs. 800 per day. After some weeks, he earns Rs. 960 per day. What is the percentage increase in his daily earnings?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "16%",
+          "html": "16%"
+        },
+        {
+          "id": "B",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "C",
+          "text": "18%",
+          "html": "18%"
+        },
+        {
+          "id": "D",
+          "text": "14%",
+          "html": "14%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Gaurav earns per day = Rs. 800</p>\n\n<p>After a week, he earns = Rs. 960</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>According to the question</p>\n\n<p>Increase in his earnings = Rs. (960&nbsp;<span style=\"\">&ndash;&nbsp;</span>800)</p>\n\n<p>&rArr; Rs. 160</p>\n\n<p>Now,</p>\n\n<p>Percentage increase in his daily earnings = Rs. (160/800&nbsp;&times; 100)</p>\n\n<p>&rArr; 20%</p>\n\n<p><strong>&there4; The required percentage increase in his earnings is 20%</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q24",
+      "number": 24,
+      "question": "The annual salary of Suhas has increased from ₹18,00,000 to ₹22,00,000. What is the percentage increase? (Correct to two decimal places)",
+      "questionHtml": "The annual salary of Suhas has increased from ₹18,00,000 to ₹22,00,000. What is the percentage increase? (Correct to two decimal places)",
+      "options": [
+        {
+          "id": "A",
+          "text": "33.33%",
+          "html": "33.33%"
+        },
+        {
+          "id": "B",
+          "text": "18.18%",
+          "html": "18.18%"
+        },
+        {
+          "id": "C",
+          "text": "81.81%",
+          "html": "81.81%"
+        },
+        {
+          "id": "D",
+          "text": "22.22%",
+          "html": "22.22%"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Original Salary = Rs 18,00,000</p>\n\n<p>Salary after increase = Rs 22,00,000</p>\n\n<p><strong>Concept Used:</strong></p>\n\n<p>Percentage Increase = (Increase&nbsp;&divide; Original Salary) &times; 100</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>&rArr; Increase in annual salary = 2200000&nbsp;&ndash; 1800000</p>\n\n<p>= Rs 4,00,000</p>\n\n<p>&rArr; Percentage Increase =&nbsp;<span class=\"math-tex\">\\(\\frac{400000}{1800000}\\times100\\)</span></p>\n\n<p>&rArr; Percentage Increase =&nbsp;<span class=\"math-tex\">\\(\\frac{2}{9}\\times100=22.22\\)</span>&nbsp;%</p>\n\n<p><b>&nbsp;&there4;The percentage increase in the annual salary is 22.22%</b></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q25",
+      "number": 25,
+      "question": "The price of a TV has been reduced by 20%. In order to restore the original price, the new price must be increased by:",
+      "questionHtml": "The price of a TV has been reduced by 20%. In order to restore the original price, the new price must be increased by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "B",
+          "text": "28%",
+          "html": "28%"
+        },
+        {
+          "id": "C",
+          "text": "31%",
+          "html": "31%"
+        },
+        {
+          "id": "D",
+          "text": "25%",
+          "html": "25%"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">The price of a TV has been reduced by 20%</span></p>\n\n<p><strong><span style=\"\">Calculation:</span></strong></p>\n\n<p>Let the original price be Rs. 100</p>\n\n<p>Reducing price = 100 - 20 =&nbsp;Rs. 80</p>\n\n<p>For getting Rs. 100</p>\n\n<p>Rs. 80 is increased by = Rs. 20&nbsp;</p>\n\n<p>Rs. 1 is increased by = 20/80</p>\n\n<p>Rs. 100 is increased by = Rs (20/80) &times; 100 = 25%&nbsp;</p>\n\n<p><strong>&there4; T<span style=\"\">he new price must be increased by 25%.</span></strong></p>\n\n<p><strong><span style=\"\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span></span></strong>Here, 20% = 1/5</p>\n\n<p>Ratio of original to reduced price = 5 : 4</p>\n\n<p><span style=\"\">To restore the original price, we have ratio = 4 : 5</span></p>\n\n<p><span style=\"\">So, 1 unit increase out of 4 units</span></p>\n\n<p>&rArr; 1/4 = 25% increase</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q26",
+      "number": 26,
+      "question": "If A&rsquo;s income is 40% more than the income of B, then what percentage of B&rsquo;s income is less than income of A?",
+      "questionHtml": "If A&rsquo;s income is 40% more than the income of B, then what percentage of B&rsquo;s income is less than income of A?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(27\\frac{4}{7}\\% \\)",
+          "html": "<span class=\"math-tex\">\\(27\\frac{4}{7}\\% \\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(28\\frac{5}{7}\\% \\)",
+          "html": "<span class=\"math-tex\">\\(28\\frac{5}{7}\\% \\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(27\\frac{5}{7}\\% \\)",
+          "html": "<span class=\"math-tex\">\\(27\\frac{5}{7}\\% \\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(28\\frac{4}{7}\\% \\)",
+          "html": "<span class=\"math-tex\">\\(28\\frac{4}{7}\\% \\)</span>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Let the income of B be 100</p>\n\n<p>&there4; Income of A = 140</p>\n\n<p>B&rsquo;s income is less than income of A by (140 - 100) = 40</p>\n\n<p>Required percentage&nbsp;<span class=\"math-tex\">\\(= \\frac{{40}}{{140}} \\times 100 = \\frac{{200}}{7} = 28\\frac{4}{7}\\% \\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q27",
+      "number": 27,
+      "question": "A person's salary increased from Rs. 8,100 to Rs. 9,000. What is the percentage increase in his salary?",
+      "questionHtml": "A person&#39;s salary increased from Rs.&nbsp;8,100&nbsp;to Rs. 9,000. What is the percentage increase in his salary?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(6 \\frac 1 9 \\%\\)",
+          "html": "<span class=\"math-tex\">\\(6 \\frac 1 9 \\%\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(11 \\frac 1 9 \\%\\)",
+          "html": "<span class=\"math-tex\">\\(11 \\frac 1 9 \\%\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(9 \\frac 1 9 \\%\\)",
+          "html": "<span class=\"math-tex\">\\(9 \\frac 1 9 \\%\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(13 \\frac 7 9 \\%\\)",
+          "html": "<span class=\"math-tex\">\\(13 \\frac 7 9 \\%\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Calculation:</strong></p>\n\n<p>Initial salary = Rs. 8100</p>\n\n<p>Increased salary = Rs. 9000</p>\n\n<p>Percentage increased = (Initial salary – Increased salary)/Initial salary × 100</p>\n\n<p>⇒ Required percent = (9000 – 8100)/8100 × 100</p>\n\n<p>⇒ Required percent = 900/8100 × 100</p>\n\n<p>⇒ Required percent = 1/9 × 100</p>\n\n<p>⇒ Required percent = 100/9%</p>\n\n<p>⇒ Required percent = <span class=\"math-tex\">\\(11\\frac{1}{9}\\% \\)</span></p>\n<strong>∴ The percentage increase in his salary is <span class=\"math-tex\">\\(11\\frac{1}{9}\\% \\)</span></strong><strong>.</strong>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q28",
+      "number": 28,
+      "question": "A woman earns Rs. 1,000/ day. After some weeks, she earns Rs. 1,160/ day. By how much percentage did her earnings increase?",
+      "questionHtml": "A woman earns Rs. 1,000/ day. After some weeks, she earns Rs. 1,160/ day. By how much percentage did her earnings increase?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "18%",
+          "html": "18%"
+        },
+        {
+          "id": "B",
+          "text": "16%",
+          "html": "16%"
+        },
+        {
+          "id": "C",
+          "text": "17%",
+          "html": "17%"
+        },
+        {
+          "id": "D",
+          "text": "15%",
+          "html": "15%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Woman earns Rs. 1000/day</p>\n\n<p>Increased earning = Rs. 1160/day</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>Percentage increased = (Difference/Actual)&nbsp;&times; 100</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>{(1160&nbsp;&ndash; 1000)/1000}&nbsp;&times; 100</p>\n\n<p>&rArr; (160/1000) &times; 100</p>\n\n<p>&rArr; 16</p>\n\n<p>&rArr; Increased&nbsp;% = 16%</p>\n\n<p><strong>&there4; Her earnings increase by 16%</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q29",
+      "number": 29,
+      "question": "The price of an article is first increased by 25% and later on, the price was decreased by 30% due to a reduction in sales. Find the net percentage change in the final price of the article.",
+      "questionHtml": "The price of an article is first increased by 25% and later on, the price was decreased by 30% due to a reduction in sales. Find the net percentage change in the final price of the article.",
+      "options": [
+        {
+          "id": "A",
+          "text": "11.5% increased",
+          "html": "11.5% increased"
+        },
+        {
+          "id": "B",
+          "text": "14% decreased",
+          "html": "14% decreased"
+        },
+        {
+          "id": "C",
+          "text": "13% increased",
+          "html": "13% increased"
+        },
+        {
+          "id": "D",
+          "text": "12.5% decreased",
+          "html": "12.5% decreased"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Increase in price of article first = 25%</p>\n\n<p>Decrease in price of article = 30%</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>&rArr; Let the price of the article be Rs 100.</p>\n\n<p>&rArr; Price after increase = 100 + 25% of 100</p>\n\n<p>&rArr; Price after increase = 100 +&nbsp;<span class=\"math-tex\">\\(\\frac{25}{100}\\times 100\\)</span>&nbsp;= 100 + 25 = Rs 125</p>\n\n<p>&rArr; Then, price after reduction of 30% = 125&nbsp;&ndash; 30% of 125</p>\n\n<p>&rArr; Price after reduction = 125&nbsp;&ndash;&nbsp;<span class=\"math-tex\">\\(\\frac{30}{100}\\times 125\\)</span>&nbsp;= 125&nbsp;&ndash; 37.5 = Rs 87.5</p>\n\n<p>&rArr; Decrease in the final price = 100&nbsp;&ndash; 87.5 = Rs 12.5</p>\n\n<p>&rArr; Percentage decrease in the final price =&nbsp;<span class=\"math-tex\">\\(\\frac{12.5}{100}\\)</span>&nbsp;&times; 100 = 12.5%</p>\n\n<p><strong>Therefore, the net percentage change in the final price of the article is 12.5% decrease.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q30",
+      "number": 30,
+      "question": "In an election that was contested by 2 candidates, one candidate got 20% of the total votes and yet lost by 600 votes. What is the total number of votes cast in the election assuming all votes are valid?",
+      "questionHtml": "In an election that was contested by 2 candidates, one candidate got 20% of the total votes and yet lost by 600 votes. What is the total number of votes cast in the election assuming all votes are valid?",
+      "options": [
+        {
+          "id": "A",
+          "text": "900",
+          "html": "900"
+        },
+        {
+          "id": "B",
+          "text": "700",
+          "html": "700"
+        },
+        {
+          "id": "C",
+          "text": "800",
+          "html": "800"
+        },
+        {
+          "id": "D",
+          "text": "1000",
+          "html": "1000"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(30, 43, 51);  \"><span style=\"font-weight: bolder;  line-height: 20px;\">Given:</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Percentage of votes got by losing candidates = 20%</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Number of votes by which losing candidate lost = 600 votes</p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"font-weight: bolder;  line-height: 20px;\">Concept used:</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Total number of votes = Number of votes secured by A + Number of votes secured by B</p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"font-weight: bolder;  line-height: 20px;\">Calculation:</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Let the total number of votes be x.</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Number of votes losing candidate got = x &times; (20/100)</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">&rArr; 0.20x</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Number of votes winning candidate got = 0.20x + 600</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Then, Total number of votes = 0.20x + 0.20x + 600 = x</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">&rArr; 0.40x + 600 = x</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">&rArr; x &ndash; 0.40x = 600</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">&rArr; 0.60x = 600</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">&rArr; x = 1000</p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"font-weight: bolder;  line-height: 20px;\">&there4; The total number of votes is 1000.</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"font-weight: bolder;  line-height: 20px;\"><span style=\"display: flex; gap: 6px; align-items: center;\"><span style=\"font-weight: bolder; line-height: 20px;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></span></span></span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Let the total vote be 100%.</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">The winner received 80% of the total votes.&nbsp;</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">The Loser&nbsp;received 20% of the total votes.&nbsp;</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Difference = 80% - 20% = 60%</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Value of 60%&nbsp;<span style=\"line-height: 16.1px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&equiv; 600</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \">&rArr; 100%&nbsp;<span style=\"line-height: 16.1px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&equiv; 1000</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"font-weight: 700;\">&there4; The total number of votes is 1000.</span></p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q31",
+      "number": 31,
+      "question": "A number is first increased by 25% and then decreased by 10%. If the resulting number is 72, what is the original number?",
+      "questionHtml": "<p>A number is first increased by 25% and then decreased by 10%. If the resulting number is 72, what is the original number?</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "75",
+          "html": "75"
+        },
+        {
+          "id": "B",
+          "text": "84",
+          "html": "84"
+        },
+        {
+          "id": "C",
+          "text": "64",
+          "html": "64"
+        },
+        {
+          "id": "D",
+          "text": "56",
+          "html": "56"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>GIVEN:</strong></p>\n\n<p>resulting number = 72</p>\n\n<p><strong>FORMULA USED:</strong><br />\nSuccessive percentage change = X -&nbsp;Y -X Y /100&nbsp; &nbsp; &nbsp;Where X and Y are percentage increase and decrease respectively</p>\n\n<p><strong>CALCULATION:</strong></p>\n\n<p>Let the original number be&nbsp;<span class=\"math-tex\">\\(x\\)</span></p>\n\n<p>Here, X = 25 % increase , Y = 10% decrease&nbsp;</p>\n\n<p>Successive % change = 25 - 10 -( 25&times;10/100 )= +&nbsp; 12.5%&nbsp; ( +) sign shows increase.</p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(x + 12.5\\)</span>%<span class=\"math-tex\">\\(x\\)</span>&nbsp;=&nbsp; 72.</p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(x + \\frac{125}{1000}x =72.\\)</span></p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\(x +\\frac{1}{8} x = 72.\\)</span>&nbsp; &nbsp;&hArr; 9x/8 = 72&nbsp;&hArr; x = 64.</p>\n\n<p><strong>Hence, the original number is 64.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span>&nbsp;Let the original number = x&nbsp;</p>\n\n<p>According to the question,</p>\n\n<p>&rArr; x&nbsp;&times; (125/100)&nbsp;&times; (90/100) = 72</p>\n\n<p>&rArr; x&nbsp;&times; (5/4)&nbsp;&times; (9/10) = 72</p>\n\n<p>&rArr; x&nbsp;&times; 45/40 = 72</p>\n\n<p>&rArr; x = 72&nbsp;&times; 40/45</p>\n\n<p>&rArr; x = 64</p>\n\n<p><span style=\"font-weight: bolder;\">Hence, the original number is 64.</span></p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q32",
+      "number": 32,
+      "question": "The current population of a village is 1000 and its population is increasing at the rate of 10% every year. What will be the population of the village after three years?",
+      "questionHtml": "The current population of a village is 1000 and its population is increasing at the rate of 10% every year. What will be the population of the village after three years?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1331",
+          "html": "1331"
+        },
+        {
+          "id": "B",
+          "text": "1500",
+          "html": "1500"
+        },
+        {
+          "id": "C",
+          "text": "1210",
+          "html": "1210"
+        },
+        {
+          "id": "D",
+          "text": "1100",
+          "html": "1100"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p style=\"color: rgb(30, 43, 51);  \"><span style=\"font-weight: bolder;  line-height: 20px;\">Given:</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Population (P) = 1000</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Percentage (R) = 10%</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Time (T) = 3 years&nbsp;</p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"font-weight: bolder;  line-height: 20px;\">Formula used:</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \">Total population = P( 1 + R/100)<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">T</span>&nbsp; &nbsp;</p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"font-weight: bolder;  line-height: 20px;\">Calculations:</span></p>\n\n<p style=\"color: rgb(30, 43, 51);  \">According to question,</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">1000&nbsp;&times; (1 + 10/100)<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3</span>&nbsp; &nbsp;</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">= 1000&nbsp;&times; (11/10)<span style=\" line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;font-size:10.5px;\">3&nbsp;</span>&nbsp;&nbsp;</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">= 1000&nbsp;&times; (1331/1000)</p>\n\n<p style=\"color: rgb(30, 43, 51);  \">= 1331</p>\n\n<p style=\"color: rgb(30, 43, 51);  \"><span style=\"font-weight: bolder;  line-height: 20px;\">&there4; 1331 is the population after 3 years .</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q33",
+      "number": 33,
+      "question": "A runner is running at a speed of 40 km/h. If he runs at a speed of 30 km/h, then what will the decrease in the percentage of his speed be?",
+      "questionHtml": "A runner is running at a speed of 40 km/h. If he runs at a speed of 30 km/h, then what will the decrease in the percentage of his speed be?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15%",
+          "html": "15%"
+        },
+        {
+          "id": "B",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "C",
+          "text": "25%",
+          "html": "25%"
+        },
+        {
+          "id": "D",
+          "text": "30%",
+          "html": "30%"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>A runner is running at a speed = 40 km/hr</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>His speed in starting = 40 km/hr</p>\n\n<p>His speed in last = 30 km/hr</p>\n\n<p>He decreases his speed = 40 - 30 = 10&nbsp;km/hr</p>\n\n<p>&there4; He decreases his speed (in %) = (10/40)&nbsp;&times; 100 = 25%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q34",
+      "number": 34,
+      "question": "The price of petrol was raised by 15% By how much percentage should a motorist reduce the consumption of petrol so that the expenditure on it does not increase?",
+      "questionHtml": "The price of petrol was raised by 15% By how much percentage should a motorist reduce the consumption of petrol so that the expenditure on it does not increase?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(9\\frac{2}{{11}}\\% \\)",
+          "html": "<span class=\"math-tex\">\\(9\\frac{2}{{11}}\\% \\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(15\\frac{3}{{13}}\\%\\)",
+          "html": "<span class=\"math-tex\">\\(15\\frac{3}{{13}}\\%\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(13\\frac{1}{{23}}\\%\\)",
+          "html": "<span class=\"math-tex\">\\(13\\frac{1}{{23}}\\%\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(6\\frac{7}{8}\\%\\)",
+          "html": "<span class=\"math-tex\">\\(6\\frac{7}{8}\\%\\)</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let the price of the petrol be 100x</p>\n\n<p>Price of the petrol after increment = 100x &times; (115/100) = 115x</p>\n\n<p>Ratio of petrol price before and after = 115x : 100x</p>\n\n<p>As we know</p>\n\n<p>Price inversely proportional to consumption</p>\n\n<p>Ratio of consumption of petrol before and after increment = 115x : 100x</p>\n\n<p>Consumption of petrol decreased by = (115x &ndash; 100x)/115 &times; 100 =&nbsp;<span class=\"math-tex\">\\(13\\frac{1}{{23}}{\\rm{\\% }}\\)</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q35",
+      "number": 35,
+      "question": "In an examination, Gopal secured 15% more marks than Asha, and Asha secured 10% more marks than Sachin. How much per cent more marks did Gopal secure than Sachin?",
+      "questionHtml": "In an examination, Gopal secured 15% more marks than Asha, and Asha secured 10% more marks than Sachin. How much per cent more marks did Gopal secure than Sachin?",
+      "options": [
+        {
+          "id": "A",
+          "text": "25.5%",
+          "html": "25.5%"
+        },
+        {
+          "id": "B",
+          "text": "26.5%",
+          "html": "26.5%"
+        },
+        {
+          "id": "C",
+          "text": "25%",
+          "html": "25%"
+        },
+        {
+          "id": "D",
+          "text": "24.5%",
+          "html": "24.5%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"\"><span style=\"font-weight: 700;\">Given:</span></p>\n\n<p style=\"\">Marks scored by Gopal = 15% more than Asha</p>\n\n<p style=\"\">Marks scored by Asha = 10% more than Sachin</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Concept Used:</span></p>\n\n<p style=\"\">Percentage Marks Scored = Required Percentage&nbsp;&times; Total Marks</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Calculation:</span></p>\n\n<p style=\"\">&rArr; Let the marks scored by Sachin be x.</p>\n\n<p style=\"\">&rArr; Marks scored by Asha = x + 10% of x</p>\n\n<p style=\"\">&rArr; Marks scored by Asha =&nbsp;<span class=\"math-tex\">\\(x+\\frac{x}{10}=\\frac{11x}{10}\\)</span></p>\n\n<p style=\"\">&rArr; Marks scored by Gopal =&nbsp;<span class=\"math-tex\">\\(\\frac{11x}{10}+\\frac{15}{100}×\\frac{11x}{10}\\)</span></p>\n\n<p style=\"\">&rArr; Marks scored by Gopal =&nbsp;<span class=\"math-tex\">\\(\\frac{11x}{10}+\\frac{33x}{200}=\\frac{220x+33x}{200}=\\frac{253x}{200}\\)</span></p>\n\n<p style=\"\">&rArr; Difference between Gopal and Sachin marks =&nbsp;<span class=\"math-tex\">\\(\\frac{253x}{200}-x=\\frac{53x}{200}\\)</span></p>\n\n<p style=\"\">&rArr; Percentage marks Gopal scored more than Sachin =&nbsp;<span class=\"math-tex\">\\(\\frac{\\frac{53x}{200}}{{\\frac{x}{1}}}×100\\)</span></p>\n\n<p style=\"\">&rArr; Percentage marks Gopal scored more than Sachin =&nbsp;<span class=\"math-tex\">\\(\\frac{53}{200}×100=26.5\\)</span>&nbsp;%</p>\n\n<p style=\"\"><span style=\"font-weight: 700;\">Hence, Gopal scored 26.5 % more marks than Sachin.</span></p>\n\n<p style=\"\"><span style=\"font-weight: 700;\"><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Shortcut Trick</u></span></strong></span></span>Let marks scored by Sachin&nbsp;= 100</p>\n\n<p style=\"\">Then marks scored by Asha&nbsp;= 100 + 10&nbsp;= 110</p>\n\n<p style=\"\">Marks scored by Gopal = 110&nbsp;+ 15% &times; 110&nbsp;=&nbsp;</p>\n\n<p style=\"\">&rArr; 110&nbsp;+ 16.5 = 126.5</p>\n\n<p style=\"\">So, Gopal scored 26.5% more than Sachin.</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q36",
+      "number": 36,
+      "question": "A number is increased by 25%, and subsequently decreased by 15%. Find the percentage of net increase or decrease.",
+      "questionHtml": "A number is increased by 25%, and subsequently decreased by 15%. Find the percentage of net increase or decrease.",
+      "options": [
+        {
+          "id": "A",
+          "text": "7.93% decrease",
+          "html": "7.93% decrease"
+        },
+        {
+          "id": "B",
+          "text": "6.25% increase",
+          "html": "6.25% increase&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "7.23% increase",
+          "html": "7.23% increase"
+        },
+        {
+          "id": "D",
+          "text": "9.18% decrease",
+          "html": "9.18% decrease"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Number is increased by 25%.</p>\n\n<p>Number is decreased by 15%.</p>\n\n<p><strong>Concept used:</strong></p>\n\n<p>Percentage change = a + (-&nbsp;b) + (-ab)/100</p>\n\n<p>If the result is with negative sign then decrease otherwise increase.</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Percentage change = 25 - 15 - (25&nbsp;&times; 15)/100</p>\n\n<p>&rArr; 25 - 15 - 375/100&nbsp;</p>\n\n<p>&rArr; 25 - 15 - 3.75</p>\n\n<p>&rArr; 25 - 18.75 = 6.25</p>\n\n<p><strong>&there4; The net increase is 6.25%&nbsp;</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q37",
+      "number": 37,
+      "question": "If a person&rsquo;s salary increases from ₹200 per day to ₹234 per day, then the percentage increase in the person&rsquo;s salary is:",
+      "questionHtml": "If a person&rsquo;s salary increases from ₹200 per day to ₹234 per day, then the percentage increase in the person&rsquo;s salary is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "16%",
+          "html": "16%"
+        },
+        {
+          "id": "B",
+          "text": "17%",
+          "html": "17%"
+        },
+        {
+          "id": "C",
+          "text": "15%",
+          "html": "15%"
+        },
+        {
+          "id": "D",
+          "text": "14%",
+          "html": "14%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Percentage Increase = <span class=\"math-tex\">\\(\\dfrac{234 - 200}{200} × 100\\)</span> ⇒ Percentage Increase = 17%</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q38",
+      "number": 38,
+      "question": "If the income of A is 24% less than income of B, then what percentage is B&rsquo;s income is more than that of A?",
+      "questionHtml": "If the income of A is 24% less than income of B, then what percentage is B&rsquo;s income is more than that of A?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{{600}}{{17}}\\% \\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{{600}}{{17}}\\% \\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{{600}}{{29}}\\%\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{{600}}{{29}}\\%\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{{600}}{{19}}\\%\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{{600}}{{19}}\\%\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{{600}}{{31}}\\%\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{{600}}{{31}}\\%\\)</span>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Let the income of B be 100x</p>\n\n<p>Income of A = 100x &times; (76/100) = 76x</p>\n\n<p>Income of B more than the income of A by = 100x - 76x = 24x</p>\nRequired percentage = (24x/76x) &times; 100 = 600/19%",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q39",
+      "number": 39,
+      "question": "Pass percentage of an examination is 35%. If a student who get 210 marks, failed by 14 marks, then what are the maximum marks of the examination?",
+      "questionHtml": "Pass percentage of an examination is 35%. If a student who get 210 marks, failed by 14 marks, then what are the maximum marks of the examination?",
+      "options": [
+        {
+          "id": "A",
+          "text": "600",
+          "html": "600"
+        },
+        {
+          "id": "B",
+          "text": "660",
+          "html": "660"
+        },
+        {
+          "id": "C",
+          "text": "620",
+          "html": "620"
+        },
+        {
+          "id": "D",
+          "text": "640",
+          "html": "640"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\">Let, the total marks is x</p>\n\n<p style=\"color: rgb(30, 43, 51);   user-select: text !important; pointer-events: initial !important;\">⇒ (35x/100) = 210 + 14 ⇒ <span style=\"color: rgb(30, 43, 51);\">(35x/100) </span><span style=\"color: rgb(30, 43, 51);\">= 224</span> ⇒ x = 22400/35 ⇒ x = 640</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q40",
+      "number": 40,
+      "question": "By what number must a given number be multiplied to increase the number by 25%.",
+      "questionHtml": "By what number must a given number be multiplied to increase the number by 25%.",
+      "options": [
+        {
+          "id": "A",
+          "text": "2/5",
+          "html": "2/5"
+        },
+        {
+          "id": "B",
+          "text": "3/4",
+          "html": "3/4"
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "html": "3"
+        },
+        {
+          "id": "D",
+          "text": "5/4",
+          "html": "5/4"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Calculations:</strong></p>\n\n<p>Let the number be x.</p>\n\n<p>After increasing by 25%,</p>\n\n<p>New number = x + (x&nbsp;&times; 25%)</p>\n\n<p>&rArr; x + (x/4)</p>\n\n<p>&rArr; 5x/4</p>\n<strong>&there4; The number should be multiplied by 5/4.</strong>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q41",
+      "number": 41,
+      "question": "The salary of a worker is first increased by 25%, then it is decreased by 12%. The percentage change in his salary is:",
+      "questionHtml": "The salary of a worker is first increased by 25%, then it is decreased by 12%. The percentage change in his salary is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10% increase",
+          "html": "10% increase"
+        },
+        {
+          "id": "B",
+          "text": "13% increase",
+          "html": "13% increase"
+        },
+        {
+          "id": "C",
+          "text": "10% decrease",
+          "html": "10% decrease"
+        },
+        {
+          "id": "D",
+          "text": "13% decrease",
+          "html": "13% decrease"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Initial salary = 100 units</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">New Salary after 25% increase = 100 + 25 = 125 units</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Final Salary after 12% decrease = 125 - 15 = 110 units</span></p>\n\n<p><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">Percentage Change = (110 - 100) / 100 × 100 = 10% increase</span></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q42",
+      "number": 42,
+      "question": "Bala decided to donate 10% of his salary to PM Care Fund. On the day of donation, he changed his mind and donated Rs. 1,800 which was 60% of what he had decided earlier. How much is his salary?",
+      "questionHtml": "Bala decided to donate 10% of his salary to PM Care Fund. On the day of donation, he changed his mind and donated Rs. 1,800 which was 60% of what he had decided earlier. How much is his salary?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 36,000",
+          "html": "Rs. 36,000"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 32,000",
+          "html": "Rs. 32,000"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 30,000",
+          "html": "Rs. 30,000"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 40,000",
+          "html": "Rs. 40,000"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given&nbsp;</strong></p>\n\n<p>Bala donated money = Rs 1800</p>\n\n<p><strong>Formula Used&nbsp;</strong></p>\n\n<p>Percentage = (required/actual)&nbsp;&times;&nbsp;100&nbsp;</p>\n\n<p><strong>Calculation&nbsp;</strong></p>\n\n<p>&rArr; Let the Bala&#39;s salary is 100x&nbsp;&nbsp;</p>\n\n<p>&rArr; he decide to donate his salary&nbsp; = 10%&nbsp;of 100x = 10x&nbsp;</p>\n\n<p>&rArr;But, he donate money = 60% of 10x = 6x&nbsp;</p>\n\n<p>&rArr; 6x = Rs1800&nbsp;</p>\n\n<p>&rArr; x = 300</p>\n\n<p>&rArr; 100x = 100&nbsp;&times; 300 = Rs 30000</p>\n\n<p>&there4; the Bala&#39;s salary is Rs 30000</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q43",
+      "number": 43,
+      "question": "A number is increased by 10% and then the increased number is decreased by 20%. The net increase or decrease is:",
+      "questionHtml": "A number is increased by 10% and then the increased number is decreased by 20%. The net increase or decrease is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "18% decrease",
+          "html": "18% decrease"
+        },
+        {
+          "id": "B",
+          "text": "2% decrease",
+          "html": "2% decrease"
+        },
+        {
+          "id": "C",
+          "text": "12% decrease",
+          "html": "12% decrease"
+        },
+        {
+          "id": "D",
+          "text": "12% increase",
+          "html": "12% increase"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>Use the successive percentage change formula: Net Change % = a + b + (a × b)/100</p>\n<p>Here, a = +10% (increase) and b = −20% (decrease).</p>\n<p>Net Change = 10 − 20 + (10 × (−20))/100</p>\n<p>Net Change = −10 − 2 = −12%</p>\n<p>Negative sign indicates a decrease.</p>\n<p><strong>∴ The correct answer is 12% decrease.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p>Given: Initial increase = 10%, Subsequent decrease = 20%.</p>\n<p>Formula: Final Value = Initial Value × (100 + r<sub>1</sub>)/100 × (100 + r<sub>2</sub>)/100</p>\n<svg width='420' height='200' viewBox='0 0 420 200' xmlns='http://www.w3.org/2000/svg' style='display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;'>\n  <rect x='40' y='60' width='100' height='30' fill='#ddeeff' stroke='#2255cc' stroke-width='1.5' />\n  <text x='90' y='80' text-anchor='middle' fill='#222222' font-size='13'>Initial: 100</text>\n  <path d='M 140 75 L 180 75' stroke='#cc5500' stroke-width='2' fill='none' marker-end='url(#arrow)' />\n  <text x='160' y='65' text-anchor='middle' fill='#cc5500' font-size='11'>+10%</text>\n  <rect x='180' y='60' width='100' height='30' fill='#fff0cc' stroke='#cc5500' stroke-width='1.5' />\n  <text x='230' y='80' text-anchor='middle' fill='#222222' font-size='13'>Step 1: 110</text>\n  <path d='M 280 75 L 320 75' stroke='#cc0000' stroke-width='2' fill='none' marker-end='url(#arrow)' />\n  <text x='300' y='65' text-anchor='middle' fill='#cc0000' font-size='11'>−20%</text>\n  <rect x='320' y='60' width='80' height='30' fill='#ccffcc' stroke='#007700' stroke-width='1.5' />\n  <text x='360' y='80' text-anchor='middle' fill='#222222' font-size='13'>Final: 88</text>\n  <path d='M 90 90 Q 225 150 360 90' stroke='#888888' stroke-width='1.5' stroke-dasharray='5,3' fill='none' />\n  <text x='225' y='160' text-anchor='middle' fill='#2255cc' font-weight='bold' font-size='14'>Net Change: 100 → 88 = 12% decrease</text>\n  <defs>\n    <marker id='arrow' viewBox='0 0 10 10' refX='5' refY='5' markerWidth='4' markerHeight='4' orient='auto-start-reverse'>\n      <path d='M 0 0 L 10 5 L 0 10 z' fill='#222222' />\n    </marker>\n  </defs>\n</svg>\n<p>⇒ Let the initial number be 100.</p>\n<p>⇒ Number after 10% increase = 100 + (10% of 100) = 110.</p>\n<p>⇒ Number after 20% decrease = 110 − (20% of 110).</p>\n<p>⇒ 20% of 110 = (20 ÷ 100) × 110 = 22.</p>\n<p>⇒ Final number = 110 − 22 = 88.</p>\n<p>⇒ Net decrease = Initial − Final = 100 − 88 = 12.</p>\n<p>⇒ Net decrease percentage = (12 ÷ 100) × 100 = 12%.</p>\n<p><strong>∴ The correct answer is 12% decrease.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Successive Percentage Formula</p>\n<p style='margin:0 0 8px 0;color:#444444;'>For two successive changes of x% and y%, the net change is given by [x + y + (xy/100)]%. Use positive for increase and negative for decrease.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Product Stability Ratio</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If a value increases by x/y, it must decrease by x/(x+y) to return to the original value.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Successive Discounts</p>\n<p style='margin:0 0 8px 0;color:#444444;'>If two discounts d<sub>1</sub>% and d<sub>2</sub>% are given, the single equivalent discount is [d<sub>1</sub> + d<sub>2</sub> − (d<sub>1</sub> × d<sub>2</sub>)/100]%.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q44",
+      "number": 44,
+      "question": "A number which, when increased by 16% becomes 1914. The number is∶",
+      "questionHtml": "A number which, when increased by 16% becomes 1914. The number is∶",
+      "options": [
+        {
+          "id": "A",
+          "text": "2220",
+          "html": "2220"
+        },
+        {
+          "id": "B",
+          "text": "1650",
+          "html": "1650"
+        },
+        {
+          "id": "C",
+          "text": "2010",
+          "html": "2010"
+        },
+        {
+          "id": "D",
+          "text": "1780",
+          "html": "1780"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let the number be 100x,</p>\n\n<p>According to the question</p>\n\n<p>100x &times; (116/100) = 1914</p>\n\n<p>116x = 1914</p>\n\n<p>x = 1914/116 = 16.5</p>\nHence, the number = 100x = 100 &times; 16.5 = 1650",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q45",
+      "number": 45,
+      "question": "What percentage of Rs 124 is Rs. 49.60?",
+      "questionHtml": "What percentage of Rs 124 is Rs. 49.60?",
+      "options": [
+        {
+          "id": "A",
+          "text": "250",
+          "html": "250"
+        },
+        {
+          "id": "B",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "C",
+          "text": "123",
+          "html": "123"
+        },
+        {
+          "id": "D",
+          "text": "40",
+          "html": "40"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p><strong>Formula:</strong></p>\n\n<p>Percentage = (a/b) &times; 100</p>\n\n<p>Where, a = given value, b = reference value</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Percentage = (49.6/124) &times; 100 = 40%</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q46",
+      "number": 46,
+      "question": "X&rsquo;s salary is increased by 20% and then decreased by 20%. What is the change in salary?",
+      "questionHtml": "X&rsquo;s salary is increased by 20% and then decreased by 20%. What is the change in salary?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4% decrease",
+          "html": "4% decrease"
+        },
+        {
+          "id": "B",
+          "text": "4% increase",
+          "html": "4% increase"
+        },
+        {
+          "id": "C",
+          "text": "2% decrease",
+          "html": "2% decrease"
+        },
+        {
+          "id": "D",
+          "text": "2% increase",
+          "html": "2% increase"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>GIVEN:</strong></p>\n\n<p>X&#39;s salary is increased by 20% and then decreased by 20% .</p>\n\n<p><strong>FORMULA USED:</strong></p>\n\n<p>when one percentage change is positive and the other is negative ,</p>\n\n<p>net percentage change = (x-y-xy/100)% , where x and y are successive percentage change respectively.</p>\n\n<p><strong>CALCULATION:</strong></p>\n\n<p>When X&#39;s salary is increased i.e. the percentage change is positive = 20%</p>\n\n<p>When X&#39;s salary is decreased i.e. the percentage change is negative = 20%</p>\n\n<p>Hence, net percentage change = ( 20 -20 -400/100)% = -4% , where - sign shows decrease .</p>\n\n<p><strong>&there4;&nbsp;Change in salary is -4% i.e. 4% decrease .</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" />&nbsp;<strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></strong></p>\n\n<p><strong>FORMULA USED :</strong></p>\n\n<p>Change in salary = ( new salary -original salary )/original salary&nbsp;&times; 100</p>\n\n<p>Let the initial salary of X&#39;s be 100</p>\n\n<p>20% increase in salary =&nbsp;100 + (20% of 100) = 100+20 = 120.</p>\n\n<p>20% decrease in salary = 120 - (20% of 120) = 120- 24 = 96.</p>\n\n<p>Hence, new salary&nbsp; after increment and decrement = 96</p>\n\n<p>original salary = 100&nbsp;</p>\n\n<p>decrease&nbsp;&nbsp;in salary = (new salary - original&nbsp;&nbsp;salary)/original salary&nbsp;&times; 100</p>\n\n<p>&rArr;&nbsp;<span class=\"math-tex\">\\((96 -100)\\over 100\\)</span>&nbsp;&times; 100 = -4%&nbsp; where , - sign shows decrease&nbsp;</p>\n\n<p><strong>&there4; Overall change in salary is -4% or decrease in 4%.</strong></p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q47",
+      "number": 47,
+      "question": "If the income of A is 40% more than the income of B, then by what percentage is B&rsquo;s income less than that income of A?",
+      "questionHtml": "If the income of A is 40% more than the income of B, then by what percentage is B&rsquo;s income less than that income of A?",
+      "options": [
+        {
+          "id": "A",
+          "text": "230/7%",
+          "html": "230/7%"
+        },
+        {
+          "id": "B",
+          "text": "56%",
+          "html": "56%"
+        },
+        {
+          "id": "C",
+          "text": "25%",
+          "html": "25%"
+        },
+        {
+          "id": "D",
+          "text": "200/7%",
+          "html": "200/7%"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Given,</p>\n\n<p>&rArr; A = B + B &times; 40/100</p>\n\n<p>&rArr; A = 7B/5</p>\n\n<p>Then,</p>\n\n<p>&rArr; B = A &ndash; A &times; ?/100</p>\n\n<p>&rArr; B = 7B/5 &ndash; (7B/5) &times; (?/100)</p>\n\n<p>&rArr; 2B/5 = (7B/5) &times; (?/100)</p>\n\n<p>&rArr; ? = 200/7%</p>\n\n<p>B&#39;s income is 200/7% less than A&#39;s.</p>\n\n<p><strong>Short Trick∶</strong></p>\n\n<p>Let B&rsquo;s income 100X.</p>\n\n<p>Then A&rsquo;s income 140X</p>\nRequired percentage = (140X &ndash; 100X)/140 &times; 100 = 200/7 %",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q48",
+      "number": 48,
+      "question": "The price of a motorcycle was $750 last year. The price increased by 20% this year. What is the price of the motorcycle this year?",
+      "questionHtml": "The price of a motorcycle was $750 last year. The price increased by 20% this year. What is the price of the motorcycle this year?&nbsp;",
+      "options": [
+        {
+          "id": "A",
+          "text": "$600",
+          "html": "$600"
+        },
+        {
+          "id": "B",
+          "text": "$750",
+          "html": "$750"
+        },
+        {
+          "id": "C",
+          "text": "$790",
+          "html": "$790"
+        },
+        {
+          "id": "D",
+          "text": "$900",
+          "html": "$900"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Price = 750</p>\n\n<p>This Year's Price = 750 + (750 × 20%) = 750 + 150 = 900</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q49",
+      "number": 49,
+      "question": "A person received a yearly salary hike of 15%, 20%, and 25% in 3 successive years. What is the total salary of the person after 3 years if his initial salary was Rs. 20,000?",
+      "questionHtml": "A person received a yearly salary hike of 15%, 20%, and 25% in 3 successive years. What is the total salary of the person after 3 years if his initial salary was Rs. 20,000?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 34,500",
+          "html": "<span style=\"\">Rs. 34,500</span>"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 35,000",
+          "html": "<span style=\"\">Rs. 35,000</span>"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 30,000",
+          "html": "<span style=\"\">Rs. 30,000</span>"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 32,500",
+          "html": "<span style=\"\">Rs. 32,500</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:-</strong>&nbsp;Successive hike of 15%, 20% and 25% are received by person and initial salary was Rs. 20,000</p>\n\n<p><strong>To find:-</strong>&nbsp;The salary after 3 years</p>\n\n<p><strong>Concept used:-</strong>&nbsp;If a number <strong>Z,</strong> is successively increased by <strong>a%</strong> and <strong>b%</strong> then the final number will be, <b>Final number = Z&nbsp;&times;&nbsp;<span class=\"math-tex\">\\(\\left(1+\\frac{a}{100}\\right)\\times \\left(1+\\frac{b}{100}\\right)\\)</span></b>&nbsp;</p>\n\n<p><strong>Calculation:-</strong> The hikes received by person are of 15%, 20% and 25% in successive years,</p>\n\n<p>By using the formula of successive percentage-</p>\n\n<p>Let the final salary be x,</p>\n\n<p>&rArr;x =&nbsp;<span class=\"math-tex\">\\(\\left(1+\\frac{15}{100}\\right)\\times\\left(1+\\frac{20}{100}\\right)\\times\\left(1+\\frac{25}{100}\\right)\\times 20,000\\)</span></p>\n\n<p>&rArr;x =&nbsp;<span class=\"math-tex\">\\(\\left(1+\\frac{3}{20}\\right)\\times\\left(1+\\frac{1}{5}\\right)\\times\\left(1+\\frac{1}{4}\\right)\\times 20,000\\)</span></p>\n\n<p>&rArr;x =&nbsp;<span class=\"math-tex\">\\(\\left(\\frac{23}{20}\\right)\\times\\left(\\frac{6}{5}\\right)\\times\\left(\\frac{5}{4}\\right)\\times 20,000\\)</span></p>\n\n<p>&rArr;x =&nbsp;<span class=\"math-tex\">\\(\\frac{(23\\times 3)}{(20\\times 2)}\\times 20,000\\)</span></p>\n\n<p><span style=\"\">&rArr;x = 34,500</span></p>\n\n<p>&nbsp;</p>\n\n<p><strong>.&middot;. T<span style=\"\">he total salary of the person after 3 years is Rs. 34,500</span></strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "6abdf8dfea98-q50",
+      "number": 50,
+      "question": "When the price of an article was reduced by 25%, its sale was increased by 75%. Calculate the net effect on revenue.",
+      "questionHtml": "<p>When the price of an article was reduced by 25%, its sale was increased by 75%. Calculate the net effect on revenue.</p>\n",
+      "options": [
+        {
+          "id": "A",
+          "text": "31.25% decrease",
+          "html": "31.25% decrease"
+        },
+        {
+          "id": "B",
+          "text": "31.25% increase",
+          "html": "31.25% increase"
+        },
+        {
+          "id": "C",
+          "text": "39.75% increase",
+          "html": "39.75% increase"
+        },
+        {
+          "id": "D",
+          "text": "39.75% decrease",
+          "html": "39.75% decrease"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Price of article reduction = 25%</p>\n\n<p>Sale of article increment = 75%</p>\n\n<p><strong>Concept Used:</strong></p>\n\n<p>Net effect on revenue = Increment in sale&nbsp;&ndash; Reduction percentage in Price&nbsp;&ndash; ((Increment in sale&nbsp;&times; Reduction Percentage in price)&nbsp;&divide; 100)</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>&rArr; Putting the values in the formula,</p>\n\n<p>&rArr; Net effect on revenue =&nbsp;<span class=\"math-tex\">\\(75-25-\\frac{75\\times25}{100}\\)</span>&nbsp;%</p>\n\n<p>&rArr; Net effect on revenue =&nbsp;<span class=\"math-tex\">\\(50-\\frac{75}{4}\\)</span>&nbsp;%</p>\n\n<p>&rArr; Net effect on revenue =&nbsp;<span class=\"math-tex\">\\(50-18.75=31.25\\)</span>&nbsp;%</p>\n\n<p>&rArr; As the net effect result is in positive sign, then there is an increment.</p>\n\n<p><strong>Hence, the net effect on revenue is increase with 31.25 %</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

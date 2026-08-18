@@ -1,0 +1,383 @@
+{
+  "id": "07704072c073",
+  "provider": "Testbook",
+  "sourceFile": "CT 52_ Geometry - Polygon.html",
+  "sourcePath": "Testbook/files/CT 52_ Geometry - Polygon.html",
+  "title": "CT 52: Geometry - Polygon",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "07704072c073-q1",
+      "number": 1,
+      "question": "Each exterior angle of a regular polygon measures 9&deg;. How many sides does the polygon have?",
+      "questionHtml": "Each exterior angle of a regular polygon measures 9&deg;. How many sides does the polygon have?",
+      "options": [
+        {
+          "id": "A",
+          "text": "30",
+          "html": "30"
+        },
+        {
+          "id": "B",
+          "text": "40",
+          "html": "40"
+        },
+        {
+          "id": "C",
+          "text": "45",
+          "html": "45"
+        },
+        {
+          "id": "D",
+          "text": "36",
+          "html": "36"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p style=\"\">For a regular polygon, the number of sides is equal to 360°/exterior angle ⇒ 360°/9° = 40.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "07704072c073-q2",
+      "number": 2,
+      "question": "The ratio of the measures of each interior angle of a regular octagon to that of the regular dodecagon is:",
+      "questionHtml": "The ratio of the measures of each interior angle of a regular octagon to that of the regular dodecagon is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "8 : 12",
+          "html": "8 : 12"
+        },
+        {
+          "id": "B",
+          "text": "9 : 10",
+          "html": "9 : 10"
+        },
+        {
+          "id": "C",
+          "text": "12 : 8",
+          "html": "12 : 8"
+        },
+        {
+          "id": "D",
+          "text": "4 : 5",
+          "html": "4 : 5"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Ratio of <strong>interior angles</strong> = [(n<sub>1</sub>−2)/n<sub>1</sub>] : [(n<sub>2</sub>−2)/n<sub>2</sub>]</p>\n<p>For <strong>Octagon</strong> (n<sub>1</sub> = 8) and <strong>Dodecagon</strong> (n<sub>2</sub> = 12):</p>\n<p>Ratio = (6/8) : (10/12) = (3/4) : (5/6)</p>\n<p>Cross-multiplying gives (3 × 6) : (5 × 4) = 18 : 20 = 9 : 10.</p>\n<p><strong>∴ The correct answer is 9 : 10.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p>Given: Number of sides of a <strong>regular octagon</strong> (n<sub>1</sub>) = 8 and a <strong>regular dodecagon</strong> (n<sub>2</sub>) = 12.</p>\n<p>Formula Used: Each <strong>interior angle</strong> of a regular polygon = [(n − 2) × 180°] / n</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_48594698.png/1784542559.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p>⇒ Interior angle of <strong>octagon</strong> = [(8 − 2) × 180°] / 8</p>\n<p>⇒ Interior angle of <strong>octagon</strong> = (6 × 180°) / 8 = 135°</p>\n<p>⇒ Interior angle of <strong>dodecagon</strong> = [(12 − 2) × 180°] / 12</p>\n<p>⇒ Interior angle of <strong>dodecagon</strong> = (10 × 180°) / 12 = 150°</p>\n<p>⇒ Required <strong>Ratio</strong> = 135 : 150</p>\n<p>⇒ Required <strong>Ratio</strong> = 9 : 10</p>\n<p><strong>∴ The correct answer is 9 : 10.</strong></p>\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_48594698.png/1784542559.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "07704072c073-q3",
+      "number": 3,
+      "question": "Find the number of sides of a regular polygon, whose each interior angle is of 128.57 &deg;",
+      "questionHtml": "Find the number of sides of a regular polygon, whose each interior angle is of 128.57<sup>&deg;</sup>",
+      "options": [
+        {
+          "id": "A",
+          "text": "6",
+          "html": "6"
+        },
+        {
+          "id": "B",
+          "text": "7",
+          "html": "7"
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "html": "8"
+        },
+        {
+          "id": "D",
+          "text": "9",
+          "html": "9"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>The <strong>exterior angle</strong> of a regular polygon is calculated as: 180° − <strong>Interior angle</strong>.</p>\n<p>Exterior Angle = 180° − 128.57° = 51.43°.</p>\n<p>The <strong>number of sides</strong> (n) = 360° ÷ <strong>Exterior angle</strong>.</p>\n<p>n = 360 ÷ 51.43 ≈ 7.</p>\n<p><strong>∴ The correct answer is 7.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong> Each <strong>interior angle</strong> of a <strong>regular polygon</strong> is 128.57°.</p>\n<p><strong>Formula Used:</strong> Interior angle of a regular polygon = [(n − 2) × 180°] ÷ n, where n is the <strong>number of sides</strong>.</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_4398053a.png/1784029336.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p><strong>Calculations:</strong></p>\n<p>⇒ 128.57 = [(n − 2) × 180] ÷ n</p>\n<p>⇒ Note that 128.57° ≈ 900° ÷ 7</p>\n<p>⇒ 900 ÷ 7 = [(n − 2) × 180] ÷ n</p>\n<p>⇒ 5 ÷ 7 = (n − 2) ÷ n</p>\n<p>⇒ 5n = 7(n − 2)</p>\n<p>⇒ 5n = 7n − 14</p>\n<p>⇒ 2n = 14</p>\n<p>⇒ n = 7</p>\n<p><strong>∴ The correct answer is 7.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Sum of Interior Angles</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The sum of all interior angles of a polygon with n sides is given by (n − 2) × 180°.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Exterior Angle Sum Property</p>\n<p style='margin:0 0 8px 0;color:#444444;'>For any convex polygon, the sum of all <strong>exterior angles</strong> (one at each vertex) is always 360°.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Regular Polygon Properties</p>\n<p style='margin:0 0 8px 0;color:#444444;'>A <strong>regular polygon</strong> has all sides equal and all interior angles equal. For a <strong>heptagon</strong> (n=7), each interior angle is approx 128.57°.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_4398053a.png/1784029336.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "07704072c073-q4",
+      "number": 4,
+      "question": "If the interior angles of a six sided polygon are in the ratio of 2 : 3 : 3 : 5 : 5 : 6, then the measure of the smallest angle is",
+      "questionHtml": "If the interior angles of a six sided polygon are in the ratio of 2 : 3 : 3 : 5 : 5 : 6, then the measure of the smallest angle is",
+      "options": [
+        {
+          "id": "A",
+          "text": "20&deg;",
+          "html": "20&deg;"
+        },
+        {
+          "id": "B",
+          "text": "30&deg;",
+          "html": "30&deg;"
+        },
+        {
+          "id": "C",
+          "text": "60&deg;",
+          "html": "60&deg;"
+        },
+        {
+          "id": "D",
+          "text": "90&deg;",
+          "html": "90&deg;"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n<p>Total sum of interior angles of a <strong>six-sided polygon</strong> = (6 − 2) × 180° = 720°</p>\n<p>Total ratio units = 2 + 3 + 3 + 5 + 5 + 6 = 24 units</p>\n<p>24 units = 720° ⇒ 1 unit = 30°</p>\n<p>Smallest angle (2 units) = 2 × 30° = 60°</p>\n<p><strong>∴ The correct answer is 60°.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Number of sides (n) = 6</p>\n<p>Ratio of interior angles = 2 : 3 : 3 : 5 : 5 : 6</p>\n<p><strong>Formula Used:</strong></p>\n<p>Sum of interior angles of a <strong>polygon</strong> = (n − 2) × 180°</p>\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_0d497b18.png/1784029373.png\" style=\"max-width: 100%; height: auto;\"></div>\n<p><strong>Calculations:</strong></p>\n<p>⇒ Sum of angles = (6 − 2) × 180°</p>\n<p>⇒ Sum of angles = 4 × 180° = 720°</p>\n<p>⇒ Let the angles be 2x, 3x, 3x, 5x, 5x, and 6x.</p>\n<p>⇒ 2x + 3x + 3x + 5x + 5x + 6x = 720°</p>\n<p>⇒ 24x = 720°</p>\n<p>⇒ x = 720° ÷ 24 = 30°</p>\n<p>⇒ Smallest angle = 2x = 2 × 30° = 60°</p>\n<p><strong>∴ The correct answer is 60°.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Sum of Exterior Angles</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The sum of the <strong>exterior angles</strong> of any convex polygon is always 360°, regardless of the number of sides.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Regular Polygon Interior Angle</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">For a <strong>regular polygon</strong> with n sides, each interior angle is given by [(n − 2) × 180°] ÷ n.</p>\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Number of Diagonals</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The number of <strong>diagonals</strong> in a polygon with n sides is calculated as [n × (n − 3)] ÷ 2.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_0d497b18.png/1784029373.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "07704072c073-q5",
+      "number": 5,
+      "question": "The difference between the interior and exterior angle at a vertex of a regular polygon is 144&deg;. What is the number of sides of the polygon?",
+      "questionHtml": "The difference between the interior and exterior angle at a vertex of a regular polygon is 144&deg;. What is the number of sides of the polygon?",
+      "options": [
+        {
+          "id": "A",
+          "text": "18",
+          "html": "18"
+        },
+        {
+          "id": "B",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "C",
+          "text": "19",
+          "html": "19"
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "html": "15"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p><span style=\"\">Interior angle(I) &ndash;&nbsp;</span>Exterior angle(E) = 144&deg;&nbsp;</p>\n\n<p><strong>Formula used:</strong></p>\n\n<p><span style=\"\">For any regular polygon, </span></p>\n\n<p><span style=\"\">Interior angle(I) + Exterior angle(E) = 180&deg;&nbsp;</span></p>\n\n<p><span style=\"\">Each exterior angle = 360&deg;/n, where </span></p>\n\n<p><span style=\"\">n = number of sides</span></p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>ATQ,</p>\n\n<p>&rArr; I + E = 180&deg; and I&nbsp;<span style=\"\">&ndash; E = 144&deg;&nbsp;</span>&nbsp;</p>\n\n<p>Adding both the eq.</p>\n\n<p>&rArr; 2I = 324&nbsp;</p>\n\n<p>&rArr; I = 324/2 = 162&deg;&nbsp;</p>\n\n<p>Now, putting the value,</p>\n\n<p>&rArr; E = 180<span style=\"\">&deg;</span>&nbsp;<span style=\"\">&ndash; 162&deg; = 18&deg;</span></p>\n\n<p><span style=\"\">Using the formula of E,</span></p>\n\n<p><span style=\"\">Number of sides = 360/18&deg;&nbsp;= 20</span></p>\n\n<p><strong>&there4; The number of sides of the regular polygon is 20.</strong></p>\n\n<p><strong><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/mistake-point-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Mistake Points</u></span></strong></span></strong></p>\n\n<p style=\"color: rgb(97, 106, 124); \">In any polygon, the exterior angle can not be greater than the interior angle.</p>\n\n<p style=\"color: rgb(97, 106, 124); \">We can never take&nbsp;Exterior - Interior = 144,</p>\n\n<p style=\"color: rgb(97, 106, 124); \">We will have to take Interior - Exterior = 144,</p>\n\n<p style=\"color: rgb(97, 106, 124); \">as the question is&nbsp;&quot;the difference between them is 144&quot;</p>\n\n<p style=\"color: rgb(97, 106, 124); \">Not that (Exterior - Interior = 144).</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/mistake-point-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "07704072c073-q6",
+      "number": 6,
+      "question": "If the measure of each interior angle of a regular polygon is 150&deg;, then the number of its diagonals will be",
+      "questionHtml": "If the measure of each interior angle of a regular polygon is 150&deg;,&nbsp;then the number of its diagonals will be",
+      "options": [
+        {
+          "id": "A",
+          "text": "54",
+          "html": "54"
+        },
+        {
+          "id": "B",
+          "text": "27",
+          "html": "27"
+        },
+        {
+          "id": "C",
+          "text": "15",
+          "html": "15"
+        },
+        {
+          "id": "D",
+          "text": "12",
+          "html": "12"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Concept:</strong></p>\n\n<p>Each angle of n-sided polygon = ((n - 2)&nbsp;&times; 180)/n</p>\n\n<p>Number of diagonals of n - sided polygon = n(n - 3)/2</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>Each interior angle = 150&deg;&nbsp;</p>\n\n<p>150&deg; =&nbsp;(n - 2)&nbsp;&times; 180)/n</p>\n\n<p>&rArr; 6n - 12 = 5n</p>\n\n<p>n = 12 = Total side of the polygon</p>\n\n<p>&there4; Number of diagonals of n - sided polygon = n(n - 3)/2 = 108/2</p>\n\n<p>&there4; Number of diagonals of n - sided polygon = 54</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "07704072c073-q7",
+      "number": 7,
+      "question": "If one of the internal angle of a regular polygon is 135&deg;, Then find the number of diagonals in the polygon.",
+      "questionHtml": "If one of the internal angle of a regular polygon is 135&deg;, Then find the number of diagonals in the polygon.",
+      "options": [
+        {
+          "id": "A",
+          "text": "16",
+          "html": "16"
+        },
+        {
+          "id": "B",
+          "text": "18",
+          "html": "18"
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "D",
+          "text": "24",
+          "html": "24"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span>\n\n<p>For a <strong>regular polygon</strong>, the sum of an <strong>interior angle</strong> and an <strong>exterior angle</strong> is always 180°.</p>\n<p>Exterior Angle = 180° − 135° = 45°</p>\n<p>Number of sides (n) = 360° ÷ Exterior Angle ⇒ n = 360° ÷ 45° = 8</p>\n<p>Number of diagonals = [n × (n − 3)] ÷ 2 = [8 × 5] ÷ 2 = 20</p>\n<p><strong>∴ The correct answer is 20.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<p><strong>Given:</strong></p>\n<p><strong>Internal angle</strong> of a regular polygon = 135°</p>\n\n<p><strong>Formula Used:</strong></p>\n<p>1. Interior angle of a <strong>regular polygon</strong> = [(n − 2) × 180°] ÷ n</p>\n<p>2. Number of <strong>diagonals</strong> in a polygon = [n × (n − 3)] ÷ 2</p>\n<p>where 'n' is the number of <strong>sides</strong>.</p>\n\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_9cef44dd.png/1784029402.png\" style=\"max-width: 100%; height: auto;\"></div>\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ 135° = [(n − 2) × 180°] ÷ n</p>\n<p>⇒ 135n = 180n − 360</p>\n<p>⇒ 180n − 135n = 360</p>\n<p>⇒ 45n = 360</p>\n<p>⇒ n = 360 ÷ 45 = 8</p>\n<p>The polygon is a regular <strong>octagon</strong>.</p>\n<p>⇒ Number of diagonals = [8 × (8 − 3)] ÷ 2</p>\n<p>⇒ Number of diagonals = [8 × 5] ÷ 2</p>\n<p>⇒ Number of diagonals = 40 ÷ 2 = 20</p>\n<p><strong>∴ The correct answer is 20.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Sum of Interior Angles</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">The sum of all interior angles of any n-sided convex polygon is always (n − 2) × 180°.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Exterior Angle Sum</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">Regardless of the number of sides, the sum of all exterior angles of any convex polygon is always 360°.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Polygon Diagonals</p>\n<p style=\"margin:0 0 8px 0;color:#444444;\">A triangle (n=3) has 0 diagonals, a quadrilateral (n=4) has 2, and a pentagon (n=5) has 5 diagonals.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_9cef44dd.png/1784029402.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "07704072c073-q8",
+      "number": 8,
+      "question": "The number of diagonals in a 26-gon is:",
+      "questionHtml": "The number of diagonals in a 26-gon is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "300",
+          "html": "300"
+        },
+        {
+          "id": "B",
+          "text": "325",
+          "html": "325"
+        },
+        {
+          "id": "C",
+          "text": "299",
+          "html": "299"
+        },
+        {
+          "id": "D",
+          "text": "650",
+          "html": "650"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png' width='26px' /> <u style='font-size: 21px; font-weight: 700; display: inline !important;'>Shortcut Trick</u></span>\n<p>The number of diagonals in any <strong>n-gon</strong> (a polygon with <strong>n</strong> sides) can be calculated directly using the formula:</p>\n<p><strong>Number of diagonals = n × (n − 3) ÷ 2</strong></p>\n<p>For a <strong>26-gon</strong>, we have <strong>n = 26</strong>:</p>\n<p>⇒ Number of diagonals = 26 × (26 − 3) ÷ 2</p>\n<p>⇒ Number of diagonals = 13 × 23 = 299</p>\n<p><strong>∴ The correct answer is 299 diagonals.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Alternate Method</u></span></strong></span></p>\n<p><strong>Given:</strong></p>\n<p>Number of vertices/sides of the polygon (<strong>n</strong>) = 26</p>\n<p><strong>Formula Used:</strong></p>\n<p>A polygon with <strong>n</strong> vertices has a total of <sup>n</sup>C<sub>2</sub> possible straight lines connecting any two vertices. These lines consist of both the boundary sides of the polygon and its internal diagonals.</p>\n<p>⇒ Total lines = Sides + Diagonals</p>\n<p>⇒ <sup>n</sup>C<sub>2</sub> = n + Diagonals</p>\n<p>⇒ Diagonals = <sup>n</sup>C<sub>2</sub> − n = [n × (n − 1) ÷ 2] − n = n × (n − 3) ÷ 2</p>\n\n<div style=\"text-align: left;\"><img src=\"https://cdn.testbook.com/tb_solImg_4ff6937b.png/1784542035.png\" style=\"max-width: 100%; height: auto;\"></div>\n\n<p><strong>Calculations:</strong></p>\n<p>⇒ Total lines connecting 26 vertices = <sup>26</sup>C<sub>2</sub></p>\n<p>⇒ Total lines = [26 × 25] ÷ [2 × 1] = 325 lines</p>\n<p>⇒ Number of boundary sides = 26 sides</p>\n<p>⇒ Number of diagonals = Total lines − Boundary sides</p>\n<p>⇒ Number of diagonals = 325 − 26 = 299 diagonals</p>\n\n<p><strong>Evaluation of Options:</strong></p>\n<p>⇒ <strong>Option (1) 300:</strong> Incorrect calculation value.</p>\n<p>⇒ <strong>Option (2) 325:</strong> Represents the total number of lines connecting all vertices (<sup>26</sup>C<sub>2</sub>), which incorrectly includes the 26 boundary sides.</p>\n<p>⇒ <strong>Option (3) 299:</strong> Correct number of diagonals after subtracting the 26 sides from 325.</p>\n<p>⇒ <strong>Option (4) 650:</strong> Incorrect as it represents 26 × 25, which is double the total lines.</p>\n\n<p><strong>∴ The correct answer is 299 diagonals.</strong></p>\n\n<p><span style='display: flex;gap: 6px;align-items: center;'><img height='26px' src='//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png' width='26px' /><strong><span style='vertical-align: middle;font-size: 21px;'><u>Additional Information</u></span></strong></span></p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Sum of Interior Angles of a Polygon</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The sum of all interior angles of an n-gon is given by the formula: (n − 2) × 180°.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Sum of Exterior Angles of a Polygon</p>\n<p style='margin:0 0 8px 0;color:#444444;'>The sum of all exterior angles of any convex polygon is always equal to 360°.</p>\n<p style='margin:8px 0 2px 0;font-weight:700;color:#222222;'>Each Interior Angle of a Regular Polygon</p>\n<p style='margin:0 0 8px 0;color:#444444;'>For a regular n-gon, each interior angle is equal to [(n − 2) × 180°] ÷ n.</p>",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "https://cdn.testbook.com/tb_solImg_4ff6937b.png/1784542035.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "07704072c073-q9",
+      "number": 9,
+      "question": "The sum of the interior angles of a polygon measure 3240&deg;. How many sides does the polygon have?",
+      "questionHtml": "The sum of the interior angles of a polygon measure 3240&deg;. How many sides does the polygon have?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10",
+          "html": "10"
+        },
+        {
+          "id": "B",
+          "text": "15",
+          "html": "15"
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "html": "20"
+        },
+        {
+          "id": "D",
+          "text": "5",
+          "html": "5"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p><strong>Given</strong></p>\n\n<p>sum<strong>&nbsp;</strong><span style=\"\">of the interior angles of a polygon = 3240&deg;</span></p>\n\n<p><strong>Concept used</strong></p>\n\n<p>Sum of the interior angles of a polygon = (n - 2)&nbsp;&times; 180&deg;&nbsp;</p>\n\n<p>where n is the number of sides of a polygon</p>\n\n<p><strong>Calculation</strong></p>\n\n<p>3240 = (n - 2)&nbsp;&times; 180</p>\n\n<p>&rArr;(n - 2) = 3240/180</p>\n\n<p><span style=\"\">&rArr;</span>n - 2 = 18</p>\n\n<p><span style=\"\">&rArr;</span>n = 18 + 2</p>\n\n<p><span style=\"\">&rArr;</span>n = 20</p>\n\n<p><strong>&there4; Polygon have 20 sides.</strong></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "07704072c073-q10",
+      "number": 10,
+      "question": "If each exterior angle of a polygon is 72&deg;. What is the sum of all the interior angles of this polygon?",
+      "questionHtml": "If each exterior angle of a polygon is 72&deg;. What is the sum of all the interior angles of this polygon?",
+      "options": [
+        {
+          "id": "A",
+          "text": "540&deg;",
+          "html": "540&deg;&nbsp;"
+        },
+        {
+          "id": "B",
+          "text": "720&deg;",
+          "html": "720&deg;&nbsp;"
+        },
+        {
+          "id": "C",
+          "text": "360&deg;",
+          "html": "360&deg;&nbsp;"
+        },
+        {
+          "id": "D",
+          "text": "180&deg;",
+          "html": "180&deg;&nbsp;"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><strong>Given:</strong></p>\n\n<p>Each exterior angle of polygon = 72&deg;&nbsp;</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>Sum of exterior angles of a polygon = 360&deg;&nbsp;</p>\n\n<p>The exterior angle of the polygon = 360&deg;/n</p>\n\n<p>Sum of interior angles of a polygon of side &#39;n&#39; = (n - 2)&nbsp;&times; 180&deg;&nbsp;</p>\n\n<p><strong>Calculation:</strong></p>\n\n<p>As, each exterior angle of polygon is&nbsp;72&deg;&nbsp;</p>\n\n<p>Let, the polygon has &#39;n&#39; sides</p>\n\n<p>Number of sides = 360&deg;/72&deg; = 5</p>\n\n<p>&rArr; Sum of interior angles = (5 - 2)&nbsp;&times; 180&deg;&nbsp;</p>\n\n<p>&rArr; 3&nbsp;&times; 180&deg; = 540&deg;&nbsp;</p>\n\n<p><strong>&there4; The sum of the interior angles of the given polygon is 540&deg;.</strong></p>\n\n<p><b>Or we can calculate sum of internal angles&nbsp;like this</b></p>\n\n<p>Exterior angle + Interior angle = 180&deg;&nbsp;(Linear pair)</p>\n\n<p>Interior angle = 180&deg; - 72&deg; = 108&deg;&nbsp;</p>\n\n<p><img alt=\"\" src=\"https://storage.googleapis.com/tb-img/production/21/07/F1_Vikash.K_15-07-21_Savita_D1.png\" style=\"width: 147px; height: 98px;\" /></p>\n\n<p>Each internal angle = 108&deg;&nbsp;</p>\n\n<p>Sum of all internal angles = 5&nbsp;&times; 108&deg; = 540&deg;&nbsp;</p>\n\n<p><span style=\"font-weight: 700;\">&there4; The sum of the interior angles of the given polygon is 540&deg;.</span></p>\n",
+      "images": [
+        "https://storage.googleapis.com/tb-img/production/21/07/F1_Vikash.K_15-07-21_Savita_D1.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

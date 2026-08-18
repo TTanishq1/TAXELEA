@@ -1,0 +1,4095 @@
+{
+  "id": "fbb843635efd",
+  "provider": "RBE_Mocks",
+  "sourceFile": "CHSL_2025_T-2_Paid_Mock_1.html",
+  "sourcePath": "RBE_MOCKS/CHSL_2025_T-2_Paid_Mock_1.html",
+  "title": "CHSL 2025 T-2 Paid Mock 1",
+  "exam": null,
+  "year": 2025,
+  "tier": null,
+  "shift": null,
+  "duration": 150,
+  "questionCount": 120,
+  "questions": [
+    {
+      "id": "fbb843635efd-q1",
+      "number": 1,
+      "question": "The average age of 40 students in a class is 15 years. When the age of the teacher is included, the average age becomes 16 years. Find the age of the teacher.",
+      "questionHtml": "<p>The average age of 40 students in a class is 15 years. When the age of the teacher is included, the average age becomes 16 years. Find the age of the teacher.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "52 years",
+          "html": "<p>52 years</p>"
+        },
+        {
+          "id": "B",
+          "text": "56 years",
+          "html": "<p>56 years</p>"
+        },
+        {
+          "id": "C",
+          "text": "48 years",
+          "html": "<p>48 years</p>"
+        },
+        {
+          "id": "D",
+          "text": "45 years",
+          "html": "<p>45 years</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Total age of 40 students =40×15=600</p><p>Total age including teacher =41×16=656</p><p>Age of teacher =656-600=56</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q2",
+      "number": 2,
+      "question": "The average weight of students of Section X and Section Y, having 30 students each, is 52 kg and 48 kg respectively. Three students from Section X having an average weight of 60 kg are shifted to Section Y, and three students from Section Y are shifted to Section X, making the average weight of both sections equal. Find the average weight (in kg) of the students who were shifted from Section Y to Section X.",
+      "questionHtml": "<p>The average weight of students of Section X and Section Y, having 30 students each, is 52 kg and 48 kg respectively. Three students from Section X having an average weight of 60 kg are shifted to Section Y, and three students from Section Y are shifted to Section X, making the average weight of both sections equal. Find the average weight (in kg) of the students who were shifted from Section Y to Section X.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "40 kg",
+          "html": "<p>40 kg</p>"
+        },
+        {
+          "id": "B",
+          "text": "36 kg",
+          "html": "<p>36 kg</p>"
+        },
+        {
+          "id": "C",
+          "text": "42 kg",
+          "html": "<p>42 kg</p>"
+        },
+        {
+          "id": "D",
+          "text": "44 kg",
+          "html": "<p>44 kg</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Total weight of Section X: 30×52=1560</p><p>Total weight of Section Y: 30×48=1440</p><p>Weight shifted from X to Y: 3×60=180</p><p>Let the average weight of 3 students shifted from Y to X = x kg</p><p>⇒\"Weight\"=3x</p><p>New total weights:</p><p>Section X:</p><p>1560-180+3x=1380+3x</p><p>Section Y:</p><p>1440+180-3x=1620-3x</p><p>Since new averages are equal and students remain 30 each:</p><p>1380+3x=1620-3x</p><p>6x=240⇒x=40 Kg</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q3",
+      "number": 3,
+      "question": "In a circle of radius 14 cm, a chord is drawn at a distance of 7 cm from the centre. Find the length of the chord.",
+      "questionHtml": "<p>In a circle of radius 14 cm, a chord is drawn at a distance of 7 cm from the centre. Find the length of the chord.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "7√3 cm",
+          "html": "<p>7√3 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "12√3 cm",
+          "html": "<p>12√3 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "14√3 cm",
+          "html": "<p>14√3 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "5√3 cm",
+          "html": "<p>5√3 cm</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image001.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q4",
+      "number": 4,
+      "question": "A train 150 m long passes a platform 250 m long in 40 seconds. If the same train passes a man walking in the opposite direction in 10 seconds, find the speed of the man in km/h.",
+      "questionHtml": "<p>A train 150 m long passes a platform 250 m long in 40 seconds. If the same train passes a man walking in the opposite direction in 10 seconds, find the speed of the man in km/h.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "html": "<p>5 </p>"
+        },
+        {
+          "id": "B",
+          "text": "12",
+          "html": "<p>12 </p>"
+        },
+        {
+          "id": "C",
+          "text": "18",
+          "html": "<p>18</p>"
+        },
+        {
+          "id": "D",
+          "text": "10",
+          "html": "<p>10</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Length of train = 150 m</p><p>Length of platform = 250 m</p><p>Speed of the train</p><p>Train passing a man walking in opposite direction</p><p>Speed of the man</p><p>Convert into km/h</p><p>5 m/s × 18/5 = 18 km/h</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q5",
+      "number": 5,
+      "question": "In a cyclic quadrilateral ABCD, the measures of angles are given by ∠A = (3x + 20)° and ∠C = (5x – 10)°. Find the measure of ∠A.",
+      "questionHtml": "<p>In a cyclic quadrilateral ABCD, the measures of angles are given by ∠A = (3x + 20)° and ∠C = (5x – 10)°. Find the measure of ∠A.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image002.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image002.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image003.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image003.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image004.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image004.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image005.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image005.png"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image006.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q6",
+      "number": 6,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image007.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image007.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "9/4",
+          "html": "<p>9/4</p>"
+        },
+        {
+          "id": "B",
+          "text": "3/4",
+          "html": "<p>3/4</p>"
+        },
+        {
+          "id": "C",
+          "text": "7/4",
+          "html": "<p>7/4</p>"
+        },
+        {
+          "id": "D",
+          "text": "5/4",
+          "html": "<p>5/4</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image008.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q7",
+      "number": 7,
+      "question": "In what ratio should milk at ₹60 per litre be mixed with water so that the mixture can be sold at ₹48 per litre with no profit and no loss?",
+      "questionHtml": "<p>In what ratio should milk at ₹60 per litre be mixed with water so that the mixture can be sold at ₹48 per litre with no profit and no loss?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "5:4",
+          "html": "<p>5:4</p>"
+        },
+        {
+          "id": "B",
+          "text": "4:3",
+          "html": "<p>4:3</p>"
+        },
+        {
+          "id": "C",
+          "text": "3:2",
+          "html": "<p>3:2</p>"
+        },
+        {
+          "id": "D",
+          "text": "4:1",
+          "html": "<p>4:1</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image013.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q8",
+      "number": 8,
+      "question": "If ksinx = pcosx, where k and p are positive constants, find the value of sin x + cos x.",
+      "questionHtml": "<p>If ksinx = pcosx, where k and p are positive constants, find the value of sin x + cos x.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image014.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image014.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image015.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image015.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image016.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image016.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image017.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image017.png"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image018.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q9",
+      "number": 9,
+      "question": "A can do a piece of work in 12 days and B can do the same work in 18 days. They start working together, but A leaves after 4 days. The remaining work is completed by B alone in x days. Find the value of x.",
+      "questionHtml": "<p>A can do a piece of work in 12 days and B can do the same work in 18 days. They start working together, but A leaves after 4 days. The remaining work is completed by B alone in x days. Find the value of x.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 days",
+          "html": "<p>6 days</p>"
+        },
+        {
+          "id": "B",
+          "text": "8 days",
+          "html": "<p>8 days</p>"
+        },
+        {
+          "id": "C",
+          "text": "9 days",
+          "html": "<p>9 days</p>"
+        },
+        {
+          "id": "D",
+          "text": "12 days",
+          "html": "<p>12 days</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image019.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q10",
+      "number": 10,
+      "question": "The angle of elevation of the top of a tower from a point on the ground is 30°. On moving 20 metres closer to the tower, the angle of elevation becomes 60°. Find the height of the tower.",
+      "questionHtml": "<p>The angle of elevation of the top of a tower from a point on the ground is 30°. On moving 20 metres closer to the tower, the angle of elevation becomes 60°. Find the height of the tower.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "15√3 m",
+          "html": "<p>15√3 m</p>"
+        },
+        {
+          "id": "B",
+          "text": "10√3 m",
+          "html": "<p>10√3 m</p>"
+        },
+        {
+          "id": "C",
+          "text": "20√3 m",
+          "html": "<p>20√3 m</p>"
+        },
+        {
+          "id": "D",
+          "text": "30√3 m",
+          "html": "<p>30√3 m</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image020.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q11",
+      "number": 11,
+      "question": "From 1 to 50, how many numbers have exactly 3 factors?",
+      "questionHtml": "<p>From 1 to 50, how many numbers have exactly 3 factors?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "<p>3</p>"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "<p>4</p>"
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "html": "<p>5</p>"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "<p>6</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>A number has exactly 3 factors only when it is the square of a prime number.<br/>(Factors: 1, p, p²)</p><p>Prime squares ≤ 50:<br/>2² = 4<br/>3² = 9<br/>5² = 25<br/>7² = 49</p><p>Total such numbers = 4</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q12",
+      "number": 12,
+      "question": "How many numbers between 1 and 100 (both inclusive) are divisible by 2 or 3 but not divisible by 6?",
+      "questionHtml": "<p>How many numbers between 1 and 100 (both inclusive) are divisible by 2 or 3 but not divisible by 6?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "67",
+          "html": "<p>67</p>"
+        },
+        {
+          "id": "B",
+          "text": "51",
+          "html": "<p>51</p>"
+        },
+        {
+          "id": "C",
+          "text": "48",
+          "html": "<p>48</p>"
+        },
+        {
+          "id": "D",
+          "text": "62",
+          "html": "<p>62</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image021.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q13",
+      "number": 13,
+      "question": "Find the unit digit of the number 7¹²³.",
+      "questionHtml": "<p>Find the unit digit of the number 7¹²³.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "<p>9</p>"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "<p>3</p>"
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "html": "<p>0</p>"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "<p>1</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image023.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q14",
+      "number": 14,
+      "question": "If x + 1/x = 4, find the value of x³ − 1/x³.",
+      "questionHtml": "<p>If x + 1/x = 4, find the value of x³ − 1/x³.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "30√3",
+          "html": "<p>30√3</p>"
+        },
+        {
+          "id": "B",
+          "text": "27√3",
+          "html": "<p>27√3</p>"
+        },
+        {
+          "id": "C",
+          "text": "33√3",
+          "html": "<p>33√3</p>"
+        },
+        {
+          "id": "D",
+          "text": "36√3",
+          "html": "<p>36√3</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image024.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q15",
+      "number": 15,
+      "question": "If α and β are the roots of the quadratic equation x² − 5x + 6 = 0, find the value of α² + β².",
+      "questionHtml": "<p>If α and β are the roots of the quadratic equation x² − 5x + 6 = 0, find the value of α² + β².</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "15",
+          "html": "<p>15</p>"
+        },
+        {
+          "id": "B",
+          "text": "11",
+          "html": "<p>11</p>"
+        },
+        {
+          "id": "C",
+          "text": "13",
+          "html": "<p>13</p>"
+        },
+        {
+          "id": "D",
+          "text": "9",
+          "html": "<p>9</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Given quadratic equation:<br/>x² − 5x + 6 = 0</p><p>Formulae used:<br/>α + β = −b/a<br/>αβ = c/a<br/>α² + β² = (α + β)² − 2αβ</p><p>Here, a = 1, b = −5, c = 6</p><p>Sum of roots:<br/>α + β = 5</p><p>Product of roots:<br/>αβ = 6</p><p>Required value:<br/>α² + β² = 5² − 2(6) = 25 − 12 = 13</p><p>Answer: 13</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q16",
+      "number": 16,
+      "question": "The standard deviation of the data 5, 10, 15, 20, 25 is 4. If each observation is multiplied by 3, what will be the new standard deviation?",
+      "questionHtml": "<p>The standard deviation of the data 5, 10, 15, 20, 25 is 4. If each observation is multiplied by 3, what will be the new standard deviation?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "html": "<p>12</p>"
+        },
+        {
+          "id": "B",
+          "text": "4",
+          "html": "<p>4</p>"
+        },
+        {
+          "id": "C",
+          "text": "36",
+          "html": "<p>36</p>"
+        },
+        {
+          "id": "D",
+          "text": "18",
+          "html": "<p>18</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image029.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q17",
+      "number": 17,
+      "question": "The median of the following data is 8: 4, 6, 7, x, x – 2, 11, 13, 17. Find the value of x.",
+      "questionHtml": "<p>The median of the following data is 8: 4, 6, 7, x, x – 2, 11, 13, 17. Find the value of x.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "7",
+          "html": "<p>7</p>"
+        },
+        {
+          "id": "B",
+          "text": "9",
+          "html": "<p>9</p>"
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "html": "<p>8</p>"
+        },
+        {
+          "id": "D",
+          "text": "12",
+          "html": "<p>12</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image030.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q18",
+      "number": 18,
+      "question": "Simplify the following expression: {720 ÷ [6 + {14 − (8 − 2³)}]} × 5 − 96 ÷ (4 + 2)",
+      "questionHtml": "<p>Simplify the following expression:</p><p>{720 ÷ [6 + {14 − (8 − 2³)}]} × 5 − 96 ÷ (4 + 2)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "172",
+          "html": "<p>172</p>"
+        },
+        {
+          "id": "B",
+          "text": "164",
+          "html": "<p>164</p>"
+        },
+        {
+          "id": "C",
+          "text": "156",
+          "html": "<p>156</p>"
+        },
+        {
+          "id": "D",
+          "text": "148",
+          "html": "<p>148</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image032.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q19",
+      "number": 19,
+      "question": "A shopkeeper marks an article 25% above the cost price. He then allows a 10% discount on the marked price and still makes a profit of ₹180. Find the cost price of the article.",
+      "questionHtml": "<p>A shopkeeper marks an article 25% above the cost price. He then allows a 10% discount on the marked price and still makes a profit of ₹180. Find the cost price of the article.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹1440",
+          "html": "<p>₹1440</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹1260",
+          "html": "<p>₹1260</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹1540",
+          "html": "<p>₹1540</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹1320",
+          "html": "<p>₹1320</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Marked Price (MP) = 125% of CP = ₹125x</p><p>Discount = 10%, so Selling Price (SP) = 90% of MP<br/>SP = 0.9 × 125x = 112.5x</p><p>Profit = SP − CP<br/>Profit = 112.5x − 100x = 12.5x</p><p>Given profit = ₹180<br/>12.5x = 180 ⇒ x = 14.4</p><p>Cost Price = 100x = ₹1440</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q20",
+      "number": 20,
+      "question": "A shopkeeper uses a false weight of 900 g for 1 kg and sells the goods at the cost price per kg. He also mixes 20% impurities in the goods. Find his overall profit percentage.",
+      "questionHtml": "<p>A shopkeeper uses a false weight of 900 g for 1 kg and sells the goods at the cost price per kg. He also mixes 20% impurities in the goods. Find his overall profit percentage.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "38 (8/9)%",
+          "html": "<p>38 (8/9)%</p>"
+        },
+        {
+          "id": "B",
+          "text": "34 (8/9)%",
+          "html": "<p>34 (8/9)%</p>"
+        },
+        {
+          "id": "C",
+          "text": "42 (8/9)%",
+          "html": "<p>42 (8/9)%</p>"
+        },
+        {
+          "id": "D",
+          "text": "31 (8/9)%",
+          "html": "<p>31 (8/9)%</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image033.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q21",
+      "number": 21,
+      "question": "Consider the following statements about Simple Interest (SI) and Compound Interest (CI): Statement I: For the same principal, rate of interest, and time period of 1 year, the simple interest and compound interest are equal. Statement II: For the same principal, rate of interest, and time period greater than 1 year, the compound interest is greater than the simple interest. Choose the correct option:",
+      "questionHtml": "<p>Consider the following statements about Simple Interest (SI) and Compound Interest (CI):<br/>Statement I: For the same principal, rate of interest, and time period of 1 year, the simple interest and compound interest are equal.<br/>Statement II: For the same principal, rate of interest, and time period greater than 1 year, the compound interest is greater than the simple interest.<br/>Choose the correct option:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only Statement I is true",
+          "html": "<p>Only Statement I is true</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only Statement II is true",
+          "html": "<p>Only Statement II is true</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and II are true",
+          "html": "<p>Both Statement I and II are true</p>"
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I and II are false",
+          "html": "<p>Both Statement I and II are false</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Statement I:<br/>For 1 year, CI is calculated only once on the principal, just like SI.<br/>So, SI = CI for 1 year → True.</p><p>Statement II:<br/>For more than 1 year, CI includes interest on interest, while SI does not.<br/>Hence, CI &gt; SI → True.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q22",
+      "number": 22,
+      "question": "The ratio of the ages of A and B is 4 : 5. After 6 years, the ratio of their ages becomes 5 : 6. Find the present age of A.",
+      "questionHtml": "<p>The ratio of the ages of A and B is 4 : 5. After 6 years, the ratio of their ages becomes 5 : 6. Find the present age of A.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "24 years",
+          "html": "<p>24 years</p>"
+        },
+        {
+          "id": "B",
+          "text": "20 years",
+          "html": "<p>20 years</p>"
+        },
+        {
+          "id": "C",
+          "text": "28 years",
+          "html": "<p>28 years</p>"
+        },
+        {
+          "id": "D",
+          "text": "32 years",
+          "html": "<p>32 years</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image034.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q23",
+      "number": 23,
+      "question": "A sum of ₹720 is divided among A, B, and C in the ratio 2 : 3 : 5. If C gives ₹72 to A, what will be the new ratio of their shares?",
+      "questionHtml": "<p>A sum of ₹720 is divided among A, B, and C in the ratio 2 : 3 : 5. If C gives ₹72 to A, what will be the new ratio of their shares?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 1 : 2",
+          "html": "<p>1 : 1 : 2</p>"
+        },
+        {
+          "id": "B",
+          "text": "3 : 4 : 5",
+          "html": "<p>3 : 4 : 5</p>"
+        },
+        {
+          "id": "C",
+          "text": "3 : 3 : 4",
+          "html": "<p>3 : 3 : 4</p>"
+        },
+        {
+          "id": "D",
+          "text": "2 : 3 : 4",
+          "html": "<p>2 : 3 : 4</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image037.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q24",
+      "number": 24,
+      "question": "The price of an article is increased by 20%. To bring it back to its original price, by what percentage should the new price be reduced?",
+      "questionHtml": "<p>The price of an article is increased by 20%. To bring it back to its original price, by what percentage should the new price be reduced?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "16 (2/3)%",
+          "html": "<p>16 (2/3)%</p>"
+        },
+        {
+          "id": "B",
+          "text": "15 (2/3)%",
+          "html": "<p>15 (2/3)%</p>"
+        },
+        {
+          "id": "C",
+          "text": "12 (1/5)%",
+          "html": "<p>12 (1/5)%</p>"
+        },
+        {
+          "id": "D",
+          "text": "14 (1/7)%",
+          "html": "<p>14 (1/7)%</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image040.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q25",
+      "number": 25,
+      "question": "A right triangular prism has a triangular base with sides 5 cm, 12 cm, and 13 cm. The height of the prism is 10 cm. Find the total surface area of the prism.",
+      "questionHtml": "<p>A right triangular prism has a triangular base with sides 5 cm, 12 cm, and 13 cm. The height of the prism is 10 cm. Find the total surface area of the prism.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "450 cm²",
+          "html": "<p>450 cm²</p>"
+        },
+        {
+          "id": "B",
+          "text": "320 cm²",
+          "html": "<p>320 cm²</p>"
+        },
+        {
+          "id": "C",
+          "text": "390 cm²",
+          "html": "<p>390 cm²</p>"
+        },
+        {
+          "id": "D",
+          "text": "360 cm²",
+          "html": "<p>360 cm²</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>The triangular base with sides 5, 12, 13 is a right-angled triangle (5² + 12² = 13²).</p><p>Area of triangular base = (1/2) × 5 × 12 = 30 cm²</p><p>Perimeter of base = 5 + 12 + 13 = 30 cm</p><p>Lateral surface area = Perimeter × Height = 30 × 10 = 300 cm²</p><p> Total surface area = Lateral surface area + 2 × Area of base<br/>= 300 + 2 × 30 = 360 cm²</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q26",
+      "number": 26,
+      "question": "The diagonals of a rhombus are in the ratio 3 : 4. If the area of the rhombus is 384 cm², find the length of each diagonal.",
+      "questionHtml": "<p>The diagonals of a rhombus are in the ratio 3 : 4. If the area of the rhombus is 384 cm², find the length of each diagonal.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "18 cm, 24 cm",
+          "html": "<p>18 cm, 24 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "24 cm, 32 cm",
+          "html": "<p>24 cm, 32 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "27 cm, 36 cm",
+          "html": "<p>27 cm, 36 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "20 cm, 30 cm",
+          "html": "<p>20 cm, 30 cm</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image043.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q27",
+      "number": 27,
+      "question": "A card is drawn at random from a standard deck of 52 playing cards. What is the probability that the card drawn is either a King or a red card?",
+      "questionHtml": "<p>A card is drawn at random from a standard deck of 52 playing cards. What is the probability that the card drawn is either a King or a red card?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "7/13",
+          "html": "<p>7/13</p>"
+        },
+        {
+          "id": "B",
+          "text": "9/13",
+          "html": "<p>9/13</p>"
+        },
+        {
+          "id": "C",
+          "text": "12/13",
+          "html": "<p>12/13</p>"
+        },
+        {
+          "id": "D",
+          "text": "5/13",
+          "html": "<p>5/13</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image045.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q28",
+      "number": 28,
+      "question": "The simple interest on a certain sum for 2 years at 10% per annum is ₹400. Find the difference between the compound interest and the simple interest on the same sum for 2 years at the same rate of interest.",
+      "questionHtml": "<p>The simple interest on a certain sum for 2 years at 10% per annum is ₹400. Find the difference between the compound interest and the simple interest on the same sum for 2 years at the same rate of interest.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹24",
+          "html": "<p>₹24</p>"
+        },
+        {
+          "id": "B",
+          "text": "₹16",
+          "html": "<p>₹16</p>"
+        },
+        {
+          "id": "C",
+          "text": "₹18",
+          "html": "<p>₹18</p>"
+        },
+        {
+          "id": "D",
+          "text": "₹20",
+          "html": "<p>₹20</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image048.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q29",
+      "number": 29,
+      "question": "A hemispherical tank of radius 7 metres is filled by a tap which supplies water at the rate of 11 litres per minute. How much time will the tap take to fill the tank completely?",
+      "questionHtml": "<p>A hemispherical tank of radius 7 metres is filled by a tap which supplies water at the rate of 11 litres per minute. How much time will the tap take to fill the tank completely?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "212000/5 minutes",
+          "html": "<p>212000/5 minutes</p>"
+        },
+        {
+          "id": "B",
+          "text": "196000/3 minutes",
+          "html": "<p>196000/3 minutes</p>"
+        },
+        {
+          "id": "C",
+          "text": "164000/5 minutes",
+          "html": "<p>164000/5 minutes </p>"
+        },
+        {
+          "id": "D",
+          "text": "256000/3 minutes",
+          "html": "<p>256000/3 minutes</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image050.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q30",
+      "number": 30,
+      "question": "Two chords AB and CD of a circle intersect at a point P inside the circle. If AP = 6 cm, PB = 9 cm, and CP = 4 cm, find the length of DP.",
+      "questionHtml": "<p>Two chords AB and CD of a circle intersect at a point P inside the circle. If AP = 6 cm, PB = 9 cm, and CP = 4 cm, find the length of DP.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 cm",
+          "html": "<p>6 cm</p>"
+        },
+        {
+          "id": "B",
+          "text": "10.5 cm",
+          "html": "<p>10.5 cm</p>"
+        },
+        {
+          "id": "C",
+          "text": "13.5 cm",
+          "html": "<p>13.5 cm</p>"
+        },
+        {
+          "id": "D",
+          "text": "9 cm",
+          "html": "<p>9 cm</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084045179_image053.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q31",
+      "number": 31,
+      "question": "Select the set in which the numbers are NOT related in the same way as are the numbers of the following sets. (NOTE: Operations should be performed on the whole numbers without breaking down the numbers into their constituent digits. Eg. 13 – Operations on 13 such as adding / subtracting / multiplying 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) (19, 6, 57) (6, 23, 69)",
+      "questionHtml": "<p>Select the set in which the numbers are NOT related in the same way as are the numbers of the following sets.</p><p>(NOTE: Operations should be performed on the whole numbers without breaking down the numbers into their constituent digits. Eg. 13 – Operations on 13 such as adding / subtracting / multiplying 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)</p><p>(19, 6, 57)<br/>(6, 23, 69)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(8, 10, 40)",
+          "html": "<p>(8, 10, 40)</p>"
+        },
+        {
+          "id": "B",
+          "text": "(12, 5, 30)",
+          "html": "<p>(12, 5, 30)</p>"
+        },
+        {
+          "id": "C",
+          "text": "(14, 6, 44)",
+          "html": "<p>(14, 6, 44)</p>"
+        },
+        {
+          "id": "D",
+          "text": "(9, 8, 36)",
+          "html": "<p>(9, 8, 36)</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Rule from given sets:<br/>👉 (1st × 2nd) ÷ 2 = 3rd</p><p>Check options:</p><p>✅ Correct answer (NOT related): (14, 6, 44)</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q32",
+      "number": 32,
+      "question": "Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of :: ? # : WXA :: EHG : %",
+      "questionHtml": "<p>Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of :: ?</p><p># : WXA :: EHG : %</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "# – VWZ, % – FIH",
+          "html": "<p># – VWZ, % – FIH</p>"
+        },
+        {
+          "id": "B",
+          "text": "# – UVX, % – HIF",
+          "html": "<p># – UVX, % – HIF</p>"
+        },
+        {
+          "id": "C",
+          "text": "# – VUA, % – NJK",
+          "html": "<p># – VUA, % – NJK</p>"
+        },
+        {
+          "id": "D",
+          "text": "# – UVB, % – LMN",
+          "html": "<p># – UVB, % – LMN</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Option (a):</p><p>✅ Correct answer: Option (A)</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q33",
+      "number": 33,
+      "question": "In this question, a statement is followed by two conclusions, numbered I and II. Decide which of the two conclusions is/are true based on the given statement. Statement: P ≤ Q < R = U > V ≥ X > Y Conclusions: I. P < U II. X > Q",
+      "questionHtml": "<p>In this question, a statement is followed by two conclusions, numbered I and II. Decide which of the two conclusions is/are true based on the given statement.</p><p>Statement:<br/>P ≤ Q &lt; R = U &gt; V ≥ X &gt; Y</p><p>Conclusions:<br/>I. P &lt; U<br/>II. X &gt; Q</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only Conclusion I is true",
+          "html": "<p>Only Conclusion I is true</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only Conclusion II is true",
+          "html": "<p>Only Conclusion II is true</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both Conclusion I and Conclusion II are true",
+          "html": "<p>Both Conclusion I and Conclusion II are true</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither Conclusion I nor Conclusion II is true",
+          "html": "<p>Neither Conclusion I nor Conclusion II is true</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Statement:<br/>P ≤ Q &lt; R = U &gt; V ≥ X &gt; Y</p><p>Check Conclusion I: P &lt; U</p><p>P ≤ Q and Q &lt; R, and R = U<br/>So, P &lt; U ✔<br/>✅ Conclusion I is true.</p><p>Check Conclusion II: X &gt; Q</p><p>We know:<br/>Q &lt; R (=U) &gt; V ≥ X</p><p>So X is less than U, but relation between X and Q is not definite ❌<br/>❌ Conclusion II is false.</p><p>✅ Final Answer:</p><p>Only Conclusion I is true</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q34",
+      "number": 34,
+      "question": "What will come in the place of the question mark (?) in the following equation, if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged? 32 + 8 ÷ 96 × 4 − 16 = ?",
+      "questionHtml": "<p>What will come in the place of the question mark (?) in the following equation, if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?</p><p>32 + 8 ÷ 96 × 4 − 16 = ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "144",
+          "html": "<p>144</p>"
+        },
+        {
+          "id": "B",
+          "text": "-144",
+          "html": "<p>-144</p>"
+        },
+        {
+          "id": "C",
+          "text": "128",
+          "html": "<p>128</p>"
+        },
+        {
+          "id": "D",
+          "text": "132",
+          "html": "<p>132</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Equation after interchange: 32 − 8 × 96 ÷ 4 + 16</p><p>BODMAS: 8 × 96 = 768, 768 ÷ 4 = 192<br/>32 − 192 + 16 = −144</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q35",
+      "number": 35,
+      "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements. Statements All fruits are sweet. Some sweets are chocolates. No chocolate is healthy. Conclusions I. Some fruits are chocolates. II. Some sweets are not healthy. III. No fruit is chocolate.",
+      "questionHtml": "<p>Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.<br/>Statements<br/>All fruits are sweet.<br/>Some sweets are chocolates.<br/>No chocolate is healthy.<br/>Conclusions<br/>I. Some fruits are chocolates. <br/>II. Some sweets are not healthy. <br/>III. No fruit is chocolate.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only Conclusion I follows",
+          "html": "<p>Only Conclusion I follows</p>"
+        },
+        {
+          "id": "B",
+          "text": "Either I or III, and II follows.",
+          "html": "<p>Either I or III, and II follows.</p>"
+        },
+        {
+          "id": "C",
+          "text": "Only Conclusion II and III follow",
+          "html": "<p>Only Conclusion II and III follow</p>"
+        },
+        {
+          "id": "D",
+          "text": "All Conclusions follow",
+          "html": "<p>All Conclusions follow</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image001.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q36",
+      "number": 36,
+      "question": "In a certain code language, ‘PAID’ is coded as ‘3274’ and ‘APED’ is coded as ‘6437’. What is the code for ‘E’ in that language?",
+      "questionHtml": "<p>In a certain code language, ‘PAID’ is coded as ‘3274’ and ‘APED’ is coded as ‘6437’. What is the code for ‘E’ in that language?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "<p>3</p>"
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "html": "<p>6</p>"
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "html": "<p>2</p>"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "<p>4</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Coded language solution:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q37",
+      "number": 37,
+      "question": "65 is related to 54 following a certain logic. Following the same logic, 83 is related to 72. To which of the following is 91 related?",
+      "questionHtml": "<p>65 is related to 54 following a certain logic. Following the same logic, 83 is related to 72. To which of the following is 91 related?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "80",
+          "html": "<p>80</p>"
+        },
+        {
+          "id": "B",
+          "text": "79",
+          "html": "<p>79</p>"
+        },
+        {
+          "id": "C",
+          "text": "78",
+          "html": "<p>78</p>"
+        },
+        {
+          "id": "D",
+          "text": "77",
+          "html": "<p>77</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>65 − 11 = 54</p><p>83 − 11 = 72</p><p>So, the logic is: subtract 11</p><p>Apply same logic to 91:</p><p>Correct answer: Option 1 → 80</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q38",
+      "number": 38,
+      "question": "Arrange the following words in a logical and meaningful order: 1. Circle 2. Square 3. Decagon 4. Triangle 5. Nonagon",
+      "questionHtml": "<p>Arrange the following words in a logical and meaningful order:<br/>1. Circle<br/>2. Square<br/>3. Decagon<br/>4. Triangle<br/>5. Nonagon</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 4, 2, 5, 3",
+          "html": "<p>1, 4, 2, 5, 3</p>"
+        },
+        {
+          "id": "B",
+          "text": "4, 2, 5, 3, 1",
+          "html": "<p>4, 2, 5, 3, 1</p>"
+        },
+        {
+          "id": "C",
+          "text": "4, 2, 3, 5, 1",
+          "html": "<p>4, 2, 3, 5, 1</p>"
+        },
+        {
+          "id": "D",
+          "text": "1, 2, 4, 5, 3",
+          "html": "<p>1, 2, 4, 5, 3</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Correct Logic:</p><p>Correct Order: 1, 4, 2, 5, 3 → Option 1</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q39",
+      "number": 39,
+      "question": "If 2 is added to each odd digit and 1 is subtracted from each even digit in the number 43871526, how many digits will appear more than once in the new number thus formed?",
+      "questionHtml": "<p>If 2 is added to each odd digit and 1 is subtracted from each even digit in the number 43871526, how many digits will appear more than once in the new number thus formed?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "One",
+          "html": "<p>One</p>"
+        },
+        {
+          "id": "B",
+          "text": "Two",
+          "html": "<p>Two</p>"
+        },
+        {
+          "id": "C",
+          "text": "Three",
+          "html": "<p>Three</p>"
+        },
+        {
+          "id": "D",
+          "text": "None",
+          "html": "<p>None</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Original digits: 4, 3, 8, 7, 1, 5, 2, 6 Apply logic:</p><p>New digits:</p><p>Combined: 3, 7, 1, 5, 5, 9, 3, 7</p><p>Frequency count:</p><p>Answer: Three digits appear more than once → Option 3</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q40",
+      "number": 40,
+      "question": "Statement: Despite a clear ban, a student was found sharing exam answers via a class WhatsApp group. Courses of Action: I: Suspend the student’s group access and inform the parents. II: Conduct a digital literacy session on academic integrity for the whole class.",
+      "questionHtml": "<p>Statement: Despite a clear ban, a student was found sharing exam answers via a class WhatsApp group.<br/>Courses of Action:<br/>I: Suspend the student’s group access and inform the parents.<br/>II: Conduct a digital literacy session on academic integrity for the whole class.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only (I) follows",
+          "html": "<p>Only (I) follows</p>"
+        },
+        {
+          "id": "B",
+          "text": "Both (I) and (II) follow",
+          "html": "<p>Both (I) and (II) follow</p>"
+        },
+        {
+          "id": "C",
+          "text": "Neither (I) nor (II) follows",
+          "html": "<p>Neither (I) nor (II) follows</p>"
+        },
+        {
+          "id": "D",
+          "text": "Only (II) follows",
+          "html": "<p>Only (II) follows</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Answer: Both (I) and (II) follow</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q41",
+      "number": 41,
+      "question": "How many meaningful four-letter English words can be formed using E, A, L, T, using all the letters but each letter only once in each word?",
+      "questionHtml": "<p>How many meaningful four-letter English words can be formed using E, A, L, T, using all the letters but each letter only once in each word?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "One",
+          "html": "<p>One</p>"
+        },
+        {
+          "id": "B",
+          "text": "Two",
+          "html": "<p>Two</p>"
+        },
+        {
+          "id": "C",
+          "text": "Three",
+          "html": "<p>Three</p>"
+        },
+        {
+          "id": "D",
+          "text": "Four",
+          "html": "<p>Four</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Possible permutations using all four letters:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q42",
+      "number": 42,
+      "question": "Select the combination of letters that when sequentially placed in the blanks of the given series, will complete the series. QWUQQW_Q_WWUQQW_U_",
+      "questionHtml": "<p>Select the combination of letters that when sequentially placed in the blanks of the given series, will complete the series.</p><p>QWUQQW_Q_WWUQQW_U_</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "UQWU",
+          "html": "<p>UQWU</p>"
+        },
+        {
+          "id": "B",
+          "text": "QUVW",
+          "html": "<p>QUVW</p>"
+        },
+        {
+          "id": "C",
+          "text": "VPWS",
+          "html": "<p>VPWS</p>"
+        },
+        {
+          "id": "D",
+          "text": "QUWA",
+          "html": "<p>QUWA</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>QWU/QQWU/QQWWU/QQWWUU</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q43",
+      "number": 43,
+      "question": "Three of the following word pairs are alike in some manner and hence form a group. Which word pair does not belong to that group? (The words must be considered as meaningful English words and must not be grouped based on the number of letters or the number of consonants/vowels in the word.)",
+      "questionHtml": "<p>Three of the following word pairs are alike in some manner and hence form a group. Which word pair does not belong to that group?</p><p>(The words must be considered as meaningful English words and must not be grouped based on the number of letters or the number of consonants/vowels in the word.)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ice cream – Cone",
+          "html": "<p>Ice cream – Cone</p>"
+        },
+        {
+          "id": "B",
+          "text": "Ball – Sphere",
+          "html": "<p>Ball – Sphere</p>"
+        },
+        {
+          "id": "C",
+          "text": "Candle – Cylinder",
+          "html": "<p>Candle – Cylinder</p>"
+        },
+        {
+          "id": "D",
+          "text": "Pillow – Rectangle",
+          "html": "<p>Pillow – Rectangle</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Pattern alignment:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q44",
+      "number": 44,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image002.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image002.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "<p>2</p>"
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "html": "<p>5</p>"
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "html": "<p>6</p>"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "<p>1</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q45",
+      "number": 45,
+      "question": "Two statements I and II have been given. These statements may be independent causes or effects of independent causes or a common cause. One of the statements may be the effect of the other statement. Read both the statements and select the correct option. I. Several trains to coastal Andhra Pradesh have been cancelled for the next two days. II. A severe cyclonic storm is expected to hit the Andhra coast with heavy rainfall and strong winds.",
+      "questionHtml": "<p>Two statements I and II have been given. These statements may be independent causes or effects of independent causes or a common cause. One of the statements may be the effect of the other statement. Read both the statements and select the correct option.<br/>I. Several trains to coastal Andhra Pradesh have been cancelled for the next two days. <br/>II. A severe cyclonic storm is expected to hit the Andhra coast with heavy rainfall and strong winds.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "II is the cause and I is its possible effect",
+          "html": "<p>II is the cause and I is its possible effect</p>"
+        },
+        {
+          "id": "B",
+          "text": "Both I and II are effects of independent causes",
+          "html": "<p>Both I and II are effects of independent causes</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both I and II are independent causes",
+          "html": "<p>Both I and II are independent causes</p>"
+        },
+        {
+          "id": "D",
+          "text": "I is the cause and II is its possible effect",
+          "html": "<p>I is the cause and II is its possible effect</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>The cyclone warning (Statement II) is the cause, and train cancellations (Statement I) are its precautionary effect.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q46",
+      "number": 46,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image003.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image003.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image004.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image004.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image005.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image005.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image006.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image006.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image007.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image007.jpeg"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image007.jpeg",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q47",
+      "number": 47,
+      "question": "A certain number of people are sitting in a row facing north. ‘A’ is sitting to the immediate right of ‘B’. ‘C’ is sitting 4th to the left of ‘B’. ‘D’ is an immediate neighbour of both ‘A’ and ‘E’. ‘F’ is sitting 3rd to the left of ‘A’. ‘G’ is sitting at one extreme end, and there is only one person sitting between ‘G’ and ‘C’. If no other person is sitting in the row, what is the total number of people seated?",
+      "questionHtml": "<p>A certain number of people are sitting in a row facing north. ‘A’ is sitting to the immediate right of ‘B’. ‘C’ is sitting 4th to the left of ‘B’. ‘D’ is an immediate neighbour of both ‘A’ and ‘E’. ‘F’ is sitting 3rd to the left of ‘A’. ‘G’ is sitting at one extreme end, and there is only one person sitting between ‘G’ and ‘C’. If no other person is sitting in the row, what is the total number of people seated?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "10",
+          "html": "<p>10</p>"
+        },
+        {
+          "id": "B",
+          "text": "11",
+          "html": "<p>11</p>"
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "html": "<p>12</p>"
+        },
+        {
+          "id": "D",
+          "text": "9",
+          "html": "<p>9</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>To satisfy all conditions, the only valid order is:</p><p>G _ C _ F _ B A D E</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q48",
+      "number": 48,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image008.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image008.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image009.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image009.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image010.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image010.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image011.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image011.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image012.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image012.jpeg"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image013.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q49",
+      "number": 49,
+      "question": "GIHW is related to KMLA in a certain way based on the English alphabetical order. In the same way, ABED is related to EFIH. To which of the following is IJML related, following the same logic?",
+      "questionHtml": "<p>GIHW is related to KMLA in a certain way based on the English alphabetical order. In the same way, ABED is related to EFIH. To which of the following is IJML related, following the same logic?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "OPRS",
+          "html": "<p>OPRS</p>"
+        },
+        {
+          "id": "B",
+          "text": "ROPS",
+          "html": "<p>ROPS</p>"
+        },
+        {
+          "id": "C",
+          "text": "MNQP",
+          "html": "<p>MNQP</p>"
+        },
+        {
+          "id": "D",
+          "text": "PORS",
+          "html": "<p>PORS</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q50",
+      "number": 50,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image014.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image014.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image015.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image015.jpeg"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image016.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image016.jpeg"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image017.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image017.jpeg"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image018.jpeg",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image018.jpeg"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image019.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q51",
+      "number": 51,
+      "question": "What will come in place of the question mark (?) in the following equation, if '+' and '–' are interchanged and '×' and '÷' are interchanged? 45 – 12 × 6 + 9 = ?",
+      "questionHtml": "<p>What will come in place of the question mark (?) in the following equation, if '+' and '–' are interchanged and '×' and '÷' are interchanged?</p><p>45 – 12 × 6 + 9 = ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "38",
+          "html": "<p>38</p>"
+        },
+        {
+          "id": "B",
+          "text": "36",
+          "html": "<p>36</p>"
+        },
+        {
+          "id": "C",
+          "text": "39",
+          "html": "<p>39</p>"
+        },
+        {
+          "id": "D",
+          "text": "40",
+          "html": "<p>40</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Answer: 38</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q52",
+      "number": 52,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image020.jpeg",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image020.jpeg",
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "html": "<p>8</p>"
+        },
+        {
+          "id": "B",
+          "text": "10",
+          "html": "<p>10</p>"
+        },
+        {
+          "id": "C",
+          "text": "7",
+          "html": "<p>7</p>"
+        },
+        {
+          "id": "D",
+          "text": "9",
+          "html": "<p>9</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image021.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q53",
+      "number": 53,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image022.jpeg",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image022.jpeg",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "<p>2</p>"
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "html": "<p>3</p>"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "<p>4</p>"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "html": "<p>1</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1769084223848_image023.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q54",
+      "number": 54,
+      "question": "Select the option that is related to the fifth term in the same way as the second term is related to the first term and fourth term is related to third term. SPACING : TRDGNTN :: PAINTER : QCLRYKY :: ENGLISH : ?",
+      "questionHtml": "<p>Select the option that is related to the fifth term in the same way as the second term is related to the first term and fourth term is related to third term.<br/>SPACING : TRDGNTN :: PAINTER : QCLRYKY :: ENGLISH : ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "FPJTKPJ",
+          "html": "<p>FPJTKPJ</p>"
+        },
+        {
+          "id": "B",
+          "text": "FPHTKPH",
+          "html": "<p>FPHTKPH</p>"
+        },
+        {
+          "id": "C",
+          "text": "FPJPNYO",
+          "html": "<p>FPJPNYO</p>"
+        },
+        {
+          "id": "D",
+          "text": "EPJTKPH",
+          "html": "<p>EPJTKPH</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Answer: (c) FPJPNYO</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q55",
+      "number": 55,
+      "question": "Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number. 8 : 508 :: 4 : 62 :: 6 : ?",
+      "questionHtml": "<p>Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number.</p><p>8 : 508 :: 4 : 62 :: 6 : ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "216",
+          "html": "<p>216</p>"
+        },
+        {
+          "id": "B",
+          "text": "214",
+          "html": "<p>214</p>"
+        },
+        {
+          "id": "C",
+          "text": "213",
+          "html": "<p>213</p>"
+        },
+        {
+          "id": "D",
+          "text": "212",
+          "html": "<p>212</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct Answer: (c) 213</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q56",
+      "number": 56,
+      "question": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. FCE, HGI, ?, LOQ, NSU",
+      "questionHtml": "<p>Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.</p><p>FCE, HGI, ?, LOQ, NSU</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "JKL",
+          "html": "<p>JKL</p>"
+        },
+        {
+          "id": "B",
+          "text": "JKM",
+          "html": "<p>JKM</p>"
+        },
+        {
+          "id": "C",
+          "text": "JLN",
+          "html": "<p>JLN</p>"
+        },
+        {
+          "id": "D",
+          "text": "KLM",
+          "html": "<p>KLM</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Correct Answer: (b) JKM</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q57",
+      "number": 57,
+      "question": "Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, decide which of the given conclusions logically follows from the statement. Statement: The government has announced a policy to increase renewable energy capacity significantly over the next ten years. Conclusions: I. The government will completely stop using coal-based power plants immediately. II. The use of renewable energy sources will increase in the coming years.",
+      "questionHtml": "<p>Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, decide which of the given conclusions logically follows from the statement.<br/>Statement:<br/>The government has announced a policy to increase renewable energy capacity significantly over the next ten years.<br/>Conclusions:<br/>I. The government will completely stop using coal-based power plants immediately.<br/>II. The use of renewable energy sources will increase in the coming years.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only Conclusion I follows",
+          "html": "<p>Only Conclusion I follows</p>"
+        },
+        {
+          "id": "B",
+          "text": "Both Conclusion I and Conclusion II follow",
+          "html": "<p>Both Conclusion I and Conclusion II follow</p>"
+        },
+        {
+          "id": "C",
+          "text": "Neither Conclusion I nor Conclusion II follows",
+          "html": "<p>Neither Conclusion I nor Conclusion II follows</p>"
+        },
+        {
+          "id": "D",
+          "text": "Only Conclusion II follows",
+          "html": "<p>Only Conclusion II follows</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Answer: Only Conclusion II follows (Option D)</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q58",
+      "number": 58,
+      "question": "Select the number from among the given options that can replace the question mark (?) in the following series. 225, 244, 265, 288, ?",
+      "questionHtml": "<p>Select the number from among the given options that can replace the question mark (?) in the following series.</p><p>225, 244, 265, 288, ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "309",
+          "html": "<p>309</p>"
+        },
+        {
+          "id": "B",
+          "text": "310",
+          "html": "<p>310</p>"
+        },
+        {
+          "id": "C",
+          "text": "313",
+          "html": "<p>313</p>"
+        },
+        {
+          "id": "D",
+          "text": "316",
+          "html": "<p>316</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct Answer: C) 313</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q59",
+      "number": 59,
+      "question": "If you are the 19th person from one end and 46th from the other end in a queue, what is the total number of persons in the queue?",
+      "questionHtml": "<p>If you are the 19th person from one end and 46th from the other end in a queue, what is the total number of persons in the queue?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "63",
+          "html": "<p>63</p>"
+        },
+        {
+          "id": "B",
+          "text": "64",
+          "html": "<p>64</p>"
+        },
+        {
+          "id": "C",
+          "text": "65",
+          "html": "<p>65</p>"
+        },
+        {
+          "id": "D",
+          "text": "66",
+          "html": "<p>66</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q60",
+      "number": 60,
+      "question": "Select the option that is related to the third word in the same way as the second word is related to the first word. Wheat : Flour :: Sugarcane : ?",
+      "questionHtml": "<p>Select the option that is related to the third word in the same way as the second word is related to the first word.</p><p>Wheat : Flour :: Sugarcane : ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sugar",
+          "html": "<p>Sugar</p>"
+        },
+        {
+          "id": "B",
+          "text": "Chocolate",
+          "html": "<p>Chocolate</p>"
+        },
+        {
+          "id": "C",
+          "text": "Molasses",
+          "html": "<p>Molasses</p>"
+        },
+        {
+          "id": "D",
+          "text": "Syrup",
+          "html": "<p>Syrup</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Correct Answer: A) Sugar</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q61",
+      "number": 61,
+      "question": "In the following passage some words have been omitted. Fill in the blanks accordingly: The Indian economy is (1) ______ a significant transformation. The government’s focus on (2) ______ infrastructure has led to the growth of various sectors. (3) ______, challenges such as inflation and unemployment (4) ______. It is essential to (5) ______ these issues to ensure sustainable growth. Q- What will come in blank (1)",
+      "questionHtml": "<p>In the following passage some words have been omitted. Fill in the blanks accordingly:</p><p>The Indian economy is (1) ______ a significant transformation. The government’s focus on (2) ______ infrastructure has led to the growth of various sectors. (3) ______, challenges such as inflation and unemployment (4) ______. It is essential to (5) ______ these issues to ensure sustainable growth.</p><p>Q- What will come in blank (1)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "following",
+          "html": "<p>following</p>"
+        },
+        {
+          "id": "B",
+          "text": "passing",
+          "html": "<p>passing</p>"
+        },
+        {
+          "id": "C",
+          "text": "moving",
+          "html": "<p>moving</p>"
+        },
+        {
+          "id": "D",
+          "text": "undergoing",
+          "html": "<p>undergoing</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Correct Answer: undergoing ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q62",
+      "number": 62,
+      "question": "In the following passage some words have been omitted. Fill in the blanks accordingly: The Indian economy is (1) ______ a significant transformation. The government’s focus on (2) ______ infrastructure has led to the growth of various sectors. (3) ______, challenges such as inflation and unemployment (4) ______. It is essential to (5) ______ these issues to ensure sustainable growth. Q- What will come in blank (2)",
+      "questionHtml": "<p>In the following passage some words have been omitted. Fill in the blanks accordingly:</p><p>The Indian economy is (1) ______ a significant transformation. The government’s focus on (2) ______ infrastructure has led to the growth of various sectors. (3) ______, challenges such as inflation and unemployment (4) ______. It is essential to (5) ______ these issues to ensure sustainable growth.</p><p>Q- What will come in blank (2)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "weakening",
+          "html": "<p>weakening</p>"
+        },
+        {
+          "id": "B",
+          "text": "diminishing",
+          "html": "<p>diminishing</p>"
+        },
+        {
+          "id": "C",
+          "text": "enhancing",
+          "html": "<p>enhancing</p>"
+        },
+        {
+          "id": "D",
+          "text": "destroying",
+          "html": "<p>destroying</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct Answer: enhancing ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q63",
+      "number": 63,
+      "question": "In the following passage some words have been omitted. Fill in the blanks accordingly: The Indian economy is (1) ______ a significant transformation. The government’s focus on (2) ______ infrastructure has led to the growth of various sectors. (3) ______, challenges such as inflation and unemployment (4) ______. It is essential to (5) ______ these issues to ensure sustainable growth. Q- What will come in blank (3)",
+      "questionHtml": "<p>In the following passage some words have been omitted. Fill in the blanks accordingly:</p><p>The Indian economy is (1) ______ a significant transformation. The government’s focus on (2) ______ infrastructure has led to the growth of various sectors. (3) ______, challenges such as inflation and unemployment (4) ______. It is essential to (5) ______ these issues to ensure sustainable growth.</p><p>Q- What will come in blank (3)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Therefore",
+          "html": "<p>Therefore</p>"
+        },
+        {
+          "id": "B",
+          "text": "However",
+          "html": "<p>However</p>"
+        },
+        {
+          "id": "C",
+          "text": "Similarly",
+          "html": "<p>Similarly</p>"
+        },
+        {
+          "id": "D",
+          "text": "Moreover",
+          "html": "<p>Moreover</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Correct Answer: ✅ However</p><p>Explanation:<br/>The passage first talks about positive developments (growth due to enhanced infrastructure) and then introduces challenges (inflation and unemployment). A contrast connector is required.</p><p>“However, challenges such as inflation and unemployment …”</p><p>📌 Why others don’t fit:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q64",
+      "number": 64,
+      "question": "In the following passage some words have been omitted. Fill in the blanks accordingly: The Indian economy is (1) ______ a significant transformation. The government’s focus on (2) ______ infrastructure has led to the growth of various sectors. (3) ______, challenges such as inflation and unemployment (4) ______. It is essential to (5) ______ these issues to ensure sustainable growth. Q- What will come in blank (4)",
+      "questionHtml": "<p>In the following passage some words have been omitted. Fill in the blanks accordingly:</p><p>The Indian economy is (1) ______ a significant transformation. The government’s focus on (2) ______ infrastructure has led to the growth of various sectors. (3) ______, challenges such as inflation and unemployment (4) ______. It is essential to (5) ______ these issues to ensure sustainable growth.</p><p>Q- What will come in blank (4)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "persist",
+          "html": "<p>persist</p>"
+        },
+        {
+          "id": "B",
+          "text": "decrease",
+          "html": "<p>decrease</p>"
+        },
+        {
+          "id": "C",
+          "text": "increase",
+          "html": "<p>increase</p>"
+        },
+        {
+          "id": "D",
+          "text": "disappear",
+          "html": "<p>disappear</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Correct Answer: ✅ persist</p><p>Explanation:<br/>After introducing a contrast with “However”, the sentence talks about ongoing problems. The word “persist” best fits the context:</p><p>“However, challenges such as inflation and unemployment persist.”</p><p>📌 Why other options are incorrect:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q65",
+      "number": 65,
+      "question": "In the following passage some words have been omitted. Fill in the blanks accordingly: The Indian economy is (1) ______ a significant transformation. The government’s focus on (2) ______ infrastructure has led to the growth of various sectors. (3) ______, challenges such as inflation and unemployment (4) ______. It is essential to (5) ______ these issues to ensure sustainable growth. Q- What will come in blank (5)",
+      "questionHtml": "<p>In the following passage some words have been omitted. Fill in the blanks accordingly:</p><p>The Indian economy is (1) ______ a significant transformation. The government’s focus on (2) ______ infrastructure has led to the growth of various sectors. (3) ______, challenges such as inflation and unemployment (4) ______. It is essential to (5) ______ these issues to ensure sustainable growth.</p><p>Q- What will come in blank (5)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ignore",
+          "html": "<p>ignore</p>"
+        },
+        {
+          "id": "B",
+          "text": "avoid",
+          "html": "<p>avoid</p>"
+        },
+        {
+          "id": "C",
+          "text": "overlook",
+          "html": "<p>overlook</p>"
+        },
+        {
+          "id": "D",
+          "text": "address",
+          "html": "<p>address</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Correct Answer: ✅ address</p><p>Explanation:<br/>The sentence concludes by emphasizing the need to deal with existing problems to ensure sustainable growth:</p><p>“It is essential to address these issues to ensure sustainable growth.”</p><p>📌 Why others are incorrect:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q66",
+      "number": 66,
+      "question": "Synonym of 'REITERATE':",
+      "questionHtml": "<p>Synonym of 'REITERATE':</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Review",
+          "html": "<p>Review</p>"
+        },
+        {
+          "id": "B",
+          "text": "Repeat",
+          "html": "<p>Repeat</p>"
+        },
+        {
+          "id": "C",
+          "text": "Reconsider",
+          "html": "<p>Reconsider</p>"
+        },
+        {
+          "id": "D",
+          "text": "Remark",
+          "html": "<p>Remark</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>✅ Correct Answer: Repeat</p><p>Explanation:<br/>Reiterate (दोहराना) means to say or state something again, usually to emphasize a point.<br/>Repeat (फिर से कहना / दोहराना) has the same meaning, so it is the correct synonym.</p><p>Other options:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q67",
+      "number": 67,
+      "question": "Select the appropriate meaning of the idiom: \"Through thick and thin\"",
+      "questionHtml": "<p>Select the appropriate meaning of the idiom:</p><p>\"Through thick and thin\"</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Under all conditions, no matter how difficult",
+          "html": "<p>Under all conditions, no matter how difficult</p>"
+        },
+        {
+          "id": "B",
+          "text": "To lose weight quickly",
+          "html": "<p>To lose weight quickly</p>"
+        },
+        {
+          "id": "C",
+          "text": "To be inconsistent",
+          "html": "<p>To be inconsistent</p>"
+        },
+        {
+          "id": "D",
+          "text": "To go through a narrow path",
+          "html": "<p>To go through a narrow path</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Correct Answer: Under all conditions, no matter how difficult ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q68",
+      "number": 68,
+      "question": "Find the appropriate synonym of the word: CANDOR",
+      "questionHtml": "<p>Find the appropriate synonym of the word:</p><p>CANDOR</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deceit",
+          "html": "<p>Deceit</p>"
+        },
+        {
+          "id": "B",
+          "text": "Jealousy",
+          "html": "<p>Jealousy</p>"
+        },
+        {
+          "id": "C",
+          "text": "Ambiguity",
+          "html": "<p>Ambiguity</p>"
+        },
+        {
+          "id": "D",
+          "text": "Frankness",
+          "html": "<p>Frankness</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Word: Candor</p><p>Options Recap with Hindi:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q69",
+      "number": 69,
+      "question": "Synonym of 'ABANDON’",
+      "questionHtml": "<p>Synonym of 'ABANDON’</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Retain",
+          "html": "<p>Retain</p>"
+        },
+        {
+          "id": "B",
+          "text": "Forsake",
+          "html": "<p>Forsake</p>"
+        },
+        {
+          "id": "C",
+          "text": "Support",
+          "html": "<p>Support</p>"
+        },
+        {
+          "id": "D",
+          "text": "Keep",
+          "html": "<p>Keep</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Word: ABANDON (त्यागना / छोड़ देना)</p><p>Meaning: To leave behind, give up, or desert (त्यागना, छोड़ देना, परित्याग करना).</p><p>Options with Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q70",
+      "number": 70,
+      "question": "Find the correctly spelled word:",
+      "questionHtml": "<p>Find the correctly spelled word:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Occurence",
+          "html": "<p>Occurence</p>"
+        },
+        {
+          "id": "B",
+          "text": "Occurrance",
+          "html": "<p>Occurrance</p>"
+        },
+        {
+          "id": "C",
+          "text": "Ocurrence",
+          "html": "<p>Ocurrence</p>"
+        },
+        {
+          "id": "D",
+          "text": "Occurrence",
+          "html": "<p>Occurrence</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>✅ Correct Answer: Occurrence (घटना / घटित होना)</p><p>Explanation:<br/>The correct spelling is Occurrence, which means an event or something that happens (कोई घटना या घटना का होना).</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q71",
+      "number": 71,
+      "question": "Change the narration of the following sentence: Ram said, \"I have finished my work.\"",
+      "questionHtml": "<p>Change the narration of the following sentence:</p><p>Ram said, \"I have finished my work.\" </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ram said that he has finished his work.",
+          "html": "<p>Ram said that he has finished his work.</p>"
+        },
+        {
+          "id": "B",
+          "text": "Ram said that he had finished his work.",
+          "html": "<p>Ram said that he had finished his work. </p>"
+        },
+        {
+          "id": "C",
+          "text": "Ram said he finished his work.",
+          "html": "<p>Ram said he finished his work.</p>"
+        },
+        {
+          "id": "D",
+          "text": "Ram told he had finished his work.",
+          "html": "<p>Ram told he had finished his work.</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Correct answer: Ram said that he had finished his work.</p><p>Important concepts involved:<br/>• Statement in direct speech: Reporting verb remains said (no object given).<br/>• Change of pronoun: I → he, my → his.<br/>• Backshift of tense: Present perfect have finished → Past perfect had finished because the reporting verb is in the past.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q72",
+      "number": 72,
+      "question": "Change the voice of the following sentence: \"They have built a new house.\"",
+      "questionHtml": "<p>Change the voice of the following sentence:</p><p>\"They have built a new house.\"</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A new house has been built by them.",
+          "html": "<p>A new house has been built by them.</p>"
+        },
+        {
+          "id": "B",
+          "text": "A new house was built by them.",
+          "html": "<p>A new house was built by them. </p>"
+        },
+        {
+          "id": "C",
+          "text": "A new house is being built by them.",
+          "html": "<p>A new house is being built by them.</p>"
+        },
+        {
+          "id": "D",
+          "text": "A new house had been built by them.",
+          "html": "<p>A new house had been built by them.</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Correct answer: A new house has been built by them.</p><p>Important concepts involved:<br/>• Identify tense in active voice: have built → present perfect tense.<br/>• Rule of voice change (present perfect): have/has + V³ → has/have been + V³.<br/>• Object becomes subject: a new house becomes the subject of the passive sentence.<br/>• Change of pronoun: they → them.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q73",
+      "number": 73,
+      "question": "Arrange the following sentences to form a meaningful paragraph: A) In contrast, a trade deficit occurs when a country imports more than it exports. B) The balance of trade is the difference between the value of a country's exports and its imports. C) A positive balance is known as a trade surplus, which indicates a healthy manufacturing sector. D) Understanding these metrics is vital for evaluating a nation's economic strength.",
+      "questionHtml": "<p>Arrange the following sentences to form a meaningful paragraph:</p><p>A) In contrast, a trade deficit occurs when a country imports more than it exports.</p><p>B) The balance of trade is the difference between the value of a country's exports and its imports.</p><p>C) A positive balance is known as a trade surplus, which indicates a healthy manufacturing sector.</p><p>D) Understanding these metrics is vital for evaluating a nation's economic strength.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "CABD",
+          "html": "<p>CABD</p>"
+        },
+        {
+          "id": "B",
+          "text": "BDAC",
+          "html": "<p>BDAC</p>"
+        },
+        {
+          "id": "C",
+          "text": "CDAB",
+          "html": "<p>CDAB</p>"
+        },
+        {
+          "id": "D",
+          "text": "BCAD",
+          "html": "<p>BCAD</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>B → C → A → D</p><p>Explanation: of Order</p><p>Final Paragraph</p><p>The balance of trade is the difference between the value of a country's exports and its imports. A positive balance is known as a trade surplus, which indicates a healthy manufacturing sector. In contrast, a trade deficit occurs when a country imports more than it exports. Understanding these metrics is vital for evaluating a nation's economic strength.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q74",
+      "number": 74,
+      "question": "Fill in the Blanks: The plane took ______ despite the heavy rain.",
+      "questionHtml": "<p>Fill in the Blanks:</p><p>The plane took ______ despite the heavy rain.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "up",
+          "html": "<p>up</p>"
+        },
+        {
+          "id": "B",
+          "text": "off",
+          "html": "<p>off</p>"
+        },
+        {
+          "id": "C",
+          "text": "away",
+          "html": "<p>away</p>"
+        },
+        {
+          "id": "D",
+          "text": "in",
+          "html": "<p>in</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Correct Answer: off ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q75",
+      "number": 75,
+      "question": "What does the idiom \"The last straw\" mean?",
+      "questionHtml": "<p>What does the idiom \"The last straw\" mean?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The final piece of a puzzle",
+          "html": "<p>The final piece of a puzzle</p>"
+        },
+        {
+          "id": "B",
+          "text": "The last resource available",
+          "html": "<p>The last resource available</p>"
+        },
+        {
+          "id": "C",
+          "text": "To win at the last moment",
+          "html": "<p>To win at the last moment</p>"
+        },
+        {
+          "id": "D",
+          "text": "The final problem in a series of problems",
+          "html": "<p>The final problem in a series of problems</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Correct Answer: The final problem in a series of problems ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q76",
+      "number": 76,
+      "question": "Select the correct one-word substitute: ‘A collection of poems or pieces of writing.’",
+      "questionHtml": "<p>Select the correct one-word substitute:</p><p>‘A collection of poems or pieces of writing.’</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bibliography",
+          "html": "<p>Bibliography</p>"
+        },
+        {
+          "id": "B",
+          "text": "Lexicon",
+          "html": "<p>Lexicon</p>"
+        },
+        {
+          "id": "C",
+          "text": "Anthology",
+          "html": "<p>Anthology</p>"
+        },
+        {
+          "id": "D",
+          "text": "Catalogue",
+          "html": "<p>Catalogue</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct Answer: Anthology ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q77",
+      "number": 77,
+      "question": "Choose the word that is the most nearly opposite in meaning to: 'ARROGANT'",
+      "questionHtml": "<p>Choose the word that is the most nearly opposite in meaning to: 'ARROGANT'</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Haughty",
+          "html": "<p>Haughty</p>"
+        },
+        {
+          "id": "B",
+          "text": "Proud",
+          "html": "<p>Proud</p>"
+        },
+        {
+          "id": "C",
+          "text": "Confident",
+          "html": "<p>Confident</p>"
+        },
+        {
+          "id": "D",
+          "text": "Humble",
+          "html": "<p>Humble</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Correct Answer: Humble ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q78",
+      "number": 78,
+      "question": "Arrange the following sentences to form a meaningful paragraph: A) Modern smartphones have revolutionized the way we communicate and access information. B) However, this convenience comes with a significant trade-off regarding personal privacy. C) Consequently, users must remain vigilant about the permissions they grant to third-party apps. D) They offer unparalleled access to tools that were once confined to desktop computers.",
+      "questionHtml": "<p>Arrange the following sentences to form a meaningful paragraph:</p><p>A) Modern smartphones have revolutionized the way we communicate and access information.</p><p>B) However, this convenience comes with a significant trade-off regarding personal privacy.</p><p>C) Consequently, users must remain vigilant about the permissions they grant to third-party apps.</p><p>D) They offer unparalleled access to tools that were once confined to desktop computers.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "CDAB",
+          "html": "<p>CDAB</p>"
+        },
+        {
+          "id": "B",
+          "text": "ADBC",
+          "html": "<p>ADBC</p>"
+        },
+        {
+          "id": "C",
+          "text": "CBAD",
+          "html": "<p>CBAD</p>"
+        },
+        {
+          "id": "D",
+          "text": "ABCD",
+          "html": "<p>ABCD</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>A → D → B → C</p><p>Explanation: of Order</p><p>Final Paragraph</p><p>Modern smartphones have revolutionized the way we communicate and access information. They offer unparalleled access to tools that were once confined to desktop computers. However, this convenience comes with a significant trade-off regarding personal privacy. Consequently, users must remain vigilant about the permissions they grant to third-party apps.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q79",
+      "number": 79,
+      "question": "Fill in the Blanks: She has been working here ______ 2015.",
+      "questionHtml": "<p>Fill in the Blanks:</p><p>She has been working here ______ 2015.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "for",
+          "html": "<p>for</p>"
+        },
+        {
+          "id": "B",
+          "text": "from",
+          "html": "<p>from</p>"
+        },
+        {
+          "id": "C",
+          "text": "since",
+          "html": "<p>since</p>"
+        },
+        {
+          "id": "D",
+          "text": "during",
+          "html": "<p>during</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct Answer: since ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q80",
+      "number": 80,
+      "question": "Choose the word that is the most nearly opposite in meaning to: ‘FRAGILE’",
+      "questionHtml": "<p>Choose the word that is the most nearly opposite in meaning to: </p><p>‘FRAGILE’</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Brittle",
+          "html": "<p>Brittle</p>"
+        },
+        {
+          "id": "B",
+          "text": "Robust",
+          "html": "<p>Robust</p>"
+        },
+        {
+          "id": "C",
+          "text": "Feeble",
+          "html": "<p>Feeble</p>"
+        },
+        {
+          "id": "D",
+          "text": "Delicate",
+          "html": "<p>Delicate</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Correct Answer: Robust ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q81",
+      "number": 81,
+      "question": "Select the correct one-word substitute: ‘Something that cannot be seen with the naked eye.’",
+      "questionHtml": "<p>Select the correct one-word substitute:</p><p>‘Something that cannot be seen with the naked eye.’</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inaudible",
+          "html": "<p>Inaudible</p>"
+        },
+        {
+          "id": "B",
+          "text": "Intangible",
+          "html": "<p>Intangible</p>"
+        },
+        {
+          "id": "C",
+          "text": "Indelible",
+          "html": "<p>Indelible</p>"
+        },
+        {
+          "id": "D",
+          "text": "Invisible",
+          "html": "<p>Invisible</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Correct Answer: Invisible ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q82",
+      "number": 82,
+      "question": "What does the idiom \"Crying over spilled milk\" mean?",
+      "questionHtml": "<p>What does the idiom \"Crying over spilled milk\" mean?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "To be clumsy",
+          "html": "<p>To be clumsy</p>"
+        },
+        {
+          "id": "B",
+          "text": "To worry about something that has already happened",
+          "html": "<p>To worry about something that has already happened</p>"
+        },
+        {
+          "id": "C",
+          "text": "To be very sensitive",
+          "html": "<p>To be very sensitive</p>"
+        },
+        {
+          "id": "D",
+          "text": "To complain about food",
+          "html": "<p>To complain about food</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Correct Answer: To worry about something that has already happened ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q83",
+      "number": 83,
+      "question": "Arrange the following sentences to form a meaningful paragraph: A) While some bacteria cause diseases, many are actually beneficial to human health. B) They can be found in soil, water, and even inside the human body. C) For instance, those in the human gut help in the digestion of complex carbohydrates. D) Bacteria are microscopic, single-celled organisms that live in diverse environments.",
+      "questionHtml": "<p>Arrange the following sentences to form a meaningful paragraph:</p><p>A) While some bacteria cause diseases, many are actually beneficial to human health.</p><p>B) They can be found in soil, water, and even inside the human body.</p><p>C) For instance, those in the human gut help in the digestion of complex carbohydrates.</p><p>D) Bacteria are microscopic, single-celled organisms that live in diverse environments.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "DACB",
+          "html": "<p>DACB</p>"
+        },
+        {
+          "id": "B",
+          "text": "ADBC",
+          "html": "<p>ADBC</p>"
+        },
+        {
+          "id": "C",
+          "text": "DBAC",
+          "html": "<p>DBAC</p>"
+        },
+        {
+          "id": "D",
+          "text": "ACBD",
+          "html": "<p>ACBD</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>D → B → A → C</p><p>Explanation: of Order</p><p>Final Paragraph</p><p>Bacteria are microscopic, single-celled organisms that live in diverse environments. They can be found in soil, water, and even inside the human body. While some bacteria cause diseases, many are actually beneficial to human health. For instance, those in the human gut help in the digestion of complex carbohydrates.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q84",
+      "number": 84,
+      "question": "Find the incorrectly spelt word:",
+      "questionHtml": "<p>Find the incorrectly spelt word:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Persevarence",
+          "html": "<p>Persevarence</p>"
+        },
+        {
+          "id": "B",
+          "text": "Millennium",
+          "html": "<p>Millennium</p>"
+        },
+        {
+          "id": "C",
+          "text": "Knowledgeable",
+          "html": "<p>Knowledgeable</p>"
+        },
+        {
+          "id": "D",
+          "text": "Questionnaire",
+          "html": "<p>Questionnaire</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Correct Answer: Persevarence ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q85",
+      "number": 85,
+      "question": "Change the voice of the following sentence: \"She is writing a letter.\"",
+      "questionHtml": "<p>Change the voice of the following sentence:</p><p>\"She is writing a letter.\"</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A letter is written by her.",
+          "html": "<p>A letter is written by her.</p>"
+        },
+        {
+          "id": "B",
+          "text": "A letter was being written by her.",
+          "html": "<p>A letter was being written by her.</p>"
+        },
+        {
+          "id": "C",
+          "text": "A letter is being written by her.",
+          "html": "<p>A letter is being written by her.</p>"
+        },
+        {
+          "id": "D",
+          "text": "A letter was written by her.",
+          "html": "<p>A letter was written by her.</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct answer: A letter is being written by her.</p><p>Important concepts involved:<br/>• Identify tense: is writing → present continuous tense.<br/>• Rule of voice change (present continuous): is/am/are + V-ing → is/am/are being + V³.<br/>• Object becomes subject: a letter becomes the subject in passive voice.<br/>• Pronoun change: she → her.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q86",
+      "number": 86,
+      "question": "Change the narration of the following sentence: He said to me, \"Where are you going?\"",
+      "questionHtml": "<p>Change the narration of the following sentence:</p><p>He said to me, \"Where are you going?\"</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "He asked me where I was going.",
+          "html": "<p>He asked me where I was going.</p>"
+        },
+        {
+          "id": "B",
+          "text": "He asked where I am going.",
+          "html": "<p>He asked where I am going.</p>"
+        },
+        {
+          "id": "C",
+          "text": "He told me where I am going.",
+          "html": "<p>He told me where I am going.</p>"
+        },
+        {
+          "id": "D",
+          "text": "He asked me where was I going.",
+          "html": "<p>He asked me where was I going.</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Correct answer: He asked me where I was going.</p><p>Important concepts involved:<br/>• Change of reporting verb: said to → asked (used for interrogative sentences).<br/>• Change of sentence type: Direct question → indirect statement form (no inversion of subject and verb).<br/>• Backshift of tense: Present continuous are going → Past continuous was going because the reporting verb is in the past.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q87",
+      "number": 87,
+      "question": "Find the incorrectly spelled word:",
+      "questionHtml": "<p>Find the incorrectly spelled word:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Liaison",
+          "html": "<p>Liaison</p>"
+        },
+        {
+          "id": "B",
+          "text": "Sucessful",
+          "html": "<p>Sucessful</p>"
+        },
+        {
+          "id": "C",
+          "text": "Questionnaire",
+          "html": "<p>Questionnaire</p>"
+        },
+        {
+          "id": "D",
+          "text": "Hierarchy",
+          "html": "<p>Hierarchy</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>✅ Correct Spelling: Successful (सफल)</p><p>Explanation:</p><p>Other options are correctly spelled:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q88",
+      "number": 88,
+      "question": "Find the appropriate antonym of the word: CLANDESTINE",
+      "questionHtml": "<p>Find the appropriate antonym of the word:</p><p>CLANDESTINE</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Overt",
+          "html": "<p>Overt</p>"
+        },
+        {
+          "id": "B",
+          "text": "Hidden",
+          "html": "<p>Hidden</p>"
+        },
+        {
+          "id": "C",
+          "text": "Secret",
+          "html": "<p>Secret</p>"
+        },
+        {
+          "id": "D",
+          "text": "Stealthy",
+          "html": "<p>Stealthy</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Correct Answer: Overt ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q89",
+      "number": 89,
+      "question": "Read the following passage and answer the given questions accordingly: The digital economy in India has seen a meteoric rise, primarily driven by the democratization of data and the surge in smartphone penetration. However, this rapid expansion has brought to the fore a critical challenge: the digital divide. While urban centers enjoy high-speed 5G connectivity and a plethora of digital services, rural heartlands often struggle with erratic signals and limited digital literacy. This disparity is not just a matter of convenience; it translates into unequal access to education, healthcare, and government subsidies. To bridge this gap, the government’s ‘BharatNet’ project aims to connect all village panchayats with high-speed optical fiber. Yet, physical infrastructure is only half the battle. Without concurrent efforts in digital education and localized content, the hardware remains underutilized. Q- What is the primary driver of India’s digital economy according to the passage?",
+      "questionHtml": "<p>Read the following passage and answer the given questions accordingly:</p><p>The digital economy in India has seen a meteoric rise, primarily driven by the democratization of data and the surge in smartphone penetration. However, this rapid expansion has brought to the fore a critical challenge: the digital divide. While urban centers enjoy high-speed 5G connectivity and a plethora of digital services, rural heartlands often struggle with erratic signals and limited digital literacy. This disparity is not just a matter of convenience; it translates into unequal access to education, healthcare, and government subsidies. To bridge this gap, the government’s ‘BharatNet’ project aims to connect all village panchayats with high-speed optical fiber. Yet, physical infrastructure is only half the battle. Without concurrent efforts in digital education and localized content, the hardware remains underutilized.</p><p>Q- What is the primary driver of India’s digital economy according to the passage? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "High-speed 5G in rural areas",
+          "html": "<p>High-speed 5G in rural areas </p>"
+        },
+        {
+          "id": "B",
+          "text": "Government subsidies only",
+          "html": "<p>Government subsidies only </p>"
+        },
+        {
+          "id": "C",
+          "text": "Democratization of data and smartphone usage",
+          "html": "<p>Democratization of data and smartphone usage</p>"
+        },
+        {
+          "id": "D",
+          "text": "The 'BharatNet' project",
+          "html": "<p>The 'BharatNet' project</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct Answer: Democratization of data and smartphone usage ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q90",
+      "number": 90,
+      "question": "Read the following passage and answer the given questions accordingly: The digital economy in India has seen a meteoric rise, primarily driven by the democratization of data and the surge in smartphone penetration. However, this rapid expansion has brought to the fore a critical challenge: the digital divide. While urban centers enjoy high-speed 5G connectivity and a plethora of digital services, rural heartlands often struggle with erratic signals and limited digital literacy. This disparity is not just a matter of convenience; it translates into unequal access to education, healthcare, and government subsidies. To bridge this gap, the government’s ‘BharatNet’ project aims to connect all village panchayats with high-speed optical fiber. Yet, physical infrastructure is only half the battle. Without concurrent efforts in digital education and localized content, the hardware remains underutilized. Q- What does the \"digital divide\" primarily result in?",
+      "questionHtml": "<p>Read the following passage and answer the given questions accordingly:</p><p>The digital economy in India has seen a meteoric rise, primarily driven by the democratization of data and the surge in smartphone penetration. However, this rapid expansion has brought to the fore a critical challenge: the digital divide. While urban centers enjoy high-speed 5G connectivity and a plethora of digital services, rural heartlands often struggle with erratic signals and limited digital literacy. This disparity is not just a matter of convenience; it translates into unequal access to education, healthcare, and government subsidies. To bridge this gap, the government’s ‘BharatNet’ project aims to connect all village panchayats with high-speed optical fiber. Yet, physical infrastructure is only half the battle. Without concurrent efforts in digital education and localized content, the hardware remains underutilized.</p><p>Q- What does the \"digital divide\" primarily result in?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increased smartphone sales in cities",
+          "html": "<p>Increased smartphone sales in cities</p>"
+        },
+        {
+          "id": "B",
+          "text": "Better digital literacy in urban centers",
+          "html": "<p>Better digital literacy in urban centers</p>"
+        },
+        {
+          "id": "C",
+          "text": "Faster 5G connectivity in villages",
+          "html": "<p>Faster 5G connectivity in villages</p>"
+        },
+        {
+          "id": "D",
+          "text": "Unequal access to essential services like health and education",
+          "html": "<p>Unequal access to essential services like health and education</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Correct Answer: Unequal access to essential services like health and education ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q91",
+      "number": 91,
+      "question": "Read the following passage and answer the given questions accordingly: The digital economy in India has seen a meteoric rise, primarily driven by the democratization of data and the surge in smartphone penetration. However, this rapid expansion has brought to the fore a critical challenge: the digital divide. While urban centers enjoy high-speed 5G connectivity and a plethora of digital services, rural heartlands often struggle with erratic signals and limited digital literacy. This disparity is not just a matter of convenience; it translates into unequal access to education, healthcare, and government subsidies. To bridge this gap, the government’s ‘BharatNet’ project aims to connect all village panchayats with high-speed optical fiber. Yet, physical infrastructure is only half the battle. Without concurrent efforts in digital education and localized content, the hardware remains underutilized. Q- According to the passage, why is physical infrastructure alone insufficient?",
+      "questionHtml": "<p>Read the following passage and answer the given questions accordingly:</p><p>The digital economy in India has seen a meteoric rise, primarily driven by the democratization of data and the surge in smartphone penetration. However, this rapid expansion has brought to the fore a critical challenge: the digital divide. While urban centers enjoy high-speed 5G connectivity and a plethora of digital services, rural heartlands often struggle with erratic signals and limited digital literacy. This disparity is not just a matter of convenience; it translates into unequal access to education, healthcare, and government subsidies. To bridge this gap, the government’s ‘BharatNet’ project aims to connect all village panchayats with high-speed optical fiber. Yet, physical infrastructure is only half the battle. Without concurrent efforts in digital education and localized content, the hardware remains underutilized.</p><p>Q- According to the passage, why is physical infrastructure alone insufficient? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because 5G is too expensive for rural areas",
+          "html": "<p>Because 5G is too expensive for rural areas</p>"
+        },
+        {
+          "id": "B",
+          "text": "Because village panchayats do not want high-speed internet",
+          "html": "<p>Because village panchayats do not want high-speed internet</p>"
+        },
+        {
+          "id": "C",
+          "text": "Because it requires localized content and digital education to be effective",
+          "html": "<p>Because it requires localized content and digital education to be effective </p>"
+        },
+        {
+          "id": "D",
+          "text": "Because the 'BharatNet' project is failing",
+          "html": "<p>Because the 'BharatNet' project is failing </p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct Answer: Because it requires localized content and digital education to be effective ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q92",
+      "number": 92,
+      "question": "Read the following passage and answer the given questions accordingly: The digital economy in India has seen a meteoric rise, primarily driven by the democratization of data and the surge in smartphone penetration. However, this rapid expansion has brought to the fore a critical challenge: the digital divide. While urban centers enjoy high-speed 5G connectivity and a plethora of digital services, rural heartlands often struggle with erratic signals and limited digital literacy. This disparity is not just a matter of convenience; it translates into unequal access to education, healthcare, and government subsidies. To bridge this gap, the government’s ‘BharatNet’ project aims to connect all village panchayats with high-speed optical fiber. Yet, physical infrastructure is only half the battle. Without concurrent efforts in digital education and localized content, the hardware remains underutilized. Q- Which word in the passage is a synonym for 'Abundance'?",
+      "questionHtml": "<p>Read the following passage and answer the given questions accordingly:</p><p>The digital economy in India has seen a meteoric rise, primarily driven by the democratization of data and the surge in smartphone penetration. However, this rapid expansion has brought to the fore a critical challenge: the digital divide. While urban centers enjoy high-speed 5G connectivity and a plethora of digital services, rural heartlands often struggle with erratic signals and limited digital literacy. This disparity is not just a matter of convenience; it translates into unequal access to education, healthcare, and government subsidies. To bridge this gap, the government’s ‘BharatNet’ project aims to connect all village panchayats with high-speed optical fiber. Yet, physical infrastructure is only half the battle. Without concurrent efforts in digital education and localized content, the hardware remains underutilized.</p><p>Q- Which word in the passage is a synonym for 'Abundance'?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plethora",
+          "html": "<p>Plethora</p>"
+        },
+        {
+          "id": "B",
+          "text": "Meteoric",
+          "html": "<p>Meteoric</p>"
+        },
+        {
+          "id": "C",
+          "text": "Disparity",
+          "html": "<p>Disparity</p>"
+        },
+        {
+          "id": "D",
+          "text": "Concurrent",
+          "html": "<p>Concurrent</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>✅ Correct Answer: Plethora (प्रचुरता / अत्यधिक मात्रा)</p><p>Explanation:<br/>The word “plethora” means a large or excessive amount, which is a direct synonym of abundance (बहुलता / अधिकता).<br/>In the passage, it is used in the phrase “a plethora of digital services”, indicating many digital services.</p><p>Why other options are incorrect:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q93",
+      "number": 93,
+      "question": "Read the following passage and answer the given questions accordingly: The digital economy in India has seen a meteoric rise, primarily driven by the democratization of data and the surge in smartphone penetration. However, this rapid expansion has brought to the fore a critical challenge: the digital divide. While urban centers enjoy high-speed 5G connectivity and a plethora of digital services, rural heartlands often struggle with erratic signals and limited digital literacy. This disparity is not just a matter of convenience; it translates into unequal access to education, healthcare, and government subsidies. To bridge this gap, the government’s ‘BharatNet’ project aims to connect all village panchayats with high-speed optical fiber. Yet, physical infrastructure is only half the battle. Without concurrent efforts in digital education and localized content, the hardware remains underutilized. Q- What is the author's tone regarding the digital divide?",
+      "questionHtml": "<p>Read the following passage and answer the given questions accordingly:</p><p>The digital economy in India has seen a meteoric rise, primarily driven by the democratization of data and the surge in smartphone penetration. However, this rapid expansion has brought to the fore a critical challenge: the digital divide. While urban centers enjoy high-speed 5G connectivity and a plethora of digital services, rural heartlands often struggle with erratic signals and limited digital literacy. This disparity is not just a matter of convenience; it translates into unequal access to education, healthcare, and government subsidies. To bridge this gap, the government’s ‘BharatNet’ project aims to connect all village panchayats with high-speed optical fiber. Yet, physical infrastructure is only half the battle. Without concurrent efforts in digital education and localized content, the hardware remains underutilized.</p><p>Q- What is the author's tone regarding the digital divide? </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indifferent",
+          "html": "<p>Indifferent</p>"
+        },
+        {
+          "id": "B",
+          "text": "Sarcastic",
+          "html": "<p>Sarcastic</p>"
+        },
+        {
+          "id": "C",
+          "text": "Celebratory",
+          "html": "<p>Celebratory </p>"
+        },
+        {
+          "id": "D",
+          "text": "Concerned and Analytical",
+          "html": "<p>Concerned and Analytical </p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Correct Answer: Concerned and Analytical ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q94",
+      "number": 94,
+      "question": "Select the appropriate meaning of the idiom: ‘A bridge too far’",
+      "questionHtml": "<p>Select the appropriate meaning of the idiom:</p><p>‘A bridge too far’ </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "An overambitious step",
+          "html": "<p>An overambitious step</p>"
+        },
+        {
+          "id": "B",
+          "text": "A long journey",
+          "html": "<p>A long journey </p>"
+        },
+        {
+          "id": "C",
+          "text": "A successful project",
+          "html": "<p>A successful project </p>"
+        },
+        {
+          "id": "D",
+          "text": "A connecting path",
+          "html": "<p>A connecting path</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>✅ Correct Answer: An overambitious step</p><p>Explanation:<br/>The idiom “a bridge too far” means an attempt or plan that is too ambitious or goes beyond what is realistically possible (हद से ज़्यादा महत्वाकांक्षी या अव्यावहारिक कदम).</p><p>Other options:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q95",
+      "number": 95,
+      "question": "Antonym of 'NEBULOUS':",
+      "questionHtml": "<p>Antonym of 'NEBULOUS':</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fragile",
+          "html": "<p>Fragile</p>"
+        },
+        {
+          "id": "B",
+          "text": "Subtle",
+          "html": "<p>Subtle </p>"
+        },
+        {
+          "id": "C",
+          "text": "Vague",
+          "html": "<p>Vague</p>"
+        },
+        {
+          "id": "D",
+          "text": "Distinct",
+          "html": "<p>Distinct</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>✅ Correct Answer: Distinct</p><p>Explanation:<br/>Nebulous (अस्पष्ट / धुंधला) means something that is unclear, vague, or not well defined.<br/>Distinct (स्पष्ट / साफ़) means clearly noticeable or easy to understand, which is the opposite of nebulous.</p><p>Other options:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q96",
+      "number": 96,
+      "question": "Read the following passage and answer the given questions accordingly: Ecosystems are delicate webs of life where every organism, no matter how small, plays a pivotal role. The decline of pollinators like bees and butterflies is a stark reminder of how human intervention can disrupt these systems. Pesticide use, habitat loss due to urbanization, and climate change are the primary culprits. If pollinators disappear, the repercussions will be felt far beyond the fields of flowers; global food security will be at risk, as one-third of the food we eat depends on pollination. Conservation efforts must move beyond individual species to protecting entire landscapes. Creating \"green corridors\" in cities and reducing chemical footprints in agriculture are no longer optional; they are imperative for our own survival. Q- What are the \"primary culprits\" mentioned in the passage regarding the decline of pollinators?",
+      "questionHtml": "<p>Read the following passage and answer the given questions accordingly:</p><p>Ecosystems are delicate webs of life where every organism, no matter how small, plays a pivotal role. The decline of pollinators like bees and butterflies is a stark reminder of how human intervention can disrupt these systems. Pesticide use, habitat loss due to urbanization, and climate change are the primary culprits. If pollinators disappear, the repercussions will be felt far beyond the fields of flowers; global food security will be at risk, as one-third of the food we eat depends on pollination. Conservation efforts must move beyond individual species to protecting entire landscapes. Creating \"green corridors\" in cities and reducing chemical footprints in agriculture are no longer optional; they are imperative for our own survival.</p><p>Q- What are the \"primary culprits\" mentioned in the passage regarding the decline of pollinators?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Global food security and urbanization",
+          "html": "<p>Global food security and urbanization</p>"
+        },
+        {
+          "id": "B",
+          "text": "Pesticides, habitat loss, and climate change",
+          "html": "<p>Pesticides, habitat loss, and climate change </p>"
+        },
+        {
+          "id": "C",
+          "text": "Green corridors and agriculture",
+          "html": "<p>Green corridors and agriculture </p>"
+        },
+        {
+          "id": "D",
+          "text": "Flowers and small organisms",
+          "html": "<p>Flowers and small organisms</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Correct Answer: ✅ Pesticides, habitat loss, and climate change</p><p>Explanation:<br/>The passage explicitly states that the decline of pollinators like bees and butterflies is mainly due to:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q97",
+      "number": 97,
+      "question": "Read the following passage and answer the given questions accordingly: Ecosystems are delicate webs of life where every organism, no matter how small, plays a pivotal role. The decline of pollinators like bees and butterflies is a stark reminder of how human intervention can disrupt these systems. Pesticide use, habitat loss due to urbanization, and climate change are the primary culprits. If pollinators disappear, the repercussions will be felt far beyond the fields of flowers; global food security will be at risk, as one-third of the food we eat depends on pollination. Conservation efforts must move beyond individual species to protecting entire landscapes. Creating \"green corridors\" in cities and reducing chemical footprints in agriculture are no longer optional; they are imperative for our own survival. Q- Why is the decline of bees a threat to humans?",
+      "questionHtml": "<p>Read the following passage and answer the given questions accordingly:</p><p>Ecosystems are delicate webs of life where every organism, no matter how small, plays a pivotal role. The decline of pollinators like bees and butterflies is a stark reminder of how human intervention can disrupt these systems. Pesticide use, habitat loss due to urbanization, and climate change are the primary culprits. If pollinators disappear, the repercussions will be felt far beyond the fields of flowers; global food security will be at risk, as one-third of the food we eat depends on pollination. Conservation efforts must move beyond individual species to protecting entire landscapes. Creating \"green corridors\" in cities and reducing chemical footprints in agriculture are no longer optional; they are imperative for our own survival.</p><p>Q- Why is the decline of bees a threat to humans?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "It leads to an increase in harmful insects",
+          "html": "<p>It leads to an increase in harmful insects</p>"
+        },
+        {
+          "id": "B",
+          "text": "It makes urbanization impossible",
+          "html": "<p>It makes urbanization impossible</p>"
+        },
+        {
+          "id": "C",
+          "text": "It reduces the beauty of city landscapes",
+          "html": "<p>It reduces the beauty of city landscapes</p>"
+        },
+        {
+          "id": "D",
+          "text": "It directly threatens global food security",
+          "html": "<p>It directly threatens global food security</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Correct Answer: It directly threatens global food security ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q98",
+      "number": 98,
+      "question": "Read the following passage and answer the given questions accordingly: Ecosystems are delicate webs of life where every organism, no matter how small, plays a pivotal role. The decline of pollinators like bees and butterflies is a stark reminder of how human intervention can disrupt these systems. Pesticide use, habitat loss due to urbanization, and climate change are the primary culprits. If pollinators disappear, the repercussions will be felt far beyond the fields of flowers; global food security will be at risk, as one-third of the food we eat depends on pollination. Conservation efforts must move beyond individual species to protecting entire landscapes. Creating \"green corridors\" in cities and reducing chemical footprints in agriculture are no longer optional; they are imperative for our own survival. Q- What does the author suggest as a conservation strategy?",
+      "questionHtml": "<p>Read the following passage and answer the given questions accordingly:</p><p>Ecosystems are delicate webs of life where every organism, no matter how small, plays a pivotal role. The decline of pollinators like bees and butterflies is a stark reminder of how human intervention can disrupt these systems. Pesticide use, habitat loss due to urbanization, and climate change are the primary culprits. If pollinators disappear, the repercussions will be felt far beyond the fields of flowers; global food security will be at risk, as one-third of the food we eat depends on pollination. Conservation efforts must move beyond individual species to protecting entire landscapes. Creating \"green corridors\" in cities and reducing chemical footprints in agriculture are no longer optional; they are imperative for our own survival.</p><p>Q- What does the author suggest as a conservation strategy?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Protecting entire landscapes and creating green corridors",
+          "html": "<p>Protecting entire landscapes and creating green corridors</p>"
+        },
+        {
+          "id": "B",
+          "text": "Increasing the use of chemicals to grow more food",
+          "html": "<p>Increasing the use of chemicals to grow more food</p>"
+        },
+        {
+          "id": "C",
+          "text": "Focusing only on endangered species",
+          "html": "<p>Focusing only on endangered species </p>"
+        },
+        {
+          "id": "D",
+          "text": "Eliminating all forms of agriculture",
+          "html": "<p>Eliminating all forms of agriculture </p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Correct Answer: Protecting entire landscapes and creating green corridors ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q99",
+      "number": 99,
+      "question": "Read the following passage and answer the given questions accordingly: Ecosystems are delicate webs of life where every organism, no matter how small, plays a pivotal role. The decline of pollinators like bees and butterflies is a stark reminder of how human intervention can disrupt these systems. Pesticide use, habitat loss due to urbanization, and climate change are the primary culprits. If pollinators disappear, the repercussions will be felt far beyond the fields of flowers; global food security will be at risk, as one-third of the food we eat depends on pollination. Conservation efforts must move beyond individual species to protecting entire landscapes. Creating \"green corridors\" in cities and reducing chemical footprints in agriculture are no longer optional; they are imperative for our own survival. Q- What is the meaning of the word 'Imperative' as used in the passage?",
+      "questionHtml": "<p>Read the following passage and answer the given questions accordingly:</p><p>Ecosystems are delicate webs of life where every organism, no matter how small, plays a pivotal role. The decline of pollinators like bees and butterflies is a stark reminder of how human intervention can disrupt these systems. Pesticide use, habitat loss due to urbanization, and climate change are the primary culprits. If pollinators disappear, the repercussions will be felt far beyond the fields of flowers; global food security will be at risk, as one-third of the food we eat depends on pollination. Conservation efforts must move beyond individual species to protecting entire landscapes. Creating \"green corridors\" in cities and reducing chemical footprints in agriculture are no longer optional; they are imperative for our own survival.</p><p>Q- What is the meaning of the word 'Imperative' as used in the passage?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Optional",
+          "html": "<p>Optional</p>"
+        },
+        {
+          "id": "B",
+          "text": "Secondary",
+          "html": "<p>Secondary </p>"
+        },
+        {
+          "id": "C",
+          "text": "Crucial",
+          "html": "<p>Crucial</p>"
+        },
+        {
+          "id": "D",
+          "text": "Traditional",
+          "html": "<p>Traditional</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct Answer: Crucial ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q100",
+      "number": 100,
+      "question": "Read the following passage and answer the given questions accordingly: Ecosystems are delicate webs of life where every organism, no matter how small, plays a pivotal role. The decline of pollinators like bees and butterflies is a stark reminder of how human intervention can disrupt these systems. Pesticide use, habitat loss due to urbanization, and climate change are the primary culprits. If pollinators disappear, the repercussions will be felt far beyond the fields of flowers; global food security will be at risk, as one-third of the food we eat depends on pollination. Conservation efforts must move beyond individual species to protecting entire landscapes. Creating \"green corridors\" in cities and reducing chemical footprints in agriculture are no longer optional; they are imperative for our own survival. Q- What is the \"repercussion\" of disappearing pollinators?",
+      "questionHtml": "<p>Read the following passage and answer the given questions accordingly:</p><p>Ecosystems are delicate webs of life where every organism, no matter how small, plays a pivotal role. The decline of pollinators like bees and butterflies is a stark reminder of how human intervention can disrupt these systems. Pesticide use, habitat loss due to urbanization, and climate change are the primary culprits. If pollinators disappear, the repercussions will be felt far beyond the fields of flowers; global food security will be at risk, as one-third of the food we eat depends on pollination. Conservation efforts must move beyond individual species to protecting entire landscapes. Creating \"green corridors\" in cities and reducing chemical footprints in agriculture are no longer optional; they are imperative for our own survival.</p><p>Q- What is the \"repercussion\" of disappearing pollinators?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Improved chemical footprints",
+          "html": "<p>Improved chemical footprints</p>"
+        },
+        {
+          "id": "B",
+          "text": "Disruption of the delicate web of life and food shortage",
+          "html": "<p>Disruption of the delicate web of life and food shortage</p>"
+        },
+        {
+          "id": "C",
+          "text": "Better habitat for smaller organisms",
+          "html": "<p>Better habitat for smaller organisms</p>"
+        },
+        {
+          "id": "D",
+          "text": "Expansion of urbanization",
+          "html": "<p>Expansion of urbanization </p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Correct Answer: Disruption of the delicate web of life and food shortage ✅</p><p>Explanation:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q101",
+      "number": 101,
+      "question": "The 'Dashavatar' traditional folk theater form, representing the ten incarnations of Lord Vishnu, is predominantly found in:",
+      "questionHtml": "<p>The 'Dashavatar' traditional folk theater form, representing the ten incarnations of Lord Vishnu, is predominantly found in:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerala and Tamil Nadu",
+          "html": "<p>Kerala and Tamil Nadu</p>"
+        },
+        {
+          "id": "B",
+          "text": "Maharashtra and Goa",
+          "html": "<p>Maharashtra and Goa</p>"
+        },
+        {
+          "id": "C",
+          "text": "West Bengal and Odisha",
+          "html": "<p>West Bengal and Odisha</p>"
+        },
+        {
+          "id": "D",
+          "text": "Gujarat and Rajasthan",
+          "html": "<p>Gujarat and Rajasthan</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Correct Answer: Maharashtra and Goa ✅</p><p>Explanation: </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q102",
+      "number": 102,
+      "question": "During the Indian National Movement, who among the following founded the 'Indian Reform Association' in 1870?",
+      "questionHtml": "<p>During the Indian National Movement, who among the following founded the 'Indian Reform Association' in 1870?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keshab Chandra Sen",
+          "html": "<p>Keshab Chandra Sen</p>"
+        },
+        {
+          "id": "B",
+          "text": "Raja Ram Mohan Roy",
+          "html": "<p>Raja Ram Mohan Roy</p>"
+        },
+        {
+          "id": "C",
+          "text": "Ishwar Chandra Vidyasagar",
+          "html": "<p>Ishwar Chandra Vidyasagar</p>"
+        },
+        {
+          "id": "D",
+          "text": "Debendranath Tagore",
+          "html": "<p>Debendranath Tagore</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Correct Answer: Keshab Chandra Sen ✅</p><p>Explanation: </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q103",
+      "number": 103,
+      "question": "India’s first vulture conservation portal launched under ‘We Foundation India’ in which State?",
+      "questionHtml": "<p>India’s first vulture conservation portal launched under ‘We Foundation India’ in which State?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rajasthan",
+          "html": "<p>Rajasthan</p>"
+        },
+        {
+          "id": "B",
+          "text": "Punjab",
+          "html": "<p>Punjab</p>"
+        },
+        {
+          "id": "C",
+          "text": "Assam",
+          "html": "<p>Assam</p>"
+        },
+        {
+          "id": "D",
+          "text": "Karnataka",
+          "html": "<p>Karnataka</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct Answer: Assam ✅</p><p>Explanation: </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q104",
+      "number": 104,
+      "question": "In the context of the Indian Stock Market, what does the term 'Blue Chip' refer to?",
+      "questionHtml": "<p>In the context of the Indian Stock Market, what does the term 'Blue Chip' refer to?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shares of a company that are highly volatile",
+          "html": "<p>Shares of a company that are highly volatile</p>"
+        },
+        {
+          "id": "B",
+          "text": "Shares of a large, well-established, and financially sound company",
+          "html": "<p>Shares of a large, well-established, and financially sound company</p>"
+        },
+        {
+          "id": "C",
+          "text": "Shares that have recently been delisted",
+          "html": "<p>Shares that have recently been delisted</p>"
+        },
+        {
+          "id": "D",
+          "text": "Penny stocks with high growth potential",
+          "html": "<p>Penny stocks with high growth potential</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Correct Answer: Shares of a large, well-established, and financially sound company ✅</p><p>Explanation: </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q105",
+      "number": 105,
+      "question": "Which cell organelle is known as the \"Cellular Garbage Disposal\" because it contains hydrolytic enzymes to digest waste and damaged organelles?",
+      "questionHtml": "<p>Which cell organelle is known as the \"Cellular Garbage Disposal\" because it contains hydrolytic enzymes to digest waste and damaged organelles?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Golgi Apparatus",
+          "html": "<p>Golgi Apparatus</p>"
+        },
+        {
+          "id": "B",
+          "text": "Peroxisome",
+          "html": "<p>Peroxisome</p>"
+        },
+        {
+          "id": "C",
+          "text": "Glyoxysome",
+          "html": "<p>Glyoxysome</p>"
+        },
+        {
+          "id": "D",
+          "text": "Lysosome",
+          "html": "<p>Lysosome</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Correct Answer: Lysosome ✅</p><p>Explanation: </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q106",
+      "number": 106,
+      "question": "Which curve represents the relationship between tax rates and the total tax revenue collected by the government?",
+      "questionHtml": "<p>Which curve represents the relationship between tax rates and the total tax revenue collected by the government?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lorenz Curve",
+          "html": "<p>Lorenz Curve</p>"
+        },
+        {
+          "id": "B",
+          "text": "Laffer Curve",
+          "html": "<p>Laffer Curve</p>"
+        },
+        {
+          "id": "C",
+          "text": "Phillips Curve",
+          "html": "<p>Phillips Curve</p>"
+        },
+        {
+          "id": "D",
+          "text": "Kuznets Curve",
+          "html": "<p>Kuznets Curve</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Correct Answer: Laffer Curve ✅</p><p>Explanation: </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q107",
+      "number": 107,
+      "question": "‘Pung Cholom’ dance is associated with which Indian State?",
+      "questionHtml": "<p>‘Pung Cholom’ dance is associated with which Indian State?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mizoram",
+          "html": "<p>Mizoram</p>"
+        },
+        {
+          "id": "B",
+          "text": "Nagaland",
+          "html": "<p>Nagaland</p>"
+        },
+        {
+          "id": "C",
+          "text": "Manipur",
+          "html": "<p>Manipur</p>"
+        },
+        {
+          "id": "D",
+          "text": "Arunachal Pradesh",
+          "html": "<p>Arunachal Pradesh</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct Answer: Manipur ✅</p><p>Explanation: </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q108",
+      "number": 108,
+      "question": "Which of the following is the primary constituent of 'Water Gas', an important industrial fuel?",
+      "questionHtml": "<p>Which of the following is the primary constituent of 'Water Gas', an important industrial fuel?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "CO + H₂",
+          "html": "<p>CO + H₂</p>"
+        },
+        {
+          "id": "B",
+          "text": "CO₂ + H₂",
+          "html": "<p>CO₂ + H₂</p>"
+        },
+        {
+          "id": "C",
+          "text": "CH₄ + H₂",
+          "html": "<p>CH₄ + H₂</p>"
+        },
+        {
+          "id": "D",
+          "text": "CO + N₂",
+          "html": "<p>CO + N₂</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Correct Answer: CO + H₂ ✅</p><p>Explanation: </p><p>C + H₂O  CO + H₂</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q109",
+      "number": 109,
+      "question": "What is the chemical name of the gas released when 'Baking Soda' is heated or mixed with an acid, causing bread to rise?",
+      "questionHtml": "<p>What is the chemical name of the gas released when 'Baking Soda' is heated or mixed with an acid, causing bread to rise?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Carbon Monoxide",
+          "html": "<p>Carbon Monoxide</p>"
+        },
+        {
+          "id": "B",
+          "text": "Nitrogen Dioxide",
+          "html": "<p>Nitrogen Dioxide</p>"
+        },
+        {
+          "id": "C",
+          "text": "Carbon Dioxide",
+          "html": "<p>Carbon Dioxide</p>"
+        },
+        {
+          "id": "D",
+          "text": "Sulphur Dioxide",
+          "html": "<p>Sulphur Dioxide</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct Answer: ✅ Carbon Dioxide</p><p>Explanation: :<br/>Baking soda is sodium bicarbonate (NaHCO₃). When it is heated or mixed with an acid, it undergoes a chemical reaction that releases carbon dioxide (CO₂) gas.</p><p>📌 Reaction example:<br/>NaHCO₃ + Acid → CO₂ ↑ + H₂O + Salt</p><p>The released CO₂ gas forms bubbles, which get trapped in the dough or batter, making bread and cakes rise.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q110",
+      "number": 110,
+      "question": "The 'Kandariya Mahadeva' temple, a masterpiece of Nagara style architecture, was built by which dynasty?",
+      "questionHtml": "<p>The 'Kandariya Mahadeva' temple, a masterpiece of Nagara style architecture, was built by which dynasty?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chandela",
+          "html": "<p>Chandela</p>"
+        },
+        {
+          "id": "B",
+          "text": "Solanki",
+          "html": "<p>Solanki</p>"
+        },
+        {
+          "id": "C",
+          "text": "Rashtrakuta",
+          "html": "<p>Rashtrakuta</p>"
+        },
+        {
+          "id": "D",
+          "text": "Satvahhana",
+          "html": "<p>Satvahhana</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Correct Answer: Chandela Dynasty ✅</p><p>Explanation: </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q111",
+      "number": 111,
+      "question": "Under which Article of the Indian Constitution can the Parliament form a new State by separation of territory from any State?",
+      "questionHtml": "<p>Under which Article of the Indian Constitution can the Parliament form a new State by separation of territory from any State?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Article 1",
+          "html": "<p>Article 1</p>"
+        },
+        {
+          "id": "B",
+          "text": "Article 2",
+          "html": "<p>Article 2</p>"
+        },
+        {
+          "id": "C",
+          "text": "Article 3",
+          "html": "<p>Article 3</p>"
+        },
+        {
+          "id": "D",
+          "text": "Article 4",
+          "html": "<p>Article 4</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct Answer: Article 3 ✅</p><p>Explanation: </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q112",
+      "number": 112,
+      "question": "Which bill has the Union Cabinet approved to open up the nuclear power sector to private participation?",
+      "questionHtml": "<p>Which bill has the Union Cabinet approved to open up the nuclear power sector to private participation?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "UMEED Bill",
+          "html": "<p>UMEED Bill</p>"
+        },
+        {
+          "id": "B",
+          "text": "URJA Bill",
+          "html": "<p>URJA Bill</p>"
+        },
+        {
+          "id": "C",
+          "text": "NAVYUG Bill",
+          "html": "<p>NAVYUG Bill</p>"
+        },
+        {
+          "id": "D",
+          "text": "SHANTI Bill",
+          "html": "<p>SHANTI Bill</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Correct Answer: SHANTI Bill ✅</p><p>Explanation: </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q113",
+      "number": 113,
+      "question": "Consider the following statements regarding the 'Amendment of the Constitution' (Article 368) and answer which of them is/are CORRECT? 1- A bill for the amendment of the Constitution can be introduced in either House of Parliament or in the State Legislatures. 2- The President must give his assent to a Constitutional Amendment Bill and cannot return it for reconsideration. 3- Amendments affecting the federal structure require ratification by at least two-thirds of the State Legislatures.",
+      "questionHtml": "<p>Consider the following statements regarding the 'Amendment of the Constitution' (Article 368) and answer which of them is/are CORRECT?</p><p>1- A bill for the amendment of the Constitution can be introduced in either House of Parliament or in the State Legislatures.</p><p>2- The President must give his assent to a Constitutional Amendment Bill and cannot return it for reconsideration.</p><p>3- Amendments affecting the federal structure require ratification by at least two-thirds of the State Legislatures. </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 & 2 only",
+          "html": "<p>1 &amp; 2 only</p>"
+        },
+        {
+          "id": "B",
+          "text": "2 & 3 only",
+          "html": "<p>2 &amp; 3 only</p>"
+        },
+        {
+          "id": "C",
+          "text": "1 & 3 only",
+          "html": "<p>1 &amp; 3 only</p>"
+        },
+        {
+          "id": "D",
+          "text": "1, 2 & 3 All",
+          "html": "<p>1, 2 &amp; 3 All</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Correct Answer: 2 &amp; 3 only ✅</p><p>Explanation: </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q114",
+      "number": 114,
+      "question": "The 'Alai Darwaza', which serves as the southern entrance to the Quwwat-ul-Islam Mosque, was constructed by which Sultan?",
+      "questionHtml": "<p>The 'Alai Darwaza', which serves as the southern entrance to the Quwwat-ul-Islam Mosque, was constructed by which Sultan?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Iltutmish",
+          "html": "<p>Iltutmish</p>"
+        },
+        {
+          "id": "B",
+          "text": "Balban",
+          "html": "<p>Balban</p>"
+        },
+        {
+          "id": "C",
+          "text": "Alauddin Khalji",
+          "html": "<p>Alauddin Khalji</p>"
+        },
+        {
+          "id": "D",
+          "text": "Firoz Shah Tughlaq",
+          "html": "<p>Firoz Shah Tughlaq</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct Answer: Alauddin Khalji ✅</p><p>Explanation: </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q115",
+      "number": 115,
+      "question": "With reference to the 'Structure of the Earth', which among the following statements is/are correct? 1- The inner core of the earth is in a liquid state due to the extreme heat. 2- The Asthenosphere is the main source of magma that finds its way to the surface during volcanic eruptions.",
+      "questionHtml": "<p>With reference to the 'Structure of the Earth', which among the following statements is/are correct?</p><p>1- The inner core of the earth is in a liquid state due to the extreme heat.</p><p>2- The Asthenosphere is the main source of magma that finds its way to the surface during volcanic eruptions.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 only",
+          "html": "<p>1 only</p>"
+        },
+        {
+          "id": "B",
+          "text": "2 only",
+          "html": "<p>2 only</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both 1 & 2",
+          "html": "<p>Both 1 &amp; 2</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 & 2",
+          "html": "<p>Neither 1 &amp; 2</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Correct Answer: 2 only ✅</p><p>Explanation: </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q116",
+      "number": 116,
+      "question": "In December 2025, which young cricketer was awarded the Prime Minister's National Children's Award?",
+      "questionHtml": "<p>In December 2025, which young cricketer was awarded the Prime Minister's National Children's Award?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shaik Rasheed",
+          "html": "<p>Shaik Rasheed</p>"
+        },
+        {
+          "id": "B",
+          "text": "Ayush Mhatre",
+          "html": "<p>Ayush Mhatre</p>"
+        },
+        {
+          "id": "C",
+          "text": "Andre Siddharth",
+          "html": "<p>Andre Siddharth</p>"
+        },
+        {
+          "id": "D",
+          "text": "Vaibhav Suryavanshi",
+          "html": "<p>Vaibhav Suryavanshi</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Correct Answer: Vaibhav Suryavanshi ✅</p><p>Explanation: </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q117",
+      "number": 117,
+      "question": "The 'Chola' style of bronze casting, famous for the Nataraja idol, primarily utilized which technique?",
+      "questionHtml": "<p>The 'Chola' style of bronze casting, famous for the Nataraja idol, primarily utilized which technique?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Terracotta Molding",
+          "html": "<p>Terracotta Molding</p>"
+        },
+        {
+          "id": "B",
+          "text": "Lost-Wax Process",
+          "html": "<p>Lost-Wax Process </p>"
+        },
+        {
+          "id": "C",
+          "text": "Sand Casting",
+          "html": "<p>Sand Casting</p>"
+        },
+        {
+          "id": "D",
+          "text": "Repoussé Work",
+          "html": "<p>Repoussé Work</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Correct Answer: Lost-Wax Process ✅</p><p>Explanation: </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q118",
+      "number": 118,
+      "question": "With reference to the 'Ryotwari Settlement' introduced during British rule, which among the following statements is/are CORRECT? 1- It was directly settled with the cultivators (Ryots) without the involvement of Zamindars as middlemen. 2- It was primarily implemented in the Bengal Presidency to stabilize land revenue.",
+      "questionHtml": "<p>With reference to the 'Ryotwari Settlement' introduced during British rule, which among the following statements is/are CORRECT?</p><p>1- It was directly settled with the cultivators (Ryots) without the involvement of Zamindars as middlemen.</p><p>2- It was primarily implemented in the Bengal Presidency to stabilize land revenue.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 only",
+          "html": "<p>1 only</p>"
+        },
+        {
+          "id": "B",
+          "text": "2 only",
+          "html": "<p>2 only</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both 1 & 2",
+          "html": "<p>Both 1 &amp; 2</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 & 2",
+          "html": "<p>Neither 1 &amp; 2</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Correct Answer: 1 only ✅</p><p>Explanation: </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q119",
+      "number": 119,
+      "question": "Regarding 'Tidal Forests' (Mangroves) in India, which among the following statements is/are CORRECT? 1- They are found in the deltas of the Ganga, Mahanadi, and Krishna rivers. 2- Mangroves act as a natural barrier against storm surges and tsunamis.",
+      "questionHtml": "<p>Regarding 'Tidal Forests' (Mangroves) in India, which among the following statements is/are CORRECT?</p><p>1- They are found in the deltas of the Ganga, Mahanadi, and Krishna rivers.</p><p>2- Mangroves act as a natural barrier against storm surges and tsunamis. </p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 only",
+          "html": "<p>1 only</p>"
+        },
+        {
+          "id": "B",
+          "text": "2 only",
+          "html": "<p>2 only</p>"
+        },
+        {
+          "id": "C",
+          "text": "Both 1 & 2",
+          "html": "<p>Both 1 &amp; 2</p>"
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 & 2",
+          "html": "<p>Neither 1 &amp; 2</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Correct Answer: ✅ Both 1 &amp; 2</p><p>Explanation: :</p><p>1️. Tidal forests (Mangroves) are indeed found in the river deltas of:</p><p>2️. Mangroves act as a natural protective barrier by:</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "fbb843635efd-q120",
+      "number": 120,
+      "question": "The 'Dhimsa' dance, often performed to celebrate unity and marital life, is a popular tribal dance of which state?",
+      "questionHtml": "<p>The 'Dhimsa' dance, often performed to celebrate unity and marital life, is a popular tribal dance of which state?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jharkhand",
+          "html": "<p>Jharkhand</p>"
+        },
+        {
+          "id": "B",
+          "text": "Odisha",
+          "html": "<p>Odisha</p>"
+        },
+        {
+          "id": "C",
+          "text": "Nagaland",
+          "html": "<p>Nagaland</p>"
+        },
+        {
+          "id": "D",
+          "text": "Andhra Pradesh",
+          "html": "<p>Andhra Pradesh</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Correct Answer: Andhra Pradesh ✅</p><p>Explanation: </p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

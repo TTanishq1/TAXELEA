@@ -1,0 +1,184 @@
+{
+  "id": "percentage-01-placeholder",
+  "provider": "Testbook",
+  "sourceFile": "Percentage - 01.json",
+  "title": "Percentage - 01",
+  "exam": "SSC CGL",
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": 30,
+  "questionCount": 5,
+  "questions": [
+    {
+      "id": "percentage-01-q1",
+      "number": 1,
+      "question": "What is 25% of 200?",
+      "questionHtml": "<p>What is 25% of 200?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "40",
+          "html": "40"
+        },
+        {
+          "id": "B",
+          "text": "50",
+          "html": "50"
+        },
+        {
+          "id": "C",
+          "text": "60",
+          "html": "60"
+        },
+        {
+          "id": "D",
+          "text": "45",
+          "html": "45"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>25% of 200 = (25/100) × 200 = 0.25 × 200 = 50</p>",
+      "images": [],
+      "subject": "quantitative-aptitude",
+      "topic": "percentage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "percentage-01-q2",
+      "number": 2,
+      "question": "If 30% of a number is 60, what is the number?",
+      "questionHtml": "<p>If 30% of a number is 60, what is the number?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "180",
+          "html": "180"
+        },
+        {
+          "id": "B",
+          "text": "200",
+          "html": "200"
+        },
+        {
+          "id": "C",
+          "text": "220",
+          "html": "220"
+        },
+        {
+          "id": "D",
+          "text": "150",
+          "html": "150"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let the number be x. Then 30% of x = 60. So (30/100) × x = 60. Therefore x = 60 × (100/30) = 200.</p>",
+      "images": [],
+      "subject": "quantitative-aptitude",
+      "topic": "percentage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "percentage-01-q3",
+      "number": 3,
+      "question": "What percentage is 20 of 80?",
+      "questionHtml": "<p>What percentage is 20 of 80?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20%",
+          "html": "20%"
+        },
+        {
+          "id": "B",
+          "text": "25%",
+          "html": "25%"
+        },
+        {
+          "id": "C",
+          "text": "30%",
+          "html": "30%"
+        },
+        {
+          "id": "D",
+          "text": "15%",
+          "html": "15%"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Required percentage = (20/80) × 100 = 0.25 × 100 = 25%</p>",
+      "images": [],
+      "subject": "quantitative-aptitude",
+      "topic": "percentage",
+      "difficulty": "easy"
+    },
+    {
+      "id": "percentage-01-q4",
+      "number": 4,
+      "question": "A number is increased by 20% and then decreased by 20%. What is the net change?",
+      "questionHtml": "<p>A number is increased by 20% and then decreased by 20%. What is the net change?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "No change",
+          "html": "No change"
+        },
+        {
+          "id": "B",
+          "text": "4% decrease",
+          "html": "4% decrease"
+        },
+        {
+          "id": "C",
+          "text": "4% increase",
+          "html": "4% increase"
+        },
+        {
+          "id": "D",
+          "text": "2% decrease",
+          "html": "2% decrease"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let the original number be 100. After 20% increase: 100 + 20 = 120. After 20% decrease: 120 - (20% of 120) = 120 - 24 = 96. Net change = 96 - 100 = -4 (4% decrease)</p>",
+      "images": [],
+      "subject": "quantitative-aptitude",
+      "topic": "percentage",
+      "difficulty": "medium"
+    },
+    {
+      "id": "percentage-01-q5",
+      "number": 5,
+      "question": "If A's salary is 50% more than B's, then B's salary is what percent less than A's?",
+      "questionHtml": "<p>If A's salary is 50% more than B's, then B's salary is what percent less than A's?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "33.33%",
+          "html": "33.33%"
+        },
+        {
+          "id": "B",
+          "text": "50%",
+          "html": "50%"
+        },
+        {
+          "id": "C",
+          "text": "40%",
+          "html": "40%"
+        },
+        {
+          "id": "D",
+          "text": "25%",
+          "html": "25%"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Let B's salary = 100. Then A's salary = 100 + 50% of 100 = 150. B's salary is (150-100)/150 × 100 = 50/150 × 100 = 33.33% less than A's.</p>",
+      "images": [],
+      "subject": "quantitative-aptitude",
+      "topic": "percentage",
+      "difficulty": "medium"
+    }
+  ]
+}

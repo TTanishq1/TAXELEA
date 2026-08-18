@@ -1,0 +1,865 @@
+{
+  "id": "4f89e1b08018",
+  "provider": "RBE_Mocks",
+  "sourceFile": "Reasoning_Sectional_Mock_Test-29.html",
+  "sourcePath": "RBE_MOCKS/Reasoning_Sectional_Mock_Test-29.html",
+  "title": "Reasoning Sectional Mock Test-29",
+  "exam": null,
+  "year": null,
+  "tier": null,
+  "shift": null,
+  "duration": null,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "4f89e1b08018-q1",
+      "number": 1,
+      "question": "Select the number from among the given options that can replace the question mark (?) in the following series. 30, 22, 36, 75, 178, ?",
+      "questionHtml": "<p>Select the number from among the given options that can replace the question mark (?) in the following series.<br/>30, 22, 36, 75, 178, ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "343",
+          "html": "<p>343</p>"
+        },
+        {
+          "id": "B",
+          "text": "480",
+          "html": "<p>480</p>"
+        },
+        {
+          "id": "C",
+          "text": "462",
+          "html": "<p>462</p>"
+        },
+        {
+          "id": "D",
+          "text": "372",
+          "html": "<p>372</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Given logic:<br/>Multiply by 0.5, 1, 1.5, 2, 2.5, and after each multiplication add +7, +14, +21, +28, +35 respectively.</p><p>Step-by-step:<br/>30 × 0.5 + 7 = 15 + 7 = 22<br/>22 × 1 + 14 = 22 + 14 = 36<br/>36 × 1.5 + 21 = 54 + 21 = 75<br/>75 × 2 + 28 = 150 + 28 = 178<br/>178 × 2.5 + 35 = 445 + 35 = 480</p><p>Hence, the missing number is 480.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q2",
+      "number": 2,
+      "question": "Select the triad in which the numbers are related in the same way as are the numbers of the given triads. (3, 5, 32) (9, 1, 26)",
+      "questionHtml": "<p>Select the triad in which the numbers are related in the same way as are the numbers of the given triads.</p><p>(3, 5, 32)<br/>(9, 1, 26)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(5, 6, 33)",
+          "html": "<p>(5, 6, 33)</p>"
+        },
+        {
+          "id": "B",
+          "text": "(2, 6, 30)",
+          "html": "<p>(2, 6, 30)</p>"
+        },
+        {
+          "id": "C",
+          "text": "(6, 1, 23)",
+          "html": "<p>(6, 1, 23)</p>"
+        },
+        {
+          "id": "D",
+          "text": "(4, 2, 28)",
+          "html": "<p>(4, 2, 28)</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Logic:<br/>Third number = (First × Second) + 17</p><p>Check:<br/>(3 × 5) + 17 = 15 + 17 = 32 ✅<br/>(9 × 1) + 17 = 9 + 17 = 26 ✅</p><p>Now apply the same logic to options:</p><p>(a) (5, 6, 33) → 5 × 6 + 17 = 30 + 17 = 47 ❌<br/>(b) (2, 6, 30) → 2 × 6 + 17 = 12 + 17 = 29 ❌<br/>(c) (6, 1, 23) → 6 × 1 + 17 = 6 + 17 = 23 ✅<br/>(d) (4, 2, 28) → 4 × 2 + 17 = 8 + 17 = 25 ❌</p><p>Hence, the correct triad is (6, 1, 23).</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q3",
+      "number": 3,
+      "question": "61 is related to 18 following a certain logic. Following the same logic, 213 is related to 38. To which of the following is 509 related, following the same logic?",
+      "questionHtml": "<p>61 is related to 18 following a certain logic. Following the same logic, 213 is related to 38. To which of the following is 509 related, following the same logic?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "66",
+          "html": "<p>66</p>"
+        },
+        {
+          "id": "B",
+          "text": "78",
+          "html": "<p>78</p>"
+        },
+        {
+          "id": "C",
+          "text": "64",
+          "html": "<p>64</p>"
+        },
+        {
+          "id": "D",
+          "text": "72",
+          "html": "<p>72</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Logic:<br/>The relation is based on two mathematical expressions using the cube and square of a number.</p><p>Now following the same pattern —<br/>509 = ?³ − 3 and ?² + 2 = ?</p><p>We know that 8³ − 3 = 512 − 3 = 509<br/>So, the related number = 8² + 2 = 64 + 2 = 66</p><p>Hence, 509 → 66</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q4",
+      "number": 4,
+      "question": "Select the number from among the given options that can replace the question mark (?) in the following series. 30, 20, ?, 60, 140",
+      "questionHtml": "<p>Select the number from among the given options that can replace the question mark (?) in the following series. </p><p>30, 20, ?, 60, 140</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "40",
+          "html": "<p>40</p>"
+        },
+        {
+          "id": "B",
+          "text": "45",
+          "html": "<p>45</p>"
+        },
+        {
+          "id": "C",
+          "text": "30",
+          "html": "<p>30</p>"
+        },
+        {
+          "id": "D",
+          "text": "36",
+          "html": "<p>36</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Logic: Multiply by 0.5, 1, 1.5, 2, ... and after each multiplication, add +5, +10, +15, +20 respectively.</p><p>Step-by-step:<br/>30 × 0.5 + 5 = 15 + 5 = 20<br/>20 × 1 + 10 = 20 + 10 = 30<br/>30 × 1.5 + 15 = 45 + 15 = 60<br/>60 × 2 + 20 = 120 + 20 = 140</p><p>Hence, the missing number is 30.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q5",
+      "number": 5,
+      "question": "Select the word-pair that best represents a similar relationship to the one expressed in the pair of words given below. Egypt : Nile",
+      "questionHtml": "<p>Select the word-pair that best represents a similar relationship to the one expressed in the pair of words given below.</p><p>Egypt : Nile</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Russia : Mississippi",
+          "html": "<p>Russia : Mississippi</p>"
+        },
+        {
+          "id": "B",
+          "text": "South Korea : Mekong",
+          "html": "<p>South Korea : Mekong</p>"
+        },
+        {
+          "id": "C",
+          "text": "Brazil : Colorado",
+          "html": "<p>Brazil : Colorado</p>"
+        },
+        {
+          "id": "D",
+          "text": "Myanmar : Irrawaddy",
+          "html": "<p>Myanmar : Irrawaddy</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q6",
+      "number": 6,
+      "question": "In a certain code language, ‘A ? B’ means ‘A is the mother of B’, ‘A ! B’ means ‘A is the wife of B’, ‘A & B’ means ‘A is the brother of B’, and ‘A x B’ means ‘A is the father of B’. Which of the following means that Z is the wife’s father’s mother of L?",
+      "questionHtml": "<p>In a certain code language,<br/>‘A ? B’ means ‘A is the mother of B’,<br/>‘A ! B’ means ‘A is the wife of B’,<br/>‘A &amp; B’ means ‘A is the brother of B’, and<br/>‘A x B’ means ‘A is the father of B’.</p><p>Which of the following means that Z is the wife’s father’s mother of L?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Z & B ! T x J ? L",
+          "html": "<p>Z &amp; B ! T x J ? L</p>"
+        },
+        {
+          "id": "B",
+          "text": "Z ! B x T ? J & L",
+          "html": "<p>Z ! B x T ? J &amp; L</p>"
+        },
+        {
+          "id": "C",
+          "text": "Z ? B x T & J ! L",
+          "html": "<p>Z ? B x T &amp; J ! L</p>"
+        },
+        {
+          "id": "D",
+          "text": "Z ? B ! T & J x L",
+          "html": "<p>Z ? B ! T &amp; J x L</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image001.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q7",
+      "number": 7,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image002.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image002.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "28",
+          "html": "<p>28</p>"
+        },
+        {
+          "id": "B",
+          "text": "16",
+          "html": "<p>16</p>"
+        },
+        {
+          "id": "C",
+          "text": "21",
+          "html": "<p>21</p>"
+        },
+        {
+          "id": "D",
+          "text": "20",
+          "html": "<p>20</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image003.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q8",
+      "number": 8,
+      "question": "Which of the following interchanges of numbers (not digits) would make the given equation correct? 2(57–33÷11×13–2) + 3(64–56÷8×4 – 44) = 35",
+      "questionHtml": "<p>Which of the following interchanges of numbers (not digits) would make the given equation correct?</p><p>2(57–33÷11×13–2) + 3(64–56÷8×4 – 44) = 35</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 and 4",
+          "html": "<p>2 and 4</p>"
+        },
+        {
+          "id": "B",
+          "text": "56 and 57",
+          "html": "<p>56 and 57</p>"
+        },
+        {
+          "id": "C",
+          "text": "57 and 64",
+          "html": "<p>57 and 64</p>"
+        },
+        {
+          "id": "D",
+          "text": "33 and 44",
+          "html": "<p>33 and 44</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image004.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q9",
+      "number": 9,
+      "question": "Three statements are given followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements. Statements: Some pens are pencils. No pencil is a marker. All markers are boxes. Conclusions: I. Some pens are not markers. II. No Pen is a box. III. All boxes can never be pencil.",
+      "questionHtml": "<p>Three statements are given followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.<br/>Statements:<br/>Some pens are pencils.<br/>No pencil is a marker.<br/>All markers are boxes.<br/>Conclusions:<br/>I. Some pens are not markers.<br/>II. No Pen is a box.<br/>III. All boxes can never be pencil.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only I and III follow",
+          "html": "<p>Only I and III follow</p>"
+        },
+        {
+          "id": "B",
+          "text": "Only II and III follow",
+          "html": "<p>Only II and III follow</p>"
+        },
+        {
+          "id": "C",
+          "text": "Only I follows",
+          "html": "<p>Only I follows</p>"
+        },
+        {
+          "id": "D",
+          "text": "All I, II and III follow",
+          "html": "<p>All I, II and III follow</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image007.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q10",
+      "number": 10,
+      "question": "‘Permit’ is related to ‘Allow’ in the same way as ‘Forbid’ is related to _______.",
+      "questionHtml": "<p>‘Permit’ is related to ‘Allow’ in the same way as ‘Forbid’ is related to _______.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deny",
+          "html": "<p>Deny </p>"
+        },
+        {
+          "id": "B",
+          "text": "Approve",
+          "html": "<p>Approve </p>"
+        },
+        {
+          "id": "C",
+          "text": "Agree",
+          "html": "<p>Agree</p>"
+        },
+        {
+          "id": "D",
+          "text": "Accept",
+          "html": "<p>Accept</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>‘Permit’ and ‘Allow’ are synonyms (both mean to give permission).<br/>Similarly, ‘Forbid’ and ‘Deny’ are also synonyms (both mean to refuse permission).</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q11",
+      "number": 11,
+      "question": "In a certain code language, ‘BOAT’ is coded as 5729 and ‘TILE’ is coded as 9864. What is the code for ‘T’ in that language?",
+      "questionHtml": "<p>In a certain code language, ‘BOAT’ is coded as 5729 and ‘TILE’ is coded as 9864. What is the code for ‘T’ in that language?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "html": "<p>9</p>"
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "html": "<p>5</p>"
+        },
+        {
+          "id": "C",
+          "text": "7",
+          "html": "<p>7</p>"
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "html": "<p>4</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Letter T appears in both the words ‘BOAT’ and ‘TILE’, and the common code digit 9 appears in both codes.<br/>Therefore, the code for ‘T’ = 9.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q12",
+      "number": 12,
+      "question": "Seven people P, Q, R, S, T, U and V are sitting around a circular table, facing the centre (but not necessarily in the same order). P is sitting second to the right of T. Only one person is sitting between S and P. Q is sitting third to the right of V. U is an immediate neighbour of Q. How many people are sitting between S and T when counted from the left of T?",
+      "questionHtml": "<p>Seven people P, Q, R, S, T, U and V are sitting around a circular table, facing the centre (but not necessarily in the same order). P is sitting second to the right of T. Only one person is sitting between S and P. Q is sitting third to the right of V. U is an immediate neighbour of Q. How many people are sitting between S and T when counted from the left of T?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Two",
+          "html": "<p>Two</p>"
+        },
+        {
+          "id": "B",
+          "text": "One",
+          "html": "<p>One</p>"
+        },
+        {
+          "id": "C",
+          "text": "Four",
+          "html": "<p>Four</p>"
+        },
+        {
+          "id": "D",
+          "text": "Three",
+          "html": "<p>Three</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image008.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q13",
+      "number": 13,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image009.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image009.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image010.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image010.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image011.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image011.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image012.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image012.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image013.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image013.png"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image014.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q14",
+      "number": 14,
+      "question": "In a code language, ‘DBLF’ is written as ‘BDJH’ and ‘HPME’ is written as ‘FRKG’. How will ‘XJSF’ be written in that language?",
+      "questionHtml": "<p>In a code language, ‘DBLF’ is written as ‘BDJH’ and ‘HPME’ is written as ‘FRKG’. How will ‘XJSF’ be written in that language?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "ULQH",
+          "html": "<p>ULQH</p>"
+        },
+        {
+          "id": "B",
+          "text": "VLQG",
+          "html": "<p>VLQG</p>"
+        },
+        {
+          "id": "C",
+          "text": "VLQH",
+          "html": "<p>VLQH</p>"
+        },
+        {
+          "id": "D",
+          "text": "VQLH",
+          "html": "<p>VQLH</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Pattern alternates –2, +2, –2, +2 in letter positions.<br/>So,<br/>X → V (–2), J → L (+2), S → Q (–2), F → H (+2)</p><p>✅ Code = VLQH</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q15",
+      "number": 15,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image015.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image015.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image016.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image016.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image017.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image017.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image018.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image018.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image019.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image019.png"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image020.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q16",
+      "number": 16,
+      "question": "7 is related to 30 following a certain logic. Following the same logic, 14 is related to 100. To which of the following is 22 related following the same logic? (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+      "questionHtml": "<p>7 is related to 30 following a certain logic. Following the same logic, 14 is related to 100. To which of the following is 22 related following the same logic?</p><p>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "189",
+          "html": "<p>189</p>"
+        },
+        {
+          "id": "B",
+          "text": "190",
+          "html": "<p>190</p>"
+        },
+        {
+          "id": "C",
+          "text": "180",
+          "html": "<p>180</p>"
+        },
+        {
+          "id": "D",
+          "text": "170",
+          "html": "<p>170</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Logic:<br/>→ (Number − 4) × 10</p><p>Check:<br/>7 → (7 − 4) × 10 = 3 × 10 = 30 ✅<br/>14 → (14 − 4) × 10 = 10 × 10 = 100 ✅<br/>22 → (22 − 4) × 10 = 18 × 10 = 180 ✅</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q17",
+      "number": 17,
+      "question": "In a certain code language, “PLANET” is coded as 48 and “GALAXY” is coded as 48. How will “UNIVERSE” be coded in that language?",
+      "questionHtml": "<p>In a certain code language, “PLANET” is coded as 48 and “GALAXY” is coded as 48. How will “UNIVERSE” be coded in that language?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "64",
+          "html": "<p>64</p>"
+        },
+        {
+          "id": "B",
+          "text": "72",
+          "html": "<p>72</p>"
+        },
+        {
+          "id": "C",
+          "text": "80",
+          "html": "<p>80</p>"
+        },
+        {
+          "id": "D",
+          "text": "56",
+          "html": "<p>56</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Logic → Number of letters × 8</p><p>PLANET → 6 letters → 6 × 8 = 48<br/>GALAXY → 6 letters → 6 × 8 = 48<br/>UNIVERSE → 8 letters → 8 × 8 = 64</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q18",
+      "number": 18,
+      "question": "What should come in place of ? in the given series based on the English alphabetical order? ACE , FHJ , KMO , PRT , ?",
+      "questionHtml": "<p>What should come in place of ? in the given series based on the English alphabetical order?</p><p>ACE , FHJ , KMO , PRT , ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "UWZ",
+          "html": "<p>UWZ</p>"
+        },
+        {
+          "id": "B",
+          "text": "UWY",
+          "html": "<p>UWY</p>"
+        },
+        {
+          "id": "C",
+          "text": "TWZ",
+          "html": "<p>TWZ </p>"
+        },
+        {
+          "id": "D",
+          "text": "TVY",
+          "html": "<p>TVY</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Pattern: Each letter increases by +5 alphabetically in every next group.</p><p>A→F→K→P→U<br/>C→H→M→R→W<br/>E→J→O→T→Y</p><p>So, the next group = UWY</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q19",
+      "number": 19,
+      "question": "Select the Venn diagram that best illustrates the relationship between the following classes. Ticket, Aeroplane, Rail",
+      "questionHtml": "<p>Select the Venn diagram that best illustrates the relationship between the following classes.</p><p>Ticket, Aeroplane, Rail</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image021.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image021.png"
+        },
+        {
+          "id": "B",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image022.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image022.png"
+        },
+        {
+          "id": "C",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image023.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image023.png"
+        },
+        {
+          "id": "D",
+          "text": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image024.png",
+          "html": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image024.png"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image025.png",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q20",
+      "number": 20,
+      "question": "Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number. 625 : 5 :: 2560 : 8 :: 5000 : ?",
+      "questionHtml": "<p>Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number.</p><p>625 : 5 :: 2560 : 8 :: 5000 : ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "20",
+          "html": "<p>20</p>"
+        },
+        {
+          "id": "B",
+          "text": "10",
+          "html": "<p>10</p>"
+        },
+        {
+          "id": "C",
+          "text": "9",
+          "html": "<p>9</p>"
+        },
+        {
+          "id": "D",
+          "text": "12",
+          "html": "<p>12</p>"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<p>Logic → Cube of the number × 5</p><p>Check:<br/>625 : 5<br/>→ (5³) × 5 = 125 × 5 = 625 ✅</p><p>2560 : 8<br/>→ (8³) × 5 = 512 × 5 = 2560 ✅</p><p>5000 : ?<br/>→ ?³ × 5 = 5000<br/>→ ?³ = 1000<br/>→ ? = 10</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q21",
+      "number": 21,
+      "question": "Select the option that represents the letters that, when placed from left to right in the following blanks, will complete the letter-series. C L _ V E C _ _ W E C L O _ _ C _ O _ E",
+      "questionHtml": "<p>Select the option that represents the letters that, when placed from left to right in the following blanks, will complete the letter-series.</p><p>C L _ V E C _ _ W E C L O _ _ C _ O _ E</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "O L O X E L Y",
+          "html": "<p>O L O X E L Y</p>"
+        },
+        {
+          "id": "B",
+          "text": "O L O Y E L Z",
+          "html": "<p>O L O Y E L Z</p>"
+        },
+        {
+          "id": "C",
+          "text": "O L O X F M Y",
+          "html": "<p>O L O X F M Y</p>"
+        },
+        {
+          "id": "D",
+          "text": "O L P X E L Y",
+          "html": "<p>O L P X E L Y</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>C L O V E /C L O W E/ C L O X E/ C L O Y E</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q22",
+      "number": 22,
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary. 1. Warriors 2. Warehouse 3. Warcraft 4. Warranty 5. Wardrobe 6. Wardenship",
+      "questionHtml": "<p>Select the option that represents the correct order of the given words as they would appear in an English dictionary. </p><p>1. Warriors </p><p>2. Warehouse </p><p>3. Warcraft </p><p>4. Warranty </p><p>5. Wardrobe </p><p>6. Wardenship</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 6, 5, 2, 1, 4",
+          "html": "<p>3, 6, 5, 2, 1, 4</p>"
+        },
+        {
+          "id": "B",
+          "text": "3, 6, 2, 5, 4, 1",
+          "html": "<p>3, 6, 2, 5, 4, 1</p>"
+        },
+        {
+          "id": "C",
+          "text": "3, 5, 6, 2, 4, 1",
+          "html": "<p>3, 5, 6, 2, 4, 1</p>"
+        },
+        {
+          "id": "D",
+          "text": "3, 6, 5, 2, 4, 1",
+          "html": "<p>3, 6, 5, 2, 4, 1</p>"
+        }
+      ],
+      "correctAnswer": "4",
+      "solution": "<p>Correct dictionary order:<br/>3, 6, 5, 2, 4, 1</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q23",
+      "number": 23,
+      "question": "A cube of side 12 cm is painted green on all the faces and then cut into smaller cubes of sides 2 cm each. Find the number of smaller cubes that have only one face painted.",
+      "questionHtml": "<p>A cube of side 12 cm is painted green on all the faces and then cut into smaller cubes of sides 2 cm each. Find the number of smaller cubes that have only one face painted.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "69",
+          "html": "<p>69</p>"
+        },
+        {
+          "id": "B",
+          "text": "24",
+          "html": "<p>24</p>"
+        },
+        {
+          "id": "C",
+          "text": "96",
+          "html": "<p>96</p>"
+        },
+        {
+          "id": "D",
+          "text": "8",
+          "html": "<p>8</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Given: Side of big cube = 12 cm, small cube = 2 cm → cubes per edge = 12 ÷ 2 = 6</p><p>Formula:<br/>Cubes with one face painted = 6 × (n − 2)²</p><p>= 6 × (6 − 2)²<br/>= 6 × 16<br/>= 96</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q24",
+      "number": 24,
+      "question": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image026.png",
+      "questionHtml": "https://static-appxdb-v2.akamai.net.in/website/bulk_uploader_images/1762169329924_image026.png",
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "html": "<p>3</p>"
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "html": "<p>2</p>"
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "html": "<p>4</p>"
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "html": "<p>6</p>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>By comparing the 3rd and 4th dice, we can see that the common numbers are 4 and 2.<br/>→ In such a case, the faces which are not common (here 1 and 3) are opposite to each other.</p><p>✅ Therefore, the face opposite to 1 is 3.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "4f89e1b08018-q25",
+      "number": 25,
+      "question": "Select the option that is related to the third word in the same way as the second word is related to the first word. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.) Skin : Touch :: Nose : ?",
+      "questionHtml": "<p>Select the option that is related to the third word in the same way as the second word is related to the first word.<br/>(The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)</p><p>Skin : Touch :: Nose : ?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sweat",
+          "html": "<p>Sweat</p>"
+        },
+        {
+          "id": "B",
+          "text": "Nose ring",
+          "html": "<p>Nose ring</p>"
+        },
+        {
+          "id": "C",
+          "text": "Smell",
+          "html": "<p>Smell</p>"
+        },
+        {
+          "id": "D",
+          "text": "Taste",
+          "html": "<p>Taste</p>"
+        }
+      ],
+      "correctAnswer": "D",
+      "solution": "<p>Explanation:<br/>Skin is the sense organ for touch.<br/>Similarly, nose is the sense organ for smell.</p>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}

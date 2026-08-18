@@ -1,0 +1,889 @@
+{
+  "id": "03471bc68647",
+  "provider": "Testbook",
+  "sourceFile": "PYST_28_SSC_CGL_2025_Quantitative_Aptitude_Held_On_21th_September.html",
+  "sourcePath": "Testbook/files/PYST_28_SSC_CGL_2025_Quantitative_Aptitude_Held_On_21th_September.html",
+  "title": "PYST 28: SSC CGL 2025 - Quantitative Aptitude (Held On: 21th_September_2025_Shift_1)",
+  "exam": "SSC CGL",
+  "year": 2025,
+  "tier": null,
+  "shift": null,
+  "duration": 51,
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "03471bc68647-q1",
+      "number": 1,
+      "question": "What is the smallest number that must be added to 2378 to make it a perfect square?",
+      "questionHtml": "What is the smallest number that must be added to 2378 to make it a perfect square?",
+      "options": [
+        {
+          "id": "A",
+          "text": "23",
+          "html": "23"
+        },
+        {
+          "id": "B",
+          "text": "24",
+          "html": "24"
+        },
+        {
+          "id": "C",
+          "text": "25",
+          "html": "25"
+        },
+        {
+          "id": "D",
+          "text": "26",
+          "html": "26"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>⇒ 48<sup>2</sup> = 48 × 48 = 2304</p>\n\n<p>⇒ 49<sup>2</sup> = 49 × 49 = 2401</p>\n\n<p>⇒ Required addition = 2401 − 2378 = 23</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q2",
+      "number": 2,
+      "question": "A bakery produced 5000 cakes at a total cost of ₹250,000. They gave away 500 cakes for a promotional event. For the remaining cakes, they offered a 20% discount on the market price of ₹75 per cake. Additionally, they gave one cake free with every 9 cakes bought. If all 5000 cakes were distributed, what is their overall gain or loss percentage?",
+      "questionHtml": "A bakery produced 5000 cakes at a total cost of ₹250,000. They gave away 500 cakes for a promotional event. For the remaining cakes, they offered a 20% discount on the market price of ₹75 per cake. Additionally, they gave one cake free with every 9 cakes bought. If all 5000 cakes were distributed, what is their overall gain or loss percentage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4.5 % profit",
+          "html": "4.5 % profit"
+        },
+        {
+          "id": "B",
+          "text": "2.8 % profit",
+          "html": "2.8 % profit"
+        },
+        {
+          "id": "C",
+          "text": "2.8 % loss",
+          "html": "2.8 % loss"
+        },
+        {
+          "id": "D",
+          "text": "4.5 % loss",
+          "html": "4.5 % loss"
+        }
+      ],
+      "correctAnswer": "C",
+      "solution": "<svg width=\"520\" height=\"270\" viewBox=\"0 0 520 270\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:1px;padding:0;background:#ffffff;border-radius:8px;border:1px solid #cccccc;box-sizing:border-box;\">\n  <defs>\n    <marker id=\"arr\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#2255cc\"/></marker>\n    <marker id=\"arrR\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#cc0000\"/></marker>\n  </defs>\n\n  <!-- ZONE 1: CP and SP Bars with Loss visualization -->\n  <!-- CP Bar -->\n  <rect x=\"25\" y=\"30\" width=\"450\" height=\"28\" fill=\"#f0f0f0\" stroke=\"#555555\" stroke-width=\"1.5\" rx=\"4\"/>\n  <text x=\"35\" y=\"49\" font-family=\"Arial\" font-size=\"14\" fill=\"#555555\">Total Cost Price (CP) = ₹ 2,50,000</text>\n  \n  <!-- SP Bar (Representing 97.2% of CP) -->\n  <rect x=\"25\" y=\"70\" width=\"437.4\" height=\"28\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"1.5\" rx=\"4\"/>\n  <text x=\"35\" y=\"89\" font-family=\"Arial\" font-size=\"14\" fill=\"#2255cc\">Selling Price (SP) = ₹ 2,43,000</text>\n  \n  <!-- Loss Segment -->\n  <rect x=\"462.4\" y=\"70\" width=\"12.6\" height=\"28\" fill=\"#ffd6d6\" stroke=\"#cc0000\" stroke-width=\"1.5\" stroke-dasharray=\"3,1\" rx=\"2\"/>\n  <path d=\"M462.4 105 L475 105\" stroke=\"#cc0000\" stroke-width=\"1.5\" marker-start=\"url(#arrR)\" marker-end=\"url(#arrR)\"/>\n  <text x=\"440\" y=\"125\" font-family=\"Arial\" font-size=\"14\" fill=\"#cc0000\" font-weight=\"700\">Loss</text>\n\n  <!-- Buy 9 Get 1 Scheme Visual -->\n  <g transform=\"translate(25, 140)\">\n    <text x=\"0\" y=\"0\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\" font-weight=\"700\">Remaining 4,500 Cakes Scheme (Buy 9 Get 1 Free):</text>\n    <!-- 9 Paid Cakes (Blue) -->\n    <rect x=\"0\" y=\"10\" width=\"16\" height=\"20\" fill=\"#ddeeff\" stroke=\"#2255cc\" rx=\"2\"/>\n    <rect x=\"20\" y=\"10\" width=\"16\" height=\"20\" fill=\"#ddeeff\" stroke=\"#2255cc\" rx=\"2\"/>\n    <rect x=\"40\" y=\"10\" width=\"16\" height=\"20\" fill=\"#ddeeff\" stroke=\"#2255cc\" rx=\"2\"/>\n    <rect x=\"60\" y=\"10\" width=\"16\" height=\"20\" fill=\"#ddeeff\" stroke=\"#2255cc\" rx=\"2\"/>\n    <rect x=\"80\" y=\"10\" width=\"16\" height=\"20\" fill=\"#ddeeff\" stroke=\"#2255cc\" rx=\"2\"/>\n    <rect x=\"100\" y=\"10\" width=\"16\" height=\"20\" fill=\"#ddeeff\" stroke=\"#2255cc\" rx=\"2\"/>\n    <rect x=\"120\" y=\"10\" width=\"16\" height=\"20\" fill=\"#ddeeff\" stroke=\"#2255cc\" rx=\"2\"/>\n    <rect x=\"140\" y=\"10\" width=\"16\" height=\"20\" fill=\"#ddeeff\" stroke=\"#2255cc\" rx=\"2\"/>\n    <rect x=\"160\" y=\"10\" width=\"16\" height=\"20\" fill=\"#ddeeff\" stroke=\"#2255cc\" rx=\"2\"/>\n    <!-- 1 Free Cake (Orange) -->\n    <rect x=\"185\" y=\"10\" width=\"16\" height=\"20\" fill=\"#fff0cc\" stroke=\"#cc5500\" rx=\"2\"/>\n    <text x=\"180\" y=\"45\" font-family=\"Arial\" font-size=\"12\" fill=\"#cc5500\" font-weight=\"700\">FREE</text>\n    <path d=\"M0 35 L176 35\" stroke=\"#2255cc\" stroke-width=\"1\" marker-start=\"url(#arr)\" marker-end=\"url(#arr)\"/>\n    <text x=\"60\" y=\"50\" font-family=\"Arial\" font-size=\"12\" fill=\"#2255cc\">9 Paid (₹ 60 each)</text>\n  </g>\n\n  <!-- ZONE 2: Solution lines -->\n  <text x=\"25\" y=\"210\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ SP per cake = 75 × 80% = ₹ 60</text>\n  <text x=\"25\" y=\"232\" font-family=\"Arial\" font-size=\"14\" fill=\"#222222\">⇒ Revenue = 4500 × (9 ÷ 10) × 60 = ₹ 2,43,000</text>\n  \n  <text x=\"25\" y=\"258\" font-family=\"Arial\" font-size=\"14\" font-weight=\"700\" fill=\"#000000\">∴ Answer = 2.8 % loss</text>\n</svg>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q3",
+      "number": 3,
+      "question": "What is the compound interest on Rs. 8000 for 2 year at 10% per annum?",
+      "questionHtml": "What is the compound interest on Rs. 8000 for 2 year at 10% per annum?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1600",
+          "html": "1600"
+        },
+        {
+          "id": "B",
+          "text": "1680",
+          "html": "1680"
+        },
+        {
+          "id": "C",
+          "text": "1650",
+          "html": "1650"
+        },
+        {
+          "id": "D",
+          "text": "1700",
+          "html": "1700"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>P = 8000, R = 10%, T = 2 years.</p>  \n<p>CI = P × (1 + R/100)<sup>T</sup> − P</p>  \n<p>⇒ CI = 8000 × (1 + 0.1)<sup>2</sup> − 8000</p>  \n<p>⇒ CI = 8000 × 1.21 − 8000 = 1680</p>  ",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q4",
+      "number": 4,
+      "question": "A certain sum becomes 4 times itself in 8 years at simple interest. In how many years will it become 12 times itself at the same rate?",
+      "questionHtml": "A certain sum becomes 4 times itself in 8 years at simple interest. In how many years will it become 12 times itself at the same rate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "29 \\(\\frac{1}{3}\\) years",
+          "html": "29 <span class=\"math-tex\">\\(\\frac{1}{3}\\)</span> years"
+        },
+        {
+          "id": "B",
+          "text": "30 \\(\\frac{1}{6}\\) years",
+          "html": "30 <span class=\"math-tex\">\\(\\frac{1}{6}\\)</span> years"
+        },
+        {
+          "id": "C",
+          "text": "28 \\(\\frac{2}{5}\\) years",
+          "html": "28 <span class=\"math-tex\">\\(\\frac{2}{5}\\)</span> years"
+        },
+        {
+          "id": "D",
+          "text": "27 \\(\\frac{3}{7}\\) years",
+          "html": "27 <span class=\"math-tex\">\\(\\frac{3}{7}\\)</span> years"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Amount = P + (P × R × T) ÷ 100.</p>\n\n<p>4P = P + (P × R × 8) ÷ 100 ⇒ 3P = (P × R × 8) ÷ 100 ⇒ R = (3 × 100) ÷ 8 = 37.5%.</p>\n\n<p>12P = P + (P × 37.5 × T) ÷ 100 ⇒ 11P = (P × 37.5 × T) ÷ 100 ⇒ T = (11 × 100) ÷ 37.5 = 29 (1)/(3) years.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q5",
+      "number": 5,
+      "question": "Which of the following is a perfect square and an Integer?",
+      "questionHtml": "Which of the following is a perfect square and an Integer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Square root of 5",
+          "html": "Square root of 5"
+        },
+        {
+          "id": "B",
+          "text": "Square root of 9",
+          "html": "Square root of 9"
+        },
+        {
+          "id": "C",
+          "text": "3.2",
+          "html": "3.2"
+        },
+        {
+          "id": "D",
+          "text": "3.4",
+          "html": "3.4"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>⇒ √5 ≈ 2.236 (not an integer)</p>\n\n<p>⇒ √9 = 3 (an integer)</p>\n\n<p>⇒ 3.2, 3.4 (not integers)</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q6",
+      "number": 6,
+      "question": "The speed of a train is 110 kmph. Find the distance covered by the train in 100 seconds.",
+      "questionHtml": "The speed of a train is 110 kmph. Find the distance covered by the train in 100 seconds.",
+      "options": [
+        {
+          "id": "A",
+          "text": "3051 m",
+          "html": "3051 m"
+        },
+        {
+          "id": "B",
+          "text": "3055.56 m",
+          "html": "3055.56 m"
+        },
+        {
+          "id": "C",
+          "text": "3011.56 m",
+          "html": "3011.56 m"
+        },
+        {
+          "id": "D",
+          "text": "3000.56 m",
+          "html": "3000.56 m"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Speed in m/s = 110 × (1000 ÷ 3600)</p>\n\n<p>⇒ Speed in m/s = 110 × 0.27778 = 30.556 m/s</p>\n\n<p>Distance = Speed × Time = 30.556 × 100 = 3055.56 m</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q7",
+      "number": 7,
+      "question": "If the ratio of capital of A and B is 3:2 and the time for which they invested is in the ratio 2:3, then the profit ratio is:",
+      "questionHtml": "If the ratio of capital of A and B is 3:2 and the time for which they invested is in the ratio 2:3, then the profit ratio is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1:1",
+          "html": "1:1"
+        },
+        {
+          "id": "B",
+          "text": "2:1",
+          "html": "2:1"
+        },
+        {
+          "id": "C",
+          "text": "3:2",
+          "html": "3:2"
+        },
+        {
+          "id": "D",
+          "text": "3:1",
+          "html": "3:1"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Profit ratio = (Capital of A × Time of A) : (Capital of B × Time of B)</p>\n\n<p>⇒ Profit ratio = (3 × 2) : (2 × 3)</p>\n\n<p>⇒ Profit ratio = 6 : 6</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q8",
+      "number": 8,
+      "question": "A company designs a new chocolate box in the shape of a regular right pyramid with a square base. The base side of the box is 10 cm and its height is 12 cm. Due to packaging constraints, the box can only be filled up to 90% of its total volume. If the company wants to estimate the total cost of chocolate, knowing that 1 cm&sup3; of chocolate costs ₹0.50, what is the cost of chocolate to fill one such box?",
+      "questionHtml": "A company designs a new chocolate box in the shape of a regular right pyramid with a square base. The base side of the box is 10 cm and its height is 12 cm. Due to packaging constraints, the box can only be filled up to 90% of its total volume. If the company wants to estimate the total cost of chocolate, knowing that 1 cm&sup3; of chocolate costs ₹0.50, what is the cost of chocolate to fill one such box?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹180",
+          "html": "₹180"
+        },
+        {
+          "id": "B",
+          "text": "₹225",
+          "html": "₹225"
+        },
+        {
+          "id": "C",
+          "text": "₹270",
+          "html": "₹270"
+        },
+        {
+          "id": "D",
+          "text": "₹300",
+          "html": "₹300"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Base area = 10 × 10 = 100</p>\n\n<p>Total volume = (1 ÷ 3) × 100 × 12 = 400 cm<sup>3</sup></p>\n\n<p>Volume filled = 400 × 90 ÷ 100 = 360 cm<sup>3</sup></p>\n\n<p>Total cost = 360 × 0.50 = ₹180</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q9",
+      "number": 9,
+      "question": "Consider a right trapezoidal field. Its two parallel sides are 30 meters and 50 meters long. One of its non-parallel sides, which acts as the height, measures 20 meters. What is the area of this field?",
+      "questionHtml": "Consider a right trapezoidal field. Its two parallel sides are 30 meters and 50 meters long. One of its non-parallel sides, which acts as the height, measures 20 meters. What is the area of this field?",
+      "options": [
+        {
+          "id": "A",
+          "text": "700 square meters",
+          "html": "700 square meters"
+        },
+        {
+          "id": "B",
+          "text": "800 square meters",
+          "html": "800 square meters"
+        },
+        {
+          "id": "C",
+          "text": "840 square meters",
+          "html": "840 square meters"
+        },
+        {
+          "id": "D",
+          "text": "900 square meters",
+          "html": "900 square meters"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Area = (1 ÷ 2) × (30 + 50) × 20</p>\n\n<p>⇒ Area = (1 ÷ 2) × 80 × 20</p>\n\n<p>⇒ Area = 40 × 20 = 800 m<sup>2</sup></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q10",
+      "number": 10,
+      "question": "A hexagon is drawn inside a circle with a radius of 21 cm. Determine the approximate area of the hexagon.",
+      "questionHtml": "A hexagon is drawn inside a circle with a radius of 21 cm. Determine the approximate area of the hexagon.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1145 cm&sup2;",
+          "html": "1145 cm&sup2;"
+        },
+        {
+          "id": "B",
+          "text": "1845 cm&sup2;",
+          "html": "1845 cm&sup2;"
+        },
+        {
+          "id": "C",
+          "text": "165 cm&sup2;",
+          "html": "165 cm&sup2;"
+        },
+        {
+          "id": "D",
+          "text": "172 cm&sup2;",
+          "html": "172 cm&sup2;"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Side = Radius = 21 cm</p>\n\n<p>Area = (3√3 ÷ 2) × Side<sup>2</sup></p>\n\n<p>⇒ Area = (3√3 ÷ 2) × 21<sup>2</sup> = (3√3 ÷ 2) × 441 = (1323√3 ÷ 2)</p>\n\n<p>⇒ √3 ≈ 1.732</p>\n\n<p>⇒ Area ≈ (1323 × 1.732) ÷ 2 = 2291.436 ÷ 2 ≈ 1145 cm<sup>2</sup></p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q11",
+      "number": 11,
+      "question": "A town has males and females in a ratio of 3:2. After 5 years, the male population increases by 10%, and the female population by 25%. What is the new ratio?",
+      "questionHtml": "A town has males and females in a ratio of 3:2. After 5 years, the male population increases by 10%, and the female population by 25%. What is the new ratio?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3:2.5",
+          "html": "3:2.5"
+        },
+        {
+          "id": "B",
+          "text": "33:25",
+          "html": "33:25"
+        },
+        {
+          "id": "C",
+          "text": "66:65",
+          "html": "66:65"
+        },
+        {
+          "id": "D",
+          "text": "6:5",
+          "html": "6:5"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<svg width=\"450\" height=\"260\" viewBox=\"0 0 450 260\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:1px;padding:0;background:#ffffff;border-radius:8px;border:1px solid #cccccc;box-sizing:border-box;\">\n  <defs>\n    <marker id=\"arrO\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\">\n      <path d=\"M0,0 L10,5 L0,10 z\" fill=\"#cc5500\"/>\n    </marker>\n  </defs>\n\n  <!-- Initial Ratio Bar -->\n  <text x=\"10\" y=\"45\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#555555\" font-weight=\"700\">Initial</text>\n  <rect x=\"70\" y=\"25\" width=\"150\" height=\"35\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"2\"/>\n  <rect x=\"220\" y=\"25\" width=\"100\" height=\"35\" fill=\"#ede7f6\" stroke=\"#6a1b9a\" stroke-width=\"2\"/>\n  <text x=\"120\" y=\"48\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#2255cc\" text-anchor=\"middle\">Male (3)</text>\n  <text x=\"270\" y=\"48\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#6a1b9a\" text-anchor=\"middle\">Female (2)</text>\n\n  <!-- Growth Arrows -->\n  <path d=\"M145 60 Q145 75 145 85\" fill=\"none\" stroke=\"#cc5500\" stroke-width=\"1.5\" marker-end=\"url(#arrO)\" stroke-dasharray=\"3,2\"/>\n  <text x=\"155\" y=\"77\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#cc5500\">+10%</text>\n  \n  <path d=\"M270 60 Q270 75 270 85\" fill=\"none\" stroke=\"#cc5500\" stroke-width=\"1.5\" marker-end=\"url(#arrO)\" stroke-dasharray=\"3,2\"/>\n  <text x=\"280\" y=\"77\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#cc5500\">+25%</text>\n\n  <!-- New Ratio Bar -->\n  <text x=\"10\" y=\"115\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#555555\" font-weight=\"700\">New</text>\n  <rect x=\"70\" y=\"95\" width=\"165\" height=\"35\" fill=\"#ddeeff\" stroke=\"#2255cc\" stroke-width=\"2\"/>\n  <rect x=\"235\" y=\"95\" width=\"125\" height=\"35\" fill=\"#ede7f6\" stroke=\"#6a1b9a\" stroke-width=\"2\"/>\n  <text x=\"152\" y=\"118\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#2255cc\" text-anchor=\"middle\">3.3</text>\n  <text x=\"297\" y=\"118\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#6a1b9a\" text-anchor=\"middle\">2.5</text>\n\n  <!-- Calculation Zone -->\n  <text x=\"30\" y=\"170\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#222222\">⇒ New Males = 3 × 1.10 = 3.3 units</text>\n  <text x=\"30\" y=\"195\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#222222\">⇒ New Females = 2 × 1.25 = 2.5 units</text>\n  <text x=\"30\" y=\"220\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#222222\">⇒ New Ratio = 3.3 : 2.5 = 33 : 25</text>\n\n  <!-- Final Answer -->\n  <text x=\"30\" y=\"248\" font-family=\"Arial, sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#000000\">∴ Answer = 33 : 25</text>\n</svg>",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q12",
+      "number": 12,
+      "question": "A triangle has sides 8 cm and 10 cm, and the angle between them is 120&deg;. What is its area?",
+      "questionHtml": "A triangle has sides 8 cm and 10 cm, and the angle between them is 120&deg;. What is its area?",
+      "options": [
+        {
+          "id": "A",
+          "text": "40 cm&sup2;",
+          "html": "40 cm&sup2;"
+        },
+        {
+          "id": "B",
+          "text": "20&radic;3 cm&sup2;",
+          "html": "20&radic;3 cm&sup2;"
+        },
+        {
+          "id": "C",
+          "text": "40&radic;3 cm&sup2;",
+          "html": "40&radic;3 cm&sup2;"
+        },
+        {
+          "id": "D",
+          "text": "20 cm&sup2;",
+          "html": "20 cm&sup2;"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>⇒ Area = (1/2) × 8 × 10 × sin(120°)</p>\n\n<p>⇒ sin(120°) = √3 ÷ 2</p>\n\n<p>⇒ Area = 40 × (√3 ÷ 2) = 20√3 cm²</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q13",
+      "number": 13,
+      "question": "A man spends 80% of his income. His income has increased by 25%, but his expenditure remains the same. By what percent have his savings increased?",
+      "questionHtml": "A man spends 80% of his income. His income has increased by 25%, but his expenditure remains the same. By what percent have his savings increased?",
+      "options": [
+        {
+          "id": "A",
+          "text": "125%",
+          "html": "125%"
+        },
+        {
+          "id": "B",
+          "text": "150%",
+          "html": "150%"
+        },
+        {
+          "id": "C",
+          "text": "100%",
+          "html": "100%"
+        },
+        {
+          "id": "D",
+          "text": "200%",
+          "html": "200%"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>⇒ Original income = 100 units; Original expenditure = 80% of 100 = 80 units; Original savings = 100 − 80 = 20 units.</p>\n\n<p>⇒ New income = 100 + (25% of 100) = 125 units; New expenditure = 80 units; New savings = 125 − 80 = 45 units.</p>\n\n<p>⇒ Percentage increase in savings = [(45 − 20) ÷ 20] × 100 = (25 ÷ 20) × 100 = 125%.</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q14",
+      "number": 14,
+      "question": "Sameer can complete a work in 16 days. In how many days will the work be completed by Ajay, if his efficiency is 60% more than that of Sameer?",
+      "questionHtml": "Sameer can complete a work in 16 days. In how many days will the work be completed by Ajay, if his efficiency is 60% more than that of Sameer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 days",
+          "html": "12 days"
+        },
+        {
+          "id": "B",
+          "text": "10 days",
+          "html": "10 days"
+        },
+        {
+          "id": "C",
+          "text": "13 days",
+          "html": "13 days"
+        },
+        {
+          "id": "D",
+          "text": "15 days",
+          "html": "15 days"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Let efficiency of Sameer = 100</p>\n\n<p>⇒ Efficiency of Ajay = 100 + (100 × 60 ÷ 100) = 160</p>\n\n<p>⇒ Ratio of efficiency = 100 : 160 = 5 : 8</p>\n\n<p>⇒ Total work = 5 × 16 = 80</p>\n\n<p>⇒ Time = 80 ÷ 8 = 10 days</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q15",
+      "number": 15,
+      "question": "A right prism has a base in the shape of a trapezium with parallel sides 10 cm and 6 cm, and height 4 cm. If the prism height is 15 cm, what is the volume?",
+      "questionHtml": "A right prism has a base in the shape of a trapezium with parallel sides 10 cm and 6 cm, and height 4 cm. If the prism height is 15 cm, what is the volume?",
+      "options": [
+        {
+          "id": "A",
+          "text": "480 cm&sup3;",
+          "html": "480 cm&sup3;"
+        },
+        {
+          "id": "B",
+          "text": "240 cm&sup3;",
+          "html": "240 cm&sup3;"
+        },
+        {
+          "id": "C",
+          "text": "520 cm&sup3;",
+          "html": "520 cm&sup3;"
+        },
+        {
+          "id": "D",
+          "text": "680 cm&sup3;",
+          "html": "680 cm&sup3;"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>⇒ Base area = (1 ÷ 2) × (10 + 6) × 4</p>  \n<p>⇒ Base area = 8 × 4 = 32 cm<sup>2</sup></p>  \n<p>⇒ Volume = 32 × 15 = 480 cm<sup>3</sup></p>  ",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q16",
+      "number": 16,
+      "question": "The average of a group of 11 numbers is 61. If the first six numbers have an average of 57 and the last six numbers have an average of 65, what is the sixth number?",
+      "questionHtml": "The average of a group of 11 numbers is 61. If the first six numbers have an average of 57 and the last six numbers have an average of 65, what is the sixth number?",
+      "options": [
+        {
+          "id": "A",
+          "text": "62",
+          "html": "62"
+        },
+        {
+          "id": "B",
+          "text": "61",
+          "html": "61"
+        },
+        {
+          "id": "C",
+          "text": "64",
+          "html": "64"
+        },
+        {
+          "id": "D",
+          "text": "60",
+          "html": "60"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>Total sum of 11 numbers ⇒ 61 × 11 = 671</p>\n\n<p>Sum of first 6 numbers ⇒ 57 × 6 = 342</p>\n\n<p>Sum of last 6 numbers ⇒ 65 × 6 = 390</p>\n\n<p>Sixth number ⇒ (342 + 390) − 671 = 61</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q17",
+      "number": 17,
+      "question": "A chemist prepares 60 liters of antiseptic solution by mixing two liquids 'A' and 'B' in the ratio 2:3. If the cost of 'A' is Rs. 45/liter and 'B' is Rs. 30/liter, what is the average cost per liter of the final solution?",
+      "questionHtml": "A chemist prepares 60 liters of antiseptic solution by mixing two liquids &#39;A&#39; and &#39;B&#39; in the ratio 2:3. If the cost of &#39;A&#39; is Rs. 45/liter and &#39;B&#39; is Rs. 30/liter, what is the average cost per liter of the final solution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 36",
+          "html": "Rs. 36"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 38",
+          "html": "Rs. 38"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 37",
+          "html": "Rs. 37"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 39",
+          "html": "Rs. 39"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>Total ratio = 2 + 3 = 5</p>\n\n<p>Quantity of A = (2 ÷ 5) × 60 = 24 liters</p>\n\n<p>Quantity of B = (3 ÷ 5) × 60 = 36 liters</p>\n\n<p>Cost of A = 24 × 45 = 1080</p>\n\n<p>Cost of B = 36 × 30 = 1080</p>\n\n<p>Total cost = 1080 + 1080 = 2160</p>\n\n<p>Average cost per liter = 2160 ÷ 60 = 36</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q18",
+      "number": 18,
+      "question": "If sin A + cos A = 1, then find the value of sin⁴ A + cos⁴ A.",
+      "questionHtml": "If sin A + cos A = 1, then find the value of sin⁴ A + cos⁴ A.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{1}{2}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{1}{2}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{3}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{3}{4}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{5}{8}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{5}{8}\\)</span>"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p>sin A + cos A = 1.</p>  \n<p>(sin A + cos A)<sup>2</sup> = sin<sup>2</sup>A + cos<sup>2</sup>A + 2 × sinA × cosA ⇒ 1<sup>2</sup> = 1 + 2 × sinA × cosA.</p>  \n<p>2 × sinA × cosA = 0 ⇒ sinA × cosA = 0.</p>  \n<p>sin<sup>4</sup>A + cos<sup>4</sup>A = (sin<sup>2</sup>A + cos<sup>2</sup>A)<sup>2</sup> − 2 × sin<sup>2</sup>A × cos<sup>2</sup>A ⇒ 1<sup>2</sup> − 2 × 0 = 1.</p>  ",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q19",
+      "number": 19,
+      "question": "If sinA = 0.6 and cosA = 0.8, what is tanA?",
+      "questionHtml": "If sinA = 0.6 and cosA = 0.8, what is tanA?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.56",
+          "html": "0.56"
+        },
+        {
+          "id": "B",
+          "text": "0.75",
+          "html": "0.75"
+        },
+        {
+          "id": "C",
+          "text": "0.45",
+          "html": "0.45"
+        },
+        {
+          "id": "D",
+          "text": "0.52",
+          "html": "0.52"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p>sinA = 0.6, cosA = 0.8</p>\n\n<p>tanA = sinA ÷ cosA</p>\n\n<p>⇒ tanA = 0.6 ÷ 0.8 = 0.75</p>\n",
+      "images": [],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q20",
+      "number": 20,
+      "question": "If y = mx + 1 passes through (2,5), find m.",
+      "questionHtml": "If y = mx + 1 passes through (2,5), find m.",
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "html": "2"
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "html": "1"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "html": ""
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "html": "3"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span></p>\n\n<p>From the equation y = mx + 1, we know the y-intercept is 1, meaning the line passes through (0, 1).</p>\n\n<p>We are given another point (2, 5) on the line.</p>\n\n<p>Slope m = (y<sub>2</sub> &minus; y<sub>1</sub>) &divide; (x<sub>2</sub> &minus; x<sub>1</sub>)</p>\n\n<p>m = (5 &minus; 1) &divide; (2 &minus; 0) = 4 &divide; 2 = 2.</p>\n\n<p><strong>&there4; The correct answer is 2.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<p><strong>Given:</strong></p>\n\n<p>Equation of the straight line: y = mx + 1</p>\n\n<p>Point on the line: (x, y) = (2, 5)</p>\n\n<p><strong>Method Used:</strong></p>\n\n<p>Since the line passes through the point (2, 5), the coordinates x = 2 and y = 5 must satisfy the given equation.</p>\n<svg height=\"240\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\" viewbox=\"0 0 420 240\" width=\"420\" xmlns=\"http://www.w3.org/2000/svg\"> <line stroke=\"#888888\" stroke-dasharray=\"5,3\" stroke-width=\"1.5\" x1=\"50\" x2=\"350\" y1=\"200\" y2=\"200\"></line> <line stroke=\"#888888\" stroke-dasharray=\"5,3\" stroke-width=\"1.5\" x1=\"150\" x2=\"150\" y1=\"220\" y2=\"30\"></line> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"12\" x=\"355\" y=\"204\">x</text> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"12\" x=\"135\" y=\"25\">y</text> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"12\" x=\"135\" y=\"215\">0</text> <line stroke=\"#2255cc\" stroke-width=\"2\" x1=\"130\" x2=\"210\" y1=\"220\" y2=\"60\"></line> <circle cx=\"150\" cy=\"180\" fill=\"#cc5500\" r=\"4\"></circle> <text fill=\"#cc5500\" font-family=\"sans-serif\" font-size=\"12\" x=\"105\" y=\"184\">(0, 1)</text> <circle cx=\"190\" cy=\"100\" fill=\"#cc5500\" r=\"4\"></circle> <text fill=\"#cc5500\" font-family=\"sans-serif\" font-size=\"12\" x=\"200\" y=\"104\">(2, 5)</text> <line stroke=\"#888888\" stroke-dasharray=\"4,2\" stroke-width=\"1\" x1=\"190\" x2=\"190\" y1=\"200\" y2=\"100\"></line> <line stroke=\"#888888\" stroke-dasharray=\"4,2\" stroke-width=\"1\" x1=\"150\" x2=\"190\" y1=\"100\" y2=\"100\"></line> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"12\" x=\"186\" y=\"215\">2</text> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"12\" x=\"135\" y=\"104\">5</text> <text fill=\"#2255cc\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" x=\"215\" y=\"75\">y = mx + 1</text> </svg>\n\n<p><strong>Calculations:</strong></p>\n\n<p>&rArr; y = mx + 1</p>\n\n<p>&rArr; Substitute x = 2 and y = 5 into the equation.</p>\n\n<p>&rArr; 5 = m &times; 2 + 1</p>\n\n<p>&rArr; 5 &minus; 1 = 2m</p>\n\n<p>&rArr; 4 = 2m</p>\n\n<p>&rArr; m = 4 &divide; 2</p>\n\n<p>&rArr; m = 2</p>\n\n<p><strong>&there4; The correct answer is 2.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Slope-Intercept Form</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">The equation y = mx + c represents a straight line, where m is the slope of the line and c is the y-intercept.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Slope Formula</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">The slope m of a line passing through two specific points (x<sub>1</sub>, y<sub>1</sub>) and (x<sub>2</sub>, y<sub>2</sub>) is m = (y<sub>2</sub> &minus; y<sub>1</sub>) &divide; (x<sub>2</sub> &minus; x<sub>1</sub>).</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Line Intercepts</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">The x-intercept is the point where the line crosses the x-axis (set y = 0), and the y-intercept is where it crosses the y-axis (set x = 0).</p>\n\n<p>&nbsp;</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q21",
+      "number": 21,
+      "question": "If sin A = \\(\\frac{4}{5}\\) and A is acute, find cot(90&deg; &ndash; A).",
+      "questionHtml": "If sin A = <span class=\"math-tex\">\\(\\frac{4}{5}\\)</span> and A is acute, find cot(90&deg; &ndash; A).",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\(\\frac{3}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{3}{4}\\)</span>"
+        },
+        {
+          "id": "B",
+          "text": "\\(\\frac{4}{3}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{4}{3}\\)</span>"
+        },
+        {
+          "id": "C",
+          "text": "\\(\\frac{5}{3}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{5}{3}\\)</span>"
+        },
+        {
+          "id": "D",
+          "text": "\\(\\frac{5}{4}\\)",
+          "html": "<span class=\"math-tex\">\\(\\frac{5}{4}\\)</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span></p>\n\n<p>We know the complementary angle trigonometric identity: cot(90&deg; &minus; A) = tan A.</p>\n\n<p>Given sin A = 4/5, the perpendicular is 4 and the hypotenuse is 5.</p>\n\n<p>This forms a standard 3-4-5 Pythagorean triplet, so the base is 3.</p>\n\n<p>Therefore, tan A = Perpendicular &divide; Base = 4/3.</p>\n\n<p><strong>&there4; The correct answer is 4/3.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<p><strong>Given:</strong></p>\n\n<p>sin A = 4/5</p>\n\n<p>A is an acute angle.</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>sin A = Perpendicular &divide; Hypotenuse</p>\n\n<p>Base = &radic;(Hypotenuse<sup>2</sup> &minus; Perpendicular<sup>2</sup>)</p>\n\n<p>cot(90&deg; &minus; A) = tan A = Perpendicular &divide; Base</p>\n<svg height=\"220\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\" viewbox=\"0 0 420 220\" width=\"420\" xmlns=\"http://www.w3.org/2000/svg\"> <polygon fill=\"#ddeeff\" points=\"120,180 240,180 240,20\" stroke=\"#2255cc\" stroke-width=\"2\"></polygon> <polyline fill=\"none\" points=\"225,180 225,165 240,165\" stroke=\"#2255cc\" stroke-width=\"1.5\"></polyline> <path d=\"M 145 180 A 25 25 0 0 0 135 160\" fill=\"none\" stroke=\"#cc5500\" stroke-width=\"2\"></path> <text fill=\"#cc5500\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" x=\"148\" y=\"174\">A</text> <text fill=\"#2255cc\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" x=\"155\" y=\"202\">Base = 3</text> <text fill=\"#2255cc\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" x=\"250\" y=\"105\">Perp = 4</text> <text fill=\"#2255cc\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" x=\"60\" y=\"95\">Hypotenuse = 5</text> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" x=\"105\" y=\"190\">A</text> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" x=\"245\" y=\"190\">B</text> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" x=\"245\" y=\"15\">C</text> </svg>\n\n<p><strong>Calculations:</strong></p>\n\n<p>&rArr; Let Perpendicular = 4x and Hypotenuse = 5x.</p>\n\n<p>&rArr; By Pythagoras theorem: Base<sup>2</sup> + Perpendicular<sup>2</sup> = Hypotenuse<sup>2</sup></p>\n\n<p>&rArr; Base<sup>2</sup> + (4x)<sup>2</sup> = (5x)<sup>2</sup></p>\n\n<p>&rArr; Base<sup>2</sup> + 16x<sup>2</sup> = 25x<sup>2</sup></p>\n\n<p>&rArr; Base<sup>2</sup> = 9x<sup>2</sup></p>\n\n<p>&rArr; Base = 3x</p>\n\n<p>&rArr; cot(90&deg; &minus; A) = tan A = Perpendicular &divide; Base</p>\n\n<p>&rArr; tan A = 4x &divide; 3x = 4/3</p>\n\n<p><strong>&there4; The correct answer is 4/3.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Complementary Angles in Trigonometry</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">For any acute angle A: sin(90&deg; &minus; A) = cos A, cos(90&deg; &minus; A) = sin A, and tan(90&deg; &minus; A) = cot A.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Pythagorean Triplets</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">A set of three positive integers a, b, and c that satisfy a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>. Common triplets include (3, 4, 5), (5, 12, 13), and (8, 15, 17).</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Trigonometric Ratios</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">In a right-angled triangle, sin &theta; = Perpendicular &divide; Hypotenuse, cos &theta; = Base &divide; Hypotenuse, and tan &theta; = Perpendicular &divide; Base.</p>\n\n<p>&nbsp;</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q22",
+      "number": 22,
+      "question": "If the measure of an exterior angle of a regular polygon is 20&deg;, determine the total number of its sides.",
+      "questionHtml": "If the measure of an exterior angle of a regular polygon is 20&deg;, determine the total number of its sides.",
+      "options": [
+        {
+          "id": "A",
+          "text": "11",
+          "html": "11"
+        },
+        {
+          "id": "B",
+          "text": "18",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">18</span>"
+        },
+        {
+          "id": "C",
+          "text": "16",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">16</span>"
+        },
+        {
+          "id": "D",
+          "text": "20",
+          "html": "<span style=\"color: rgb(33, 37, 41);\">20</span>"
+        }
+      ],
+      "correctAnswer": "B",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span></p>\n\n<p>For any regular polygon, the sum of all exterior angles is always 360&deg;.</p>\n\n<p>Number of sides (n) = 360&deg; &divide; Exterior angle</p>\n\n<p>&rArr; n = 360&deg; &divide; 20&deg;</p>\n\n<p>&rArr; n = 18</p>\n\n<p><strong>&there4; The correct answer is 18.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<p><strong>Given:</strong></p>\n\n<p>Measure of an exterior angle = 20&deg;</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>Number of sides of a regular polygon (n) = 360&deg; &divide; Measure of each exterior angle</p>\n<svg height=\"200\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\" viewbox=\"0 0 420 200\" width=\"420\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M 90 140 L 210 140 L 323 99 L 280 40 L 120 40 Z\" fill=\"#ddeeff\" opacity=\"0.6\"></path> <line stroke=\"#cc0000\" stroke-dasharray=\"5,4\" stroke-width=\"1.5\" x1=\"210\" x2=\"350\" y1=\"140\" y2=\"140\"></line> <line stroke=\"#2255cc\" stroke-width=\"2\" x1=\"90\" x2=\"210\" y1=\"140\" y2=\"140\"></line> <line stroke=\"#2255cc\" stroke-width=\"2\" x1=\"210\" x2=\"323\" y1=\"140\" y2=\"99\"></line> <line stroke=\"#2255cc\" stroke-dasharray=\"4,3\" stroke-width=\"2\" x1=\"10\" x2=\"90\" y1=\"140\" y2=\"140\"></line> <line stroke=\"#2255cc\" stroke-dasharray=\"4,3\" stroke-width=\"2\" x1=\"323\" x2=\"384\" y1=\"99\" y2=\"48\"></line> <path d=\"M 260 140 A 50 50 0 0 0 257 123\" fill=\"none\" stroke=\"#cc5500\" stroke-width=\"2\"></path> <text fill=\"#cc5500\" font-size=\"14\" font-weight=\"bold\" x=\"268\" y=\"132\">20&deg;</text> <path d=\"M 170 140 A 40 40 0 0 1 248 126\" fill=\"none\" stroke=\"#007700\" stroke-width=\"2\"></path> <text fill=\"#007700\" font-size=\"13\" font-weight=\"bold\" x=\"185\" y=\"125\">160&deg;</text> <text fill=\"#222222\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" x=\"210\" y=\"158\">Vertex</text> <text fill=\"#2255cc\" font-size=\"13\" text-anchor=\"middle\" x=\"150\" y=\"156\">Side</text> <text fill=\"#2255cc\" font-size=\"13\" text-anchor=\"middle\" transform=\"rotate(-20 260 105)\" x=\"260\" y=\"105\">Side</text> <text fill=\"#2255cc\" font-size=\"15\" font-weight=\"bold\" text-anchor=\"middle\" x=\"210\" y=\"180\">Exterior Angle = 360&deg; &divide; n</text> </svg>\n\n<p><strong>Calculations:</strong></p>\n\n<p>&rArr; n = 360&deg; &divide; 20&deg;</p>\n\n<p>&rArr; n = 18</p>\n\n<p><strong>&there4; The correct answer is 18.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Interior Angle Formula</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">The measure of each interior angle of a regular polygon with n sides is given by: [(n &minus; 2) &times; 180&deg;] &divide; n. Also, Interior angle + Exterior angle = 180&deg;.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Sum of Interior Angles</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">The sum of all interior angles of a polygon with n sides is (n &minus; 2) &times; 180&deg;.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Number of Diagonals</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">The total number of diagonals in an n-sided polygon can be calculated using the formula: [n(n &minus; 3)] &divide; 2.</p>\n\n<p>&nbsp;</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q23",
+      "number": 23,
+      "question": "In a triangle with vertices P(x, y), Q(5, -1), and R(2, 6), the Centroid is at G(4, 2). What are the coordinates of vertex P?",
+      "questionHtml": "In a triangle with vertices P(x, y), Q(5, -1), and R(2, 6), the Centroid is at G(4, 2). What are the coordinates of vertex P?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(5, 1)",
+          "html": "(5, 1)"
+        },
+        {
+          "id": "B",
+          "text": "(5, -1)",
+          "html": "(5, -1)"
+        },
+        {
+          "id": "C",
+          "text": "(4, 1)",
+          "html": "(4, 1)"
+        },
+        {
+          "id": "D",
+          "text": "(4, 2)",
+          "html": "(4, 2)"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span></p>\n\n<p>In a triangle, the coordinates of the centroid are the average of the coordinates of its vertices.</p>\n\n<p>Sum of x-coordinates = 3 &times; x-coordinate of Centroid.</p>\n\n<p>&rArr; x + 5 + 2 = 3 &times; 4 &rArr; x + 7 = 12 &rArr; x = 5</p>\n\n<p>Sum of y-coordinates = 3 &times; y-coordinate of Centroid.</p>\n\n<p>&rArr; y + (&minus;1) + 6 = 3 &times; 2 &rArr; y + 5 = 6 &rArr; y = 1</p>\n\n<p><strong>&there4; The correct answer is (5, 1).</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<svg height=\"240\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\" viewbox=\"0 0 420 240\" width=\"420\" xmlns=\"http://www.w3.org/2000/svg\"> <polygon fill=\"#ddeeff\" points=\"210,40 80,180 340,180\" stroke=\"#2255cc\" stroke-width=\"2\"></polygon> <line stroke=\"#cc5500\" stroke-dasharray=\"5,3\" stroke-width=\"1.5\" x1=\"210\" x2=\"210\" y1=\"40\" y2=\"180\"></line> <line stroke=\"#cc5500\" stroke-dasharray=\"5,3\" stroke-width=\"1.5\" x1=\"80\" x2=\"275\" y1=\"180\" y2=\"110\"></line> <line stroke=\"#cc5500\" stroke-dasharray=\"5,3\" stroke-width=\"1.5\" x1=\"340\" x2=\"145\" y1=\"180\" y2=\"110\"></line> <circle cx=\"210\" cy=\"133\" fill=\"#cc5500\" r=\"4\"></circle> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\" x=\"210\" y=\"30\">P(x, y)</text> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\" x=\"70\" y=\"195\">Q(5, &minus;1)</text> <text fill=\"#222222\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\" x=\"350\" y=\"195\">R(2, 6)</text> <text fill=\"#cc5500\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\" x=\"210\" y=\"153\">G(4, 2)</text> </svg>\n\n<p><strong>Given:</strong></p>\n\n<p>Vertices of the triangle: P(x, y), Q(5, &minus;1), and R(2, 6)</p>\n\n<p>Centroid of the triangle: G(4, 2)</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>The coordinates of the Centroid G(X, Y) of a triangle with vertices (x<sub>1</sub>, y<sub>1</sub>), (x<sub>2</sub>, y<sub>2</sub>), and (x<sub>3</sub>, y<sub>3</sub>) are given by:</p>\n\n<p>G(X, Y) = [ (x<sub>1</sub> + x<sub>2</sub> + x<sub>3</sub>) &divide; 3 , (y<sub>1</sub> + y<sub>2</sub> + y<sub>3</sub>) &divide; 3 ]</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>&rArr; Comparing the x-coordinate of the centroid:</p>\n\n<p>&rArr; 4 = (x + 5 + 2) &divide; 3</p>\n\n<p>&rArr; 12 = x + 7</p>\n\n<p>&rArr; x = 12 &minus; 7</p>\n\n<p>&rArr; x = 5</p>\n\n<p>&rArr; Comparing the y-coordinate of the centroid:</p>\n\n<p>&rArr; 2 = (y &minus; 1 + 6) &divide; 3</p>\n\n<p>&rArr; 6 = y + 5</p>\n\n<p>&rArr; y = 6 &minus; 5</p>\n\n<p>&rArr; y = 1</p>\n\n<p>&rArr; The coordinates of vertex P are (5, 1).</p>\n\n<p><strong>&there4; The correct answer is (5, 1).</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Centroid of a Triangle</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">The centroid is the point of intersection of the medians of a triangle. It divides each median in a 2:1 ratio. Formula: G(X, Y) = [(x<sub>1</sub> + x<sub>2</sub> + x<sub>3</sub>) &divide; 3, (y<sub>1</sub> + y<sub>2</sub> + y<sub>3</sub>) &divide; 3].</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Incenter of a Triangle</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">The incenter is the point of intersection of the internal angle bisectors. Coordinates: I(X, Y) = [(ax<sub>1</sub> + bx<sub>2</sub> + cx<sub>3</sub>) &divide; (a + b + c), (ay<sub>1</sub> + by<sub>2</sub> + cy<sub>3</sub>) &divide; (a + b + c)], where a, b, and c are side lengths.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Circumcenter of a Triangle</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">The circumcenter is the point where the perpendicular bisectors of the sides intersect. It is equidistant from all three vertices of the triangle.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Orthocenter of a Triangle</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">The orthocenter is the point where all three altitudes of the triangle intersect. For a right-angled triangle, the orthocenter lies at the vertex containing the right angle.</p>\n\n<p>&nbsp;</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q24",
+      "number": 24,
+      "question": "If x = &radic;2 + 1, find x&sup2;-2.",
+      "questionHtml": "If x = &radic;2 + 1, find x&sup2;-2.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 + 2&radic;2",
+          "html": "1 + 2&radic;2"
+        },
+        {
+          "id": "B",
+          "text": "3 + 2&radic;2",
+          "html": "3 + 2&radic;2"
+        },
+        {
+          "id": "C",
+          "text": "2 + &radic;2",
+          "html": "2 + &radic;2"
+        },
+        {
+          "id": "D",
+          "text": "1 + &radic;2",
+          "html": "1 + &radic;2"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span></p>\n\n<p>Square the given value of x directly using the identity (a + b)<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup> + 2ab.</p>\n\n<p>x<sup>2</sup> = (&radic;2 + 1)<sup>2</sup> = 2 + 1 + 2&radic;2 = 3 + 2&radic;2.</p>\n\n<p>Subtract 2 from the result to get the required expression directly.</p>\n\n<p>x<sup>2</sup> &minus; 2 = 3 + 2&radic;2 &minus; 2 = 1 + 2&radic;2.</p>\n\n<p><strong>&there4; The correct answer is 1 + 2&radic;2.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n\n<p><strong>Given:</strong></p>\n\n<p>x = &radic;2 + 1</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>(a + b)<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup> + 2ab</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>&rArr; x<sup>2</sup> = (&radic;2 + 1)<sup>2</sup></p>\n\n<p>&rArr; x<sup>2</sup> = (&radic;2)<sup>2</sup> + (1)<sup>2</sup> + 2 &times; &radic;2 &times; 1</p>\n\n<p>&rArr; x<sup>2</sup> = 2 + 1 + 2&radic;2</p>\n\n<p>&rArr; x<sup>2</sup> = 3 + 2&radic;2</p>\n\n<p>Now, substitute the value of x<sup>2</sup> into the required expression x<sup>2</sup> &minus; 2:</p>\n\n<p>&rArr; x<sup>2</sup> &minus; 2 = (3 + 2&radic;2) &minus; 2</p>\n\n<p>&rArr; x<sup>2</sup> &minus; 2 = 1 + 2&radic;2</p>\n\n<p><strong>&there4; The correct answer is 1 + 2&radic;2.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Difference of Squares</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">The algebraic identity (a + b)(a &minus; b) = a<sup>2</sup> &minus; b<sup>2</sup> is particularly useful for rationalizing denominators involving surds or square roots.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Square of a Difference</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">Similar to the sum of squares, the formula for subtraction is (a &minus; b)<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup> &minus; 2ab.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Cube of a Sum</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">The standard identity for the cube of a sum is expressed as (a + b)<sup>3</sup> = a<sup>3</sup> + b<sup>3</sup> + 3ab(a + b).</p>\n\n<p>&nbsp;</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    },
+    {
+      "id": "03471bc68647-q25",
+      "number": 25,
+      "question": "In △ABC, a median AD is drawn to side BC. What is the ratio of the area of △ABD to the area of △ACD?",
+      "questionHtml": "In △ABC, a median AD is drawn to side BC. What is the ratio of the area of △ABD to the area of △ACD?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1:1",
+          "html": "1:1"
+        },
+        {
+          "id": "B",
+          "text": "1:2",
+          "html": "1:2"
+        },
+        {
+          "id": "C",
+          "text": "2:1",
+          "html": "2:1"
+        },
+        {
+          "id": "D",
+          "text": "1:3",
+          "html": "1:3"
+        }
+      ],
+      "correctAnswer": "A",
+      "solution": "<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\" width=\"26px\" /> <u style=\"font-size: 21px; font-weight: 700; display: inline !important;\">Shortcut Trick</u></span></p>\n\n<p>A median of a triangle divides the triangle into two smaller triangles of exactly equal area.</p>\n\n<p>Since AD is the median to side BC, it bisects the base into two equal segments (BD = CD).</p>\n\n<p>Both △ABD and △ACD share the same perpendicular height from vertex A.</p>\n\n<p>Therefore, their areas are identical.</p>\n\n<p><strong>&there4; The correct answer is 1:1.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Alternate Method</u></span></strong></span></p>\n<svg height=\"220\" style=\"display:block;margin:12px 0;background:#ffffff;border-radius:10px;border:1px solid #cccccc;\" viewbox=\"0 0 420 220\" width=\"420\" xmlns=\"http://www.w3.org/2000/svg\"> <polygon fill=\"#ddeeff\" points=\"170,40 70,160 210,160\" stroke=\"#2255cc\" stroke-width=\"2\"></polygon> <polygon fill=\"#fff0cc\" points=\"170,40 210,160 350,160\" stroke=\"#cc5500\" stroke-width=\"2\"></polygon> <line stroke=\"#cc0000\" stroke-dasharray=\"5,3\" stroke-width=\"1.5\" x1=\"170\" x2=\"170\" y1=\"40\" y2=\"160\"></line> <polyline fill=\"none\" points=\"170,150 180,150 180,160\" stroke=\"#cc0000\" stroke-width=\"1.5\"></polyline> <line stroke=\"#2255cc\" stroke-width=\"2\" x1=\"138\" x2=\"138\" y1=\"155\" y2=\"165\"></line> <line stroke=\"#2255cc\" stroke-width=\"2\" x1=\"142\" x2=\"142\" y1=\"155\" y2=\"165\"></line> <line stroke=\"#cc5500\" stroke-width=\"2\" x1=\"278\" x2=\"278\" y1=\"155\" y2=\"165\"></line> <line stroke=\"#cc5500\" stroke-width=\"2\" x1=\"282\" x2=\"282\" y1=\"155\" y2=\"165\"></line> <text fill=\"#222222\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\" x=\"170\" y=\"30\">A</text> <text fill=\"#222222\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\" x=\"55\" y=\"165\">B</text> <text fill=\"#222222\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\" x=\"365\" y=\"165\">C</text> <text fill=\"#222222\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\" x=\"210\" y=\"178\">D</text> <text fill=\"#cc0000\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\" x=\"165\" y=\"175\">M</text> <line stroke=\"#888888\" stroke-width=\"1.5\" x1=\"70\" x2=\"210\" y1=\"180\" y2=\"180\"></line> <line stroke=\"#888888\" stroke-width=\"1.5\" x1=\"210\" x2=\"350\" y1=\"180\" y2=\"180\"></line> <line stroke=\"#888888\" stroke-width=\"1.5\" x1=\"70\" x2=\"70\" y1=\"175\" y2=\"185\"></line> <line stroke=\"#888888\" stroke-width=\"1.5\" x1=\"210\" x2=\"210\" y1=\"175\" y2=\"185\"></line> <line stroke=\"#888888\" stroke-width=\"1.5\" x1=\"350\" x2=\"350\" y1=\"175\" y2=\"185\"></line> <text fill=\"#2255cc\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" x=\"140\" y=\"200\">Base (x)</text> <text fill=\"#cc5500\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" x=\"280\" y=\"200\">Base (x)</text> <text fill=\"#2255cc\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" x=\"130\" y=\"120\">Area 1</text> <text fill=\"#cc5500\" font-size=\"13\" font-weight=\"bold\" text-anchor=\"middle\" x=\"250\" y=\"120\">Area 2</text> <text fill=\"#cc0000\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"end\" x=\"162\" y=\"90\">h</text> </svg>\n\n<p><strong>Given:</strong></p>\n\n<p>&rArr; In △ABC, AD is the median to the side BC.</p>\n\n<p><strong>Formula Used:</strong></p>\n\n<p>&rArr; Area of a triangle = 1/2 &times; Base &times; Height</p>\n\n<p><strong>Calculations:</strong></p>\n\n<p>&rArr; Since AD is the median, it bisects the base BC into two equal halves.</p>\n\n<p>&rArr; Therefore, length of BD = length of CD = x (let).</p>\n\n<p>&rArr; Let the perpendicular height of the triangle from vertex A to side BC be h.</p>\n\n<p>&rArr; Area of △ABD = 1/2 &times; BD &times; h = 1/2 &times; x &times; h</p>\n\n<p>&rArr; Area of △ACD = 1/2 &times; CD &times; h = 1/2 &times; x &times; h</p>\n\n<p>&rArr; Ratio of Area of △ABD to Area of △ACD = (1/2 &times; x &times; h) &divide; (1/2 &times; x &times; h)</p>\n\n<p>&rArr; Ratio = 1:1</p>\n\n<p><strong>&there4; The correct answer is 1:1.</strong></p>\n\n<p><span style=\"display: flex;gap: 6px;align-items: center;\"><img height=\"26px\" src=\"//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png\" width=\"26px\" /><strong><span style=\"vertical-align: middle;font-size: 21px;\"><u>Additional Information</u></span></strong></span></p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Centroid of a Triangle</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">The intersection point of all three medians is called the centroid. It divides each median in the ratio of 2:1.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Area Division by Medians</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">The three medians of a triangle divide the triangle into six smaller triangles of exactly equal area.</p>\n\n<p style=\"margin:8px 0 2px 0;font-weight:700;color:#222222;\">Apollonius&#39;s Theorem</p>\n\n<p style=\"margin:0 0 8px 0;color:#444444;\">It connects the length of a median to the sides of the triangle: AB<sup>2</sup> + AC<sup>2</sup> = 2 &times; (AD<sup>2</sup> + BD<sup>2</sup>).</p>\n\n<p>&nbsp;</p>\n",
+      "images": [
+        "//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png",
+        "//cdn.testbook.com/resources/lms_creative_elements/additional-information-image.png"
+      ],
+      "subject": null,
+      "topic": null,
+      "difficulty": null
+    }
+  ]
+}
