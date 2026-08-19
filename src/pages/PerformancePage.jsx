@@ -1,6 +1,9 @@
 import { Card } from "../components/ui/Card.jsx";
 
-export function PerformancePage({ results, stats }) {
+export function PerformancePage({ results, stats, currentUser }) {
+  // Filter results for current user
+  const userResults = currentUser ? results.filter(r => r.userId === currentUser.id) : results;
+  
   return (
     <div className="p-4 sm:p-6 space-y-4 sm:space-y-5">
       <div>
@@ -22,7 +25,7 @@ export function PerformancePage({ results, stats }) {
         </Card>
         <Card className="p-4">
           <div className="text-[var(--text-muted)] text-xs mb-2">Sessions Logged</div>
-          <div className="text-2xl font-bold text-[var(--text-primary)]">{results.length}</div>
+          <div className="text-2xl font-bold text-[var(--text-primary)]">{userResults.length}</div>
         </Card>
       </div>
       <Card className="p-5">
@@ -49,11 +52,11 @@ export function PerformancePage({ results, stats }) {
       </Card>
       <Card className="p-5">
         <div className="text-[var(--text-primary)] font-semibold text-sm mb-3">Session History</div>
-        {results.length === 0 ? (
+        {userResults.length === 0 ? (
           <p className="text-xs text-[var(--text-faint)]">No sessions yet — complete a practice test to see it here.</p>
         ) : (
           <div className="space-y-1">
-            {results.map((r) => (
+            {userResults.map((r) => (
               <div key={r.id} className="flex items-center justify-between py-2 border-b border-[var(--border)] last:border-0">
                 <span className="text-sm text-[var(--text-secondary)]">{r.title}</span>
                 <span className="text-sm text-[var(--text-muted)]">{r.score}/{r.total} · <span className="text-red-500 font-medium">{Math.round((r.score/r.total)*100)}%</span></span>

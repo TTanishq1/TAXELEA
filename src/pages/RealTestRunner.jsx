@@ -4,7 +4,7 @@ import { X, Check, ChevronLeft, ChevronRight, RotateCcw, Clock, Bookmark, Bookma
 import { Card } from "../components/ui/Card.jsx";
 import { DonutProgress } from "../components/ui/DonutProgress.jsx";
 import { SECTIONAL_COUNTS } from "../data/catalog.js";
-import { loadTestJSON } from "../data/testCards.js";
+import { saveInProgressTest, clearInProgressTest, loadTestTimingConfig } from "../lib/storage.js";
 
 export function RealTestRunner({ testKey, testData: propTestData, onComplete, referrer = '/practice' }) {
   const navigate = useNavigate();
@@ -15,8 +15,6 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
   
   // Use provided test data directly, no need to load again
   const testData = propTestData;
-  const loading = false;
-  const error = null;
   
   // Test state
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -24,61 +22,89 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
   const [markedForReview, setMarkedForReview] = useState(new Set());
   const [visited, setVisited] = useState(new Set([0]));
   const [submitted, setSubmitted] = useState(false);
+  const [timingConfig, setTimingConfig] = useState({});
+  const [timerActive, setTimerActive] = useState(true);
+  const [showSubmitConfirm, setShowSubmitConfirm] = useState(false);
+  const [missingTiming, setMissingTiming] = useState(false);
   
   // Timer state
   const [timeLeft, setTimeLeft] = useState(() => {
-    // Calculate initial time based on test data
+    // ONLY use manual timing configuration - no automatic fallback
     if (!testData) return 0;
     
-    let duration = testData.duration || (testData.questionCount ? Math.ceil(testData.questionCount / 2) : 60);
+    const testId = testKey.id || testKey;
     
-    // Override with SSC CGL specific timing if applicable
-    if (testData.tier === 'Tier I' && (testData.exam === 'SSC CGL' || testData.title?.toLowerCase().includes('ssc cgl') || testData.title?.toLowerCase().includes('tier i'))) {
-      duration = 60;
-    } else if (testData.tier === 'Tier II' && (testData.exam === 'SSC CGL' || testData.title?.toLowerCase().includes('ssc cgl') || testData.title?.toLowerCase().includes('tier ii'))) {
-      duration = testData.duration > 60 && testData.duration < 300 ? testData.duration : 120;
-    } else if (testData.duration && testData.duration > 5 && testData.duration < 300) {
-      duration = testData.duration;
-    } else {
-      duration = testData.questionCount ? Math.ceil(testData.questionCount / 2) : 60;
+    // Use manual timing if configured in storage
+    const storedTiming = JSON.parse(localStorage.getItem('taxelea:test-timing') || '{}');
+    if (storedTiming[testId]) {
+      return storedTiming[testId] * 60; // Convert to seconds
     }
     
-    return duration * 60; // Convert to seconds
+    // No manual timing configured - return 0 to prevent test start
+    return 0;
   });
-  const [timerActive, setTimerActive] = useState(true);
-  const [showSubmitConfirm, setShowSubmitConfirm] = useState(false);
+
+  // Load timing configuration on mount
+  useEffect(() => {
+    loadTestTimingConfig().then((config) => {
+      setTimingConfig(config);
+      // Update timeLeft if timing config exists for this test
+      const testId = testKey.id || testKey;
+      if (config[testId] && testData) {
+        setTimeLeft(config[testId] * 60);
+      }
+    });
+  }, [testData, testKey]);
   
-  // Section-specific timing for SSC CGL
-  const sectionTimers = useMemo(() => {
-    if (!testData) return {};
-    
-    // SSC CGL Tier-I timing (15 min per section)
-    if (testData.tier === 'Tier I' && testData.exam === 'SSC CGL') {
-      return {
-        reasoning: 15 * 60,      // 15 minutes
-        generalAwareness: 15 * 60, // 15 minutes  
-        quantitativeAptitude: 15 * 60, // 15 minutes
-        english: 15 * 60,       // 15 minutes
+  // Check for missing timing on mount
+  useEffect(() => {
+    if (testData) {
+      const testId = testKey.id || testKey;
+      setMissingTiming(!timingConfig[testId]);
+      
+      // If no timing configured, set timeLeft to 0 to prevent test start
+      if (!timingConfig[testId]) {
+        setTimeLeft(0);
+        setTimerActive(false);
+      }
+    }
+  }, [testData, testKey, timingConfig]);
+
+  // Save in-progress test state
+  useEffect(() => {
+    if (!submitted && testData) {
+      const inProgressData = {
+        id: testKey.id || testKey,
+        title: testData.title,
+        totalQuestions: testData.questionCount,
+        currentQuestion,
+        answeredQuestions: Object.keys(answers).length,
+        answers,
+        markedForReview: Array.from(markedForReview),
+        visited: Array.from(visited),
+        timeLeft,
+        referrer
       };
+      saveInProgressTest(inProgressData);
+    }
+  }, [currentQuestion, answers, markedForReview, visited, timeLeft, submitted, testData, testKey, referrer]);
+
+  // Clear in-progress test when submitted or exited
+  useEffect(() => {
+    if (submitted) {
+      clearInProgressTest();
     }
     
-    // SSC CGL Tier-II Paper-I timing (30 min each for main sections, 15 for computer)
-    if (testData.tier === 'Tier II' && testData.exam === 'SSC CGL') {
-      return {
-        maths: 30 * 60,         // 30 minutes
-        reasoning: 30 * 60,     // 30 minutes
-        english: 30 * 60,       // 30 minutes
-        generalAwareness: 30 * 60, // 30 minutes
-        computer: 15 * 60,      // 15 minutes
-      };
-    }
-    
-    // Default timing from JSON or calculate
-    return {};
-  }, [testData]);
+    return () => {
+      // Clear in-progress test when component unmounts (user exits)
+      if (!submitted) {
+        clearInProgressTest();
+      }
+    };
+  }, [submitted]);
   
   // Derived values (must be after all hooks)
-  const questions = testData?.questions || [];
+  const questions = useMemo(() => testData?.questions || [], [testData?.questions]);
   const totalQuestions = questions.length;
   const currentQ = questions[currentQuestion];
   
@@ -96,10 +122,41 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
         return {
           name: subject,
           count: subjectQuestions.length,
-          startIndex: questions.findIndex(q => q.subject === subject),
+          startIndex: questions.indexOf(subjectQuestions[0]),
           color: SECTIONAL_COUNTS[subject]?.color || "#ef4444"
         };
       });
+    }
+    
+    // For full tests without subject metadata, use standard SSC CGL division
+    if (testData.exam === 'SSC CGL' && totalQuestions >= 100) {
+      const quarter = Math.floor(totalQuestions / 4);
+      return [
+        {
+          name: 'Reasoning',
+          count: quarter,
+          startIndex: 0,
+          color: SECTIONAL_COUNTS['reasoning']?.color || "#f97316"
+        },
+        {
+          name: 'General Awareness',
+          count: quarter,
+          startIndex: quarter,
+          color: SECTIONAL_COUNTS['general-awareness']?.color || "#ef4444"
+        },
+        {
+          name: 'Quantitative Aptitude',
+          count: quarter,
+          startIndex: quarter * 2,
+          color: SECTIONAL_COUNTS['quantitative-aptitude']?.color || "#22c55e"
+        },
+        {
+          name: 'English',
+          count: totalQuestions - (quarter * 3),
+          startIndex: quarter * 3,
+          color: SECTIONAL_COUNTS['english']?.color || "#3b82f6"
+        }
+      ];
     }
     
     // Single section test
@@ -109,7 +166,7 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
       startIndex: 0,
       color: typeof testKey === 'object' ? SECTIONAL_COUNTS[testKey.subject]?.color : "#ef4444"
     }];
-  }, [testData, questions, testKey]);
+  }, [testData, questions, totalQuestions, testKey]);
   
   // Current section
   const currentSection = useMemo(() => {
@@ -210,7 +267,7 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
       totalMarks, 
       obtainedMarks, 
       negativeMarks,
-      accuracy: totalQuestions > 0 ? Math.round((correct / totalQuestions) * 100) : 0
+      accuracy: questions.length > 0 ? Math.round((correct / questions.length) * 100) : 0
     };
   }, [answers, questions, testData]);
   
@@ -232,8 +289,6 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
     
     // Calculate current score at time of submission
     let correct = 0;
-    let incorrect = 0;
-    let unattempted = 0;
     let totalMarks = 0;
     let obtainedMarks = 0;
     let negativeMarks = 0;
@@ -246,12 +301,11 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
       totalMarks += marksPerQuestion;
       
       if (userAnswer === undefined) {
-        unattempted++;
+        // Unattempted - no marks
       } else if (userAnswer === q.correctAnswer) {
         correct++;
         obtainedMarks += marksPerQuestion;
       } else {
-        incorrect++;
         obtainedMarks -= negativeMarking;
         negativeMarks += negativeMarking;
       }
@@ -327,6 +381,26 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
     );
   }
   
+  // Check if timing is configured before allowing test to start
+  if (timeLeft === 0 && !submitted) {
+    return (
+      <div className="p-4 sm:p-6 max-w-3xl mx-auto">
+        <Card className="p-6 text-center">
+          <div className="text-amber-500 mb-2">⚠️ Test Time Not Configured</div>
+          <div className="text-[var(--text-secondary)] text-sm mb-4">
+            Please configure the test duration before starting. Use the "Configure Time" button on the test card.
+          </div>
+          <div className="text-[var(--text-faint)] text-xs mb-4">
+            Test: {testData.title}
+          </div>
+          <button onClick={handleExit} className="text-sm text-[var(--text-primary)] hover:underline">
+            Back to Test Selection
+          </button>
+        </Card>
+      </div>
+    );
+  }
+  
   // Render submitted state
   if (submitted) {
     return (
@@ -340,6 +414,18 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                 <span className="text-xs text-[var(--text-faint)]">Accuracy</span>
               </div>
             </div>
+          </div>
+          <div className="flex justify-center mb-4">
+            <video 
+              autoPlay 
+              loop 
+              muted 
+              playsInline
+              className="w-20 h-20 object-contain rounded-lg"
+              style={{ maxWidth: '80px', maxHeight: '80px' }}
+            >
+              <source src="/dancing-celebration.mp4" type="video/mp4" />
+            </video>
           </div>
           <h2 className="text-2xl font-bold text-[var(--text-primary)] mb-2">Test Completed!</h2>
           <p className="text-[var(--text-faint)] text-sm mb-6">{testData.title} · {testData.provider}</p>
@@ -424,7 +510,8 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
               setMarkedForReview(new Set());
               setVisited(new Set([0]));
               setCurrentQuestion(0);
-              const duration = testData.duration || (testData.questionCount ? Math.ceil(testData.questionCount / 2) : 60);
+              const testId = testKey.id || testKey;
+              const duration = timingConfig[testId] || testData.duration || (testData.questionCount ? Math.ceil(testData.questionCount / 2) : 60);
               setTimeLeft(duration * 60);
               setTimerActive(true);
             }} className="flex items-center gap-2 bg-red-700 hover:bg-red-600 text-white text-sm font-medium rounded-lg px-5 py-2.5">
@@ -547,6 +634,11 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
               <span className={`font-mono text-sm ${timeLeft < 300 ? 'text-red-500' : ''}`}>
                 {formatTime(timeLeft)}
               </span>
+              {missingTiming && (
+                <span className="text-xs text-amber-500 ml-1" title="Timing not configured">
+                  ⚠️
+                </span>
+              )}
             </div>
             <button onClick={handleExit} className="w-8 h-8 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-muted)]">
               <X size={16} />

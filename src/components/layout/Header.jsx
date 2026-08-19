@@ -1,7 +1,7 @@
-import { Search, Bell, ChevronDown, Sun, Moon, Menu } from "lucide-react";
+import { Search, Bell, ChevronDown, Sun, Moon, Menu, LogOut, Lock } from "lucide-react";
 import { useTheme } from "../../theme/ThemeContext.jsx";
 
-export function Header({ onMenuClick }) {
+export function Header({ onMenuClick, onLogout, currentUser }) {
   const { theme, toggleTheme } = useTheme();
   return (
     <div className="h-[60px] sm:h-[68px] shrink-0 border-b border-[var(--border)] flex items-center justify-between px-3 sm:px-6 gap-2 sm:gap-4">
@@ -15,7 +15,8 @@ export function Header({ onMenuClick }) {
         <Search size={16} className="absolute left-3.5 top-1/2 -translate-y-1/2 text-[var(--text-faint)]" />
         <input
           placeholder="Search exams, tests, topics..."
-          className="w-full bg-[var(--card-bg)] border border-[var(--border-strong)] rounded-lg pl-10 pr-4 py-2 sm:py-2.5 text-sm text-[var(--text-secondary)] placeholder:text-[var(--text-faint)] outline-none focus:border-red-800"
+          disabled={!currentUser}
+          className="w-full bg-[var(--card-bg)] border border-[var(--border-strong)] rounded-lg pl-10 pr-4 py-2 sm:py-2.5 text-sm text-[var(--text-secondary)] placeholder:text-[var(--text-faint)] outline-none focus:border-red-800 disabled:opacity-50 disabled:cursor-not-allowed"
         />
       </div>
       <div className="flex items-center gap-1.5 sm:gap-4 shrink-0">
@@ -26,18 +27,33 @@ export function Header({ onMenuClick }) {
         >
           {theme === "dark" ? <Sun size={17} /> : <Moon size={17} />}
         </button>
-        <button className="relative w-9 h-9 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-secondary)]">
+        <button className="relative w-9 h-9 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-secondary)] disabled:opacity-50" disabled={!currentUser}>
           <Bell size={17} />
           <span className="absolute -top-1 -right-1 bg-red-600 text-[10px] w-4 h-4 rounded-full flex items-center justify-center text-white font-medium">3</span>
         </button>
-        <div className="flex items-center gap-2.5">
-          <div className="w-9 h-9 rounded-full bg-red-700 flex items-center justify-center text-white text-sm font-semibold shrink-0">T</div>
-          <div className="leading-tight hidden md:block">
-            <div className="text-sm text-[var(--text-primary)] font-medium">Tanishq</div>
-            <div className="text-[11px] text-red-500">Premium User</div>
+        {currentUser ? (
+          <div className="flex items-center gap-2.5">
+            <div className="w-9 h-9 rounded-full bg-red-700 flex items-center justify-center text-white text-sm font-semibold shrink-0">
+              {currentUser?.user_metadata?.name?.charAt(0).toUpperCase() || currentUser?.email?.charAt(0).toUpperCase() || 'U'}
+            </div>
+            <div className="leading-tight hidden md:block">
+              <div className="text-sm text-[var(--text-primary)] font-medium">{currentUser?.user_metadata?.name || currentUser?.email?.split('@')[0] || 'User'}</div>
+              <div className="text-[11px] text-red-500">Premium User</div>
+            </div>
+            <button
+              onClick={onLogout}
+              title="Logout"
+              className="w-9 h-9 flex items-center justify-center rounded-lg hover:bg-red-900/30 text-red-500 transition-colors"
+            >
+              <LogOut size={17} />
+            </button>
           </div>
-          <ChevronDown size={14} className="hidden md:block text-[var(--text-faint)]" />
-        </div>
+        ) : (
+          <div className="flex items-center gap-2 text-gray-500 text-sm">
+            <Lock size={16} />
+            <span className="hidden md:inline">Login required</span>
+          </div>
+        )}
       </div>
 
     </div>

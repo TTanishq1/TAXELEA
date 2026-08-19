@@ -44,7 +44,6 @@ export function generateLeafCardsFromPath(structure, basePath = "") {
 
 // Parse filename to extract metadata
 export function parseFilename(filename) {
-  const parts = filename.replace('.json', '').split('-');
   return {
     id: filename,
     name: filename.replace('.json', ''),

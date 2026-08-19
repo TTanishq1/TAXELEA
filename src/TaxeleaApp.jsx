@@ -4,12 +4,15 @@ import { THEMES } from "./theme/themes.js";
 import { ThemeContext } from "./theme/ThemeContext.jsx";
 import {
   loadTheme, saveTheme, loadResults, saveResults, loadBookmarks, saveBookmarks,
+  loadInProgressTest,
+  logout, loadCurrentUser, saveCurrentUser, loadSession,
+  isOwnerSetup,
 } from "./lib/storage.js";
+import { getISTDateString, getISTToday } from "./lib/timezone.js";
 import { SUBJECT_PROGRESS_BASE } from "./data/catalog.js";
-import { EMBEDDED_TESTS } from "./data/embeddedTests.js";
 import { Sidebar } from "./components/layout/Sidebar.jsx";
 import { Header } from "./components/layout/Header.jsx";
-import { Dashboard } from "./pages/Dashboard.jsx";
+import Dashboard from "./pages/Dashboard.jsx";
 import { SectionalMocks } from "./pages/SectionalMocks.jsx";
 import { FullTestSeries } from "./pages/FullTestSeries.jsx";
 import { PracticeHub } from "./pages/PracticeHub.jsx";
@@ -17,7 +20,8 @@ import { PracticeHub } from "./pages/PracticeHub.jsx";
 import { RealTestRunner } from "./pages/RealTestRunner.jsx";
 import { PerformancePage } from "./pages/PerformancePage.jsx";
 import { BookmarksPage } from "./pages/BookmarksPage.jsx";
-import { StreakPage } from "./pages/StreakPage.jsx";
+import StreakPage from "./pages/StreakPage.jsx";
+import { LeaderboardPage } from "./pages/LeaderboardPage.jsx";
 import { SettingsPage } from "./pages/SettingsPage.jsx";
 import { loadTestJSON } from "./data/testCards.js";
 import { Card } from "./components/ui/Card.jsx";
@@ -68,7 +72,7 @@ function LoadingScreen({ visible, onFadeComplete }) {
               setVideoError(true);
             }}
           >
-            <source src="/loading-logo.mp4" type="video/mp4" />
+            <source src="/assets/loading-logo.mp4" type="video/mp4" />
           </video>
         ) : (
           <div className="w-[200px] h-[200px] flex items-center justify-center">
@@ -163,6 +167,16 @@ function TestRunnerWrapper({ onComplete }) {
     loadTest();
   }, [testId]);
 
+  // Cleanup function to prevent state leaks
+  useEffect(() => {
+    return () => {
+      console.log('TestRunnerWrapper cleanup - clearing test data');
+      setTestData(null);
+      setError(null);
+      setLoading(true);
+    };
+  }, []);
+
   console.log('TestRunnerWrapper render state:', { loading, error, hasTestData: !!testData });
 
   if (loading) {
@@ -221,12 +235,35 @@ function TestRunnerWrapper({ onComplete }) {
   return <RealTestRunner testKey={testData.card} testData={testData} onComplete={onComplete} referrer={referrer} />;
 }
 
+// Wrapper component to protect routes that require authentication
+const ProtectedRoute = ({ children, currentUser }) => {
+  if (!currentUser) {
+    return (
+      <div className="p-10 text-center">
+        <div className="text-[var(--text-faint)] text-sm mb-4">Please login to access this feature</div>
+        <button 
+          onClick={() => window.location.href = '/'}
+          className="text-red-500 text-sm hover:underline"
+        >
+          Go to Login
+        </button>
+      </div>
+    );
+  }
+  return children;
+};
+
 function AppContent({ onAppLoaded }) {
   const navigate = useNavigate();
   const location = useLocation();
   const [results, setResults] = useState([]);
   const [bookmarks, setBookmarks] = useState([]);
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
+  const [isInitialLoad, setIsInitialLoad] = useState(true);
+  const [locationKey, setLocationKey] = useState(location.pathname);
+  const [inProgressTest, setInProgressTest] = useState(null);
+  const [currentUser, setCurrentUser] = useState(null);
+  const [isFirstTimeSetup, setIsFirstTimeSetup] = useState(false);
 
   // Get current page from URL path
   const getCurrentPage = useCallback(() => {
@@ -239,24 +276,52 @@ function AppContent({ onAppLoaded }) {
     if (path === '/performance') return 'performance';
     if (path === '/bookmarks') return 'bookmarks';
     if (path === '/streak') return 'streak';
+    if (path === '/reports') return 'reports';
     if (path === '/settings') return 'settings';
     return 'dashboard';
   }, [location.pathname]);
 
   const currentPage = getCurrentPage();
 
+  // Force re-render when location changes to fix back navigation
+  useEffect(() => {
+    setLocationKey(location.pathname);
+  }, [location.pathname]);
+
   useEffect(() => {
     (async () => {
       try {
         console.log('Loading initial data...');
-        const [r, b, t] = await Promise.all([loadResults(), loadBookmarks(), loadTheme()]);
-        console.log('Initial data loaded:', { results: r, bookmarks: b, theme: t });
-        setResults(r);
-        setBookmarks(b);
+        
+        // Check if owner is setup
+        const ownerSetup = await isOwnerSetup();
+        setIsFirstTimeSetup(!ownerSetup);
+        
+        // Check if user is authenticated using local storage
+        const session = await loadSession();
+        const user = await loadCurrentUser();
+        console.log('Current user:', user);
+        
+        if (user && session) {
+          setCurrentUser(user);
+          // Load user data
+          const [r, b, t, ip] = await Promise.all([loadResults(), loadBookmarks(), loadTheme(), loadInProgressTest()]);
+          console.log('Initial data loaded:', { results: r, bookmarks: b, theme: t, inProgress: ip });
+          setResults(r);
+          setBookmarks(b);
+          setInProgressTest(ip);
+          // Don't set theme here - it's handled by the parent component
+        } else {
+          // Don't set theme here - it's handled by the parent component
+        }
+        
+        setIsInitialLoad(false);
         // Notify parent that app has loaded
         onAppLoaded?.();
       } catch (error) {
-        console.error('Error loading initial data:', error);
+        console.error('Error loading initial data:', error?.message || error);
+        console.error('Error details:', error);
+        setIsInitialLoad(false);
         // Still notify parent even if there's an error
         onAppLoaded?.();
       }
@@ -289,32 +354,64 @@ function AppContent({ onAppLoaded }) {
 
   const handleComplete = useCallback((result) => {
     setResults((prev) => {
-      const next = [result, ...prev].slice(0, 50);
+      // Add userId to the result if not present
+      const resultWithUserId = currentUser ? { ...result, userId: currentUser.id } : result;
+      const next = [resultWithUserId, ...prev].slice(0, 50);
       saveResults(next);
       return next;
     });
-  }, []);
+  }, [currentUser]);
 
   const toggleBookmark = useCallback((key, label, subject) => {
     setBookmarks((prev) => {
-      const exists = prev.find((b) => b.key === key);
-      const next = exists ? prev.filter((b) => b.key !== key) : [...prev, { key, label, subject }];
+      const exists = prev.find((b) => b.key === key && b.userId === currentUser?.id);
+      const next = exists 
+        ? prev.filter((b) => !(b.key === key && b.userId === currentUser?.id))
+        : [...prev, { key, label, subject, userId: currentUser?.id }];
       saveBookmarks(next);
       return next;
     });
+  }, [currentUser]);
+  
+  const handleAuthSuccess = useCallback(async (user) => {
+    setCurrentUser(user);
+    // Save current user to local storage
+    await saveCurrentUser(user);
+    // Reload results and bookmarks for the user
+    const [r, b] = await Promise.all([loadResults(), loadBookmarks()]);
+    setResults(r);
+    setBookmarks(b);
+  }, []);
+  
+  const handleLogout = useCallback(async () => {
+    await logout();
+    await saveCurrentUser(null);
+    setCurrentUser(null);
+    setResults([]);
+    setBookmarks([]);
+    setInProgressTest(null);
   }, []);
 
+
+
   const stats = useMemo(() => {
-    const sessionQuestions = results.reduce((s, r) => s + r.total, 0);
-    const sessionCorrect = results.reduce((s, r) => s + r.score, 0);
+    // Single user system - no filtering needed
+    const userResults = results;
+    
+    const sessionQuestions = userResults.reduce((s, r) => s + r.total, 0);
+    const sessionCorrect = userResults.reduce((s, r) => s + r.score, 0);
     const questionsSolved = sessionQuestions;
     const accuracy = questionsSolved > 0 ? Math.round((sessionCorrect / questionsSolved) * 100) : 0;
-    const testsAttempted = results.length;
-    const todayAnswered = results.length;
+    const testsAttempted = userResults.length;
+    
+    // Calculate today's activity based on actual results from today using IST
+    const today = getISTToday();
+    const todayResults = userResults.filter(r => getISTDateString(r.id) === today);
+    const todayAnswered = todayResults.reduce((s, r) => s + r.total, 0);
 
     const subjectProgress = {};
     Object.entries(SUBJECT_PROGRESS_BASE).forEach(([key, base]) => {
-      const subjResults = results.filter((r) => r.subject === key);
+      const subjResults = userResults.filter((r) => r.subject === key);
       const solved = subjResults.reduce((s, r) => s + r.total, 0);
       const correct = subjResults.reduce((s, r) => s + r.score, 0);
       const acc = solved > 0 ? Math.round((correct / solved) * 100) : 0;
@@ -323,8 +420,8 @@ function AppContent({ onAppLoaded }) {
 
     return {
       questionsSolved, accuracy, testsAttempted, todayAnswered,
-      solvedThisWeek: sessionQuestions, testsThisWeek: results.length,
-      accDelta: results.length > 0 ? `${sessionCorrect >= sessionQuestions/2 ? "+" : ""}${accuracy - (sessionQuestions > 0 ? Math.round((sessionCorrect/sessionQuestions)*100) : 0)}% this week` : "0% this week",
+      solvedThisWeek: sessionQuestions, testsThisWeek: userResults.length,
+      accDelta: "Based on test results",
       subjectProgress,
     };
   }, [results]);
@@ -343,23 +440,30 @@ function AppContent({ onAppLoaded }) {
           page={currentPage === "practice-run" ? "practice" : currentPage}
           setPage={navigateToPage}
           onClose={() => setMobileNavOpen(false)}
+          currentUser={currentUser}
         />
       </div>
       <div className="flex-1 flex flex-col min-w-0 h-full">
-        <Header onMenuClick={() => setMobileNavOpen(true)} />
+        <Header onMenuClick={() => setMobileNavOpen(true)} onLogout={handleLogout} currentUser={currentUser} />
         <div className="flex-1 overflow-y-auto overflow-x-hidden">
-        <Routes>
-          <Route path="/" element={<Dashboard setPage={navigateToPage} startPractice={startPractice} results={results} stats={stats} />} />
-          <Route path="/dashboard" element={<Dashboard setPage={navigateToPage} startPractice={startPractice} results={results} stats={stats} />} />
-          <Route path="/sectional" element={<SectionalMocks startPractice={startPractice} bookmarks={bookmarks.map(b=>b.key)} toggleBookmark={toggleBookmark} />} />
-          <Route path="/full" element={<FullTestSeries startPractice={startPractice} />} />
-          <Route path="/practice" element={<PracticeHub startPractice={startPractice} />} />
-          <Route path="/practice/:testId" element={<TestRunnerWrapper onComplete={handleComplete} />} />
-          <Route path="/performance" element={<PerformancePage results={results} stats={stats} />} />
-          <Route path="/bookmarks" element={<BookmarksPage bookmarks={bookmarks} toggleBookmark={toggleBookmark} startPractice={startPractice} />} />
-          <Route path="/streak" element={<StreakPage />} />
-          <Route path="/settings" element={<SettingsPage />} />
-        </Routes>
+        {isInitialLoad ? (
+          <div className="p-10 text-[var(--text-faint)] text-sm">Loading your progress…</div>
+        ) : (
+          <Routes key={locationKey}>
+            <Route path="/" element={<Dashboard setPage={navigateToPage} startPractice={startPractice} results={results} stats={stats} inProgressTest={inProgressTest} currentUser={currentUser} onAuthSuccess={handleAuthSuccess} isFirstTimeSetup={isFirstTimeSetup} />} />
+            <Route path="/dashboard" element={<Dashboard setPage={navigateToPage} startPractice={startPractice} results={results} stats={stats} inProgressTest={inProgressTest} currentUser={currentUser} onAuthSuccess={handleAuthSuccess} isFirstTimeSetup={isFirstTimeSetup} />} />
+            <Route path="/sectional" element={<ProtectedRoute currentUser={currentUser}><SectionalMocks startPractice={startPractice} bookmarks={bookmarks.map(b=>b.key)} toggleBookmark={toggleBookmark} currentUser={currentUser} /></ProtectedRoute>} />
+            <Route path="/full" element={<ProtectedRoute currentUser={currentUser}><FullTestSeries startPractice={startPractice} currentUser={currentUser} /></ProtectedRoute>} />
+            <Route path="/practice" element={<ProtectedRoute currentUser={currentUser}><PracticeHub startPractice={startPractice} currentUser={currentUser} /></ProtectedRoute>} />
+            <Route path="/practice/:testId" element={<ProtectedRoute currentUser={currentUser}><TestRunnerWrapper onComplete={handleComplete} /></ProtectedRoute>} />
+            <Route path="/performance" element={<ProtectedRoute currentUser={currentUser}><PerformancePage results={results} stats={stats} currentUser={currentUser} /></ProtectedRoute>} />
+            <Route path="/bookmarks" element={<ProtectedRoute currentUser={currentUser}><BookmarksPage bookmarks={bookmarks} toggleBookmark={toggleBookmark} startPractice={startPractice} currentUser={currentUser} /></ProtectedRoute>} />
+            <Route path="/streak" element={<ProtectedRoute currentUser={currentUser}><StreakPage currentUser={currentUser} results={results} /></ProtectedRoute>} />
+            <Route path="/leaderboard" element={<ProtectedRoute currentUser={currentUser}><LeaderboardPage currentUser={currentUser} /></ProtectedRoute>} />
+            <Route path="/settings" element={<ProtectedRoute currentUser={currentUser}><SettingsPage currentUser={currentUser} onLogout={handleLogout} /></ProtectedRoute>} />
+            <Route path="*" element={<Dashboard setPage={navigateToPage} startPractice={startPractice} results={results} stats={stats} inProgressTest={inProgressTest} currentUser={currentUser} onAuthSuccess={handleAuthSuccess} isFirstTimeSetup={isFirstTimeSetup} />} />
+          </Routes>
+        )}
         </div>
       </div>
     </>

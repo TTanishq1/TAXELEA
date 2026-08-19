@@ -9,8 +9,8 @@ export async function generateTestCatalog() {
   
   try {
     // Fetch the directory structure
-    const sectionalResponse = await fetch('/tests-organized/tests/sectional');
-    const fullResponse = await fetch('/tests-organized/tests/full');
+    await fetch('/tests-organized/tests/sectional');
+    await fetch('/tests-organized/tests/full');
     
     // Since we can't directly list directories, we'll use a known structure
     // based on the actual folder structure we saw
@@ -49,12 +49,12 @@ export async function generateTestCatalog() {
                 // For now, this is a placeholder - in production you'd have a server endpoint
                 // that lists the files in a directory
               }
-            } catch (e) {
+            } catch (_e) {
               // Topic might not exist, skip
             }
           }
         }
-      } catch (e) {
+      } catch (_e) {
         // Subject might not exist, skip
       }
     }

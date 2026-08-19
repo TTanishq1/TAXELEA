@@ -14,7 +14,7 @@ export async function generateTestCatalog() {
     const fullModules = import.meta.glob('/tests-organized/tests/full/**/*.json', { as: 'url' });
     
     // Process sectional tests
-    for (const [path, url] of Object.entries(sectionalModules)) {
+    for (const [path, _url] of Object.entries(sectionalModules)) {
       const relativePath = path.replace('/tests-organized/tests/', '');
       const parts = relativePath.split('/');
       
@@ -40,7 +40,7 @@ export async function generateTestCatalog() {
     }
     
     // Process full tests
-    for (const [path, url] of Object.entries(fullModules)) {
+    for (const [path, _url] of Object.entries(fullModules)) {
       const relativePath = path.replace('/tests-organized/tests/', '');
       const parts = relativePath.split('/');
       

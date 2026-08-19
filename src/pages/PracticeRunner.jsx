@@ -11,6 +11,13 @@ export function PracticeRunner({ testKey, onExit, onComplete }) {
   const [answers, setAnswers] = useState({});
   const [submitted, setSubmitted] = useState(false);
 
+  const score = useMemo(() => {
+    if (!test) return 0;
+    let s = 0;
+    test.questions.forEach((qq, i) => { if (answers[i] === qq.answer) s++; });
+    return s;
+  }, [answers, test]);
+
   if (!test) return null;
   const q = test.questions[idx];
   const total = test.questions.length;
@@ -19,12 +26,6 @@ export function PracticeRunner({ testKey, onExit, onComplete }) {
     if (submitted) return;
     setAnswers((a) => ({ ...a, [idx]: optId }));
   };
-
-  const score = useMemo(() => {
-    let s = 0;
-    test.questions.forEach((qq, i) => { if (answers[i] === qq.answer) s++; });
-    return s;
-  }, [answers, test]);
 
   const finish = () => {
     setSubmitted(true);
@@ -50,6 +51,18 @@ export function PracticeRunner({ testKey, onExit, onComplete }) {
                 <span className="text-2xl font-bold text-[var(--text-primary)]">{score}/{total}</span>
               </div>
             </div>
+          </div>
+          <div className="flex justify-center mb-4">
+            <video 
+              autoPlay 
+              loop 
+              muted 
+              playsInline
+              className="w-16 h-16 object-contain rounded-lg"
+              style={{ maxWidth: '64px', maxHeight: '64px' }}
+            >
+              <source src="/dancing-celebration.mp4" type="video/mp4" />
+            </video>
           </div>
           <h2 className="text-xl font-bold text-[var(--text-primary)] mb-1">Test Completed!</h2>
           <p className="text-[var(--text-faint)] text-sm mb-6">{test.title} · {test.provider}</p>
