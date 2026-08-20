@@ -6,23 +6,74 @@ import { DonutProgress } from "../components/ui/DonutProgress.jsx";
 import { SECTIONAL_COUNTS } from "../data/catalog.js";
 import { saveInProgressTest, clearInProgressTest, loadTestTimingConfig } from "../lib/storage.js";
 
-// Function to convert image URLs to img tags
+// Function to fix existing HTML image tags and convert plain image URLs to img tags
 const embedImages = (text) => {
   if (!text) return text;
   
-  // Fix malformed URLs (double https, protocol-relative)
-  let fixedText = text
-    // Fix double https: https:https:// -> https://
-    .replace(/https:https:\/\//g, 'https://')
-    // Fix protocol-relative URLs: //cdn.testbook.com -> https://cdn.testbook.com
-    .replace(/(?<!:)\/\/(cdn\.testbook\.com|storage\.googleapis\.com)/g, 'https://$1');
+  let fixedText = text;
   
-  // Match common image URLs (png, jpg, jpeg, gif, webp, svg)
-  const imageRegex = /(https?:\/\/[^\s]+\.(?:png|jpg|jpeg|gif|webp|svg))/gi;
+  // Fix existing <img> tags first
+  // Fix protocol-relative src attributes: //cdn.testbook.com -> https://cdn.testbook.com
+  fixedText = fixedText.replace(/src=["']\/\/(cdn\.testbook\.com|storage\.googleapis\.com)/g, 'src="https://$1');
   
-  return fixedText.replace(imageRegex, (url) => {
+  // Fix double https in src attributes: src="https:https:// -> src="https://
+  fixedText = fixedText.replace(/src=["']https:https:\/\//g, 'src="https://');
+  
+  // Fix broken img tags that might have malformed attributes
+  // Pattern: style="..." /> (closing tag without proper img tag structure)
+  fixedText = fixedText.replace(/style=["'][^"']*["']\s*\/>/g, '');
+  
+  // Ensure all img tags have proper error handling
+  fixedText = fixedText.replace(/<img([^>]*?)>/g, (match, attributes) => {
+    // Check if onerror is already present
+    if (!attributes.includes('onerror')) {
+      return `<img${attributes} onerror="this.style.display='none';" />`;
+    }
+    return match;
+  });
+  
+  // Convert plain image URLs to img tags (but not if they're already in img tags)
+  // This regex matches URLs that are not part of existing img tags
+  const urlNotInImgTag = /(https?:\/\/[^\s<>"']+\.(?:png|jpg|jpeg|gif|webp|svg))(?![^<]*>)/gi;
+  
+  fixedText = fixedText.replace(urlNotInImgTag, (url) => {
     return `<img src="${url}" alt="Question image" style="max-width: 100%; height: auto; margin: 10px 0; border-radius: 8px;" onerror="this.style.display='none';" />`;
   });
+  
+  return fixedText;
+};
+
+// Function to fix text colors for dark theme compatibility
+const fixTextColors = (text) => {
+  if (!text) return text;
+  
+  let fixedText = text;
+  
+  // Fix specific dark colors that are hard to read on dark backgrounds
+  // RGB colors that are too dark
+  fixedText = fixedText.replace(/color:\s*rgb\(\s*(0|[1-9]\d{0,2})\s*,\s*(0|[1-9]\d{0,2})\s*,\s*(0|[1-9]\d{0,2})\s*\)/gi, (match, r, g, b) => {
+    // Convert to numbers and check if it's a dark color
+    const rNum = parseInt(r);
+    const gNum = parseInt(g);
+    const bNum = parseInt(b);
+    // Calculate brightness
+    const brightness = (rNum * 299 + gNum * 587 + bNum * 114) / 1000;
+    // If brightness is very dark (< 125), make it white
+    if (brightness < 125) {
+      return 'color: #FFFFFF';
+    }
+    return match;
+  });
+  
+  // Fix dark hex colors
+  fixedText = fixedText.replace(/color:\s*#[0-3][0-9a-f]{5}/gi, 'color: #FFFFFF');
+  fixedText = fixedText.replace(/color:\s*#[4-5][0-9a-f]{5}/gi, 'color: #E0E0E0');
+  
+  // Fix named dark colors
+  fixedText = fixedText.replace(/color:\s*(black|#000000)/gi, 'color: #FFFFFF');
+  fixedText = fixedText.replace(/color:\s*(darkgray|darkgrey|dimgray|dimgrey)/gi, 'color: #E0E0E0');
+  
+  return fixedText;
 };
 
 // Function to render LaTeX math using KaTeX
@@ -35,8 +86,8 @@ const renderMath = (text) => {
   const katexAvailable = typeof window !== 'undefined' && (window.katex || typeof katex !== 'undefined');
   
   if (!katexAvailable) {
-    // If KaTeX is not loaded yet, return text as-is
-    return text;
+    // If KaTeX is not loaded yet, return text as-is but still fix colors
+    return fixTextColors(text);
   }
   
   const katexLib = window.katex || katex;
@@ -642,11 +693,11 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                   </span>
                   <div className="flex-1">
                     {q.questionHtml ? (
-                      <div className="text-sm text-white leading-relaxed font-medium" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: renderMath(embedImages(q.questionHtml)) }} />
+                      <div className="text-sm text-white leading-relaxed font-medium" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(q.questionHtml))) }} />
                     ) : q.question ? (
-                      <p className="text-sm text-white leading-relaxed font-medium" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: renderMath(embedImages(q.question)) }} />
+                      <p className="text-sm text-white leading-relaxed font-medium" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(q.question))) }} />
                     ) : q.q ? (
-                      <p className="text-sm text-white leading-relaxed font-medium" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: renderMath(embedImages(q.q)) }} />
+                      <p className="text-sm text-white leading-relaxed font-medium" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(q.q))) }} />
                     ) : (
                       <p className="text-sm text-white leading-relaxed font-medium" style={{ color: '#FFFFFF' }}>
                         Question text not available
@@ -680,7 +731,7 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                       <div key={o.id} className={className}>
                         <span className="font-semibold mr-1">{o.id}.</span>
                         <span className="text-white" style={{ color: '#FFFFFF' }}>
-                          {o.html ? <span dangerouslySetInnerHTML={{ __html: renderMath(embedImages(o.html)) }} /> : <span dangerouslySetInnerHTML={{ __html: renderMath(embedImages(o.text)) }} />}
+                          {o.html ? <span dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(o.html))) }} /> : <span dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(o.text))) }} />}
                         </span>
                       </div>
                     );
@@ -690,7 +741,7 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                 {q.solution && (
                   <div className="pl-8 p-3 bg-[var(--elevated-bg)] rounded-lg">
                     <div className="text-xs font-semibold text-white mb-1" style={{ color: '#FFFFFF' }}>Solution:</div>
-                    <div className="text-xs text-white leading-relaxed" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: renderMath(embedImages(q.solution)) }} />
+                    <div className="text-xs text-white leading-relaxed" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(q.solution))) }} />
                   </div>
                 )}
               </Card>
@@ -767,11 +818,11 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                 </span>
                 <div className="flex-1">
                   {currentQ.questionHtml ? (
-                    <div className="text-[17px] text-white leading-relaxed font-semibold" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: renderMath(embedImages(currentQ.questionHtml)) }} />
+                    <div className="text-[17px] text-white leading-relaxed font-semibold" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(currentQ.questionHtml))) }} />
                   ) : currentQ.question ? (
-                    <p className="text-[17px] text-white leading-relaxed font-semibold" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: renderMath(embedImages(currentQ.question)) }} />
+                    <p className="text-[17px] text-white leading-relaxed font-semibold" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(currentQ.question))) }} />
                   ) : currentQ.q ? (
-                    <p className="text-[17px] text-white leading-relaxed font-semibold" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: renderMath(embedImages(currentQ.q)) }} />
+                    <p className="text-[17px] text-white leading-relaxed font-semibold" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(currentQ.q))) }} />
                   ) : (
                     <p className="text-[17px] text-white leading-relaxed font-semibold" style={{ color: '#FFFFFF' }}>
                       Question text not available
@@ -795,7 +846,7 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                         picked ? "bg-red-600 border-red-600 text-white" : "border-[var(--border-strong)] text-white"
                       }`}>{o.id}</span>
                       <span className="text-sm text-white font-medium" style={{ color: '#FFFFFF' }}>
-                        {o.html ? <span dangerouslySetInnerHTML={{ __html: renderMath(embedImages(o.html)) }} /> : <span dangerouslySetInnerHTML={{ __html: renderMath(embedImages(o.text)) }} />}
+                        {o.html ? <span dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(o.html))) }} /> : <span dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(o.text))) }} />}
                       </span>
                     </button>
                   );

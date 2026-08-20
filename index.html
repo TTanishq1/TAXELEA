@@ -23,6 +23,30 @@
     </script>
     <style>
       html, body, #root { height: 100%; margin: 0; }
+      
+      /* Force white text in question areas for dark theme */
+      .text-white, [style*="color: #FFFFFF"], 
+      [style*="color: white"], [style*="color: rgb(255, 255, 255)"] {
+        color: #FFFFFF !important;
+      }
+      
+      /* Override dark inline colors in all question-related content */
+      [class*="question"], [class*="option"], [class*="solution"] {
+        color: #FFFFFF !important;
+      }
+      
+      [class*="question"] *, [class*="option"] *, [class*="solution"] * {
+        color: #FFFFFF !important;
+      }
+      
+      /* Fix KaTeX math text color */
+      .katex {
+        color: #FFFFFF !important;
+      }
+      
+      .katex * {
+        color: #FFFFFF !important;
+      }
     </style>
   </head>
   <body>
