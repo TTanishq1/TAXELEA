@@ -17,6 +17,14 @@
       }
     },
     {
+      "src": "/tests-organized/(.*)",
+      "dest": "/tests-organized/$1",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable",
+        "content-type": "application/json"
+      }
+    },
+    {
       "src": "/(.*)",
       "dest": "/index.html"
     }

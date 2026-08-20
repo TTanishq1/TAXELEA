@@ -6,6 +6,98 @@ import { DonutProgress } from "../components/ui/DonutProgress.jsx";
 import { SECTIONAL_COUNTS } from "../data/catalog.js";
 import { saveInProgressTest, clearInProgressTest, loadTestTimingConfig } from "../lib/storage.js";
 
+// Function to convert image URLs to img tags
+const embedImages = (text) => {
+  if (!text) return text;
+  
+  // Fix malformed URLs (double https, protocol-relative)
+  let fixedText = text
+    // Fix double https: https:https:// -> https://
+    .replace(/https:https:\/\//g, 'https://')
+    // Fix protocol-relative URLs: //cdn.testbook.com -> https://cdn.testbook.com
+    .replace(/(?<!:)\/\/(cdn\.testbook\.com|storage\.googleapis\.com)/g, 'https://$1');
+  
+  // Match common image URLs (png, jpg, jpeg, gif, webp, svg)
+  const imageRegex = /(https?:\/\/[^\s]+\.(?:png|jpg|jpeg|gif|webp|svg))/gi;
+  
+  return fixedText.replace(imageRegex, (url) => {
+    return `<img src="${url}" alt="Question image" style="max-width: 100%; height: auto; margin: 10px 0; border-radius: 8px;" onerror="this.style.display='none';" />`;
+  });
+};
+
+// Function to render LaTeX math using KaTeX
+const renderMath = (text) => {
+  if (!text) return text;
+  
+  let processedText = text;
+  
+  // Check if KaTeX is available
+  const katexAvailable = typeof window !== 'undefined' && (window.katex || typeof katex !== 'undefined');
+  
+  if (!katexAvailable) {
+    // If KaTeX is not loaded yet, return text as-is
+    return text;
+  }
+  
+  const katexLib = window.katex || katex;
+  
+  // Replace math-tex spans with rendered math
+  // Pattern: <span class="math-tex">\( ... \)</span> or <span class="math-tex">\[ ... \]</span>
+  processedText = processedText.replace(
+    /<span class="math-tex">\\?\((.*?)\\?\)<\/span>/g,
+    (match, content) => {
+      // Inline math
+      try {
+        return katexLib.renderToString(content, { displayMode: false, throwOnError: false });
+      } catch (e) {
+        console.error('KaTeX rendering error:', e);
+        return match;
+      }
+    }
+  );
+  
+  processedText = processedText.replace(
+    /<span class="math-tex">\\?\[(.*?)\\?\]<\/span>/g,
+    (match, content) => {
+      // Display math
+      try {
+        return katexLib.renderToString(content, { displayMode: true, throwOnError: false });
+      } catch (e) {
+        console.error('KaTeX rendering error:', e);
+        return match;
+      }
+    }
+  );
+  
+  // Also handle inline LaTeX: \( ... \)
+  processedText = processedText.replace(
+    /\\\((.*?)\\\)/g,
+    (match, content) => {
+      try {
+        return katexLib.renderToString(content, { displayMode: false, throwOnError: false });
+      } catch (e) {
+        console.error('KaTeX rendering error:', e);
+        return match;
+      }
+    }
+  );
+  
+  // Handle display LaTeX: \[ ... \]
+  processedText = processedText.replace(
+    /\\\[(.*?)\\\]/g,
+    (match, content) => {
+      try {
+        return katexLib.renderToString(content, { displayMode: true, throwOnError: false });
+      } catch (e) {
+        console.error('KaTeX rendering error:', e);
+        return match;
+      }
+    }
+  );
+  
+  return processedText;
+};
+
 export function RealTestRunner({ testKey, testData: propTestData, onComplete, referrer = '/practice' }) {
   const navigate = useNavigate();
   
@@ -29,7 +121,6 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
   
   // Timer state
   const [timeLeft, setTimeLeft] = useState(() => {
-    // ONLY use manual timing configuration - no automatic fallback
     if (!testData) return 0;
     
     const testId = testKey.id || testKey;
@@ -40,8 +131,9 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
       return storedTiming[testId] * 60; // Convert to seconds
     }
     
-    // No manual timing configured - return 0 to prevent test start
-    return 0;
+    // Fallback to test duration if available, otherwise default to 60 minutes
+    const defaultDuration = testData.duration || 60;
+    return defaultDuration * 60; // Convert to seconds
   });
 
   // Load timing configuration on mount
@@ -62,10 +154,11 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
       const testId = testKey.id || testKey;
       setMissingTiming(!timingConfig[testId]);
       
-      // If no timing configured, set timeLeft to 0 to prevent test start
+      // Don't prevent test start - timer will use default duration
       if (!timingConfig[testId]) {
-        setTimeLeft(0);
-        setTimerActive(false);
+        const defaultDuration = testData.duration || 60;
+        setTimeLeft(defaultDuration * 60);
+        setTimerActive(true);
       }
     }
   }, [testData, testKey, timingConfig]);
@@ -245,9 +338,12 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
       const userAnswer = answers[i];
       totalMarks += marksPerQuestion;
       
+      // Support both correctAnswer and answer field names
+      const correctAnswer = q.correctAnswer || q.answer;
+      
       if (userAnswer === undefined) {
         unattempted++;
-      } else if (userAnswer === q.correctAnswer) {
+      } else if (userAnswer === correctAnswer) {
         correct++;
         obtainedMarks += marksPerQuestion;
       } else {
@@ -300,9 +396,12 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
       const userAnswer = answers[i];
       totalMarks += marksPerQuestion;
       
+      // Support both correctAnswer and answer field names
+      const correctAnswer = q.correctAnswer || q.answer;
+      
       if (userAnswer === undefined) {
         // Unattempted - no marks
-      } else if (userAnswer === q.correctAnswer) {
+      } else if (userAnswer === correctAnswer) {
         correct++;
         obtainedMarks += marksPerQuestion;
       } else {
@@ -477,7 +576,9 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                     const globalIndex = section.startIndex + i;
                     if (answers[globalIndex] !== undefined) {
                       sectionAttempted++;
-                      if (answers[globalIndex] === q.correctAnswer) sectionCorrect++;
+                      // Support both correctAnswer and answer field names
+                      const correctAnswer = q.correctAnswer || q.answer;
+                      if (answers[globalIndex] === correctAnswer) sectionCorrect++;
                     }
                   });
                   
@@ -511,7 +612,7 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
               setVisited(new Set([0]));
               setCurrentQuestion(0);
               const testId = testKey.id || testKey;
-              const duration = timingConfig[testId] || testData.duration || (testData.questionCount ? Math.ceil(testData.questionCount / 2) : 60);
+              const duration = timingConfig[testId] || testData.duration || 60;
               setTimeLeft(duration * 60);
               setTimerActive(true);
             }} className="flex items-center gap-2 bg-red-700 hover:bg-red-600 text-white text-sm font-medium rounded-lg px-5 py-2.5">
@@ -523,7 +624,9 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
         <div className="space-y-3">
           {questions.map((q, i) => {
             const userAnswer = answers[i];
-            const correct = userAnswer === q.correctAnswer;
+            // Support both correctAnswer and answer field names
+            const correctAnswer = q.correctAnswer || q.answer;
+            const correct = userAnswer === correctAnswer;
             const attempted = userAnswer !== undefined;
             const marksPerQuestion = testData.marksPerQuestion || 1;
             const negativeMarking = testData.negativeMarking || 0;
@@ -539,10 +642,14 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                   </span>
                   <div className="flex-1">
                     {q.questionHtml ? (
-                      <div className="text-sm text-[var(--text-secondary)] leading-relaxed" dangerouslySetInnerHTML={{ __html: q.questionHtml }} />
+                      <div className="text-sm text-white leading-relaxed font-medium" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: renderMath(embedImages(q.questionHtml)) }} />
+                    ) : q.question ? (
+                      <p className="text-sm text-white leading-relaxed font-medium" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: renderMath(embedImages(q.question)) }} />
+                    ) : q.q ? (
+                      <p className="text-sm text-white leading-relaxed font-medium" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: renderMath(embedImages(q.q)) }} />
                     ) : (
-                      <p className="text-sm text-[var(--text-secondary)] leading-relaxed">
-                        {q.question}
+                      <p className="text-sm text-white leading-relaxed font-medium" style={{ color: '#FFFFFF' }}>
+                        Question text not available
                       </p>
                     )}
                   </div>
@@ -555,7 +662,9 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                 
                 <div className="pl-8 grid grid-cols-1 sm:grid-cols-2 gap-2 mb-3">
                   {q.options.map((o) => {
-                    const isCorrect = o.id === q.correctAnswer;
+                    // Support both correctAnswer and answer field names
+                    const correctAnswer = q.correctAnswer || q.answer;
+                    const isCorrect = o.id === correctAnswer;
                     const isPicked = userAnswer === o.id;
                     
                     let className = "text-xs rounded-md px-2.5 py-1.5 border ";
@@ -570,7 +679,9 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                     return (
                       <div key={o.id} className={className}>
                         <span className="font-semibold mr-1">{o.id}.</span>
-                        {o.html ? <span dangerouslySetInnerHTML={{ __html: o.html }} /> : o.text}
+                        <span className="text-white" style={{ color: '#FFFFFF' }}>
+                          {o.html ? <span dangerouslySetInnerHTML={{ __html: renderMath(embedImages(o.html)) }} /> : <span dangerouslySetInnerHTML={{ __html: renderMath(embedImages(o.text)) }} />}
+                        </span>
                       </div>
                     );
                   })}
@@ -578,8 +689,8 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                 
                 {q.solution && (
                   <div className="pl-8 p-3 bg-[var(--elevated-bg)] rounded-lg">
-                    <div className="text-xs font-semibold text-[var(--text-primary)] mb-1">Solution:</div>
-                    <div className="text-xs text-[var(--text-faint)] leading-relaxed" dangerouslySetInnerHTML={{ __html: q.solution }} />
+                    <div className="text-xs font-semibold text-white mb-1" style={{ color: '#FFFFFF' }}>Solution:</div>
+                    <div className="text-xs text-white leading-relaxed" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: renderMath(embedImages(q.solution)) }} />
                   </div>
                 )}
               </Card>
@@ -656,10 +767,14 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                 </span>
                 <div className="flex-1">
                   {currentQ.questionHtml ? (
-                    <div className="text-[15px] text-[var(--text-primary)] leading-relaxed" dangerouslySetInnerHTML={{ __html: currentQ.questionHtml }} />
+                    <div className="text-[17px] text-white leading-relaxed font-semibold" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: renderMath(embedImages(currentQ.questionHtml)) }} />
+                  ) : currentQ.question ? (
+                    <p className="text-[17px] text-white leading-relaxed font-semibold" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: renderMath(embedImages(currentQ.question)) }} />
+                  ) : currentQ.q ? (
+                    <p className="text-[17px] text-white leading-relaxed font-semibold" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: renderMath(embedImages(currentQ.q)) }} />
                   ) : (
-                    <p className="text-[15px] text-[var(--text-primary)] leading-relaxed">
-                      {currentQ.question}
+                    <p className="text-[17px] text-white leading-relaxed font-semibold" style={{ color: '#FFFFFF' }}>
+                      Question text not available
                     </p>
                   )}
                 </div>
@@ -677,10 +792,10 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                       }`}
                     >
                       <span className={`shrink-0 w-6 h-6 rounded-full flex items-center justify-center text-xs font-semibold border ${
-                        picked ? "bg-red-600 border-red-600 text-white" : "border-[var(--border-strong)] text-[var(--text-muted)]"
+                        picked ? "bg-red-600 border-red-600 text-white" : "border-[var(--border-strong)] text-white"
                       }`}>{o.id}</span>
-                      <span className="text-sm text-[var(--text-secondary)]">
-                        {o.html ? <span dangerouslySetInnerHTML={{ __html: o.html }} /> : o.text}
+                      <span className="text-sm text-white font-medium" style={{ color: '#FFFFFF' }}>
+                        {o.html ? <span dangerouslySetInnerHTML={{ __html: renderMath(embedImages(o.html)) }} /> : <span dangerouslySetInnerHTML={{ __html: renderMath(embedImages(o.text)) }} />}
                       </span>
                     </button>
                   );
