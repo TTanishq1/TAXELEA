@@ -15,6 +15,7 @@ import { Header } from "./components/layout/Header.jsx";
 import Dashboard from "./pages/Dashboard.jsx";
 import { SectionalMocks } from "./pages/SectionalMocks.jsx";
 import { FullTestSeries } from "./pages/FullTestSeries.jsx";
+import { OtherExams } from "./pages/OtherExams.jsx";
 import { PracticeHub } from "./pages/PracticeHub.jsx";
 
 import { RealTestRunner } from "./pages/RealTestRunner.jsx";
@@ -454,6 +455,7 @@ function AppContent({ onAppLoaded }) {
             <Route path="/dashboard" element={<Dashboard setPage={navigateToPage} startPractice={startPractice} results={results} stats={stats} inProgressTest={inProgressTest} currentUser={currentUser} onAuthSuccess={handleAuthSuccess} isFirstTimeSetup={isFirstTimeSetup} />} />
             <Route path="/sectional" element={<ProtectedRoute currentUser={currentUser}><SectionalMocks startPractice={startPractice} bookmarks={bookmarks.map(b=>b.key)} toggleBookmark={toggleBookmark} currentUser={currentUser} /></ProtectedRoute>} />
             <Route path="/full" element={<ProtectedRoute currentUser={currentUser}><FullTestSeries startPractice={startPractice} currentUser={currentUser} /></ProtectedRoute>} />
+            <Route path="/otherexams" element={<ProtectedRoute currentUser={currentUser}><OtherExams startPractice={startPractice} currentUser={currentUser} /></ProtectedRoute>} />
             <Route path="/practice" element={<ProtectedRoute currentUser={currentUser}><PracticeHub startPractice={startPractice} currentUser={currentUser} /></ProtectedRoute>} />
             <Route path="/practice/:testId" element={<ProtectedRoute currentUser={currentUser}><TestRunnerWrapper onComplete={handleComplete} /></ProtectedRoute>} />
             <Route path="/performance" element={<ProtectedRoute currentUser={currentUser}><PerformancePage results={results} stats={stats} currentUser={currentUser} /></ProtectedRoute>} />

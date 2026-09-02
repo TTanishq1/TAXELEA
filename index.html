@@ -23,29 +23,13 @@
     </script>
     <style>
       html, body, #root { height: 100%; margin: 0; }
-      
-      /* Force white text in question areas for dark theme */
-      .text-white, [style*="color: #FFFFFF"], 
-      [style*="color: white"], [style*="color: rgb(255, 255, 255)"] {
-        color: #FFFFFF !important;
-      }
-      
-      /* Override dark inline colors in all question-related content */
-      [class*="question"], [class*="option"], [class*="solution"] {
-        color: #FFFFFF !important;
-      }
-      
-      [class*="question"] *, [class*="option"] *, [class*="solution"] * {
-        color: #FFFFFF !important;
-      }
-      
-      /* Fix KaTeX math text color */
-      .katex {
-        color: #FFFFFF !important;
-      }
-      
-      .katex * {
-        color: #FFFFFF !important;
+
+      /* Question/option/solution/KaTeX text follows the active theme instead
+         of being force-locked to white. The previous !important white-text
+         rule made all question text invisible (white-on-white) whenever
+         light mode was enabled. */
+      [class*="question"], [class*="option"], [class*="solution"], .katex {
+        color: var(--text-primary, inherit);
       }
     </style>
   </head>

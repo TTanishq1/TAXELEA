@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo, useCallback } from "react";
+import { useState, useEffect, useMemo, useCallback, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import { X, Check, ChevronLeft, ChevronRight, RotateCcw, Clock, Bookmark, BookmarkCheck } from "lucide-react";
 import { Card } from "../components/ui/Card.jsx";
@@ -43,35 +43,28 @@ const embedImages = (text) => {
   return fixedText;
 };
 
-// Function to fix text colors for dark theme compatibility
+// Question/option HTML sometimes carries inline `color: ...` styles baked in
+// from the source material. This used to force any dark color to white,
+// which looked fine while the app was dark-only, but makes text invisible
+// (white-on-white) now that light mode exists. Instead, strip out only the
+// extreme (near-black/near-white) inline colors so the surrounding theme's
+// own text color (already correct for either theme) takes over; leave
+// mid-range colors (a source's own red/green highlight) untouched.
 const fixTextColors = (text) => {
   if (!text) return text;
   
   let fixedText = text;
   
-  // Fix specific dark colors that are hard to read on dark backgrounds
-  // RGB colors that are too dark
-  fixedText = fixedText.replace(/color:\s*rgb\(\s*(0|[1-9]\d{0,2})\s*,\s*(0|[1-9]\d{0,2})\s*,\s*(0|[1-9]\d{0,2})\s*\)/gi, (match, r, g, b) => {
-    // Convert to numbers and check if it's a dark color
-    const rNum = parseInt(r);
-    const gNum = parseInt(g);
-    const bNum = parseInt(b);
-    // Calculate brightness
-    const brightness = (rNum * 299 + gNum * 587 + bNum * 114) / 1000;
-    // If brightness is very dark (< 125), make it white
-    if (brightness < 125) {
-      return 'color: #FFFFFF';
-    }
+  fixedText = fixedText.replace(/color:\s*rgb\(\s*(0|[1-9]\d{0,2})\s*,\s*(0|[1-9]\d{0,2})\s*,\s*(0|[1-9]\d{0,2})\s*\)\s*;?/gi, (match, r, g, b) => {
+    const brightness = (parseInt(r) * 299 + parseInt(g) * 587 + parseInt(b) * 114) / 1000;
+    if (brightness < 60 || brightness > 235) return '';
     return match;
   });
   
-  // Fix dark hex colors
-  fixedText = fixedText.replace(/color:\s*#[0-3][0-9a-f]{5}/gi, 'color: #FFFFFF');
-  fixedText = fixedText.replace(/color:\s*#[4-5][0-9a-f]{5}/gi, 'color: #E0E0E0');
-  
-  // Fix named dark colors
-  fixedText = fixedText.replace(/color:\s*(black|#000000)/gi, 'color: #FFFFFF');
-  fixedText = fixedText.replace(/color:\s*(darkgray|darkgrey|dimgray|dimgrey)/gi, 'color: #E0E0E0');
+  fixedText = fixedText.replace(/color:\s*#[0-1][0-9a-f]{5}\s*;?/gi, '');
+  fixedText = fixedText.replace(/color:\s*#[e-f][0-9a-f]{5}\s*;?/gi, '');
+  fixedText = fixedText.replace(/color:\s*(black|#000000|white|#FFFFFF)\s*;?/gi, '');
+  fixedText = fixedText.replace(/color:\s*(darkgray|darkgrey|dimgray|dimgrey)\s*;?/gi, '');
   
   return fixedText;
 };
@@ -214,7 +207,13 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
     }
   }, [testData, testKey, timingConfig]);
 
-  // Save in-progress test state
+  // Save in-progress test state.
+  // Deliberately does NOT depend on `timeLeft` — it ticks every second, and
+  // depending on it here meant a full JSON save of the entire test state
+  // (answers, visited, marked, etc.) ran every single second, which could
+  // cause jank on longer tests. Progress is saved whenever the user actually
+  // does something (answers/navigates/marks); timeLeft is persisted
+  // separately below on a much lighter 10-second interval.
   useEffect(() => {
     if (!submitted && testData) {
       const inProgressData = {
@@ -231,7 +230,36 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
       };
       saveInProgressTest(inProgressData);
     }
-  }, [currentQuestion, answers, markedForReview, visited, timeLeft, submitted, testData, testKey, referrer]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [currentQuestion, answers, markedForReview, visited, submitted, testData, testKey, referrer]);
+
+  // Periodically persist timeLeft (every 10s) so a resumed test doesn't lose
+  // too much of the countdown, without writing to storage every tick. Uses a
+  // ref snapshot so the interval always reads current values instead of a
+  // stale closure from when the interval was first created.
+  const latestStateRef = useRef(null);
+  latestStateRef.current = { currentQuestion, answers, markedForReview, visited, timeLeft, referrer };
+
+  useEffect(() => {
+    if (submitted || !testData) return;
+    const persistTimer = setInterval(() => {
+      const s = latestStateRef.current;
+      saveInProgressTest({
+        id: testKey.id || testKey,
+        title: testData.title,
+        totalQuestions: testData.questionCount,
+        currentQuestion: s.currentQuestion,
+        answeredQuestions: Object.keys(s.answers).length,
+        answers: s.answers,
+        markedForReview: Array.from(s.markedForReview),
+        visited: Array.from(s.visited),
+        timeLeft: s.timeLeft,
+        referrer: s.referrer
+      });
+    }, 10000);
+    return () => clearInterval(persistTimer);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [submitted, testData]);
 
   // Clear in-progress test when submitted or exited
   useEffect(() => {
@@ -488,18 +516,28 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
     return `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
   };
   
-  // Get question status for palette
+  // Get question status for palette — matches the official SSC CBT (Eduquity)
+  // 5-state convention. Previously this only had 4 states and collapsed
+  // "answered AND marked for review" into just "marked", losing the fact
+  // that the question was actually answered.
   const getQuestionStatus = (idx) => {
-    if (markedForReview.has(idx)) return 'marked';
-    if (answers[idx] !== undefined) return 'answered';
+    const isAnswered = answers[idx] !== undefined;
+    const isMarked = markedForReview.has(idx);
+    if (isMarked && isAnswered) return 'answered-marked';
+    if (isMarked) return 'marked';
+    if (isAnswered) return 'answered';
     if (visited.has(idx)) return 'visited';
     return 'unvisited';
   };
   
   // Timer effect
+  // Note: only depends on `timerActive`, not `timeLeft`. Previously `timeLeft`
+  // was also a dependency, and since the interval itself updates timeLeft
+  // every second, that meant the interval was destroyed and recreated every
+  // single tick — wasted work that could cause jank on longer tests.
   useEffect(() => {
-    if (!timerActive || timeLeft <= 0) return;
-    
+    if (!timerActive) return;
+
     const timer = setInterval(() => {
       setTimeLeft(prev => {
         if (prev <= 1) {
@@ -512,7 +550,7 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
     }, 1000);
     
     return () => clearInterval(timer);
-  }, [timerActive, timeLeft]);
+  }, [timerActive]);
   
   // Early returns after all hooks
   if (!testData || !testData.questions || testData.questions.length === 0) {
@@ -687,19 +725,19 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
               <Card key={i} className="p-4">
                 <div className="flex items-start gap-2 mb-3">
                   <span className={`shrink-0 w-6 h-6 rounded-full flex items-center justify-center text-[11px] font-semibold mt-0.5 ${
-                    correct ? "bg-green-600" : attempted ? "bg-red-600" : "bg-[var(--border-strong)]"
-                  } text-white`}>
+                    correct ? "bg-green-600 text-white" : attempted ? "bg-red-600 text-white" : "bg-[var(--border-strong)] text-[var(--text-primary)]"
+                  }`}>
                     {i + 1}
                   </span>
                   <div className="flex-1">
                     {q.questionHtml ? (
-                      <div className="text-sm text-white leading-relaxed font-medium" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(q.questionHtml))) }} />
+                      <div className="text-sm text-[var(--text-primary)] leading-relaxed font-medium" dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(q.questionHtml))) }} />
                     ) : q.question ? (
-                      <p className="text-sm text-white leading-relaxed font-medium" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(q.question))) }} />
+                      <p className="text-sm text-[var(--text-primary)] leading-relaxed font-medium" dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(q.question))) }} />
                     ) : q.q ? (
-                      <p className="text-sm text-white leading-relaxed font-medium" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(q.q))) }} />
+                      <p className="text-sm text-[var(--text-primary)] leading-relaxed font-medium" dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(q.q))) }} />
                     ) : (
-                      <p className="text-sm text-white leading-relaxed font-medium" style={{ color: '#FFFFFF' }}>
+                      <p className="text-sm text-[var(--text-primary)] leading-relaxed font-medium">
                         Question text not available
                       </p>
                     )}
@@ -730,7 +768,7 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                     return (
                       <div key={o.id} className={className}>
                         <span className="font-semibold mr-1">{o.id}.</span>
-                        <span className="text-white" style={{ color: '#FFFFFF' }}>
+                        <span>
                           {o.html ? <span dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(o.html))) }} /> : <span dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(o.text))) }} />}
                         </span>
                       </div>
@@ -740,8 +778,8 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                 
                 {q.solution && (
                   <div className="pl-8 p-3 bg-[var(--elevated-bg)] rounded-lg">
-                    <div className="text-xs font-semibold text-white mb-1" style={{ color: '#FFFFFF' }}>Solution:</div>
-                    <div className="text-xs text-white leading-relaxed" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(q.solution))) }} />
+                    <div className="text-xs font-semibold text-[var(--text-primary)] mb-1">Solution:</div>
+                    <div className="text-xs text-[var(--text-primary)] leading-relaxed" dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(q.solution))) }} />
                   </div>
                 )}
               </Card>
@@ -781,16 +819,14 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
       {/* Main question area */}
       <div className="flex-1 flex flex-col overflow-hidden">
         {/* Header */}
-        <div className="border-b border-[var(--border)] bg-[var(--bg)] px-4 py-3 flex items-center justify-between">
-          <div>
-            <div className="text-[var(--text-primary)] font-semibold text-sm">{testData.title}</div>
-            <div className="text-xs text-[var(--text-faint)]">
-              {testData.provider} · 
-              {currentSection && <span className="ml-1" style={{ color: currentSection.color }}>{currentSection.name}</span>}
-              · Question {currentQuestion + 1} of {totalQuestions}
+        <div className="border-b border-[var(--border)] bg-[var(--bg)] px-4 py-3 flex items-center justify-between gap-3">
+          <div className="min-w-0">
+            <div className="text-[var(--text-primary)] font-semibold text-sm truncate" title={testData.title}>{testData.title}</div>
+            <div className="text-xs text-[var(--text-faint)] truncate">
+              {testData.provider} · Question {currentQuestion + 1} of {totalQuestions}
             </div>
           </div>
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-3 shrink-0">
             <div className="flex items-center gap-2 text-[var(--text-primary)]">
               <Clock size={16} />
               <span className={`font-mono text-sm ${timeLeft < 300 ? 'text-red-500' : ''}`}>
@@ -808,6 +844,35 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
           </div>
         </div>
 
+        {/* Section tabs — Eduquity/official SSC CBT convention: subjects are
+            navigable as a horizontal tab strip directly under the header,
+            not only reachable via the sidebar list. */}
+        {sections.length > 1 && (
+          <div className="border-b border-[var(--border)] bg-[var(--elevated-bg)] px-4 py-2 flex items-center gap-1.5 overflow-x-auto">
+            {sections.map(section => {
+              const sectionQs = questions.slice(section.startIndex, section.startIndex + section.count);
+              const answeredInSection = sectionQs.filter((_, i) => answers[section.startIndex + i] !== undefined).length;
+              const isActive = currentSection?.name === section.name;
+              return (
+                <button
+                  key={section.name}
+                  onClick={() => handleQuestionClick(section.startIndex)}
+                  className={`shrink-0 flex items-center gap-2 px-3.5 py-1.5 rounded-md text-xs font-medium border-b-2 transition-colors ${
+                    isActive
+                      ? 'text-[var(--text-primary)]'
+                      : 'text-[var(--text-secondary)] border-transparent hover:text-[var(--text-primary)]'
+                  }`}
+                  style={isActive ? { borderBottomColor: section.color } : undefined}
+                >
+                  <div className="w-2 h-2 rounded-full" style={{ backgroundColor: section.color }} />
+                  {section.name}
+                  <span className="text-[10px] text-[var(--text-faint)]">{answeredInSection}/{section.count}</span>
+                </button>
+              );
+            })}
+          </div>
+        )}
+
         {/* Question content */}
         <div className="flex-1 overflow-y-auto p-4 sm:p-6">
           <div className="max-w-3xl mx-auto space-y-4">
@@ -818,13 +883,13 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                 </span>
                 <div className="flex-1">
                   {currentQ.questionHtml ? (
-                    <div className="text-[17px] text-white leading-relaxed font-semibold" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(currentQ.questionHtml))) }} />
+                    <div className="text-[17px] text-[var(--text-primary)] leading-relaxed font-semibold" dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(currentQ.questionHtml))) }} />
                   ) : currentQ.question ? (
-                    <p className="text-[17px] text-white leading-relaxed font-semibold" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(currentQ.question))) }} />
+                    <p className="text-[17px] text-[var(--text-primary)] leading-relaxed font-semibold" dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(currentQ.question))) }} />
                   ) : currentQ.q ? (
-                    <p className="text-[17px] text-white leading-relaxed font-semibold" style={{ color: '#FFFFFF' }} dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(currentQ.q))) }} />
+                    <p className="text-[17px] text-[var(--text-primary)] leading-relaxed font-semibold" dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(currentQ.q))) }} />
                   ) : (
-                    <p className="text-[17px] text-white leading-relaxed font-semibold" style={{ color: '#FFFFFF' }}>
+                    <p className="text-[17px] text-[var(--text-primary)] leading-relaxed font-semibold">
                       Question text not available
                     </p>
                   )}
@@ -843,9 +908,9 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                       }`}
                     >
                       <span className={`shrink-0 w-6 h-6 rounded-full flex items-center justify-center text-xs font-semibold border ${
-                        picked ? "bg-red-600 border-red-600 text-white" : "border-[var(--border-strong)] text-white"
+                        picked ? "bg-red-600 border-red-600 text-white" : "border-[var(--border-strong)] text-[var(--text-primary)]"
                       }`}>{o.id}</span>
-                      <span className="text-sm text-white font-medium" style={{ color: '#FFFFFF' }}>
+                      <span className="text-sm text-[var(--text-primary)] font-medium">
                         {o.html ? <span dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(o.html))) }} /> : <span dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(o.text))) }} />}
                       </span>
                     </button>
@@ -911,37 +976,11 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
       <div className="w-72 border-l border-[var(--border)] bg-[var(--elevated-bg)] hidden lg:block overflow-y-auto">
         <div className="p-4">
           <h3 className="text-sm font-semibold text-[var(--text-primary)] mb-3">Question Palette</h3>
-          
-          {sections.length > 1 && (
-            <div className="mb-4 space-y-2">
-              {sections.map(section => (
-                <button
-                  key={section.name}
-                  onClick={() => handleQuestionClick(section.startIndex)}
-                  className={`w-full flex items-center justify-between px-3 py-2 rounded-lg text-xs font-medium transition-colors ${
-                    currentSection?.name === section.name 
-                      ? 'bg-[var(--accent-bg)] text-white' 
-                      : 'bg-[var(--hover-bg)] text-[var(--text-secondary)] hover:bg-[var(--border)]'
-                  }`}
-                >
-                  <div className="flex items-center gap-2">
-                    <div className="w-2 h-2 rounded" style={{ backgroundColor: section.color }} />
-                    <span>{section.name}</span>
-                  </div>
-                  <span>{section.count}</span>
-                </button>
-              ))}
-            </div>
-          )}
-          
+
           <div className="space-y-2 mb-4">
             <div className="flex items-center gap-2 text-xs">
               <div className="w-4 h-4 rounded bg-green-600" />
               <span className="text-[var(--text-faint)]">Answered</span>
-            </div>
-            <div className="flex items-center gap-2 text-xs">
-              <div className="w-4 h-4 rounded bg-red-600" />
-              <span className="text-[var(--text-faint)]">Marked for Review</span>
             </div>
             <div className="flex items-center gap-2 text-xs">
               <div className="w-4 h-4 rounded bg-[var(--border-strong)]" />
@@ -951,6 +990,16 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
               <div className="w-4 h-4 rounded bg-[var(--hover-bg)]" />
               <span className="text-[var(--text-faint)]">Not Visited</span>
             </div>
+            <div className="flex items-center gap-2 text-xs">
+              <div className="w-4 h-4 rounded bg-purple-600" />
+              <span className="text-[var(--text-faint)]">Marked for Review</span>
+            </div>
+            <div className="flex items-center gap-2 text-xs">
+              <div className="w-4 h-4 rounded bg-purple-600 relative">
+                <div className="absolute -top-1 -right-1 w-2 h-2 rounded-full bg-green-500 border border-[var(--elevated-bg)]" />
+              </div>
+              <span className="text-[var(--text-faint)]">Answered &amp; Marked for Review</span>
+            </div>
           </div>
           
           <div className="grid grid-cols-5 gap-2">
@@ -959,19 +1008,24 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
               const isCurrent = i === currentQuestion;
               
               let bgClass = "bg-[var(--hover-bg)]";
-              if (status === 'answered') bgClass = "bg-green-600";
-              else if (status === 'marked') bgClass = "bg-red-600";
-              else if (status === 'visited') bgClass = "bg-[var(--border-strong)]";
+              let textClass = "text-[var(--text-primary)]";
+              if (status === 'answered') { bgClass = "bg-green-600"; textClass = "text-white"; }
+              else if (status === 'marked') { bgClass = "bg-purple-600"; textClass = "text-white"; }
+              else if (status === 'answered-marked') { bgClass = "bg-purple-600"; textClass = "text-white"; }
+              else if (status === 'visited') { bgClass = "bg-[var(--border-strong)]"; textClass = "text-[var(--text-primary)]"; }
               
               return (
                 <button
                   key={i}
                   onClick={() => handleQuestionClick(i)}
-                  className={`w-8 h-8 rounded text-xs font-medium text-white transition-colors ${
+                  className={`relative w-8 h-8 rounded text-xs font-medium transition-colors ${textClass} ${
                     isCurrent ? 'ring-2 ring-red-500 ring-offset-2' : ''
                   } ${bgClass}`}
                 >
                   {i + 1}
+                  {status === 'answered-marked' && (
+                    <div className="absolute -top-1 -right-1 w-2.5 h-2.5 rounded-full bg-green-500 border border-[var(--elevated-bg)]" />
+                  )}
                 </button>
               );
             })}

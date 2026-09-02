@@ -1,6 +1,6 @@
 import {
   Home, ClipboardList, Layers, Dumbbell, BarChart3, Bookmark, Flame, Settings, Trophy,
-  X, ArrowRight, Lock,
+  X, ArrowRight, Lock, Landmark,
 } from "lucide-react";
 import { Logo } from "../Logo.jsx";
 
@@ -8,6 +8,7 @@ const NAV_ITEMS = [
   { key: "dashboard", label: "Dashboard", icon: Home, requiresAuth: false },
   { key: "sectional", label: "Sectional Mocks", icon: ClipboardList, requiresAuth: true },
   { key: "full", label: "Full Test Series", icon: Layers, requiresAuth: true },
+  { key: "otherexams", label: "Other Exams", icon: Landmark, requiresAuth: true },
   { key: "practice", label: "Practice", icon: Dumbbell, requiresAuth: true },
   { key: "performance", label: "Performance", icon: BarChart3, requiresAuth: true },
   { key: "bookmarks", label: "Bookmarks", icon: Bookmark, requiresAuth: true },
