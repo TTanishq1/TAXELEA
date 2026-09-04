@@ -70,7 +70,7 @@ def main():
         rel_path = f.relative_to(REPO_ROOT / "public" / "tests-organized" / "tests").as_posix()
 
         by_exam[exam_type].append({
-            "id": data.get("id") or f.stem,
+            "id": f.stem,  # MUST match testCards.js scheme (filename-based), not the JSON's internal id field
             "title": title,
             "path": rel_path,
             "questionCount": data.get("questionCount"),
