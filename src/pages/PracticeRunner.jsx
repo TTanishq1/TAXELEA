@@ -137,7 +137,7 @@ export function PracticeRunner({ testKey, onExit, onComplete }) {
                 key={o.id}
                 onClick={() => select(o.id)}
                 className={`w-full flex items-center gap-3 text-left rounded-lg px-4 py-3 border transition-colors ${
-                  picked ? "border-red-600 bg-red-950/30" : "border-[var(--border-strong)] hover:border-[var(--border-strong)] hover:bg-[var(--hover-bg)]"
+                  picked ? "border-red-600 bg-[var(--accent-soft-bg)]" : "border-[var(--border-strong)] hover:border-[var(--border-strong)] hover:bg-[var(--hover-bg)]"
                 }`}
               >
                 <span className={`shrink-0 w-6 h-6 rounded-full flex items-center justify-center text-xs font-semibold border ${

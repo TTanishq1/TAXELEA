@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo, useCallback, useRef } from "react";
 import { useNavigate } from "react-router-dom";
-import { X, Check, ChevronLeft, ChevronRight, RotateCcw, Clock, Bookmark, BookmarkCheck } from "lucide-react";
+import { X, Check, ChevronLeft, ChevronRight, RotateCcw, Clock, Bookmark, BookmarkCheck, Menu, Flag, Star } from "lucide-react";
 import { Card } from "../components/ui/Card.jsx";
 import { DonutProgress } from "../components/ui/DonutProgress.jsx";
 import { SECTIONAL_COUNTS } from "../data/catalog.js";
@@ -159,9 +159,15 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
   const [visited, setVisited] = useState(new Set([0]));
   const [submitted, setSubmitted] = useState(false);
   const [timingConfig, setTimingConfig] = useState({});
-  const [timerActive, setTimerActive] = useState(true);
+  const [timerActive, setTimerActive] = useState(false);
   const [showSubmitConfirm, setShowSubmitConfirm] = useState(false);
   const [missingTiming, setMissingTiming] = useState(false);
+  // Pre-test instructions screen (Testbook-pattern: Instructions -> Agree &
+  // Continue -> test begins). Previously the test started immediately with
+  // no instructions step at all.
+  const [hasStarted, setHasStarted] = useState(false);
+  const [questionStartTime, setQuestionStartTime] = useState(Date.now());
+  const [showMobilePalette, setShowMobilePalette] = useState(false);
   
   // Timer state
   const [timeLeft, setTimeLeft] = useState(() => {
@@ -202,7 +208,6 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
       if (!timingConfig[testId]) {
         const defaultDuration = testData.duration || 60;
         setTimeLeft(defaultDuration * 60);
-        setTimerActive(true);
       }
     }
   }, [testData, testKey, timingConfig]);
@@ -398,6 +403,23 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
   const handleQuestionClick = useCallback((idx) => {
     setCurrentQuestion(idx);
     setVisited(prev => new Set([...prev, idx]));
+    setQuestionStartTime(Date.now());
+  }, []);
+
+  // Live "time spent on this question" — resets whenever the question
+  // changes, ticks every second while the test is active.
+  const [questionElapsed, setQuestionElapsed] = useState(0);
+  useEffect(() => {
+    setQuestionElapsed(0);
+    if (!hasStarted || submitted) return;
+    const t = setInterval(() => setQuestionElapsed(e => e + 1), 1000);
+    return () => clearInterval(t);
+  }, [currentQuestion, hasStarted, submitted]);
+
+  const handleStartTest = useCallback(() => {
+    setHasStarted(true);
+    setTimerActive(true);
+    setQuestionStartTime(Date.now());
   }, []);
   
   // Calculate score with marking rules
@@ -589,6 +611,57 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
     );
   }
   
+  // Pre-test instructions screen — shown once, before the timer starts.
+  // Matches the reference pattern: title, duration/marks, rules, Agree & Continue.
+  if (!hasStarted && !submitted) {
+    const marksPerQuestion = testData.marksPerQuestion || 1;
+    const negativeMarking = testData.negativeMarking || 0;
+    const durationMins = Math.round(timeLeft / 60);
+    const maxMarks = totalQuestions * marksPerQuestion;
+    return (
+      <div className="min-h-screen bg-[var(--bg)] p-4 sm:p-6">
+        <div className="max-w-2xl mx-auto">
+          <button onClick={handleExit} className="flex items-center gap-2 text-[var(--text-muted)] hover:text-[var(--text-primary)] text-sm mb-4">
+            <ChevronLeft size={18} /> Your Tests
+          </button>
+
+          <Card className="p-6 sm:p-8">
+            <h1 className="text-lg sm:text-xl font-bold text-[var(--text-primary)] mb-1">{testData.title}</h1>
+            <div className="flex items-center gap-4 text-sm text-[var(--text-secondary)] mb-6">
+              <span>Duration: {durationMins} Mins.</span>
+              <span>Maximum Marks: {maxMarks.toFixed(1)}</span>
+            </div>
+
+            <ul className="space-y-3 text-sm text-[var(--text-secondary)] mb-6">
+              <li>• The test contains {totalQuestions} total questions.</li>
+              <li>• Each question has {currentQ?.options?.length || 4} options out of which only one is correct.</li>
+              <li>• You have to finish the test in {durationMins} minutes.</li>
+              <li>
+                • You will be awarded {marksPerQuestion} mark{marksPerQuestion !== 1 ? 's' : ''} for each correct answer
+                {negativeMarking > 0 ? ` and ${negativeMarking} will be deducted for each wrong answer.` : ', with no negative marking.'}
+              </li>
+              <li>• There is no negative marking for questions that you have not attempted.</li>
+              <li>• Please ensure a stable internet/device connection — your progress is saved automatically as you go, but finishing in one sitting gives the most realistic practice.</li>
+            </ul>
+
+            {missingTiming && (
+              <div className="mb-6 p-3 bg-[var(--accent-soft-bg)] border border-[var(--accent-soft-border)] rounded-lg text-sm text-[var(--text-primary)]">
+                ⚠️ No custom time was configured for this test — using the default duration ({durationMins} min). You can set a custom duration from the test list before starting next time.
+              </div>
+            )}
+
+            <button
+              onClick={handleStartTest}
+              className="w-full bg-red-700 hover:bg-red-600 text-white text-sm font-semibold rounded-lg px-4 py-3.5 transition-colors"
+            >
+              Agree and Continue
+            </button>
+          </Card>
+        </div>
+      </div>
+    );
+  }
+
   // Render submitted state
   if (submitted) {
     return (
@@ -758,9 +831,9 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                     
                     let className = "text-xs rounded-md px-2.5 py-1.5 border ";
                     if (isCorrect) {
-                      className += "border-green-600 bg-green-950/30 text-green-400";
+                      className += "border-[var(--ok-border)] bg-[var(--ok-bg)] text-[var(--ok-text)]";
                     } else if (isPicked) {
-                      className += "border-red-600 bg-red-950/30 text-red-400";
+                      className += "border-[var(--danger-border)] bg-[var(--danger-bg)] text-[var(--danger-text)]";
                     } else {
                       className += "border-[var(--border)] text-[var(--text-muted)]";
                     }
@@ -819,28 +892,47 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
       {/* Main question area */}
       <div className="flex-1 flex flex-col overflow-hidden">
         {/* Header */}
-        <div className="border-b border-[var(--border)] bg-[var(--bg)] px-4 py-3 flex items-center justify-between gap-3">
-          <div className="min-w-0">
-            <div className="text-[var(--text-primary)] font-semibold text-sm truncate" title={testData.title}>{testData.title}</div>
-            <div className="text-xs text-[var(--text-faint)] truncate">
-              {testData.provider} · Question {currentQuestion + 1} of {totalQuestions}
+        <div className="border-b border-[var(--border)] bg-[var(--bg)] px-4 py-3">
+          <div className="flex items-center justify-between gap-3">
+            <div className="flex items-center gap-3 min-w-0">
+              <div className="relative w-10 h-10 shrink-0 rounded-full border-2 border-[var(--text-primary)] flex items-center justify-center">
+                <Clock size={16} className="text-[var(--text-primary)]" />
+              </div>
+              <div className="min-w-0">
+                <div className={`font-mono text-base font-bold leading-none ${timeLeft < 300 ? 'text-red-500' : 'text-[var(--text-primary)]'}`}>
+                  {formatTime(timeLeft)}
+                </div>
+                <div className="text-xs text-[var(--text-faint)] truncate mt-1" title={testData.title}>{testData.title}</div>
+              </div>
+            </div>
+            <div className="flex items-center gap-1.5 shrink-0">
+              <button
+                onClick={() => setShowMobilePalette(true)}
+                className="lg:hidden w-8 h-8 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-muted)]"
+                title="Question Palette"
+              >
+                <Menu size={18} />
+              </button>
+              <button onClick={handleExit} className="w-8 h-8 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-muted)]">
+                <X size={16} />
+              </button>
             </div>
           </div>
-          <div className="flex items-center gap-3 shrink-0">
-            <div className="flex items-center gap-2 text-[var(--text-primary)]">
-              <Clock size={16} />
-              <span className={`font-mono text-sm ${timeLeft < 300 ? 'text-red-500' : ''}`}>
-                {formatTime(timeLeft)}
+
+          <div className="flex items-center gap-2 mt-2.5 flex-wrap">
+            <span className="text-xs px-2.5 py-1 rounded-full bg-[var(--accent-soft-bg)] text-[var(--text-primary)]">
+              Total Questions Answered: <span className="font-semibold">{Object.keys(answers).length}</span>
+            </span>
+            {timeLeft > 0 && timeLeft <= 900 && (
+              <span className="text-xs px-2.5 py-1 rounded-full bg-red-600/15 text-red-500 font-medium">
+                Last {Math.ceil(timeLeft / 60)} Mins
               </span>
-              {missingTiming && (
-                <span className="text-xs text-amber-500 ml-1" title="Timing not configured">
-                  ⚠️
-                </span>
-              )}
-            </div>
-            <button onClick={handleExit} className="w-8 h-8 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-muted)]">
-              <X size={16} />
-            </button>
+            )}
+            {missingTiming && (
+              <span className="text-xs px-2.5 py-1 rounded-full bg-[var(--elevated-bg)] text-[var(--text-faint)]" title="No custom time configured — using default duration">
+                ⚠️ Default timing
+              </span>
+            )}
           </div>
         </div>
 
@@ -877,10 +969,27 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
         <div className="flex-1 overflow-y-auto p-4 sm:p-6">
           <div className="max-w-3xl mx-auto space-y-4">
             <Card className="p-6">
-              <div className="flex items-start gap-3 mb-4">
+              <div className="flex items-center gap-3 mb-4 pb-3 border-b border-[var(--border)]">
                 <span className="shrink-0 w-7 h-7 rounded-full bg-red-600 text-white flex items-center justify-center text-sm font-semibold">
                   {currentQuestion + 1}
                 </span>
+                <div className="flex items-center gap-1.5 text-xs text-[var(--text-faint)]">
+                  <Clock size={13} />
+                  {formatTime(questionElapsed)}
+                </div>
+                <div className="flex-1" />
+                <button
+                  onClick={handleMarkForReview}
+                  className={`w-7 h-7 flex items-center justify-center rounded-md hover:bg-[var(--hover-bg)] ${
+                    markedForReview.has(currentQuestion) ? 'text-purple-500' : 'text-[var(--text-faint)]'
+                  }`}
+                  title={markedForReview.has(currentQuestion) ? 'Unmark' : 'Mark for Review'}
+                >
+                  {markedForReview.has(currentQuestion) ? <BookmarkCheck size={16} /> : <Bookmark size={16} />}
+                </button>
+              </div>
+
+              <div className="flex items-start gap-3 mb-4">
                 <div className="flex-1">
                   {currentQ.questionHtml ? (
                     <div className="text-[17px] text-[var(--text-primary)] leading-relaxed font-semibold" dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(currentQ.questionHtml))) }} />
@@ -896,7 +1005,7 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                 </div>
               </div>
               
-              <div className="space-y-2.5 ml-10">
+              <div className="space-y-2.5">
                 {currentQ.options.map((o) => {
                   const picked = answers[currentQuestion] === o.id;
                   return (
@@ -904,7 +1013,7 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                       key={o.id}
                       onClick={() => handleAnswerSelect(o.id)}
                       className={`w-full flex items-center gap-3 text-left rounded-lg px-4 py-3 border transition-colors ${
-                        picked ? "border-red-600 bg-red-950/30" : "border-[var(--border-strong)] hover:border-[var(--border-strong)] hover:bg-[var(--hover-bg)]"
+                        picked ? "border-red-600 bg-[var(--accent-soft-bg)]" : "border-[var(--border-strong)] hover:bg-[var(--hover-bg)]"
                       }`}
                     >
                       <span className={`shrink-0 w-6 h-6 rounded-full flex items-center justify-center text-xs font-semibold border ${
@@ -972,10 +1081,40 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
         </div>
       </div>
 
-      {/* Question palette sidebar */}
-      <div className="w-72 border-l border-[var(--border)] bg-[var(--elevated-bg)] hidden lg:block overflow-y-auto">
+      {/* Question palette — desktop: fixed sidebar. Mobile: slide-over drawer
+          triggered by the header's hamburger button (previously this panel
+          was `hidden lg:block` with zero mobile access at all — no way to
+          jump to another question or see progress on a phone). */}
+      {showMobilePalette && (
+        <div className="fixed inset-0 bg-black/60 z-40 lg:hidden" onClick={() => setShowMobilePalette(false)} />
+      )}
+      <div className={`w-72 border-l border-[var(--border)] bg-[var(--elevated-bg)] overflow-y-auto
+        fixed lg:static inset-y-0 right-0 z-50 transition-transform duration-200
+        ${showMobilePalette ? 'translate-x-0' : 'translate-x-full lg:translate-x-0'}`}>
         <div className="p-4">
-          <h3 className="text-sm font-semibold text-[var(--text-primary)] mb-3">Question Palette</h3>
+          <div className="flex items-center justify-between mb-3 lg:hidden">
+            <h3 className="text-sm font-semibold text-[var(--text-primary)]">Question Palette</h3>
+            <button onClick={() => setShowMobilePalette(false)} className="w-7 h-7 flex items-center justify-center rounded-md hover:bg-[var(--hover-bg)] text-[var(--text-muted)]">
+              <X size={16} />
+            </button>
+          </div>
+          <h3 className="text-sm font-semibold text-[var(--text-primary)] mb-3 hidden lg:block">Question Palette</h3>
+
+          {/* Answered / Unanswered summary — matches reference pattern */}
+          <div className="rounded-lg border border-[var(--border)] mb-4 overflow-hidden">
+            <div className="flex items-center justify-between px-3 py-2.5 border-b border-[var(--border)]">
+              <span className="flex items-center gap-2 text-xs text-[var(--text-secondary)]">
+                <span className="w-2.5 h-2.5 rounded-full bg-green-600" /> Answered Qs
+              </span>
+              <span className="text-xs font-semibold text-[var(--text-primary)]">{Object.keys(answers).length}</span>
+            </div>
+            <div className="flex items-center justify-between px-3 py-2.5">
+              <span className="flex items-center gap-2 text-xs text-[var(--text-secondary)]">
+                <span className="w-2.5 h-2.5 rounded-full bg-[var(--border-strong)]" /> Unanswered Qs
+              </span>
+              <span className="text-xs font-semibold text-[var(--text-primary)]">{totalQuestions - Object.keys(answers).length}</span>
+            </div>
+          </div>
 
           <div className="space-y-2 mb-4">
             <div className="flex items-center gap-2 text-xs">
@@ -1017,9 +1156,9 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
               return (
                 <button
                   key={i}
-                  onClick={() => handleQuestionClick(i)}
+                  onClick={() => { handleQuestionClick(i); setShowMobilePalette(false); }}
                   className={`relative w-8 h-8 rounded text-xs font-medium transition-colors ${textClass} ${
-                    isCurrent ? 'ring-2 ring-red-500 ring-offset-2' : ''
+                    isCurrent ? 'ring-2 ring-red-500 ring-offset-2 ring-offset-[var(--elevated-bg)]' : ''
                   } ${bgClass}`}
                 >
                   {i + 1}
