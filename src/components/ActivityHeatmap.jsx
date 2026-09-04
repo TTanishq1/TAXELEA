@@ -96,14 +96,13 @@ export function ActivityHeatmap({ results }) {
   }, [activityData, viewStart]);
   
   const getActivityColor = (level) => {
-    // GitHub-style green gradient colors (works in both light and dark modes)
     switch (level) {
-      case 0: return 'bg-[#161b22]'; // No activity - dark gray for dark theme
-      case 1: return 'bg-[#0e4429]'; // 1-2 tests - very dark green
-      case 2: return 'bg-[#006d32]'; // 3-5 tests - dark green
-      case 3: return 'bg-[#26a641]'; // 6-10 tests - medium green
-      case 4: return 'bg-[#39d353]'; // 10+ tests - bright green
-      default: return 'bg-[#161b22]';
+      case 0: return 'bg-[var(--activity-0)]';
+      case 1: return 'bg-[var(--activity-1)]';
+      case 2: return 'bg-[var(--activity-2)]';
+      case 3: return 'bg-[var(--activity-3)]';
+      case 4: return 'bg-[var(--activity-4)]';
+      default: return 'bg-[var(--activity-0)]';
     }
   };
   
@@ -269,15 +268,15 @@ export function ActivityHeatmap({ results }) {
       <div className="flex items-center justify-between mt-4 text-xs text-[var(--text-muted)]">
         <span>Less</span>
         <div className="flex gap-1 items-center">
-          <div className="w-3 h-3 rounded-sm bg-[#161b22]" />
+          <div className="w-3 h-3 rounded-sm bg-[var(--activity-0)]" />
           <span className="text-[10px]">No Activity</span>
-          <div className="w-3 h-3 rounded-sm bg-[#0e4429] ml-2" />
+          <div className="w-3 h-3 rounded-sm bg-[var(--activity-1)] ml-2" />
           <span className="text-[10px]">1-2</span>
-          <div className="w-3 h-3 rounded-sm bg-[#006d32] ml-2" />
+          <div className="w-3 h-3 rounded-sm bg-[var(--activity-2)] ml-2" />
           <span className="text-[10px]">3-5</span>
-          <div className="w-3 h-3 rounded-sm bg-[#26a641] ml-2" />
+          <div className="w-3 h-3 rounded-sm bg-[var(--activity-3)] ml-2" />
           <span className="text-[10px]">6-10</span>
-          <div className="w-3 h-3 rounded-sm bg-[#39d353] ml-2" />
+          <div className="w-3 h-3 rounded-sm bg-[var(--activity-4)] ml-2" />
           <span className="text-[10px]">10+</span>
         </div>
         <span>More</span>

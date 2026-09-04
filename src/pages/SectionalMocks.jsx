@@ -251,7 +251,7 @@ export function SectionalMocks({ startPractice, bookmarks, toggleBookmark, curre
       
       {/* Configure Time Modal */}
       {showConfigModal && configuringTest && (
-        <div className="fixed inset-0 bg-black/60 z-50 flex items-center justify-center p-4">
+        <div className="fixed inset-0 bg-[var(--scrim)] z-50 flex items-center justify-center p-4">
           <Card className="p-6 max-w-md w-full">
             <div className="flex items-center justify-between mb-4">
               <h3 className="text-lg font-bold text-[var(--text-primary)]">Configure Test Time</h3>
@@ -283,7 +283,7 @@ export function SectionalMocks({ startPractice, bookmarks, toggleBookmark, curre
                     onClick={() => setConfigMinutes(preset)}
                     className={`px-3 py-1.5 rounded-md text-xs font-medium transition-colors ${
                       configMinutes === preset 
-                        ? 'bg-red-700 text-white' 
+                        ? 'bg-[var(--accent)] text-white'
                         : 'bg-[var(--elevated-bg)] text-[var(--text-secondary)] hover:bg-[var(--hover-bg)]'
                     }`}
                   >
@@ -296,7 +296,7 @@ export function SectionalMocks({ startPractice, bookmarks, toggleBookmark, curre
               <button onClick={() => setShowConfigModal(false)} className="flex-1 border border-[var(--border-strong)] hover:bg-[var(--hover-bg)] text-[var(--text-primary)] text-sm font-medium rounded-lg px-4 py-2.5">
                 Cancel
               </button>
-              <button onClick={handleSaveTiming} className="flex-1 bg-red-700 hover:bg-red-600 text-white text-sm font-medium rounded-lg px-4 py-2.5">
+              <button onClick={handleSaveTiming} className="flex-1 bg-[var(--accent)] hover:bg-[var(--accent-hover)] text-white text-sm font-medium rounded-lg px-4 py-2.5">
                 Save Configuration
               </button>
             </div>

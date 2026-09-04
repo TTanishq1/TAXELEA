@@ -47,7 +47,7 @@ const MONTHS = [
 
 const WEEKDAYS = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
 
-const LEVEL_COLORS = ["#262b31", "#1e5c2b", "#2f8f3e", "#4fb648", "#c4e435"];
+const LEVEL_COLORS = ["var(--activity-0)", "var(--activity-1)", "var(--activity-2)", "var(--activity-3)", "var(--activity-4)"];
 const LEVEL_LABELS = ["No Activity", "1–2 Tests", "3–5 Tests", "6–10 Tests", "10+ Tests"];
 
 function mulberry32(seed) {
@@ -148,9 +148,9 @@ function StatCard({ icon: Icon, iconColor, iconBg, value, label, sublabel, borde
         <Icon size={18} style={{ color: iconColor }} />
       </div>
       <div>
-        <div className="text-3xl font-bold text-white leading-none">{value}</div>
-        <div className="text-sm text-gray-200 mt-2">{label}</div>
-        <div className="text-xs text-gray-500 mt-0.5">{sublabel}</div>
+        <div className="text-3xl font-bold text-[var(--text-primary)] leading-none">{value}</div>
+        <div className="text-sm text-[var(--text-secondary)] mt-2">{label}</div>
+        <div className="text-xs text-[var(--text-faint)] mt-0.5">{sublabel}</div>
       </div>
     </div>
   );
@@ -162,9 +162,9 @@ function InsightItem({ icon: Icon, color, value, label, sub }) {
       <div className="w-8 h-8 rounded-lg flex items-center justify-center" style={{ background: `${color}20` }}>
         <Icon size={16} style={{ color }} />
       </div>
-      <div className="text-xl font-bold text-white">{value}</div>
-      <div className="text-xs text-gray-400">{label}</div>
-      <div className="text-[10px] text-gray-500">{sub}</div>
+      <div className="text-xl font-bold text-[var(--text-primary)]">{value}</div>
+      <div className="text-xs text-[var(--text-secondary)]">{label}</div>
+      <div className="text-[10px] text-[var(--text-faint)]">{sub}</div>
     </div>
   );
 }
@@ -268,15 +268,15 @@ export default function StreakPage({ currentUser, results }) {
   };
 
   return (
-    <div className="min-h-screen w-full bg-[#0b0d10] text-gray-100 p-8" style={{ fontFamily: "Inter, -apple-system, Segoe UI, sans-serif" }}>
+    <div className="min-h-screen w-full bg-[var(--bg)] text-[var(--text-primary)] p-4 sm:p-8">
       <main className="relative">
         {/* header */}
         <div className="flex items-start justify-between mb-6">
           <div>
-            <h1 className="text-2xl font-bold text-white">Streak</h1>
-            <p className="text-sm text-gray-500 mt-1">Consistency builds mastery. Keep showing up.</p>
+            <h1 className="text-2xl font-bold text-[var(--text-primary)]">Streak</h1>
+            <p className="text-sm text-[var(--text-faint)] mt-1">Consistency builds mastery. Keep showing up.</p>
           </div>
-          <div className="flex items-center gap-1.5 text-xs text-gray-500 mt-1">
+          <div className="flex items-center gap-1.5 text-xs text-[var(--text-faint)] mt-1">
             <Clock size={13} />
             All dates &amp; times are shown in IST (GMT +5:30)
           </div>
@@ -327,31 +327,31 @@ export default function StreakPage({ currentUser, results }) {
         </div>
 
         {/* activity calendar */}
-        <div className="rounded-xl border border-white/10 bg-white/[0.02] p-5 mb-6">
+        <div className="rounded-xl border border-[var(--border)] bg-[var(--card-bg)] p-5 mb-6 shadow-[var(--shadow)]">
           <div className="flex items-center justify-between mb-4 flex-wrap gap-3">
-            <div className="flex items-center gap-1.5 text-white font-semibold text-sm">
+            <div className="flex items-center gap-1.5 text-[var(--text-primary)] font-semibold text-sm">
               Activity Calendar
               <HelpCircle size={13} className="text-gray-500" />
             </div>
             <div className="flex items-center gap-2">
-              <button className="w-7 h-7 rounded-md border border-white/10 flex items-center justify-center text-gray-400 hover:bg-white/5">
+              <button className="w-7 h-7 rounded-md border border-[var(--border)] flex items-center justify-center text-[var(--text-muted)] hover:bg-[var(--hover-bg)]">
                 <ChevronLeft size={14} />
               </button>
-              <button className="flex items-center gap-1 px-3 py-1.5 rounded-md border border-white/10 text-xs text-gray-300 hover:bg-white/5">
+              <button className="flex items-center gap-1 px-3 py-1.5 rounded-md border border-[var(--border)] text-xs text-[var(--text-secondary)] hover:bg-[var(--hover-bg)]">
                 May 2024 – May 2025
                 <ChevronDown size={12} />
               </button>
-              <button className="w-7 h-7 rounded-md border border-white/10 flex items-center justify-center text-gray-400 hover:bg-white/5">
+              <button className="w-7 h-7 rounded-md border border-[var(--border)] flex items-center justify-center text-[var(--text-muted)] hover:bg-[var(--hover-bg)]">
                 <ChevronRight size={14} />
               </button>
-              <button className="px-3 py-1.5 rounded-md border border-white/10 text-xs text-gray-300 hover:bg-white/5">
+              <button className="px-3 py-1.5 rounded-md border border-[var(--border)] text-xs text-[var(--text-secondary)] hover:bg-[var(--hover-bg)]">
                 Today
               </button>
             </div>
           </div>
 
           {/* month labels */}
-          <div className="flex text-[11px] text-gray-500 mb-1 pl-9">
+          <div className="flex text-[11px] text-[var(--text-faint)] mb-1 pl-9">
             {MONTHS.map((m) => (
               <div key={m} style={{ width: `${100 / MONTHS.length}%` }}>
                 {m}
@@ -361,7 +361,7 @@ export default function StreakPage({ currentUser, results }) {
 
           {/* grid */}
           <div className="flex">
-            <div className="flex flex-col justify-between text-[11px] text-gray-500 pr-2 py-0.5" style={{ height: 7 * 15 }}>
+            <div className="flex flex-col justify-between text-[11px] text-[var(--text-faint)] pr-2 py-0.5" style={{ height: 7 * 15 }}>
               {WEEKDAYS.map((d) => (
                 <div key={d} style={{ height: 15, lineHeight: "15px" }}>
                   {d}
@@ -393,7 +393,7 @@ export default function StreakPage({ currentUser, results }) {
           <div className="flex items-center justify-between mt-4 flex-wrap gap-3">
             <div className="flex items-center gap-4 flex-wrap">
               {LEVEL_LABELS.map((label, i) => (
-                <div key={label} className="flex items-center gap-1.5 text-xs text-gray-400">
+                <div key={label} className="flex items-center gap-1.5 text-xs text-[var(--text-secondary)]">
                   <div
                     className="rounded-[3px]"
                     style={{ width: 12, height: 12, background: LEVEL_COLORS[i] }}
@@ -402,16 +402,16 @@ export default function StreakPage({ currentUser, results }) {
                 </div>
               ))}
             </div>
-            <div className="text-xs text-gray-500">365 days total</div>
+            <div className="text-xs text-[var(--text-faint)]">365 days total</div>
           </div>
-          <div className="text-xs text-gray-500 mt-3">Hover on a day to see details.</div>
+          <div className="text-xs text-[var(--text-faint)] mt-3">Hover on a day to see details.</div>
         </div>
 
         {/* streak insights + settings/danger zone (left col) & about (right col) */}
         <div className="grid grid-cols-3 gap-6">
           <div className="col-span-2 flex flex-col gap-6">
-            <div className="rounded-xl border border-white/10 bg-white/[0.02] p-5">
-              <div className="text-white font-semibold text-sm mb-5">Streak Insights</div>
+            <div className="rounded-xl border border-[var(--border)] bg-[var(--card-bg)] p-5 shadow-[var(--shadow)]">
+              <div className="text-[var(--text-primary)] font-semibold text-sm mb-5">Streak Insights</div>
               <div className="grid grid-cols-5 gap-4 text-center">
                 <InsightItem icon={Flame} color="#f87171" value={streakData.current} label="Current Streak" sub="Keep it up!" />
                 <InsightItem icon={TrophyIcon} color="#c084fc" value={streakData.longest} label="Longest Streak" sub="Your best so far" />
@@ -419,22 +419,22 @@ export default function StreakPage({ currentUser, results }) {
                 <InsightItem icon={Target} color="#4ade80" value={streakData.thisMonthTests} label="Tests Completed" sub="This Month" />
                 <InsightItem icon={TrendingUp} color="#fb923c" value={`${streakData.consistency}%`} label="Consistency" sub={streakData.consistency >= 70 ? "Great job!" : "Keep going!"} />
               </div>
-              <div className="mt-5 flex items-center gap-2 rounded-lg border border-emerald-500/25 bg-emerald-500/10 px-4 py-3 text-sm text-emerald-300">
-                <CheckCircle2 size={16} className="text-emerald-400 shrink-0" />
+              <div className="mt-5 flex items-center gap-2 rounded-lg border border-[var(--ok-border)] bg-[var(--ok-bg)] px-4 py-3 text-sm text-[var(--ok-text)]">
+                <CheckCircle2 size={16} className="text-[var(--ok-text)] shrink-0" />
                 Great job! You are more consistent than {streakData.consistency}% of TAXELEA users.
               </div>
             </div>
 
-            <div className="rounded-xl border border-white/10 bg-white/[0.02] p-5">
+            <div className="rounded-xl border border-[var(--border)] bg-[var(--card-bg)] p-5 shadow-[var(--shadow)]">
               <div className="grid grid-cols-2 gap-6">
                 <div>
-                  <div className="text-white font-semibold text-sm mb-4">Settings</div>
+                  <div className="text-[var(--text-primary)] font-semibold text-sm mb-4">Settings</div>
                   <div className="flex flex-col gap-1">
                     {SETTINGS_ITEMS.map(({ label, icon: Icon, active }) => (
                       <button
                         key={label}
                         className={`flex items-center gap-2.5 px-2.5 py-2 rounded-lg text-sm text-left ${
-                          active ? "text-red-400 bg-red-500/10" : "text-gray-400 hover:bg-white/5 hover:text-gray-200"
+                          active ? "text-[var(--danger-text)] bg-[var(--danger-bg)]" : "text-[var(--text-secondary)] hover:bg-[var(--hover-bg)] hover:text-[var(--text-primary)]"
                         }`}
                       >
                         <Icon size={15} />
@@ -444,13 +444,13 @@ export default function StreakPage({ currentUser, results }) {
                   </div>
                 </div>
                 <div>
-                  <div className="text-red-400 font-semibold text-sm mb-1">Danger Zone</div>
-                  <p className="text-xs text-gray-500 mb-4">
+                  <div className="text-[var(--danger-text)] font-semibold text-sm mb-1">Danger Zone</div>
+                  <p className="text-xs text-[var(--text-faint)] mb-4">
                     Permanently delete all your data and reset your TAXELEA account.
                   </p>
                   <button
                     onClick={() => setShowModal(true)}
-                    className="flex items-center gap-2 px-4 py-2 rounded-lg border border-red-500/40 bg-red-500/10 text-red-400 text-sm font-medium hover:bg-red-500/20"
+                    className="flex items-center gap-2 px-4 py-2 rounded-lg border border-[var(--danger-border)] bg-[var(--danger-bg)] text-[var(--danger-text)] text-sm font-medium hover:bg-[var(--accent-soft-bg)]"
                   >
                     <Trash2 size={14} />
                     Clear All Stats
@@ -461,9 +461,9 @@ export default function StreakPage({ currentUser, results }) {
           </div>
 
           <div className="flex flex-col gap-6">
-            <div className="rounded-xl border border-white/10 bg-white/[0.02] p-5">
-              <div className="text-white font-semibold text-sm mb-3">About Streak</div>
-              <ul className="text-xs text-gray-400 leading-relaxed list-disc pl-4 space-y-2">
+            <div className="rounded-xl border border-[var(--border)] bg-[var(--card-bg)] p-5 shadow-[var(--shadow)]">
+              <div className="text-[var(--text-primary)] font-semibold text-sm mb-3">About Streak</div>
+              <ul className="text-xs text-[var(--text-secondary)] leading-relaxed list-disc pl-4 space-y-2">
                 <li>
                   A day is marked as Active if you completed any test OR attempted any test OR
                   practiced any question.
@@ -471,9 +471,9 @@ export default function StreakPage({ currentUser, results }) {
                 <li>Streak is calculated based on consecutive active days.</li>
               </ul>
             </div>
-            <div className="rounded-xl border border-white/10 bg-white/[0.02] p-5">
-              <div className="text-white font-semibold text-sm mb-3">Need Motivation?</div>
-              <p className="text-xs text-gray-400 leading-relaxed">
+            <div className="rounded-xl border border-[var(--border)] bg-[var(--card-bg)] p-5 shadow-[var(--shadow)]">
+              <div className="text-[var(--text-primary)] font-semibold text-sm mb-3">Need Motivation?</div>
+              <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
                 Every day you show up, you are becoming a better problem solver. Consistency
                 today, mastery tomorrow. 🚀
               </p>
@@ -484,7 +484,7 @@ export default function StreakPage({ currentUser, results }) {
         {/* tooltip */}
         {tooltip && (
           <div
-            className="fixed z-40 -translate-x-1/2 -translate-y-full px-2.5 py-1.5 rounded-md bg-gray-800 text-[11px] text-gray-100 shadow-lg pointer-events-none"
+            className="fixed z-40 -translate-x-1/2 -translate-y-full px-2.5 py-1.5 rounded-md bg-[var(--elevated-bg)] border border-[var(--border)] text-[11px] text-[var(--text-primary)] shadow-lg pointer-events-none"
             style={{ left: tooltip.x, top: tooltip.y - 8 }}
           >
             {tooltip.text}
@@ -493,11 +493,11 @@ export default function StreakPage({ currentUser, results }) {
 
         {/* Clear All Stats modal */}
         {showModal && (
-          <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm">
-            <div className="w-[420px] rounded-2xl border border-white/10 bg-[#111418] p-6 relative shadow-2xl">
+          <div className="fixed inset-0 z-50 flex items-center justify-center bg-[var(--scrim)] backdrop-blur-sm">
+            <div className="w-[min(420px,calc(100vw-2rem))] rounded-2xl border border-[var(--border)] bg-[var(--card-bg)] p-6 relative shadow-2xl">
               <button
                 onClick={() => setShowModal(false)}
-                className="absolute top-4 right-4 text-gray-500 hover:text-gray-300"
+                className="absolute top-4 right-4 text-[var(--text-faint)] hover:text-[var(--text-primary)]"
               >
                 <X size={16} />
               </button>
@@ -506,32 +506,32 @@ export default function StreakPage({ currentUser, results }) {
                 <div className="w-12 h-12 rounded-full bg-red-500/10 flex items-center justify-center mb-3">
                   <AlertTriangle size={22} className="text-red-500" />
                 </div>
-                <div className="text-white font-semibold text-base mb-2">Clear All Stats?</div>
-                <p className="text-xs text-gray-400 leading-relaxed mb-1">
+                <div className="text-[var(--text-primary)] font-semibold text-base mb-2">Clear All Stats?</div>
+                <p className="text-xs text-[var(--text-secondary)] leading-relaxed mb-1">
                   This will permanently delete all your data and reset your TAXELEA account.
                 </p>
-                <p className="text-xs text-gray-500 mb-4">This action cannot be undone.</p>
+                <p className="text-xs text-[var(--text-faint)] mb-4">This action cannot be undone.</p>
               </div>
 
-              <div className="text-xs text-gray-400 mb-2">This will reset:</div>
-              <div className="grid grid-cols-2 gap-y-1.5 text-xs text-gray-400 mb-6">
+              <div className="text-xs text-[var(--text-secondary)] mb-2">This will reset:</div>
+              <div className="grid grid-cols-2 gap-y-1.5 text-xs text-[var(--text-secondary)] mb-6">
                 <div className="flex items-center gap-1.5">
-                  <span className="w-1 h-1 rounded-full bg-gray-500" /> Streak &amp; Activity
+                  <span className="w-1 h-1 rounded-full bg-[var(--text-faint)]" /> Streak &amp; Activity
                 </div>
                 <div className="flex items-center gap-1.5">
-                  <span className="w-1 h-1 rounded-full bg-gray-500" /> Bookmarks
+                  <span className="w-1 h-1 rounded-full bg-[var(--text-faint)]" /> Bookmarks
                 </div>
                 <div className="flex items-center gap-1.5">
-                  <span className="w-1 h-1 rounded-full bg-gray-500" /> Test History
+                  <span className="w-1 h-1 rounded-full bg-[var(--text-faint)]" /> Test History
                 </div>
                 <div className="flex items-center gap-1.5">
-                  <span className="w-1 h-1 rounded-full bg-gray-500" /> Pomodoro Progress
+                  <span className="w-1 h-1 rounded-full bg-[var(--text-faint)]" /> Pomodoro Progress
                 </div>
                 <div className="flex items-center gap-1.5">
-                  <span className="w-1 h-1 rounded-full bg-gray-500" /> Performance
+                  <span className="w-1 h-1 rounded-full bg-[var(--text-faint)]" /> Performance
                 </div>
                 <div className="flex items-center gap-1.5">
-                  <span className="w-1 h-1 rounded-full bg-gray-500" /> All Reports &amp; Analytics
+                  <span className="w-1 h-1 rounded-full bg-[var(--text-faint)]" /> All Reports &amp; Analytics
                 </div>
               </div>
 
@@ -539,14 +539,14 @@ export default function StreakPage({ currentUser, results }) {
                 <button
                   onClick={() => setShowModal(false)}
                   disabled={clearing}
-                  className="flex-1 py-2.5 rounded-lg border border-white/15 text-gray-200 text-sm font-medium hover:bg-white/5 disabled:opacity-50 disabled:cursor-not-allowed"
+                  className="flex-1 py-2.5 rounded-lg border border-[var(--border-strong)] text-[var(--text-primary)] text-sm font-medium hover:bg-[var(--hover-bg)] disabled:opacity-50 disabled:cursor-not-allowed"
                 >
                   Cancel
                 </button>
                 <button
                   onClick={handleClearAll}
                   disabled={clearing}
-                  className="flex-1 py-2.5 rounded-lg bg-red-600 text-white text-sm font-medium hover:bg-red-500 disabled:opacity-50 disabled:cursor-not-allowed"
+                  className="flex-1 py-2.5 rounded-lg bg-[var(--accent)] text-white text-sm font-medium hover:bg-[var(--accent-hover)] disabled:opacity-50 disabled:cursor-not-allowed"
                 >
                   {clearing ? 'Clearing...' : 'Yes, Clear Everything'}
                 </button>

@@ -29,6 +29,11 @@ export const THEMES = {
     "--success-bg": "rgba(16, 185, 129, 0.2)",
     "--success-border": "rgba(16, 185, 129, 0.4)",
     "--scrim": "rgba(0, 0, 0, 0.7)",
+    "--activity-0": "#25292E",
+    "--activity-1": "#14532D",
+    "--activity-2": "#15803D",
+    "--activity-3": "#22C55E",
+    "--activity-4": "#86EFAC",
   },
   light: {
     "--bg": "#F5F6F8",
@@ -60,5 +65,10 @@ export const THEMES = {
     "--success-bg": "rgba(16, 185, 129, 0.15)",
     "--success-border": "rgba(16, 185, 129, 0.3)",
     "--scrim": "rgba(17, 25, 35, 0.46)",
+    "--activity-0": "#E5E7EB",
+    "--activity-1": "#BBF7D0",
+    "--activity-2": "#86EFAC",
+    "--activity-3": "#4ADE80",
+    "--activity-4": "#16A34A",
   },
 };

@@ -121,7 +121,7 @@ export function FullTestSeries({ startPractice }) {
                   disabled={!timingConfig[card.id]}
                   className={`flex items-center gap-1.5 text-white text-xs font-medium rounded-lg px-3.5 py-2 ${
                     timingConfig[card.id]
-                      ? 'bg-red-700 hover:bg-red-600'
+                      ? 'bg-[var(--accent)] hover:bg-[var(--accent-hover)]'
                       : 'bg-gray-600 cursor-not-allowed'
                   }`}
                 >
@@ -139,7 +139,7 @@ export function FullTestSeries({ startPractice }) {
 
       {/* Configure Time modal — unchanged from original */}
       {showConfigModal && configuringTest && (
-        <div className="fixed inset-0 bg-black/60 z-50 flex items-center justify-center p-4">
+        <div className="fixed inset-0 bg-[var(--scrim)] z-50 flex items-center justify-center p-4">
           <Card className="w-full max-w-sm p-5">
             <div className="flex items-center justify-between mb-4">
               <h3 className="text-lg font-bold text-[var(--text-primary)]">Configure Test Time</h3>
@@ -164,7 +164,7 @@ export function FullTestSeries({ startPractice }) {
                   key={preset}
                   onClick={() => setConfigMinutes(preset)}
                   className={`px-3 py-1.5 rounded-md text-xs font-medium ${
-                    configMinutes === preset ? 'bg-red-700 text-white' : 'bg-[var(--elevated-bg)] text-[var(--text-secondary)]'
+                    configMinutes === preset ? 'bg-[var(--accent)] text-white' : 'bg-[var(--elevated-bg)] text-[var(--text-secondary)]'
                   }`}
                 >
                   {preset}
@@ -176,7 +176,7 @@ export function FullTestSeries({ startPractice }) {
               <button onClick={() => setShowConfigModal(false)} className="flex-1 border border-[var(--border-strong)] hover:bg-[var(--hover-bg)] text-[var(--text-primary)] text-sm font-medium rounded-lg px-4 py-2.5">
                 Cancel
               </button>
-              <button onClick={handleSaveTiming} className="flex-1 bg-red-700 hover:bg-red-600 text-white text-sm font-medium rounded-lg px-4 py-2.5">
+              <button onClick={handleSaveTiming} className="flex-1 bg-[var(--accent)] hover:bg-[var(--accent-hover)] text-white text-sm font-medium rounded-lg px-4 py-2.5">
                 Save
               </button>
             </div>

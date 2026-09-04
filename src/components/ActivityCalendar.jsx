@@ -64,10 +64,10 @@ export function ActivityCalendar({ results }) {
   };
 
   const getActivityColor = (count) => {
-    if (count === 0) return 'bg-gray-800';
-    if (count === 1) return 'bg-green-900/40';
-    if (count === 2) return 'bg-green-700/60';
-    return 'bg-green-500';
+    if (count === 0) return 'bg-[var(--activity-0)]';
+    if (count === 1) return 'bg-[var(--activity-1)]';
+    if (count === 2) return 'bg-[var(--activity-2)]';
+    return 'bg-[var(--activity-3)]';
   };
 
   return (
@@ -133,15 +133,15 @@ export function ActivityCalendar({ results }) {
           <span>No Activity</span>
         </div>
         <div className="flex items-center gap-1.5 text-[8px] text-[var(--text-muted)]">
-          <div className="w-2 h-2 rounded bg-green-900/40"></div>
+          <div className="w-2 h-2 rounded bg-[var(--activity-1)]"></div>
           <span>Low</span>
         </div>
         <div className="flex items-center gap-1.5 text-[8px] text-[var(--text-muted)]">
-          <div className="w-2 h-2 rounded bg-green-700/60"></div>
+          <div className="w-2 h-2 rounded bg-[var(--activity-2)]"></div>
           <span>Moderate</span>
         </div>
         <div className="flex items-center gap-1.5 text-[8px] text-[var(--text-muted)]">
-          <div className="w-2 h-2 rounded bg-green-500"></div>
+          <div className="w-2 h-2 rounded bg-[var(--activity-3)]"></div>
           <span>High</span>
         </div>
       </div>
