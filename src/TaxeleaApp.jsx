@@ -52,7 +52,7 @@ function LoadingScreen({ visible, onFadeComplete }) {
 
   return (
     <div 
-      className="fixed inset-0 z-[9999] flex items-center justify-center bg-black"
+    className="fixed inset-0 z-[9999] flex items-center justify-center bg-[var(--bg)]"
       style={{ 
         opacity,
         transition: 'opacity 0.5s ease-out',
@@ -76,12 +76,12 @@ function LoadingScreen({ visible, onFadeComplete }) {
             <source src="/assets/loading-logo.mp4" type="video/mp4" />
           </video>
         ) : (
-          <div className="w-[200px] h-[200px] flex items-center justify-center">
-            <div className="text-white text-4xl">⏳</div>
+            <div className="w-[200px] h-[200px] flex items-center justify-center">
+            <div className="text-[var(--accent)] text-4xl" aria-hidden="true">...</div>
           </div>
         )}
         <div 
-          className="mt-4 text-white text-lg font-medium"
+          className="mt-4 text-[var(--text-primary)] text-lg font-medium"
           style={{
             animation: 'pulse 1.5s ease-in-out infinite'
           }}
@@ -448,9 +448,10 @@ function AppContent({ onAppLoaded }) {
         <Header onMenuClick={() => setMobileNavOpen(true)} onLogout={handleLogout} currentUser={currentUser} />
         <div className="flex-1 overflow-y-auto overflow-x-hidden">
         {isInitialLoad ? (
-          <div className="p-10 text-[var(--text-faint)] text-sm">Loading your progress…</div>
+          <div className="p-10 text-[var(--text-faint)] text-sm">Loading your progress...</div>
         ) : (
-          <Routes key={locationKey}>
+          <div key={locationKey} className="route-content">
+          <Routes>
             <Route path="/" element={<Dashboard setPage={navigateToPage} startPractice={startPractice} results={results} stats={stats} inProgressTest={inProgressTest} currentUser={currentUser} onAuthSuccess={handleAuthSuccess} isFirstTimeSetup={isFirstTimeSetup} />} />
             <Route path="/dashboard" element={<Dashboard setPage={navigateToPage} startPractice={startPractice} results={results} stats={stats} inProgressTest={inProgressTest} currentUser={currentUser} onAuthSuccess={handleAuthSuccess} isFirstTimeSetup={isFirstTimeSetup} />} />
             <Route path="/sectional" element={<ProtectedRoute currentUser={currentUser}><SectionalMocks startPractice={startPractice} bookmarks={bookmarks.map(b=>b.key)} toggleBookmark={toggleBookmark} currentUser={currentUser} /></ProtectedRoute>} />
@@ -465,6 +466,7 @@ function AppContent({ onAppLoaded }) {
             <Route path="/settings" element={<ProtectedRoute currentUser={currentUser}><SettingsPage currentUser={currentUser} onLogout={handleLogout} /></ProtectedRoute>} />
             <Route path="*" element={<Dashboard setPage={navigateToPage} startPractice={startPractice} results={results} stats={stats} inProgressTest={inProgressTest} currentUser={currentUser} onAuthSuccess={handleAuthSuccess} isFirstTimeSetup={isFirstTimeSetup} />} />
           </Routes>
+          </div>
         )}
         </div>
       </div>
@@ -473,7 +475,14 @@ function AppContent({ onAppLoaded }) {
 }
 
 export default function TaxeleaApp() {
-  const [theme, setTheme] = useState("dark");
+  const [theme, setTheme] = useState(() => {
+    try {
+      const savedTheme = localStorage.getItem("taxelea:theme");
+      return savedTheme && THEMES[savedTheme] ? savedTheme : "dark";
+    } catch (_error) {
+      return "dark";
+    }
+  });
   const [isLoading, setIsLoading] = useState(false); // Disabled for now to fix white screen
   
   const toggleTheme = useCallback(() => {
@@ -511,8 +520,9 @@ export default function TaxeleaApp() {
           onFadeComplete={handleLoadingComplete}
         />
         <div
-          className="w-full h-screen flex text-[var(--text-primary)] overflow-hidden relative"
-          style={{ fontFamily: "Inter, system-ui, sans-serif", backgroundColor: themeVars["--bg"], ...themeVars }}
+          data-theme={theme}
+          className="w-full h-screen flex text-[var(--text-primary)] overflow-hidden relative transition-colors duration-200 motion-reduce:transition-none"
+          style={{ backgroundColor: themeVars["--bg"], ...themeVars }}
         >
           <AppContent onAppLoaded={() => setIsLoading(false)} />
         </div>

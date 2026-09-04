@@ -5,7 +5,7 @@ export function Header({ onMenuClick, onLogout, currentUser }) {
   const { theme, toggleTheme } = useTheme();
   return (
     <div className="h-[60px] sm:h-[68px] shrink-0 border-b border-[var(--border)] flex items-center justify-between px-3 sm:px-6 gap-2 sm:gap-4">
-      <button onClick={onMenuClick} className="lg:hidden w-9 h-9 shrink-0 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-secondary)]">
+      <button onClick={onMenuClick} aria-label="Open navigation" className="lg:hidden w-9 h-9 shrink-0 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-secondary)]">
         <Menu size={19} />
       </button>
       <button className="hidden sm:flex items-center gap-2 bg-[var(--card-bg)] border border-[var(--border-strong)] rounded-lg px-3.5 py-2 text-sm text-[var(--text-secondary)] shrink-0">
@@ -29,11 +29,11 @@ export function Header({ onMenuClick, onLogout, currentUser }) {
         </button>
         <button className="relative w-9 h-9 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-secondary)] disabled:opacity-50" disabled={!currentUser}>
           <Bell size={17} />
-          <span className="absolute -top-1 -right-1 bg-red-600 text-[10px] w-4 h-4 rounded-full flex items-center justify-center text-white font-medium">3</span>
+          <span className="absolute -top-1 -right-1 bg-[var(--accent)] text-[10px] w-4 h-4 rounded-full flex items-center justify-center text-white font-medium">3</span>
         </button>
         {currentUser ? (
           <div className="flex items-center gap-2.5">
-            <div className="w-9 h-9 rounded-full bg-red-700 flex items-center justify-center text-white text-sm font-semibold shrink-0">
+            <div className="w-9 h-9 rounded-full bg-[var(--accent)] flex items-center justify-center text-white text-sm font-semibold shrink-0">
               {currentUser?.user_metadata?.name?.charAt(0).toUpperCase() || currentUser?.email?.charAt(0).toUpperCase() || 'U'}
             </div>
             <div className="leading-tight hidden md:block">
@@ -43,7 +43,7 @@ export function Header({ onMenuClick, onLogout, currentUser }) {
             <button
               onClick={onLogout}
               title="Logout"
-              className="w-9 h-9 flex items-center justify-center rounded-lg hover:bg-red-900/30 text-red-500 transition-colors"
+              className="w-9 h-9 flex items-center justify-center rounded-lg hover:bg-[var(--danger-bg)] text-[var(--danger-text)] transition-colors"
             >
               <LogOut size={17} />
             </button>

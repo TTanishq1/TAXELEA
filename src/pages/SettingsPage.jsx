@@ -71,30 +71,30 @@ export function SettingsPage({ currentUser, onLogout }) {
         </div>
         
         <div className="flex items-center gap-4 mb-4">
-          <div className="w-16 h-16 rounded-full bg-red-700 flex items-center justify-center text-white text-2xl font-semibold">
+          <div className="w-16 h-16 rounded-full bg-[var(--accent)] flex items-center justify-center text-white text-2xl font-semibold">
             {currentUser?.name?.charAt(0).toUpperCase() || currentUser?.username?.charAt(0).toUpperCase() || 'O'}
           </div>
           <div>
-            <div className="text-lg text-white font-semibold">{currentUser?.name || currentUser?.username || 'User'}</div>
-            <div className="text-sm text-gray-400">{currentUser?.email || 'user@taxelea.local'}</div>
+            <div className="text-lg text-[var(--text-primary)] font-semibold">{currentUser?.name || currentUser?.username || 'User'}</div>
+            <div className="text-sm text-[var(--text-secondary)]">{currentUser?.email || 'user@taxelea.local'}</div>
           </div>
         </div>
         
-        <div className="grid grid-cols-2 gap-4 pt-4 border-t border-gray-700">
+        <div className="grid grid-cols-2 gap-4 pt-4 border-t border-[var(--border)]">
           <div className="flex items-center gap-2">
-            <Calendar size={16} className="text-gray-400" />
+            <Calendar size={16} className="text-[var(--text-muted)]" />
             <div>
-              <div className="text-xs text-gray-400">Member Since</div>
-              <div className="text-sm text-white">
+              <div className="text-xs text-[var(--text-muted)]">Member Since</div>
+              <div className="text-sm text-[var(--text-primary)]">
                 {currentUser?.createdAt ? formatISTDate(currentUser.createdAt, { month: 'short', year: 'numeric' }) : 'N/A'}
               </div>
             </div>
           </div>
           <div className="flex items-center gap-2">
-            <User size={16} className="text-gray-400" />
+            <User size={16} className="text-[var(--text-muted)]" />
             <div>
-              <div className="text-xs text-gray-400">Account Type</div>
-              <div className="text-sm text-white">Premium</div>
+              <div className="text-xs text-[var(--text-muted)]">Account Type</div>
+              <div className="text-sm text-[var(--text-primary)]">Premium</div>
             </div>
           </div>
         </div>

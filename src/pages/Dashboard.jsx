@@ -55,19 +55,6 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
   const [showPassword, setShowPassword] = useState(false);
   const [authError, setAuthError] = useState('');
   const [authLoading, setAuthLoading] = useState(false);
-  const audioRef = React.useRef(null);
-
-  // Play music effect when dashboard loads
-  React.useEffect(() => {
-    if (currentUser) {
-      // Try to play the video with audio
-      const video = document.querySelector('video');
-      if (video) {
-        video.volume = 0.3;
-        video.play().catch(err => console.log('Video play failed:', err));
-      }
-    }
-  }, [currentUser]);
 
   const streakData = useMemo(() => {
     if (!currentUser || results.length === 0) return { current: 0, longest: 0 };
@@ -203,19 +190,19 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
 
   if (!currentUser) {
     return (
-      <div className="min-h-screen bg-[#0a0a0c] flex items-center justify-center p-4" style={{ fontFamily: "'Segoe UI', Inter, system-ui, -apple-system, sans-serif" }}>
-        <div className="w-full max-w-md bg-[#131317] border border-[#242429] rounded-[14px] p-8">
+      <div className="min-h-screen bg-[var(--bg)] flex items-center justify-center p-4">
+        <div className="w-full max-w-md bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-8 shadow-[var(--shadow)]">
           <div className="text-center mb-8">
-            <h1 className="text-2xl font-bold text-[#f2f2f3] mb-2">
+            <h1 className="text-2xl font-bold text-[var(--text-primary)] mb-2">
               {isFirstTimeSetup ? 'Welcome to TAXELEA!' : 'Welcome Back!'}
             </h1>
-            <p className="text-[#9a9aa2] text-sm">
+            <p className="text-[var(--text-secondary)] text-sm">
               {isFirstTimeSetup ? 'Create your account to get started' : 'Enter your credentials to continue'}
             </p>
           </div>
 
           {authError && (
-            <div className="mb-4 p-3 bg-[#2a0e10] border border-[#3a1418] rounded-lg text-[#e0313b] text-sm">
+            <div className="mb-4 p-3 bg-[var(--danger-bg)] border border-[var(--danger-border)] rounded-lg text-[var(--danger-text)] text-sm">
               {authError}
             </div>
           )}
@@ -232,7 +219,7 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
                     placeholder="Choose a username"
                     required
                     minLength={3}
-                    className="w-full px-4 py-3 bg-[#1a1a20] border border-[#242429] rounded-lg text-[#f2f2f3] placeholder-[#5c5c64] outline-none focus:border-[#e0313b]"
+                    className="w-full px-4 py-3 bg-[var(--input-bg)] border border-[var(--border-strong)] rounded-lg text-[var(--text-primary)] placeholder:text-[var(--text-faint)] outline-none focus:border-[var(--accent)]"
                   />
                 </div>
                 <p className="text-xs text-[#5c5c64] mt-1">Minimum 3 characters</p>
@@ -249,7 +236,7 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
                     placeholder="Enter your username"
                     required
                     minLength={3}
-                    className="w-full px-4 py-3 bg-[#1a1a20] border border-[#242429] rounded-lg text-[#f2f2f3] placeholder-[#5c5c64] outline-none focus:border-[#e0313b]"
+                    className="w-full px-4 py-3 bg-[var(--input-bg)] border border-[var(--border-strong)] rounded-lg text-[var(--text-primary)] placeholder:text-[var(--text-faint)] outline-none focus:border-[var(--accent)]"
                   />
                 </div>
               </div>
@@ -265,7 +252,7 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
                     placeholder="Your display name"
                     required
                     minLength={2}
-                    className="w-full px-4 py-3 bg-[#1a1a20] border border-[#242429] rounded-lg text-[#f2f2f3] placeholder-[#5c5c64] outline-none focus:border-[#e0313b]"
+                    className="w-full px-4 py-3 bg-[var(--input-bg)] border border-[var(--border-strong)] rounded-lg text-[var(--text-primary)] placeholder:text-[var(--text-faint)] outline-none focus:border-[var(--accent)]"
                   />
                 </div>
                 <p className="text-xs text-[#5c5c64] mt-1">This name will be shown on the leaderboard</p>
@@ -281,7 +268,7 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
                   placeholder={isFirstTimeSetup ? 'Create a password' : 'Enter your password'}
                   required
                   minLength={4}
-                  className="w-full px-4 py-3 bg-[#1a1a20] border border-[#242429] rounded-lg text-[#f2f2f3] placeholder-[#5c5c64] outline-none focus:border-[#e0313b]"
+                  className="w-full px-4 py-3 bg-[var(--input-bg)] border border-[var(--border-strong)] rounded-lg text-[var(--text-primary)] placeholder:text-[var(--text-faint)] outline-none focus:border-[var(--accent)]"
                 />
                 <button
                   type="button"
@@ -299,7 +286,7 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
             <button
               type="submit"
               disabled={authLoading}
-              className="w-full flex items-center justify-center gap-2 bg-[#e0313b] hover:bg-[#c92b33] disabled:bg-[#7a1c22] disabled:cursor-not-allowed text-white font-medium rounded-lg py-3 transition-colors"
+              className="w-full flex items-center justify-center gap-2 bg-[var(--accent)] hover:bg-[var(--accent-hover)] disabled:bg-[var(--danger-border)] disabled:cursor-not-allowed text-white font-medium rounded-lg py-3 transition-colors"
             >
               {authLoading ? 'Processing...' : (isFirstTimeSetup ? 'Set Up Account' : 'Login')}
               {!authLoading && <ArrowRight size={18} />}
@@ -313,7 +300,7 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
   const userResults = currentUser ? results.filter(r => r.userId === currentUser.id) : [];
 
   return (
-    <div className="min-h-screen bg-[#0a0a0c] text-[#f2f2f3] p-6" style={{ fontFamily: "'Segoe UI', Inter, system-ui, -apple-system, sans-serif" }}>
+    <div className="min-h-screen bg-[var(--bg)] text-[var(--text-primary)] p-4 sm:p-6 transition-colors duration-200 motion-reduce:transition-none" style={{ fontFamily: "'Segoe UI', Inter, system-ui, -apple-system, sans-serif" }}>
       <style>{`
         @keyframes float-note {
           0% { opacity: 0; transform: translateY(0) rotate(0deg); }
@@ -324,22 +311,23 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
       `}</style>
       {/* Hero Section with Animation */}
       <div className="flex gap-4.5 mb-4.5">
-        <div className="flex-1 bg-[#131317] border border-[#242429] rounded-[14px] p-6 lg:p-[26px_30px] flex items-center justify-between relative overflow-hidden">
+        <div className="flex-1 bg-[var(--card-bg)] border border-[var(--border)] shadow-[var(--shadow)] rounded-[14px] p-6 lg:p-[26px_30px] flex items-center justify-between relative overflow-hidden transition-colors duration-200">
           <div>
             <h1 className="text-[26px] font-bold flex items-center gap-2.5">
               Good Evening, {currentUser?.name || 'Owner'}! <span className="inline-block animate-bounce">👋</span>
             </h1>
-            <p className="text-[#9a9aa2] text-[13.5px] mt-1.5">Stay consistent. Every question counts.</p>
+            <p className="text-[var(--text-secondary)] text-[13.5px] mt-1.5">Stay consistent. Every question counts.</p>
           </div>
-          <div className="relative w-24 h-24 lg:w-30 lg:h-30 shrink-0">
-            <div className="absolute inset-0 rounded-full border-2 border-[#e0313b] animate-pulse" style={{ boxShadow: '0 0 22px rgba(224,49,59,0.35)' }} />
+          <div className="relative w-24 h-24 lg:w-30 lg:h-30 shrink-0 rounded-full bg-[var(--elevated-bg)] overflow-hidden ring-1 ring-[var(--accent-soft-border)]">
             <video
-              ref={audioRef}
-              src="/assets/loading-logo.mp4"
+              src="/assets/hero.mp4"
               autoPlay
               loop
+              muted
               playsInline
-              className="absolute inset-2 rounded-full object-cover w-[calc(100%-16px)] h-[calc(100%-16px)]"
+              preload="metadata"
+              aria-label="TAXELEA mascot"
+              className="block w-full h-full object-cover"
             />
           </div>
         </div>
@@ -347,7 +335,7 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
 
       {/* Subject Performance + Recent Tests */}
       <div className="flex gap-4.5 mb-4.5">
-        <div className="flex-1 bg-[#131317] border border-[#242429] rounded-[14px] p-5 lg:p-[22px_24px]">
+        <div className="flex-1 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-5 lg:p-[22px_24px] shadow-[var(--shadow)]">
           <div className="flex items-center justify-between mb-4.5">
             <h3 className="text-[15px] font-bold flex items-center gap-1.5">
               Subject Performance <Info size={14} className="text-[#5c5c64]" />
@@ -374,7 +362,7 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
           <div className="text-[11px] text-[#5c5c64] mt-4">Based on completed tests</div>
         </div>
 
-        <div className="flex-1 bg-[#131317] border border-[#242429] rounded-[14px] p-5 lg:p-[22px_24px]">
+        <div className="flex-1 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-5 lg:p-[22px_24px] shadow-[var(--shadow)]">
           <div className="flex items-center justify-between mb-4.5">
             <h3 className="text-[15px] font-bold">Recent Tests</h3>
             <button 
@@ -416,7 +404,7 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
       {/* Stat Cards */}
       <div className="flex gap-4.5 mb-4.5">
         {statCards.map((s) => (
-          <div key={s.label} className="flex-1 bg-[#131317] border border-[#242429] rounded-[14px] p-4 lg:p-[18px_20px]">
+          <div key={s.label} className="flex-1 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-4 lg:p-[18px_20px] shadow-[var(--shadow)]">
             <div className="text-[12px] text-[#9a9aa2] mb-3.5">{s.label}</div>
             <div className="flex items-center gap-2.5 mb-2.5">
               <div className="w-7 h-7 rounded-lg flex items-center justify-center" style={{ background: `${s.color}24` }}>
@@ -427,12 +415,12 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
             <div className="text-[10.5px]" style={{ color: s.color }}>{s.caption}</div>
           </div>
         ))}
-        <div className="flex-1 bg-[#131317] border border-[#242429] rounded-[14px] p-4 lg:p-[18px_20px] flex flex-col items-center justify-center">
+        <div className="flex-1 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-4 lg:p-[18px_20px] flex flex-col items-center justify-center shadow-[var(--shadow)]">
           <div className="text-[12px] text-[#9a9aa2] self-start mb-2">Accuracy</div>
           <RingChart value={stats.accuracy} />
           <div className="text-[10.5px] text-[#3b82f6] mt-2.5 text-center">Overall accuracy</div>
         </div>
-        <div className="flex-1 bg-[#131317] border border-[#242429] rounded-[14px] p-4 lg:p-[18px_20px]">
+        <div className="flex-1 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-4 lg:p-[18px_20px] shadow-[var(--shadow)]">
           <div className="text-[12px] text-[#9a9aa2] mb-3.5">Best Streak</div>
           <div className="flex items-center gap-2.5 mb-2.5">
             <div className="w-7 h-7 rounded-lg flex items-center justify-center" style={{ background: 'rgba(230,185,58,0.14)' }}>
