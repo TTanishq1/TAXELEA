@@ -21,11 +21,11 @@ function DonutChart({ value = 0, size = 130, strokeWidth = 16 }) {
 
   return (
     <svg width={size} height={size} viewBox="0 0 130 130">
-      <circle cx="65" cy="65" r={r} fill="none" stroke="#232328" strokeWidth={strokeWidth}/>
+      <circle cx="65" cy="65" r={r} fill="none" stroke="var(--track-bg)" strokeWidth={strokeWidth}/>
       <circle cx="65" cy="65" r={r} fill="none" stroke="#e6b93a" strokeWidth={strokeWidth} strokeDasharray={`${c * filled} ${c}`} strokeDashoffset={offset} transform="rotate(-90 65 65)"/>
       <circle cx="65" cy="65" r={r} fill="none" stroke="#2f6b3a" strokeWidth={strokeWidth} strokeDasharray={`${c * filled * 0.5} ${c}`} strokeDashoffset={offset} transform="rotate(-90 65 65)"/>
-      <text x="65" y="60" textAnchor="middle" fill="#9a9aa2" fontSize="11">Overall</text>
-      <text x="65" y="80" textAnchor="middle" fill="#fff" fontSize="20" fontWeight="800">{value}%</text>
+      <text x="65" y="60" textAnchor="middle" fill="var(--text-faint)" fontSize="11">Overall</text>
+      <text x="65" y="80" textAnchor="middle" fill="var(--text-primary)" fontSize="20" fontWeight="800">{value}%</text>
     </svg>
   );
 }
@@ -38,7 +38,7 @@ function RingChart({ value = 0, size = 64, strokeWidth = 7, color = "#3b82f6" })
   return (
     <div className="relative" style={{ width: size, height: size }}>
       <svg width={size} height={size} viewBox="0 0 64 64">
-        <circle cx="32" cy="32" r={r} fill="none" stroke="#232328" strokeWidth={strokeWidth}/>
+        <circle cx="32" cy="32" r={r} fill="none" stroke="var(--track-bg)" strokeWidth={strokeWidth}/>
         <circle cx="32" cy="32" r={r} fill="none" stroke={color} strokeWidth={strokeWidth} strokeDasharray={`${c * filled} ${c}`} strokeDashoffset={c * (1 - filled)} strokeLinecap="round" transform="rotate(-90 32 32)"/>
       </svg>
       <div className="absolute inset-0 flex items-center justify-center text-[14px] font-bold">
@@ -434,60 +434,60 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
 
       {/* Quick Actions + Continue Practice */}
       <div className="flex gap-4.5">
-        <div className="flex-[1.3] bg-[#131317] border border-[#242429] rounded-[14px] p-5 lg:p-[22px_24px]">
+        <div className="flex-[1.3] bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-5 lg:p-[22px_24px] shadow-[var(--shadow)]">
           <h3 className="text-[15px] font-bold mb-4">Quick Actions</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
             {quickActions.map((a) => (
               <button
                 key={a.title}
                 onClick={a.action}
-                className="flex items-center gap-3 px-3 py-3 rounded-lg hover:bg-[#1a1a20] transition-colors text-left"
+                className="flex items-center gap-3 px-3 py-3 rounded-lg hover:bg-[var(--hover-bg)] transition-colors text-left"
               >
-                <div className="w-9 h-9 rounded-lg bg-[#1c1c22] border border-[#242429] flex items-center justify-center shrink-0">
-                  <a.icon size={17} className="text-[#e0313b]" />
+                <div className="w-9 h-9 rounded-lg bg-[var(--elevated-bg)] border border-[var(--border)] flex items-center justify-center shrink-0">
+                  <a.icon size={17} className="text-[var(--accent)]" />
                 </div>
                 <div className="flex-1 min-w-0">
-                  <p className="text-[13px] font-semibold text-[#f2f2f3] truncate">{a.title}</p>
-                  <p className="text-[11px] text-[#5c5c64] truncate">{a.subtitle}</p>
+                  <p className="text-[13px] font-semibold text-[var(--text-primary)] truncate">{a.title}</p>
+                  <p className="text-[11px] text-[var(--text-faint)] truncate">{a.subtitle}</p>
                 </div>
-                <ArrowRight size={15} className="text-[#5c5c64] shrink-0" />
+                <ArrowRight size={15} className="text-[var(--text-faint)] shrink-0" />
               </button>
             ))}
           </div>
         </div>
 
-        <div className="flex-[0.9] bg-[#131317] border border-[#242429] rounded-[14px] p-5 lg:p-[22px_24px]">
+        <div className="flex-[0.9] bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-5 lg:p-[22px_24px] shadow-[var(--shadow)]">
           <h3 className="text-[15px] font-bold mb-4">Continue Practice</h3>
           {inProgressTest ? (
             <>
-              <div className="text-base font-semibold text-[#f2f2f3] mb-1">{inProgressTest.title}</div>
+              <div className="text-base font-semibold text-[var(--text-primary)] mb-1">{inProgressTest.title}</div>
               <div className="flex items-end justify-between mb-3">
-                <span className="text-lg font-bold text-[#f2f2f3]">{inProgressTest.answeredQuestions || 0} / {inProgressTest.totalQuestions || inProgressTest.questionCount}</span>
-                <span className="text-xs text-[#9a9aa2]">Questions</span>
+                <span className="text-lg font-bold text-[var(--text-primary)]">{inProgressTest.answeredQuestions || 0} / {inProgressTest.totalQuestions || inProgressTest.questionCount}</span>
+                <span className="text-xs text-[var(--text-secondary)]">Questions</span>
               </div>
-              <div className="h-2 bg-[#1a1a20] rounded-full overflow-hidden mb-4">
+              <div className="h-2 bg-[var(--track-bg)] rounded-full overflow-hidden mb-4">
                 <div 
-                  className="h-full bg-[#e0313b] transition-all" 
+                  className="h-full bg-[var(--accent)] transition-all" 
                   style={{ width: `${((inProgressTest.answeredQuestions || 0) / (inProgressTest.totalQuestions || inProgressTest.questionCount || 1)) * 100}%` }} 
                 />
               </div>
               <button 
                 onClick={() => startPractice(inProgressTest.id, inProgressTest)}
-                className="w-full flex items-center justify-center gap-2 bg-[#e0313b] hover:bg-[#c92b33] text-white text-sm font-medium rounded-lg py-2.5 transition-colors"
+                className="w-full flex items-center justify-center gap-2 bg-[var(--accent)] hover:bg-[var(--accent-hover)] text-white text-sm font-medium rounded-lg py-2.5 transition-colors"
               >
                 Continue <ArrowRight size={15} />
               </button>
             </>
           ) : (
             <>
-              <div className="text-base font-semibold text-[#f2f2f3] mb-1">No Test In Progress</div>
-              <div className="text-xs text-[#9a9aa2] mb-3">Start a new test to track your progress</div>
-              <div className="h-2 bg-[#1a1a20] rounded-full overflow-hidden mb-4">
-                <div className="h-full bg-[#1a1a20]" style={{ width: "0%" }} />
+              <div className="text-base font-semibold text-[var(--text-primary)] mb-1">No Test In Progress</div>
+              <div className="text-xs text-[var(--text-secondary)] mb-3">Start a new test to track your progress</div>
+              <div className="h-2 bg-[var(--track-bg)] rounded-full overflow-hidden mb-4">
+                <div className="h-full bg-[var(--track-bg)]" style={{ width: "0%" }} />
               </div>
               <button 
                 onClick={() => setPage('sectional')}
-                className="w-full flex items-center justify-center gap-2 border border-[#242429] hover:bg-[#1a1a20] text-[#9a9aa2] text-sm font-medium rounded-lg py-2.5 transition-colors"
+                className="w-full flex items-center justify-center gap-2 border border-[var(--border-strong)] hover:bg-[var(--hover-bg)] text-[var(--text-secondary)] text-sm font-medium rounded-lg py-2.5 transition-colors"
               >
                 Start Practice <ArrowRight size={15} />
               </button>
