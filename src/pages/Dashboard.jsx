@@ -9,6 +9,7 @@ import {
   Trophy,
   ArrowRight,
   Info,
+  Music2,
 } from "lucide-react";
 import { login, setupOwner, clearAllProgress } from "../lib/storage.js";
 import { getISTDate, getISTDateString, getISTToday, getISTYesterday, formatISTDate } from "../lib/timezone.js";
@@ -302,12 +303,6 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
   return (
     <div className="min-h-screen bg-[var(--bg)] text-[var(--text-primary)] p-4 sm:p-6 transition-colors duration-200 motion-reduce:transition-none" style={{ fontFamily: "'Segoe UI', Inter, system-ui, -apple-system, sans-serif" }}>
       <style>{`
-        @keyframes float-note {
-          0% { opacity: 0; transform: translateY(0) rotate(0deg); }
-          15% { opacity: 1; }
-          80% { opacity: 1; }
-          100% { opacity: 0; transform: translateY(-26px) rotate(18deg); }
-        }
       `}</style>
       {/* Hero Section with Animation */}
       <div className="flex gap-4.5 mb-4.5">
@@ -318,7 +313,7 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
             </h1>
             <p className="text-[var(--text-secondary)] text-[13.5px] mt-1.5">Stay consistent. Every question counts.</p>
           </div>
-          <div className="relative w-24 h-24 lg:w-30 lg:h-30 shrink-0 rounded-full bg-[var(--elevated-bg)] overflow-hidden ring-1 ring-[var(--accent-soft-border)]">
+          <div className="hero-video-wrap relative w-24 h-24 lg:w-30 lg:h-30 shrink-0 rounded-full bg-[var(--elevated-bg)] overflow-visible ring-1 ring-[var(--accent-soft-border)]">
             <video
               src="/assets/hero.mp4"
               autoPlay
@@ -329,6 +324,9 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
               aria-label="TAXELEA mascot"
               className="block w-full h-full object-cover"
             />
+            <Music2 className="hero-music-note hero-music-note-one" size={18} />
+            <Music2 className="hero-music-note hero-music-note-two" size={14} />
+            <Music2 className="hero-music-note hero-music-note-three" size={16} />
           </div>
         </div>
       </div>
