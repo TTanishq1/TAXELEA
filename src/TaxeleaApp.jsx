@@ -25,6 +25,7 @@ import StreakPage from "./pages/StreakPage.jsx";
 import { LeaderboardPage } from "./pages/LeaderboardPage.jsx";
 import { SettingsPage } from "./pages/SettingsPage.jsx";
 import { loadTestJSON } from "./data/testCards.js";
+import { TESTS_BY_YEAR, UNSORTED_TESTS } from "./data/testsByYear.js";
 import { Card } from "./components/ui/Card.jsx";
 
 function LoadingScreen({ visible, onFadeComplete }) {
@@ -125,7 +126,11 @@ function TestRunnerWrapper({ onComplete }) {
         
         // Find the test card and load its data
         const { SECTIONAL_TEST_CARDS, FULL_TEST_CARDS } = await import("./data/testCards.js");
-        const allCards = [...SECTIONAL_TEST_CARDS, ...FULL_TEST_CARDS];
+        const archiveCards = [
+          ...Object.values(TESTS_BY_YEAR).flat(),
+          ...UNSORTED_TESTS,
+        ];
+        const allCards = [...SECTIONAL_TEST_CARDS, ...FULL_TEST_CARDS, ...archiveCards];
         const decodedTestId = decodeURIComponent(testId);
         
         console.log('Decoded test ID:', decodedTestId);
