@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo, useCallback, useRef } from "react";
 import { useNavigate } from "react-router-dom";
-import { X, Check, ChevronLeft, ChevronRight, RotateCcw, Clock, Bookmark, BookmarkCheck, Menu, Flag, Star } from "lucide-react";
+import { X, Check, ChevronLeft, ChevronRight, RotateCcw, Clock, Bookmark, BookmarkCheck, Menu } from "lucide-react";
 import { Card } from "../components/ui/Card.jsx";
 import { DonutProgress } from "../components/ui/DonutProgress.jsx";
 import { SECTIONAL_COUNTS } from "../data/catalog.js";
@@ -166,7 +166,7 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
   // Continue -> test begins). Previously the test started immediately with
   // no instructions step at all.
   const [hasStarted, setHasStarted] = useState(false);
-  const [questionStartTime, setQuestionStartTime] = useState(Date.now());
+  const [, setQuestionStartTime] = useState(Date.now());
   const [showMobilePalette, setShowMobilePalette] = useState(false);
   
   // Timer state
@@ -284,29 +284,37 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
   const questions = useMemo(() => testData?.questions || [], [testData?.questions]);
   const totalQuestions = questions.length;
   const currentQ = questions[currentQuestion];
+  const answeredCount = Object.keys(answers).length;
+  const markedCount = markedForReview.size;
+  const notVisitedCount = Math.max(0, totalQuestions - visited.size);
   
-  // Detect sections from questions if they have subject information
+  // Keep sections contiguous so tabs and the question palette target the same range.
   const sections = useMemo(() => {
     if (!testData || !questions.length) return [];
-    
-    // Check if questions have subject/topic information
-    const subjects = [...new Set(questions.map(q => q.subject).filter(Boolean))];
-    
-    if (subjects.length > 1) {
-      // Questions are organized by subject
-      return subjects.map(subject => {
-        const subjectQuestions = questions.filter(q => q.subject === subject);
-        return {
-          name: subject,
-          count: subjectQuestions.length,
-          startIndex: questions.indexOf(subjectQuestions[0]),
-          color: SECTIONAL_COUNTS[subject]?.color || "#ef4444"
-        };
-      });
+
+    const namedSections = [];
+    questions.forEach((question, index) => {
+      const subject = question.subject?.trim();
+      if (!subject) return;
+      const previous = namedSections[namedSections.length - 1];
+      if (previous?.name === subject && previous.startIndex + previous.count === index) {
+        previous.count += 1;
+      } else {
+        namedSections.push({ name: subject, count: 1, startIndex: index });
+      }
+    });
+
+    if (namedSections.length > 1 && namedSections.reduce((sum, section) => sum + section.count, 0) === totalQuestions) {
+      return namedSections.map(section => ({
+        ...section,
+        color: SECTIONAL_COUNTS[section.name]?.color || "#ef4444",
+      }));
     }
-    
-    // For full tests without subject metadata, use standard SSC CGL division
-    if (testData.exam === 'SSC CGL' && totalQuestions >= 100) {
+
+    // Full mock sources often omit subject metadata. Preserve the standard
+    // four-part SSC layout for CGL mocks and use neutral labels elsewhere.
+    const isCglMock = /cgl|ssc/i.test(`${testData.title || ''} ${testData.card?.path || ''} ${testData.exam || ''}`);
+    if (isCglMock && totalQuestions >= 4) {
       const quarter = Math.floor(totalQuestions / 4);
       return [
         {
@@ -336,6 +344,16 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
       ];
     }
     
+    if (totalQuestions >= 4) {
+      const sectionSize = Math.floor(totalQuestions / 4);
+      return [
+        { name: 'Section 1', count: sectionSize, startIndex: 0, color: '#f97316' },
+        { name: 'Section 2', count: sectionSize, startIndex: sectionSize, color: '#ef4444' },
+        { name: 'Section 3', count: sectionSize, startIndex: sectionSize * 2, color: '#22c55e' },
+        { name: 'Section 4', count: totalQuestions - sectionSize * 3, startIndex: sectionSize * 3, color: '#3b82f6' },
+      ];
+    }
+
     // Single section test
     return [{
       name: testData.subject || 'General',
@@ -866,19 +884,38 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
   // Render submit confirmation dialog
   if (showSubmitConfirm) {
     return (
-      <div className="fixed inset-0 bg-black/60 z-50 flex items-center justify-center p-4">
-        <Card className="p-6 max-w-md w-full">
-          <h3 className="text-lg font-bold text-[var(--text-primary)] mb-2">Submit Test?</h3>
-          <p className="text-[var(--text-secondary)] text-sm mb-4">
-            You have answered {Object.keys(answers).length} out of {totalQuestions} questions. 
-            {Object.keys(answers).length < totalQuestions && " Unanswered questions will be marked as incorrect."}
-          </p>
-          <div className="flex gap-3">
-            <button onClick={cancelSubmit} className="flex-1 border border-[var(--border-strong)] hover:bg-[var(--hover-bg)] text-[var(--text-primary)] text-sm font-medium rounded-lg px-4 py-2.5">
-              Continue Test
+      <div className="fixed inset-0 bg-[var(--scrim)] z-50 flex items-center justify-center p-4">
+        <Card className="p-5 sm:p-7 max-w-3xl w-full shadow-2xl">
+          <div className="flex items-start justify-between gap-4 mb-5">
+            <div>
+              <p className="text-xs font-semibold uppercase tracking-[0.12em] text-red-500 mb-1">Final review</p>
+              <h3 className="text-xl font-bold text-[var(--text-primary)]">Review test before submitting</h3>
+              <p className="text-[var(--text-secondary)] text-sm mt-1">Check your response summary before locking this attempt.</p>
+            </div>
+            <button onClick={cancelSubmit} aria-label="Close review" className="w-8 h-8 shrink-0 flex items-center justify-center rounded-md hover:bg-[var(--hover-bg)] text-[var(--text-muted)]">
+              <X size={18} />
             </button>
-            <button onClick={confirmSubmit} className="flex-1 bg-red-700 hover:bg-red-600 text-white text-sm font-medium rounded-lg px-4 py-2.5">
-              Submit Test
+          </div>
+          <div className="grid grid-cols-2 sm:grid-cols-5 border border-[var(--border)] rounded-xl overflow-hidden mb-6">
+            {[
+              ['Answered', answeredCount, 'text-green-600'],
+              ['Not answered', totalQuestions - answeredCount, 'text-[var(--text-primary)]'],
+              ['Marked review', markedCount, 'text-purple-500'],
+              ['Visited', visited.size, 'text-blue-500'],
+              ['Not visited', notVisitedCount, 'text-[var(--text-muted)]'],
+            ].map(([label, value, tone]) => (
+              <div key={label} className="px-4 py-3.5 border-b sm:border-b-0 sm:border-r last:border-r-0 border-[var(--border)]">
+                <div className="text-[11px] text-[var(--text-faint)]">{label}</div>
+                <div className={`text-xl font-bold mt-1 ${tone}`}>{value}</div>
+              </div>
+            ))}
+          </div>
+          <div className="flex flex-col-reverse sm:flex-row sm:justify-end gap-3">
+            <button onClick={cancelSubmit} className="border border-[var(--border-strong)] hover:bg-[var(--hover-bg)] text-[var(--text-primary)] text-sm font-semibold rounded-lg px-5 py-2.5">
+              Continue test
+            </button>
+            <button onClick={confirmSubmit} className="bg-red-700 hover:bg-red-600 text-white text-sm font-semibold rounded-lg px-5 py-2.5">
+              Submit test
             </button>
           </div>
         </Card>
@@ -888,51 +925,42 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
 
   // Render active test
   return (
-    <div className="flex flex-col lg:flex-row h-screen">
+    <div className="flex flex-col lg:flex-row h-full min-h-0 bg-[var(--bg)]">
       {/* Main question area */}
       <div className="flex-1 flex flex-col overflow-hidden">
         {/* Header */}
-        <div className="border-b border-[var(--border)] bg-[var(--bg)] px-4 py-3">
-          <div className="flex items-center justify-between gap-3">
-            <div className="flex items-center gap-3 min-w-0">
-              <div className="relative w-10 h-10 shrink-0 rounded-full border-2 border-[var(--text-primary)] flex items-center justify-center">
-                <Clock size={16} className="text-[var(--text-primary)]" />
+        <div className="border-b border-[var(--border)] bg-[var(--card-bg)] px-4 py-3 sm:px-6">
+          <div className="grid grid-cols-[auto_1fr_auto] items-center gap-3">
+            <button onClick={handleExit} className="w-9 h-9 flex items-center justify-center rounded-lg border border-[var(--border)] hover:bg-[var(--hover-bg)] text-[var(--text-muted)]" title="Exit test">
+              <X size={16} />
+            </button>
+            <div className="min-w-0 text-center">
+              <div className="flex justify-center items-center gap-2">
+                <span className="w-2.5 h-2.5 rounded-full bg-red-600 shrink-0" />
+                <h1 className="text-sm sm:text-base font-bold text-[var(--text-primary)] truncate" title={testData.title}>{testData.title}</h1>
               </div>
-              <div className="min-w-0">
-                <div className={`font-mono text-base font-bold leading-none ${timeLeft < 300 ? 'text-red-500' : 'text-[var(--text-primary)]'}`}>
-                  {formatTime(timeLeft)}
-                </div>
-                <div className="text-xs text-[var(--text-faint)] truncate mt-1" title={testData.title}>{testData.title}</div>
-              </div>
+              <p className="text-[11px] text-[var(--text-faint)] mt-0.5">{currentSection?.name || 'All questions'} · Question {currentQuestion + 1} of {totalQuestions}</p>
             </div>
             <div className="flex items-center gap-1.5 shrink-0">
+              <div className={`hidden sm:flex items-center gap-2 rounded-lg border border-[var(--border)] px-2.5 py-1.5 ${timeLeft < 300 ? 'border-red-500/50 bg-red-500/10' : 'bg-[var(--elevated-bg)]'}`}>
+                <Clock size={14} className={timeLeft < 300 ? 'text-red-500' : 'text-[var(--text-muted)]'} />
+                <span className={`font-mono text-sm font-bold ${timeLeft < 300 ? 'text-red-500' : 'text-[var(--text-primary)]'}`}>{formatTime(timeLeft)}</span>
+              </div>
               <button
                 onClick={() => setShowMobilePalette(true)}
-                className="lg:hidden w-8 h-8 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-muted)]"
+                className="lg:hidden w-9 h-9 flex items-center justify-center rounded-lg border border-[var(--border)] hover:bg-[var(--hover-bg)] text-[var(--text-muted)]"
                 title="Question Palette"
               >
                 <Menu size={18} />
               </button>
-              <button onClick={handleExit} className="w-8 h-8 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-muted)]">
-                <X size={16} />
-              </button>
             </div>
           </div>
 
-          <div className="flex items-center gap-2 mt-2.5 flex-wrap">
-            <span className="text-xs px-2.5 py-1 rounded-full bg-[var(--accent-soft-bg)] text-[var(--text-primary)]">
-              Total Questions Answered: <span className="font-semibold">{Object.keys(answers).length}</span>
+          <div className="flex items-center justify-between gap-2 mt-3 pt-3 border-t border-[var(--border)]">
+            <span className="text-xs text-[var(--text-secondary)]">
+              Responses saved <span className="font-semibold text-[var(--text-primary)]">{answeredCount}/{totalQuestions}</span>
             </span>
-            {timeLeft > 0 && timeLeft <= 900 && (
-              <span className="text-xs px-2.5 py-1 rounded-full bg-red-600/15 text-red-500 font-medium">
-                Last {Math.ceil(timeLeft / 60)} Mins
-              </span>
-            )}
-            {missingTiming && (
-              <span className="text-xs px-2.5 py-1 rounded-full bg-[var(--elevated-bg)] text-[var(--text-faint)]" title="No custom time configured — using default duration">
-                ⚠️ Default timing
-              </span>
-            )}
+            <span className={`sm:hidden font-mono text-sm font-bold ${timeLeft < 300 ? 'text-red-500' : 'text-[var(--text-primary)]'}`}>{formatTime(timeLeft)}</span>
           </div>
         </div>
 
@@ -967,16 +995,18 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
 
         {/* Question content */}
         <div className="flex-1 overflow-y-auto p-4 sm:p-6">
-          <div className="max-w-3xl mx-auto space-y-4">
-            <Card className="p-6">
-              <div className="flex items-center gap-3 mb-4 pb-3 border-b border-[var(--border)]">
-                <span className="shrink-0 w-7 h-7 rounded-full bg-red-600 text-white flex items-center justify-center text-sm font-semibold">
-                  {currentQuestion + 1}
-                </span>
-                <div className="flex items-center gap-1.5 text-xs text-[var(--text-faint)]">
-                  <Clock size={13} />
-                  {formatTime(questionElapsed)}
+          <div className="max-w-4xl mx-auto space-y-4">
+            <Card className="overflow-hidden">
+              <div className="px-5 sm:px-7 py-3 bg-[var(--elevated-bg)] border-b border-[var(--border)] flex items-center justify-between gap-3">
+                <div className="flex items-center gap-2 text-xs font-semibold text-[var(--text-secondary)]">
+                  <span className="w-6 h-6 rounded-md bg-red-700 text-white flex items-center justify-center">{currentQuestion + 1}</span>
+                  Question {currentQuestion + 1}
                 </div>
+                <div className="flex items-center gap-1.5 text-xs text-[var(--text-faint)]"><Clock size={13} /> {formatTime(questionElapsed)}</div>
+              </div>
+              <div className="p-5 sm:p-7">
+              <div className="flex items-center gap-3 mb-4 pb-3 border-b border-[var(--border)]">
+                <span className="text-xs text-[var(--text-faint)]">Choose one answer</span>
                 <div className="flex-1" />
                 <button
                   onClick={handleMarkForReview}
@@ -1025,6 +1055,7 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                     </button>
                   );
                 })}
+              </div>
               </div>
             </Card>
           </div>
@@ -1086,7 +1117,7 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
           was `hidden lg:block` with zero mobile access at all — no way to
           jump to another question or see progress on a phone). */}
       {showMobilePalette && (
-        <div className="fixed inset-0 bg-black/60 z-40 lg:hidden" onClick={() => setShowMobilePalette(false)} />
+        <div className="fixed inset-0 bg-[var(--scrim)] z-40 lg:hidden" onClick={() => setShowMobilePalette(false)} />
       )}
       <div className={`w-72 border-l border-[var(--border)] bg-[var(--elevated-bg)] overflow-y-auto
         fixed lg:static inset-y-0 right-0 z-50 transition-transform duration-200
@@ -1106,13 +1137,13 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
               <span className="flex items-center gap-2 text-xs text-[var(--text-secondary)]">
                 <span className="w-2.5 h-2.5 rounded-full bg-green-600" /> Answered Qs
               </span>
-              <span className="text-xs font-semibold text-[var(--text-primary)]">{Object.keys(answers).length}</span>
+              <span className="text-xs font-semibold text-[var(--text-primary)]">{answeredCount}</span>
             </div>
             <div className="flex items-center justify-between px-3 py-2.5">
               <span className="flex items-center gap-2 text-xs text-[var(--text-secondary)]">
                 <span className="w-2.5 h-2.5 rounded-full bg-[var(--border-strong)]" /> Unanswered Qs
               </span>
-              <span className="text-xs font-semibold text-[var(--text-primary)]">{totalQuestions - Object.keys(answers).length}</span>
+              <span className="text-xs font-semibold text-[var(--text-primary)]">{totalQuestions - answeredCount}</span>
             </div>
           </div>
 
