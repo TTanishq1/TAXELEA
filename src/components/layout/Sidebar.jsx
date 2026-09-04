@@ -44,7 +44,7 @@ export function Sidebar({ page, setPage, onClose, currentUser }) {
               disabled={isLocked}
               className={`w-full flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm transition-colors relative ${
                 active
-                  ? "bg-gradient-to-r from-[var(--danger-bg)] to-transparent text-[var(--text-primary)]"
+                  ? "bg-[var(--accent-soft-bg)] text-[var(--text-primary)]"
                   : isLocked
                   ? "text-[var(--text-faint)] cursor-not-allowed"
                   : "text-[var(--text-muted)] hover:text-[var(--text-secondary)] hover:bg-[var(--hover-bg)]"

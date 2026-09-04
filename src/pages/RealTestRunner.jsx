@@ -968,7 +968,7 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
             navigable as a horizontal tab strip directly under the header,
             not only reachable via the sidebar list. */}
         {sections.length > 1 && (
-          <div className="border-b border-[var(--border)] bg-[var(--elevated-bg)] px-4 py-2 flex items-center gap-1.5 overflow-x-auto">
+          <div className="border-b border-[var(--border)] bg-[var(--card-bg)] px-4 py-2 flex items-center gap-1.5 overflow-x-auto">
             {sections.map(section => {
               const sectionQs = questions.slice(section.startIndex, section.startIndex + section.count);
               const answeredInSection = sectionQs.filter((_, i) => answers[section.startIndex + i] !== undefined).length;
