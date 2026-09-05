@@ -925,9 +925,9 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
 
   // Render active test
   return (
-    <div className="flex flex-col lg:flex-row h-full min-h-0 bg-[var(--bg)] p-3 sm:p-4">
+    <div className="flex flex-col lg:flex-row min-h-full bg-[var(--bg)] p-3 sm:p-4 gap-3 sm:gap-4">
       {/* Main question area */}
-      <div className="flex-1 flex flex-col overflow-hidden rounded-[18px] border border-[var(--border)] bg-[var(--bg)]">
+      <div className="flex-1 min-w-0 flex flex-col overflow-hidden rounded-[18px] border border-[var(--border)] bg-[var(--bg)]">
         {/* Header */}
         <div className="border-b border-[var(--border)] bg-[var(--card-bg)] px-4 py-3 sm:px-6 rounded-t-[18px]">
           <div className="grid grid-cols-[auto_1fr_auto] items-center gap-3">

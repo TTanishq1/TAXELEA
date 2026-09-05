@@ -31,41 +31,6 @@ body {
   color: var(--text-primary, inherit);
 }
 
-.brand-backdrop {
-  position: fixed;
-  inset: 0;
-  z-index: 0;
-  pointer-events: none;
-  user-select: none;
-  display: grid;
-  place-items: center;
-  overflow: hidden;
-}
-
-.brand-backdrop-mark {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 0.35rem;
-  opacity: 0.045;
-  transform: translateY(2vh);
-}
-
-.brand-backdrop-mark img {
-  width: 72px;
-  height: 72px;
-  object-fit: contain;
-  filter: grayscale(1);
-}
-
-.brand-backdrop-mark span {
-  font-size: clamp(3rem, 10vw, 9rem);
-  font-weight: 700;
-  letter-spacing: 0.22em;
-}
-
 .hero-video-wrap {
   isolation: isolate;
 }

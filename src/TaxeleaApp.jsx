@@ -27,7 +27,6 @@ import { SettingsPage } from "./pages/SettingsPage.jsx";
 import { loadTestJSON } from "./data/testCards.js";
 import { TESTS_BY_YEAR, UNSORTED_TESTS } from "./data/testsByYear.js";
 import { Card } from "./components/ui/Card.jsx";
-import { BrandBackdrop } from "./components/BrandBackdrop.jsx";
 
 function LoadingScreen({ visible, onFadeComplete }) {
   const [opacity, setOpacity] = useState(1);
@@ -435,7 +434,6 @@ function AppContent({ onAppLoaded }) {
 
   return (
     <>
-      <BrandBackdrop />
       {mobileNavOpen && (
         <div onClick={() => setMobileNavOpen(false)} className="fixed inset-0 bg-black/60 z-30 lg:hidden" />
       )}
