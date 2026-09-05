@@ -1107,18 +1107,18 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
         </div>
 
         {/* Footer controls */}
-        <div className="border-t border-[var(--border)] bg-[var(--bg)] px-4 py-3 flex items-center justify-between">
-          <div className="flex items-center gap-2">
+        <div className="test-footer">
+          <div className="test-footer__group">
             <button
               onClick={handleClearResponse}
               disabled={!answers[currentQuestion]}
-              className="text-xs text-[var(--text-muted)] disabled:opacity-30 hover:text-[var(--text-primary)] px-3 py-1.5 rounded hover:bg-[var(--hover-bg)]"
+              className="test-footer__button test-footer__button--quiet"
             >
               Clear Response
             </button>
             <button
               onClick={handleMarkForReview}
-              className={`text-xs flex items-center gap-1 px-3 py-1.5 rounded hover:bg-[var(--hover-bg)] ${
+              className={`test-footer__button flex items-center gap-1.5 ${
                 markedForReview.has(currentQuestion) ? 'text-purple-500' : 'text-[var(--text-muted)]'
               }`}
             >
@@ -1127,21 +1127,19 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
             </button>
           </div>
           
-          <div className="flex items-center gap-3">
+          <div className="test-footer__group">
             <button
               onClick={handlePrevious}
               disabled={currentQuestion === 0}
-              className="flex items-center gap-1.5 text-sm text-[var(--text-muted)] disabled:opacity-30 hover:text-[var(--text-primary)] px-3 py-1.5 rounded hover:bg-[var(--hover-bg)]"
+              className="test-footer__button flex items-center gap-1.5"
             >
               <ChevronLeft size={16} /> Previous
             </button>
             
             {currentQuestion !== totalQuestions - 1 && (
-              <>
-                <button onClick={handleNext} className="flex items-center gap-1.5 text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)] px-3 py-1.5 rounded hover:bg-[var(--hover-bg)]">
-                  Save & Next <ChevronRight size={16} />
-                </button>
-              </>
+              <button onClick={handleNext} className="test-footer__button test-footer__button--primary flex items-center gap-1.5">
+                Save & Next <ChevronRight size={16} />
+              </button>
             )}
           </div>
         </div>

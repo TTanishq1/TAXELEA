@@ -87,6 +87,10 @@ button:active:not(:disabled) {
   transform: translateY(1px);
 }
 
+button:not(:disabled):hover {
+  transform: translateY(-1px);
+}
+
 button:focus-visible,
 a:focus-visible,
 input:focus-visible,
@@ -186,6 +190,80 @@ textarea:focus-visible {
 
 .sectional-subject-card__tests > div:not(.col-span-full) {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.test-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 16px;
+  border-top: 1px solid var(--border);
+  background: color-mix(in srgb, var(--card-bg) 72%, var(--bg));
+}
+
+.test-footer__group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.test-footer__button {
+  min-height: 36px;
+  padding: 0 12px;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  color: var(--text-muted);
+  font-size: 0.8125rem;
+  transition: color 160ms ease, background-color 160ms ease, border-color 160ms ease, transform 160ms ease, box-shadow 160ms ease;
+}
+
+.test-footer__button:hover:not(:disabled) {
+  color: var(--text-primary);
+  background: var(--hover-bg);
+  border-color: var(--border-strong);
+}
+
+.test-footer__button:active:not(:disabled) {
+  transform: translateY(1px);
+}
+
+.test-footer__button:disabled {
+  cursor: not-allowed;
+  opacity: 0.3;
+}
+
+.test-footer__button--quiet {
+  color: var(--text-faint);
+}
+
+.test-footer__button--primary {
+  color: #fff;
+  background: var(--accent);
+  border-color: var(--accent);
+  box-shadow: 0 5px 14px color-mix(in srgb, var(--accent) 24%, transparent);
+}
+
+.test-footer__button--primary:hover:not(:disabled) {
+  color: #fff;
+  background: var(--accent-hover);
+  border-color: var(--accent-hover);
+  box-shadow: 0 8px 20px color-mix(in srgb, var(--accent) 34%, transparent);
+}
+
+@media (max-width: 640px) {
+  .test-footer {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .test-footer__group {
+    justify-content: space-between;
+  }
+
+  .test-footer__group:last-child .test-footer__button {
+    flex: 1;
+  }
 }
 
 video {
