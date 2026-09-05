@@ -20,7 +20,7 @@ const NAV_ITEMS = [
 export function Sidebar({ page, setPage, onClose, currentUser }) {
   return (
     <div className="w-[232px] shrink-0 bg-[var(--sidebar-bg)] border-r border-[var(--border)] flex flex-col h-full overflow-y-auto">
-      <div className="px-5 pt-6 pb-6 border-b border-[var(--border)] flex items-center justify-between">
+      <div className="px-5 pt-6 pb-5 border-b border-[var(--border)] flex items-center justify-between">
         <Logo />
         {onClose && (
           <button onClick={onClose} className="lg:hidden w-8 h-8 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-muted)] shrink-0">
@@ -28,7 +28,7 @@ export function Sidebar({ page, setPage, onClose, currentUser }) {
           </button>
         )}
       </div>
-      <nav className="flex-1 px-3 py-4 space-y-1">
+      <nav className="flex-1 px-3 py-4 space-y-1.5">
         {NAV_ITEMS.map((item) => {
           const active = page === item.key;
           const isLocked = item.requiresAuth && !currentUser;
@@ -42,16 +42,16 @@ export function Sidebar({ page, setPage, onClose, currentUser }) {
                 }
               }}
               disabled={isLocked}
-              className={`w-full flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm transition-colors relative ${
+              className={`w-full flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm transition-colors relative ${
                 active
-                  ? "bg-[var(--accent-soft-bg)] text-[var(--text-primary)]"
+                  ? "bg-[var(--accent-soft-bg)] text-[var(--text-primary)] shadow-inner shadow-[rgba(29,155,240,0.1)]"
                   : isLocked
                   ? "text-[var(--text-faint)] cursor-not-allowed"
                   : "text-[var(--text-muted)] hover:text-[var(--text-secondary)] hover:bg-[var(--hover-bg)]"
               }`}
             >
-              {active && <span className="absolute left-0 top-0 bottom-0 w-[3px] bg-[var(--danger-text)] rounded-r" />}
-              <item.icon size={17} strokeWidth={1.8} className={active ? "text-[var(--danger-text)]" : isLocked ? "text-[var(--text-faint)]" : ""} />
+              {active && <span className="absolute left-0 top-1.5 bottom-1.5 w-[3px] bg-[var(--accent)] rounded-r" />}
+              <item.icon size={17} strokeWidth={1.8} className={active ? "text-[var(--accent)]" : isLocked ? "text-[var(--text-faint)]" : ""} />
               {item.label}
               {isLocked && <Lock size={12} className="ml-auto text-[var(--text-faint)]" />}
             </button>
@@ -59,14 +59,14 @@ export function Sidebar({ page, setPage, onClose, currentUser }) {
         })}
       </nav>
       {currentUser && (
-        <div className="m-3 p-4 rounded-xl border border-[var(--accent-soft-border)] bg-[var(--accent-soft-bg)]">
+        <div className="m-3 p-4 rounded-xl border border-[var(--accent-soft-border)] bg-[linear-gradient(135deg,rgba(29,155,240,0.12),rgba(239,68,68,0.08))]">
           <div className="flex items-center gap-1.5 text-[var(--text-primary)] font-semibold text-sm mb-1.5">
             Keep the Streak Alive! <Flame size={14} className="text-[var(--danger-text)]" />
           </div>
           <p className="text-xs text-[var(--text-muted)] leading-relaxed mb-3">
             Your consistency today builds your success tomorrow.
           </p>
-          <button onClick={() => { setPage("streak"); if (onClose) onClose(); }} className="w-full flex items-center justify-center gap-1.5 text-xs font-medium text-[var(--danger-text)] border border-[var(--accent-soft-border)] rounded-lg py-2 hover:bg-[var(--danger-bg)] transition-colors">
+          <button onClick={() => { setPage("streak"); if (onClose) onClose(); }} className="w-full flex items-center justify-center gap-1.5 text-xs font-medium text-[var(--text-primary)] border border-[var(--accent-soft-border)] rounded-lg py-2 hover:bg-[var(--hover-bg)] transition-colors">
             View Streak <ArrowRight size={13} />
           </button>
         </div>

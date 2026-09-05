@@ -40,77 +40,65 @@ import { getISTDate, getISTDateString } from "../lib/timezone.js";
 // with a "Clear All Stats" confirmation modal.
 // ---------------------------------------------------------------------------
 
-const MONTHS = [
-  "May 2024", "Jun 2024", "Jul 2024", "Aug 2024", "Sep 2024", "Oct 2024",
-  "Nov 2024", "Dec 2024", "Jan 2025", "Feb 2025", "Mar 2025", "Apr 2025", "May 2025",
-];
-
 const WEEKDAYS = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
 
 const LEVEL_COLORS = ["var(--activity-0)", "var(--activity-1)", "var(--activity-2)", "var(--activity-3)", "var(--activity-4)"];
 const LEVEL_LABELS = ["No Activity", "1–2 Tests", "3–5 Tests", "6–10 Tests", "10+ Tests"];
 
-function mulberry32(seed) {
-  return function () {
-    seed |= 0;
-    seed = (seed + 0x6d2b79f5) | 0;
-    let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
-    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
-    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
-  };
-}
-
-// Build ~13 months of weekly columns (Mon-start weeks) with activity levels
-function buildCalendar(data, seed = 7) {
-  const rand = mulberry32(seed);
-  const weeksPerMonth = 4.35;
-  const totalWeeks = Math.round(MONTHS.length * weeksPerMonth);
-
-  // Convert results data to activity map
+function buildCalendar(data, endDate) {
   const activityMap = new Map();
   if (data && data.length > 0) {
     data.forEach(r => {
-      const date = new Date(r.id);
-      const utc = date.getTime() + (date.getTimezoneOffset() * 60000);
-      const istOffset = 5.5 * 3600000;
-      const istDate = new Date(utc + istOffset);
-      const key = `${istDate.getFullYear()}-${String(istDate.getMonth() + 1).padStart(2, '0')}-${String(istDate.getDate()).padStart(2, '0')}`;
+      const key = getISTDateString(r.id);
       activityMap.set(key, (activityMap.get(key) || 0) + 1);
     });
   }
 
-  let momentum = 0;
+  const visibleEnd = new Date(endDate);
+  visibleEnd.setHours(0, 0, 0, 0);
+  const visibleStart = new Date(visibleEnd);
+  visibleStart.setDate(visibleStart.getDate() - 364);
+  const mondayOffset = visibleStart.getDay() === 0 ? 6 : visibleStart.getDay() - 1;
+  visibleStart.setDate(visibleStart.getDate() - mondayOffset);
+
+  const totalDays = Math.ceil((visibleEnd - visibleStart) / 86400000) + 1;
+  const totalWeeks = Math.ceil(totalDays / 7);
   const weeks = [];
-  const today = getISTDate();
-  
+
   for (let w = 0; w < totalWeeks; w++) {
-    momentum += (rand() - 0.5) * 0.7;
-    momentum = Math.max(-1, Math.min(1.8, momentum));
     const week = [];
     for (let d = 0; d < 7; d++) {
-      const isWeekend = d === 5 || d === 6;
-      const damp = isWeekend ? 0.55 : 1;
-      
-      // Calculate date for this cell
-      const cellDate = new Date(today);
-      cellDate.setDate(cellDate.getDate() - ((totalWeeks - w - 1) * 7 + (6 - d)));
-      const dateKey = `${cellDate.getFullYear()}-${String(cellDate.getMonth() + 1).padStart(2, '0')}-${String(cellDate.getDate()).padStart(2, '0')}`;
-      
+      const cellDate = new Date(visibleStart);
+      cellDate.setDate(cellDate.getDate() + (w * 7) + d);
+      const dateKey = cellDate.toDateString();
       const count = activityMap.get(dateKey) || 0;
       let level = 0;
-      
       if (count > 0) {
         if (count >= 10) level = 4;
         else if (count >= 6) level = 3;
         else if (count >= 3) level = 2;
         else if (count >= 1) level = 1;
       }
-      
-      week.push(level);
+      week.push({ date: cellDate, dateKey, count, level, isFuture: cellDate > visibleEnd });
     }
     weeks.push(week);
   }
-  return weeks;
+
+  const monthLabels = [];
+  weeks.forEach((week, weekIndex) => {
+    const firstVisibleDay = week.find(day => day.date.getMonth() !== weeks[weekIndex - 1]?.[0]?.date.getMonth());
+    if (firstVisibleDay && (!monthLabels.length || monthLabels[monthLabels.length - 1].month !== firstVisibleDay.date.getMonth() || monthLabels[monthLabels.length - 1].year !== firstVisibleDay.date.getFullYear())) {
+      monthLabels.push({ week: weekIndex, month: firstVisibleDay.date.getMonth(), year: firstVisibleDay.date.getFullYear() });
+    }
+  });
+
+  return {
+    weeks,
+    monthLabels,
+    start: visibleStart,
+    end: visibleEnd,
+    label: `${visibleStart.toLocaleDateString('en-US', { month: 'short', year: 'numeric' })} – ${visibleEnd.toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}`,
+  };
 }
 
 const NAV_ITEMS = [
@@ -176,7 +164,8 @@ export default function StreakPage({ currentUser, results }) {
   // Filter results for current user
   const userResults = currentUser ? results.filter(r => r.userId === currentUser.id) : results;
   
-  const weeks = useMemo(() => buildCalendar(userResults, 11), [userResults]);
+  const [viewEnd, setViewEnd] = useState(() => getISTDate());
+  const calendar = useMemo(() => buildCalendar(userResults, viewEnd), [userResults, viewEnd]);
   const [tooltip, setTooltip] = useState(null);
 
   // Calculate streak statistics
@@ -247,13 +236,27 @@ export default function StreakPage({ currentUser, results }) {
     };
   }, [currentUser, userResults]);
 
-  const handleEnter = useCallback((e, wIdx, dIdx, level) => {
+  const handleEnter = useCallback((e, cell) => {
     const rect = e.currentTarget.getBoundingClientRect();
     setTooltip({
       x: rect.left + rect.width / 2,
       y: rect.top,
-      text: `${LEVEL_LABELS[level]} · Week ${wIdx + 1}, ${WEEKDAYS[dIdx]}`,
+      text: `${cell.count} ${cell.count === 1 ? 'test' : 'tests'} · ${cell.date.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric' })}`,
     });
+  }, []);
+
+  const shiftCalendar = useCallback((weeks) => {
+    setViewEnd(previous => {
+      const next = new Date(previous);
+      next.setDate(next.getDate() + (weeks * 7));
+      return next;
+    });
+    setTooltip(null);
+  }, []);
+
+  const resetCalendar = useCallback(() => {
+    setViewEnd(getISTDate());
+    setTooltip(null);
   }, []);
 
   const handleClearAll = async () => {
@@ -334,27 +337,27 @@ export default function StreakPage({ currentUser, results }) {
               <HelpCircle size={13} className="text-gray-500" />
             </div>
             <div className="flex items-center gap-2">
-              <button className="w-7 h-7 rounded-md border border-[var(--border)] flex items-center justify-center text-[var(--text-muted)] hover:bg-[var(--hover-bg)]">
+              <button onClick={() => shiftCalendar(-4)} aria-label="Previous 4 weeks" className="w-7 h-7 rounded-md border border-[var(--border)] flex items-center justify-center text-[var(--text-muted)] hover:bg-[var(--hover-bg)]">
                 <ChevronLeft size={14} />
               </button>
               <button className="flex items-center gap-1 px-3 py-1.5 rounded-md border border-[var(--border)] text-xs text-[var(--text-secondary)] hover:bg-[var(--hover-bg)]">
-                May 2024 – May 2025
+                {calendar.label}
                 <ChevronDown size={12} />
               </button>
-              <button className="w-7 h-7 rounded-md border border-[var(--border)] flex items-center justify-center text-[var(--text-muted)] hover:bg-[var(--hover-bg)]">
+              <button onClick={() => shiftCalendar(4)} aria-label="Next 4 weeks" className="w-7 h-7 rounded-md border border-[var(--border)] flex items-center justify-center text-[var(--text-muted)] hover:bg-[var(--hover-bg)]">
                 <ChevronRight size={14} />
               </button>
-              <button className="px-3 py-1.5 rounded-md border border-[var(--border)] text-xs text-[var(--text-secondary)] hover:bg-[var(--hover-bg)]">
+              <button onClick={resetCalendar} className="px-3 py-1.5 rounded-md border border-[var(--border)] text-xs text-[var(--text-secondary)] hover:bg-[var(--hover-bg)]">
                 Today
               </button>
             </div>
           </div>
 
           {/* month labels */}
-          <div className="flex text-[11px] text-[var(--text-faint)] mb-1 pl-9">
-            {MONTHS.map((m) => (
-              <div key={m} style={{ width: `${100 / MONTHS.length}%` }}>
-                {m}
+          <div className="relative h-5 text-[11px] text-[var(--text-faint)] mb-1 pl-9">
+            {calendar.monthLabels.map((label) => (
+              <div key={`${label.year}-${label.month}`} className="absolute" style={{ left: `${(label.week / calendar.weeks.length) * 100}%` }}>
+                {new Date(label.year, label.month, 1).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}
               </div>
             ))}
           </div>
@@ -369,18 +372,19 @@ export default function StreakPage({ currentUser, results }) {
               ))}
             </div>
             <div className="flex gap-[3px] flex-1 overflow-x-auto">
-              {weeks.map((week, wIdx) => (
+              {calendar.weeks.map((week, wIdx) => (
                 <div key={wIdx} className="flex flex-col gap-[3px]">
-                  {week.map((level, dIdx) => (
+                  {week.map((cell, dIdx) => (
                     <div
-                      key={dIdx}
-                      onMouseEnter={(e) => handleEnter(e, wIdx, dIdx, level)}
+                      key={cell.dateKey}
+                      onMouseEnter={(e) => handleEnter(e, cell)}
                       onMouseLeave={() => setTooltip(null)}
-                      className="rounded-[3px] cursor-pointer"
+                      title={`${cell.count} ${cell.count === 1 ? 'test' : 'tests'} on ${cell.date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}`}
+                      className={`rounded-[3px] cursor-pointer transition-transform hover:scale-125 ${cell.isFuture ? 'opacity-0 pointer-events-none' : ''}`}
                       style={{
                         width: 12,
                         height: 12,
-                        background: LEVEL_COLORS[level],
+                        background: LEVEL_COLORS[cell.level],
                       }}
                     />
                   ))}
@@ -402,7 +406,7 @@ export default function StreakPage({ currentUser, results }) {
                 </div>
               ))}
             </div>
-            <div className="text-xs text-[var(--text-faint)]">365 days total</div>
+            <div className="text-xs text-[var(--text-faint)]">365 days total · {userResults.length} tests</div>
           </div>
           <div className="text-xs text-[var(--text-faint)] mt-3">Hover on a day to see details.</div>
         </div>

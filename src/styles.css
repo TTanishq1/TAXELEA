@@ -8,6 +8,11 @@
   color-scheme: light;
 }
 
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
 html {
   background: var(--bg, #0B0F14);
   transition: background-color 180ms ease;
@@ -16,6 +21,14 @@ html {
 body {
   overflow: hidden;
   background: var(--bg, #0B0F14);
+}
+
+/* Question/option/solution/KaTeX text follows the active theme instead
+   of being force-locked to white. The previous !important white-text
+   rule made all question text invisible (white-on-white) whenever
+   light mode was enabled. */
+[class*="question"], [class*="option"], [class*="solution"], .katex {
+  color: var(--text-primary, inherit);
 }
 
 .brand-backdrop {

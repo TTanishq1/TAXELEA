@@ -1172,31 +1172,47 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
             </div>
           </div>
           
-          <div className="grid grid-cols-5 gap-2">
-            {questions.map((_, i) => {
-              const status = getQuestionStatus(i);
-              const isCurrent = i === currentQuestion;
-              
-              let bgClass = "bg-[var(--hover-bg)]";
-              let textClass = "text-[var(--text-primary)]";
-              if (status === 'answered') { bgClass = "bg-green-600"; textClass = "text-white"; }
-              else if (status === 'marked') { bgClass = "bg-purple-600"; textClass = "text-white"; }
-              else if (status === 'answered-marked') { bgClass = "bg-purple-600"; textClass = "text-white"; }
-              else if (status === 'visited') { bgClass = "bg-[var(--border-strong)]"; textClass = "text-[var(--text-primary)]"; }
-              
+          <div className="space-y-4">
+            {sections.map(section => {
+              const sectionQuestions = questions.slice(section.startIndex, section.startIndex + section.count);
+
               return (
-                <button
-                  key={i}
-                  onClick={() => { handleQuestionClick(i); setShowMobilePalette(false); }}
-                  className={`relative w-8 h-8 rounded text-xs font-medium transition-colors ${textClass} ${
-                    isCurrent ? 'ring-2 ring-red-500 ring-offset-2 ring-offset-[var(--elevated-bg)]' : ''
-                  } ${bgClass}`}
-                >
-                  {i + 1}
-                  {status === 'answered-marked' && (
-                    <div className="absolute -top-1 -right-1 w-2.5 h-2.5 rounded-full bg-green-500 border border-[var(--elevated-bg)]" />
-                  )}
-                </button>
+                <div key={section.name} className="space-y-2">
+                  <div className="flex items-center gap-2 px-1 text-[10px] font-semibold uppercase tracking-[0.12em] text-[var(--text-faint)]">
+                    <span className="w-2 h-2 rounded-full" style={{ backgroundColor: section.color }} />
+                    {section.name}
+                  </div>
+
+                  <div className="grid grid-cols-5 gap-2">
+                    {sectionQuestions.map((_, localIndex) => {
+                      const i = section.startIndex + localIndex;
+                      const status = getQuestionStatus(i);
+                      const isCurrent = i === currentQuestion;
+
+                      let bgClass = "bg-[var(--hover-bg)]";
+                      let textClass = "text-[var(--text-primary)]";
+                      if (status === 'answered') { bgClass = "bg-green-600"; textClass = "text-white"; }
+                      else if (status === 'marked') { bgClass = "bg-purple-600"; textClass = "text-white"; }
+                      else if (status === 'answered-marked') { bgClass = "bg-purple-600"; textClass = "text-white"; }
+                      else if (status === 'visited') { bgClass = "bg-[var(--border-strong)]"; textClass = "text-[var(--text-primary)]"; }
+
+                      return (
+                        <button
+                          key={i}
+                          onClick={() => { handleQuestionClick(i); setShowMobilePalette(false); }}
+                          className={`relative w-8 h-8 rounded text-xs font-medium transition-colors ${textClass} ${
+                            isCurrent ? 'ring-2 ring-red-500 ring-offset-2 ring-offset-[var(--elevated-bg)]' : ''
+                          } ${bgClass}`}
+                        >
+                          {i + 1}
+                          {status === 'answered-marked' && (
+                            <div className="absolute -top-1 -right-1 w-2.5 h-2.5 rounded-full bg-green-500 border border-[var(--elevated-bg)]" />
+                          )}
+                        </button>
+                      );
+                    })}
+                  </div>
+                </div>
               );
             })}
           </div>
