@@ -9,7 +9,6 @@ import {
   Trophy,
   ArrowRight,
   Info,
-  Music2,
 } from "lucide-react";
 import { login, setupOwner, clearAllProgress } from "../lib/storage.js";
 import { getISTDate, getISTDateString, getISTToday, getISTYesterday, formatISTDate } from "../lib/timezone.js";
@@ -301,40 +300,27 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
   const userResults = currentUser ? results.filter(r => r.userId === currentUser.id) : [];
 
   return (
-    <div className="min-h-screen bg-[var(--bg)] text-[var(--text-primary)] p-4 sm:p-6 transition-colors duration-200 motion-reduce:transition-none" style={{ fontFamily: "'Segoe UI', Inter, system-ui, -apple-system, sans-serif" }}>
-      <style>{`
-      `}</style>
-      {/* Hero Section with Animation */}
-      <div className="flex gap-4.5 mb-4.5">
-        <div className="flex-1 bg-[var(--card-bg)] border border-[var(--border)] shadow-[var(--shadow)] rounded-[14px] p-6 lg:p-[26px_30px] flex items-center justify-between relative overflow-hidden transition-colors duration-200">
-          <div>
-            <h1 className="text-[26px] font-bold flex items-center gap-2.5">
-              Good Evening, {currentUser?.name || 'Owner'}! <span className="inline-block animate-bounce">👋</span>
-            </h1>
-            <p className="text-[var(--text-secondary)] text-[13.5px] mt-1.5">Stay consistent. Every question counts.</p>
-          </div>
-          <div className="hero-video-wrap relative w-24 h-24 lg:w-30 lg:h-30 shrink-0 rounded-full bg-[var(--elevated-bg)] overflow-visible ring-1 ring-[var(--accent-soft-border)]">
-            <video
-              src="/assets/hero.mp4"
-              autoPlay
-              loop
-              muted
-              playsInline
-              preload="metadata"
-              aria-label="TAXELEA mascot"
-              className="block w-full h-full object-cover"
-            />
-            <Music2 className="hero-music-note hero-music-note-one" size={18} />
-            <Music2 className="hero-music-note hero-music-note-two" size={14} />
-            <Music2 className="hero-music-note hero-music-note-three" size={16} />
-          </div>
+    <div className="min-h-screen w-full max-w-[1500px] mx-auto bg-[var(--bg)] text-[var(--text-primary)] p-4 sm:p-6 transition-colors duration-200 motion-reduce:transition-none">
+      <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-5">
+        <div>
+          <p className="text-xs font-semibold uppercase tracking-[0.14em] text-[var(--accent)] mb-2">Study dashboard</p>
+          <h1 className="text-2xl sm:text-3xl font-bold tracking-tight">Good evening, {currentUser?.name || 'Owner'}</h1>
+          <p className="text-sm text-[var(--text-secondary)] mt-1">Stay consistent. Every question counts.</p>
+        </div>
+        <div className="flex flex-wrap gap-2">
+          <button onClick={() => setPage('sectional')} className="flex items-center gap-2 rounded-lg bg-[var(--accent)] hover:bg-[var(--accent-hover)] text-white text-sm font-semibold px-4 py-2.5">
+            Start Practice <ArrowRight size={15} />
+          </button>
+          <button onClick={() => setPage('full')} className="flex items-center gap-2 rounded-lg border border-[var(--border-strong)] hover:bg-[var(--hover-bg)] text-[var(--text-primary)] text-sm font-semibold px-4 py-2.5">
+            Take Full Test <ArrowRight size={15} />
+          </button>
         </div>
       </div>
 
       {/* Subject Performance + Recent Tests */}
-      <div className="flex gap-4.5 mb-4.5">
-        <div className="flex-1 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-5 lg:p-[22px_24px] shadow-[var(--shadow)]">
-          <div className="flex items-center justify-between mb-4.5">
+      <div className="grid grid-cols-1 xl:grid-cols-2 gap-4 mb-4">
+        <div className="min-w-0 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-5 lg:p-6 shadow-[var(--shadow)]">
+          <div className="flex items-center justify-between mb-4">
             <h3 className="text-[15px] font-bold flex items-center gap-1.5">
               Subject Performance <Info size={14} className="text-[#5c5c64]" />
             </h3>
@@ -360,8 +346,8 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
           <div className="text-[11px] text-[#5c5c64] mt-4">Based on completed tests</div>
         </div>
 
-        <div className="flex-1 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-5 lg:p-[22px_24px] shadow-[var(--shadow)]">
-          <div className="flex items-center justify-between mb-4.5">
+        <div className="min-w-0 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-5 lg:p-6 shadow-[var(--shadow)]">
+          <div className="flex items-center justify-between mb-4">
             <h3 className="text-[15px] font-bold">Recent Tests</h3>
             <button 
               onClick={() => setPage('performance')}
@@ -373,36 +359,36 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
           {userResults.length > 0 ? (
             <div className="space-y-2">
               {userResults.slice(0, 4).map((r, index) => (
-                <div key={index} className="flex items-center justify-between p-2 rounded-lg bg-[#1a1a20]">
+                    <div key={index} className="flex items-center justify-between p-2 rounded-lg bg-[var(--elevated-bg)]">
                   <div className="flex items-center gap-3">
-                    <div className="w-8 h-8 rounded-lg bg-[#1c1c22] border border-[#242429] flex items-center justify-center">
-                      <ClipboardList size={17} className="text-[#e0313b]" />
+                    <div className="w-8 h-8 rounded-lg bg-[var(--card-bg)] border border-[var(--border)] flex items-center justify-center">
+                      <ClipboardList size={17} className="text-[var(--accent)]" />
                     </div>
                     <div>
-                      <p className="text-sm font-semibold text-[#f2f2f3] truncate max-w-[150px]">{r.title || 'Test'}</p>
-                      <p className="text-xs text-[#5c5c64]">{formatISTDate(r.id, { month: 'short', day: 'numeric' })}</p>
+                      <p className="text-sm font-semibold text-[var(--text-primary)] truncate max-w-[150px]">{r.title || 'Test'}</p>
+                      <p className="text-xs text-[var(--text-faint)]">{formatISTDate(r.id, { month: 'short', day: 'numeric' })}</p>
                     </div>
                   </div>
                   <div className="text-right">
-                    <p className="text-sm font-semibold text-[#22c55e]">{r.score ? Math.round((r.score / r.total) * 100) : 0}%</p>
+                    <p className="text-sm font-semibold text-green-500">{r.score ? Math.round((r.score / r.total) * 100) : 0}%</p>
                   </div>
                 </div>
               ))}
             </div>
           ) : (
-            <div className="flex flex-col items-center justify-center py-8 gap-3 text-[#9a9aa2]">
-              <ClipboardList size={44} className="text-[#5c5c64]" />
-              <div className="text-[13.5px] font-semibold text-[#f2f2f3]">No tests attempted yet.</div>
-              <div className="text-[11.5px] text-[#5c5c64]">Start a test to see your recent activity here.</div>
+            <div className="flex flex-col items-center justify-center py-8 gap-3 text-[var(--text-secondary)]">
+              <ClipboardList size={44} className="text-[var(--text-faint)]" />
+              <div className="text-[13.5px] font-semibold text-[var(--text-primary)]">No tests attempted yet.</div>
+              <div className="text-[11.5px] text-[var(--text-faint)]">Start a test to see your recent activity here.</div>
             </div>
           )}
         </div>
       </div>
 
       {/* Stat Cards */}
-      <div className="flex gap-4.5 mb-4.5">
+      <div className="grid grid-cols-2 xl:grid-cols-5 gap-4 mb-4">
         {statCards.map((s) => (
-          <div key={s.label} className="flex-1 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-4 lg:p-[18px_20px] shadow-[var(--shadow)]">
+          <div key={s.label} className="min-w-0 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-4 lg:p-5 shadow-[var(--shadow)]">
             <div className="text-[12px] text-[#9a9aa2] mb-3.5">{s.label}</div>
             <div className="flex items-center gap-2.5 mb-2.5">
               <div className="w-7 h-7 rounded-lg flex items-center justify-center" style={{ background: `${s.color}24` }}>
@@ -413,12 +399,12 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
             <div className="text-[10.5px]" style={{ color: s.color }}>{s.caption}</div>
           </div>
         ))}
-        <div className="flex-1 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-4 lg:p-[18px_20px] flex flex-col items-center justify-center shadow-[var(--shadow)]">
+        <div className="min-w-0 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-4 lg:p-5 flex flex-col items-center justify-center shadow-[var(--shadow)]">
           <div className="text-[12px] text-[#9a9aa2] self-start mb-2">Accuracy</div>
           <RingChart value={stats.accuracy} />
           <div className="text-[10.5px] text-[#3b82f6] mt-2.5 text-center">Overall accuracy</div>
         </div>
-        <div className="flex-1 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-4 lg:p-[18px_20px] shadow-[var(--shadow)]">
+        <div className="min-w-0 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-4 lg:p-5 shadow-[var(--shadow)]">
           <div className="text-[12px] text-[#9a9aa2] mb-3.5">Best Streak</div>
           <div className="flex items-center gap-2.5 mb-2.5">
             <div className="w-7 h-7 rounded-lg flex items-center justify-center" style={{ background: 'rgba(230,185,58,0.14)' }}>
@@ -431,8 +417,8 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
       </div>
 
       {/* Quick Actions + Continue Practice */}
-      <div className="flex gap-4.5">
-        <div className="flex-[1.3] bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-5 lg:p-[22px_24px] shadow-[var(--shadow)]">
+      <div className="grid grid-cols-1 xl:grid-cols-[1.3fr_0.9fr] gap-4">
+        <div className="min-w-0 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-5 lg:p-6 shadow-[var(--shadow)]">
           <h3 className="text-[15px] font-bold mb-4">Quick Actions</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
             {quickActions.map((a) => (
@@ -454,7 +440,7 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
           </div>
         </div>
 
-        <div className="flex-[0.9] bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-5 lg:p-[22px_24px] shadow-[var(--shadow)]">
+        <div className="min-w-0 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-5 lg:p-6 shadow-[var(--shadow)]">
           <h3 className="text-[15px] font-bold mb-4">Continue Practice</h3>
           {inProgressTest ? (
             <>
