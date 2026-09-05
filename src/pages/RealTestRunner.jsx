@@ -947,6 +947,13 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                 <span className={`font-mono text-sm font-bold ${timeLeft < 300 ? 'text-red-500' : 'text-[var(--text-primary)]'}`}>{formatTime(timeLeft)}</span>
               </div>
               <button
+                onClick={handleSubmit}
+                aria-label="Submit Test"
+                className="flex items-center gap-1.5 text-xs font-semibold text-white bg-red-700 hover:bg-red-600 rounded-lg px-2.5 sm:px-3 py-2"
+              >
+                <span className="hidden sm:inline">Submit Test</span><Check size={14} />
+              </button>
+              <button
                 onClick={() => setShowMobilePalette(true)}
                 className="lg:hidden w-9 h-9 flex items-center justify-center rounded-lg border border-[var(--border)] hover:bg-[var(--hover-bg)] text-[var(--text-muted)]"
                 title="Question Palette"
@@ -1091,20 +1098,10 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
               <ChevronLeft size={16} /> Previous
             </button>
             
-            {currentQuestion === totalQuestions - 1 ? (
-              <button onClick={handleSubmit} className="flex items-center gap-1.5 text-sm font-medium text-white bg-red-700 hover:bg-red-600 rounded-lg px-4 py-2">
-                Submit Test <Check size={15} />
-              </button>
-            ) : (
+            {currentQuestion !== totalQuestions - 1 && (
               <>
                 <button onClick={handleNext} className="flex items-center gap-1.5 text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)] px-3 py-1.5 rounded hover:bg-[var(--hover-bg)]">
                   Save & Next <ChevronRight size={16} />
-                </button>
-                <button
-                  onClick={handleSubmit}
-                  className="flex items-center gap-1.5 text-sm font-medium text-white bg-red-700 hover:bg-red-600 rounded-lg px-4 py-2"
-                >
-                  Submit Test <Check size={15} />
                 </button>
               </>
             )}
