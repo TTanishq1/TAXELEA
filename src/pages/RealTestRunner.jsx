@@ -925,17 +925,17 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
 
   // Render active test
   return (
-    <div className="flex flex-col lg:flex-row h-full min-h-0 bg-[var(--bg)]">
+    <div className="flex flex-col lg:flex-row h-full min-h-0 bg-[var(--bg)] p-3 sm:p-4">
       {/* Main question area */}
-      <div className="flex-1 flex flex-col overflow-hidden">
+      <div className="flex-1 flex flex-col overflow-hidden rounded-[18px] border border-[var(--border)] bg-[var(--bg)]">
         {/* Header */}
-        <div className="border-b border-[var(--border)] bg-[var(--card-bg)] px-4 py-3 sm:px-6">
+        <div className="border-b border-[var(--border)] bg-[var(--card-bg)] px-4 py-3 sm:px-6 rounded-t-[18px]">
           <div className="grid grid-cols-[auto_1fr_auto] items-center gap-3">
             <button onClick={handleExit} className="w-9 h-9 flex items-center justify-center rounded-lg border border-[var(--border)] hover:bg-[var(--hover-bg)] text-[var(--text-muted)]" title="Exit test">
               <X size={16} />
             </button>
-            <div className="min-w-0 text-center">
-              <div className="flex justify-center items-center gap-2">
+            <div className="min-w-0 text-left">
+              <div className="flex items-center gap-2">
                 <span className="w-2.5 h-2.5 rounded-full bg-red-600 shrink-0" />
                 <h1 className="text-sm sm:text-base font-bold text-[var(--text-primary)] truncate" title={testData.title}>{testData.title}</h1>
               </div>
@@ -994,12 +994,12 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
         )}
 
         {/* Question content */}
-        <div className="flex-1 overflow-y-auto p-4 sm:p-6">
+        <div className="flex-1 overflow-y-auto p-4 sm:p-6 bg-[var(--bg)]">
           <div className="max-w-4xl mx-auto space-y-4">
-            <Card className="overflow-hidden">
-              <div className="px-5 sm:px-7 py-3 bg-[var(--elevated-bg)] border-b border-[var(--border)] flex items-center justify-between gap-3">
+            <div className="rounded-[18px] border border-[var(--border)] bg-[var(--card-bg)] overflow-hidden shadow-[var(--shadow)]">
+              <div className="px-5 sm:px-7 py-3 bg-[var(--card-bg)] border-b border-[var(--border)] flex items-center justify-between gap-3">
                 <div className="flex items-center gap-2 text-xs font-semibold text-[var(--text-secondary)]">
-                  <span className="w-6 h-6 rounded-md bg-red-700 text-white flex items-center justify-center">{currentQuestion + 1}</span>
+                  <span className="w-6 h-6 rounded-md bg-[var(--accent-soft-bg)] text-[var(--text-primary)] border border-[var(--border-strong)] flex items-center justify-center">{currentQuestion + 1}</span>
                   Question {currentQuestion + 1}
                 </div>
                 <div className="flex items-center gap-1.5 text-xs text-[var(--text-faint)]"><Clock size={13} /> {formatTime(questionElapsed)}</div>
@@ -1042,12 +1042,12 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                     <button
                       key={o.id}
                       onClick={() => handleAnswerSelect(o.id)}
-                      className={`w-full flex items-center gap-3 text-left rounded-lg px-4 py-3 border transition-colors ${
-                        picked ? "border-red-600 bg-[var(--accent-soft-bg)]" : "border-[var(--border-strong)] hover:bg-[var(--hover-bg)]"
+                      className={`w-full flex items-center gap-3 text-left rounded-xl px-4 py-3.5 border transition-all duration-200 ${
+                        picked ? "border-[var(--accent)] bg-[var(--accent-soft-bg)] shadow-[0_0_0_1px_rgba(29,155,240,0.16)]" : "border-[var(--border)] bg-[var(--elevated-bg)] hover:bg-[var(--hover-bg)]"
                       }`}
                     >
-                      <span className={`shrink-0 w-6 h-6 rounded-full flex items-center justify-center text-xs font-semibold border ${
-                        picked ? "bg-red-600 border-red-600 text-white" : "border-[var(--border-strong)] text-[var(--text-primary)]"
+                      <span className={`shrink-0 w-7 h-7 rounded-full flex items-center justify-center text-xs font-semibold border ${
+                        picked ? "bg-[var(--accent)] border-[var(--accent)] text-white" : "border-[var(--border-strong)] text-[var(--text-primary)] bg-[var(--input-bg)]"
                       }`}>{o.id}</span>
                       <span className="text-sm text-[var(--text-primary)] font-medium">
                         {o.html ? <span dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(o.html))) }} /> : <span dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(o.text))) }} />}
@@ -1057,7 +1057,7 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                 })}
               </div>
               </div>
-            </Card>
+            </div>
           </div>
         </div>
 
@@ -1119,110 +1119,81 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
       {showMobilePalette && (
         <div className="fixed inset-0 bg-[var(--scrim)] z-40 lg:hidden" onClick={() => setShowMobilePalette(false)} />
       )}
-      <div className={`w-72 border-l border-[var(--border)] bg-[var(--elevated-bg)] overflow-y-auto
-        fixed lg:static inset-y-0 right-0 z-50 transition-transform duration-200
+      <div className={`w-[330px] border-l border-[var(--border)] bg-[var(--card-bg)] overflow-y-auto
+        fixed lg:static inset-y-0 right-0 z-50 transition-transform duration-200 p-4
         ${showMobilePalette ? 'translate-x-0' : 'translate-x-full lg:translate-x-0'}`}>
-        <div className="p-4">
+        <div className="space-y-4">
           <div className="flex items-center justify-between mb-3 lg:hidden">
             <h3 className="text-sm font-semibold text-[var(--text-primary)]">Question Palette</h3>
             <button onClick={() => setShowMobilePalette(false)} className="w-7 h-7 flex items-center justify-center rounded-md hover:bg-[var(--hover-bg)] text-[var(--text-muted)]">
               <X size={16} />
             </button>
           </div>
-          <h3 className="text-sm font-semibold text-[var(--text-primary)] mb-3 hidden lg:block">Question Palette</h3>
 
-          {/* Answered / Unanswered summary — matches reference pattern */}
-          <div className="rounded-lg border border-[var(--border)] mb-4 overflow-hidden">
-            <div className="flex items-center justify-between px-3 py-2.5 border-b border-[var(--border)]">
-              <span className="flex items-center gap-2 text-xs text-[var(--text-secondary)]">
-                <span className="w-2.5 h-2.5 rounded-full bg-green-600" /> Answered Qs
-              </span>
-              <span className="text-xs font-semibold text-[var(--text-primary)]">{answeredCount}</span>
+          <div className="rounded-xl border border-[var(--border)] bg-[var(--elevated-bg)] p-3 mb-2">
+            <div className="flex items-center justify-between text-[11px] text-[var(--text-faint)] mb-2">
+              <span>Time Left</span>
+              <span className="text-[var(--text-primary)] font-semibold">{formatTime(timeLeft)}</span>
             </div>
-            <div className="flex items-center justify-between px-3 py-2.5">
-              <span className="flex items-center gap-2 text-xs text-[var(--text-secondary)]">
-                <span className="w-2.5 h-2.5 rounded-full bg-[var(--border-strong)]" /> Unanswered Qs
-              </span>
-              <span className="text-xs font-semibold text-[var(--text-primary)]">{totalQuestions - answeredCount}</span>
+            <div className="grid grid-cols-2 gap-2"> 
+              <button className="rounded-lg border border-[var(--border)] bg-[var(--card-bg)] py-2 text-xs text-[var(--text-secondary)]">End Test</button>
+              <button className="rounded-lg bg-[var(--accent)] text-white py-2 text-xs font-semibold">Pause</button>
             </div>
           </div>
 
-          <div className="space-y-2 mb-4">
-            <div className="flex items-center gap-2 text-xs">
-              <div className="w-4 h-4 rounded bg-green-600" />
-              <span className="text-[var(--text-faint)]">Answered</span>
+          <div className="rounded-xl border border-[var(--border)] bg-[var(--elevated-bg)] p-3">
+            <h3 className="text-sm font-semibold text-[var(--text-primary)] mb-3 hidden lg:block">Question Palette</h3>
+            <div className="flex items-center justify-between gap-2 mb-3 text-[10px] text-[var(--text-faint)]">
+              <span className="inline-flex items-center gap-1.5"><span className="w-2.5 h-2.5 rounded bg-green-600" />Answered</span>
+              <span className="inline-flex items-center gap-1.5"><span className="w-2.5 h-2.5 rounded bg-[var(--border-strong)]" />Unanswered</span>
             </div>
-            <div className="flex items-center gap-2 text-xs">
-              <div className="w-4 h-4 rounded bg-[var(--border-strong)]" />
-              <span className="text-[var(--text-faint)]">Not Answered</span>
-            </div>
-            <div className="flex items-center gap-2 text-xs">
-              <div className="w-4 h-4 rounded bg-[var(--hover-bg)]" />
-              <span className="text-[var(--text-faint)]">Not Visited</span>
-            </div>
-            <div className="flex items-center gap-2 text-xs">
-              <div className="w-4 h-4 rounded bg-purple-600" />
-              <span className="text-[var(--text-faint)]">Marked for Review</span>
-            </div>
-            <div className="flex items-center gap-2 text-xs">
-              <div className="w-4 h-4 rounded bg-purple-600 relative">
-                <div className="absolute -top-1 -right-1 w-2 h-2 rounded-full bg-green-500 border border-[var(--elevated-bg)]" />
-              </div>
-              <span className="text-[var(--text-faint)]">Answered &amp; Marked for Review</span>
+            <div className="grid grid-cols-5 gap-2">
+              {questions.map((_, i) => {
+                const status = getQuestionStatus(i);
+                const isCurrent = i === currentQuestion;
+
+                let bgClass = "bg-[var(--hover-bg)]";
+                let textClass = "text-[var(--text-primary)]";
+                if (status === 'answered') { bgClass = "bg-green-600"; textClass = "text-white"; }
+                else if (status === 'marked') { bgClass = "bg-red-600"; textClass = "text-white"; }
+                else if (status === 'answered-marked') { bgClass = "bg-purple-600"; textClass = "text-white"; }
+                else if (status === 'visited') { bgClass = "bg-[var(--border-strong)]"; textClass = "text-[var(--text-primary)]"; }
+
+                return (
+                  <button
+                    key={i}
+                    onClick={() => { handleQuestionClick(i); setShowMobilePalette(false); }}
+                    className={`relative w-10 h-10 rounded-md text-xs font-medium transition-colors ${textClass} ${
+                      isCurrent ? 'ring-2 ring-[var(--accent)] ring-offset-2 ring-offset-[var(--elevated-bg)]' : ''
+                    } ${bgClass}`}
+                  >
+                    {i + 1}
+                    {status === 'answered-marked' && (
+                      <div className="absolute -top-1 -right-1 w-2.5 h-2.5 rounded-full bg-green-500 border border-[var(--elevated-bg)]" />
+                    )}
+                  </button>
+                );
+              })}
             </div>
           </div>
-          
-          <div className="space-y-4">
-            {sections.map(section => {
-              const sectionQuestions = questions.slice(section.startIndex, section.startIndex + section.count);
 
-              return (
-                <div key={section.name} className="space-y-2">
-                  <div className="flex items-center gap-2 px-1 text-[10px] font-semibold uppercase tracking-[0.12em] text-[var(--text-faint)]">
-                    <span className="w-2 h-2 rounded-full" style={{ backgroundColor: section.color }} />
-                    {section.name}
-                  </div>
-
-                  <div className="grid grid-cols-5 gap-2">
-                    {sectionQuestions.map((_, localIndex) => {
-                      const i = section.startIndex + localIndex;
-                      const status = getQuestionStatus(i);
-                      const isCurrent = i === currentQuestion;
-
-                      let bgClass = "bg-[var(--hover-bg)]";
-                      let textClass = "text-[var(--text-primary)]";
-                      if (status === 'answered') { bgClass = "bg-green-600"; textClass = "text-white"; }
-                      else if (status === 'marked') { bgClass = "bg-purple-600"; textClass = "text-white"; }
-                      else if (status === 'answered-marked') { bgClass = "bg-purple-600"; textClass = "text-white"; }
-                      else if (status === 'visited') { bgClass = "bg-[var(--border-strong)]"; textClass = "text-[var(--text-primary)]"; }
-
-                      return (
-                        <button
-                          key={i}
-                          onClick={() => { handleQuestionClick(i); setShowMobilePalette(false); }}
-                          className={`relative w-8 h-8 rounded text-xs font-medium transition-colors ${textClass} ${
-                            isCurrent ? 'ring-2 ring-red-500 ring-offset-2 ring-offset-[var(--elevated-bg)]' : ''
-                          } ${bgClass}`}
-                        >
-                          {i + 1}
-                          {status === 'answered-marked' && (
-                            <div className="absolute -top-1 -right-1 w-2.5 h-2.5 rounded-full bg-green-500 border border-[var(--elevated-bg)]" />
-                          )}
-                        </button>
-                      );
-                    })}
-                  </div>
-                </div>
-              );
-            })}
+          <div className="rounded-xl border border-[var(--border)] bg-[var(--elevated-bg)] p-3">
+            <div className="flex items-center justify-between mb-2">
+              <span className="text-sm font-semibold text-[var(--text-primary)]">Section Progress</span>
+              <span className="text-xs text-[var(--text-faint)]">{Math.min(answeredCount, totalQuestions)} / {totalQuestions}</span>
+            </div>
+            <div className="h-2 rounded-full bg-[var(--track-bg)] overflow-hidden">
+              <div className="h-full rounded-full bg-[var(--accent)]" style={{ width: `${(answeredCount / totalQuestions) * 100}%` }} />
+            </div>
+            <div className="mt-2 text-right text-xs text-[var(--text-faint)]">{Math.round((answeredCount / totalQuestions) * 100)}%</div>
           </div>
-          
-          <div className="mt-4 pt-4 border-t border-[var(--border)]">
-            <button
-              onClick={handleSubmit}
-              className="w-full flex items-center justify-center gap-2 bg-red-700 hover:bg-red-600 text-white text-sm font-medium rounded-lg px-4 py-2.5"
-            >
-              Submit Test <Check size={15} />
+
+          <div className="grid grid-cols-2 gap-2.5">
+            <button className="flex items-center justify-center gap-2 rounded-lg border border-[var(--border)] bg-[var(--elevated-bg)] text-[var(--text-primary)] text-sm font-medium py-3">
+              <span className="text-base">▣</span> Question Paper
+            </button>
+            <button onClick={handleSubmit} className="flex items-center justify-center gap-2 rounded-lg bg-[var(--accent)] text-white text-sm font-semibold py-3">
+              <span className="text-base">✓</span> Submit Test
             </button>
           </div>
         </div>
