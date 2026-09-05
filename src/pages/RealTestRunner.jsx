@@ -734,7 +734,7 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
             {[
               ['correct', 'Correct', score.correct, 'text-green-600', 'border-green-500/30 bg-green-500/10'],
               ['incorrect', 'Incorrect', score.incorrect, 'text-red-600', 'border-red-500/30 bg-red-500/10'],
-              ['review', 'Marked for Review', markedForReview.size, 'text-purple-500', 'border-purple-500/30 bg-purple-500/10'],
+              ['unattempted', 'Not Attempted', score.unattempted, 'text-[var(--text-primary)]', 'border-[var(--border-strong)] bg-[var(--elevated-bg)]'],
             ].map(([key, label, value, tone, background]) => (
               <button
                 key={key}
@@ -809,14 +809,14 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
           <div className="flex items-center justify-between gap-3">
             <div>
               <h3 className="text-base font-bold text-[var(--text-primary)]">
-                {resultFilter === 'correct' ? 'Correct Answers' : resultFilter === 'incorrect' ? 'Incorrect Answers' : 'Marked for Review'}
+                {resultFilter === 'correct' ? 'Correct Answers' : resultFilter === 'incorrect' ? 'Incorrect Answers' : 'Not Attempted'}
               </h3>
               <p className="text-xs text-[var(--text-faint)] mt-1">Review your responses and open solutions when you need them.</p>
             </div>
             <span className="text-xs text-[var(--text-faint)]">
               {questions.filter((q, i) => {
                 const correctAnswer = q.correctAnswer || q.answer;
-                return resultFilter === 'review' ? markedForReview.has(i) : resultFilter === 'correct' ? answers[i] === correctAnswer : answers[i] !== undefined && answers[i] !== correctAnswer;
+                return resultFilter === 'unattempted' ? answers[i] === undefined : resultFilter === 'correct' ? answers[i] === correctAnswer : answers[i] !== undefined && answers[i] !== correctAnswer;
               }).length} questions
             </span>
           </div>
@@ -826,8 +826,8 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
             const correctAnswer = q.correctAnswer || q.answer;
             const correct = userAnswer === correctAnswer;
             const attempted = userAnswer !== undefined;
-            const visibleInFilter = resultFilter === 'review'
-              ? markedForReview.has(i)
+            const visibleInFilter = resultFilter === 'unattempted'
+              ? !attempted
               : resultFilter === 'correct'
                 ? correct
                 : attempted && !correct;
