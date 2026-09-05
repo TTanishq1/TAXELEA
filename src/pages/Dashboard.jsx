@@ -386,7 +386,7 @@ export default function Dashboard({ setPage, startPractice, results, stats, inPr
       </div>
 
       {/* Stat Cards */}
-      <div className="grid grid-cols-2 xl:grid-cols-5 gap-4 mb-4">
+      <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 mb-4">
         {statCards.map((s) => (
           <div key={s.label} className="min-w-0 bg-[var(--card-bg)] border border-[var(--border)] rounded-[14px] p-4 lg:p-5 shadow-[var(--shadow)]">
             <div className="text-[12px] text-[#9a9aa2] mb-3.5">{s.label}</div>
