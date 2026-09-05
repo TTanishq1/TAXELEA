@@ -23,14 +23,19 @@ export function Header({ onMenuClick, onLogout, currentUser }) {
       <div className="flex items-center gap-1.5 sm:gap-3 shrink-0">
         <button
           onClick={toggleTheme}
+          aria-label={theme === "dark" ? "Switch to light mode" : "Switch to dark mode"}
           title={theme === "dark" ? "Switch to light mode" : "Switch to dark mode"}
-          className="w-9 h-9 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-secondary)]"
+          className="w-10 h-10 sm:w-9 sm:h-9 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-secondary)]"
         >
           {theme === "dark" ? <Sun size={17} /> : <Moon size={17} />}
         </button>
-        <button className="relative w-9 h-9 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-secondary)] disabled:opacity-50" disabled={!currentUser}>
+        <button
+          aria-label="Notifications"
+          title="Notifications"
+          className="w-10 h-10 sm:w-9 sm:h-9 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-secondary)] disabled:opacity-50"
+          disabled={!currentUser}
+        >
           <Bell size={17} />
-          <span className="absolute -top-1 -right-1 bg-[var(--accent)] text-[10px] w-4 h-4 rounded-full flex items-center justify-center text-white font-medium">3</span>
         </button>
         {currentUser ? (
           <div className="flex items-center gap-2.5 md:gap-3 pl-1">
@@ -44,7 +49,8 @@ export function Header({ onMenuClick, onLogout, currentUser }) {
             <button
               onClick={onLogout}
               title="Logout"
-              className="w-9 h-9 flex items-center justify-center rounded-lg hover:bg-[var(--danger-bg)] text-[var(--danger-text)] transition-colors"
+              aria-label="Logout"
+              className="w-10 h-10 sm:w-9 sm:h-9 flex items-center justify-center rounded-lg hover:bg-[var(--danger-bg)] text-[var(--danger-text)] transition-colors"
             >
               <LogOut size={17} />
             </button>

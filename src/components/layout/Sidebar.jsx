@@ -23,7 +23,7 @@ export function Sidebar({ page, setPage, onClose, currentUser }) {
       <div className="px-5 pt-6 pb-5 border-b border-[var(--border)] flex items-center justify-between">
         <Logo />
         {onClose && (
-          <button onClick={onClose} className="lg:hidden w-8 h-8 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-muted)] shrink-0">
+          <button onClick={onClose} aria-label="Close navigation" className="lg:hidden w-9 h-9 flex items-center justify-center rounded-lg hover:bg-[var(--hover-bg)] text-[var(--text-muted)] shrink-0">
             <X size={18} />
           </button>
         )}
@@ -42,6 +42,8 @@ export function Sidebar({ page, setPage, onClose, currentUser }) {
                 }
               }}
               disabled={isLocked}
+              aria-current={active ? "page" : undefined}
+              aria-label={isLocked ? `${item.label} (login required)` : item.label}
               className={`w-full flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm transition-colors relative ${
                 active
                   ? "bg-[var(--accent-soft-bg)] text-[var(--text-primary)] shadow-inner shadow-[rgba(239,68,68,0.12)]"
