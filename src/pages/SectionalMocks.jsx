@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Bookmark, ChevronDown, Play, FileText, Clock, Settings, X } from "lucide-react";
+import { ArrowLeft, Bookmark, ChevronDown, Play, FileText, Clock, Settings, X } from "lucide-react";
 import { Card } from "../components/ui/Card.jsx";
 import { SECTIONAL_COUNTS } from "../data/catalog.js";
 import { getSectionalCardsBySubject } from "../data/testCards.js";
@@ -115,7 +115,7 @@ function getHumanReadableName(card) {
 export function SectionalMocks({ startPractice, bookmarks, toggleBookmark, currentUser }) {
   // Filter bookmarks for current user
   const userBookmarks = currentUser ? bookmarks.filter(b => b.userId === currentUser.id) : bookmarks;
-  const [openSubject, setOpenSubject] = useState("quantitative-aptitude");
+  const [openSubject, setOpenSubject] = useState(null);
   const [selectedTopic, setSelectedTopic] = useState(null);
   const [timingConfig, setTimingConfig] = useState({});
   const [showConfigModal, setShowConfigModal] = useState(false);
@@ -123,9 +123,12 @@ export function SectionalMocks({ startPractice, bookmarks, toggleBookmark, curre
   const [configMinutes, setConfigMinutes] = useState(30);
   
   const currentSubjectCards = getSectionalCardsBySubject(openSubject);
-  const topicCards = selectedTopic 
+  const topicCards = selectedTopic
     ? currentSubjectCards.filter(card => card.topic === selectedTopic)
     : currentSubjectCards;
+  const selectedTopicMeta = openSubject
+    ? SECTIONAL_COUNTS[openSubject].topics.find(([topicKey]) => topicKey === selectedTopic)
+    : null;
   
   // Load timing configuration on mount
   useEffect(() => {
@@ -152,13 +155,16 @@ export function SectionalMocks({ startPractice, bookmarks, toggleBookmark, curre
         <h1 className="text-xl font-bold text-[var(--text-primary)]">Sectional Mocks</h1>
         <p className="text-[var(--text-faint)] text-sm mt-1">Topic-wise practice drawn from the real SSC CGL question bank — 2,954 tests across 4 subjects.</p>
       </div>
-      <div className="space-y-4">
+      <div className="sectional-subject-grid">
         {Object.entries(SECTIONAL_COUNTS).map(([key, subj]) => {
           const Icon = subj.icon;
           const open = openSubject === key;
           return (
-            <Card key={key} className="sectional-subject-card overflow-hidden">
-              <button onClick={() => setOpenSubject(open ? null : key)} className="sectional-subject-card__header w-full flex items-center justify-between px-5 py-4 hover:bg-[var(--hover-bg)]">
+            <Card key={key} className={`sectional-subject-card overflow-hidden ${open ? "sectional-subject-card--open" : ""}`}>
+              <button onClick={() => {
+                setOpenSubject(open ? null : key);
+                setSelectedTopic(null);
+              }} className="sectional-subject-card__header w-full flex items-center justify-between px-5 py-4 hover:bg-[var(--hover-bg)]">
                 <div className="flex items-center gap-3">
                   <div className="w-9 h-9 rounded-lg flex items-center justify-center" style={{ backgroundColor: subj.color + "22" }}>
                     <Icon size={18} style={{ color: subj.color }} />
@@ -172,28 +178,45 @@ export function SectionalMocks({ startPractice, bookmarks, toggleBookmark, curre
               </button>
               {open && (
                 <div className="sectional-subject-card__body border-t border-[var(--border)]">
-                  {/* Topic filter */}
-                  <div className="px-4 sm:px-5 py-3 flex flex-wrap gap-2 border-b border-[var(--border)]">
-                    <button
-                      onClick={() => setSelectedTopic(null)}
-                      className={`text-xs px-3 py-1.5 rounded-md ${!selectedTopic ? 'bg-[var(--accent-bg)] text-white' : 'bg-[var(--elevated-bg)] text-[var(--text-secondary)]'}`}
-                    >
-                      All Topics
-                    </button>
-                    {subj.topics.map(([tkey, tlabel]) => (
-                      <button
-                        key={tkey}
-                        onClick={() => setSelectedTopic(tkey)}
-                        className={`text-xs px-3 py-1.5 rounded-md ${selectedTopic === tkey ? 'bg-[var(--accent-bg)] text-white' : 'bg-[var(--elevated-bg)] text-[var(--text-secondary)]'}`}
-                      >
-                        {tlabel}
-                      </button>
-                    ))}
-                  </div>
-                  
-                  {/* Test cards */}
-                  <div className="sectional-subject-card__tests px-4 sm:px-5 py-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-                    {topicCards.length > 0 ? topicCards.map((card) => {
+                  {!selectedTopic ? (
+                    <div className="sectional-chapter-grid px-4 sm:px-5 py-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                      {subj.topics.map(([topicKey, topicLabel, topicCount]) => (
+                        <button
+                          key={topicKey}
+                          onClick={() => setSelectedTopic(topicKey)}
+                          className="sectional-chapter-card flex items-center justify-between text-left px-4 py-3"
+                        >
+                          <span className="flex items-center gap-3 min-w-0">
+                            <span className="sectional-chapter-card__icon flex items-center justify-center rounded-lg">
+                              <FileText size={15} />
+                            </span>
+                            <span className="min-w-0">
+                              <span className="block text-sm font-semibold text-[var(--text-primary)] truncate">{topicLabel}</span>
+                              <span className="block text-xs text-[var(--text-faint)] mt-0.5">{topicCount} tests</span>
+                            </span>
+                          </span>
+                          <ChevronDown size={15} className="-rotate-90 text-[var(--text-faint)] flex-shrink-0 ml-2" />
+                        </button>
+                      ))}
+                    </div>
+                  ) : (
+                    <div>
+                      <div className="sectional-chapter-heading flex items-center gap-3 px-4 sm:px-5 py-3 border-b border-[var(--border)]">
+                        <button
+                          onClick={() => setSelectedTopic(null)}
+                          className="w-8 h-8 flex items-center justify-center rounded-md hover:bg-[var(--hover-bg)] text-[var(--text-muted)]"
+                          title="Back to chapters"
+                        >
+                          <ArrowLeft size={15} />
+                        </button>
+                        <div>
+                          <div className="text-sm font-semibold text-[var(--text-primary)]">{selectedTopicMeta?.[1] || "Chapter tests"}</div>
+                          <div className="text-xs text-[var(--text-faint)]">Select a test to begin practice</div>
+                        </div>
+                      </div>
+
+                      <div className="sectional-subject-card__tests px-4 sm:px-5 py-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                        {topicCards.length > 0 ? topicCards.map((card) => {
                       const bookmarked = userBookmarks.includes(card.id);
                       return (
                         <div key={card.id} className="flex items-center justify-between bg-[var(--elevated-bg)] border border-[var(--border)] rounded-lg px-3.5 py-3">
@@ -236,12 +259,14 @@ export function SectionalMocks({ startPractice, bookmarks, toggleBookmark, curre
                           </div>
                         </div>
                       );
-                    }) : (
-                      <div className="col-span-full text-center py-8 text-[var(--text-faint)] text-sm">
-                        No tests available for this topic yet. More tests coming soon!
+                        }) : (
+                          <div className="col-span-full text-center py-8 text-[var(--text-faint)] text-sm">
+                            No tests available for this topic yet. More tests coming soon!
+                          </div>
+                        )}
                       </div>
-                    )}
-                  </div>
+                    </div>
+                  )}
                 </div>
               )}
             </Card>
