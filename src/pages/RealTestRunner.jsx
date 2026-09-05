@@ -162,6 +162,8 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
   const [timerActive, setTimerActive] = useState(false);
   const [showSubmitConfirm, setShowSubmitConfirm] = useState(false);
   const [missingTiming, setMissingTiming] = useState(false);
+  const [resultFilter, setResultFilter] = useState('correct');
+  const [openSolutions, setOpenSolutions] = useState(new Set());
   // Pre-test instructions screen (Testbook-pattern: Instructions -> Agree &
   // Continue -> test begins). Previously the test started immediately with
   // no instructions step at all.
@@ -728,19 +730,21 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
             </div>
           </div>
           
-          <div className="grid grid-cols-3 gap-4 mb-6 max-w-md mx-auto">
-            <div className="text-center">
-              <div className="text-2xl font-bold text-green-600">{score.correct}</div>
-              <div className="text-xs text-[var(--text-faint)]">Correct</div>
-            </div>
-            <div className="text-center">
-              <div className="text-2xl font-bold text-red-600">{score.incorrect}</div>
-              <div className="text-xs text-[var(--text-faint)]">Incorrect</div>
-            </div>
-            <div className="text-center">
-              <div className="text-2xl font-bold text-[var(--text-faint)]">{score.unattempted}</div>
-              <div className="text-xs text-[var(--text-faint)]">Unattempted</div>
-            </div>
+          <div className="grid grid-cols-3 gap-2 sm:gap-3 mb-6 max-w-2xl mx-auto">
+            {[
+              ['correct', 'Correct', score.correct, 'text-green-600', 'border-green-500/30 bg-green-500/10'],
+              ['incorrect', 'Incorrect', score.incorrect, 'text-red-600', 'border-red-500/30 bg-red-500/10'],
+              ['review', 'Marked for Review', markedForReview.size, 'text-purple-500', 'border-purple-500/30 bg-purple-500/10'],
+            ].map(([key, label, value, tone, background]) => (
+              <button
+                key={key}
+                onClick={() => setResultFilter(key)}
+                className={`rounded-xl border p-3 sm:p-4 text-left transition-colors ${resultFilter === key ? background : 'border-[var(--border)] bg-[var(--elevated-bg)] hover:bg-[var(--hover-bg)]'}`}
+              >
+                <div className={`text-2xl font-bold ${tone}`}>{value}</div>
+                <div className="text-xs text-[var(--text-faint)] mt-1">{label}</div>
+              </button>
+            ))}
           </div>
           
           {sections.length > 1 && (
@@ -802,12 +806,32 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
         </Card>
 
         <div className="space-y-3">
+          <div className="flex items-center justify-between gap-3">
+            <div>
+              <h3 className="text-base font-bold text-[var(--text-primary)]">
+                {resultFilter === 'correct' ? 'Correct Answers' : resultFilter === 'incorrect' ? 'Incorrect Answers' : 'Marked for Review'}
+              </h3>
+              <p className="text-xs text-[var(--text-faint)] mt-1">Review your responses and open solutions when you need them.</p>
+            </div>
+            <span className="text-xs text-[var(--text-faint)]">
+              {questions.filter((q, i) => {
+                const correctAnswer = q.correctAnswer || q.answer;
+                return resultFilter === 'review' ? markedForReview.has(i) : resultFilter === 'correct' ? answers[i] === correctAnswer : answers[i] !== undefined && answers[i] !== correctAnswer;
+              }).length} questions
+            </span>
+          </div>
           {questions.map((q, i) => {
             const userAnswer = answers[i];
             // Support both correctAnswer and answer field names
             const correctAnswer = q.correctAnswer || q.answer;
             const correct = userAnswer === correctAnswer;
             const attempted = userAnswer !== undefined;
+            const visibleInFilter = resultFilter === 'review'
+              ? markedForReview.has(i)
+              : resultFilter === 'correct'
+                ? correct
+                : attempted && !correct;
+            if (!visibleInFilter) return null;
             const marksPerQuestion = testData.marksPerQuestion || 1;
             const negativeMarking = testData.negativeMarking || 0;
             const questionMarks = correct ? marksPerQuestion : (attempted ? -negativeMarking : 0);
@@ -868,9 +892,23 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                 </div>
                 
                 {q.solution && (
-                  <div className="pl-8 p-3 bg-[var(--elevated-bg)] rounded-lg">
-                    <div className="text-xs font-semibold text-[var(--text-primary)] mb-1">Solution:</div>
-                    <div className="text-xs text-[var(--text-primary)] leading-relaxed" dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(q.solution))) }} />
+                  <div className="pl-8">
+                    <button
+                      onClick={() => setOpenSolutions((previous) => {
+                        const next = new Set(previous);
+                        if (next.has(i)) next.delete(i); else next.add(i);
+                        return next;
+                      })}
+                      className="text-xs font-semibold text-[var(--accent)] hover:text-[var(--text-primary)] border border-[var(--accent-soft-border)] bg-[var(--accent-soft-bg)] rounded-lg px-3 py-2"
+                    >
+                      {openSolutions.has(i) ? 'Hide Solution' : 'View Solution'}
+                    </button>
+                    {openSolutions.has(i) && (
+                      <div className="mt-2 p-3 bg-[var(--elevated-bg)] rounded-lg">
+                        <div className="text-xs font-semibold text-[var(--text-primary)] mb-1">Solution</div>
+                        <div className="text-xs text-[var(--text-primary)] leading-relaxed" dangerouslySetInnerHTML={{ __html: fixTextColors(renderMath(embedImages(q.solution))) }} />
+                      </div>
+                    )}
                   </div>
                 )}
               </Card>
