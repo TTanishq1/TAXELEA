@@ -96,6 +96,30 @@ textarea:focus-visible {
   outline-offset: 2px;
 }
 
+.sectional-subject-card {
+  background: var(--card-bg);
+  border-color: var(--border-strong);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.14);
+  transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+}
+
+.sectional-subject-card:hover {
+  border-color: color-mix(in srgb, var(--accent) 34%, var(--border-strong));
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
+}
+
+.sectional-subject-card__header {
+  min-height: 72px;
+}
+
+.sectional-subject-card__body {
+  background: color-mix(in srgb, var(--bg) 34%, var(--card-bg));
+}
+
+.sectional-subject-card__tests > div:not(.col-span-full) {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
 video {
   display: block;
   max-width: 100%;

@@ -157,8 +157,8 @@ export function SectionalMocks({ startPractice, bookmarks, toggleBookmark, curre
           const Icon = subj.icon;
           const open = openSubject === key;
           return (
-            <Card key={key} className="overflow-hidden">
-              <button onClick={() => setOpenSubject(open ? null : key)} className="w-full flex items-center justify-between px-5 py-4 hover:bg-[var(--hover-bg)]">
+            <Card key={key} className="sectional-subject-card overflow-hidden">
+              <button onClick={() => setOpenSubject(open ? null : key)} className="sectional-subject-card__header w-full flex items-center justify-between px-5 py-4 hover:bg-[var(--hover-bg)]">
                 <div className="flex items-center gap-3">
                   <div className="w-9 h-9 rounded-lg flex items-center justify-center" style={{ backgroundColor: subj.color + "22" }}>
                     <Icon size={18} style={{ color: subj.color }} />
@@ -171,7 +171,7 @@ export function SectionalMocks({ startPractice, bookmarks, toggleBookmark, curre
                 <ChevronDown size={16} className={`text-[var(--text-faint)] transition-transform ${open ? "rotate-180" : ""}`} />
               </button>
               {open && (
-                <div className="border-t border-[var(--border)]">
+                <div className="sectional-subject-card__body border-t border-[var(--border)]">
                   {/* Topic filter */}
                   <div className="px-4 sm:px-5 py-3 flex flex-wrap gap-2 border-b border-[var(--border)]">
                     <button
@@ -192,7 +192,7 @@ export function SectionalMocks({ startPractice, bookmarks, toggleBookmark, curre
                   </div>
                   
                   {/* Test cards */}
-                  <div className="px-4 sm:px-5 py-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                  <div className="sectional-subject-card__tests px-4 sm:px-5 py-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
                     {topicCards.length > 0 ? topicCards.map((card) => {
                       const bookmarked = userBookmarks.includes(card.id);
                       return (
