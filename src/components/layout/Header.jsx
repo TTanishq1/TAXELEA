@@ -34,7 +34,7 @@ export function Header({ onMenuClick, onLogout, currentUser }) {
         </button>
         {currentUser ? (
           <div className="flex items-center gap-2.5 md:gap-3 pl-1">
-            <div className="w-9 h-9 rounded-full bg-[linear-gradient(135deg,#6fe1ff,#1d9bf0)] flex items-center justify-center text-white text-sm font-semibold shrink-0">
+            <div className="w-9 h-9 rounded-full bg-[linear-gradient(135deg,var(--accent-hover),var(--accent))] flex items-center justify-center text-white text-sm font-semibold shrink-0">
               {currentUser?.user_metadata?.name?.charAt(0).toUpperCase() || currentUser?.email?.charAt(0).toUpperCase() || 'U'}
             </div>
             <div className="leading-tight hidden md:block">

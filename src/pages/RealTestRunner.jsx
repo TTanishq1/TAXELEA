@@ -1088,7 +1088,7 @@ export function RealTestRunner({ testKey, testData: propTestData, onComplete, re
                       key={o.id}
                       onClick={() => handleAnswerSelect(o.id)}
                       className={`w-full flex items-center gap-3 text-left rounded-xl px-4 py-3.5 border transition-all duration-200 ${
-                        picked ? "border-[var(--accent)] bg-[var(--accent-soft-bg)] shadow-[0_0_0_1px_rgba(29,155,240,0.16)]" : "border-[var(--border)] bg-[var(--elevated-bg)] hover:bg-[var(--hover-bg)]"
+                        picked ? "border-[var(--accent)] bg-[var(--accent-soft-bg)] shadow-[0_0_0_1px_rgba(239,68,68,0.18)]" : "border-[var(--border)] bg-[var(--elevated-bg)] hover:bg-[var(--hover-bg)]"
                       }`}
                     >
                       <span className={`shrink-0 w-7 h-7 rounded-full flex items-center justify-center text-xs font-semibold border ${

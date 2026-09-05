@@ -44,7 +44,7 @@ export function Sidebar({ page, setPage, onClose, currentUser }) {
               disabled={isLocked}
               className={`w-full flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm transition-colors relative ${
                 active
-                  ? "bg-[var(--accent-soft-bg)] text-[var(--text-primary)] shadow-inner shadow-[rgba(29,155,240,0.1)]"
+                  ? "bg-[var(--accent-soft-bg)] text-[var(--text-primary)] shadow-inner shadow-[rgba(239,68,68,0.12)]"
                   : isLocked
                   ? "text-[var(--text-faint)] cursor-not-allowed"
                   : "text-[var(--text-muted)] hover:text-[var(--text-secondary)] hover:bg-[var(--hover-bg)]"
@@ -59,7 +59,7 @@ export function Sidebar({ page, setPage, onClose, currentUser }) {
         })}
       </nav>
       {currentUser && (
-        <div className="m-3 p-4 rounded-xl border border-[var(--accent-soft-border)] bg-[linear-gradient(135deg,rgba(29,155,240,0.12),rgba(239,68,68,0.08))]">
+        <div className="m-3 p-4 rounded-xl border border-[var(--accent-soft-border)] bg-[linear-gradient(135deg,rgba(239,68,68,0.14),rgba(220,38,38,0.06))]">
           <div className="flex items-center gap-1.5 text-[var(--text-primary)] font-semibold text-sm mb-1.5">
             Keep the Streak Alive! <Flame size={14} className="text-[var(--danger-text)]" />
           </div>
